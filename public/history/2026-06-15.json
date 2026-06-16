@@ -99,7 +99,7 @@
       "dollarVolume": 16583464230.77136,
       "marketCap": 270208224000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "資料中心晶片",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": 2,
       "streak": 57
@@ -138,7 +138,7 @@
       "dollarVolume": 12743727473.90819,
       "marketCap": 1874201143200.1199,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網路晶片",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": 1,
       "streak": 67
@@ -242,7 +242,7 @@
       "dollarVolume": 5578061316.710323,
       "marketCap": 440635892438,
       "sector": "—",
-      "theme": "晶片設計",
+      "theme": "半導體 IP",
       "isNew": false,
       "rankChange": -2,
       "streak": 19
@@ -255,7 +255,7 @@
       "dollarVolume": 5559341350.006394,
       "marketCap": 309303769403.14,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "大數據分析",
+      "theme": "數據分析",
       "isNew": false,
       "rankChange": 3,
       "streak": 67
@@ -346,7 +346,7 @@
       "dollarVolume": 3919928383.406182,
       "marketCap": 159243569520,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "行動廣告",
+      "theme": "廣告科技",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -450,7 +450,7 @@
       "dollarVolume": 3102110086.693201,
       "marketCap": 232733740000,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "手機晶片",
+      "theme": "無線通訊晶片",
       "isNew": false,
       "rankChange": -3,
       "streak": 36
@@ -580,7 +580,7 @@
       "dollarVolume": 2548888591.49105,
       "marketCap": 317478136257.57,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "投資銀行",
+      "theme": "金融服務",
       "isNew": false,
       "rankChange": 0,
       "streak": 6
@@ -593,7 +593,7 @@
       "dollarVolume": 2518623026.2208285,
       "marketCap": 78079841766,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "燃料電池",
+      "theme": "能源儲存",
       "isNew": false,
       "rankChange": 2,
       "streak": 2
@@ -652,25 +652,13 @@
     }
   ],
   "asOf": "2026-06-15T20:00:00.000Z",
-  "generatedAt": "2026-06-16T06:28:31.635Z",
+  "generatedAt": "2026-06-16T08:01:19.071Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
-      "theme": "儲存裝置",
-      "reason": "AI發展帶動資料儲存需求激增，記憶體和硬碟廠商受惠於價格上漲及出貨量增加。",
-      "symbols": [
-        "MU",
-        "SNDK",
-        "WDC",
-        "STX"
-      ],
-      "count": 4,
-      "avgChange": 10.702727524837382
-    },
-    {
       "theme": "半導體設備",
-      "reason": "全球半導體產業擴張，晶圓廠積極投資先進製程設備，推動設備供應商營收成長。",
+      "reason": "全球半導體產業景氣回升，資本支出增加，帶動設備需求強勁。",
       "symbols": [
         "AMAT",
         "LRCX",
@@ -682,7 +670,7 @@
     },
     {
       "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型持續推進，對雲端服務及軟體解決方案的需求穩健增長。",
+      "reason": "企業數位轉型需求持續，雲端軟體服務訂閱模式穩定成長。",
       "symbols": [
         "MSFT",
         "ORCL",
@@ -693,18 +681,19 @@
       "avgChange": 3.7535963503726526
     },
     {
-      "theme": "AI 晶片",
-      "reason": "人工智慧技術快速發展，對高效能運算晶片的需求持續強勁，推動相關供應商股價上漲。",
+      "theme": "儲存裝置",
+      "reason": "AI 發展對數據儲存需求大增，記憶體與儲存裝置廠商受惠。",
       "symbols": [
-        "NVDA",
-        "AMD"
+        "SNDK",
+        "WDC",
+        "STX"
       ],
-      "count": 2,
-      "avgChange": 5.257373234658543
+      "count": 3,
+      "avgChange": 10.657870730270504
     },
     {
       "theme": "太空",
-      "reason": "太空探索與商業航太領域持續獲得投資，相關技術與服務供應商前景看好。",
+      "reason": "商業太空探索與衛星通訊領域持續發展，吸引市場關注。",
       "symbols": [
         "SPCX",
         "RKLB"
@@ -713,22 +702,31 @@
       "avgChange": 13.15111700807368
     },
     {
-      "theme": "雲端服務",
-      "reason": "雲端運算作為數位經濟的基石，其服務需求持續擴大，帶動相關公司業績成長。",
+      "theme": "AI 晶片",
+      "reason": "人工智慧應用快速擴張，對高效能運算晶片的需求持續增長。",
       "symbols": [
-        "GOOGL",
-        "GOOG",
-        "NBIS"
+        "NVDA",
+        "AMD"
       ],
-      "count": 3,
-      "avgChange": 5.704281520906847
+      "count": 2,
+      "avgChange": 5.257373234658543
+    },
+    {
+      "theme": "光通訊",
+      "reason": "數據中心與網路基礎設施升級，對高速光通訊元件需求增加。",
+      "symbols": [
+        "LITE",
+        "AAOI"
+      ],
+      "count": 2,
+      "avgChange": 8.590683757447975
     }
   ],
   "newEntrants": [
     {
       "symbol": "APP",
       "name": "Applovin Corporation Class A Common Stock",
-      "theme": "行動廣告",
+      "theme": "廣告科技",
       "changePercent": 4.849326650160041,
       "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
@@ -737,42 +735,42 @@
       "name": "Roku, Inc. Class A Common Stock",
       "theme": "串流媒體",
       "changePercent": -1.9212028400389745,
-      "reason": "Fox Corp. 宣布以220億美元收購Roku，推動股價上漲。"
+      "reason": "傳出潛在收購消息，且將被納入S&P MidCap 400指數。"
     },
     {
       "symbol": "CSCO",
       "name": "Cisco Systems, Inc. Common Stock (DE)",
       "theme": "網路設備",
       "changePercent": -0.7679603633360798,
-      "reason": "Cisco推出新的AI產品，並上調AI相關營收和訂單目標。"
+      "reason": "Cisco Live大會發布AI平台與產品，並上調AI基礎設施訂單目標。"
     },
     {
       "symbol": "AAOI",
       "name": "Applied Optoelectronics, Inc.",
       "theme": "光通訊",
       "changePercent": 13.30967169476486,
-      "reason": "AAOI獲得主要超大規模客戶800G資料中心收發器大訂單。"
+      "reason": "與Spectrum擴大QuantumLink軟體協議，並受AI光通訊需求加速帶動。"
     },
     {
       "symbol": "MSTR",
       "name": "Strategy Inc Common Stock Class A",
       "theme": "比特幣/加密",
       "changePercent": 5.783657336452357,
-      "reason": "公司出售股票以購買比特幣，並更新比特幣持有量。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "WMT",
       "name": "Walmart Inc. Common Stock",
       "theme": "零售",
       "changePercent": -0.18175809649703656,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "中國監管機構要求山姆會員店解決食品安全問題。"
     },
     {
       "symbol": "TXN",
       "name": "Texas Instruments Incorporated",
       "theme": "半導體",
       "changePercent": 4.058182784272041,
-      "reason": "Citi調升目標價，且受惠於AI資料中心電源晶片需求。 "
+      "reason": "受惠於AI資料中心需求，分析師上調目標價，並推出新電池監測器。"
     }
   ],
   "marketBriefing": null
