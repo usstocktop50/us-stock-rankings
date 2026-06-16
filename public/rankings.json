@@ -6,7 +6,7 @@
       "price": 160.95,
       "changePercent": 7.299999999999993,
       "dollarVolume": 85316491254.59464,
-      "marketCap": 2104560499916.2498,
+      "marketCap": 1187842692664.5,
       "sector": "—",
       "theme": "太空",
       "isNew": true,
@@ -149,7 +149,7 @@
       "price": 382.07,
       "changePercent": -0.9077469720154576,
       "dollarVolume": 10538881239.389338,
-      "marketCap": 1808974673060.88,
+      "marketCap": 1817728666249.8599,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
       "theme": "半導體",
       "isNew": false,
@@ -175,7 +175,7 @@
       "price": 566.98,
       "changePercent": -0.25508857730941925,
       "dollarVolume": 8148693912.634303,
-      "marketCap": 1245113927484.24,
+      "marketCap": 1439235244901.9202,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
       "theme": "社群媒體",
       "isNew": false,
@@ -216,7 +216,7 @@
       "dollarVolume": 6162890779.364003,
       "marketCap": 406735072595.6,
       "sector": "—",
-      "theme": "半導體 IP",
+      "theme": "IP 設計",
       "isNew": false,
       "rankChange": 18,
       "streak": 18
@@ -344,7 +344,7 @@
       "price": 232.36,
       "changePercent": 4.55363570914327,
       "dollarVolume": 4027484673.50068,
-      "marketCap": 50994907847.68,
+      "marketCap": 58995784357.840004,
       "sector": "—",
       "theme": "雲端服務",
       "isNew": false,
@@ -487,7 +487,7 @@
       "price": 102.15,
       "changePercent": -0.9022118742724026,
       "dollarVolume": 2632695818.2534223,
-      "marketCap": 105316650000,
+      "marketCap": 105348112200,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
       "theme": "雲端軟體 SaaS",
       "isNew": false,
@@ -528,7 +528,7 @@
       "dollarVolume": 2591072704.558486,
       "marketCap": 18319206961.72,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "AI 伺服器",
+      "theme": "伺服器",
       "isNew": false,
       "rankChange": -25,
       "streak": 3
@@ -552,7 +552,7 @@
       "price": 395.57,
       "changePercent": 1.052497126069742,
       "dollarVolume": 2417599910.9081697,
-      "marketCap": 128573773747.16,
+      "marketCap": 128510265774.8,
       "sector": "ELECTRONIC COMPUTERS",
       "theme": "電子電腦",
       "isNew": false,
@@ -580,7 +580,7 @@
       "dollarVolume": 2344098838.5701103,
       "marketCap": 313519136667.75,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "金融服務",
+      "theme": "投資銀行",
       "isNew": false,
       "rankChange": 2,
       "streak": 5
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-06-12T20:00:00.000Z",
-  "generatedAt": "2026-06-13T08:31:57.097Z",
+  "generatedAt": "2026-06-16T02:07:05.900Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "儲存裝置",
-      "reason": "隨著資料量持續增長，市場對高效能儲存解決方案的需求不斷提升，帶動相關個股表現。",
+      "reason": "市場對資料儲存需求持續增長，帶動相關硬體廠商表現。",
       "symbols": [
         "SNDK",
         "WDC",
@@ -669,7 +669,7 @@
     },
     {
       "theme": "半導體設備",
-      "reason": "全球半導體產業擴張，資本支出增加，推動半導體設備供應商的營收成長。",
+      "reason": "半導體產業景氣復甦預期，帶動上游設備供應商股價上漲。",
       "symbols": [
         "AMAT",
         "LRCX",
@@ -680,26 +680,26 @@
     },
     {
       "theme": "半導體",
-      "reason": "半導體產業受惠於AI、5G等新興技術發展，需求持續強勁，部分個股表現亮眼。",
+      "reason": "整體半導體產業受惠於AI及其他新興技術發展，資金持續關注。",
       "symbols": [
-        "INTC",
-        "QCOM"
-      ],
-      "count": 2,
-      "avgChange": 5.411309675624287
-    },
-    {
-      "theme": "太空",
-      "reason": "太空探索與衛星通訊領域的商業化進程加速，吸引投資者關注相關企業的成長潛力。",
-      "symbols": [
-        "SPCX"
+        "INTC"
       ],
       "count": 1,
-      "avgChange": 7.299999999999993
+      "avgChange": 6.506497948016415
     },
     {
-      "theme": "半導體 IP",
-      "reason": "AI晶片設計需求旺盛，半導體IP供應商受惠於授權金與版稅收入增加。",
+      "theme": "AI 晶片",
+      "reason": "AI技術的快速發展持續推動對高效能晶片的需求，相關供應商受市場追捧。",
+      "symbols": [
+        "NVDA",
+        "AMD"
+      ],
+      "count": 2,
+      "avgChange": 2.444768385063742
+    },
+    {
+      "theme": "IP 設計",
+      "reason": "智慧財產權（IP）設計公司在半導體產業鏈中扮演關鍵角色，受惠於晶片設計需求。",
       "symbols": [
         "ARM"
       ],
@@ -708,7 +708,7 @@
     },
     {
       "theme": "比特幣/加密",
-      "reason": "加密貨幣市場波動，但部分挖礦或相關服務提供商仍受資金青睞。",
+      "reason": "加密貨幣市場波動，相關挖礦或金融服務公司股價受影響。",
       "symbols": [
         "IREN"
       ],
@@ -722,108 +722,57 @@
       "name": "Space Exploration Technologies Corp. Class A Common Stock",
       "theme": "太空",
       "changePercent": 7.299999999999993,
-      "reason": "SpaceX於6月12日IPO上市，估值達1.77兆美元，引發市場關注。"
+      "reason": "SpaceX成功完成首次公開募股，募資857億美元，推動股價上漲。"
     },
     {
       "symbol": "SATS",
       "name": "EchoStar Corporation",
       "theme": "衛星通訊",
       "changePercent": -10.965425739483335,
-      "reason": "EchoStar因未支付子公司DISH DBS的利息，引發違約和流動性擔憂。 此外，市場也關注其與SpaceX的170億美元頻譜交易。"
+      "reason": "分析師調整EchoStar估值，反映其SpaceX持股及IPO後股價。"
     },
     {
       "symbol": "ASTS",
       "name": "AST SpaceMobile, Inc. Class A Common Stock",
       "theme": "衛星通訊",
       "changePercent": -15.528905289052897,
-      "reason": "AST SpaceMobile的股價下跌，主要受SpaceX上市後太空類股震盪影響。 儘管製造進度良好，但Blue Origin發射問題增加執行疑慮。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "CRWV",
       "name": "CoreWeave, Inc. Class A Common Stock",
       "theme": "雲端運算",
       "changePercent": 5.024023396699397,
-      "reason": "CoreWeave因被選入Nasdaq-100指數，以及AI基礎設施擴張的樂觀情緒而上漲。"
+      "reason": "CoreWeave確認將被納入那斯達克100指數，引發指數基金買盤。"
     },
     {
       "symbol": "UNH",
       "name": "UNITEDHEALTH GROUP INCORPORATED (Delaware)",
       "theme": "醫療保險",
       "changePercent": 0.732338799161625,
-      "reason": "UnitedHealth Group宣布第二季度財報日期，並推出AI醫療聊天機器人Avery。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "STX",
       "name": "Seagate Technology Holdings PLC Ordinary Shares (Ireland)",
       "theme": "儲存裝置",
       "changePercent": 7.251552258406378,
-      "reason": "Seagate宣布贖回可交換優先票據，旨在消除約1.5億美元債務。"
+      "reason": "摩根士丹利調升Seagate Technology目標價，給予「增持」評級。"
     },
     {
       "symbol": "AAL",
       "name": "American Airlines Group Inc.",
       "theme": "航空",
       "changePercent": 2.2525597269624575,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "美國與伊朗達成和平協議，油價下跌，降低燃油成本。"
     },
     {
       "symbol": "BE",
       "name": "Bloom Energy Corporation",
       "theme": "燃料電池",
       "changePercent": 4.556412729026049,
-      "reason": "Bloom Energy受惠於與Oracle擴大合作，為AI基礎設施部署燃料電池。"
+      "reason": "Bloom Energy與Oracle擴大合作，為AI基礎設施部署燃料電池。"
     }
   ],
-  "marketBriefing": {
-    "highlights": "本日美股成交重點集中在太空、半導體及儲存裝置等題材。SpaceX (SPCX) 的公開市場首秀吸引了大量資金，使其成為當日成交金額最高的個股，並帶動了太空概念股的關注度。同時，市場對AI晶片及記憶體的需求持續強勁，推動了Intel (INTC) 和Sandisk (SNDK) 等半導體及儲存裝置相關個股的成交量。整體而言，市場在交易著AI相關基礎建設的長期成長故事，以及新興太空經濟的潛力。",
-    "eventsPast": [
-      {
-        "title": "SpaceX 正式掛牌交易",
-        "detail": "馬斯克旗下太空探索公司SpaceX (SPCX) 於週五正式掛牌交易，首日股價勁揚19.34%，市值衝上2.1兆美元，躋身美國市值第六大上市公司，並帶動特斯拉股價回升。"
-      },
-      {
-        "title": "美國5月CPI數據公布",
-        "detail": "美國5月消費者物價指數（CPI）年增4.2%，創三年來新高，但核心CPI月增0.2%低於預期，顯示通膨壓力仍在但核心通膨有所緩解。"
-      },
-      {
-        "title": "美國5月非農就業報告超預期",
-        "detail": "美國5月非農就業人數增加17.2萬人，遠高於市場預期的8.5萬人，顯示勞動力市場仍具韌性，降低了聯準會近期降息的必要性。"
-      },
-      {
-        "title": "Adobe財務長跳槽Marvell Technology",
-        "detail": "Adobe (ADBE) 股價大跌6.7%，因財務長Dan Durn將於6月15日離職，轉任Marvell Technology (MRVL) 財務長。"
-      },
-      {
-        "title": "英特爾傳獲輝達、Google下單",
-        "detail": "市場傳出輝達 (NVDA) 與Google (GOOGL) 可能將英特爾 (INTC) 列為先進處理器生產的備援代工夥伴，加上伺服器CPU需求強勁，推升英特爾股價大漲。"
-      }
-    ],
-    "eventsUpcoming": [
-      {
-        "date": "6/16-17",
-        "title": "FOMC利率決議與主席記者會",
-        "detail": "聯準會將召開聯邦公開市場委員會（FOMC）利率會議，這是新任主席華許（Kevin Warsh）上任後的首秀，市場將關注利率決議、最新經濟預測及點陣圖變化。"
-      },
-      {
-        "date": "6月底",
-        "title": "核心PCE物價指數公布",
-        "detail": "聯準會最看重的通膨指標——核心個人消費支出物價指數（PCE）將公布，其數據可能再次引爆市場劇烈重定價。"
-      },
-      {
-        "date": "7月初",
-        "title": "美國6月非農就業數據",
-        "detail": "美國將公布6月非農就業數據，強勁的數據可能再次壓抑降息空間。"
-      },
-      {
-        "date": "本週四",
-        "title": "美國生產者物價指數 (PPI)",
-        "detail": "美國將公布生產者物價指數，此數據將提供更多通膨壓力相關資訊。"
-      },
-      {
-        "date": "本週五",
-        "title": "美國密大消費者信心指數",
-        "detail": "美國將公布密西根大學消費者信心指數，此數據將反映消費者對經濟前景的看法。"
-      }
-    ]
-  }
+  "marketBriefing": null
 }
