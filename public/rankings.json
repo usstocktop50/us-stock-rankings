@@ -125,7 +125,7 @@
       "dollarVolume": 12001650488.299822,
       "marketCap": 1792228036388.5798,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網路晶片",
+      "theme": "資料中心晶片",
       "isNew": false,
       "rankChange": 1,
       "streak": 68
@@ -268,7 +268,7 @@
       "dollarVolume": 5075219983.456449,
       "marketCap": 423322335738.39996,
       "sector": "—",
-      "theme": "IP 設計",
+      "theme": "IC 設計 IP",
       "isNew": false,
       "rankChange": -2,
       "streak": 20
@@ -281,7 +281,7 @@
       "dollarVolume": 4972046535.936996,
       "marketCap": 52379578081.17,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體 SaaS",
+      "theme": "AI 雲端服務",
       "isNew": false,
       "rankChange": 27,
       "streak": 3
@@ -333,7 +333,7 @@
       "dollarVolume": 4013308330.278758,
       "marketCap": 305951505255.5,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "資料分析軟體",
+      "theme": "大數據分析",
       "isNew": false,
       "rankChange": -6,
       "streak": 68
@@ -372,7 +372,7 @@
       "dollarVolume": 3411358732.1976576,
       "marketCap": 31001829558.93,
       "sector": "OPTICAL INSTRUMENTS & LENSES",
-      "theme": "半導體檢測",
+      "theme": "半導體設備",
       "isNew": false,
       "rankChange": -5,
       "streak": 8
@@ -424,7 +424,7 @@
       "dollarVolume": 3222111635.3004775,
       "marketCap": 541645743180.00006,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "資料庫軟體",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": -5,
       "streak": 68
@@ -580,7 +580,7 @@
       "dollarVolume": 2415399258.5963917,
       "marketCap": 152694362911.5,
       "sector": "DRAWING & INSULATING OF NONFERROUS WIRE",
-      "theme": "光纖通訊",
+      "theme": "光學材料",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-06-16T20:00:00.000Z",
-  "generatedAt": "2026-06-17T05:43:03.305Z",
+  "generatedAt": "2026-06-17T07:44:30.114Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "儲存裝置",
-      "reason": "隨著資料量持續增長，對高效能儲存解決方案的需求推動了相關公司的營收增長。",
+      "reason": "隨著資料量持續增長，對高效能儲存解決方案的需求推動了相關公司的營收成長。",
       "symbols": [
         "WDC",
         "STX"
@@ -668,27 +668,18 @@
     },
     {
       "theme": "雲端服務",
-      "reason": "雲端運算和數據服務的持續擴張，使得相關平台和基礎設施提供商受到市場青睞。",
+      "reason": "企業數位轉型和AI應用擴展，持續推動雲端服務需求增長。",
       "symbols": [
         "GOOGL",
-        "NBIS",
-        "GOOG"
+        "GOOG",
+        "NBIS"
       ],
       "count": 3,
       "avgChange": 1.358957130842403
     },
     {
-      "theme": "雲端軟體 SaaS",
-      "reason": "企業對數位轉型和效率提升的需求，持續推動雲端軟體即服務（SaaS）解決方案的採用。",
-      "symbols": [
-        "CRWV"
-      ],
-      "count": 1,
-      "avgChange": 9.67107112735452
-    },
-    {
       "theme": "太空",
-      "reason": "商業太空探索和衛星服務領域的發展潛力，吸引了投資者的關注。",
+      "reason": "商業太空探索和衛星服務市場的持續擴張，吸引了投資者對相關公司的關注。",
       "symbols": [
         "SPCX"
       ],
@@ -696,8 +687,17 @@
       "avgChange": 4.831168831168837
     },
     {
+      "theme": "AI 雲端服務",
+      "reason": "AI技術的快速發展帶動了對高效能雲端運算資源的需求，使得提供AI雲端服務的公司受到青睞。",
+      "symbols": [
+        "CRWV"
+      ],
+      "count": 1,
+      "avgChange": 9.67107112735452
+    },
+    {
       "theme": "銀行",
-      "reason": "在經濟前景相對穩定的情況下，大型銀行因其穩健的業務表現和股息吸引力而受到青睞。",
+      "reason": "在經濟數據表現穩健的背景下，市場對銀行業的盈利前景保持樂觀。",
       "symbols": [
         "JPM"
       ],
@@ -706,7 +706,7 @@
     },
     {
       "theme": "支付服務",
-      "reason": "數位支付的普及和全球交易量的增長，持續為支付服務公司帶來穩定的收入。",
+      "reason": "全球數位支付的普及和電子商務的發展，持續推動支付服務公司的業務增長。",
       "symbols": [
         "V"
       ],
@@ -720,100 +720,100 @@
       "name": "VISA Inc.",
       "theme": "支付服務",
       "changePercent": 2.871965906985366,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "Visa宣布與OpenAI合作，推動AI商務創新，並與洛克斐勒中心建立合作夥伴關係。"
     },
     {
       "symbol": "SATS",
       "name": "EchoStar Corporation",
       "theme": "衛星通訊",
       "changePercent": 2.634369829890132,
-      "reason": "SpaceX IPO消息帶動，EchoStar持有SpaceX股份受市場關注。"
+      "reason": "EchoStar因SpaceX首次公開募股而股價飆升，市場關注其SpaceX持股價值。"
     },
     {
       "symbol": "CAT",
       "name": "Caterpillar Inc.",
       "theme": "重型機械",
       "changePercent": 1.2345679012345772,
-      "reason": "受惠於AI資料中心對發電解決方案的需求增加，以及強勁的財報和回購計畫。"
+      "reason": "Caterpillar受惠於AI資料中心對發電設備的需求增長，並提高季度股息。"
     },
     {
       "symbol": "CRM",
       "name": "Salesforce, Inc.",
       "theme": "雲端軟體 SaaS",
       "changePercent": -1.7259191735034964,
-      "reason": "近期宣布裁員並收購m3ter平台，市場對其AI轉型和獲利能力有疑慮。"
+      "reason": "Salesforce宣布擴大與Databricks的合作夥伴關係，強化AI能力。"
     },
     {
       "symbol": "GLW",
       "name": "Corning Incorporated",
-      "theme": "光纖通訊",
+      "theme": "光學材料",
       "changePercent": -5.567383436235899,
-      "reason": "與Amazon達成數十億美元光纖供應協議，強化AI資料中心基礎設施地位。"
+      "reason": "Corning因與Amazon、Meta和NVIDIA達成AI基礎設施光纖供應協議而受關注。"
     },
     {
       "symbol": "COHR",
       "name": "Coherent Corp.",
       "theme": "光學元件",
       "changePercent": -7.498066885752943,
-      "reason": "AI資料中心技術進展、獲分析師上調目標價，並被納入S&P 500指數。"
+      "reason": "Coherent獲得CHIPS法案5000萬美元資金，擴大AI基礎設施製造。"
     },
     {
       "symbol": "ALAB",
       "name": "Astera Labs, Inc. Common Stock",
       "theme": "資料中心晶片",
       "changePercent": -7.06320657759507,
-      "reason": "宣布將被納入Nasdaq-100指數，吸引指數型基金買盤。"
+      "reason": "Astera Labs因納斯達克100指數納入後出現獲利回吐，股價下跌。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股市場資金主要集中在太空、記憶體和部分AI相關晶片股。SpaceX (SPCX) 在上市後持續強勁上漲，透過收購AI軟體公司Anysphere，進一步強化其在AI領域的佈局，成為市場焦點並帶動大量成交量。記憶體族群如美光 (MU) 和儲存裝置股如Western Digital (WDC) 也因AI對記憶體需求的激增而受到關注，分析師普遍看好記憶體產業的榮景將持續數季。儘管部分科技股回落，但資金輪動效應明顯，市場正在交易AI產業發展和相關基礎設施建置的故事。",
+    "highlights": "本日美股成交重點聚焦於新上市的太空題材股SPCX，其IPO熱度與樂觀成長藍圖吸引大量資金湧入，帶動股價連續強彈，甚至一度超越亞馬遜成為全球第五大市值企業。 另一方面，AI晶片與記憶體等先前漲多的半導體族群，如MU、NVDA、SNDK、MRVL和AMD，則面臨資金輪動與獲利了結賣壓，導致股價普遍下跌。 儲存裝置類股WDC則受惠於AI記憶體需求強勁及外資調高目標價而逆勢上漲。",
     "eventsPast": [
       {
-        "title": "SpaceX 收購AI軟體公司Anysphere",
-        "detail": "SpaceX 宣布將以600億美元收購AI程式開發新創公司Anysphere，此舉被視為擴大其在企業AI市場佈局的重要一步，並有助於強化旗下xAI在AI編碼領域的競爭力。"
+        "title": "SpaceX (SPCX) IPO後股價連三日強彈",
+        "detail": "SpaceX於6月12日掛牌上市後，股價持續強勁上漲，市值一度突破2.5兆美元，超越亞馬遜成為全球第五大企業。"
       },
       {
-        "title": "美光科技獲分析師上調目標價",
-        "detail": "TD Cowen和RBC Capital Markets分析師雙雙大幅調升美光科技(MU)的目標價，看好AI運算對記憶體需求的持續增長，預計記憶體價格的強勢表現有望延續至明年下半年。"
+        "title": "儲存裝置類股受惠於AI記憶體需求",
+        "detail": "Western Digital (WDC) 受惠於AI驅動的高容量企業級儲存解決方案需求增加，以及分析師調升目標價，股價勁揚。"
       },
       {
-        "title": "Intel 開始量產最先進晶片製程",
-        "detail": "Intel 宣布已開始量產最先進的18A-P晶片製程，此舉被認為是其技術實力的一大突破，並有望吸引更多訂單，甚至可能為蘋果代工晶片。"
+        "title": "AI晶片與記憶體股面臨獲利了結賣壓",
+        "detail": "Micron (MU)、SanDisk (SNDK)、Marvell (MRVL) 和AMD等AI相關半導體股票，因資金轉向SpaceX新股以及漲多回檔，股價普遍下跌。"
       },
       {
-        "title": "美國5月新屋開工數創2020年5月以來新低",
-        "detail": "美國5月新屋開工數降至年率117.7萬套，創2020年5月以來新低，主要受多戶住宅開工驟降影響，顯示整體開工動能降溫。"
+        "title": "Google宣布擴建數據中心",
+        "detail": "Alphabet (GOOGL) 旗下Google宣布將投入15億美元擴建其在阿拉巴馬州的數據中心業務。"
       },
       {
-        "title": "AMD 收購MEXT以應對記憶體需求",
-        "detail": "超微(AMD)宣布將透過收購MEXT，以因應AI資料中心對於記憶體需求的激增，MEXT的技術可讓NAND Flash像DRAM般運作，有助於降低對DRAM的依賴。"
+        "title": "微軟放棄與甲骨文的雲端租賃交易",
+        "detail": "微軟 (MSFT) 出於安全擔憂，放棄了一筆30億美元的甲骨文 (ORCL) 雲端計算容量租賃交易，並正尋求與其他雲服務提供商合作。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "本週三",
-        "title": "美國零售銷售數據公佈",
-        "detail": "市場預期美國零售銷售數據將連續第二個月增長0.5%，顯示消費者支出依然強勁。"
+        "date": "7/22",
+        "title": "Tesla (TSLA) 財報",
+        "detail": "Tesla預計於7月22日公布財報，投資人可關注其電動車業務表現及對AI發展的展望。"
       },
       {
-        "date": "本週三",
-        "title": "聯邦公開市場委員會(FOMC)公告",
-        "detail": "市場普遍預期此次會議不會調整利率，但可能會朝中立立場邊緣移動，顯示出對通膨壓力的更嚴格態度。"
+        "date": "本週四",
+        "title": "SpaceX (SPCX) 選擇權到期",
+        "detail": "SpaceX選擇權於本週二正式開始交易，首批合約將於本週四到期，可能會加劇股價波動。"
       },
       {
-        "date": "本週三",
-        "title": "Fed主席記者會",
-        "detail": "Fed主席將針對最新經濟預測進行詳細說明，並解答投資者的疑問，市場參與者急切希望獲得更多政策方向的暗示。"
+        "date": "未來幾天",
+        "title": "聯準會 (Fed) 利率決策會議",
+        "detail": "聯邦公開市場委員會 (FOMC) 即將召開為期兩天的貨幣政策會議，為新任聯準會主席主持的首場會議，市場將密切關注利率決策與最新經濟預測。"
       },
       {
-        "date": "本週",
-        "title": "美國重要經濟數據",
-        "detail": "本週美國將公佈多項重要經濟數據，可能影響市場走勢。"
+        "date": "未來幾天",
+        "title": "蘋果 (AAPL) 新品發表週期",
+        "detail": "蘋果正籌備有史以來規模最大的新品發表週期，包括搭載鏡頭的AI AirPods、第二代摺疊螢幕手機、iPhone 20週年紀念款，計劃於2027年底前集中落地。"
       },
       {
-        "date": "2026年第三季度",
-        "title": "SpaceX與Anysphere合併完成",
-        "detail": "SpaceX預計與AI軟體公司Anysphere的合併將於2026年第三季度完成，此合併案將進一步強化SpaceX在AI領域的競爭力。"
+        "date": "未來幾天",
+        "title": "AMD「Advancing AI 2026」年度大會",
+        "detail": "AMD宣布將舉辦「Advancing AI 2026」年度大會，預期將公布更多AI相關產品與技術進展。"
       }
     ]
   }
