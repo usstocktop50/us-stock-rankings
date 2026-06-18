@@ -320,7 +320,7 @@
       "dollarVolume": 4306063381.429238,
       "marketCap": 299935798360.42,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "資料分析軟體",
+      "theme": "大數據分析",
       "isNew": false,
       "rankChange": 1,
       "streak": 69
@@ -437,7 +437,7 @@
       "dollarVolume": 3164430407.2630005,
       "marketCap": 51564993512.189995,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端基礎設施",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": -12,
       "streak": 4
@@ -476,7 +476,7 @@
       "dollarVolume": 3096139530.064987,
       "marketCap": 527840722380,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "資料庫軟體",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": -4,
       "streak": 69
@@ -502,7 +502,7 @@
       "dollarVolume": 2656458416.944653,
       "marketCap": 686961086836.5599,
       "sector": "FIRE, MARINE & CASUALTY INSURANCE",
-      "theme": "綜合保險",
+      "theme": "多元控股",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -567,7 +567,7 @@
       "dollarVolume": 2573085248.1635346,
       "marketCap": 940087890580.15,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售百貨",
+      "theme": "零售",
       "isNew": false,
       "rankChange": -7,
       "streak": 3
@@ -652,28 +652,28 @@
     }
   ],
   "asOf": "2026-06-17T20:00:00.000Z",
-  "generatedAt": "2026-06-18T05:37:33.492Z",
+  "generatedAt": "2026-06-18T07:28:19.276Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "半導體設備與設計",
-      "reason": "全球半導體產業景氣回升，AI需求持續推動相關設備與設計公司訂單增長，市場對其未來獲利能力抱持樂觀態度。",
+      "reason": "全球對AI晶片的需求持續增長，帶動上游半導體設備與設計公司的訂單與營收預期。",
       "symbols": [
         "AVGO",
         "MRVL",
         "AMAT",
-        "INTC",
         "ASML",
         "LRCX",
-        "KLAC"
+        "KLAC",
+        "INTC"
       ],
       "count": 7,
       "avgChange": 3.0640630942766167
     },
     {
       "theme": "儲存裝置",
-      "reason": "記憶體與儲存產業受惠於AI伺服器需求及終端市場復甦，產品價格止跌回升，帶動相關廠商股價上漲。",
+      "reason": "AI與數據中心發展對儲存容量的需求激增，推動記憶體與儲存裝置產業景氣復甦。",
       "symbols": [
         "WDC",
         "STX",
@@ -684,17 +684,18 @@
     },
     {
       "theme": "太空",
-      "reason": "太空探索與衛星通訊領域持續受到關注，新技術發展和商業應用前景吸引資金投入。",
+      "reason": "太空探索與衛星通訊領域持續受到關注，相關技術與服務公司展現成長潛力。",
       "symbols": [
-        "RKLB",
-        "ASTS"
+        "NBIS",
+        "ARM",
+        "RKLB"
       ],
-      "count": 2,
-      "avgChange": 3.534009988011025
+      "count": 3,
+      "avgChange": 4.950860736947876
     },
     {
       "theme": "金融科技",
-      "reason": "數位支付與線上券商等金融科技服務持續滲透市場，創新模式吸引年輕世代用戶，推動相關公司成長。",
+      "reason": "數位金融服務的普及化，使得金融科技公司在市場上仍具備成長動能。",
       "symbols": [
         "HOOD",
         "SOFI"
@@ -704,7 +705,7 @@
     },
     {
       "theme": "電力基礎建設",
-      "reason": "全球能源轉型與電網現代化需求增加，推動電力基礎建設相關設備與服務供應商的業務成長。",
+      "reason": "全球能源轉型與電網現代化需求，使得電力基礎建設相關公司受惠。",
       "symbols": [
         "GEV"
       ],
@@ -712,13 +713,14 @@
       "avgChange": 6.7704993128721815
     },
     {
-      "theme": "半導體 IP",
-      "reason": "AI晶片設計需求激增，對高效能、低功耗的半導體IP授權需求旺盛，推升相關公司價值。",
+      "theme": "AI 晶片",
+      "reason": "AI技術的快速發展持續推動對高效能AI晶片的需求，相關供應商受市場追捧。",
       "symbols": [
-        "ARM"
+        "AMD",
+        "TSM"
       ],
-      "count": 1,
-      "avgChange": 5.687036382903573
+      "count": 2,
+      "avgChange": 1.2536218945365736
     }
   ],
   "newEntrants": [
@@ -727,95 +729,100 @@
       "name": "SERVICENOW, INC.",
       "theme": "雲端軟體 SaaS",
       "changePercent": -5.773216224217896,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "市場對其AI合作夥伴關係和企業工作流程擴展的樂觀情緒，但安全漏洞造成壓力。"
     },
     {
       "symbol": "BRK.B",
       "name": "BERKSHIRE HATHAWAY Class B",
-      "theme": "綜合保險",
+      "theme": "多元控股",
       "changePercent": -0.7414890392969019,
-      "reason": "巴菲特繼任者Greg Abel承諾向Alphabet投資100億美元。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "ASTS",
       "name": "AST SpaceMobile, Inc. Class A Common Stock",
       "theme": "衛星通訊",
       "changePercent": 3.8662613981763,
-      "reason": "成功部署BlueBird衛星，證明其快速擴展部署能力。"
+      "reason": "成功部署BlueBird衛星，展示快速擴展部署能力。"
     },
     {
       "symbol": "GS",
       "name": "Goldman Sachs Group Inc.",
       "theme": "投資銀行",
       "changePercent": 0.7765868686220421,
-      "reason": "擔任SpaceX IPO主承銷商，預計獲得巨額承銷費用。"
+      "reason": "受惠於AI支出增加、IPO市場熱絡，以及併購交易額創紀錄。"
     },
     {
       "symbol": "UNH",
       "name": "UNITEDHEALTH GROUP INCORPORATED (Delaware)",
       "theme": "醫療保險",
       "changePercent": -1.9919048203115428,
-      "reason": "提高全年調整後每股盈餘指引並調升季度股息。"
+      "reason": "上調全年調整後每股盈餘指引並提高季度股息。"
     },
     {
       "symbol": "BAC",
       "name": "Bank of America Corporation",
       "theme": "銀行",
       "changePercent": -0.5453905700211158,
-      "reason": "推出跨境即時支付解決方案，擴大全球支付選擇。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "SOFI",
       "name": "SoFi Technologies, Inc. Common Stock",
       "theme": "金融科技",
       "changePercent": -1.637492941840763,
-      "reason": "執行長Anthony Noto進行限制性股票單位結算。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點集中在半導體設備與設計、記憶體和儲存裝置等AI相關族群。資金主要受到聯準會鷹派立場、地緣政治風險趨緩以及AI需求持續增長的綜合影響。Marvell Technology (MRVL) 和 Broadcom (AVGO) 等半導體公司因被納入S&P 500指數、AI基礎建設需求及分析師看好而帶動成交量。此外，美光 (MU) 也因HBM記憶體需求強勁，財報前夕獲得華爾街上調目標價，成為市場焦點。",
+    "highlights": "本日美股成交重點聚焦於AI、半導體與太空題材，SpaceX (SPCX) 的IPO及其在AI基礎設施的佈局是主要驅動力，帶動相關半導體設備與記憶體個股成交量放大。市場正在交易AI算力需求從雲端延伸至太空基礎建設的故事，同時也關注記憶體因AI需求激增而出現的「超級循環」現象。",
     "eventsPast": [
       {
-        "title": "聯準會FOMC會議維持利率不變，聲明轉趨鷹派",
-        "detail": "聯準會新任主席華許（Kevin Warsh）首次主持FOMC會議，決議維持利率不變，但聲明大幅精簡並刪除偏向降息的措辭，同時上修通膨預測，市場解讀為鷹派訊號。"
+        "title": "SpaceX IPO與AI佈局",
+        "detail": "SpaceX (SPCX) 近期完成IPO，股價飆升，並宣布收購AI程式編輯新創公司Cursor，以及計劃斥資550億美元興建半導體工廠「Terafab」以生產AI晶片，強化其在AI半導體領域的佈局。"
       },
       {
-        "title": "半導體族群受AI與地緣政治題材推升",
-        "detail": "Marvell Technology (MRVL) 受惠於AI地緣政治題材，股價飆漲逾10%，同時Broadcom (AVGO)、Intel (INTC) 等晶片股也同步走揚。"
+        "title": "AMD收購MEXT",
+        "detail": "超微半導體 (AMD) 宣布收購MEXT，一家專注於記憶體最佳化技術的企業，旨在應對記憶體成本飆升的壓力。"
       },
       {
-        "title": "Intel 18A-P製程進入風險生產階段",
-        "detail": "英特爾 (INTC) 宣布其18A製程節點的升級版本「18A-P」已正式進入風險生產階段，此製程針對數據中心CPU、AI和高性能計算半導體進行優化。"
+        "title": "輝達發債籌資",
+        "detail": "輝達 (NVDA) 計劃透過發行債券籌集至少200億美元資金，這是公司自AI熱潮開始以來首次進入債券市場籌資。"
       },
       {
-        "title": "Marvell Technology 將納入S&P 500指數",
-        "detail": "Marvell Technology (MRVL) 因被納入S&P 500指數，引發被動式基金的強制性買盤，加上Nvidia執行長黃仁勳看好其在AI資料中心供應鏈的關鍵地位，股價勁揚。"
+        "title": "美商務部暫緩AI管制",
+        "detail": "美國商務部暫緩將部分中國AI企業列入出口管制實體清單，為中美AI與半導體供應鏈釋出短線降溫訊號。"
       },
       {
-        "title": "美光科技 (MU) 財報前獲華爾街看好",
-        "detail": "記憶體大廠美光 (MU) 因HBM產能售罄，以及AI記憶體需求強勁，在財報前夕獲得多家華爾街分析師上調目標價，股價創下歷史新高。"
+        "title": "記憶體晶片短缺警告",
+        "detail": "美國多個產業團體警告，AI熱潮推升記憶體晶片需求，導致汽車、醫療設備等產業面臨日益嚴重的晶片短缺威脅，並呼籲政府擴大供應。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "6/24",
-        "title": "美光科技 (MU) 公布最新一季財報",
-        "detail": "美光科技預計於6月24日盤後公布最新一季財報，市場高度關注其AI記憶體需求與獲利前景。"
-      },
-      {
         "date": "本週四",
-        "title": "美國5月核心PCE與就業數據",
-        "detail": "市場將密切關注美國5月核心PCE與就業數據，以評估聯準會未來的貨幣政策走向。"
+        "title": "Adobe第一季財報",
+        "detail": "Adobe (ADBE) 將於本週四盤後公布第一季財報，市場預期營收與EPS均將呈現年度成長。"
       },
       {
-        "date": "7/2",
-        "title": "美國非農就業人口數",
-        "detail": "美國勞動部將公布6月份非農就業人口數，此數據對市場預期聯準會的升息機率有顯著影響。"
+        "date": "未來幾天",
+        "title": "聯準會利率決策與主席發言",
+        "detail": "美國聯準會 (Fed) 將公布最新利率決策，市場將聚焦新任主席華許 (Kevin Warsh) 上任後的首場記者會，以解讀未來貨幣政策方向。"
       },
       {
-        "date": "未定",
-        "title": "聯準會主席華許關於溝通、資產負債表等議題的工作小組訊息",
-        "detail": "聯準會新任主席華許已成立五大工作小組，針對聯準會溝通、資產負債表、數據使用與依賴、生產力與就業、通膨框架進行討論，預計六週後將有更多訊息釋出。"
+        "date": "未來幾天",
+        "title": "甲骨文第三季財報",
+        "detail": "甲骨文 (ORCL) 將公布第三季財報，市場預期營收與獲利將有顯著成長，同時公司正進行裁員重組以擴大AI資料中心支出。"
+      },
+      {
+        "date": "未來幾天",
+        "title": "UiPath第四季財報",
+        "detail": "自動化軟體公司UiPath (PATH) 將發布第四季財報，分析師預估營收將年增，但獲利可能小幅下滑。"
+      },
+      {
+        "date": "未來幾天",
+        "title": "高通潛在收購Tenstorrent",
+        "detail": "傳高通正在洽談收購AI晶片新創公司Tenstorrent，潛在價格在80億至100億美元之間，以擴展自身AI晶片能力。"
       }
     ]
   }
