@@ -177,7 +177,7 @@
       "dollarVolume": 8682306156.8004,
       "marketCap": 2646248921256,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "雲端服務",
+      "theme": "電商與雲端",
       "isNew": false,
       "rankChange": -1,
       "streak": 68
@@ -333,7 +333,7 @@
       "dollarVolume": 4013308330.278758,
       "marketCap": 305951505255.5,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "AI 軟體",
+      "theme": "資料分析軟體",
       "isNew": false,
       "rankChange": -6,
       "streak": 68
@@ -528,7 +528,7 @@
       "dollarVolume": 2674028947.228438,
       "marketCap": 588002204401.3201,
       "sector": "PETROLEUM REFINING",
-      "theme": "石油天然氣",
+      "theme": "石油與天然氣",
       "isNew": false,
       "rankChange": -8,
       "streak": 6
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-06-16T20:00:00.000Z",
-  "generatedAt": "2026-06-17T09:40:10.839Z",
+  "generatedAt": "2026-06-18T02:05:09.026Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "儲存裝置",
-      "reason": "市場預期儲存需求回升，帶動相關公司股價表現。",
+      "reason": "隨著資料量持續增長，對高效能儲存解決方案的需求推動了相關公司的業績增長。",
       "symbols": [
         "WDC",
         "STX"
@@ -668,7 +668,7 @@
     },
     {
       "theme": "雲端服務",
-      "reason": "雲端運算持續成長，大型雲端服務提供商營收穩健。",
+      "reason": "企業數位轉型和AI應用擴展，持續推動雲端服務需求，帶動相關公司營收成長。",
       "symbols": [
         "GOOGL",
         "GOOG",
@@ -678,8 +678,17 @@
       "avgChange": 1.358957130842403
     },
     {
+      "theme": "雲端軟體 SaaS",
+      "reason": "企業對軟體即服務的需求不斷增加，特別是AI整合應用，提升了相關公司的市場價值。",
+      "symbols": [
+        "CRWV"
+      ],
+      "count": 1,
+      "avgChange": 9.67107112735452
+    },
+    {
       "theme": "太空",
-      "reason": "太空探索與衛星通訊領域持續受到關注，新技術與發射任務帶來成長潛力。",
+      "reason": "太空探索與衛星服務領域持續獲得投資關注，市場對商業太空應用的前景樂觀。",
       "symbols": [
         "SPCX"
       ],
@@ -688,7 +697,7 @@
     },
     {
       "theme": "銀行",
-      "reason": "在經濟數據表現穩健下，市場對銀行業的獲利前景持樂觀態度。",
+      "reason": "市場對經濟前景的樂觀預期以及利率政策的穩定，有利於銀行業的表現。",
       "symbols": [
         "JPM"
       ],
@@ -697,21 +706,12 @@
     },
     {
       "theme": "支付服務",
-      "reason": "數位支付普及率提升，推動支付服務公司的交易量與營收增長。",
+      "reason": "全球數位支付趨勢不減，電子交易量的增長持續支撐支付服務公司的營收。",
       "symbols": [
         "V"
       ],
       "count": 1,
       "avgChange": 2.871965906985366
-    },
-    {
-      "theme": "氫能源",
-      "reason": "全球對清潔能源的需求增加，氫能源技術發展受到政策支持與投資。",
-      "symbols": [
-        "BE"
-      ],
-      "count": 1,
-      "avgChange": 2.32422586520947
     }
   ],
   "newEntrants": [
@@ -720,100 +720,100 @@
       "name": "VISA Inc.",
       "theme": "支付服務",
       "changePercent": 2.871965906985366,
-      "reason": "Visa與OpenAI合作推動AI支付，並與Rockefeller Center建立合作夥伴關係。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "SATS",
       "name": "EchoStar Corporation",
       "theme": "衛星通訊",
       "changePercent": 2.634369829890132,
-      "reason": "EchoStar因SpaceX首次公開募股消息，以及其SpaceX持股被分析師看好而上漲。"
+      "reason": "SpaceX IPO 導致資金輪動，EchoStar股價波動。"
     },
     {
       "symbol": "CAT",
       "name": "Caterpillar Inc.",
       "theme": "重型機械",
       "changePercent": 1.2345679012345772,
-      "reason": "Caterpillar受惠於AI資料中心對發電設備的需求增長，並宣布提高季度股息。"
+      "reason": "受惠於分析師上調目標價、股息增加及AI基礎設施需求。"
     },
     {
       "symbol": "CRM",
       "name": "Salesforce, Inc.",
       "theme": "雲端軟體 SaaS",
       "changePercent": -1.7259191735034964,
-      "reason": "Salesforce近期因AI收購案和財報後估值調整，股價下跌。"
+      "reason": "儘管財報亮眼，市場擔憂AI對訂閱模式的影響導致股價下跌。"
     },
     {
       "symbol": "GLW",
       "name": "Corning Incorporated",
       "theme": "光學材料",
       "changePercent": -5.567383436235899,
-      "reason": "Corning因AI基礎設施相關合作協議股價曾大漲，但近期受估值過高及太陽能業務延誤影響下跌。"
+      "reason": "第一季財報優於預期，但消費電子業務疲軟且AI需求成長放緩。"
     },
     {
       "symbol": "COHR",
       "name": "Coherent Corp.",
       "theme": "光學元件",
       "changePercent": -7.498066885752943,
-      "reason": "Coherent Corp.受惠於美國晶片法案資金，擴大AI資料中心光學元件製造。"
+      "reason": "獲得CHIPS法案資金擴廠，並受惠於AI資料中心光學需求。"
     },
     {
       "symbol": "ALAB",
       "name": "Astera Labs, Inc. Common Stock",
       "theme": "資料中心連接",
       "changePercent": -7.06320657759507,
-      "reason": "Astera Labs因納斯達克100指數納入消息後出現「賣新聞」效應，且估值過高。"
+      "reason": "近期股價因估值過高而回調，儘管營收成長強勁。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於太空、記憶體與AI晶片等科技類股。SpaceX (SPCX) 在上市後持續強勁上漲，並宣布以600億美元收購AI程式開發新創Anysphere，顯示其在AI領域的積極佈局，帶動市場對太空題材的熱情。記憶體族群則受惠於分析師看好產業榮景可望延續，美光 (MU) 股價大漲。然而，AI晶片股如Nvidia (NVDA)、AMD (AMD) 和Intel (INTC) 普遍下跌，部分原因可能來自於市場對聯準會利率決策會議的觀望態度以及科技股的獲利了結賣壓。",
+    "highlights": "本日美股成交重點聚焦於AI相關硬體與太空題材。SpaceX (SPCX) 在上市後持續吸引大量資金，顯示市場對太空經濟的高度期待。AI晶片與儲存裝置族群也因AI算力需求爆發而表現強勁，記憶體和硬碟供應鏈估值同步提升。然而，電動車產業則面臨挑戰，特斯拉 (TSLA) 和Rivian (RIVN) 等公司股價承壓。",
     "eventsPast": [
       {
-        "title": "SpaceX 收購 AI 程式開發新創 Anysphere",
-        "detail": "SpaceX (SPCX) 在上市後宣布以600億美元收購 AI 程式開發新創 Anysphere，強化其在企業 AI 市場的佈局，此交易預計於 2026 年第三季完成。"
+        "title": "SpaceX 上市後持續飆升，市值超越亞馬遜",
+        "detail": "SpaceX (SPCX) 在上市後持續獲得資金關注，並在週二市值超過亞馬遜 (AMZN)，成為全球第五大市值公司。"
       },
       {
-        "title": "AMD 收購記憶體最佳化技術公司 MEXT",
-        "detail": "超微半導體 (AMD) 股價大漲近7%，因公司宣布收購一家專注於記憶體最佳化技術的企業 MEXT，以應對記憶體價格攀升的壓力。"
+        "title": "儲存裝置族群股價齊創新高",
+        "detail": "美光 (MU)、SanDisk (SNDK)、威騰電子 (WDC) 和希捷科技 (STX) 等四大儲存股同步改寫歷史新高，反映AI伺服器、HBM 與高速儲存需求推升估值。"
       },
       {
-        "title": "Nvidia 擬發行債券籌資",
-        "detail": "Nvidia (NVDA) 計劃透過發行至少200億美元的債券籌集資金，這是公司自 AI 熱潮開始以來首次進入債券市場籌資。"
+        "title": "AMD 收購 MEXT 以應對記憶體成本飆升",
+        "detail": "超微半導體 (AMD) 宣布收購一家專注於記憶體最佳化技術的企業 MEXT，希望藉此緩解記憶體價格持續攀升所帶來的壓力。"
       },
       {
-        "title": "美伊達成臨時和平協議",
-        "detail": "美國與伊朗達成重開荷姆茲海峽的暫時和平協議，緩解了中東地緣政治緊張局勢，帶動油價下跌，並舒緩了通膨疑慮。"
+        "title": "亞馬遜加碼投資數據中心園區",
+        "detail": "亞馬遜 (AMZN) 週一宣布，計劃在密蘇里州蒙哥馬利縣投資數十億美元建設新的數據中心園區，加碼推進人工智能與雲計算擴張佈局。"
       },
       {
-        "title": "亞馬遜投資數十億美元建數據中心",
-        "detail": "亞馬遜 (AMZN) 宣布計劃在密蘇里州蒙哥馬利縣投資數十億美元建設新的數據中心園區，以加碼推進人工智能與雲計算擴張佈局。"
+        "title": "Rivian 裁員以縮減虧損",
+        "detail": "美國電動車製造商 Rivian (RIVN) 週二宣布將裁減數百名員工，裁員規模佔其整體員工總數的2% 以下，以縮減公司持續面臨的虧損。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "本週三",
-        "title": "聯準會 (Fed) 利率決策會議",
-        "detail": "市場普遍預期聯準會將維持利率不變，但投資人將密切關注新任主席華許 (Kevin Warsh) 對通膨、就業市場及利率前景的看法。"
+        "date": "本週四",
+        "title": "聯準會利率決策與主席記者會",
+        "detail": "市場普遍預計聯準會將維持利率區間不變，投資人將重點關注聯準會最新經濟預測、點陣圖以及新任主席 Kevin Warsh 對通膨、就業和未來利率路徑的表態。"
       },
       {
-        "date": "6/17",
-        "title": "Safe Bulkers (SB) 公布第一季財報",
-        "detail": "Safe Bulkers 預計在6月17日發布2026年第一季的財報，分析師預測每股盈餘將達0.09美元。"
+        "date": "6/24",
+        "title": "美光科技 (MU) 第三財季財報",
+        "detail": "市場正關注美光將於6月24日公布的第三財季財報，以尋找AI記憶體需求的最新訊號。"
       },
       {
-        "date": "6/17",
-        "title": "捷普科技 (JBL) 公布第三季財報",
-        "detail": "捷普科技 (JBL) 將於2026年6月17日公布2026財年第三季財報，市場將關注其AI相關營收目標與營運轉型策略。"
+        "date": "下半年",
+        "title": "英特爾 (INTC) 與 AMD (AMD) CPU 漲價",
+        "detail": "全球CPU供不應求危機加劇，英特爾與AMD據報將於下半年再度漲價8%至17%，為一年內第二輪加價。"
       },
       {
-        "date": "6/17",
-        "title": "車美仕 (KMX) 公布第一季財報",
-        "detail": "車美仕 (KMX) 將於2026年6月17日公布2027財年第一季財報，市場關注其在二手車市場逆風下的營運轉型與定價策略。"
+        "date": "未來一年",
+        "title": "Amazon 自研模型追趕 OpenAI 與 Anthropic",
+        "detail": "Amazon 負責半導體、AI 與量子業務的高層 Peter DeSantis 表示，Amazon 已準備在「未來一年」內，將自家模型推向前沿水準。"
       },
       {
-        "date": "6/18",
-        "title": "埃森哲 (ACN) 公布第三季財報",
-        "detail": "埃森哲 (ACN) 將於2026年6月18日公布2026財年第三季財報，市場將聚焦其新簽訂單總額 (New Bookings) 以及對2026全財年的獲利指引修訂。"
+        "date": "2028年",
+        "title": "Broadcom 與 Google 合作的 TPU v9 有望問世",
+        "detail": "J.P. Morgan 研判 Broadcom 與 Google 合作開發的下一代客製化 AI 加速器 TPU v9 仍有望依原規劃在 2028 年問世。"
       }
     ]
   }
