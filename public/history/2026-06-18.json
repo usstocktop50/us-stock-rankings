@@ -60,7 +60,7 @@
       "dollarVolume": 31065667637.458076,
       "marketCap": 673433740000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "半導體製造",
       "isNew": false,
       "rankChange": 5,
       "streak": 70
@@ -86,7 +86,7 @@
       "dollarVolume": 25622375286.37549,
       "marketCap": 4376978961560,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "消費性電子",
+      "theme": "消費電子",
       "isNew": false,
       "rankChange": 4,
       "streak": 70
@@ -177,7 +177,7 @@
       "dollarVolume": 16303972902.486217,
       "marketCap": 2143406719999.9998,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "網路服務",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": 1,
       "streak": 70
@@ -190,7 +190,7 @@
       "dollarVolume": 15024012020.265356,
       "marketCap": 469377891869.6,
       "sector": "—",
-      "theme": "IC 設計 IP",
+      "theme": "IC 設計",
       "isNew": false,
       "rankChange": 5,
       "streak": 22
@@ -242,7 +242,7 @@
       "dollarVolume": 10723532877.169971,
       "marketCap": 2004861760000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "網路服務",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": 0,
       "streak": 70
@@ -268,7 +268,7 @@
       "dollarVolume": 10497251898.900059,
       "marketCap": 72790073237.86,
       "sector": "—",
-      "theme": "雲端軟體 SaaS",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": -4,
       "streak": 28
@@ -294,7 +294,7 @@
       "dollarVolume": 9393159979.703106,
       "marketCap": 71489109118.73,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "資料中心晶片",
+      "theme": "資料中心互連",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -463,7 +463,7 @@
       "dollarVolume": 6597254474.362399,
       "marketCap": 871430703361.9601,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "金融服務",
+      "theme": "銀行",
       "isNew": false,
       "rankChange": -8,
       "streak": 11
@@ -476,7 +476,7 @@
       "dollarVolume": 6406555314.327737,
       "marketCap": 133035755580,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "電腦硬體",
+      "theme": "電子電腦",
       "isNew": false,
       "rankChange": -7,
       "streak": 19
@@ -554,7 +554,7 @@
       "dollarVolume": 5064604646.7432575,
       "marketCap": 93556432623.88,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "氫能源",
+      "theme": "燃料電池",
       "isNew": false,
       "rankChange": -11,
       "streak": 5
@@ -567,7 +567,7 @@
       "dollarVolume": 4968086826.560946,
       "marketCap": 323493337571.76,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "金融服務",
+      "theme": "投資銀行",
       "isNew": false,
       "rankChange": 1,
       "streak": 2
@@ -652,24 +652,13 @@
     }
   ],
   "asOf": "2026-06-18T20:00:00.000Z",
-  "generatedAt": "2026-06-20T06:28:03.933Z",
+  "generatedAt": "2026-06-20T08:15:21.949Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
-      "theme": "資料中心晶片",
-      "reason": "市場對AI應用和資料中心擴建的需求持續增長，帶動相關晶片供應商表現強勁。",
-      "symbols": [
-        "MRVL",
-        "AVGO",
-        "ALAB"
-      ],
-      "count": 3,
-      "avgChange": 7.758734860575816
-    },
-    {
       "theme": "半導體設備",
-      "reason": "全球半導體產業景氣復甦，資本支出增加，有利於半導體設備製造商的訂單與營收。",
+      "reason": "AI 晶片需求持續強勁，帶動上游半導體製造設備訂單成長，市場對產業前景保持樂觀。",
       "symbols": [
         "AMAT",
         "LRCX",
@@ -680,19 +669,41 @@
       "avgChange": 5.021956632602123
     },
     {
-      "theme": "儲存裝置",
-      "reason": "記憶體和儲存需求受AI及資料中心發展驅動，產業前景看好。",
+      "theme": "資料中心晶片",
+      "reason": "AI 應用擴展推動資料中心升級，對高效能運算和網路晶片的需求激增。",
       "symbols": [
+        "MRVL",
+        "AVGO",
+        "ALAB"
+      ],
+      "count": 3,
+      "avgChange": 7.758734860575816
+    },
+    {
+      "theme": "儲存裝置",
+      "reason": "記憶體與儲存需求受 AI 和資料中心擴建帶動，產業景氣復甦。",
+      "symbols": [
+        "MU",
         "SNDK",
         "WDC",
         "STX"
       ],
-      "count": 3,
-      "avgChange": 5.571264456715059
+      "count": 4,
+      "avgChange": 6.354466134117885
+    },
+    {
+      "theme": "半導體製造",
+      "reason": "全球半導體產業鏈持續擴張，晶圓代工和整合元件製造商受惠於技術進步與需求增長。",
+      "symbols": [
+        "INTC",
+        "TSM"
+      ],
+      "count": 2,
+      "avgChange": 8.789593885277593
     },
     {
       "theme": "AI 晶片",
-      "reason": "AI技術的快速發展持續推動對高效能AI晶片的需求，相關領導廠商表現突出。",
+      "reason": "人工智慧技術快速發展，對高效能 AI 晶片的需求持續爆發性成長。",
       "symbols": [
         "NVDA",
         "AMD"
@@ -702,25 +713,13 @@
     },
     {
       "theme": "類比晶片",
-      "reason": "工業、汽車和通訊等領域對類比晶片的需求穩健，支撐相關公司股價。",
+      "reason": "工業、汽車和通訊等領域對類比晶片的需求穩健，推動相關廠商營收增長。",
       "symbols": [
         "TXN",
         "ADI"
       ],
       "count": 2,
       "avgChange": 5.888933392242732
-    },
-    {
-      "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型趨勢不變，雲端軟體服務需求持續成長，但部分個股因財報或展望不佳而下跌。",
-      "symbols": [
-        "MSFT",
-        "NBIS",
-        "CRWV",
-        "ORCL"
-      ],
-      "count": 4,
-      "avgChange": 1.2448209598178812
     }
   ],
   "newEntrants": [
@@ -729,28 +728,28 @@
       "name": "Flex Ltd. Ordinary Shares",
       "theme": "電子製造服務",
       "changePercent": 3.1300216586320255,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "即將納入標普500指數，吸引指數型基金買盤。"
     },
     {
       "symbol": "ALAB",
       "name": "Astera Labs, Inc. Common Stock",
-      "theme": "資料中心晶片",
+      "theme": "資料中心互連",
       "changePercent": 11.313654318351658,
-      "reason": "推出Scorpio交換器新品並獲選納入Nasdaq-100指數。"
+      "reason": "即將納入那斯達克100指數，引發被動型買盤。"
     },
     {
       "symbol": "TER",
       "name": "Teradyne, Inc. Common Stock",
       "theme": "半導體測試",
       "changePercent": 7.186214999020955,
-      "reason": "即將納入Nasdaq-100指數，並獲得美國空軍大額合約。"
+      "reason": "AI相關測試需求強勁，Q1財報優異且Q2財測樂觀。"
     },
     {
       "symbol": "TXN",
       "name": "Texas Instruments Incorporated",
       "theme": "類比晶片",
       "changePercent": 6.949781370080833,
-      "reason": "分析師調升評等與目標價，並受惠於AI與電動車需求。"
+      "reason": "受惠AI電源半導體需求，Q1財報佳且Q2財測樂觀。"
     },
     {
       "symbol": "CSCO",
@@ -764,46 +763,15 @@
       "name": "Accenture PLC",
       "theme": "IT 顧問",
       "changePercent": -17.96679700019229,
-      "reason": "Q3財報營收不如預期，並下調Q4財測。"
+      "reason": "財報營收不如預期，下修全年財測導致股價下跌。"
     },
     {
       "symbol": "ADI",
       "name": "Analog Devices, Inc.",
       "theme": "類比晶片",
       "changePercent": 4.82808541440463,
-      "reason": "Q2財報優於預期，資料中心業務成長強勁，並收購Empower Semiconductor。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     }
   ],
-  "marketBriefing": {
-    "highlights": "本日美股成交重點集中在AI相關的晶片、記憶體、儲存裝置以及資料中心基礎設施族群。資金主要受到地緣政治局勢緩和（美伊和平協議）以及各國為「避險自保」擴大自主AI投資的預期所驅動。Nvidia在資料中心乙太網路交換器市場取得領先地位，以及Amazon考慮對外銷售自研AI晶片，都為市場帶來新的交易故事，推升了半導體類股的整體表現。",
-    "eventsPast": [
-      {
-        "title": "美晶片股受地緣政治利好與AI需求激勵",
-        "detail": "伊朗達成的初步和平協議以及各國擴大自主AI投資的預期，共同推動美股晶片股與記憶體、儲存裝置類股上漲。"
-      },
-      {
-        "title": "Nvidia在資料中心乙太網路交換器市場奪冠",
-        "detail": "Nvidia在2026年第一季首次拿下全球資料中心乙太網路交換器營收第一名，顯示其AI生態系整合能力。"
-      },
-      {
-        "title": "Amazon考慮對外銷售自研AI晶片Trainium",
-        "detail": "Amazon正與潛在客戶討論將其自研AI加速晶片Trainium銷售給其他企業的數據中心使用，挑戰Nvidia在AI晶片市場的主導地位。"
-      },
-      {
-        "title": "Marvell Technology財測超預期",
-        "detail": "Marvell Technology因AI資料中心基礎設施對網路和客製化晶片需求強勁，上修全年財測。"
-      },
-      {
-        "title": "AMD收購記憶體晶片新創公司MEXT",
-        "detail": "AMD收購記憶體晶片新創公司MEXT，旨在提升快閃記憶體在AI應用中的效能與效率。"
-      }
-    ],
-    "eventsUpcoming": [
-      {
-        "date": "未來幾天",
-        "title": "SK Hynix送出HBM4E樣品",
-        "detail": "SK Hynix已向主要客戶送出HBM4E（第四代高頻寬記憶體進化版）樣品，預計將推動Nvidia下一代GPU的量產時程。"
-      }
-    ]
-  }
+  "marketBriefing": null
 }
