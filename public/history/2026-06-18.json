@@ -86,7 +86,7 @@
       "dollarVolume": 25622375286.37549,
       "marketCap": 4376978961560,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "消費電子",
+      "theme": "消費性電子",
       "isNew": false,
       "rankChange": 4,
       "streak": 70
@@ -190,7 +190,7 @@
       "dollarVolume": 15024012020.265356,
       "marketCap": 469377891869.6,
       "sector": "—",
-      "theme": "IC 設計",
+      "theme": "半導體 IP",
       "isNew": false,
       "rankChange": 5,
       "streak": 22
@@ -528,7 +528,7 @@
       "dollarVolume": 5398092176.723112,
       "marketCap": 85124878279.2,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "IT 顧問",
+      "theme": "IT 諮詢",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-06-18T20:00:00.000Z",
-  "generatedAt": "2026-06-20T08:15:21.949Z",
+  "generatedAt": "2026-06-20T09:49:57.434Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "半導體設備",
-      "reason": "AI 晶片需求持續強勁，帶動上游半導體製造設備訂單成長，市場對產業前景保持樂觀。",
+      "reason": "全球半導體產業景氣復甦與AI需求帶動資本支出增加，推升相關設備供應商股價。",
       "symbols": [
         "AMAT",
         "LRCX",
@@ -670,40 +670,17 @@
     },
     {
       "theme": "資料中心晶片",
-      "reason": "AI 應用擴展推動資料中心升級，對高效能運算和網路晶片的需求激增。",
+      "reason": "AI運算需求持續增長，帶動資料中心相關晶片需求強勁。",
       "symbols": [
         "MRVL",
-        "AVGO",
-        "ALAB"
-      ],
-      "count": 3,
-      "avgChange": 7.758734860575816
-    },
-    {
-      "theme": "儲存裝置",
-      "reason": "記憶體與儲存需求受 AI 和資料中心擴建帶動，產業景氣復甦。",
-      "symbols": [
-        "MU",
-        "SNDK",
-        "WDC",
-        "STX"
-      ],
-      "count": 4,
-      "avgChange": 6.354466134117885
-    },
-    {
-      "theme": "半導體製造",
-      "reason": "全球半導體產業鏈持續擴張，晶圓代工和整合元件製造商受惠於技術進步與需求增長。",
-      "symbols": [
-        "INTC",
-        "TSM"
+        "AVGO"
       ],
       "count": 2,
-      "avgChange": 8.789593885277593
+      "avgChange": 5.9812751316878945
     },
     {
       "theme": "AI 晶片",
-      "reason": "人工智慧技術快速發展，對高效能 AI 晶片的需求持續爆發性成長。",
+      "reason": "人工智慧技術快速發展，市場對AI晶片的需求持續旺盛。",
       "symbols": [
         "NVDA",
         "AMD"
@@ -712,14 +689,36 @@
       "avgChange": 3.9040776520515528
     },
     {
+      "theme": "儲存裝置",
+      "reason": "記憶體與儲存產業受惠於AI應用及資料中心擴建，需求前景看好。",
+      "symbols": [
+        "SNDK",
+        "WDC",
+        "STX"
+      ],
+      "count": 3,
+      "avgChange": 5.571264456715059
+    },
+    {
       "theme": "類比晶片",
-      "reason": "工業、汽車和通訊等領域對類比晶片的需求穩健，推動相關廠商營收增長。",
+      "reason": "工業、汽車及通訊等領域對高效能類比晶片的需求穩定增長。",
       "symbols": [
         "TXN",
         "ADI"
       ],
       "count": 2,
       "avgChange": 5.888933392242732
+    },
+    {
+      "theme": "雲端服務",
+      "reason": "企業數位轉型與AI應用擴展，持續推動雲端服務市場成長。",
+      "symbols": [
+        "GOOGL",
+        "NBIS",
+        "GOOG"
+      ],
+      "count": 3,
+      "avgChange": 1.5677867218697885
     }
   ],
   "newEntrants": [
@@ -728,28 +727,28 @@
       "name": "Flex Ltd. Ordinary Shares",
       "theme": "電子製造服務",
       "changePercent": 3.1300216586320255,
-      "reason": "即將納入標普500指數，吸引指數型基金買盤。"
+      "reason": "將被納入標普500指數，吸引被動型基金買盤。"
     },
     {
       "symbol": "ALAB",
       "name": "Astera Labs, Inc. Common Stock",
       "theme": "資料中心互連",
       "changePercent": 11.313654318351658,
-      "reason": "即將納入那斯達克100指數，引發被動型買盤。"
+      "reason": "推出Scorpio交換器新品並獲選納入Nasdaq-100指數。"
     },
     {
       "symbol": "TER",
       "name": "Teradyne, Inc. Common Stock",
       "theme": "半導體測試",
       "changePercent": 7.186214999020955,
-      "reason": "AI相關測試需求強勁，Q1財報優異且Q2財測樂觀。"
+      "reason": "即將納入Nasdaq-100指數，以及獲得美軍大訂單。"
     },
     {
       "symbol": "TXN",
       "name": "Texas Instruments Incorporated",
       "theme": "類比晶片",
       "changePercent": 6.949781370080833,
-      "reason": "受惠AI電源半導體需求，Q1財報佳且Q2財測樂觀。"
+      "reason": "花旗調升評等，看好AI電源管理晶片市場主導地位。"
     },
     {
       "symbol": "CSCO",
@@ -761,16 +760,16 @@
     {
       "symbol": "ACN",
       "name": "Accenture PLC",
-      "theme": "IT 顧問",
+      "theme": "IT 諮詢",
       "changePercent": -17.96679700019229,
-      "reason": "財報營收不如預期，下修全年財測導致股價下跌。"
+      "reason": "Q4財測與營收不及預期，導致股價大幅修正。"
     },
     {
       "symbol": "ADI",
       "name": "Analog Devices, Inc.",
       "theme": "類比晶片",
       "changePercent": 4.82808541440463,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "受惠半導體類股全面漲勢，第二季財報優於預期。"
     }
   ],
   "marketBriefing": null
