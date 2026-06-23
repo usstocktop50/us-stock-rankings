@@ -60,7 +60,7 @@
       "dollarVolume": 31065667637.458076,
       "marketCap": 673433740000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體製造",
+      "theme": "CPU",
       "isNew": false,
       "rankChange": 5,
       "streak": 70
@@ -162,7 +162,7 @@
       "price": 577.22,
       "changePercent": 1.6984389865745773,
       "dollarVolume": 16572937374.618105,
-      "marketCap": 1465228699534.8801,
+      "marketCap": 1267601434305.36,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
       "theme": "社群媒體",
       "isNew": false,
@@ -177,7 +177,7 @@
       "dollarVolume": 16303972902.486217,
       "marketCap": 2143406719999.9998,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "雲端服務",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": 1,
       "streak": 70
@@ -190,7 +190,7 @@
       "dollarVolume": 15024012020.265356,
       "marketCap": 469377891869.6,
       "sector": "—",
-      "theme": "半導體 IP",
+      "theme": "IP 設計",
       "isNew": false,
       "rankChange": 5,
       "streak": 22
@@ -242,7 +242,7 @@
       "dollarVolume": 10723532877.169971,
       "marketCap": 2004861760000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "雲端服務",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": 0,
       "streak": 70
@@ -266,9 +266,9 @@
       "price": 286.69,
       "changePercent": 2.057598519098634,
       "dollarVolume": 10497251898.900059,
-      "marketCap": 72790073237.86,
+      "marketCap": 62918446078.72,
       "sector": "—",
-      "theme": "雲端服務",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": -4,
       "streak": 28
@@ -294,7 +294,7 @@
       "dollarVolume": 9393159979.703106,
       "marketCap": 71489109118.73,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "資料中心互連",
+      "theme": "資料中心晶片",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -411,7 +411,7 @@
       "dollarVolume": 7088292680.831978,
       "marketCap": 294976284278.98,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "大數據分析",
+      "theme": "資料分析軟體",
       "isNew": false,
       "rankChange": -7,
       "streak": 70
@@ -476,7 +476,7 @@
       "dollarVolume": 6406555314.327737,
       "marketCap": 133035755580,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "電子電腦",
+      "theme": "電子製造服務",
       "isNew": false,
       "rankChange": -7,
       "streak": 19
@@ -502,7 +502,7 @@
       "dollarVolume": 6090187716.251297,
       "marketCap": 454060788681.06,
       "sector": "CONSTRUCTION MACHINERY & EQUIP",
-      "theme": "重型機械",
+      "theme": "基礎建設",
       "isNew": false,
       "rankChange": 2,
       "streak": 3
@@ -526,9 +526,9 @@
       "price": 127.98,
       "changePercent": -17.96679700019229,
       "dollarVolume": 5398092176.723112,
-      "marketCap": 85124878279.2,
+      "marketCap": 85427956675.8,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "IT 諮詢",
+      "theme": "IT 顧問",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -580,7 +580,7 @@
       "dollarVolume": 4930042009.1807575,
       "marketCap": 1034568856389.4199,
       "sector": "PHARMACEUTICAL PREPARATIONS",
-      "theme": "生技製藥",
+      "theme": "減肥藥 GLP-1",
       "isNew": false,
       "rankChange": -5,
       "streak": 22
@@ -645,20 +645,31 @@
       "dollarVolume": 4491864004.088172,
       "marketCap": 143605377720,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "行動廣告",
+      "theme": "廣告科技",
       "isNew": false,
       "rankChange": -12,
       "streak": 4
     }
   ],
   "asOf": "2026-06-18T20:00:00.000Z",
-  "generatedAt": "2026-06-20T09:49:57.434Z",
+  "generatedAt": "2026-06-23T02:04:05.918Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
+      "theme": "資料中心晶片",
+      "reason": "隨著AI應用持續擴展，對高效能資料中心晶片的需求強勁，帶動相關供應商股價上漲。",
+      "symbols": [
+        "MRVL",
+        "AVGO",
+        "ALAB"
+      ],
+      "count": 3,
+      "avgChange": 7.758734860575816
+    },
+    {
       "theme": "半導體設備",
-      "reason": "全球半導體產業景氣復甦與AI需求帶動資本支出增加，推升相關設備供應商股價。",
+      "reason": "全球半導體產業景氣復甦，資本支出增加，對半導體製造設備的需求提升。",
       "symbols": [
         "AMAT",
         "LRCX",
@@ -669,28 +680,8 @@
       "avgChange": 5.021956632602123
     },
     {
-      "theme": "資料中心晶片",
-      "reason": "AI運算需求持續增長，帶動資料中心相關晶片需求強勁。",
-      "symbols": [
-        "MRVL",
-        "AVGO"
-      ],
-      "count": 2,
-      "avgChange": 5.9812751316878945
-    },
-    {
-      "theme": "AI 晶片",
-      "reason": "人工智慧技術快速發展，市場對AI晶片的需求持續旺盛。",
-      "symbols": [
-        "NVDA",
-        "AMD"
-      ],
-      "count": 2,
-      "avgChange": 3.9040776520515528
-    },
-    {
       "theme": "儲存裝置",
-      "reason": "記憶體與儲存產業受惠於AI應用及資料中心擴建，需求前景看好。",
+      "reason": "記憶體與儲存需求受AI及資料中心建置帶動，相關廠商營收展望樂觀。",
       "symbols": [
         "SNDK",
         "WDC",
@@ -701,7 +692,7 @@
     },
     {
       "theme": "類比晶片",
-      "reason": "工業、汽車及通訊等領域對高效能類比晶片的需求穩定增長。",
+      "reason": "工業、汽車和消費電子領域對類比晶片的需求穩健，推動相關公司業績增長。",
       "symbols": [
         "TXN",
         "ADI"
@@ -710,15 +701,28 @@
       "avgChange": 5.888933392242732
     },
     {
-      "theme": "雲端服務",
-      "reason": "企業數位轉型與AI應用擴展，持續推動雲端服務市場成長。",
+      "theme": "雲端軟體 SaaS",
+      "reason": "企業數位轉型趨勢不變，雲端軟體服務持續受青睞，儘管部分個股表現分歧。",
       "symbols": [
+        "MSFT",
         "GOOGL",
         "NBIS",
+        "CRWV",
+        "ORCL",
         "GOOG"
       ],
-      "count": 3,
-      "avgChange": 1.5677867218697885
+      "count": 6,
+      "avgChange": 1.2708409142970425
+    },
+    {
+      "theme": "AI 晶片",
+      "reason": "AI技術發展持續火熱，市場對AI晶片的需求仍是推動半導體產業成長的主要動力。",
+      "symbols": [
+        "NVDA",
+        "AMD"
+      ],
+      "count": 2,
+      "avgChange": 3.9040776520515528
     }
   ],
   "newEntrants": [
@@ -727,12 +731,12 @@
       "name": "Flex Ltd. Ordinary Shares",
       "theme": "電子製造服務",
       "changePercent": 3.1300216586320255,
-      "reason": "將被納入標普500指數，吸引被動型基金買盤。"
+      "reason": "將於6月22日納入標普500指數，吸引被動基金買盤。"
     },
     {
       "symbol": "ALAB",
       "name": "Astera Labs, Inc. Common Stock",
-      "theme": "資料中心互連",
+      "theme": "資料中心晶片",
       "changePercent": 11.313654318351658,
       "reason": "推出Scorpio交換器新品並獲選納入Nasdaq-100指數。"
     },
@@ -741,35 +745,35 @@
       "name": "Teradyne, Inc. Common Stock",
       "theme": "半導體測試",
       "changePercent": 7.186214999020955,
-      "reason": "即將納入Nasdaq-100指數，以及獲得美軍大訂單。"
+      "reason": "獲納入Nasdaq 100指數，並與東京威力科創合作AI晶片測試。"
     },
     {
       "symbol": "TXN",
       "name": "Texas Instruments Incorporated",
       "theme": "類比晶片",
       "changePercent": 6.949781370080833,
-      "reason": "花旗調升評等，看好AI電源管理晶片市場主導地位。"
+      "reason": "股價創歷史新高，受惠AI運算與網絡需求強勁。"
     },
     {
       "symbol": "CSCO",
       "name": "Cisco Systems, Inc. Common Stock (DE)",
       "theme": "網路設備",
       "changePercent": 1.8835762379613126,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "與Equinix及NVIDIA擴大合作，強化數據中心解決方案。"
     },
     {
       "symbol": "ACN",
       "name": "Accenture PLC",
-      "theme": "IT 諮詢",
+      "theme": "IT 顧問",
       "changePercent": -17.96679700019229,
-      "reason": "Q4財測與營收不及預期，導致股價大幅修正。"
+      "reason": "Q4財測與營收不及預期，多家券商下調目標價。"
     },
     {
       "symbol": "ADI",
       "name": "Analog Devices, Inc.",
       "theme": "類比晶片",
       "changePercent": 4.82808541440463,
-      "reason": "受惠半導體類股全面漲勢，第二季財報優於預期。"
+      "reason": "第二季財報優於預期，受惠工業與資料中心需求強勁。"
     }
   ],
   "marketBriefing": null
