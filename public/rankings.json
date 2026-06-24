@@ -73,7 +73,7 @@
       "dollarVolume": 17792075581.319256,
       "marketCap": 664839280000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "半導體製造",
       "isNew": false,
       "rankChange": 1,
       "streak": 72
@@ -138,7 +138,7 @@
       "dollarVolume": 13033890312.9963,
       "marketCap": 244104192000.00003,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "資料中心晶片",
       "isNew": false,
       "rankChange": -1,
       "streak": 62
@@ -151,7 +151,7 @@
       "dollarVolume": 12639390268.017122,
       "marketCap": 1808594112269.7,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "網路晶片",
       "isNew": false,
       "rankChange": 2,
       "streak": 72
@@ -164,7 +164,7 @@
       "dollarVolume": 11777411275.335615,
       "marketCap": 2015861120000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "網路服務",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": -7,
       "streak": 72
@@ -203,7 +203,7 @@
       "dollarVolume": 7549926619.488159,
       "marketCap": 1888212480000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "網路服務",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": -3,
       "streak": 72
@@ -255,7 +255,7 @@
       "dollarVolume": 5592292720.404714,
       "marketCap": 475007757360,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體 SaaS",
+      "theme": "企業軟體",
       "isNew": false,
       "rankChange": 11,
       "streak": 72
@@ -281,7 +281,7 @@
       "dollarVolume": 5275012945.235884,
       "marketCap": 267951524677.80002,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "資料分析軟體",
+      "theme": "大數據分析",
       "isNew": false,
       "rankChange": -3,
       "streak": 72
@@ -307,7 +307,7 @@
       "dollarVolume": 4839196334.984898,
       "marketCap": 215153020000,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "無線通訊晶片",
+      "theme": "行動通訊晶片",
       "isNew": false,
       "rankChange": 6,
       "streak": 41
@@ -320,7 +320,7 @@
       "dollarVolume": 4577515682.282105,
       "marketCap": 31937122609.29,
       "sector": "OPTICAL INSTRUMENTS & LENSES",
-      "theme": "半導體設備",
+      "theme": "半導體檢測",
       "isNew": false,
       "rankChange": 18,
       "streak": 12
@@ -359,7 +359,7 @@
       "dollarVolume": 4221813828.13499,
       "marketCap": 453333053347.92,
       "sector": "CONSTRUCTION MACHINERY & EQUIP",
-      "theme": "工業機械",
+      "theme": "重型機械",
       "isNew": false,
       "rankChange": 1,
       "streak": 5
@@ -372,7 +372,7 @@
       "dollarVolume": 4132408880.9537954,
       "marketCap": 249013206083.2,
       "sector": "COMPUTER & OFFICE EQUIPMENT",
-      "theme": "企業軟體服務",
+      "theme": "企業IT服務",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -515,7 +515,7 @@
       "dollarVolume": 3220558312.809538,
       "marketCap": 65766493099.44,
       "sector": "INSTRUMENTS FOR MEAS & TESTING OF ELECTRICITY & ELEC SIGNALS",
-      "theme": "半導體測試設備",
+      "theme": "半導體測試",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -567,7 +567,7 @@
       "dollarVolume": 2974403959.640216,
       "marketCap": 84780471772.1,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "IT 諮詢服務",
+      "theme": "IT 顧問服務",
       "isNew": false,
       "rankChange": -5,
       "streak": 3
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-06-23T20:00:00.000Z",
-  "generatedAt": "2026-06-24T05:02:55.863Z",
+  "generatedAt": "2026-06-24T06:30:43.003Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型需求持續推動雲端軟體服務的成長，市場對其營收穩定性與獲利能力抱持樂觀態度。",
+      "reason": "企業數位轉型需求持續，雲端軟體服務提供商的訂閱模式帶來穩定營收增長，市場對其未來盈利能力保持樂觀。",
       "symbols": [
         "MSFT",
         "CRM",
@@ -669,7 +669,7 @@
     },
     {
       "theme": "生技製藥",
-      "reason": "新藥研發進展與市場需求，特別是針對特定疾病領域的突破，持續吸引資金關注。",
+      "reason": "新藥研發進展與市場需求推動，特別是針對特定疾病領域的創新療法，吸引資金關注。",
       "symbols": [
         "LLY",
         "JNJ"
@@ -678,8 +678,19 @@
       "avgChange": 1.9108768184191836
     },
     {
-      "theme": "IT 諮詢服務",
-      "reason": "企業在數位化轉型和技術升級方面的投入，帶動了對專業IT諮詢服務的需求。",
+      "theme": "雲端服務",
+      "reason": "隨著企業對雲端運算和數據處理的需求不斷增長，提供基礎設施和平台服務的公司持續受益。",
+      "symbols": [
+        "AMZN",
+        "GOOGL",
+        "GOOG"
+      ],
+      "count": 3,
+      "avgChange": -0.40743540008126383
+    },
+    {
+      "theme": "IT 顧問服務",
+      "reason": "企業在數位化轉型過程中對專業IT諮詢和實施服務的需求旺盛，推動相關服務提供商的業績增長。",
       "symbols": [
         "ACN"
       ],
@@ -688,7 +699,7 @@
     },
     {
       "theme": "支付服務",
-      "reason": "全球數位支付趨勢不減，支付服務提供商持續受惠於交易量的增長。",
+      "reason": "全球數位支付趨勢不減，電子支付平台持續擴大市場份額，受益於消費習慣的轉變。",
       "symbols": [
         "V"
       ],
@@ -696,174 +707,124 @@
       "avgChange": 0.575627679118186
     },
     {
-      "theme": "電子商務",
-      "reason": "線上購物習慣的普及與電商平台服務的多元化，支撐了其穩健的成長。",
-      "symbols": [
-        "AMZN"
-      ],
-      "count": 1,
-      "avgChange": 0.567034666437571
-    },
-    {
-      "theme": "電子電腦",
-      "reason": "在AI PC趨勢與企業換機潮的預期下，部分電腦硬體製造商表現強勁。",
-      "symbols": [
-        "DELL"
-      ],
-      "count": 1,
-      "avgChange": 2.166177067660193
-    },
-    {
       "theme": "零售百貨",
-      "reason": "消費者支出保持韌性，大型零售商透過線上線下整合策略維持競爭力。",
+      "reason": "在通膨壓力下，大型零售商透過規模經濟和供應鏈管理展現韌性，吸引部分資金避險。",
       "symbols": [
         "WMT"
       ],
       "count": 1,
       "avgChange": 1.9115890083631972
-    },
-    {
-      "theme": "醫療保險",
-      "reason": "醫療服務需求穩定，醫療保險公司在市場中展現防禦性特質。",
-      "symbols": [
-        "UNH"
-      ],
-      "count": 1,
-      "avgChange": 0.6319464935575866
-    },
-    {
-      "theme": "太空",
-      "reason": "太空探索與商業化應用前景廣闊，相關公司持續受到市場關注。",
-      "symbols": [
-        "SPCX"
-      ],
-      "count": 1,
-      "avgChange": 0.9767141009055753
-    },
-    {
-      "theme": "企業軟體服務",
-      "reason": "企業對軟體解決方案的需求穩定，推動相關服務提供商的業績增長。",
-      "symbols": [
-        "IBM"
-      ],
-      "count": 1,
-      "avgChange": 5.043216239790659
     }
   ],
   "newEntrants": [
     {
       "symbol": "IBM",
       "name": "International Business Machines Corporation",
-      "theme": "企業軟體服務",
+      "theme": "企業IT服務",
       "changePercent": 5.043216239790659,
-      "reason": "與OpenAI合作強化網路安全，獲摩根大通調升評級與目標價。"
+      "reason": "摩根大通調升評等至「加碼」，看好軟體業務成長潛力，目標價上調至291美元。"
     },
     {
       "symbol": "VRT",
       "name": "Vertiv Holdings Co Class A Common Stock",
       "theme": "資料中心基礎設施",
       "changePercent": -11.073863001452674,
-      "reason": "AI資料中心需求噴發，收購ThermoKey擴展散熱技術，並與Nvidia合作。"
+      "reason": "受惠AI資料中心擴建潮，液冷與配電設備需求激增，近期斥資5千萬美元擴產。"
     },
     {
       "symbol": "TER",
       "name": "Teradyne, Inc. Common Stock",
-      "theme": "半導體測試設備",
+      "theme": "半導體測試",
       "changePercent": -8.070021881838073,
-      "reason": "納入Nasdaq 100指數，結盟東京威力科創搶攻AI先進封裝商機。"
+      "reason": "被納入Nasdaq-100指數，並受惠AI半導體測試需求，但面臨估值壓力。"
     },
     {
       "symbol": "NOW",
       "name": "SERVICENOW, INC.",
       "theme": "雲端軟體 SaaS",
       "changePercent": 3.1501989033437185,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "獲華爾街九成買進評級，擴大與IBM合作搶攻代理式AI轉型商機。"
     },
     {
       "symbol": "ADI",
       "name": "Analog Devices, Inc.",
       "theme": "類比晶片",
       "changePercent": -8.579509742300445,
-      "reason": "AI基礎設施需求飆升，數據中心業務成長逾90%，獲分析師調升目標價。"
+      "reason": "受半導體板塊廣泛賣壓影響，因SK海力士放緩HBM擴產計畫。"
     },
     {
       "symbol": "JNJ",
       "name": "Johnson & Johnson",
       "theme": "生技製藥",
       "changePercent": 3.3680660642483553,
-      "reason": "法人資金從科技股轉入防禦性醫療保健股，獲利強勁且擴建視力保健業務。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "WMT",
       "name": "Walmart Inc. Common Stock",
       "theme": "零售百貨",
       "changePercent": 1.9115890083631972,
-      "reason": "電商營收強勁增長，AI購物工具Sparky發酵，市值突破兆元。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "CSCO",
       "name": "Cisco Systems, Inc. Common Stock (DE)",
       "theme": "網路設備",
       "changePercent": -0.3126799967086279,
-      "reason": "財報與財測超預期，AI訂單暴增，推出AI驅動的Cloud Control平台。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "UNH",
       "name": "UNITEDHEALTH GROUP INCORPORATED (Delaware)",
       "theme": "醫療保險",
       "changePercent": 0.6319464935575866,
-      "reason": "醫療成本趨勢轉佳，第一季財報優於預期，獲分析師調升目標價。"
+      "reason": "第一季財報優於預期並調升全年獲利展望，轉型計畫發酵。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點集中在科技股，尤其是記憶體、AI晶片和半導體族群，但整體呈現獲利了結的賣壓。美光（MU）和晟碟（SNDK）等記憶體股因市場對AI資本支出效益的疑慮，以及美光財報公布前的獲利了結，導致股價大幅下跌，帶動費城半導體指數重挫。 儘管如此，SpaceX（SPCX）在經歷連續下跌後逆勢上漲，市場對其AI與太空業務的長期發展仍有分歧看法。 雲端軟體SaaS和電子商務等族群則有部分個股逆勢上漲，顯示資金在市場震盪中尋求防禦性或具特定利多題材的標的。",
+    "highlights": "本日美股成交重點聚焦於AI相關科技股的劇烈震盪，特別是半導體族群在經歷數月飆漲後出現大規模獲利了結賣壓。美光（MU）在財報公布前暴跌逾13%，Nvidia（NVDA）、Sandisk（SNDK）、Intel（INTC）、AMD（AMD）、Marvell（MRVL）、Broadcom（AVGO）及台積電ADR（TSM）等晶片股也普遍重挫，顯示市場對AI概念股估值過熱的擔憂加劇，資金集中行情開始逆轉。 另一方面，微軟（MSFT）和亞馬遜（AMZN）等雲端服務巨頭相對抗跌，顯示市場資金可能開始轉向具備穩定雲端訂閱收入、AI變現能見度較高的公司。 特斯拉（TSLA）則受到自駕調查壓力與歐洲市場競爭加劇的影響而下跌。",
     "eventsPast": [
       {
-        "title": "美股科技股與半導體族群遭遇大規模拋售",
-        "detail": "市場對AI概念股估值過熱及聯準會可能轉趨鷹派的擔憂，引發投資人獲利了結，導致那斯達克指數和費城半導體指數大幅下跌。"
+        "title": "晶片股全面重挫，費半指數狂瀉近8%",
+        "detail": "2026年6月23日，費城半導體指數狂瀉1,152.21點，跌幅7.9%，從前一天的歷史高點回落，30檔成分股全部收黑。"
       },
       {
-        "title": "美光科技(MU)股價暴跌，記憶體與儲存裝置類股成重災區",
-        "detail": "在財報公布前，美光科技股價重挫超過13%，SanDisk(SNDK)和Western Digital(WDC)等記憶體與儲存裝置業者也大幅回檔，反映市場對AI資本支出效益的疑慮。"
+        "title": "美光科技（MU）財報前暴跌13%",
+        "detail": "美光科技在2026年6月23日暴跌13.18%，市場擔憂記憶體價格循環見頂的跡象已提前反映在股價，該公司預定於2026年6月24日收盤後公布財報。"
       },
       {
-        "title": "SpaceX(SPCX)股價經歷劇烈波動後逆勢上漲",
-        "detail": "SpaceX在連續多日下跌並一度跌破IPO開盤價後，當日股價逆勢收高，但市場對其估值與AI業務發展前景仍存在分歧。"
+        "title": "SpaceX（SPCX）股價波動，曾跌破2兆美元市值後反彈",
+        "detail": "SpaceX股價在2026年6月23日早些時候一度跌破2兆美元市值，隨後反彈並收高1%，但近期股價仍呈現連續下跌走勢。"
       },
       {
-        "title": "聯準會(Fed)維持利率不變，但上修通膨預測並釋出鷹派訊號",
-        "detail": "聯準會於6月17日(台灣時間6月18日)結束的FOMC會議決議維持聯邦基金利率目標區間不變，但上修了今年的通膨預測，且點陣圖顯示官員對未來利率路徑的看法更趨鷹派。"
+        "title": "Alphabet（GOOGL）因AI人才流失及模型商品化疑慮而下跌",
+        "detail": "2026年6月22日，Google母公司Alphabet股價收跌約5%，創下超過一年來最大單日跌幅，市場擔憂AI人才流失、模型商品化趨勢，以及公司龐大AI投資能否帶來足夠回報。"
       },
       {
-        "title": "台積電(TSM)傳將全面調漲先進製程代工價格",
-        "detail": "有報導指出，台積電已陸續向客戶通知調漲3nm、7nm及以下所有先進製程的晶圓代工價格，漲幅約5%至10%，此舉可能影響約75%的晶圓營收來源。"
+        "title": "聯準會（Fed）維持利率不變，但市場擔憂未來升息",
+        "detail": "聯準會於2026年6月17日結束為期兩天的FOMC會議，決議維持聯邦基金利率目標區間在3.50%至3.75%，符合市場普遍預期，但半數決策者預計今年內將調高指標利率，市場對未來利率走向的能見度驟降。"
       }
     ],
     "eventsUpcoming": [
       {
         "date": "6/24",
-        "title": "美光科技(MU)公布財報",
-        "detail": "美光科技預計於盤後公布財報，其財測將是觀察AI伺服器、資料中心及高頻寬記憶體市場需求強弱的關鍵指標。"
+        "title": "美光科技（MU）公布財報",
+        "detail": "美光科技預計於2026年6月24日收盤後公布財報，市場高度關注其對記憶體產業和AI需求的展望。"
       },
       {
-        "date": "本週三",
-        "title": "美國新屋銷售數據公布",
-        "detail": "美國將公布5月份新屋銷售數據，預計年銷售率將有所增長，可作為評估住房市場復甦情況的依據。"
+        "date": "本週",
+        "title": "SpaceX（SPCX）發債籌資",
+        "detail": "SpaceX計畫透過債券發行籌集約200億美元資金，主要用於償還過渡性融資以及支撐其龐大的AI發展藍圖，包含最終在太空中建置資料中心的宏偉計畫。"
       },
       {
-        "date": "本週三",
-        "title": "美國貿易帳數據公布",
-        "detail": "預計美國第一季的貿易帳赤字將擴大，反映美國在全球貿易中的挑戰。"
+        "date": "未來幾週",
+        "title": "美國消費者物價指數（CPI）數據",
+        "detail": "投資人高度關注任何可能釋出訊號的通膨數據，以判斷Fed是否會在近期重啟升息步伐。"
       },
       {
-        "date": "6/26",
-        "title": "美國個人消費支出物價指數(PCE)公布",
-        "detail": "作為聯準會最重視的通膨指標，PCE數據的結果可能進一步影響市場對後續利率路徑的預期。"
-      },
-      {
-        "date": "7月下旬至8月上旬",
-        "title": "美股第二季財報季",
-        "detail": "科技股和工業股的業績指引將是市場關注的重點。"
+        "date": "未來幾季",
+        "title": "特斯拉（TSLA）Robotaxi與Optimus機器人量產數據",
+        "detail": "市場將關注Optimus機器人的量產出貨數字、Robotaxi在德州奧斯汀的付費乘客累積數量，以及特斯拉儲能業務的季度部署量，以評估其估值是否合理。"
       }
     ]
   }
