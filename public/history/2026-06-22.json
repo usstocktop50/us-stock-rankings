@@ -112,7 +112,7 @@
       "dollarVolume": 16040193864.27079,
       "marketCap": 2504147505606.44,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "雲端服務",
+      "theme": "電子商務",
       "isNew": false,
       "rankChange": 3,
       "streak": 71
@@ -242,7 +242,7 @@
       "dollarVolume": 6939932594.163582,
       "marketCap": 274380524413,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "資料分析軟體",
+      "theme": "數據分析軟體",
       "isNew": false,
       "rankChange": 13,
       "streak": 71
@@ -411,7 +411,7 @@
       "dollarVolume": 3900706123.2540584,
       "marketCap": 435477072027.2,
       "sector": "—",
-      "theme": "IC 設計 IP",
+      "theme": "IC 設計",
       "isNew": false,
       "rankChange": -17,
       "streak": 23
@@ -424,7 +424,7 @@
       "dollarVolume": 3885886463.6598125,
       "marketCap": 143507543480,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "行動廣告",
+      "theme": "廣告科技",
       "isNew": false,
       "rankChange": 17,
       "streak": 5
@@ -502,7 +502,7 @@
       "dollarVolume": 3376209331.699527,
       "marketCap": 83325299514.3,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "IT 顧問服務",
+      "theme": "IT 諮詢",
       "isNew": false,
       "rankChange": 2,
       "streak": 2
@@ -528,7 +528,7 @@
       "dollarVolume": 3331328528.885977,
       "marketCap": 49810503671.310005,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端 GPU",
+      "theme": "雲端運算",
       "isNew": false,
       "rankChange": -13,
       "streak": 6
@@ -554,7 +554,7 @@
       "dollarVolume": 3136931700.899641,
       "marketCap": 35159703552.36,
       "sector": "OPTICAL INSTRUMENTS & LENSES",
-      "theme": "半導體檢測",
+      "theme": "半導體設備",
       "isNew": false,
       "rankChange": -9,
       "streak": 11
@@ -567,7 +567,7 @@
       "dollarVolume": 3107384278.09445,
       "marketCap": 136027841804.4,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "PC 伺服器",
+      "theme": "電子電腦",
       "isNew": false,
       "rankChange": -7,
       "streak": 20
@@ -593,7 +593,7 @@
       "dollarVolume": 2974712610.9356785,
       "marketCap": 48144451416.299995,
       "sector": "RETAIL-AUTO & HOME SUPPLY STORES",
-      "theme": "汽車零配件零售",
+      "theme": "汽車零售",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -606,7 +606,7 @@
       "dollarVolume": 2970798063.530716,
       "marketCap": 683339467363.13,
       "sector": "FIRE, MARINE & CASUALTY INSURANCE",
-      "theme": "綜合保險",
+      "theme": "多元控股",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -645,20 +645,20 @@
       "dollarVolume": 2853886668.327355,
       "marketCap": 56413293702.96,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "高速傳輸晶片",
+      "theme": "高速連接晶片",
       "isNew": true,
       "rankChange": null,
       "streak": 1
     }
   ],
   "asOf": "2026-06-22T20:00:00.000Z",
-  "generatedAt": "2026-06-23T08:37:07.344Z",
+  "generatedAt": "2026-06-24T02:04:19.802Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "半導體設備",
-      "reason": "全球半導體產業景氣回升，資本支出增加，帶動設備供應商營收成長。",
+      "reason": "AI與高效能運算需求持續推動半導體產業擴張，帶動設備供應商訂單成長。",
       "symbols": [
         "AMAT",
         "LRCX",
@@ -669,7 +669,7 @@
     },
     {
       "theme": "生物製藥",
-      "reason": "新藥研發進展或臨床數據公布，引發市場對潛在療法的期待。",
+      "reason": "新藥研發進展與併購消息持續刺激市場對生物製藥公司的關注。",
       "symbols": [
         "APGE",
         "LLY"
@@ -679,7 +679,7 @@
     },
     {
       "theme": "儲存裝置",
-      "reason": "記憶體與儲存需求受AI及資料中心建置帶動，產品價格回穩或上漲。",
+      "reason": "資料中心與AI應用對儲存容量的需求增加，推動相關廠商營收成長。",
       "symbols": [
         "SNDK",
         "STX"
@@ -688,33 +688,31 @@
       "avgChange": 3.1487663160168005
     },
     {
-      "theme": "電力基礎建設",
-      "reason": "全球能源轉型與電網升級需求，推動相關設備與服務供應商的成長。",
-      "symbols": [
-        "GEV",
-        "BE"
-      ],
-      "count": 2,
-      "avgChange": 3.3798727820017986
-    },
-    {
-      "theme": "光學元件",
-      "reason": "AI、資料中心及通訊技術發展，對高速光學傳輸與感測元件需求增加。",
-      "symbols": [
-        "LITE",
-        "COHR"
-      ],
-      "count": 2,
-      "avgChange": 7.193045439239945
-    },
-    {
       "theme": "記憶體",
-      "reason": "HBM等高頻寬記憶體需求強勁，推動記憶體產業復甦。",
+      "reason": "HBM與DDR5等高階記憶體需求旺盛，帶動記憶體價格回升與廠商獲利預期。",
       "symbols": [
         "MU"
       ],
       "count": 1,
       "avgChange": 6.8245751726205786
+    },
+    {
+      "theme": "電力基礎建設",
+      "reason": "全球能源轉型與電網升級需求，使電力基礎建設相關公司受到市場青睞。",
+      "symbols": [
+        "GEV"
+      ],
+      "count": 1,
+      "avgChange": 1.6094004848026007
+    },
+    {
+      "theme": "燃料電池",
+      "reason": "清潔能源解決方案需求增加，燃料電池技術的發展受到市場關注。",
+      "symbols": [
+        "BE"
+      ],
+      "count": 1,
+      "avgChange": 5.150345079200997
     }
   ],
   "newEntrants": [
@@ -723,104 +721,114 @@
       "name": "Apogee Therapeutics, Inc. Common Stock",
       "theme": "生物製藥",
       "changePercent": 46.65855277716311,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "AbbVie同意以109億美元收購Apogee Therapeutics，推動股價飆升。"
     },
     {
       "symbol": "SMCI",
       "name": "Super Micro Computer, Inc. Common Stock",
       "theme": "AI 伺服器",
       "changePercent": 15.655577299412919,
-      "reason": "近期無明確個股消息，可能受AI伺服器族群輪動帶動。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "COHR",
       "name": "Coherent Corp.",
       "theme": "光學元件",
       "changePercent": 9.217855584362251,
-      "reason": "近期無明確個股消息，可能受光學元件族群輪動帶動。"
+      "reason": "與NVIDIA深化合作，獲20億美元投資，並擴大AI資料中心光學元件產能。"
     },
     {
       "symbol": "GLW",
       "name": "Corning Incorporated",
       "theme": "特種玻璃",
       "changePercent": 7.649292017237855,
-      "reason": "近期無明確個股消息，可能受特種玻璃族群輪動帶動。"
+      "reason": "與Nvidia、Meta、Amazon達成數十億美元光纖協議，受AI需求帶動。"
     },
     {
       "symbol": "HOOD",
       "name": "Robinhood Markets, Inc. Class A Common Stock",
       "theme": "線上券商",
       "changePercent": -2.256125751271393,
-      "reason": "ARK持續買入Robinhood股票，顯示對其線上券商平台有信心。"
+      "reason": "推出AI驅動的交易功能，但高層內部出售股票導致股價回落。"
     },
     {
       "symbol": "AZO",
       "name": "AutoZone, Inc.",
-      "theme": "汽車零配件零售",
+      "theme": "汽車零售",
       "changePercent": -3.7663812457578474,
-      "reason": "公司高管在股價下跌後增持股票。"
+      "reason": "第三季度EPS優於預期但營收未達標，商業銷售成長強勁。"
     },
     {
       "symbol": "BRK.B",
       "name": "BERKSHIRE HATHAWAY Class B",
-      "theme": "綜合保險",
+      "theme": "多元控股",
       "changePercent": -0.15731622604502551,
-      "reason": "波克夏近期持續減持部分持股，並增持SiriusXM股票。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "AAL",
       "name": "American Airlines Group Inc.",
       "theme": "航空運輸",
       "changePercent": 0.5628517823639655,
-      "reason": "近期無明確個股消息，可能受航空運輸族群輪動帶動。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "CRDO",
       "name": "Credo Technology Group Holding Ltd Ordinary Shares",
-      "theme": "高速傳輸晶片",
+      "theme": "高速連接晶片",
       "changePercent": 11.290144575653901,
-      "reason": "近期無明確個股消息，可能受高速傳輸晶片族群輪動帶動。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI相關硬體供應鏈的強勁表現與部分雲端服務巨頭的回檔。記憶體（MU、SNDK）和儲存裝置（SNDK、WDC）族群受惠於AI對高頻寬記憶體（HBM）及資料中心儲存需求的爆發性增長，資金積極湧入，帶動股價飆升，其中美光科技（MU）更因與AI新創Anthropic達成戰略合作而創下歷史新高。相較之下，部分雲端服務巨頭（GOOGL、MSFT、AMZN）則面臨硬體短缺和資本支出壓力，股價出現回檔。太空科技股SpaceX（SPCX）在上市後一週內宣布發債，引發市場疑慮，股價大幅下跌。",
+    "highlights": "本日美股成交重點聚焦於科技股，特別是記憶體、儲存裝置和AI晶片相關類股，資金主要受AI基礎設施建置需求強勁以及記憶體價格上漲預期所驅動。Micron Technology (MU) 和 Sandisk (SNDK) 等記憶體和儲存裝置公司因市場預期DRAM和HBM內存價格將持續上漲而表現強勁，其中Micron Technology更是成交金額最高的個股。 此外，儘管部分大型科技股如Nvidia (NVDA)、Alphabet (GOOGL, GOOG) 和 Microsoft (MSFT) 出現下跌，但半導體製造商 Intel (INTC) 和 AI 晶片公司 AMD (AMD) 仍有不錯的漲幅，顯示市場對AI相關硬體投資的廣泛興趣。 值得注意的是，SpaceX (SPCX) 在經歷前一交易日大跌後，本日股價有所回升。",
     "eventsPast": [
       {
-        "title": "美光科技與Anthropic達成戰略合作",
-        "detail": "美光科技（MU）與人工智慧新創Anthropic簽署策略合作協議，涵蓋技術研發、長期供應、企業AI應用與資本投資，推升美光股價創歷史新高。"
+        "title": "美國5月非農就業報告強勁",
+        "detail": "美國勞工統計局於6月5日公布，5月非農就業人口新增17.2萬人，遠超市場預期，失業率維持在4.3%，顯示勞動市場持續強勁。"
       },
       {
-        "title": "SpaceX上市後宣布發行債券",
-        "detail": "SpaceX（SPCX）在上市一週後宣布發行至少200億美元的優先無擔保債券，用於資料及運算中心、電力基建等，引發市場對其快速擴張的疑慮，導致股價大幅下跌。"
+        "title": "美國5月CPI年增率達4.2%，創三年新高",
+        "detail": "美國勞工統計局於6月10日公布，5月消費者物價指數（CPI）年增4.2%，符合市場預期但高於4月的3.8%，主要受能源價格上漲影響，但核心CPI月增幅趨緩。"
       },
       {
-        "title": "亞馬遜洽談向第三方數據中心銷售AI晶片",
-        "detail": "亞馬遜（AMZN）正與其他公司洽談出售其自研AI晶片Trainium，此舉旨在將其AI加速器業務推向外部硬體市場，直接挑戰輝達（NVDA）在AI晶片領域的主導地位。"
+        "title": "聯準會維持利率不變，但升息預期升溫",
+        "detail": "聯準會於6月中的FOMC會議中維持聯邦基金利率在3.5%至3.75%不變，但因強勁的就業數據和通膨壓力，市場對年底升息的預期有所提高。"
       },
       {
-        "title": "雲端巨頭面臨硬體短缺與資本支出壓力",
-        "detail": "Alphabet (GOOGL)、亞馬遜 (AMZN)、微軟 (MSFT) 等雲端服務巨頭，因高頻寬記憶體（HBM）等硬體供應短缺，導致AI發展受限，資本支出飆升，股價面臨回檔壓力。"
+        "title": "Google DeepMind資深科學家跳槽，Alphabet股價受壓",
+        "detail": "Alphabet (GOOGL, GOOG) 因其AI研究部門Google DeepMind的資深科學家John Jumper跳槽至AI新創公司Anthropic，引發市場對AI開發競爭中人才流失的擔憂，導致股價下跌。"
       },
       {
-        "title": "半導體設備股表現強勁",
-        "detail": "半導體設備（AMAT、LRCX、KLAC）族群受惠於AI對DRAM資本支出增長的需求，以及晶圓廠擴產，股價普遍上漲，部分個股甚至翻倍。"
+        "title": "記憶體價格預期上調，推動相關類股上漲",
+        "detail": "金融公司Aletheia Capital大幅上調DRAM和HBM內存的價格預期，認為內存正成為AI硬體系統中最關鍵的部件，其綜合價值佔比將從2025年的約40%升至2027年的超70%，帶動Micron Technology (MU)、Sandisk (SNDK) 等記憶體和儲存裝置股盤前普漲。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "6/22",
-        "title": "美光科技（MU）財報公布",
-        "detail": "市場普遍預期美光科技（MU）將公布最新財報，其業績表現將成為檢驗AI投資熱潮能否延續的關鍵指標。"
+        "date": "本週三",
+        "title": "Micron Technology (MU) 財報公布",
+        "detail": "Micron Technology 將於本週三公布業績，市場對其記憶體晶片業務表現高度關注。"
       },
       {
-        "date": "本週",
-        "title": "美國重要經濟數據公布",
-        "detail": "本週將公布PCE通膨和GDP數據，這些數據將影響市場對聯準會未來貨幣政策的預期。"
+        "date": "7/28-29",
+        "title": "聯準會FOMC會議",
+        "detail": "聯邦公開市場委員會（FOMC）將於7月28日至29日召開會議，討論並公布最新的利率決策與政策聲明。"
       },
       {
-        "date": "7/9",
-        "title": "英國執政黨工黨新黨首提名程序啟動",
-        "detail": "英國首相斯塔默辭職後，執政黨工黨的新黨首提名程序將於7月9日開始，新領導人將於9月份就任。"
+        "date": "9/15-16",
+        "title": "聯準會FOMC會議",
+        "detail": "聯邦公開市場委員會（FOMC）將於9月15日至16日召開會議，討論並公布最新的利率決策與政策聲明，此次會議將附帶經濟預測摘要（SEP）。"
+      },
+      {
+        "date": "10/27-28",
+        "title": "聯準會FOMC會議",
+        "detail": "聯邦公開市場委員會（FOMC）將於10月27日至28日召開會議，討論並公布最新的利率決策與政策聲明。"
+      },
+      {
+        "date": "12/8-9",
+        "title": "聯準會FOMC會議",
+        "detail": "聯邦公開市場委員會（FOMC）將於12月8日至9日召開會議，討論並公布最新的利率決策與政策聲明，此次會議將附帶經濟預測摘要（SEP）。"
       }
     ]
   }
