@@ -151,7 +151,7 @@
       "dollarVolume": 11452258057.580929,
       "marketCap": 1817728666249.8599,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體設計",
+      "theme": "半導體網路通訊",
       "isNew": false,
       "rankChange": 0,
       "streak": 73
@@ -164,7 +164,7 @@
       "dollarVolume": 9752102195.248495,
       "marketCap": 242057160000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體設計",
+      "theme": "半導體網路通訊",
       "isNew": false,
       "rankChange": -2,
       "streak": 63
@@ -229,7 +229,7 @@
       "dollarVolume": 6066160102.413354,
       "marketCap": 453063526380,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "資料庫軟體",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": 2,
       "streak": 73
@@ -242,7 +242,7 @@
       "dollarVolume": 5323501395.329343,
       "marketCap": 260604096409,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "AI 軟體",
+      "theme": "資料分析軟體",
       "isNew": false,
       "rankChange": 3,
       "streak": 73
@@ -255,7 +255,7 @@
       "dollarVolume": 5067195540.739379,
       "marketCap": 208070140000,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "行動通訊晶片",
+      "theme": "手機晶片",
       "isNew": false,
       "rankChange": 4,
       "streak": 42
@@ -359,7 +359,7 @@
       "dollarVolume": 3736721627.8823504,
       "marketCap": 65548834000,
       "sector": "COMMUNICATIONS EQUIPMENT, NEC",
-      "theme": "光通訊",
+      "theme": "光通訊元件",
       "isNew": false,
       "rankChange": 4,
       "streak": 73
@@ -372,7 +372,7 @@
       "dollarVolume": 3630185107.6636686,
       "marketCap": 92782745302.92,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "燃料電池",
+      "theme": "氫能源",
       "isNew": false,
       "rankChange": 5,
       "streak": 8
@@ -385,7 +385,7 @@
       "dollarVolume": 3571931746.793027,
       "marketCap": 11534556789.28,
       "sector": "AIR TRANSPORTATION, SCHEDULED",
-      "theme": "航空運輸",
+      "theme": "航空",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -489,7 +489,7 @@
       "dollarVolume": 2890499091.7499127,
       "marketCap": 50408941408.35,
       "sector": "RETAIL-AUTO & HOME SUPPLY STORES",
-      "theme": "汽車零售",
+      "theme": "汽車零配件零售",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -528,7 +528,7 @@
       "dollarVolume": 2725457476.054489,
       "marketCap": 141014652178.4,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "電腦硬體",
+      "theme": "電子電腦",
       "isNew": false,
       "rankChange": 6,
       "streak": 22
@@ -593,7 +593,7 @@
       "dollarVolume": 2565713098.258121,
       "marketCap": 150328987110.05,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "共享經濟",
+      "theme": "叫車服務",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-06-24T20:00:00.000Z",
-  "generatedAt": "2026-06-25T05:03:55.487Z",
+  "generatedAt": "2026-06-25T06:43:26.819Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
-      "theme": "航空運輸",
-      "reason": "隨著全球旅遊需求持續復甦，航空業的營運狀況改善，帶動相關股票上漲。",
+      "theme": "航空",
+      "reason": "隨著全球旅遊需求持續復甦，航空業的營收和獲利前景看好，吸引資金流入。",
       "symbols": [
         "AAL"
       ],
@@ -667,7 +667,7 @@
     },
     {
       "theme": "線上旅遊",
-      "reason": "全球旅遊市場需求旺盛，線上旅遊平台受惠於訂單量增加及營收成長。",
+      "reason": "全球旅遊市場強勁反彈，線上旅遊平台受惠於預訂量增加及國際旅行恢復。",
       "symbols": [
         "BKNG"
       ],
@@ -675,8 +675,8 @@
       "avgChange": 7.286610630993254
     },
     {
-      "theme": "共享經濟",
-      "reason": "共享經濟模式持續擴張，平台用戶數及服務使用量成長，推動營收表現。",
+      "theme": "叫車服務",
+      "reason": "隨著經濟活動恢復和消費者出行增加，叫車服務平台的需求持續增長。",
       "symbols": [
         "UBER"
       ],
@@ -684,17 +684,8 @@
       "avgChange": 5.9997129323955685
     },
     {
-      "theme": "電力基礎建設",
-      "reason": "全球對能源轉型和電網現代化的需求增加，帶動電力基礎建設相關企業的成長。",
-      "symbols": [
-        "GEV"
-      ],
-      "count": 1,
-      "avgChange": 2.1903804904442667
-    },
-    {
       "theme": "光學材料",
-      "reason": "光學技術在各領域應用廣泛，市場對高性能光學材料的需求持續增加。",
+      "reason": "光學材料在多個高科技領域（如通訊、顯示器）應用廣泛，市場需求穩定增長。",
       "symbols": [
         "GLW"
       ],
@@ -702,13 +693,23 @@
       "avgChange": 6.05966919152884
     },
     {
-      "theme": "重型機械",
-      "reason": "全球基礎建設投資增加，帶動對重型機械設備的需求，支撐相關企業營收。",
+      "theme": "電力基礎建設",
+      "reason": "全球對能源轉型和電網現代化的投資增加，推動電力基礎建設相關企業的成長。",
       "symbols": [
-        "CAT"
+        "GEV"
       ],
       "count": 1,
-      "avgChange": 1.037348614159152
+      "avgChange": 2.1903804904442667
+    },
+    {
+      "theme": "半導體設備",
+      "reason": "半導體產業持續擴張，對先進製程設備的需求旺盛，帶動設備供應商的營收。",
+      "symbols": [
+        "AMAT",
+        "LRCX"
+      ],
+      "count": 2,
+      "avgChange": 0.7309452610961379
     }
   ],
   "newEntrants": [
@@ -717,114 +718,94 @@
       "name": "Cerebras Systems Inc. Class A Common Stock",
       "theme": "AI 晶片",
       "changePercent": -19.61009174311927,
-      "reason": "第一季財報營收超預期，但虧損擴大且毛利率預期下降，導致股價下跌。"
+      "reason": "Cerebras Systems公布強勁財報，但毛利率指引下降導致股價下跌。"
     },
     {
       "symbol": "MSTR",
       "name": "Strategy Inc Common Stock Class A",
       "theme": "比特幣/加密",
       "changePercent": -9.350924499229592,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "近期無明確個股消息，可能受比特幣價格波動影響。"
     },
     {
       "symbol": "AAL",
       "name": "American Airlines Group Inc.",
-      "theme": "航空運輸",
+      "theme": "航空",
       "changePercent": 8.054522924411405,
-      "reason": "油價下跌降低營運成本，加上分析師調升評級，提振投資人信心。"
+      "reason": "油價下跌提振航空股，且分析師上調目標價。"
     },
     {
       "symbol": "AZO",
       "name": "AutoZone, Inc.",
-      "theme": "汽車零售",
+      "theme": "汽車零配件零售",
       "changePercent": 1.3560000787799593,
-      "reason": "董事會批准額外15億美元庫藏股計畫，顯示公司對未來展望有信心。"
+      "reason": "AutoZone宣布額外15億美元庫藏股計畫。"
     },
     {
       "symbol": "JPM",
       "name": "JPMorgan Chase & Co.",
       "theme": "銀行",
       "changePercent": -0.20650026934817675,
-      "reason": "計劃提高季度股息並授權500億美元庫藏股計畫，回饋股東。"
+      "reason": "摩根大通計畫提高股息並授權500億美元庫藏股計畫。"
     },
     {
       "symbol": "UBER",
       "name": "Uber Technologies, Inc.",
-      "theme": "共享經濟",
+      "theme": "叫車服務",
       "changePercent": 5.9997129323955685,
-      "reason": "Uber Eats擴大零售合作夥伴，新增多個類別商品，拓寬業務範圍。"
+      "reason": "Uber Eats擴展零售合作夥伴，將更多商品納入外送服務。"
     },
     {
       "symbol": "BKNG",
       "name": "Booking Holdings Inc. Common Stock",
       "theme": "線上旅遊",
       "changePercent": 7.286610630993254,
-      "reason": "油價下跌預期可降低旅遊成本，刺激訂房量，利好線上旅遊業。"
+      "reason": "近期無明確個股消息，可能受線上旅遊族群輪動帶動。"
     },
     {
       "symbol": "APP",
       "name": "Applovin Corporation Class A Common Stock",
       "theme": "廣告科技",
       "changePercent": -0.4410945998030068,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "近期無明確個股消息，可能受廣告科技族群輪動帶動。"
     },
     {
       "symbol": "GE",
       "name": "GE Aerospace",
       "theme": "航空發動機",
       "changePercent": 2.6397733329592863,
-      "reason": "與Wolfspeed合作開發碳化矽技術，並獲分析師買入評級與目標價調升。"
+      "reason": "GE Aerospace獲得空軍引擎設計審查合約，且分析師看好。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI相關產業，特別是記憶體和AI晶片領域。資金主要集中在美光（MU）和輝達（NVDA）等公司，反映市場對AI資料中心需求持續強勁的預期。儘管部分科技巨頭如Alphabet和Amazon股價下跌，但整體半導體產業仍受AI熱潮帶動，尤其是記憶體晶片因供不應求而價格水漲船高。此外，SpaceX在上市後宣布發債，引發市場對其快速擴張的疑慮，導致股價重挫。",
+    "highlights": "本日美股成交重點聚焦於AI相關產業鏈的資金輪動，以及受國際油價下跌提振的旅遊相關族群。記憶體大廠美光科技（MU）在盤後公布優於預期的財報和展望後股價大漲，顯示AI記憶體需求依舊強勁，帶動市場對半導體設備股的關注。同時，油價下跌顯著降低了航空和線上旅遊業的運營成本，刺激了相關個股的買氣。此外，電力基礎建設也因AI數據中心對電力的龐大需求而受到市場青睞。",
     "eventsPast": [
       {
-        "title": "Fed維持利率不變，點陣圖轉趨鷹派",
-        "detail": "聯準會於6月17日宣布維持聯邦基金利率目標區間在3.50%至3.75%不變，符合市場預期，但同步公布的點陣圖和經濟預測摘要顯示官員立場轉向鷹派，預期2026年底利率中值將維持在3.8%，高於3月預測的3.4%。"
+        "title": "美光科技（MU）財報優於預期，AI記憶體需求強勁",
+        "detail": "美光科技於2026年6月24日盤後公布的第三財季財報顯示，營收和每股盈餘均高於市場預期，並預計第四季營收將達500億美元，優於分析師平均預估，主要受惠於AI相關基礎設施對高頻寬記憶體（HBM）的強勁需求。"
       },
       {
-        "title": "美光（MU）財報公布前股價大漲",
-        "detail": "記憶體大廠美光（MU）在6月24日公布財報前，因投資人看好AI帶動記憶體晶片需求，市場供不應求，產品價格水漲船高，其股價在6月22日大漲6.82%。"
+        "title": "國際油價持續下挫，航空、線上旅遊股集體上漲",
+        "detail": "美國WTI原油期貨盤中跌破70美元/桶，創3月2日以來新低，市場對中東局勢緩解和原油供應恢復的預期升溫，降低了航空公司的燃油成本壓力，同時提振了消費者出行意願，使航空（AAL）、線上旅遊（BKNG）和叫車服務（UBER）等相關類股集態上漲。"
       },
       {
-        "title": "SpaceX上市後發債引發市場疑慮",
-        "detail": "太空科技暨AI公司SpaceX在上市一週後即規劃發債200億美元，用於建設資料及運算中心、電力基建等，儘管獲得投資等級信評，但市場對其快速擴張及上市後即發債的行為持有不同看法，導致股價在6月22日重跌16.43%。"
+        "title": "半導體設備股受惠AI投資熱潮，股價表現亮眼",
+        "detail": "應用材料（AMAT）、拉姆研究（LRCX）等半導體設備公司因AI持續推動DRAM資本支出上行以及先進製程擴產需求，股價表現強勁，多家機構上調其目標價，預計設備交付週期將在2027年中趨於正常化。"
       },
       {
-        "title": "AI熱潮助攻美股標普納指創紀錄",
-        "detail": "美股受惠於AI需求與強勁就業報告，標普500與那斯達克指數在5月9日雙雙刷新紀錄，輝達（Nvidia）等科技股領漲，費城半導體指數表現尤為強勁。"
+        "title": "Corning（GLW）受惠AI基礎設施光纖佈線需求",
+        "detail": "光學材料大廠Corning（GLW）股價反彈，主要受惠於AI數據中心擴大GPU集群對高密度光纖佈線和連接解決方案的強勁需求，並與主要超大型雲端業者簽訂了數年、數十億美元的合作夥伴關係。"
       },
       {
-        "title": "DRAM價格因AI資料中心需求暴漲",
-        "detail": "DRAM價格在過去6週暴漲逾80%，主要原因是AI資料中心將大量記憶體供給吸走，導致DRAM價格短期內難以快速回落。"
+        "title": "Uber（UBER）受裴洛西買權申報及零售配送網絡擴張帶動",
+        "detail": "Uber Technologies（UBER）股價上漲，主要受到美國眾議員裴洛西公開披露對其長天期買權的看漲押注，以及Uber Eats零售市場大幅擴張，新增多家知名全國性零售商的策略性業務擴展所推動。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "6/25",
-        "title": "美國首次申請失業救濟金人數",
-        "detail": "美國勞工部將於6月25日公布上週首次申請失業救濟金人數，此數據為勞動市場的先行指標。"
-      },
-      {
-        "date": "6/25",
-        "title": "美國個人消費支出（PCE）物價指數",
-        "detail": "聯準會偏好的通膨指標——5月個人消費支出（PCE）物價指數將於6月25日公布，市場預期核心PCE年增率約為3.4%，此數據將影響聯準會未來的升息預期。"
-      },
-      {
-        "date": "6/30",
-        "title": "美國實際GDP",
-        "detail": "美國將於6月30日公布實際GDP的季調和同比數據，此為衡量經濟成長的重要指標。"
-      },
-      {
         "date": "7/1",
-        "title": "美國PMI製造業指數",
-        "detail": "美國將於7月1日公布PMI製造業指數，此數據反映製造業的景氣狀況。"
-      },
-      {
-        "date": "7/29",
-        "title": "FOMC利率決議",
-        "detail": "聯準會將於7月29日公布下一次的FOMC利率決議。"
+        "title": "Lime預計在美股上市",
+        "detail": "電動自行車和電動滑板車短期租賃服務公司Lime預計於7月1日在美股上市，Uber為其大股東。"
       }
     ]
   }
