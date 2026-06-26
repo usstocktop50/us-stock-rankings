@@ -73,7 +73,7 @@
       "dollarVolume": 17752418225.548664,
       "marketCap": 2441971413066.36,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電子商務",
+      "theme": "電商與雲端服務",
       "isNew": false,
       "rankChange": -2,
       "streak": 74
@@ -86,7 +86,7 @@
       "dollarVolume": 16201836616.330952,
       "marketCap": 667804620000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "CPU",
+      "theme": "CPU 晶片",
       "isNew": false,
       "rankChange": 2,
       "streak": 74
@@ -99,7 +99,7 @@
       "dollarVolume": 15241807033.839304,
       "marketCap": 2001767040000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "雲端服務",
+      "theme": "雲端與AI服務",
       "isNew": false,
       "rankChange": -1,
       "streak": 74
@@ -177,7 +177,7 @@
       "dollarVolume": 9434387616.16812,
       "marketCap": 1866988640000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "雲端服務",
+      "theme": "雲端與AI服務",
       "isNew": false,
       "rankChange": 0,
       "streak": 74
@@ -190,7 +190,7 @@
       "dollarVolume": 9272658941.626324,
       "marketCap": 1192167268357.56,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "社群媒體",
+      "theme": "社群媒體與AI",
       "isNew": false,
       "rankChange": 1,
       "streak": 74
@@ -242,7 +242,7 @@
       "dollarVolume": 6665334687.667464,
       "marketCap": 246299571998.18,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "大數據分析",
+      "theme": "AI數據分析",
       "isNew": false,
       "rankChange": 0,
       "streak": 74
@@ -307,7 +307,7 @@
       "dollarVolume": 5638694280.153949,
       "marketCap": 438481973160,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "資料庫軟體",
+      "theme": "企業軟體",
       "isNew": false,
       "rankChange": -6,
       "streak": 74
@@ -320,7 +320,7 @@
       "dollarVolume": 4863275426.496142,
       "marketCap": 486850331950.83,
       "sector": "CONSTRUCTION MACHINERY & EQUIP",
-      "theme": "重型機械",
+      "theme": "基礎建設機械",
       "isNew": false,
       "rankChange": 7,
       "streak": 7
@@ -333,7 +333,7 @@
       "dollarVolume": 4531420346.7456045,
       "marketCap": 133019511898,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "PC",
+      "theme": "電子電腦",
       "isNew": false,
       "rankChange": 15,
       "streak": 23
@@ -346,7 +346,7 @@
       "dollarVolume": 4143745664.2784758,
       "marketCap": 87944355108.24,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "燃料電池",
+      "theme": "氫能源",
       "isNew": false,
       "rankChange": 2,
       "streak": 9
@@ -398,7 +398,7 @@
       "dollarVolume": 3769017198.2192783,
       "marketCap": 56321325533.44,
       "sector": "—",
-      "theme": "雲端服務",
+      "theme": "雲端基礎設施",
       "isNew": false,
       "rankChange": -5,
       "streak": 32
@@ -424,7 +424,7 @@
       "dollarVolume": 3582538870.3782415,
       "marketCap": 11620536857.09,
       "sector": "AIR TRANSPORTATION, SCHEDULED",
-      "theme": "航空",
+      "theme": "航空運輸",
       "isNew": false,
       "rankChange": -3,
       "streak": 2
@@ -463,7 +463,7 @@
       "dollarVolume": 3253696320.7717104,
       "marketCap": 73881638777.52,
       "sector": "INSTRUMENTS FOR MEAS & TESTING OF ELECTRICITY & ELEC SIGNALS",
-      "theme": "半導體測試",
+      "theme": "半導體測試設備",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -528,7 +528,7 @@
       "dollarVolume": 3063771130.1012473,
       "marketCap": 33806402434.800003,
       "sector": "OPTICAL INSTRUMENTS & LENSES",
-      "theme": "半導體設備",
+      "theme": "半導體檢測設備",
       "isNew": false,
       "rankChange": -1,
       "streak": 14
@@ -554,7 +554,7 @@
       "dollarVolume": 2960617986.856262,
       "marketCap": 371381665639.6,
       "sector": "—",
-      "theme": "IP 設計",
+      "theme": "IP設計",
       "isNew": false,
       "rankChange": -7,
       "streak": 26
@@ -580,7 +580,7 @@
       "dollarVolume": 2732306916.2424717,
       "marketCap": 283776033161.71,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "類比IC",
+      "theme": "類比晶片",
       "isNew": false,
       "rankChange": -2,
       "streak": 5
@@ -593,7 +593,7 @@
       "dollarVolume": 2702094630.357313,
       "marketCap": 203568286627.2,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "類比IC",
+      "theme": "類比晶片",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -606,7 +606,7 @@
       "dollarVolume": 2669432137.434584,
       "marketCap": 83986134622.2,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "IT 諮詢",
+      "theme": "IT諮詢服務",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -652,25 +652,35 @@
     }
   ],
   "asOf": "2026-06-25T20:00:00.000Z",
-  "generatedAt": "2026-06-26T06:45:25.307Z",
+  "generatedAt": "2026-06-26T08:39:51.627Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "半導體設備",
-      "reason": "AI 晶片需求持續增長，帶動上游半導體製造設備訂單強勁。",
+      "reason": "AI需求持續推動半導體產業擴張，帶動相關設備供應商訂單成長。",
       "symbols": [
         "AMAT",
         "LRCX",
         "ASML",
+        "TER",
         "KLAC"
       ],
-      "count": 4,
-      "avgChange": 8.17343219334185
+      "count": 5,
+      "avgChange": 8.634251372651006
+    },
+    {
+      "theme": "記憶體",
+      "reason": "AI應用對高頻寬記憶體（HBM）的需求激增，推動記憶體價格上漲及相關公司獲利預期。",
+      "symbols": [
+        "MU"
+      ],
+      "count": 1,
+      "avgChange": 15.741385394512209
     },
     {
       "theme": "儲存裝置",
-      "reason": "記憶體與儲存需求受 AI 發展推動，市場預期價格將持續回升。",
+      "reason": "數據中心擴建及AI數據儲存需求增加，刺激儲存裝置市場成長。",
       "symbols": [
         "SNDK",
         "WDC",
@@ -680,26 +690,8 @@
       "avgChange": 10.033748058056963
     },
     {
-      "theme": "記憶體",
-      "reason": "AI 伺服器對高頻寬記憶體（HBM）需求旺盛，帶動整體記憶體市場復甦。",
-      "symbols": [
-        "MU"
-      ],
-      "count": 1,
-      "avgChange": 15.741385394512209
-    },
-    {
-      "theme": "生物科技",
-      "reason": "特定生物科技公司在創新藥物或診斷技術方面取得進展，吸引資金關注。",
-      "symbols": [
-        "TECH"
-      ],
-      "count": 1,
-      "avgChange": 20.084925690021237
-    },
-    {
       "theme": "光學材料",
-      "reason": "光學技術在半導體、通訊和顯示器領域應用廣泛，需求穩健。",
+      "reason": "光學技術在AI、數據中心和先進顯示器等領域應用廣泛，市場需求持續增長。",
       "symbols": [
         "GLW"
       ],
@@ -707,8 +699,17 @@
       "avgChange": 10.775883010251167
     },
     {
-      "theme": "重型機械",
-      "reason": "全球基礎建設投資增加以及礦業活動復甦，推動重型機械需求。",
+      "theme": "生物科技",
+      "reason": "生物科技領域的創新研發，特別是在新藥和診斷技術方面，持續吸引市場關注。",
+      "symbols": [
+        "TECH"
+      ],
+      "count": 1,
+      "avgChange": 20.084925690021237
+    },
+    {
+      "theme": "基礎建設機械",
+      "reason": "全球基礎建設投資增加，特別是能源轉型和數位基礎建設，帶動相關機械設備需求。",
       "symbols": [
         "CAT"
       ],
@@ -722,50 +723,101 @@
       "name": "Bio-Techne Corp.",
       "theme": "生物科技",
       "changePercent": 20.084925690021237,
-      "reason": "Merck KGaA同意以113億美元收購Bio-Techne，溢價36%。"
+      "reason": "德國默克集團宣布以113億美元收購，每股73美元現金，帶動股價飆升。"
     },
     {
       "symbol": "BRK.B",
       "name": "BERKSHIRE HATHAWAY Class B",
       "theme": "多元控股",
       "changePercent": -1.414684424324488,
-      "reason": "巴菲特繼任者Greg Abel大手筆投資Alphabet 100億美元及收購Taylor Morrison。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "TER",
       "name": "Teradyne, Inc. Common Stock",
-      "theme": "半導體測試",
+      "theme": "半導體測試設備",
       "changePercent": 10.477528089887638,
-      "reason": "主要客戶美光財報亮眼，AI相關需求帶動半導體測試業務成長。"
+      "reason": "納入Nasdaq 100指數，加上AI測試需求與分析師調升目標價。"
     },
     {
       "symbol": "ADI",
       "name": "Analog Devices, Inc.",
-      "theme": "類比IC",
+      "theme": "類比晶片",
       "changePercent": 1.15451641010746,
-      "reason": "第二季財報優於預期，上調財測，並宣布收購Empower Semiconductor。"
+      "reason": "數據中心訂單創新高，Q2財報優於預期，並收購Empower Semiconductor強化AI電源管理。"
     },
     {
       "symbol": "ACN",
       "name": "Accenture PLC",
-      "theme": "IT 諮詢",
+      "theme": "IT諮詢服務",
       "changePercent": -2.5783972125435635,
-      "reason": "近期財報指引疲軟，分析師下調評級，但董事會批准20億美元庫藏股計畫。"
+      "reason": "Q3營收展望低於預期，中東戰事影響，導致股價下跌。"
     },
     {
       "symbol": "PANW",
       "name": "Palo Alto Networks, Inc. Common Stock",
       "theme": "資安",
       "changePercent": 2.744864334291518,
-      "reason": "財報優於預期，分析師調升目標價，且持續透過收購強化AI資安產品線。"
+      "reason": "AI資安需求升溫、分析師調升目標價，與IBM、紅帽達成戰略合作。"
     },
     {
       "symbol": "ABBV",
       "name": "ABBVIE INC.",
       "theme": "生物製藥",
       "changePercent": 3.5122823449274128,
-      "reason": "宣布收購Apogee Therapeutics，深化免疫學產品組合，並獲歐洲藥品核准。"
+      "reason": "傳聞將以109億美元收購Apogee Therapeutics，強化免疫學產品線。"
     }
   ],
-  "marketBriefing": null
+  "marketBriefing": {
+    "highlights": "本日美股成交重點聚焦於記憶體、儲存裝置及半導體設備族群的強勁表現，主要由美光科技 (MU) 亮眼的財報和財測帶動。美光預期AI對記憶體的需求將持續至2027年以後，並已簽署大量長期供貨合約，激勵市場對整個記憶體供應鏈的樂觀情緒，使得SNDK、AMAT等相關個股飆漲。與此同時，大型科技股如AAPL、MSFT、NVDA等則普遍回調，部分原因是市場擔憂記憶體成本上升可能壓縮其利潤空間，以及對AI龐大投資回報時間表的重新評估。",
+    "eventsPast": [
+      {
+        "title": "美光科技 (MU) 公布亮眼財報與財測",
+        "detail": "美光科技公布2026會計年度第三季財報，營收年增超過四倍，獲利與營收均大幅優於市場預期，並預期AI帶動的記憶體需求將持續至2027年以後，激勵股價大漲。"
+      },
+      {
+        "title": "蘋果 (AAPL) 宣布調漲多項產品售價",
+        "detail": "蘋果宣布調漲Mac、iPad等多項硬體產品售價，理由是AI資料中心建設推升記憶體與儲存晶片價格，此舉引發市場對需求彈性的擔憂，導致股價重挫。"
+      },
+      {
+        "title": "Sandisk (SNDK) 股價飆漲受惠AI記憶體需求",
+        "detail": "受美光財報利多與花旗銀行上調目標價影響，Sandisk股價強勢大漲，市場看好其在AI資料中心對NAND快閃記憶體需求的結構性轉強。"
+      },
+      {
+        "title": "應用材料 (AMAT) 股價勁揚並創歷史新高",
+        "detail": "受惠於美光財報帶動的AI記憶體資本支出與半導體設備需求前景樂觀，應用材料股價勁揚並創歷史新高，同時公司也推出多款專為3D晶片架構設計的新晶片製造系統。"
+      },
+      {
+        "title": "微軟 (MSFT) 股價下跌，面臨義大利監管調查",
+        "detail": "微軟股價下跌，部分原因與大型科技股普遍回檔、市場重新評估AI投資回報有關，同時義大利反壟斷機構對其Microsoft 365訂閱服務價格上漲及AI功能整合展開調查。"
+      }
+    ],
+    "eventsUpcoming": [
+      {
+        "date": "7/29",
+        "title": "Meta Platforms (META) 財報公布",
+        "detail": "Meta Platforms預計於2026年7月29日公布財報，屆時將揭露其在社群媒體與AI領域的最新營運狀況與財測。"
+      },
+      {
+        "date": "8月",
+        "title": "Sandisk (SNDK) 投資人日",
+        "detail": "Sandisk預計在8月舉行投資人日，市場預期屆時將釋出需求預估更新與資本回報展望，值得投資人關注。"
+      },
+      {
+        "date": "本週四",
+        "title": "美國第一季GDP終值報告",
+        "detail": "美國商務部公布第一季國內生產毛額(GDP)終值報告，顯示美國經濟成長速度較先前預估更為強勁，但作為經濟主要引擎的消費支出幾乎停滯，反映企業投資與人工智慧(AI)相關支出正成為支撐美國經濟的重要動能。"
+      },
+      {
+        "date": "本週四",
+        "title": "美國5月PCE指數",
+        "detail": "美國5月個人消費支出(PCE)物價指數公布，為聯準會(Fed)偏好的通膨衡量指標，市場預計年增率將達到4.1%。"
+      },
+      {
+        "date": "近期",
+        "title": "聯準會 (Fed) 升息預期",
+        "detail": "由於物價壓力不斷增加，加上新任聯準會主席華許(Kevin Warsh)強調壓制通膨的必要性，市場交易員目前預計聯準會最快在9月就會升息至少1碼。"
+      }
+    ]
+  }
 }
