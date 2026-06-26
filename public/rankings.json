@@ -21,7 +21,7 @@
       "dollarVolume": 33871128548.649082,
       "marketCap": 345789584930,
       "sector": "COMPUTER STORAGE DEVICES",
-      "theme": "儲存設備",
+      "theme": "儲存裝置",
       "isNew": false,
       "rankChange": 1,
       "streak": 74
@@ -86,7 +86,7 @@
       "dollarVolume": 16201836616.330952,
       "marketCap": 667804620000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "CPU 晶片",
+      "theme": "CPU",
       "isNew": false,
       "rankChange": 2,
       "streak": 74
@@ -99,7 +99,7 @@
       "dollarVolume": 15241807033.839304,
       "marketCap": 2001767040000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "雲端軟體 SaaS",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": -1,
       "streak": 74
@@ -177,7 +177,7 @@
       "dollarVolume": 9434387616.16812,
       "marketCap": 1866988640000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "雲端軟體 SaaS",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": 0,
       "streak": 74
@@ -216,7 +216,7 @@
       "dollarVolume": 8000821054.775294,
       "marketCap": 232794864456.09,
       "sector": "COMPUTER STORAGE DEVICES",
-      "theme": "儲存設備",
+      "theme": "儲存裝置",
       "isNew": false,
       "rankChange": -2,
       "streak": 72
@@ -281,7 +281,7 @@
       "dollarVolume": 5757863989.923863,
       "marketCap": 196234030478.25,
       "sector": "DRAWING & INSULATING OF NONFERROUS WIRE",
-      "theme": "光纖通訊",
+      "theme": "光學材料",
       "isNew": false,
       "rankChange": 3,
       "streak": 4
@@ -294,7 +294,7 @@
       "dollarVolume": 5745910314.766364,
       "marketCap": 229915439237.11996,
       "sector": "COMPUTER STORAGE DEVICES",
-      "theme": "儲存設備",
+      "theme": "儲存裝置",
       "isNew": false,
       "rankChange": 0,
       "streak": 9
@@ -307,7 +307,7 @@
       "dollarVolume": 5638694280.153949,
       "marketCap": 438481973160,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體 SaaS",
+      "theme": "資料庫軟體",
       "isNew": false,
       "rankChange": -6,
       "streak": 74
@@ -320,7 +320,7 @@
       "dollarVolume": 4863275426.496142,
       "marketCap": 486850331950.83,
       "sector": "CONSTRUCTION MACHINERY & EQUIP",
-      "theme": "基礎建設",
+      "theme": "重型機械",
       "isNew": false,
       "rankChange": 7,
       "streak": 7
@@ -333,7 +333,7 @@
       "dollarVolume": 4531420346.7456045,
       "marketCap": 133019511898,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "電子電腦",
+      "theme": "PC",
       "isNew": false,
       "rankChange": 15,
       "streak": 23
@@ -385,7 +385,7 @@
       "dollarVolume": 3869112575.8952136,
       "marketCap": 67061266000,
       "sector": "COMMUNICATIONS EQUIPMENT, NEC",
-      "theme": "光纖通訊",
+      "theme": "光通訊",
       "isNew": false,
       "rankChange": -2,
       "streak": 74
@@ -398,7 +398,7 @@
       "dollarVolume": 3769017198.2192783,
       "marketCap": 56321325533.44,
       "sector": "—",
-      "theme": "雲端軟體 SaaS",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": -5,
       "streak": 32
@@ -580,7 +580,7 @@
       "dollarVolume": 2732306916.2424717,
       "marketCap": 283776033161.71,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "類比晶片",
+      "theme": "類比IC",
       "isNew": false,
       "rankChange": -2,
       "streak": 5
@@ -593,7 +593,7 @@
       "dollarVolume": 2702094630.357313,
       "marketCap": 203568286627.2,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "類比晶片",
+      "theme": "類比IC",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -652,35 +652,25 @@
     }
   ],
   "asOf": "2026-06-25T20:00:00.000Z",
-  "generatedAt": "2026-06-26T05:08:33.775Z",
+  "generatedAt": "2026-06-26T06:45:25.307Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "半導體設備",
-      "reason": "AI需求持續增長，帶動上游半導體製造設備訂單強勁。",
+      "reason": "AI 晶片需求持續增長，帶動上游半導體製造設備訂單強勁。",
       "symbols": [
         "AMAT",
         "LRCX",
         "ASML",
-        "TER",
         "KLAC"
       ],
-      "count": 5,
-      "avgChange": 8.634251372651006
+      "count": 4,
+      "avgChange": 8.17343219334185
     },
     {
-      "theme": "記憶體",
-      "reason": "HBM和DDR5需求旺盛，推動記憶體價格上漲，產業景氣復甦。",
-      "symbols": [
-        "MU"
-      ],
-      "count": 1,
-      "avgChange": 15.741385394512209
-    },
-    {
-      "theme": "儲存設備",
-      "reason": "數據中心擴建和企業級儲存需求增加，帶動相關設備銷售。",
+      "theme": "儲存裝置",
+      "reason": "記憶體與儲存需求受 AI 發展推動，市場預期價格將持續回升。",
       "symbols": [
         "SNDK",
         "WDC",
@@ -690,18 +680,17 @@
       "avgChange": 10.033748058056963
     },
     {
-      "theme": "光纖通訊",
-      "reason": "全球網路基礎設施升級和5G部署加速，對光纖通訊元件需求增加。",
+      "theme": "記憶體",
+      "reason": "AI 伺服器對高頻寬記憶體（HBM）需求旺盛，帶動整體記憶體市場復甦。",
       "symbols": [
-        "GLW",
-        "LITE"
+        "MU"
       ],
-      "count": 2,
-      "avgChange": 6.541609623768247
+      "count": 1,
+      "avgChange": 15.741385394512209
     },
     {
       "theme": "生物科技",
-      "reason": "創新藥物研發進展和併購活動，為生物科技公司帶來成長動能。",
+      "reason": "特定生物科技公司在創新藥物或診斷技術方面取得進展，吸引資金關注。",
       "symbols": [
         "TECH"
       ],
@@ -709,13 +698,22 @@
       "avgChange": 20.084925690021237
     },
     {
-      "theme": "AI 晶片",
-      "reason": "AI應用持續擴展，對高效能AI晶片的需求保持強勁。",
+      "theme": "光學材料",
+      "reason": "光學技術在半導體、通訊和顯示器領域應用廣泛，需求穩健。",
       "symbols": [
-        "AMD"
+        "GLW"
       ],
       "count": 1,
-      "avgChange": 2.468541963289345
+      "avgChange": 10.775883010251167
+    },
+    {
+      "theme": "重型機械",
+      "reason": "全球基礎建設投資增加以及礦業活動復甦，推動重型機械需求。",
+      "symbols": [
+        "CAT"
+      ],
+      "count": 1,
+      "avgChange": 6.290914575896219
     }
   ],
   "newEntrants": [
@@ -724,49 +722,49 @@
       "name": "Bio-Techne Corp.",
       "theme": "生物科技",
       "changePercent": 20.084925690021237,
-      "reason": "德國默克集團同意以113億美元收購Bio-Techne，帶動股價大漲。"
+      "reason": "Merck KGaA同意以113億美元收購Bio-Techne，溢價36%。"
     },
     {
       "symbol": "BRK.B",
       "name": "BERKSHIRE HATHAWAY Class B",
       "theme": "多元控股",
       "changePercent": -1.414684424324488,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "巴菲特繼任者Greg Abel大手筆投資Alphabet 100億美元及收購Taylor Morrison。"
     },
     {
       "symbol": "TER",
       "name": "Teradyne, Inc. Common Stock",
       "theme": "半導體測試",
       "changePercent": 10.477528089887638,
-      "reason": "納入Nasdaq-100指數，加上AI及自動化領域合作，推動股價上漲。"
+      "reason": "主要客戶美光財報亮眼，AI相關需求帶動半導體測試業務成長。"
     },
     {
       "symbol": "ADI",
       "name": "Analog Devices, Inc.",
-      "theme": "類比晶片",
+      "theme": "類比IC",
       "changePercent": 1.15451641010746,
-      "reason": "財報亮眼、營收超越預期，且獲多家分析師上調目標價。"
+      "reason": "第二季財報優於預期，上調財測，並宣布收購Empower Semiconductor。"
     },
     {
       "symbol": "ACN",
       "name": "Accenture PLC",
       "theme": "IT 諮詢",
       "changePercent": -2.5783972125435635,
-      "reason": "財測轉趨保守與AI衝擊疑慮，導致股價下跌。"
+      "reason": "近期財報指引疲軟，分析師下調評級，但董事會批准20億美元庫藏股計畫。"
     },
     {
       "symbol": "PANW",
       "name": "Palo Alto Networks, Inc. Common Stock",
       "theme": "資安",
       "changePercent": 2.744864334291518,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "財報優於預期，分析師調升目標價，且持續透過收購強化AI資安產品線。"
     },
     {
       "symbol": "ABBV",
       "name": "ABBVIE INC.",
       "theme": "生物製藥",
       "changePercent": 3.5122823449274128,
-      "reason": "斥資109億美元收購Apogee Therapeutics，擴大免疫學產品組合。"
+      "reason": "宣布收購Apogee Therapeutics，深化免疫學產品組合，並獲歐洲藥品核准。"
     }
   ],
   "marketBriefing": null
