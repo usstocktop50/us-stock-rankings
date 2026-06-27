@@ -216,7 +216,7 @@
       "dollarVolume": 12795287311.206034,
       "marketCap": 1736611923873.96,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網通晶片",
+      "theme": "網路通訊晶片",
       "isNew": false,
       "rankChange": -1,
       "streak": 75
@@ -229,7 +229,7 @@
       "dollarVolume": 12786233564.154451,
       "marketCap": 644936320000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "CPU",
       "isNew": false,
       "rankChange": -11,
       "streak": 75
@@ -242,7 +242,7 @@
       "dollarVolume": 11219357964.147583,
       "marketCap": 233370395999.99997,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網通晶片",
+      "theme": "網路通訊晶片",
       "isNew": false,
       "rankChange": -8,
       "streak": 65
@@ -268,7 +268,7 @@
       "dollarVolume": 9948356464.07801,
       "marketCap": 190243991216.25,
       "sector": "DRAWING & INSULATING OF NONFERROUS WIRE",
-      "theme": "光學材料",
+      "theme": "特用玻璃",
       "isNew": false,
       "rankChange": 1,
       "streak": 5
@@ -281,7 +281,7 @@
       "dollarVolume": 9303169216.664717,
       "marketCap": 44381739724,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "高速傳輸",
+      "theme": "高速傳輸晶片",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -333,7 +333,7 @@
       "dollarVolume": 7851367406.19866,
       "marketCap": 422431299962.16,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售百貨",
+      "theme": "零售通路",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -502,7 +502,7 @@
       "dollarVolume": 5312943413.283491,
       "marketCap": 32479226821.44,
       "sector": "OPTICAL INSTRUMENTS & LENSES",
-      "theme": "半導體檢測",
+      "theme": "半導體檢測設備",
       "isNew": false,
       "rankChange": 2,
       "streak": 15
@@ -528,7 +528,7 @@
       "dollarVolume": 5006061523.892097,
       "marketCap": 68387008891.32,
       "sector": "INSTRUMENTS FOR MEAS & TESTING OF ELECTRICITY & ELEC SIGNALS",
-      "theme": "半導體測試",
+      "theme": "半導體測試設備",
       "isNew": false,
       "rankChange": -5,
       "streak": 2
@@ -541,7 +541,7 @@
       "dollarVolume": 4895036535.95366,
       "marketCap": 155112644790.6,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "叫車服務",
+      "theme": "共享經濟",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -567,7 +567,7 @@
       "dollarVolume": 4711221691.977777,
       "marketCap": 107576898954.21,
       "sector": "ROLLING DRAWING & EXTRUDING OF NONFERROUS METALS",
-      "theme": "航空航太材料",
+      "theme": "航太材料",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -606,7 +606,7 @@
       "dollarVolume": 4578214626.51308,
       "marketCap": 43226691028.62,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端運算",
+      "theme": "雲端運算服務",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -632,7 +632,7 @@
       "dollarVolume": 4469109743.62719,
       "marketCap": 75775037103.92,
       "sector": "HOTELS & MOTELS",
-      "theme": "飯店服務",
+      "theme": "飯店",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-06-26T20:00:00.000Z",
-  "generatedAt": "2026-06-27T04:50:08.782Z",
+  "generatedAt": "2026-06-27T06:15:12.642Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型需求持續推動雲端服務和軟體解決方案的增長，市場對此類公司的未來營收預期樂觀。",
+      "reason": "企業數位轉型需求持續增長，雲端軟體服務商受惠於訂閱制收入穩定成長及AI應用整合。",
       "symbols": [
         "MSFT",
         "PLTR",
@@ -669,7 +669,7 @@
     },
     {
       "theme": "生技製藥",
-      "reason": "新藥研發進展和市場對創新療法的需求，特別是減肥藥物，持續吸引資金關注。",
+      "reason": "新藥研發進展與市場對特定疾病治療需求的增加，推動了生技製藥板塊的表現。",
       "symbols": [
         "ABBV",
         "LLY"
@@ -679,7 +679,7 @@
     },
     {
       "theme": "支付服務",
-      "reason": "全球數位支付趨勢不減，電子交易量持續成長，帶動相關服務提供商的營收。",
+      "reason": "全球數位支付趨勢不減，電子交易量持續擴大，帶動支付服務提供商的營收成長。",
       "symbols": [
         "V",
         "MA"
@@ -689,118 +689,153 @@
     },
     {
       "theme": "網路服務",
-      "reason": "儘管市場競爭激烈，但大型網路服務公司透過多元業務和廣告收入，仍能維持穩健表現。",
+      "reason": "網路廣告市場復甦及AI技術在搜尋與內容推薦的應用，提升了網路服務公司的市場價值。",
       "symbols": [
-        "NFLX",
-        "UBER"
-      ],
-      "count": 2,
-      "avgChange": 4.7857501915559215
-    },
-    {
-      "theme": "消費性電子",
-      "reason": "市場對新產品發布和技術創新的期待，推動了消費性電子龍頭的股價表現。",
-      "symbols": [
-        "AAPL"
+        "META"
       ],
       "count": 1,
-      "avgChange": 3.136471015809557
+      "avgChange": 1.3594414869121512
     },
     {
       "theme": "電動車",
-      "reason": "儘管產業競爭加劇，但電動車龍頭仍受惠於品牌影響力與未來成長潛力。",
+      "reason": "儘管市場競爭激烈，部分電動車廠仍透過新車款發表或技術創新吸引投資人目光。",
       "symbols": [
         "TSLA"
       ],
       "count": 1,
       "avgChange": 1.2236084452974982
+    },
+    {
+      "theme": "串流媒體",
+      "reason": "串流媒體平台持續推出獨家內容並優化用戶體驗，鞏固訂閱戶基礎。",
+      "symbols": [
+        "NFLX"
+      ],
+      "count": 1,
+      "avgChange": 4.104372355430178
     }
   ],
   "newEntrants": [
     {
       "symbol": "CRDO",
       "name": "Credo Technology Group Holding Ltd Ordinary Shares",
-      "theme": "高速傳輸",
+      "theme": "高速傳輸晶片",
       "changePercent": -11.203969704883773,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "財報優於預期且收購案強化AI晶片能力，但近期股價高檔修正壓力大。"
     },
     {
       "symbol": "COST",
       "name": "Costco Wholesale Corp",
-      "theme": "零售百貨",
+      "theme": "零售通路",
       "changePercent": 1.0931397520801447,
-      "reason": "Costco擴展加油站業務，並有特別股息預期帶動股價上漲。"
+      "reason": "上季獲利優於預期，會員續約率高，且汽油價格具競爭優勢。"
     },
     {
       "symbol": "VRT",
       "name": "Vertiv Holdings Co Class A Common Stock",
       "theme": "資料中心基礎設施",
       "changePercent": -6.640660994563382,
-      "reason": "Vertiv完成收購ThermoKey，擴展AI資料中心散熱產品組合。"
+      "reason": "受益於資料中心散熱與電源需求，收購案擴大產能，AI基礎設施樂觀。"
     },
     {
       "symbol": "SNOW",
       "name": "Snowflake Inc.",
       "theme": "雲端資料庫",
       "changePercent": 9.64502774597023,
-      "reason": "Snowflake財報優於預期，且獲多家分析師調升目標價。"
+      "reason": "財報產品營收成長強勁，AI應用帶動平台使用量，獲利能力提升。"
     },
     {
       "symbol": "V",
       "name": "VISA Inc.",
       "theme": "支付服務",
       "changePercent": 1.7275807817983893,
-      "reason": "Visa推出全球旅遊平台Visa Destinations，擴展旅遊體驗服務。"
+      "reason": "調整股票轉換方案，並獲授權向訴訟託管帳戶存入2.5億美元。"
     },
     {
       "symbol": "UBER",
       "name": "Uber Technologies, Inc.",
-      "theme": "叫車服務",
+      "theme": "共享經濟",
       "changePercent": 5.467128027681665,
-      "reason": "Uber擴大機器人計程車服務至西班牙和蘇黎世。"
+      "reason": "擴大Uber Eats零售合作夥伴，分析師上調目標價，工業板塊成長領先。"
     },
     {
       "symbol": "HWM",
       "name": "Howmet Aerospace Inc.",
-      "theme": "航空航太材料",
+      "theme": "航太材料",
       "changePercent": -1.5633008713480203,
-      "reason": "Howmet Aerospace第一季財報強勁，並上調2026年財測。"
+      "reason": "競爭同業IPO超預期衝擊情緒，但分析師仍看好航太與國防需求。"
     },
     {
       "symbol": "MA",
       "name": "Mastercard Incorporated",
       "theme": "支付服務",
       "changePercent": 2.0657776323324812,
-      "reason": "Mastercard推出新的旅遊產品和商業卡，吸引投資者關注。"
+      "reason": "與PaidBy合作推動開放銀行支付，擴大穩定幣結算能力。"
     },
     {
       "symbol": "MPWR",
       "name": "Monolithic Power Systems, Inc.",
       "theme": "電源管理晶片",
       "changePercent": -8.689425015643469,
-      "reason": "Monolithic Power Systems受惠於AI需求，並宣布第二季現金股利。"
+      "reason": "半導體板塊復甦，AI伺服器需求強勁，但近期股價高檔轉弱。"
     },
     {
       "symbol": "CRWV",
       "name": "CoreWeave, Inc. Class A Common Stock",
-      "theme": "雲端運算",
+      "theme": "雲端運算服務",
       "changePercent": -2.2073714054273053,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動，但獲利預期下修。"
     },
     {
       "symbol": "HLT",
       "name": "Hilton Worldwide Holdings Inc.",
-      "theme": "飯店服務",
+      "theme": "飯店",
       "changePercent": -2.2581118778446623,
-      "reason": "Hilton與Big Brothers Big Sisters合作，並推出新的生活風格品牌。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "KO",
       "name": "Coca-Cola Company",
       "theme": "飲料",
       "changePercent": 2.7480726187515465,
-      "reason": "可口可樂獲分析師看好，並被視為通膨上升時的防禦性股票。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     }
   ],
-  "marketBriefing": null
+  "marketBriefing": {
+    "highlights": "本日美股成交重點聚焦於AI相關產業的資金輪動與部分科技巨頭的調整。記憶體晶片股如美光科技（MU）和Sandisk（SNDK）雖然成交量大，但普遍呈現下跌，反映市場對AI基礎設施成本和晶片需求前景的疑慮。蘋果（AAPL）和微軟（MSFT）等消費性電子和雲端軟體巨頭因產品漲價和AI投資策略調整而受到關注，成交金額龐大。整體而言，資金似乎正從部分AI龍頭股轉向AI基礎設施相關的半導體公司，但市場對科技股的高估值和未來獲利能力仍存在分歧。",
+    "eventsPast": [
+      {
+        "title": "美光科技財報優於預期，但股價下跌",
+        "detail": "美光科技（MU）公布的財報和財測優於預期，但股價仍下跌6.69%，顯示市場對記憶體晶片產業的擔憂。"
+      },
+      {
+        "title": "蘋果調整Mac晶片策略並調漲產品售價",
+        "detail": "蘋果（AAPL）計劃跳過M6高階版，直接推出AI導向的M7系列晶片，並因記憶體成本上升而調漲多項硬體產品售價，導致股價上漲3.14%。"
+      },
+      {
+        "title": "OpenAI傳延後IPO，影響AI概念股",
+        "detail": "有報導指出OpenAI可能將首次公開募股（IPO）延後至2027年，導致市場對AI題材的樂觀情緒降溫，晶片股普遍承壓。"
+      },
+      {
+        "title": "SpaceX債券發行超額認購，但股價波動",
+        "detail": "SpaceX（SPCX）首次發行的債券獲得約3.6倍的超額認購，顯示市場對其仍有信心，但股價仍有波動。"
+      },
+      {
+        "title": "美國第一季GDP上修，AI投資為主要動能",
+        "detail": "美國商務部公布的第一季國內生產毛額（GDP）終值報告顯示經濟成長強勁，主要由企業投資和AI相關支出支撐，但消費支出幾乎停滯。"
+      }
+    ],
+    "eventsUpcoming": [
+      {
+        "date": "7/1",
+        "title": "通用磨坊（GIS）第四季度財報",
+        "detail": "通用磨坊（GIS）預計將於7月1日發布第四季度財報，市場預期EPS為0.82美元，同比增長。"
+      },
+      {
+        "date": "7/24",
+        "title": "美國運通（AXP）第二季度財報線上說明會",
+        "detail": "美國運通（AXP）將於7月24日舉辦第二季度財報線上說明會，以驗證公司能否延續高增長、消化潛在不利因素。"
+      }
+    ]
+  }
 }
