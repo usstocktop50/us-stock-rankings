@@ -6,7 +6,7 @@
       "price": 1132.33,
       "changePercent": -6.693529780150962,
       "dollarVolume": 99337460801.53232,
-      "marketCap": 1276967097968.8298,
+      "marketCap": 1278845746671.8298,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
       "theme": "記憶體",
       "isNew": false,
@@ -112,7 +112,7 @@
       "dollarVolume": 27397432274.883263,
       "marketCap": 850488681289.6201,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "AI 晶片",
+      "theme": "CPU/GPU",
       "isNew": false,
       "rankChange": 0,
       "streak": 75
@@ -216,7 +216,7 @@
       "dollarVolume": 12795287311.206034,
       "marketCap": 1736611923873.96,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網通晶片",
+      "theme": "網路通訊晶片",
       "isNew": false,
       "rankChange": -1,
       "streak": 75
@@ -229,7 +229,7 @@
       "dollarVolume": 12786233564.154451,
       "marketCap": 644936320000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "CPU",
+      "theme": "CPU/GPU",
       "isNew": false,
       "rankChange": -11,
       "streak": 75
@@ -242,7 +242,7 @@
       "dollarVolume": 11219357964.147583,
       "marketCap": 233370395999.99997,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網通晶片",
+      "theme": "網路通訊晶片",
       "isNew": false,
       "rankChange": -8,
       "streak": 65
@@ -268,7 +268,7 @@
       "dollarVolume": 9948356464.07801,
       "marketCap": 190243991216.25,
       "sector": "DRAWING & INSULATING OF NONFERROUS WIRE",
-      "theme": "光學材料",
+      "theme": "特用玻璃",
       "isNew": false,
       "rankChange": 1,
       "streak": 5
@@ -281,7 +281,7 @@
       "dollarVolume": 9303169216.664717,
       "marketCap": 44381739724,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "高速傳輸",
+      "theme": "高速傳輸晶片",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -333,7 +333,7 @@
       "dollarVolume": 7851367406.19866,
       "marketCap": 422431299962.16,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售通路",
+      "theme": "零售百貨",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -398,7 +398,7 @@
       "dollarVolume": 6889648592.368291,
       "marketCap": 259295335748.62003,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "大數據分析",
+      "theme": "資料分析軟體",
       "isNew": false,
       "rankChange": -12,
       "streak": 75
@@ -487,7 +487,7 @@
       "price": 148.53,
       "changePercent": -2.5777253049980366,
       "dollarVolume": 5476920642.051761,
-      "marketCap": 427179112380,
+      "marketCap": 427836357630,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
       "theme": "企業軟體",
       "isNew": false,
@@ -502,7 +502,7 @@
       "dollarVolume": 5312943413.283491,
       "marketCap": 32479226821.44,
       "sector": "OPTICAL INSTRUMENTS & LENSES",
-      "theme": "半導體檢測",
+      "theme": "半導體檢測設備",
       "isNew": false,
       "rankChange": 2,
       "streak": 15
@@ -528,7 +528,7 @@
       "dollarVolume": 5006061523.892097,
       "marketCap": 68387008891.32,
       "sector": "INSTRUMENTS FOR MEAS & TESTING OF ELECTRICITY & ELEC SIGNALS",
-      "theme": "半導體測試",
+      "theme": "半導體測試設備",
       "isNew": false,
       "rankChange": -5,
       "streak": 2
@@ -606,7 +606,7 @@
       "dollarVolume": 4578214626.51308,
       "marketCap": 43226691028.62,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體 SaaS",
+      "theme": "雲端運算",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -652,24 +652,22 @@
     }
   ],
   "asOf": "2026-06-26T20:00:00.000Z",
-  "generatedAt": "2026-06-27T07:54:45.959Z",
+  "generatedAt": "2026-06-30T02:02:28.876Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型與雲端服務需求持續增長，帶動相關軟體公司業績表現。",
+      "reason": "市場對企業數位轉型和雲端服務需求持續看好，帶動相關軟體公司股價上漲。",
       "symbols": [
-        "MSFT",
-        "PLTR",
-        "SNOW"
+        "MSFT"
       ],
-      "count": 3,
-      "avgChange": 6.876521491010628
+      "count": 1,
+      "avgChange": 5.708131394722684
     },
     {
       "theme": "減肥藥 GLP-1",
-      "reason": "減肥藥市場潛力巨大，新藥研發進展和市場需求持續推動相關藥廠股價。",
+      "reason": "GLP-1藥物在減重和糖尿病治療領域展現巨大市場潛力，持續吸引資金關注。",
       "symbols": [
         "LLY"
       ],
@@ -677,113 +675,112 @@
       "avgChange": 7.132279261144449
     },
     {
-      "theme": "支付服務",
-      "reason": "數位支付普及率提升，交易量增長，帶動支付平台營收。",
+      "theme": "雲端資料庫",
+      "reason": "隨著企業對數據分析和雲端儲存的需求增加，雲端資料庫解決方案提供商受到市場青睞。",
       "symbols": [
-        "V",
-        "MA"
+        "SNOW"
       ],
-      "count": 2,
-      "avgChange": 1.8966792070654352
+      "count": 1,
+      "avgChange": 9.64502774597023
+    },
+    {
+      "theme": "資料分析軟體",
+      "reason": "企業對大數據分析和人工智慧應用的需求增長，推動相關資料分析軟體公司表現強勁。",
+      "symbols": [
+        "PLTR"
+      ],
+      "count": 1,
+      "avgChange": 5.276405332338968
+    },
+    {
+      "theme": "叫車服務",
+      "reason": "全球經濟活動復甦帶動出行需求增加，叫車服務平台營收前景看好。",
+      "symbols": [
+        "UBER"
+      ],
+      "count": 1,
+      "avgChange": 5.467128027681665
     },
     {
       "theme": "生技製藥",
-      "reason": "新藥研發進展和市場需求持續推動相關藥廠股價。",
+      "reason": "醫療健康領域持續有新藥研發和併購消息，為生技製藥公司帶來成長動能。",
       "symbols": [
         "ABBV"
       ],
       "count": 1,
       "avgChange": 4.199226782923422
-    },
-    {
-      "theme": "電動車",
-      "reason": "電動車市場競爭激烈，但龍頭企業仍受市場關注。",
-      "symbols": [
-        "TSLA"
-      ],
-      "count": 1,
-      "avgChange": 1.2236084452974982
-    },
-    {
-      "theme": "消費性電子",
-      "reason": "新產品發表或銷售預期帶動相關公司股價。",
-      "symbols": [
-        "AAPL"
-      ],
-      "count": 1,
-      "avgChange": 3.136471015809557
     }
   ],
   "newEntrants": [
     {
       "symbol": "CRDO",
       "name": "Credo Technology Group Holding Ltd Ordinary Shares",
-      "theme": "高速傳輸",
+      "theme": "高速傳輸晶片",
       "changePercent": -11.203969704883773,
       "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "COST",
       "name": "Costco Wholesale Corp",
-      "theme": "零售通路",
+      "theme": "零售百貨",
       "changePercent": 1.0931397520801447,
-      "reason": "5月銷售額強勁增長，數位銷售額增長超過21%。"
+      "reason": "5月銷售額年增14.5%，分析師維持評級看好AI受益。"
     },
     {
       "symbol": "VRT",
       "name": "Vertiv Holdings Co Class A Common Stock",
       "theme": "資料中心基礎設施",
       "changePercent": -6.640660994563382,
-      "reason": "AI資料中心需求強勁，Vertiv收購ThermoKey擴展散熱產品組合。"
+      "reason": "AI數據中心基礎設施需求增長，但受半導體板塊拋售影響。"
     },
     {
       "symbol": "SNOW",
       "name": "Snowflake Inc.",
       "theme": "雲端資料庫",
       "changePercent": 9.64502774597023,
-      "reason": "與Unlimitail合作，強化零售媒體和隱私保護數據解決方案。"
+      "reason": "Snowflake成為企業AI數據平台，獲Unlimitail選用建立零售媒體數據中心。"
     },
     {
       "symbol": "V",
       "name": "VISA Inc.",
       "theme": "支付服務",
       "changePercent": 1.7275807817983893,
-      "reason": "推出全球旅遊平台Visa Destinations，擴展旅遊體驗服務。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "UBER",
       "name": "Uber Technologies, Inc.",
       "theme": "叫車服務",
       "changePercent": 5.467128027681665,
-      "reason": "在西班牙和蘇黎世擴展機器人計程車服務，並加強美國司機背景審查。"
+      "reason": "裴洛西家族加碼買進長天期買權，看好未來股價表現。"
     },
     {
       "symbol": "HWM",
       "name": "Howmet Aerospace Inc.",
       "theme": "航太材料",
       "changePercent": -1.5633008713480203,
-      "reason": "受惠於商業航空航太市場強勁需求及分析師看好。"
+      "reason": "伯恩斯坦調高目標價，航太與國防需求強勁，營收獲利超預期。"
     },
     {
       "symbol": "MA",
       "name": "Mastercard Incorporated",
       "theme": "支付服務",
       "changePercent": 2.0657776323324812,
-      "reason": "受惠於投資者關注、持續成長計畫及旅遊、商業卡新措施。"
+      "reason": "與PaidBy合作推動開放銀行支付，擴大穩定幣結算能力。"
     },
     {
       "symbol": "MPWR",
       "name": "Monolithic Power Systems, Inc.",
       "theme": "電源管理IC",
       "changePercent": -8.689425015643469,
-      "reason": "受AI需求帶動，公司擴大產能，但高估值和內部控制問題仍是隱憂。"
+      "reason": "受半導體板塊整體拋售影響，AI電源股估值面臨壓力。"
     },
     {
       "symbol": "CRWV",
       "name": "CoreWeave, Inc. Class A Common Stock",
-      "theme": "雲端軟體 SaaS",
+      "theme": "雲端運算",
       "changePercent": -2.2073714054273053,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "CoreWeave推出AI研究智能體ARIA預覽版，並創AI訓練紀錄。"
     },
     {
       "symbol": "HLT",
@@ -797,38 +794,58 @@
       "name": "Coca-Cola Company",
       "theme": "飲料",
       "changePercent": 2.7480726187515465,
-      "reason": "分析師看好其估值與成長前景，以及作為防禦性股票的吸引力。"
+      "reason": "法人調升目標價，下半年迎產能擴張紅利。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股市場呈現兩樣情，記憶體與儲存裝置類股在美光財報優於預期後一度飆漲，但隨後因市場擔憂AI投資成本過高及科技股估值問題，引發獲利了結賣壓，導致費城半導體指數重挫，多數AI晶片股、記憶體股和半導體設備股下跌。另一方面，蘋果和微軟因記憶體成本上漲而調漲產品售價，市場對消費性電子需求產生疑慮，但蘋果股價在技術性反彈和AI平台長期潛力下收漲。雲端軟體SaaS、減肥藥GLP-1和生技製藥族群則因個別利多消息而有不錯表現，資金流向呈現分化。",
+    "highlights": "本日美股成交重點集中在記憶體、消費性電子和雲端軟體等科技股，以及太空探索相關個股。資金主要受到AI發展帶動的記憶體需求、蘋果產品漲價、微軟在雲端軟體SaaS領域的持續強化，以及SpaceX的併購與上市效應所驅動。市場故事圍繞著AI基礎設施投資、企業轉型與併購活動，但同時也面臨聯準會鷹派立場和高估值科技股的獲利了結壓力。",
     "eventsPast": [
       {
-        "title": "記憶體與AI晶片股重挫",
-        "detail": "美股費城半導體指數崩跌5.29%，輝達、台積電ADR、美光、Sandisk、AMD、Applied Materials等AI晶片、記憶體及半導體設備相關個股普遍下跌，主要受AI投資成本疑慮與獲利了結賣壓影響。"
+        "title": "蘋果宣布多項產品漲價，記憶體與儲存晶片成本壓力轉嫁消費者",
+        "detail": "蘋果於6月25日宣布調漲Mac、iPad、HomePod、Apple TV及Vision Pro頭戴裝置售價，主要原因是AI資料中心建設熱潮推升記憶體與儲存晶片價格，公司已無法繼續吸收成本壓力。"
       },
       {
-        "title": "蘋果、微軟調漲產品售價",
-        "detail": "蘋果宣布調漲MacBook、iPad等多項硬體產品售價，微軟也調漲Xbox遊戲主機價格，兩者皆歸因於記憶體與儲存元件成本飆升，引發市場對AI通膨及消費性電子需求的擔憂。"
+        "title": "美光科技躍升全球最重要股票之一，擺脫周期股定位",
+        "detail": "美光科技因AI帶動記憶體飆漲，市場影響力僅次於輝達和Alphabet，被瑞穗股票交易總經理Daniel O'Regan視為全球前三大最重要股票之一。"
       },
       {
-        "title": "SpaceX股價回落，太空股面臨修正",
-        "detail": "SpaceX上市熱潮退燒，股價從高點回落，多檔太空概念股跌幅逾50%，分析師認為市場開始重新審視太空產業的估值，並意識到產業發展所需時間可能更長。"
+        "title": "SpaceX獲准收購Mesh Optical Technologies，強化算力基礎設施",
+        "detail": "美國聯邦貿易委員會於6月25日快速審批通過SpaceX收購光通訊初創公司Mesh Optical Technologies，此舉旨在強化SpaceX的算力基礎設施，並為日後太空算力中心的光通訊奠定基礎。"
       },
       {
-        "title": "禮來GLP-1減肥藥與生技製藥利多",
-        "detail": "禮來(LLY)因肥胖症候選藥retatrutide的後期臨床進展及Zepbound與Mounjaro帶動的代謝疾病產品線擴張，股價大漲；生技製藥族群整體表現強勁，多家公司創52週新高。"
+        "title": "聯準會6月FOMC會議維持利率不變，但點陣圖顯示鷹派立場",
+        "detail": "聯準會於6月17日決議維持利率不變，但點陣圖顯示官員對年內升息看法分歧加大，對今年通膨預測大幅上修，市場解讀偏向鷹派。"
       },
       {
-        "title": "雲端軟體SaaS表現強勢",
-        "detail": "微軟(MSFT)股價上漲，ServiceNow(NOW)也因強化AI Control Tower與企業級代理式AI布局而上漲，顯示雲端軟體SaaS題材持續受到資金青睞。"
+        "title": "美國第一季GDP上修至2.1%，AI投資為主要支撐動能",
+        "detail": "美國商務部於6月25日公布第一季國內生產毛額(GDP)終值報告，顯示經濟成長速度較先前預估更強勁，主要由企業投資與AI相關支出支撐，但消費支出幾乎停滯。"
       }
     ],
     "eventsUpcoming": [
       {
+        "date": "本週三",
+        "title": "ISM 製造業PMI 公布",
+        "detail": "市場將關注ISM製造業PMI數據，以評估美國製造業的健康狀況。"
+      },
+      {
+        "date": "本週四",
+        "title": "6月非農就業報告公布",
+        "detail": "非農就業報告將提供美國勞動市場的最新情況，影響聯準會未來的政策走向。"
+      },
+      {
+        "date": "7/1",
+        "title": "聯準會主席Warsh在歐洲央行論壇發表談話",
+        "detail": "聯準會主席Warsh的談話內容將影響市場對未來利率政策的預期，若立場鷹派可能強化升息預期。"
+      },
+      {
         "date": "7/7",
-        "title": "SpaceX納入那斯達克100指數",
-        "detail": "太空探索技術公司（SpaceX）預計將於7月7日被納入那斯達克100指數，若順利完成公開上市，追蹤該指數的基金將進行買入操作。"
+        "title": "SpaceX納入Nasdaq100指數",
+        "detail": "SpaceX將於7月7日開盤前納入Nasdaq100指數，預期將激勵SpaceX及太空股走勢。"
+      },
+      {
+        "date": "8/26",
+        "title": "Nvidia (NVDA) 公布財報",
+        "detail": "作為當前市值最高的上市公司之一，Nvidia的財報將是第二季度財報季的關鍵考驗，市場高度關注其在AI晶片領域的表現。"
       }
     ]
   }
