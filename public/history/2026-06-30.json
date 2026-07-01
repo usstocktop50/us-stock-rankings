@@ -255,7 +255,7 @@
       "dollarVolume": 5959465454.901841,
       "marketCap": 39411629360.909996,
       "sector": "OPTICAL INSTRUMENTS & LENSES",
-      "theme": "半導體設備",
+      "theme": "半導體檢測設備",
       "isNew": false,
       "rankChange": 11,
       "streak": 17
@@ -268,7 +268,7 @@
       "dollarVolume": 5860812552.104766,
       "marketCap": 219832719639.75,
       "sector": "DRAWING & INSULATING OF NONFERROUS WIRE",
-      "theme": "光纖通訊",
+      "theme": "光學材料",
       "isNew": false,
       "rankChange": -2,
       "streak": 7
@@ -294,7 +294,7 @@
       "dollarVolume": 5273409296.488013,
       "marketCap": 422133025050.00006,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體 SaaS",
+      "theme": "企業軟體",
       "isNew": false,
       "rankChange": -1,
       "streak": 77
@@ -307,7 +307,7 @@
       "dollarVolume": 4487580585.908983,
       "marketCap": 1129552894598.58,
       "sector": "PHARMACEUTICAL PREPARATIONS",
-      "theme": "減肥藥 GLP-1",
+      "theme": "生技製藥",
       "isNew": false,
       "rankChange": 2,
       "streak": 29
@@ -346,7 +346,7 @@
       "dollarVolume": 4109893639.9907026,
       "marketCap": 194768660000,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "手機晶片",
+      "theme": "行動通訊晶片",
       "isNew": false,
       "rankChange": 0,
       "streak": 46
@@ -385,7 +385,7 @@
       "dollarVolume": 3816670039.940554,
       "marketCap": 462960915750.89996,
       "sector": "COMPUTER COMMUNICATIONS EQUIPMENT",
-      "theme": "網路通訊設備",
+      "theme": "網路設備",
       "isNew": false,
       "rankChange": 19,
       "streak": 6
@@ -398,7 +398,7 @@
       "dollarVolume": 3642468581.393654,
       "marketCap": 66757067999.99999,
       "sector": "COMMUNICATIONS EQUIPMENT, NEC",
-      "theme": "光纖通訊",
+      "theme": "光通訊元件",
       "isNew": false,
       "rankChange": -6,
       "streak": 77
@@ -515,7 +515,7 @@
       "dollarVolume": 3202858665.279766,
       "marketCap": 298361655376.77,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "金融服務",
+      "theme": "投資銀行",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -528,7 +528,7 @@
       "dollarVolume": 3099942051.7978697,
       "marketCap": 238712550621.80002,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "金融服務",
+      "theme": "商業銀行",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -580,7 +580,7 @@
       "dollarVolume": 2949816813.7216067,
       "marketCap": 699699678884.03,
       "sector": "FIRE, MARINE & CASUALTY INSURANCE",
-      "theme": "綜合保險",
+      "theme": "多元控股",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -593,7 +593,7 @@
       "dollarVolume": 2945997443.9189005,
       "marketCap": 82793462695.78,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "資料中心晶片",
+      "theme": "資料中心連接",
       "isNew": false,
       "rankChange": -2,
       "streak": 2
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-06-30T20:00:00.000Z",
-  "generatedAt": "2026-07-01T05:23:19.858Z",
+  "generatedAt": "2026-07-01T07:00:31.806Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "半導體設備",
-      "reason": "AI 晶片需求持續增長，帶動上游半導體設備廠訂單與營收表現亮眼，市場預期產業景氣復甦。",
+      "reason": "AI與高效能運算需求持續推動半導體產業擴張，帶動相關設備供應商訂單成長。",
       "symbols": [
         "AMAT",
         "LRCX",
@@ -670,7 +670,7 @@
     },
     {
       "theme": "AI 晶片",
-      "reason": "市場對人工智慧的投資熱潮不減，AI 晶片作為核心基礎設施，持續受到資金追捧。",
+      "reason": "人工智慧技術的快速發展，持續刺激市場對AI晶片的需求，推動相關供應商股價上漲。",
       "symbols": [
         "NVDA",
         "AMD"
@@ -679,18 +679,8 @@
       "avgChange": 5.151833244935688
     },
     {
-      "theme": "資料中心晶片",
-      "reason": "隨著雲端運算和 AI 應用擴展，資料中心對高效能晶片的需求強勁，推動相關供應商股價上漲。",
-      "symbols": [
-        "MRVL",
-        "ALAB"
-      ],
-      "count": 2,
-      "avgChange": 6.592928114637937
-    },
-    {
       "theme": "太空",
-      "reason": "商業太空產業持續發展，包括衛星發射、太空旅遊等領域的進展，吸引投資者關注。",
+      "reason": "商業太空探索與衛星通訊領域的進展，吸引投資者對太空產業的關注。",
       "symbols": [
         "SPCX",
         "RKLB"
@@ -699,17 +689,28 @@
       "avgChange": 3.8881367572075174
     },
     {
-      "theme": "儲存裝置",
-      "reason": "記憶體與儲存產業受惠於 AI 伺服器需求，以及終端市場庫存回補，價格預期上漲。",
+      "theme": "資安",
+      "reason": "全球網路攻擊事件頻傳，企業與政府對網路安全的重視程度提升，資安解決方案需求強勁。",
       "symbols": [
-        "SNDK"
+        "PANW",
+        "CRWD"
       ],
-      "count": 1,
-      "avgChange": 10.892561902857514
+      "count": 2,
+      "avgChange": 2.7199714716777206
+    },
+    {
+      "theme": "網路服務",
+      "reason": "數位廣告市場復甦與雲端服務需求穩定增長，支撐大型網路服務公司的表現。",
+      "symbols": [
+        "GOOGL",
+        "GOOG"
+      ],
+      "count": 2,
+      "avgChange": 0.8177337547274803
     },
     {
       "theme": "電力基礎建設",
-      "reason": "全球能源轉型與電網現代化需求，推動電力基礎建設相關企業的成長潛力。",
+      "reason": "全球能源轉型與電網現代化需求，帶動電力基礎建設相關企業的發展潛力。",
       "symbols": [
         "GEV"
       ],
@@ -723,95 +724,80 @@
       "name": "Exxon Mobil Corporation",
       "theme": "石油與天然氣",
       "changePercent": 0.4850801117154172,
-      "reason": "最高法院裁定允許艾克森美孚就古巴沒收資產提起訴訟，以及分析師調升評級。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。石油公司受油價、地緣政治影響。"
     },
     {
       "symbol": "CVX",
       "name": "Chevron Corporation",
       "theme": "石油與天然氣",
       "changePercent": -1.608595002077526,
-      "reason": "與微軟簽署20年電力採購協議，為德州數據中心供電。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。石油公司受油價、地緣政治影響。"
     },
     {
       "symbol": "GS",
       "name": "Goldman Sachs Group Inc.",
-      "theme": "金融服務",
+      "theme": "投資銀行",
       "changePercent": -0.86648827202243,
-      "reason": "高盛被Russell成長指數移除，轉入價值基準指數。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。投資銀行受市場情緒影響。"
     },
     {
       "symbol": "C",
       "name": "Citigroup Inc.",
-      "theme": "金融服務",
+      "theme": "商業銀行",
       "changePercent": -1.7755631974173631,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。商業銀行受市場情緒影響。"
     },
     {
       "symbol": "NKE",
       "name": "Nike, Inc.",
       "theme": "運動用品",
       "changePercent": -1.0366441658630658,
-      "reason": "第四季度財報超出預期，但2027財年上半年展望疲軟。"
+      "reason": "第四財季銷售額下滑但每股盈利急升，主因預期收回貿易關稅。"
     },
     {
       "symbol": "BRK.B",
       "name": "BERKSHIRE HATHAWAY Class B",
-      "theme": "綜合保險",
+      "theme": "多元控股",
       "changePercent": 0.8850806451612877,
-      "reason": "巴菲特旗下波克夏海瑟威承諾投資Alphabet 100億美元擴張AI基礎設施。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "AAL",
       "name": "American Airlines Group Inc.",
       "theme": "航空",
       "changePercent": 0.8370535714285634,
-      "reason": "富國銀行上調目標價，且燃油成本持續下降。"
+      "reason": "股價連七漲，受益於燃料供應緩解及低油價預期，分析師上調目標價。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點集中在AI晶片、記憶體、儲存裝置及半導體設備等科技類股，主要受惠於市場對AI應用需求的強勁預期以及相關產業的技術突破。Marvell Technology (MRVL) 和Sandisk (SNDK) 等個股因分析師上調目標價及長期供貨合約的利多消息帶動成交量，顯示資金持續追逐AI相關硬體與基礎設施的成長故事。此外，Alphabet (GOOGL) 納入道瓊工業指數也為市場帶來正面動能。",
+    "highlights": "本日美股成交重點聚焦於半導體與AI相關族群，資金明顯回流AI晶片股，由Marvell Technology (MRVL) 和AMD (AMD) 帶動了成交量，市場持續交易AI成長趨勢的故事。美光科技 (MU) 儘管近期股價漲幅顯著，但仍有分析師提醒記憶體產業的循環特性及估值疑慮。此外，亞馬遜 (AMZN) 積極投入AI基礎設施，微軟 (MSFT) 則在AI投資的同時進行成本控制，顯示科技巨頭在AI領域的策略佈局。",
     "eventsPast": [
       {
-        "title": "Marvell Technology (MRVL) 股價勁揚",
-        "detail": "Marvell Technology (MRVL) 股價在近期震盪的半導體族群中表現亮眼，單日上漲5.00%，顯示資金再度回流AI相關晶片股。"
+        "title": "Marvell Technology (MRVL) 大漲逾5%，搭AI浪潮上半年股價飆漲逾200%",
+        "detail": "Marvell Technology (MRVL) 股價勁揚，反映資金再度回流AI相關晶片股，帶動其短線強勢彈升。"
       },
       {
-        "title": "Sandisk (SNDK) 獲分析師上調目標價",
-        "detail": "Bernstein分析師Mark Newman將Sandisk (SNDK) 目標價大幅調升至3,000美元，主因是公司受惠於記憶體長期供貨協議定價模式的改變，預計到2030財年每股盈餘將可達到214美元。"
+        "title": "AMD (AMD) 單日大漲7.7%，市場重新評估AI晶片供應商",
+        "detail": "AMD (AMD) 在AI資本支出競賽白熱化背景下單日大漲，市場開始認真看待其在AI加速器和資料中心CPU領域的追趕空間。"
       },
       {
-        "title": "Alphabet (GOOGL) 納入道瓊工業指數",
-        "detail": "Alphabet (GOOGL) 於6月29日正式加入道瓊工業指數，取代威瑞森，首日收盤上漲4.7%。"
+        "title": "美光科技 (MU) 執行長指責大客戶激進壓價導致記憶體投資不足",
+        "detail": "美光科技執行長梅羅塔表示，部分大型客戶多年來激進壓低採購價格，導致產業在AI浪潮來襲前投資不足，造成AI需求暴增時供應跟不上。"
       },
       {
-        "title": "亞馬遜 (AMZN) 成立全新AI部門",
-        "detail": "亞馬遜旗下雲端事業AWS宣布投資10億美元成立「前線部署工程」部門，將派遣專業工程師進駐客戶端，協助企業建構與推出人工智慧系統。"
+        "title": "亞馬遜 (AMZN) 斥資10億美元成立全新AI部門，AWS組建大軍進駐企業",
+        "detail": "亞馬遜旗下雲端事業AWS宣布將投資10億美元成立「前線部署工程」部門，旨在協助企業客戶建構與推出人工智慧系統。"
       },
       {
-        "title": "微軟 (MSFT) 傳將裁員",
-        "detail": "微軟傳出最快將於下週宣布新一波裁員計畫，預計影響數千個職位，涵蓋銷售、顧問及Xbox遊戲部門等多個業務單位，以控制營運成本並持續投資AI基礎設施。"
+        "title": "微軟 (MSFT) 傳下週裁員數千人，Xbox部門恐大幅縮編",
+        "detail": "微軟計劃展開新一輪裁員，規模將低於全體員工的2.5%，預計影響數千個職位，涵蓋業務、顧問等部門以及Xbox遊戲事業相關職位，以在AI投資的同時控制成本。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "7/1 22:00",
-        "title": "美國6月ISM製造業PMI",
-        "detail": "該指標反映製造業景氣度，市場將密切關注6月能否守穩50榮枯線，以檢驗實體經濟的基底是否足夠強韌。"
-      },
-      {
-        "date": "7/2",
-        "title": "美國6月非農就業數據",
-        "detail": "此為本週最重磅數據，市場將密切關注。"
-      },
-      {
-        "date": "7/3",
-        "title": "美股提前休市",
-        "detail": "為紀念7月4日獨立日，美股將提前休市。"
-      },
-      {
-        "date": "7/9 02:00",
-        "title": "聯儲局公布貨幣政策會議紀要",
-        "detail": "會議紀要將揭露官員們對於通膨前景、供應鏈衝擊以及利率路徑的詳細意見，市場將格外放大檢視紀要中的微小措辭。"
+        "date": "本週四",
+        "title": "特斯拉 (TSLA) 公布汽車交付量",
+        "detail": "特斯拉將於本週四公布汽車交付量，投資人可藉此檢視電動車業務表現。"
       }
     ]
   }
