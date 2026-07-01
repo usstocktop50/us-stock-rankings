@@ -86,7 +86,7 @@
       "dollarVolume": 18718684143.620274,
       "marketCap": 2583212259961.04,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "雲端服務",
+      "theme": "電子商務",
       "isNew": false,
       "rankChange": -3,
       "streak": 76
@@ -125,7 +125,7 @@
       "dollarVolume": 12987967634.176409,
       "marketCap": 1211754530652.9,
       "sector": "—",
-      "theme": "太空科技",
+      "theme": "太空",
       "isNew": false,
       "rankChange": 1,
       "streak": 11
@@ -164,7 +164,7 @@
       "dollarVolume": 9025048364.672121,
       "marketCap": 1771960744745.0999,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "AI 晶片",
+      "theme": "網路通訊晶片",
       "isNew": false,
       "rankChange": 4,
       "streak": 76
@@ -190,7 +190,7 @@
       "dollarVolume": 8526771938.006122,
       "marketCap": 242975700000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "AI 晶片",
+      "theme": "網路通訊晶片",
       "isNew": false,
       "rankChange": 4,
       "streak": 66
@@ -229,7 +229,7 @@
       "dollarVolume": 6653540625.504114,
       "marketCap": 2360364317400,
       "sector": "—",
-      "theme": "半導體製造",
+      "theme": "晶圓代工",
       "isNew": false,
       "rankChange": 9,
       "streak": 76
@@ -242,7 +242,7 @@
       "dollarVolume": 5912401043.673211,
       "marketCap": 220056485474.25,
       "sector": "DRAWING & INSULATING OF NONFERROUS WIRE",
-      "theme": "光纖通訊",
+      "theme": "光學材料",
       "isNew": false,
       "rankChange": 2,
       "streak": 6
@@ -268,7 +268,7 @@
       "dollarVolume": 5244353259.752611,
       "marketCap": 265655453343.80002,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "大數據分析",
+      "theme": "數據分析軟體",
       "isNew": false,
       "rankChange": 10,
       "streak": 76
@@ -281,7 +281,7 @@
       "dollarVolume": 5100083981.01977,
       "marketCap": 425618394960,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體 SaaS",
+      "theme": "企業軟體",
       "isNew": false,
       "rankChange": 16,
       "streak": 76
@@ -307,7 +307,7 @@
       "dollarVolume": 4776800244.519478,
       "marketCap": 78224908138.68,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "潔淨能源",
+      "theme": "氫能源",
       "isNew": false,
       "rankChange": -11,
       "streak": 11
@@ -320,7 +320,7 @@
       "dollarVolume": 4557350086.20375,
       "marketCap": 66238920000,
       "sector": "COMMUNICATIONS EQUIPMENT, NEC",
-      "theme": "光纖通訊",
+      "theme": "光通訊",
       "isNew": false,
       "rankChange": 4,
       "streak": 76
@@ -333,7 +333,7 @@
       "dollarVolume": 4509021855.573822,
       "marketCap": 1158276007481.58,
       "sector": "PHARMACEUTICAL PREPARATIONS",
-      "theme": "生技製藥",
+      "theme": "減肥藥 GLP-1",
       "isNew": false,
       "rankChange": -3,
       "streak": 28
@@ -346,7 +346,7 @@
       "dollarVolume": 4091335363.1284623,
       "marketCap": 198910880000,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "無線通訊晶片",
+      "theme": "行動通訊晶片",
       "isNew": false,
       "rankChange": 3,
       "streak": 45
@@ -359,7 +359,7 @@
       "dollarVolume": 4067498688.1518383,
       "marketCap": 56734801224.75,
       "sector": "GUIDED MISSILES & SPACE VEHICLES & PARTS",
-      "theme": "太空科技",
+      "theme": "太空",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -385,7 +385,7 @@
       "dollarVolume": 4005931384.9445934,
       "marketCap": 567039898267.7999,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "支付服務",
+      "theme": "金融支付",
       "isNew": false,
       "rankChange": 6,
       "streak": 2
@@ -450,7 +450,7 @@
       "dollarVolume": 3551971354.3654795,
       "marketCap": 134695859880.40001,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "電子電腦",
+      "theme": "電腦硬體",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -515,7 +515,7 @@
       "dollarVolume": 3220420917.275943,
       "marketCap": 475879030915.77,
       "sector": "CONSTRUCTION MACHINERY & EQUIP",
-      "theme": "工業機械",
+      "theme": "重型機械",
       "isNew": false,
       "rankChange": -26,
       "streak": 9
@@ -541,7 +541,7 @@
       "dollarVolume": 2932168375.7473016,
       "marketCap": 76538015161.62001,
       "sector": "OPTICAL INSTRUMENTS & LENSES",
-      "theme": "光學儀器",
+      "theme": "光學元件",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -554,7 +554,7 @@
       "dollarVolume": 2764502086.1462774,
       "marketCap": 366970500360.8,
       "sector": "—",
-      "theme": "晶片設計",
+      "theme": "晶片設計IP",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -567,7 +567,7 @@
       "dollarVolume": 2747254005.6547933,
       "marketCap": 78155163866.44,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "AI 晶片",
+      "theme": "資料中心互連",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -580,7 +580,7 @@
       "dollarVolume": 2745956839.976678,
       "marketCap": 25922223652.91,
       "sector": "COMMUNICATIONS SERVICES, NEC",
-      "theme": "太空通訊",
+      "theme": "衛星通訊",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -619,7 +619,7 @@
       "dollarVolume": 2635235362.203223,
       "marketCap": 882604265975.02,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "金融服務",
+      "theme": "銀行",
       "isNew": false,
       "rankChange": -13,
       "streak": 4
@@ -652,27 +652,13 @@
     }
   ],
   "asOf": "2026-06-29T20:00:00.000Z",
-  "generatedAt": "2026-06-30T08:37:23.084Z",
+  "generatedAt": "2026-07-01T02:04:08.806Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
-      "theme": "AI 晶片",
-      "reason": "市場對AI運算需求持續增長，帶動相關晶片設計與製造商股價上揚。",
-      "symbols": [
-        "NVDA",
-        "AMD",
-        "AVGO",
-        "MRVL",
-        "ALAB",
-        "CBRS"
-      ],
-      "count": 6,
-      "avgChange": 7.713910084154807
-    },
-    {
       "theme": "半導體設備",
-      "reason": "全球半導體產業擴張，資本支出增加，設備供應商受惠於新廠建設與技術升級需求。",
+      "reason": "全球半導體產業景氣復甦，資本支出增加，帶動設備供應商訂單成長。",
       "symbols": [
         "AMAT",
         "LRCX",
@@ -683,8 +669,19 @@
       "avgChange": 9.026470327674875
     },
     {
-      "theme": "太空科技",
-      "reason": "太空探索與衛星通訊領域的商業化進程加速，吸引資金關注相關創新企業。",
+      "theme": "AI 晶片",
+      "reason": "人工智慧應用持續擴張，對高效能運算晶片需求強勁，市場預期未來成長潛力巨大。",
+      "symbols": [
+        "NVDA",
+        "AMD",
+        "CBRS"
+      ],
+      "count": 3,
+      "avgChange": 7.912841398610845
+    },
+    {
+      "theme": "太空",
+      "reason": "商業太空探索與衛星通訊領域持續發展，相關技術與服務受到市場關注。",
       "symbols": [
         "SPCX",
         "RKLB"
@@ -694,7 +691,7 @@
     },
     {
       "theme": "儲存裝置",
-      "reason": "AI與大數據應用推動資料儲存需求，相關硬體供應商營收成長可期。",
+      "reason": "資料中心與個人儲存需求增長，新技術應用推動儲存裝置市場發展。",
       "symbols": [
         "WDC",
         "STX"
@@ -703,180 +700,133 @@
       "avgChange": 9.391682155720426
     },
     {
-      "theme": "雲端服務",
-      "reason": "企業數位轉型與AI應用普及，持續推升雲端服務需求。",
-      "symbols": [
-        "AMZN",
-        "GOOGL",
-        "GOOG",
-        "NBIS"
-      ],
-      "count": 4,
-      "avgChange": 5.413628268702536
-    },
-    {
       "theme": "資安",
-      "reason": "網路攻擊日益頻繁，企業與政府對資安防護的投入增加，帶動資安軟體服務商機。",
+      "reason": "網路攻擊日益頻繁，企業與個人對資訊安全防護的需求不斷提升。",
       "symbols": [
         "CRWD",
         "PANW"
       ],
       "count": 2,
       "avgChange": 7.551860942295834
+    },
+    {
+      "theme": "雲端服務",
+      "reason": "企業數位轉型加速，雲端運算服務需求持續增長，帶動相關公司業績。",
+      "symbols": [
+        "GOOGL",
+        "GOOG",
+        "NBIS"
+      ],
+      "count": 3,
+      "avgChange": 6.150942810001251
     }
   ],
   "newEntrants": [
     {
       "symbol": "RKLB",
       "name": "Rocket Lab Corporation Common Stock",
-      "theme": "太空科技",
+      "theme": "太空",
       "changePercent": 15.9332860184528,
-      "reason": "宣布以80億美元收購Iridium，成為垂直整合的太空公司。"
+      "reason": "宣布以現金加股票方式收購Iridium Communications Inc."
     },
     {
       "symbol": "MSTR",
       "name": "Strategy Inc Common Stock Class A",
       "theme": "比特幣/加密",
       "changePercent": 12.598712185639659,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "近期無明確個股消息，可能受比特幣/加密貨幣族群輪動帶動。"
     },
     {
       "symbol": "CRWD",
       "name": "CrowdStrike Holdings, Inc. Class A Common Stock",
       "theme": "資安",
       "changePercent": 5.964997361251756,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "AI工具採用率上升帶動網路安全需求，營收超出預期。"
     },
     {
       "symbol": "NBIS",
       "name": "Nebius Group N.V. Class A Ordinary Shares",
       "theme": "雲端服務",
       "changePercent": 8.676654182272145,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "收購AI推論和模型優化新創公司Eigen AI，強化AI推論能力。"
     },
     {
       "symbol": "DELL",
       "name": "Dell Technologies Inc.",
-      "theme": "電子電腦",
+      "theme": "電腦硬體",
       "changePercent": 3.784825652707203,
-      "reason": "AI伺服器需求強勁，第一季營收創紀錄且上調全年財測。"
+      "reason": "推出NVIDIA支援系統，並獲分析師調升目標價。"
     },
     {
       "symbol": "GEV",
       "name": "GE Vernova Inc.",
       "theme": "電力基礎建設",
       "changePercent": 5.486188849660813,
-      "reason": "受惠於AI資料中心對電力基礎設施的高需求，並加入Russell Top 50指數。"
+      "reason": "提高股息、股票回購授權及上調財測。"
     },
     {
       "symbol": "CMCSA",
       "name": "Comcast Corp",
       "theme": "有線電視",
       "changePercent": 4.531722054380652,
-      "reason": "宣布將媒體與科技業務分拆為兩家獨立上市公司，股價上漲。"
+      "reason": "宣布將媒體和科技業務分拆成兩家獨立公司。"
     },
     {
       "symbol": "PANW",
       "name": "Palo Alto Networks, Inc. Common Stock",
       "theme": "資安",
       "changePercent": 9.138724523339912,
-      "reason": "與IBM和Red Hat深化安全合作，分析師維持買入評級。"
+      "reason": "AI應用推動網路安全需求，營收超出預期。"
     },
     {
       "symbol": "COHR",
       "name": "Coherent Corp.",
-      "theme": "光學儀器",
+      "theme": "光學元件",
       "changePercent": 2.8011351692243074,
-      "reason": "受惠於AI數據中心光學需求，並獲得CHIPS法案資金。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "ARM",
       "name": "Arm Holdings plc American Depositary Shares",
-      "theme": "晶片設計",
+      "theme": "晶片設計IP",
       "changePercent": 2.7851736620097536,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "近期無明確個股消息，可能受晶片設計IP族群輪動帶動。"
     },
     {
       "symbol": "ALAB",
       "name": "Astera Labs, Inc. Common Stock",
-      "theme": "AI 晶片",
+      "theme": "資料中心互連",
       "changePercent": 16.393526318476535,
-      "reason": "納入Nasdaq-100指數，AI連接解決方案需求強勁。"
+      "reason": "AI系統需求強勁及第一季營收成長。"
     },
     {
       "symbol": "ASTS",
       "name": "AST SpaceMobile, Inc. Class A Common Stock",
-      "theme": "太空通訊",
+      "theme": "衛星通訊",
       "changePercent": 21.441567529741068,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "高層主管增持股票，顯示對公司信心。"
     },
     {
       "symbol": "CBRS",
       "name": "Cerebras Systems Inc. Class A Common Stock",
       "theme": "AI 晶片",
       "changePercent": 19.037391926868217,
-      "reason": "第一季財報表現強勁，並與OpenAI和Amazon達成合作。"
+      "reason": "首次財報表現亮眼，超出分析師預期。"
     },
     {
       "symbol": "SMCI",
       "name": "Super Micro Computer, Inc. Common Stock",
       "theme": "AI 伺服器",
       "changePercent": -8.096637283708784,
-      "reason": "台灣辦公室因晶片走私調查被突襲，導致股價下跌。"
+      "reason": "公司宣布股票發行計畫，以支持AI伺服器訂單。"
     },
     {
       "symbol": "APP",
       "name": "Applovin Corporation Class A Common Stock",
       "theme": "數位廣告",
       "changePercent": 4.544311226628659,
-      "reason": "Raymond James給予「強力買入」評級，看好其電商擴張。"
+      "reason": "近期無明確個股消息，可能受數位廣告族群輪動帶動。"
     }
   ],
-  "marketBriefing": {
-    "highlights": "本日美股成交重點集中在AI晶片、記憶體與半導體設備族群，資金主要受惠於AI需求持續擴張所帶動。Micron Technology (MU) 在強勁財報與財測的激勵下，成交金額衝上第一，顯示市場對AI記憶體的需求仍極為樂觀。此外，Tesla (TSLA) 也因Cathie Wood加碼股票而有顯著漲幅，而太空科技股SpaceX (SPCX) 則在經歷前一日大跌後出現反彈，市場故事圍繞著AI基礎建設的加速投資與關鍵技術的突破。",
-    "eventsPast": [
-      {
-        "title": "Micron Technology (MU) 財報與財測優於預期",
-        "detail": "美光科技公布的第四季每股獲利預估與營收預估全面超標，特別是HBM需求持續爆單，帶動記憶體族群集體上漲。"
-      },
-      {
-        "title": "記憶體晶片價格大幅上漲",
-        "detail": "美光科技表示，截至5月28日的季度內，DRAM記憶體晶片價格較上一季度上漲逾60%，NAND快閃記憶體價格更大幅攀升逾80%，主要由AI熱潮帶動HBM需求急速攀升所致。"
-      },
-      {
-        "title": "Tesla (TSLA) 獲方舟投資加碼",
-        "detail": "方舟投資創辦人伍德（Cathie Wood）加碼特斯拉股票，顯示其對該公司的信心，並認為特斯拉未來價值將持續增長。"
-      },
-      {
-        "title": "SpaceX (SPCX) 股價波動劇烈",
-        "detail": "SpaceX在前一交易日股價暴跌16%後，本日股價有所反彈，但近期因AI投資資本支出、SpaceX相關股票平倉及南韓投資者槓桿操作等因素，科技股整體面臨賣壓。"
-      },
-      {
-        "title": "AI晶片與半導體設備股面臨賣壓後反彈",
-        "detail": "在南韓科技股重挫後，美國上市的晶片相關股票如Nvidia、AMD、Broadcom、Intel、Micron Technology和Sandisk等也承受沉重賣壓，但分析師認為這僅是「喘息」，基本面依然強勁。"
-      }
-    ],
-    "eventsUpcoming": [
-      {
-        "date": "本週三",
-        "title": "Micron Technology (MU) 公布業績",
-        "detail": "市場對美光科技即將公布的業績抱持高度關注，這將是評估AI需求持續性的關鍵指標。"
-      },
-      {
-        "date": "8月",
-        "title": "Sandisk (SNDK) 投資人日",
-        "detail": "市場預期Sandisk將在8月的投資人日釋出需求預估更新與資本回報展望，可能成為股價的下一個催化劑。"
-      },
-      {
-        "date": "2027年春天",
-        "title": "Kioxia (鎧俠) 計劃在美國掛牌",
-        "detail": "日本記憶體大廠Kioxia宣布計劃於2027年春天在美國掛牌，鎖定AI記憶體投資熱潮。"
-      },
-      {
-        "date": "未來數年",
-        "title": "更多記憶體產能投產",
-        "detail": "預計未來數年將有更多記憶體產能陸續投產，但在新製造設施正式量產之前，目前的供應緊張局面料將持續。"
-      }
-    ]
-  }
+  "marketBriefing": null
 }
