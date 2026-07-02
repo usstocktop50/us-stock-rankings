@@ -34,7 +34,7 @@
       "dollarVolume": 27944314683.156345,
       "marketCap": 1345978301341.0798,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "社群媒體/廣告",
+      "theme": "社群媒體",
       "isNew": false,
       "rankChange": 12,
       "streak": 78
@@ -138,7 +138,7 @@
       "dollarVolume": 13008854788.480263,
       "marketCap": 2599993350681.1997,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電子商務/雲端",
+      "theme": "電商與雲端服務",
       "isNew": false,
       "rankChange": -2,
       "streak": 78
@@ -164,7 +164,7 @@
       "dollarVolume": 9625426863.200607,
       "marketCap": 2103687040000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "搜尋引擎/雲端",
+      "theme": "網路搜尋與雲端",
       "isNew": false,
       "rankChange": -2,
       "streak": 78
@@ -177,7 +177,7 @@
       "dollarVolume": 9402404035.089022,
       "marketCap": 237989340000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "資料中心晶片",
+      "theme": "資料中心網路晶片",
       "isNew": false,
       "rankChange": -1,
       "streak": 68
@@ -190,7 +190,7 @@
       "dollarVolume": 8777288009.454445,
       "marketCap": 1757164670329.3198,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網通晶片",
+      "theme": "半導體與基礎設施軟體",
       "isNew": false,
       "rankChange": -1,
       "streak": 78
@@ -255,7 +255,7 @@
       "dollarVolume": 7079951971.596994,
       "marketCap": 1952647840000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "搜尋引擎/雲端",
+      "theme": "網路搜尋與雲端",
       "isNew": false,
       "rankChange": -4,
       "streak": 78
@@ -281,7 +281,7 @@
       "dollarVolume": 6507013009.14998,
       "marketCap": 34771739814.99,
       "sector": "OPTICAL INSTRUMENTS & LENSES",
-      "theme": "半導體檢測",
+      "theme": "半導體檢測設備",
       "isNew": false,
       "rankChange": -2,
       "streak": 18
@@ -307,7 +307,7 @@
       "dollarVolume": 5073043070.890762,
       "marketCap": 895144379411.26,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "銀行",
+      "theme": "金融服務",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -320,7 +320,7 @@
       "dollarVolume": 5022395554.893947,
       "marketCap": 189882523329.75,
       "sector": "DRAWING & INSULATING OF NONFERROUS WIRE",
-      "theme": "特用玻璃",
+      "theme": "特用玻璃與光學",
       "isNew": false,
       "rankChange": -4,
       "streak": 8
@@ -398,7 +398,7 @@
       "dollarVolume": 4298978229.789305,
       "marketCap": 191743680000,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "手機晶片",
+      "theme": "行動通訊晶片",
       "isNew": false,
       "rankChange": -4,
       "streak": 47
@@ -437,7 +437,7 @@
       "dollarVolume": 3387129793.5329156,
       "marketCap": 62330248000,
       "sector": "COMMUNICATIONS EQUIPMENT, NEC",
-      "theme": "光學通訊",
+      "theme": "光通訊元件",
       "isNew": false,
       "rankChange": -3,
       "streak": 78
@@ -463,7 +463,7 @@
       "dollarVolume": 3336869208.0646243,
       "marketCap": 172619344520,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "行動廣告",
+      "theme": "行動廣告技術",
       "isNew": false,
       "rankChange": 11,
       "streak": 3
@@ -528,7 +528,7 @@
       "dollarVolume": 3047533838.4592795,
       "marketCap": 12004140236.55,
       "sector": "AIR TRANSPORTATION, SCHEDULED",
-      "theme": "航空",
+      "theme": "航空運輸",
       "isNew": false,
       "rankChange": 7,
       "streak": 2
@@ -606,7 +606,7 @@
       "dollarVolume": 2609589933.484588,
       "marketCap": 271580789762.31003,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "類比晶片",
+      "theme": "類比與嵌入式處理器",
       "isNew": false,
       "rankChange": -9,
       "streak": 9
@@ -619,7 +619,7 @@
       "dollarVolume": 2588392685.2841406,
       "marketCap": 73852824597.54001,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "資料中心連接",
+      "theme": "資料中心互連",
       "isNew": false,
       "rankChange": -2,
       "streak": 3
@@ -632,7 +632,7 @@
       "dollarVolume": 2571741593.681604,
       "marketCap": 138152515410,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "電子電腦",
+      "theme": "電腦硬體",
       "isNew": false,
       "rankChange": -5,
       "streak": 3
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-07-01T20:00:00.000Z",
-  "generatedAt": "2026-07-02T04:58:53.860Z",
+  "generatedAt": "2026-07-02T06:26:08.139Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型需求持續推動雲端軟體服務的增長，市場對其未來獲利能力保持樂觀。",
+      "reason": "企業數位轉型需求持續推動雲端軟體服務的成長，尤其在效率提升和成本優化方面。",
       "symbols": [
         "MSFT",
         "NOW"
@@ -667,8 +667,8 @@
       "avgChange": 4.792944674283653
     },
     {
-      "theme": "搜尋引擎/雲端",
-      "reason": "科技巨頭在AI領域的持續投入和雲端服務的穩定增長，提振了市場信心。",
+      "theme": "網路搜尋與雲端",
+      "reason": "大型科技公司在AI領域的持續投入和雲端服務的穩定增長，支撐其股價表現。",
       "symbols": [
         "GOOGL",
         "GOOG"
@@ -677,8 +677,8 @@
       "avgChange": 1.1825474102198363
     },
     {
-      "theme": "社群媒體/廣告",
-      "reason": "社群媒體平台透過廣告業務展現強勁的營收成長，且市場對其AI應用前景抱持期待。",
+      "theme": "社群媒體",
+      "reason": "廣告市場復甦和用戶參與度提升，帶動社群媒體平台的營收增長預期。",
       "symbols": [
         "META"
       ],
@@ -686,17 +686,8 @@
       "avgChange": 8.808961636102186
     },
     {
-      "theme": "比特幣/加密",
-      "reason": "加密貨幣市場情緒回暖，帶動相關概念股表現。",
-      "symbols": [
-        "MSTR"
-      ],
-      "count": 1,
-      "avgChange": 7.4312665362935615
-    },
-    {
-      "theme": "行動廣告",
-      "reason": "行動應用程式廣告市場需求旺盛，推動相關公司營收成長。",
+      "theme": "行動廣告技術",
+      "reason": "行動應用程式廣告市場的強勁增長，受益於數位廣告預算的轉移。",
       "symbols": [
         "APP"
       ],
@@ -704,8 +695,17 @@
       "avgChange": 9.584069250625934
     },
     {
+      "theme": "比特幣/加密",
+      "reason": "加密貨幣市場的波動和投資者情緒，影響相關概念股的表現。",
+      "symbols": [
+        "MSTR"
+      ],
+      "count": 1,
+      "avgChange": 7.4312665362935615
+    },
+    {
       "theme": "線上券商",
-      "reason": "市場交易活動增加，有利於線上券商的營運表現。",
+      "reason": "市場交易活動的增加和用戶基礎的擴大，為線上券商帶來利好。",
       "symbols": [
         "HOOD"
       ],
@@ -719,12 +719,12 @@
       "name": "CoreWeave, Inc. Class A Common Stock",
       "theme": "AI 雲端運算",
       "changePercent": -13.919027526622466,
-      "reason": "高層出售股票、AI估值擔憂及OpenAI延後IPO等因素導致股價下跌。"
+      "reason": "近期有高層出售股票、證券訴訟、負債增加等負面消息，導致股價下跌。"
     },
     {
       "symbol": "JPM",
       "name": "JPMorgan Chase & Co.",
-      "theme": "銀行",
+      "theme": "金融服務",
       "changePercent": 2.0590841047261206,
       "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
@@ -733,86 +733,66 @@
       "name": "Walmart Inc. Common Stock",
       "theme": "零售百貨",
       "changePercent": -3.920183648242991,
-      "reason": "研究公司Cleveland Research示警美國同店銷售放緩，股價承壓。"
+      "reason": "因美國同店銷售放緩擔憂、估值偏高，導致股價承壓下跌。"
     },
     {
       "symbol": "HOOD",
       "name": "Robinhood Markets, Inc. Class A Common Stock",
       "theme": "線上券商",
       "changePercent": 8.346629437574796,
-      "reason": "宣布發行20億美元可轉換優先票據，引發稀釋擔憂。"
+      "reason": "宣布完成22億美元可轉換優先票據發行，並計劃在英國推出加密貨幣交易。"
     },
     {
       "symbol": "T",
       "name": "AT&T Inc.",
       "theme": "電信服務",
       "changePercent": -1.0628019323671443,
-      "reason": "AT&T擴展Build-A-Plan方案，整合無線與家庭網路服務。"
+      "reason": "AT&T擴展Build-A-Plan，讓客戶可自訂無線方案並輕鬆加購家庭網路。"
     },
     {
       "symbol": "NOW",
       "name": "SERVICENOW, INC.",
       "theme": "雲端軟體 SaaS",
       "changePercent": 6.567284448025782,
-      "reason": "Guggenheim調升評級至「買進」，並與Accenture合作推出AI風險管理服務。"
+      "reason": "獲Guggenheim分析師上調評級至「買入」，並與Accenture合作推出AI服務。"
     },
     {
       "symbol": "COST",
       "name": "Costco Wholesale Corp",
       "theme": "零售百貨",
       "changePercent": -1.15449987706715,
-      "reason": "儘管基本面強勁，但市場對其高估值存在擔憂。"
+      "reason": "分析師上調獲利預期，且會員制模式和新倉儲擴張帶來成長動能。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點主要集中在科技巨頭，尤其是與AI、記憶體、雲端服務相關的個股。資金流向顯示，市場對AI基礎設施和雲端運算的需求持續強勁，但記憶體和儲存裝置類股因獲利了結和市場輪動而出現大幅下跌。Meta Platforms因傳出將進軍雲端服務市場而大漲，而記憶體和AI晶片類股則普遍下跌，顯示投資人正在從部分漲幅過大的晶片股中獲利了結，轉向其他有潛在成長動能的領域。",
+    "highlights": "本日美股成交重點集中在AI相關類股，尤其是記憶體和半導體產業。Meta Platforms宣布將進軍雲端基礎設施業務，計畫對外銷售AI運算能力，此消息帶動了Meta股價大漲，但也引發市場對AI基礎設施投資過熱的擔憂，導致記憶體和半導體設備股出現大幅回調。此外，特斯拉因FSD v14 Lite版上線而受到關注，蘋果則因記憶體成本上漲而調整部分產品售價。",
     "eventsPast": [
       {
-        "title": "Meta Platforms 傳進軍雲端市場",
-        "detail": "Meta Platforms 據報導正建立雲端業務，計劃出售其過剩的AI運算能力，此消息帶動其股價大漲超過8%。"
+        "title": "Meta Platforms宣布進軍AI雲端服務",
+        "detail": "Meta Platforms傳出正規劃成立雲端基礎設施業務，將其龐大的人工智慧(AI)算力與模型對外商業化，此消息使其股價大漲8.81%。"
       },
       {
-        "title": "SpaceX 發表AI裝置原型",
-        "detail": "SpaceX 在IPO前向投資者展示了一款手持AI裝置原型，旨在重塑人類與AI的互動方式，儘管Elon Musk隨後否認此報導。"
+        "title": "記憶體與半導體股大幅回調",
+        "detail": "受Meta將出售多餘AI算力消息影響，市場擔憂AI基礎設施需求可能減弱，導致美光(MU)、SanDisk(SNDK)、應用材料(AMAT)、超微(AMD)和英特爾(INTC)等記憶體和半導體相關個股普遍下跌，跌幅介於6%至10%以上。"
       },
       {
-        "title": "美光與通用汽車簽署供應協議",
-        "detail": "美光科技與通用汽車簽署了一項長期供應協議，為通用汽車的車輛生產提供記憶體和儲存平台。"
+        "title": "Applied Materials遭知名投資人做空",
+        "detail": "知名投資人Michael Burry透露已做空Applied Materials (AMAT)、Nvidia (NVDA)、Tesla (TSLA)及SOXX指數，認為半導體與AI題材估值過高。"
       },
       {
-        "title": "Apple 調整iPhone 17生產預期",
-        "detail": "Apple 因應市場動態變化，將即將推出的iPhone 17系列生產預期下調15%。"
+        "title": "比特幣跌破6萬美元後反彈",
+        "detail": "比特幣一度跌破6萬美元關卡，但在超賣後出現技術性反彈，收復近6.1萬美元，但市場對其投資策略轉向的擔憂仍在。"
       },
       {
-        "title": "Alphabet 因反壟斷訴訟被判罰款",
-        "detail": "瑞典法院裁定Alphabet須向Klarna支付19.7億美元的損害賠償，因其被控在搜尋結果中偏袒自家比價購物服務。"
+        "title": "蘋果部分產品悄悄漲價",
+        "detail": "蘋果近期悄悄調高多款Mac、iPad、HomePod及Apple TV等產品售價，漲幅約100至300美元不等，主要與全球記憶體及儲存晶片成本大幅上升有關。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "本週四 (7/2)",
-        "title": "美國6月份非農數據報告",
-        "detail": "市場正等待美國勞工部公布的6月份非農就業數據報告。"
-      },
-      {
-        "date": "7/23",
-        "title": "Intel 第二季財報",
-        "detail": "Intel 預計將於7月23日公布2026年第二季財報。"
-      },
-      {
-        "date": "9月",
-        "title": "Apple 新產品發表會",
-        "detail": "Apple 預計將在9月的年度發表會上推出iPhone和Apple Watch的年度更新，以及可能發布可折疊iPhone Ultra和智慧家庭中樞等新產品。"
-      },
-      {
-        "date": "2026年底",
-        "title": "Tesla Cybercab生產",
-        "detail": "Tesla 可能在2026年下半年開始生產其自動駕駛的Cybercab機器人計程車。"
-      },
-      {
-        "date": "2026年底",
-        "title": "Amazon 旗下Slate Auto推出首款電動車",
-        "detail": "Amazon創辦人Jeff Bezos支持的電動車新創公司Slate Auto確認將在2026年最後幾個月推出首款售價低於25,000美元的電動車。"
+        "date": "7/28-7/29",
+        "title": "FOMC利率會議",
+        "detail": "聯準會(Fed)的利率會議將左右下一波資金動向，市場密切關注其對升息前景的態度。"
       }
     ]
   }
