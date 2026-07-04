@@ -60,7 +60,7 @@
       "dollarVolume": 23106280677.4475,
       "marketCap": 4532958682280,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "消費電子",
+      "theme": "消費性電子",
       "isNew": false,
       "rankChange": 4,
       "streak": 79
@@ -86,7 +86,7 @@
       "dollarVolume": 15309784520.210876,
       "marketCap": 604879100000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "半導體處理器",
       "isNew": false,
       "rankChange": 3,
       "streak": 79
@@ -151,7 +151,7 @@
       "dollarVolume": 9711528936.639187,
       "marketCap": 1714869782369.0999,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "半導體網路通訊",
       "isNew": false,
       "rankChange": 3,
       "streak": 79
@@ -164,7 +164,7 @@
       "dollarVolume": 9663531002.671848,
       "marketCap": 214579692000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "半導體網路通訊",
       "isNew": false,
       "rankChange": 1,
       "streak": 69
@@ -255,7 +255,7 @@
       "dollarVolume": 5641758501.879504,
       "marketCap": 30769312571.550003,
       "sector": "OPTICAL INSTRUMENTS & LENSES",
-      "theme": "半導體設備",
+      "theme": "半導體檢測設備",
       "isNew": false,
       "rankChange": 2,
       "streak": 19
@@ -346,7 +346,7 @@
       "dollarVolume": 4345556368.269938,
       "marketCap": 77052999402.51999,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "再生能源",
+      "theme": "燃料電池",
       "isNew": false,
       "rankChange": -1,
       "streak": 14
@@ -359,7 +359,7 @@
       "dollarVolume": 4321854372.774708,
       "marketCap": 169364917581.75,
       "sector": "DRAWING & INSULATING OF NONFERROUS WIRE",
-      "theme": "特用材料",
+      "theme": "光學材料",
       "isNew": false,
       "rankChange": -3,
       "streak": 9
@@ -385,7 +385,7 @@
       "dollarVolume": 3997455632.2042527,
       "marketCap": 1143189310157.46,
       "sector": "PHARMACEUTICAL PREPARATIONS",
-      "theme": "生技製藥",
+      "theme": "減肥藥 GLP-1",
       "isNew": false,
       "rankChange": 9,
       "streak": 31
@@ -398,7 +398,7 @@
       "dollarVolume": 3877385475.201924,
       "marketCap": 56663296000.00001,
       "sector": "COMMUNICATIONS EQUIPMENT, NEC",
-      "theme": "光通訊",
+      "theme": "光通訊元件",
       "isNew": false,
       "rankChange": 3,
       "streak": 79
@@ -450,7 +450,7 @@
       "dollarVolume": 3294382685.4863324,
       "marketCap": 185767500000,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "通訊晶片",
+      "theme": "行動通訊晶片",
       "isNew": false,
       "rankChange": -4,
       "streak": 48
@@ -489,7 +489,7 @@
       "dollarVolume": 3006444111.0896416,
       "marketCap": 69663614568.38,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "資料中心互連",
       "isNew": false,
       "rankChange": 10,
       "streak": 4
@@ -502,7 +502,7 @@
       "dollarVolume": 2874647413.057049,
       "marketCap": 266729995186.28,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "類比晶片",
       "isNew": false,
       "rankChange": 8,
       "streak": 10
@@ -515,7 +515,7 @@
       "dollarVolume": 2811831773.7675295,
       "marketCap": 896216183978.4601,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "金融服務",
+      "theme": "商業銀行",
       "isNew": false,
       "rankChange": -16,
       "streak": 2
@@ -645,20 +645,60 @@
       "dollarVolume": 2458822207.3906927,
       "marketCap": 336743871452.8,
       "sector": "—",
-      "theme": "半導體IP",
+      "theme": "晶片設計IP",
       "isNew": true,
       "rankChange": null,
       "streak": 1
     }
   ],
   "asOf": "2026-07-02T20:00:00.000Z",
-  "generatedAt": "2026-07-04T07:30:50.987Z",
+  "generatedAt": "2026-07-04T09:11:12.866Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
-      "theme": "消費電子",
-      "reason": "市場對新產品發布及未來營收成長抱持樂觀態度，帶動股價上漲。",
+      "theme": "零售百貨",
+      "reason": "在通膨趨緩與消費力道穩健的背景下，零售百貨類股表現強勁，顯示市場對消費前景樂觀。",
+      "symbols": [
+        "WMT",
+        "COST"
+      ],
+      "count": 2,
+      "avgChange": 2.8475928885209196
+    },
+    {
+      "theme": "電信服務",
+      "reason": "電信服務類股因其穩定的現金流和股息吸引力，在市場波動時常被視為防禦性資產。",
+      "symbols": [
+        "T",
+        "VZ"
+      ],
+      "count": 2,
+      "avgChange": 0.9228736566742032
+    },
+    {
+      "theme": "雲端軟體 SaaS",
+      "reason": "雲端軟體服務持續受企業數位轉型需求推動，市場預期其營收成長動能不減。",
+      "symbols": [
+        "MSFT",
+        "CRWV"
+      ],
+      "count": 2,
+      "avgChange": -1.4911142856186568
+    },
+    {
+      "theme": "網路服務",
+      "reason": "網路服務巨頭持續在廣告、雲端及AI領域投入，其多元業務模式支撐股價表現。",
+      "symbols": [
+        "GOOGL",
+        "GOOG"
+      ],
+      "count": 2,
+      "avgChange": -0.41885094192532757
+    },
+    {
+      "theme": "消費性電子",
+      "reason": "儘管整體科技股承壓，但消費性電子龍頭因其強勁的品牌力與產品創新，仍能吸引買盤。",
       "symbols": [
         "AAPL"
       ],
@@ -666,50 +706,13 @@
       "avgChange": 4.840682111556491
     },
     {
-      "theme": "比特幣/加密",
-      "reason": "加密貨幣市場波動，相關概念股受資金追捧。",
-      "symbols": [
-        "MSTR"
-      ],
-      "count": 1,
-      "avgChange": 7.902345004818498
-    },
-    {
       "theme": "串流媒體",
-      "reason": "訂戶增長與內容策略奏效，提振投資人信心。",
+      "reason": "串流媒體平台在訂戶增長和內容策略調整後，市場對其未來獲利能力抱持正面看法。",
       "symbols": [
         "NFLX"
       ],
       "count": 1,
       "avgChange": 4.663701307453846
-    },
-    {
-      "theme": "金融科技",
-      "reason": "市場對其創新商業模式及用戶增長潛力保持關注。",
-      "symbols": [
-        "HOOD"
-      ],
-      "count": 1,
-      "avgChange": 3.7551771744132516
-    },
-    {
-      "theme": "支付服務",
-      "reason": "全球數位支付趨勢持續增長，帶動相關企業營收。",
-      "symbols": [
-        "V"
-      ],
-      "count": 1,
-      "avgChange": 3.14743078500627
-    },
-    {
-      "theme": "零售百貨",
-      "reason": "穩健的消費需求與營運表現，支撐股價。",
-      "symbols": [
-        "WMT",
-        "COST"
-      ],
-      "count": 2,
-      "avgChange": 2.8475928885209196
     }
   ],
   "newEntrants": [
@@ -718,47 +721,53 @@
       "name": "Booking Holdings Inc. Common Stock",
       "theme": "線上旅遊",
       "changePercent": 1.0512483574244504,
-      "reason": "中東衝突緩解，分析師上調目標價，Q1財報優於預期。"
+      "reason": "Priceline整合Anthropic的Claude模型，升級AI旅遊助理Penny，並受惠中東和平協議。"
     },
     {
       "symbol": "VZ",
       "name": "Verizon Communications",
       "theme": "電信服務",
       "changePercent": 1.3574660633484168,
-      "reason": "與BT集團成立國際合資企業，Q2財報將公布，推出新客戶方案。"
+      "reason": "與BT Group成立國際合資企業，並宣布第二季財報將於7月24日公布。"
     },
     {
       "symbol": "ARM",
       "name": "Arm Holdings plc American Depositary Shares",
-      "theme": "半導體IP",
+      "theme": "晶片設計IP",
       "changePercent": -6.575399294752142,
-      "reason": "Oracle採用其AGI CPU架構，AI及資料中心CPU需求樂觀，分析師調升目標價。"
+      "reason": "AI動能持續，市場對其AI晶片設計需求強勁，分析師上調目標價。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點主要集中在科技股，特別是AI晶片、記憶體和半導體相關類股，但多數呈現下跌，顯示市場在經歷前期大漲後出現獲利了結與資金輪動。蘋果（AAPL）受惠於折疊iPhone備貨量上調及非核心產品漲價，股價逆勢上揚，帶動消費電子族群表現。特斯拉（TSLA）儘管第二季交車量優於預期，但仍受獲利了結和空頭壓力影響而下跌。整體而言，市場正在權衡AI基礎設施投資的長期潛力與短期估值過高風險。",
+    "highlights": "本日美股成交重點聚焦於AI相關類股的資金輪動與獲利了結，以及部分科技巨頭的策略調整。記憶體和儲存裝置類股如美光 (MU) 和Sandisk (SNDK) 雖然記憶體價格持續上漲，但股價卻因晶片股普遍遭拋售而大幅下跌，顯示短線資金獲利了結的壓力。AI晶片相關個股如Nvidia (NVDA) 和AMD (AMD) 也出現下跌，半導體設備廠應用材料 (AMAT) 更因AI晶片設備族群獲利了結而重挫。與此同時，Meta (META) 宣布進軍雲端AI服務市場，計畫出租AI算力，此舉被市場解讀為將龐大的AI基礎設施轉化為新的營收來源，並可能與AWS、Azure等雲端巨頭競爭，帶動其股價在盤中一度反彈。特斯拉 (TSLA) 儘管在英國市場銷量大增，但整體電動車產業仍面臨美中成長動能趨緩的挑戰。消費性電子巨頭蘋果 (AAPL) 則因加碼摺疊屏iPhone備貨而逆勢上漲。",
     "eventsPast": [
       {
-        "title": "AI記憶體與晶片股獲利了結",
-        "detail": "Micron Technology (MU)、Sandisk (SNDK)、Marvell Technology (MRVL)、Intel (INTC)、AMD (AMD) 及Applied Materials (AMAT) 等AI相關記憶體與晶片股在第二季大漲後，於7月2日普遍出現大幅下跌，主要受獲利了結與亞洲同業擴產消息拖累。"
+        "title": "記憶體晶片股普遍遭拋售",
+        "detail": "儘管記憶體晶片價格持續攀升，美光科技 (MU) 和Sandisk (SNDK) 等記憶體類股股價仍大幅下跌，主要受晶片股普遍遭拋售的影響。"
       },
       {
-        "title": "蘋果折疊iPhone備貨量上調",
-        "detail": "蘋果公司（AAPL）傳出將今年折疊屏iPhone的備貨目標從700-800萬支大幅上調至約1000萬支，帶動股價上漲。"
+        "title": "Meta進軍雲端AI服務市場",
+        "detail": "Meta Platforms (META) 宣布規劃進軍人工智慧 (AI) 雲端服務市場，擬對外出租AI算力及模型服務，將龐大的AI基礎設施轉化為新的營收來源。"
       },
       {
-        "title": "特斯拉第二季交車量優於預期",
-        "detail": "特斯拉（TSLA）公布第二季交車量達480,126輛，優於市場預估的406,000輛，但股價仍因獲利了結和空頭壓力而下跌。"
+        "title": "美國6月非農就業報告弱於預期",
+        "detail": "美國6月非農就業報告顯示新增就業崗位5.7萬個，低於市場預期的11.5萬個，使市場認為聯準會將因此暫緩加息。"
       },
       {
-        "title": "微軟成立企業級AI業務公司",
-        "detail": "微軟（MSFT）宣布投入25億美元並調配6000名專家，成立Microsoft Frontier Company，專注於企業AI系統的設計、部署與優化服務。"
+        "title": "特斯拉英國銷量大增",
+        "detail": "特斯拉 (TSLA) 6月份在英國註冊了12,403輛純電車，較去年同期大幅增長42%，顯示其在歐洲市場強勢復甦。"
       },
       {
-        "title": "Meta考慮出售AI算力",
-        "detail": "Meta Platforms (META) 傳出考慮允許外部開發者存取其AI模型，並直接出售「原始」計算能力，引發市場對AI算力供給過剩的擔憂，但也有分析認為此舉可能改善基礎設施使用率。"
+        "title": "微軟傳將裁員",
+        "detail": "微軟 (MSFT) 傳出最快將於下週宣布新一波裁員計畫，預計影響數千個職位，涵蓋銷售、顧問及Xbox遊戲部門等多個業務單位，以控制營運成本並持續投資AI。"
       }
     ],
-    "eventsUpcoming": []
+    "eventsUpcoming": [
+      {
+        "date": "9/22",
+        "title": "美光科技 (MU) 財報公布",
+        "detail": "市場預期美光科技 (MU) 在9月公布的財報將展現營收與獲利大幅成長。"
+      }
+    ]
   }
 }
