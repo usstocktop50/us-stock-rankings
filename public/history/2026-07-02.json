@@ -60,7 +60,7 @@
       "dollarVolume": 23106280677.4475,
       "marketCap": 4532958682280,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "消費性電子",
+      "theme": "消費電子",
       "isNew": false,
       "rankChange": 4,
       "streak": 79
@@ -86,7 +86,7 @@
       "dollarVolume": 15309784520.210876,
       "marketCap": 604879100000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "CPU",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": 3,
       "streak": 79
@@ -125,7 +125,7 @@
       "dollarVolume": 11777776057.672375,
       "marketCap": 2610427746834.1196,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電商",
+      "theme": "電商與雲端服務",
       "isNew": false,
       "rankChange": 1,
       "streak": 79
@@ -151,7 +151,7 @@
       "dollarVolume": 9711528936.639187,
       "marketCap": 1714869782369.0999,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網通晶片",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": 3,
       "streak": 79
@@ -164,7 +164,7 @@
       "dollarVolume": 9663531002.671848,
       "marketCap": 214579692000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網通晶片",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": 1,
       "streak": 69
@@ -177,7 +177,7 @@
       "dollarVolume": 9336885441.72295,
       "marketCap": 2096115840000.0002,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "搜尋引擎",
+      "theme": "網路服務",
       "isNew": false,
       "rankChange": -1,
       "streak": 79
@@ -216,7 +216,7 @@
       "dollarVolume": 7919265721.776957,
       "marketCap": 296882023486.2,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "數據分析軟體",
+      "theme": "大數據分析",
       "isNew": false,
       "rankChange": 0,
       "streak": 79
@@ -255,7 +255,7 @@
       "dollarVolume": 5641758501.879504,
       "marketCap": 30769312571.550003,
       "sector": "OPTICAL INSTRUMENTS & LENSES",
-      "theme": "半導體檢測設備",
+      "theme": "半導體設備",
       "isNew": false,
       "rankChange": 2,
       "streak": 19
@@ -268,7 +268,7 @@
       "dollarVolume": 5532427246.629669,
       "marketCap": 1943318080000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "搜尋引擎",
+      "theme": "網路服務",
       "isNew": false,
       "rankChange": -1,
       "streak": 79
@@ -333,7 +333,7 @@
       "dollarVolume": 4738033026.597645,
       "marketCap": 89190251005.54001,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "線上券商",
+      "theme": "金融科技",
       "isNew": false,
       "rankChange": 16,
       "streak": 2
@@ -346,7 +346,7 @@
       "dollarVolume": 4345556368.269938,
       "marketCap": 77052999402.51999,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "燃料電池",
+      "theme": "再生能源",
       "isNew": false,
       "rankChange": -1,
       "streak": 14
@@ -359,7 +359,7 @@
       "dollarVolume": 4321854372.774708,
       "marketCap": 169364917581.75,
       "sector": "DRAWING & INSULATING OF NONFERROUS WIRE",
-      "theme": "光纖通訊",
+      "theme": "特用材料",
       "isNew": false,
       "rankChange": -3,
       "streak": 9
@@ -385,7 +385,7 @@
       "dollarVolume": 3997455632.2042527,
       "marketCap": 1143189310157.46,
       "sector": "PHARMACEUTICAL PREPARATIONS",
-      "theme": "減肥藥 GLP-1",
+      "theme": "生技製藥",
       "isNew": false,
       "rankChange": 9,
       "streak": 31
@@ -398,7 +398,7 @@
       "dollarVolume": 3877385475.201924,
       "marketCap": 56663296000.00001,
       "sector": "COMMUNICATIONS EQUIPMENT, NEC",
-      "theme": "光學元件",
+      "theme": "光通訊",
       "isNew": false,
       "rankChange": 3,
       "streak": 79
@@ -450,7 +450,7 @@
       "dollarVolume": 3294382685.4863324,
       "marketCap": 185767500000,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "手機晶片",
+      "theme": "通訊晶片",
       "isNew": false,
       "rankChange": -4,
       "streak": 48
@@ -489,7 +489,7 @@
       "dollarVolume": 3006444111.0896416,
       "marketCap": 69663614568.38,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "資料中心互連",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": 10,
       "streak": 4
@@ -502,7 +502,7 @@
       "dollarVolume": 2874647413.057049,
       "marketCap": 266729995186.28,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "類比IC",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": 8,
       "streak": 10
@@ -515,7 +515,7 @@
       "dollarVolume": 2811831773.7675295,
       "marketCap": 896216183978.4601,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "銀行",
+      "theme": "金融服務",
       "isNew": false,
       "rankChange": -16,
       "streak": 2
@@ -645,49 +645,20 @@
       "dollarVolume": 2458822207.3906927,
       "marketCap": 336743871452.8,
       "sector": "—",
-      "theme": "IP 設計",
+      "theme": "半導體IP",
       "isNew": true,
       "rankChange": null,
       "streak": 1
     }
   ],
   "asOf": "2026-07-02T20:00:00.000Z",
-  "generatedAt": "2026-07-04T02:05:06.539Z",
+  "generatedAt": "2026-07-04T07:30:50.987Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
-      "theme": "零售百貨",
-      "reason": "通膨趨緩與消費信心回升，帶動零售業績成長預期。",
-      "symbols": [
-        "WMT",
-        "COST"
-      ],
-      "count": 2,
-      "avgChange": 2.8475928885209196
-    },
-    {
-      "theme": "電信服務",
-      "reason": "電信業者持續推動5G服務與基礎建設，營運表現穩健。",
-      "symbols": [
-        "T",
-        "VZ"
-      ],
-      "count": 2,
-      "avgChange": 0.9228736566742032
-    },
-    {
-      "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型需求持續，雲端軟體服務訂閱收入穩定增長。",
-      "symbols": [
-        "MSFT"
-      ],
-      "count": 1,
-      "avgChange": 1.6160091599875186
-    },
-    {
-      "theme": "消費性電子",
-      "reason": "新產品發表與市場需求回溫，提振消費性電子產品銷售。",
+      "theme": "消費電子",
+      "reason": "市場對新產品發布及未來營收成長抱持樂觀態度，帶動股價上漲。",
       "symbols": [
         "AAPL"
       ],
@@ -696,7 +667,7 @@
     },
     {
       "theme": "比特幣/加密",
-      "reason": "加密貨幣市場情緒好轉，相關概念股受資金追捧。",
+      "reason": "加密貨幣市場波動，相關概念股受資金追捧。",
       "symbols": [
         "MSTR"
       ],
@@ -704,13 +675,41 @@
       "avgChange": 7.902345004818498
     },
     {
-      "theme": "減肥藥 GLP-1",
-      "reason": "GLP-1藥物市場潛力巨大，持續吸引投資者關注。",
+      "theme": "串流媒體",
+      "reason": "訂戶增長與內容策略奏效，提振投資人信心。",
       "symbols": [
-        "LLY"
+        "NFLX"
       ],
       "count": 1,
-      "avgChange": 1.8603051001057338
+      "avgChange": 4.663701307453846
+    },
+    {
+      "theme": "金融科技",
+      "reason": "市場對其創新商業模式及用戶增長潛力保持關注。",
+      "symbols": [
+        "HOOD"
+      ],
+      "count": 1,
+      "avgChange": 3.7551771744132516
+    },
+    {
+      "theme": "支付服務",
+      "reason": "全球數位支付趨勢持續增長，帶動相關企業營收。",
+      "symbols": [
+        "V"
+      ],
+      "count": 1,
+      "avgChange": 3.14743078500627
+    },
+    {
+      "theme": "零售百貨",
+      "reason": "穩健的消費需求與營運表現，支撐股價。",
+      "symbols": [
+        "WMT",
+        "COST"
+      ],
+      "count": 2,
+      "avgChange": 2.8475928885209196
     }
   ],
   "newEntrants": [
@@ -719,53 +718,47 @@
       "name": "Booking Holdings Inc. Common Stock",
       "theme": "線上旅遊",
       "changePercent": 1.0512483574244504,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "中東衝突緩解，分析師上調目標價，Q1財報優於預期。"
     },
     {
       "symbol": "VZ",
       "name": "Verizon Communications",
       "theme": "電信服務",
       "changePercent": 1.3574660633484168,
-      "reason": "與BT Group成立國際合資企業，擴展全球業務服務範圍。"
+      "reason": "與BT集團成立國際合資企業，Q2財報將公布，推出新客戶方案。"
     },
     {
       "symbol": "ARM",
       "name": "Arm Holdings plc American Depositary Shares",
-      "theme": "IP 設計",
+      "theme": "半導體IP",
       "changePercent": -6.575399294752142,
-      "reason": "AI晶片架構需求強勁，市場看好其在AI領域的擴張潛力。"
+      "reason": "Oracle採用其AGI CPU架構，AI及資料中心CPU需求樂觀，分析師調升目標價。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點集中在AI相關的半導體、記憶體和儲存裝置類股，以及電動車和消費性電子。資金主要由對AI基礎設施建置的強勁需求所驅動，儘管部分AI概念股面臨獲利了結賣壓。蘋果公司因AI相關功能更新及新產品預期而表現強勁，而特斯拉則受惠於Model Y L在美國上市及第二季交車量超預期。",
+    "highlights": "本日美股成交重點主要集中在科技股，特別是AI晶片、記憶體和半導體相關類股，但多數呈現下跌，顯示市場在經歷前期大漲後出現獲利了結與資金輪動。蘋果（AAPL）受惠於折疊iPhone備貨量上調及非核心產品漲價，股價逆勢上揚，帶動消費電子族群表現。特斯拉（TSLA）儘管第二季交車量優於預期，但仍受獲利了結和空頭壓力影響而下跌。整體而言，市場正在權衡AI基礎設施投資的長期潛力與短期估值過高風險。",
     "eventsPast": [
       {
-        "title": "美光科技（MU）第三季財報超越預期",
-        "detail": "美光科技公布的2026財年第三季財報顯示，營收和每股盈餘均大幅超越分析師預期，主要受惠於AI對記憶體和儲存容量的強勁需求。"
+        "title": "AI記憶體與晶片股獲利了結",
+        "detail": "Micron Technology (MU)、Sandisk (SNDK)、Marvell Technology (MRVL)、Intel (INTC)、AMD (AMD) 及Applied Materials (AMAT) 等AI相關記憶體與晶片股在第二季大漲後，於7月2日普遍出現大幅下跌，主要受獲利了結與亞洲同業擴產消息拖累。"
       },
       {
-        "title": "SanDisk（SNDK）第三季財報表現強勁，但股價下跌",
-        "detail": "SanDisk公布的2026財年第三季營收和調整後每股盈餘遠超預期，數據中心業務因AI基礎設施支出加速而大幅增長，但近期因對記憶體供應過剩的擔憂導致股價下跌。"
+        "title": "蘋果折疊iPhone備貨量上調",
+        "detail": "蘋果公司（AAPL）傳出將今年折疊屏iPhone的備貨目標從700-800萬支大幅上調至約1000萬支，帶動股價上漲。"
       },
       {
-        "title": "特斯拉（TSLA）Model Y L在美國上市",
-        "detail": "特斯拉在美國市場推出Model Y L，這款三排座SUV在中國市場已取得巨大成功，預計將有助於提振特斯拉的電動車銷量。"
+        "title": "特斯拉第二季交車量優於預期",
+        "detail": "特斯拉（TSLA）公布第二季交車量達480,126輛，優於市場預估的406,000輛，但股價仍因獲利了結和空頭壓力而下跌。"
       },
       {
-        "title": "微軟（MSFT）成立新AI實施部門",
-        "detail": "微軟投資25億美元成立新的「Microsoft Frontier Company」部門，旨在協助客戶理解和實施人工智慧解決方案，並將與合作夥伴生態系統緊密合作。"
+        "title": "微軟成立企業級AI業務公司",
+        "detail": "微軟（MSFT）宣布投入25億美元並調配6000名專家，成立Microsoft Frontier Company，專注於企業AI系統的設計、部署與優化服務。"
       },
       {
-        "title": "應用材料（AMAT）推出新AI晶片製造系統",
-        "detail": "應用材料推出一系列新的磊晶、化學機械平坦化（CMP）、沉積和電子束系統，旨在加速AI晶片所需的先進3D晶片架構、DRAM性能提升和高良率先進封裝技術。"
+        "title": "Meta考慮出售AI算力",
+        "detail": "Meta Platforms (META) 傳出考慮允許外部開發者存取其AI模型，並直接出售「原始」計算能力，引發市場對AI算力供給過剩的擔憂，但也有分析認為此舉可能改善基礎設施使用率。"
       }
     ],
-    "eventsUpcoming": [
-      {
-        "date": "7/30",
-        "title": "蘋果（AAPL）2026財年第三季財報",
-        "detail": "蘋果預計將於7月30日公布其2026財年第三季財報，市場關注其iPhone 18 Pro預購、iOS 27更新以及新iPad Pro和MacBook Pro的相關細節。"
-      }
-    ]
+    "eventsUpcoming": []
   }
 }
