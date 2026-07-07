@@ -151,7 +151,7 @@
       "dollarVolume": 9779201663.747698,
       "marketCap": 2626455839893.76,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電子商務",
+      "theme": "電商",
       "isNew": false,
       "rankChange": -2,
       "streak": 80
@@ -242,7 +242,7 @@
       "dollarVolume": 4927304281.767731,
       "marketCap": 304321294608.36,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "大數據/AI 軟體",
+      "theme": "數據分析",
       "isNew": false,
       "rankChange": -2,
       "streak": 80
@@ -320,7 +320,7 @@
       "dollarVolume": 3424301771.069834,
       "marketCap": 83925163253.40001,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "氫能源",
+      "theme": "潔淨能源",
       "isNew": false,
       "rankChange": 2,
       "streak": 15
@@ -372,7 +372,7 @@
       "dollarVolume": 3126909205.238904,
       "marketCap": 166254004280,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "廣告科技",
+      "theme": "行動廣告",
       "isNew": false,
       "rankChange": 8,
       "streak": 5
@@ -398,7 +398,7 @@
       "dollarVolume": 3006577209.3984895,
       "marketCap": 133782964952,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "電腦硬體",
+      "theme": "電子電腦",
       "isNew": false,
       "rankChange": 13,
       "streak": 5
@@ -450,7 +450,7 @@
       "dollarVolume": 2887006189.6817856,
       "marketCap": 196549920000,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "無線通訊晶片",
+      "theme": "通訊晶片",
       "isNew": false,
       "rankChange": 0,
       "streak": 49
@@ -554,7 +554,7 @@
       "dollarVolume": 2382672135.635347,
       "marketCap": 167652248310,
       "sector": "DRAWING & INSULATING OF NONFERROUS WIRE",
-      "theme": "特用材料",
+      "theme": "材料科學",
       "isNew": false,
       "rankChange": -15,
       "streak": 10
@@ -567,7 +567,7 @@
       "dollarVolume": 2380701965.899784,
       "marketCap": 446737376151.36,
       "sector": "CONSTRUCTION MACHINERY & EQUIP",
-      "theme": "工業機械",
+      "theme": "重型機械",
       "isNew": false,
       "rankChange": -10,
       "streak": 13
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-07-06T20:00:00.000Z",
-  "generatedAt": "2026-07-07T04:49:06.945Z",
+  "generatedAt": "2026-07-07T06:39:28.499Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "儲存裝置",
-      "reason": "隨著資料中心和AI應用的增長，對高效能儲存解決方案的需求持續提升，帶動相關個股表現。",
+      "reason": "市場對數據儲存需求持續增長，帶動相關公司股價表現。",
       "symbols": [
         "WDC",
         "STX"
@@ -668,7 +668,7 @@
     },
     {
       "theme": "AI 晶片",
-      "reason": "市場對AI技術發展的樂觀預期持續推動AI晶片領導廠商的股價上漲。",
+      "reason": "人工智慧技術的快速發展持續推動對高效能晶片的需求。",
       "symbols": [
         "TSLA",
         "AMD",
@@ -678,28 +678,19 @@
       "avgChange": 4.556499780484843
     },
     {
-      "theme": "比特幣/加密",
-      "reason": "加密貨幣市場波動，相關概念股受資金追捧。",
-      "symbols": [
-        "IREN"
-      ],
-      "count": 1,
-      "avgChange": 13.111798042246257
-    },
-    {
       "theme": "半導體",
-      "reason": "半導體產業景氣復甦預期，加上AI應用帶動需求，使相關個股表現強勁。",
+      "reason": "全球半導體產業景氣回升，市場預期需求將持續增長。",
       "symbols": [
-        "INTC",
         "AVGO",
-        "MRVL"
+        "MRVL",
+        "INTC"
       ],
       "count": 3,
       "avgChange": 2.2970664073428506
     },
     {
       "theme": "雲端服務",
-      "reason": "雲端運算和AI服務需求持續增長，帶動主要雲端服務提供商股價上揚。",
+      "reason": "企業數位轉型趨勢不變，雲端運算服務需求穩定成長。",
       "symbols": [
         "GOOGL",
         "GOOG"
@@ -708,14 +699,22 @@
       "avgChange": 2.134049883718915
     },
     {
-      "theme": "半導體設備",
-      "reason": "全球半導體產能擴張，對先進設備的需求增加，推升相關供應商股價。",
+      "theme": "比特幣/加密",
+      "reason": "加密貨幣市場波動，相關概念股受市場情緒影響。",
       "symbols": [
-        "TSM",
-        "ASML"
+        "IREN"
       ],
-      "count": 2,
-      "avgChange": 3.605821491975269
+      "count": 1,
+      "avgChange": 13.111798042246257
+    },
+    {
+      "theme": "電力基礎建設",
+      "reason": "全球能源轉型與電網升級需求，推動電力基礎建設相關企業發展。",
+      "symbols": [
+        "GEV"
+      ],
+      "count": 1,
+      "avgChange": 3.4974081627152813
     }
   ],
   "newEntrants": [
@@ -731,79 +730,79 @@
       "name": "American Airlines Group Inc.",
       "theme": "航空",
       "changePercent": -0.9486607142857237,
-      "reason": "分析師調升目標價，且對航空業前景樂觀。"
+      "reason": "分析師上調目標價與2026年EPS預估，且航空業迎暑假旺季。"
     },
     {
       "symbol": "IREN",
       "name": "IREN Limited Ordinary Shares",
       "theme": "比特幣/加密",
       "changePercent": 13.111798042246257,
-      "reason": "市場傳言可能獲得Anthropic澳洲數據中心大訂單，並受AI基礎設施熱潮帶動。"
+      "reason": "入圍Anthropic數據中心項目候選名單，引發軋空行情，且加密貨幣族群反彈。"
     },
     {
       "symbol": "ABBV",
       "name": "ABBVIE INC.",
       "theme": "生技製藥",
       "changePercent": -2.41697628988394,
-      "reason": "下修第二季及全年財測，主因研發費用增加。"
+      "reason": "歐盟批准新藥TEPKINLY聯合療法，以及分析師上調目標價。"
     },
     {
       "symbol": "IBM",
       "name": "International Business Machines Corporation",
       "theme": "企業軟體",
       "changePercent": 3.4539928156949435,
-      "reason": "分析師調升目標價，AI、軟體、量子計算業務展望佳。"
+      "reason": "美銀證券上調目標價，並看好第二季度表現，且受惠科技股回暖。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點集中在AI晶片、記憶體和電動車等科技股。資金流向顯示市場對AI基礎設施和相關硬體的需求持續樂觀，特別是半導體板塊在經歷短期調整後強勁反彈，由AMD、Nvidia等AI晶片股帶動。此外，特斯拉因其Robotaxi服務擴張和優於預期的第二季交車量，也吸引了大量買盤。整體而言，市場正在交易AI技術的長期發展潛力以及相關產業鏈的成長故事。",
+    "highlights": "本日美股成交重點聚焦於AI相關題材，特別是記憶體、儲存裝置、AI晶片和半導體族群。資金主要集中在這些領域，受惠於AI資料中心對高速記憶體和運算能力前所未有的強勁需求。Micron (MU) 和SpaceX (SPCX) 的重大消息也帶動了市場成交量，其中SpaceX即將納入Nasdaq-100指數，而記憶體產業則因AI需求而迎來漲價潮，市場正在交易AI基礎建設持續擴張的故事。",
     "eventsPast": [
       {
-        "title": "半導體板塊強勁反彈",
-        "detail": "美國銀行報告指出，近期半導體板塊下跌僅為暫時性調整，而非AI需求的根本性轉變，帶動AMD股價大漲逾9%，費城半導體指數上漲超過4%。"
+        "title": "AI記憶體與晶片股強勁反彈",
+        "detail": "在經歷上週動盪後，AI記憶體及相關股票於週一強勁反彈，納斯達克綜合指數上漲約1.12%，標準普爾500指數增長0.56%。"
       },
       {
-        "title": "特斯拉Robotaxi服務擴張與交車量超預期",
-        "detail": "特斯拉將其Robotaxi無人車叫車服務擴展至美國佛州邁阿密，並公布第二季汽車交付量達48萬輛，年增25%，優於市場預期，推升股價上漲。"
+        "title": "SpaceX (SPCX) 將納入Nasdaq-100指數",
+        "detail": "SpaceX (SPCX) 股價下跌1%，但當天成交金額超過260億美元，市場預期SpaceX將於週二正式納入那斯達克100指數。"
       },
       {
-        "title": "微軟裁員以優化AI投資",
-        "detail": "微軟宣布裁減4,800名員工，約占全球員工總數的2.1%，並縮減Xbox部門，旨在將資源轉向AI工程與技術客服職能，以平衡AI擴張與股東盈利需求。"
+        "title": "美國6月ISM非製造業指數公布",
+        "detail": "美國供應管理協會(ISM)公布，6月非製造業指數由5月的54.5小幅降至54.0，與市場預期一致，顯示美國服務業活動穩健擴張，但成長動能略為放緩。"
       },
       {
-        "title": "比特幣概念股強彈",
-        "detail": "加密貨幣挖礦股IREN股價強勢上攻，單日漲幅約15%，顯示資金明顯回流加密貨幣相關族群。"
+        "title": "美光與福特簽署長期戰略客戶協議",
+        "detail": "微芯科技(MU)因與福特簽署長期戰略客戶協議而上漲約3%。"
       },
       {
-        "title": "Meta考慮出售剩餘算力",
-        "detail": "Meta考慮將閒置的資料中心容量租賃給外部客戶，此舉引發市場對AI算力供應過剩的擔憂，導致記憶體類股一度承壓。"
+        "title": "三星電子預計第三季度DRAM價格將提高20%",
+        "detail": "三星電子預計第三季度將DRAM價格提高20%，顯示記憶體產業因AI需求而持續漲價。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "本週二",
-        "title": "三星電子公布財報",
-        "detail": "三星電子將公布業績，其作為主要晶片製造商的財報表現將受到密切關注，可能影響記憶體板塊走勢。"
-      },
-      {
-        "date": "7/7",
-        "title": "SpaceX納入Nasdaq-100指數",
-        "detail": "SpaceX將加入Nasdaq-100指數，預計將帶來約43億美元的被動資金買盤，並測試市場對高估值科技股的風險胃口。"
-      },
-      {
         "date": "7/8",
         "title": "Fed公布6月會議紀要",
-        "detail": "聯準會將公布6月份會議紀要，市場將從中尋找未來貨幣政策走向的線索，可能影響科技股估值壓力。"
+        "detail": "聯準會將公布6月聯邦公開市場委員會(FOMC)會議紀錄，市場將從中尋找Fed未來利率走向的線索，特別是新任主席華許的政策立場及決策風格。"
       },
       {
-        "date": "未來幾天",
-        "title": "SK海力士美國上市",
-        "detail": "SK海力士將推進規模280億美元的美國上市，這將測試美國投資人對AI記憶體的追逐意願。"
+        "date": "7/9",
+        "title": "美國每週首次申請失業救濟金人數及6月成屋銷售數據",
+        "detail": "美國將公布每週首次申請失業救濟金人數，以及6月成屋銷售數據，反映當前就業市場與房市景氣狀況，並可能影響市場對Fed後續利率路徑的預期。"
       },
       {
-        "date": "7/22",
-        "title": "特斯拉第二季度財報電話會議",
-        "detail": "投資人將有機會在特斯拉的第二季度財報電話會議上，向執行長馬斯克及其管理團隊提問有關自動駕駛出租車和機器人的最新進展。"
+        "date": "本週",
+        "title": "SK海力士在美國那斯達克發行ADR",
+        "detail": "韓國記憶體巨頭SK海力士計劃將於本週發行ADR在美國那斯達克掛牌上市，此舉將測試美國投資人對AI記憶體的追價意願。"
+      },
+      {
+        "date": "本週",
+        "title": "企業財報季開始",
+        "detail": "本週將有百事可樂、達美航空等企業公布財報，市場預期標普500整體企業第二季獲利預計年增24%，科技類股獲利則預估躍增約65%。"
+      },
+      {
+        "date": "9月下旬",
+        "title": "美國總統川普預計與中國國家主席習近平會面",
+        "detail": "美國總統川普再次表示，預計9月下旬左右與中國國家主席習近平會面，屆時正值聯合國大會在紐約舉行。"
       }
     ]
   }
