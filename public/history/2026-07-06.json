@@ -151,7 +151,7 @@
       "dollarVolume": 9779201663.747698,
       "marketCap": 2626455839893.76,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電商",
+      "theme": "電子商務",
       "isNew": false,
       "rankChange": -2,
       "streak": 80
@@ -320,7 +320,7 @@
       "dollarVolume": 3424301771.069834,
       "marketCap": 83925163253.40001,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "潔淨能源",
+      "theme": "氫能源",
       "isNew": false,
       "rankChange": 2,
       "streak": 15
@@ -398,7 +398,7 @@
       "dollarVolume": 3006577209.3984895,
       "marketCap": 133782964952,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "電子電腦",
+      "theme": "電腦硬體",
       "isNew": false,
       "rankChange": 13,
       "streak": 5
@@ -450,7 +450,7 @@
       "dollarVolume": 2887006189.6817856,
       "marketCap": 196549920000,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "通訊晶片",
+      "theme": "手機晶片",
       "isNew": false,
       "rankChange": 0,
       "streak": 49
@@ -476,7 +476,7 @@
       "dollarVolume": 2821094725.0933857,
       "marketCap": 1130146191684.3599,
       "sector": "PHARMACEUTICAL PREPARATIONS",
-      "theme": "生技製藥",
+      "theme": "減肥藥 GLP-1",
       "isNew": false,
       "rankChange": -7,
       "streak": 32
@@ -554,7 +554,7 @@
       "dollarVolume": 2382672135.635347,
       "marketCap": 167652248310,
       "sector": "DRAWING & INSULATING OF NONFERROUS WIRE",
-      "theme": "材料科學",
+      "theme": "特種玻璃",
       "isNew": false,
       "rankChange": -15,
       "streak": 10
@@ -567,7 +567,7 @@
       "dollarVolume": 2380701965.899784,
       "marketCap": 446737376151.36,
       "sector": "CONSTRUCTION MACHINERY & EQUIP",
-      "theme": "重型機械",
+      "theme": "工業機械",
       "isNew": false,
       "rankChange": -10,
       "streak": 13
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-07-06T20:00:00.000Z",
-  "generatedAt": "2026-07-07T06:39:28.499Z",
+  "generatedAt": "2026-07-07T08:27:59.699Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "儲存裝置",
-      "reason": "市場對數據儲存需求持續增長，帶動相關公司股價表現。",
+      "reason": "隨著AI應用對數據儲存需求增加，相關儲存裝置供應商受到市場關注。",
       "symbols": [
         "WDC",
         "STX"
@@ -668,7 +668,7 @@
     },
     {
       "theme": "AI 晶片",
-      "reason": "人工智慧技術的快速發展持續推動對高效能晶片的需求。",
+      "reason": "AI技術持續發展，市場對AI晶片的需求旺盛，帶動相關個股表現。",
       "symbols": [
         "TSLA",
         "AMD",
@@ -679,18 +679,18 @@
     },
     {
       "theme": "半導體",
-      "reason": "全球半導體產業景氣回升，市場預期需求將持續增長。",
+      "reason": "半導體產業景氣復甦，加上AI相關需求，推動整體板塊上漲。",
       "symbols": [
+        "INTC",
         "AVGO",
-        "MRVL",
-        "INTC"
+        "MRVL"
       ],
       "count": 3,
       "avgChange": 2.2970664073428506
     },
     {
       "theme": "雲端服務",
-      "reason": "企業數位轉型趨勢不變，雲端運算服務需求穩定成長。",
+      "reason": "企業數位轉型及雲端應用普及，帶動雲端服務提供商的營收成長。",
       "symbols": [
         "GOOGL",
         "GOOG"
@@ -699,22 +699,23 @@
       "avgChange": 2.134049883718915
     },
     {
+      "theme": "半導體設備",
+      "reason": "半導體產業擴張資本支出，對先進製程設備的需求持續增加。",
+      "symbols": [
+        "TSM",
+        "ASML"
+      ],
+      "count": 2,
+      "avgChange": 3.605821491975269
+    },
+    {
       "theme": "比特幣/加密",
-      "reason": "加密貨幣市場波動，相關概念股受市場情緒影響。",
+      "reason": "比特幣價格波動及市場對加密貨幣的興趣，影響相關概念股表現。",
       "symbols": [
         "IREN"
       ],
       "count": 1,
       "avgChange": 13.111798042246257
-    },
-    {
-      "theme": "電力基礎建設",
-      "reason": "全球能源轉型與電網升級需求，推動電力基礎建設相關企業發展。",
-      "symbols": [
-        "GEV"
-      ],
-      "count": 1,
-      "avgChange": 3.4974081627152813
     }
   ],
   "newEntrants": [
@@ -723,87 +724,61 @@
       "name": "UNITEDHEALTH GROUP INCORPORATED (Delaware)",
       "theme": "醫療保險",
       "changePercent": -1.7326499905962018,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動，但有分析師調升目標價。"
     },
     {
       "symbol": "AAL",
       "name": "American Airlines Group Inc.",
       "theme": "航空",
       "changePercent": -0.9486607142857237,
-      "reason": "分析師上調目標價與2026年EPS預估，且航空業迎暑假旺季。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "IREN",
       "name": "IREN Limited Ordinary Shares",
       "theme": "比特幣/加密",
       "changePercent": 13.111798042246257,
-      "reason": "入圍Anthropic數據中心項目候選名單，引發軋空行情，且加密貨幣族群反彈。"
+      "reason": "受AI基礎設施樂觀情緒、分析師支持及Anthropic澳洲數據中心傳聞帶動。"
     },
     {
       "symbol": "ABBV",
       "name": "ABBVIE INC.",
       "theme": "生技製藥",
       "changePercent": -2.41697628988394,
-      "reason": "歐盟批准新藥TEPKINLY聯合療法，以及分析師上調目標價。"
+      "reason": "歐盟批准新藥Tepkinly，以及收購Apogee Therapeutics強化免疫學產品線。"
     },
     {
       "symbol": "IBM",
       "name": "International Business Machines Corporation",
       "theme": "企業軟體",
       "changePercent": 3.4539928156949435,
-      "reason": "美銀證券上調目標價，並看好第二季度表現，且受惠科技股回暖。"
+      "reason": "美國銀行證券調升目標價，AI、軟體和量子運算業務前景樂觀。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI相關題材，特別是記憶體、儲存裝置、AI晶片和半導體族群。資金主要集中在這些領域，受惠於AI資料中心對高速記憶體和運算能力前所未有的強勁需求。Micron (MU) 和SpaceX (SPCX) 的重大消息也帶動了市場成交量，其中SpaceX即將納入Nasdaq-100指數，而記憶體產業則因AI需求而迎來漲價潮，市場正在交易AI基礎建設持續擴張的故事。",
+    "highlights": "本日美股成交重點集中在AI晶片、記憶體和半導體族群，資金主要受多項利好消息驅動。Tesla受第二季交車量大幅成長激勵，股價強勁上漲。同時，Broadcom與Apple延長晶片供應協議至2031年，鞏固其在半導體供應鏈的關鍵地位。記憶體方面，Sandisk與Kioxia合作量產新一代3D NAND，以及Micron與Ford簽署長期供應協議，都顯示儲存裝置市場需求旺盛。此外，Meta Platforms推出AI驅動的遊戲應用和AI眼鏡，並傳出將進軍雲端服務，也吸引了市場關注。",
     "eventsPast": [
       {
-        "title": "AI記憶體與晶片股強勁反彈",
-        "detail": "在經歷上週動盪後，AI記憶體及相關股票於週一強勁反彈，納斯達克綜合指數上漲約1.12%，標準普爾500指數增長0.56%。"
+        "title": "Microsoft 宣布裁員並重組 Xbox 部門",
+        "detail": "Microsoft 宣布將裁減約 4,800 個職位，佔全球員工總數的 2.1%，並將重組其 Xbox 遊戲業務，以期在多年大量投資後提高回報。"
       },
       {
-        "title": "SpaceX (SPCX) 將納入Nasdaq-100指數",
-        "detail": "SpaceX (SPCX) 股價下跌1%，但當天成交金額超過260億美元，市場預期SpaceX將於週二正式納入那斯達克100指數。"
+        "title": "Meta Platforms 推出 AI 驅動的應用程式與 AI 眼鏡",
+        "detail": "Meta Platforms 推出新的 AI 驅動行動遊戲應用程式 Pocket，並與 EssilorLuxottica 合作推出品牌 AI 眼鏡系列，擴展其消費性 AI 娛樂產品。"
       },
       {
-        "title": "美國6月ISM非製造業指數公布",
-        "detail": "美國供應管理協會(ISM)公布，6月非製造業指數由5月的54.5小幅降至54.0，與市場預期一致，顯示美國服務業活動穩健擴張，但成長動能略為放緩。"
+        "title": "Tesla 第二季交車量大幅成長",
+        "detail": "Tesla 公布第二季交車量達 480,126 輛，年增 25%，超出華爾街預期，顯示其電動車業務可能正在復甦。"
       },
       {
-        "title": "美光與福特簽署長期戰略客戶協議",
-        "detail": "微芯科技(MU)因與福特簽署長期戰略客戶協議而上漲約3%。"
+        "title": "Broadcom 與 Apple 延長晶片供應協議",
+        "detail": "Broadcom 宣布與 Apple 延長其晶片供應協議至 2031 年，將繼續為 Apple 開發和供應一系列客製化 ASIC 晶片產品。"
       },
       {
-        "title": "三星電子預計第三季度DRAM價格將提高20%",
-        "detail": "三星電子預計第三季度將DRAM價格提高20%，顯示記憶體產業因AI需求而持續漲價。"
+        "title": "Sandisk 開始量產第十代 3D NAND 快閃記憶體",
+        "detail": "Sandisk 與合資夥伴 Kioxia 開始量產第十代 3D NAND 快閃記憶體 BiCS10，採用 332 層架構和 CBA 技術，預計將提高位元密度和介面速度。"
       }
     ],
-    "eventsUpcoming": [
-      {
-        "date": "7/8",
-        "title": "Fed公布6月會議紀要",
-        "detail": "聯準會將公布6月聯邦公開市場委員會(FOMC)會議紀錄，市場將從中尋找Fed未來利率走向的線索，特別是新任主席華許的政策立場及決策風格。"
-      },
-      {
-        "date": "7/9",
-        "title": "美國每週首次申請失業救濟金人數及6月成屋銷售數據",
-        "detail": "美國將公布每週首次申請失業救濟金人數，以及6月成屋銷售數據，反映當前就業市場與房市景氣狀況，並可能影響市場對Fed後續利率路徑的預期。"
-      },
-      {
-        "date": "本週",
-        "title": "SK海力士在美國那斯達克發行ADR",
-        "detail": "韓國記憶體巨頭SK海力士計劃將於本週發行ADR在美國那斯達克掛牌上市，此舉將測試美國投資人對AI記憶體的追價意願。"
-      },
-      {
-        "date": "本週",
-        "title": "企業財報季開始",
-        "detail": "本週將有百事可樂、達美航空等企業公布財報，市場預期標普500整體企業第二季獲利預計年增24%，科技類股獲利則預估躍增約65%。"
-      },
-      {
-        "date": "9月下旬",
-        "title": "美國總統川普預計與中國國家主席習近平會面",
-        "detail": "美國總統川普再次表示，預計9月下旬左右與中國國家主席習近平會面，屆時正值聯合國大會在紐約舉行。"
-      }
-    ]
+    "eventsUpcoming": []
   }
 }
