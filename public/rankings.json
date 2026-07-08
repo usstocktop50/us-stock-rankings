@@ -242,7 +242,7 @@
       "dollarVolume": 4927304281.767731,
       "marketCap": 304321294608.36,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "數據分析",
+      "theme": "大數據分析",
       "isNew": false,
       "rankChange": -2,
       "streak": 80
@@ -281,7 +281,7 @@
       "dollarVolume": 4138686032.920186,
       "marketCap": 592931373207,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "支付服務",
+      "theme": "金融支付",
       "isNew": false,
       "rankChange": 10,
       "streak": 6
@@ -346,7 +346,7 @@
       "dollarVolume": 3262915069.7627482,
       "marketCap": 880561458500.75,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售",
+      "theme": "零售百貨",
       "isNew": false,
       "rankChange": 9,
       "streak": 3
@@ -424,7 +424,7 @@
       "dollarVolume": 2979940381.9278517,
       "marketCap": 93003761249.9,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "金融科技",
+      "theme": "線上券商",
       "isNew": false,
       "rankChange": -7,
       "streak": 3
@@ -450,7 +450,7 @@
       "dollarVolume": 2887006189.6817856,
       "marketCap": 196549920000,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "手機晶片",
+      "theme": "行動晶片",
       "isNew": false,
       "rankChange": 0,
       "streak": 49
@@ -567,7 +567,7 @@
       "dollarVolume": 2380701965.899784,
       "marketCap": 446737376151.36,
       "sector": "CONSTRUCTION MACHINERY & EQUIP",
-      "theme": "工業機械",
+      "theme": "重型機械",
       "isNew": false,
       "rankChange": -10,
       "streak": 13
@@ -593,7 +593,7 @@
       "dollarVolume": 2333322935.8822203,
       "marketCap": 142996813224.3,
       "sector": "TELEPHONE COMMUNICATIONS (NO RADIOTELEPHONE)",
-      "theme": "電信",
+      "theme": "電信服務",
       "isNew": false,
       "rankChange": 0,
       "streak": 3
@@ -606,7 +606,7 @@
       "dollarVolume": 2324928194.6323433,
       "marketCap": 175665763343.7,
       "sector": "TELEPHONE COMMUNICATIONS (NO RADIOTELEPHONE)",
-      "theme": "電信",
+      "theme": "電信服務",
       "isNew": false,
       "rankChange": 2,
       "streak": 2
@@ -619,7 +619,7 @@
       "dollarVolume": 2206708949.0728498,
       "marketCap": 421415733501,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售",
+      "theme": "零售百貨",
       "isNew": false,
       "rankChange": -3,
       "streak": 3
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-07-06T20:00:00.000Z",
-  "generatedAt": "2026-07-07T08:27:59.699Z",
+  "generatedAt": "2026-07-08T02:04:27.358Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "儲存裝置",
-      "reason": "隨著AI應用對數據儲存需求增加，相關儲存裝置供應商受到市場關注。",
+      "reason": "市場對資料儲存需求持續增長，帶動相關硬碟與記憶體廠商表現。",
       "symbols": [
         "WDC",
         "STX"
@@ -668,7 +668,7 @@
     },
     {
       "theme": "AI 晶片",
-      "reason": "AI技術持續發展，市場對AI晶片的需求旺盛，帶動相關個股表現。",
+      "reason": "人工智慧技術的快速發展持續推動對高效能運算晶片的需求。",
       "symbols": [
         "TSLA",
         "AMD",
@@ -678,19 +678,8 @@
       "avgChange": 4.556499780484843
     },
     {
-      "theme": "半導體",
-      "reason": "半導體產業景氣復甦，加上AI相關需求，推動整體板塊上漲。",
-      "symbols": [
-        "INTC",
-        "AVGO",
-        "MRVL"
-      ],
-      "count": 3,
-      "avgChange": 2.2970664073428506
-    },
-    {
       "theme": "雲端服務",
-      "reason": "企業數位轉型及雲端應用普及，帶動雲端服務提供商的營收成長。",
+      "reason": "企業數位轉型與雲端應用普及，帶動雲端服務供應商營收成長。",
       "symbols": [
         "GOOGL",
         "GOOG"
@@ -699,23 +688,35 @@
       "avgChange": 2.134049883718915
     },
     {
-      "theme": "半導體設備",
-      "reason": "半導體產業擴張資本支出，對先進製程設備的需求持續增加。",
+      "theme": "半導體",
+      "reason": "半導體產業受惠於多重應用領域需求，整體表現穩健。",
       "symbols": [
-        "TSM",
-        "ASML"
+        "AVGO",
+        "MRVL",
+        "INTC"
       ],
-      "count": 2,
-      "avgChange": 3.605821491975269
+      "count": 3,
+      "avgChange": 2.2970664073428506
     },
     {
       "theme": "比特幣/加密",
-      "reason": "比特幣價格波動及市場對加密貨幣的興趣，影響相關概念股表現。",
+      "reason": "加密貨幣市場波動與相關概念股表現，吸引資金關注。",
       "symbols": [
-        "IREN"
+        "IREN",
+        "MSTR"
       ],
-      "count": 1,
-      "avgChange": 13.111798042246257
+      "count": 2,
+      "avgChange": 6.555899021123128
+    },
+    {
+      "theme": "雲端軟體 SaaS",
+      "reason": "企業對軟體即服務的需求穩定增長，推動相關公司股價。",
+      "symbols": [
+        "ORCL",
+        "PLTR"
+      ],
+      "count": 2,
+      "avgChange": 2.496929603944119
     }
   ],
   "newEntrants": [
@@ -724,61 +725,87 @@
       "name": "UNITEDHEALTH GROUP INCORPORATED (Delaware)",
       "theme": "醫療保險",
       "changePercent": -1.7326499905962018,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動，但有分析師調升目標價。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "AAL",
       "name": "American Airlines Group Inc.",
       "theme": "航空",
       "changePercent": -0.9486607142857237,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "分析師上調目標價，但近期股價無明顯表現。"
     },
     {
       "symbol": "IREN",
       "name": "IREN Limited Ordinary Shares",
       "theme": "比特幣/加密",
       "changePercent": 13.111798042246257,
-      "reason": "受AI基礎設施樂觀情緒、分析師支持及Anthropic澳洲數據中心傳聞帶動。"
+      "reason": "被納入羅素1000指數，且分析師看好其AI數據中心業務。"
     },
     {
       "symbol": "ABBV",
       "name": "ABBVIE INC.",
       "theme": "生技製藥",
       "changePercent": -2.41697628988394,
-      "reason": "歐盟批准新藥Tepkinly，以及收購Apogee Therapeutics強化免疫學產品線。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "IBM",
       "name": "International Business Machines Corporation",
       "theme": "企業軟體",
       "changePercent": 3.4539928156949435,
-      "reason": "美國銀行證券調升目標價，AI、軟體和量子運算業務前景樂觀。"
+      "reason": "美銀上調目標價，新產品發表與量子運算突破。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點集中在AI晶片、記憶體和半導體族群，資金主要受多項利好消息驅動。Tesla受第二季交車量大幅成長激勵，股價強勁上漲。同時，Broadcom與Apple延長晶片供應協議至2031年，鞏固其在半導體供應鏈的關鍵地位。記憶體方面，Sandisk與Kioxia合作量產新一代3D NAND，以及Micron與Ford簽署長期供應協議，都顯示儲存裝置市場需求旺盛。此外，Meta Platforms推出AI驅動的遊戲應用和AI眼鏡，並傳出將進軍雲端服務，也吸引了市場關注。",
+    "highlights": "本日美股成交重點集中在AI晶片、記憶體、電動車和半導體族群。資金流向顯示市場對AI基礎設施的長期需求仍抱持樂觀，但同時也出現獲利了結和資金輪動的跡象。特斯拉因Robotaxi服務拓展而大漲，而記憶體和半導體股則在經歷強勁反彈後，面臨三星財報不如預期及對AI晶片估值過高的擔憂，導致部分個股下跌。蘋果與博通的晶片合作延長，則鞏固了半導體供應鏈的穩定性。",
     "eventsPast": [
       {
-        "title": "Microsoft 宣布裁員並重組 Xbox 部門",
-        "detail": "Microsoft 宣布將裁減約 4,800 個職位，佔全球員工總數的 2.1%，並將重組其 Xbox 遊戲業務，以期在多年大量投資後提高回報。"
+        "title": "特斯拉Robotaxi服務拓展",
+        "detail": "特斯拉宣布已在美國另一座城市正式推出AI自動駕駛計程車(Robotaxi)服務，激勵股價大漲6.7%。"
       },
       {
-        "title": "Meta Platforms 推出 AI 驅動的應用程式與 AI 眼鏡",
-        "detail": "Meta Platforms 推出新的 AI 驅動行動遊戲應用程式 Pocket，並與 EssilorLuxottica 合作推出品牌 AI 眼鏡系列，擴展其消費性 AI 娛樂產品。"
+        "title": "蘋果與博通晶片合作延長",
+        "detail": "博通宣布與蘋果的客製化晶片合作協議延長至2031年，有助於緩解市場對蘋果自研晶片的疑慮，激勵博通盤前股價上漲。"
       },
       {
-        "title": "Tesla 第二季交車量大幅成長",
-        "detail": "Tesla 公布第二季交車量達 480,126 輛，年增 25%，超出華爾街預期，顯示其電動車業務可能正在復甦。"
+        "title": "微軟Xbox部門裁員與重組",
+        "detail": "微軟宣布將裁減4,800名員工，其中遊戲業務Xbox將裁撤3,200人，並分拆、出售旗下多家遊戲工作室，以扭轉成長停滯的困境。"
       },
       {
-        "title": "Broadcom 與 Apple 延長晶片供應協議",
-        "detail": "Broadcom 宣布與 Apple 延長其晶片供應協議至 2031 年，將繼續為 Apple 開發和供應一系列客製化 ASIC 晶片產品。"
+        "title": "三星電子財報引發AI晶片疑慮",
+        "detail": "三星電子公布第二季獲利暴增19倍，但財測僅達到市場高預期而非超越預期，導致其股價重挫，並引發市場對AI晶片利潤空間縮水與供應過剩的擔憂，拖累美光、Sandisk等半導體股下跌。"
       },
       {
-        "title": "Sandisk 開始量產第十代 3D NAND 快閃記憶體",
-        "detail": "Sandisk 與合資夥伴 Kioxia 開始量產第十代 3D NAND 快閃記憶體 BiCS10，採用 332 層架構和 CBA 技術，預計將提高位元密度和介面速度。"
+        "title": "SpaceX納入那斯達克100指數",
+        "detail": "SpaceX於7月7日正式加入Nasdaq-100指數，但首個交易日股價下跌近7%。"
       }
     ],
-    "eventsUpcoming": []
+    "eventsUpcoming": [
+      {
+        "date": "7/9",
+        "title": "聯儲局公布貨幣政策會議紀要",
+        "detail": "會議紀要將揭露聯準會官員們對於通膨前景、供應鏈衝擊以及利率路徑的詳細意見，市場將密切關注以解讀政策立場。"
+      },
+      {
+        "date": "7/10",
+        "title": "SK海力士在納斯達克上市ADR",
+        "detail": "SK海力士計劃在納斯達克上市美國存託憑證(ADR)，這將測試美國投資人對AI記憶體的需求是否依然強勁。"
+      },
+      {
+        "date": "7/14",
+        "title": "美國6月CPI數據公布",
+        "detail": "美國將公布6月消費者物價指數(CPI)，此為聯準會評估通膨及未來利率政策的重要依據。"
+      },
+      {
+        "date": "7/14",
+        "title": "聯儲局主席沃許出席國會聽證會",
+        "detail": "新任聯準會主席沃許將出席國會聽證會，市場將關注其對經濟前景及貨幣政策的看法。"
+      },
+      {
+        "date": "7/22-23",
+        "title": "AMD舉辦2026年度Advancing AI大會",
+        "detail": "AMD將秀出最新一代AI晶片架構與軟體生態系進展，能否展現更具優勢的產品將牽動全球AI與先進封裝供應鏈的股價走勢。"
+      }
+    ]
   }
 }
