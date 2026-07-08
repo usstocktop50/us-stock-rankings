@@ -138,7 +138,7 @@
       "dollarVolume": 9966630574.84255,
       "marketCap": 2646033779067.28,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電商與雲端服務",
+      "theme": "電子商務",
       "isNew": false,
       "rankChange": 1,
       "streak": 81
@@ -398,7 +398,7 @@
       "dollarVolume": 3027664504.644133,
       "marketCap": 76677533496.76,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "燃料電池",
+      "theme": "潔淨能源",
       "isNew": false,
       "rankChange": -6,
       "streak": 16
@@ -411,7 +411,7 @@
       "dollarVolume": 2962150191.7857275,
       "marketCap": 192850380000,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "無線通訊晶片",
+      "theme": "行動通訊晶片",
       "isNew": false,
       "rankChange": 3,
       "streak": 50
@@ -437,7 +437,7 @@
       "dollarVolume": 2769539469.5533915,
       "marketCap": 65630385763.71,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體網路通訊",
+      "theme": "資料中心互連",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -463,7 +463,7 @@
       "dollarVolume": 2648304687.829715,
       "marketCap": 287727080766.4,
       "sector": "COMPUTER & OFFICE EQUIPMENT",
-      "theme": "企業軟體與服務",
+      "theme": "企業軟體服務",
       "isNew": false,
       "rankChange": 14,
       "streak": 2
@@ -476,7 +476,7 @@
       "dollarVolume": 2622941986.080298,
       "marketCap": 54375198000,
       "sector": "COMMUNICATIONS EQUIPMENT, NEC",
-      "theme": "光通訊元件",
+      "theme": "光通訊",
       "isNew": false,
       "rankChange": 1,
       "streak": 81
@@ -580,7 +580,7 @@
       "dollarVolume": 2421841148.4550295,
       "marketCap": 266930215600.30002,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "類比晶片",
+      "theme": "類比IC",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -606,7 +606,7 @@
       "dollarVolume": 2353686148.015209,
       "marketCap": 11375824356.4,
       "sector": "AIR TRANSPORTATION, SCHEDULED",
-      "theme": "航空運輸",
+      "theme": "航空",
       "isNew": false,
       "rankChange": -5,
       "streak": 2
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-07-07T20:00:00.000Z",
-  "generatedAt": "2026-07-08T05:45:59.149Z",
+  "generatedAt": "2026-07-08T07:36:37.209Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "生技製藥",
-      "reason": "市場對新藥研發與醫療保健需求持續看好，部分個股因特定利好消息而大漲。",
+      "reason": "市場持續關注新藥研發進展與併購活動，特定藥物如減肥藥題材也持續發酵。",
       "symbols": [
         "CRNX",
         "LLY",
@@ -669,7 +669,7 @@
     },
     {
       "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型需求不減，雲端軟體服務商持續受青睞。",
+      "reason": "企業數位轉型需求持續推動雲端軟體服務的成長，市場對其營收前景保持樂觀。",
       "symbols": [
         "MSFT",
         "NOW",
@@ -680,43 +680,40 @@
     },
     {
       "theme": "網路服務",
-      "reason": "網路廣告與雲端服務需求穩健，支撐大型網路公司表現。",
+      "reason": "網路廣告與雲端服務需求穩定，支撐大型網路公司的營收表現。",
       "symbols": [
-        "META",
-        "AMZN",
         "GOOGL",
-        "NFLX"
-      ],
-      "count": 4,
-      "avgChange": 0.9146320553406994
-    },
-    {
-      "theme": "企業軟體與服務",
-      "reason": "企業級軟體與服務需求穩定，部分老牌科技公司展現韌性。",
-      "symbols": [
-        "PLTR",
-        "IBM"
+        "GOOG"
       ],
       "count": 2,
-      "avgChange": 1.7937897860055865
+      "avgChange": -0.09761941059870427
     },
     {
-      "theme": "電子電腦",
-      "reason": "個人電腦市場需求回溫，部分廠商表現優於預期。",
+      "theme": "AI 晶片",
+      "reason": "人工智慧應用持續擴張，對高效能AI晶片的需求依然強勁。",
       "symbols": [
-        "DELL"
+        "NVDA"
       ],
       "count": 1,
-      "avgChange": 1.3307430791646335
+      "avgChange": 0.7057018665302968
     },
     {
-      "theme": "醫療保險",
-      "reason": "醫療保健行業的穩定性與防禦性吸引資金關注。",
+      "theme": "社群媒體",
+      "reason": "廣告業務復甦與用戶參與度提升，帶動社群媒體公司的營收成長。",
       "symbols": [
-        "UNH"
+        "META"
       ],
       "count": 1,
-      "avgChange": 2.4402497667408283
+      "avgChange": 2.547102233920285
+    },
+    {
+      "theme": "電子商務",
+      "reason": "線上購物需求穩定，電商巨頭持續擴大其市場份額與服務範圍。",
+      "symbols": [
+        "AMZN"
+      ],
+      "count": 1,
+      "avgChange": 0.7454128440366944
     }
   ],
   "newEntrants": [
@@ -725,21 +722,21 @@
       "name": "Crinetics Pharmaceuticals, Inc.",
       "theme": "生技製藥",
       "changePercent": 98.73899595527004,
-      "reason": "Vertex Pharmaceuticals以100億美元現金收購Crinetics Pharmaceuticals，股價飆漲近100%。"
+      "reason": "Vertex Pharmaceuticals以100億美元現金收購，股價飆漲近100%。"
     },
     {
       "symbol": "ALAB",
       "name": "Astera Labs, Inc. Common Stock",
-      "theme": "半導體網路通訊",
+      "theme": "資料中心互連",
       "changePercent": -11.519619170864727,
-      "reason": "受AI和半導體類股普跌影響，加上內部人士出售股票，股價下跌。"
+      "reason": "AI晶片股普遍下跌，加上內部人士出售股票，導致股價下跌。"
     },
     {
       "symbol": "NOW",
       "name": "SERVICENOW, INC.",
       "theme": "雲端軟體 SaaS",
       "changePercent": 2.5942740665245965,
-      "reason": "Guggenheim調升估值，且第二季財報將公布，AI營收目標上調。"
+      "reason": "Guggenheim調升評級至「買入」，並看好其AI驅動的成長故事。"
     },
     {
       "symbol": "JNJ",
@@ -751,7 +748,7 @@
     {
       "symbol": "TXN",
       "name": "Texas Instruments Incorporated",
-      "theme": "類比晶片",
+      "theme": "類比IC",
       "changePercent": -3.3607907742998315,
       "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
@@ -760,61 +757,15 @@
       "name": "Rocket Lab Corporation Common Stock",
       "theme": "太空科技",
       "changePercent": -10.3985390482329,
-      "reason": "成功完成美國太空軍任務，但整體股價仍下跌。"
+      "reason": "成功完成美國太空軍任務，但近期股價因交易消化而下跌。"
     },
     {
       "symbol": "CRM",
       "name": "Salesforce, Inc.",
       "theme": "雲端軟體 SaaS",
       "changePercent": 2.336251131904621,
-      "reason": "Salesforce將Informatica整合至其AI和數據平台，並投資10億美元於瑞士AI。"
+      "reason": "Guggenheim調升評級至「買入」，認為AI對其影響被過度悲觀。"
     }
   ],
-  "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於半導體與AI相關類股的劇烈震盪，資金出現明顯輪動。儘管三星電子公布亮眼財報，但未能滿足市場極高期待，反而引發投資人對AI晶片估值過高、利多出盡的擔憂，導致記憶體和半導體股普遍下跌，其中美光、Sandisk、Intel和AMD跌幅顯著。 另一方面，Meta、Amazon、Microsoft等雲端軟體與網路服務巨頭則相對穩健，部分個股甚至逆勢上漲，顯示資金正從高估值AI硬體股轉向其他科技族群或防禦性資產。 此外，SpaceX被納入那斯達克100指數後首日下跌，也引發市場關注。",
-    "eventsPast": [
-      {
-        "title": "三星電子第二季初步財報亮眼，但股價大跌",
-        "detail": "三星電子公布第二季初步營業利潤年增近19倍至89.4兆韓元，創歷史新高，超越市場預期，但因市場已提前定價且期待過高，導致股價在財報發布後大跌6.92%，並引發半導體類股賣壓。"
-      },
-      {
-        "title": "中國AI新創DeepSeek傳自研AI晶片",
-        "detail": "路透社報導指出，中國AI新創公司DeepSeek正在研發自家AI晶片，可能藉此降低對輝達及華為晶片的依賴，加劇市場對AI晶片產業競爭加劇的憂慮。"
-      },
-      {
-        "title": "SpaceX納入那斯達克100指數首日下跌",
-        "detail": "SpaceX於7月7日正式納入那斯達克100指數，但在首個交易日股價下跌近7%，多家券商開始對該股發布研究報告。"
-      },
-      {
-        "title": "美伊衝突再起推升油價",
-        "detail": "荷姆茲海峽三船遇襲，美國宣布恢復對伊朗的打擊並撤銷伊朗石油銷售豁免，導致WTI和Brent原油期貨聞訊上漲，推升通膨預期。"
-      },
-      {
-        "title": "微軟宣布裁員",
-        "detail": "微軟宣布將裁減全球約2.1%的員工，相當於約4,800個職位，市場解讀為公司在AI資本支出龐大下，尚未看到明確投資回報的利空消息。"
-      }
-    ],
-    "eventsUpcoming": [
-      {
-        "date": "本週三",
-        "title": "美國聯準會公布6月份利率會議紀錄",
-        "detail": "市場將從中尋找新任主席華許的政策方向線索，以及未來貨幣政策走向的指引。"
-      },
-      {
-        "date": "本週五",
-        "title": "SK海力士ADR在那斯達克掛牌交易",
-        "detail": "南韓記憶體大廠SK海力士將正式透過ADR在那斯達克掛牌交易，市場將藉此觀察投資人對晶片股的需求是否依然強勁。"
-      },
-      {
-        "date": "未來幾天",
-        "title": "大型銀行財報季開跑",
-        "detail": "下週大型銀行將揭開財報季序幕，但科技前景仍會是市場焦點。"
-      },
-      {
-        "date": "未來幾天",
-        "title": "達美航空與百事公司公布財報",
-        "detail": "本週稍晚，達美航空（Delta Air Lines）與百事公司（PepsiCo）也將陸續公布最新財報。"
-      }
-    ]
-  }
+  "marketBriefing": null
 }
