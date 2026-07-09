@@ -99,7 +99,7 @@
       "dollarVolume": 12742077038.7947,
       "marketCap": 1103118032137.7,
       "sector": "—",
-      "theme": "太空科技",
+      "theme": "太空",
       "isNew": false,
       "rankChange": -6,
       "streak": 16
@@ -190,7 +190,7 @@
       "dollarVolume": 7116332529.487405,
       "marketCap": 308523105149.58,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "大數據分析",
+      "theme": "數據分析軟體",
       "isNew": false,
       "rankChange": 4,
       "streak": 81
@@ -398,7 +398,7 @@
       "dollarVolume": 3027664504.644133,
       "marketCap": 76677533496.76,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "潔淨能源",
+      "theme": "燃料電池",
       "isNew": false,
       "rankChange": -6,
       "streak": 16
@@ -437,7 +437,7 @@
       "dollarVolume": 2769539469.5533915,
       "marketCap": 65630385763.71,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "資料中心互連",
+      "theme": "AI 基礎設施",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -580,7 +580,7 @@
       "dollarVolume": 2421841148.4550295,
       "marketCap": 266930215600.30002,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "類比IC",
+      "theme": "類比晶片",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -632,7 +632,7 @@
       "dollarVolume": 2225841649.988105,
       "marketCap": 48283336089.75,
       "sector": "GUIDED MISSILES & SPACE VEHICLES & PARTS",
-      "theme": "太空科技",
+      "theme": "太空",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-07-07T20:00:00.000Z",
-  "generatedAt": "2026-07-08T07:36:37.209Z",
+  "generatedAt": "2026-07-09T02:05:35.325Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "生技製藥",
-      "reason": "市場持續關注新藥研發進展與併購活動，特定藥物如減肥藥題材也持續發酵。",
+      "reason": "市場持續關注新藥研發進展與併購活動，特定藥物如減肥藥題材也帶動資金流入。",
       "symbols": [
         "CRNX",
         "LLY",
@@ -669,7 +669,7 @@
     },
     {
       "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型需求持續推動雲端軟體服務的成長，市場對其營收前景保持樂觀。",
+      "reason": "企業數位轉型需求持續，雲端軟體服務的訂閱模式帶來穩定營收成長。",
       "symbols": [
         "MSFT",
         "NOW",
@@ -680,40 +680,43 @@
     },
     {
       "theme": "網路服務",
-      "reason": "網路廣告與雲端服務需求穩定，支撐大型網路公司的營收表現。",
+      "reason": "大型網路公司在廣告、雲端服務及AI領域的投資與發展持續吸引市場關注。",
       "symbols": [
+        "META",
+        "AMZN",
         "GOOGL",
-        "GOOG"
+        "NFLX"
+      ],
+      "count": 4,
+      "avgChange": 0.9146320553406994
+    },
+    {
+      "theme": "企業軟體服務",
+      "reason": "企業對於效率提升和數位化解決方案的需求，推動了相關軟體和服務的增長。",
+      "symbols": [
+        "PLTR",
+        "IBM"
       ],
       "count": 2,
-      "avgChange": -0.09761941059870427
+      "avgChange": 1.7937897860055865
     },
     {
-      "theme": "AI 晶片",
-      "reason": "人工智慧應用持續擴張，對高效能AI晶片的需求依然強勁。",
+      "theme": "電子電腦",
+      "reason": "AI PC概念興起，帶動個人電腦市場需求回溫，相關供應鏈受惠。",
       "symbols": [
-        "NVDA"
+        "DELL"
       ],
       "count": 1,
-      "avgChange": 0.7057018665302968
+      "avgChange": 1.3307430791646335
     },
     {
-      "theme": "社群媒體",
-      "reason": "廣告業務復甦與用戶參與度提升，帶動社群媒體公司的營收成長。",
+      "theme": "醫療保險",
+      "reason": "醫療保健服務需求穩定，保險公司在市場中展現韌性。",
       "symbols": [
-        "META"
+        "UNH"
       ],
       "count": 1,
-      "avgChange": 2.547102233920285
-    },
-    {
-      "theme": "電子商務",
-      "reason": "線上購物需求穩定，電商巨頭持續擴大其市場份額與服務範圍。",
-      "symbols": [
-        "AMZN"
-      ],
-      "count": 1,
-      "avgChange": 0.7454128440366944
+      "avgChange": 2.4402497667408283
     }
   ],
   "newEntrants": [
@@ -722,50 +725,86 @@
       "name": "Crinetics Pharmaceuticals, Inc.",
       "theme": "生技製藥",
       "changePercent": 98.73899595527004,
-      "reason": "Vertex Pharmaceuticals以100億美元現金收購，股價飆漲近100%。"
+      "reason": "Vertex Pharmaceuticals以100億美元現金收購Crinetics Pharmaceuticals，推升股價飆漲。"
     },
     {
       "symbol": "ALAB",
       "name": "Astera Labs, Inc. Common Stock",
-      "theme": "資料中心互連",
+      "theme": "AI 基礎設施",
       "changePercent": -11.519619170864727,
-      "reason": "AI晶片股普遍下跌，加上內部人士出售股票，導致股價下跌。"
+      "reason": "近期無明確個股消息，可能受AI基礎設施族群輪動帶動。"
     },
     {
       "symbol": "NOW",
       "name": "SERVICENOW, INC.",
       "theme": "雲端軟體 SaaS",
       "changePercent": 2.5942740665245965,
-      "reason": "Guggenheim調升評級至「買入」，並看好其AI驅動的成長故事。"
+      "reason": "ServiceNow宣布與Hexnode、Accenture、Cyberhill合作，深化AI驅動IT服務與安全。"
     },
     {
       "symbol": "JNJ",
       "name": "Johnson & Johnson",
       "theme": "生技製藥",
       "changePercent": 3.0501677399452536,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "FDA批准其心臟燒灼系統，強化MedTech業務成長。"
     },
     {
       "symbol": "TXN",
       "name": "Texas Instruments Incorporated",
-      "theme": "類比IC",
+      "theme": "類比晶片",
       "changePercent": -3.3607907742998315,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "受惠於AI資料中心對類比和電源管理晶片需求，自由現金流成長。"
     },
     {
       "symbol": "RKLB",
       "name": "Rocket Lab Corporation Common Stock",
-      "theme": "太空科技",
+      "theme": "太空",
       "changePercent": -10.3985390482329,
-      "reason": "成功完成美國太空軍任務，但近期股價因交易消化而下跌。"
+      "reason": "宣布以80億美元收購Iridium，並成功完成美國太空軍任務。"
     },
     {
       "symbol": "CRM",
       "name": "Salesforce, Inc.",
       "theme": "雲端軟體 SaaS",
       "changePercent": 2.336251131904621,
-      "reason": "Guggenheim調升評級至「買入」，認為AI對其影響被過度悲觀。"
+      "reason": "Salesforce將Informatica整合至其AI平台，並承諾在瑞士投資10億美元發展AI。"
     }
   ],
-  "marketBriefing": null
+  "marketBriefing": {
+    "highlights": "本日美股成交重點集中在AI相關的半導體與記憶體族群，其中美光科技（MU）以高達482億美元的成交金額居冠，顯示市場資金對記憶體產業的高度關注。儘管AI晶片龍頭Nvidia（NVDA）股價有所回升，但整體科技板塊出現資金輪動現象，投資人將資金從GPU巨頭轉向記憶體和半導體設備股。此外，特斯拉（TSLA）因Robotaxi服務拓展至邁阿密而受到關注，但其股價表現仍受多重因素影響。",
+    "eventsPast": [
+      {
+        "title": "美光科技成交額居首，AI記憶體需求旺盛",
+        "detail": "7月7日美股收盤，美光科技(MU)以476.26億美元的成交額高居榜首，顯示市場對AI記憶體的需求持續強勁。"
+      },
+      {
+        "title": "特斯拉Robotaxi服務拓展至邁阿密",
+        "detail": "特斯拉(TSLA)於7月3日正式在邁阿密推出AI自動駕駛計程車（Robotaxi）服務，激勵其股價在7月6日上漲。"
+      },
+      {
+        "title": "博通與蘋果簽署逾300億美元晶片協議",
+        "detail": "博通(AVGO)宣布與蘋果(AAPL)簽署一份延續至2031年的多年期協議，將為蘋果研發、供應客製化特殊應用積體晶片(ASIC)，總價值超過300億美元。"
+      },
+      {
+        "title": "Palantir Technologies股價急跌，面臨政治爭議與AI競爭壓力",
+        "detail": "Palantir Technologies(PLTR)在7月8日盤中重挫約5.03%，主要因市場擔憂其與Trump政策深度捆綁引發的政治風險，以及AI競爭加劇。"
+      },
+      {
+        "title": "微軟宣布重組Xbox部門並裁員",
+        "detail": "微軟(MSFT)於7月6日宣布對Xbox進行徹底重組，並將裁減約2.1%的員工，約4,800人，市場解讀為利空消息。"
+      }
+    ],
+    "eventsUpcoming": [
+      {
+        "date": "7/22",
+        "title": "特斯拉第二季財報電話會議",
+        "detail": "投資人將有機會在特斯拉第二季財報電話會議上，向執行長馬斯克及管理團隊詢問更多有關Robotaxi與Optimus人形機器人的最新發展。"
+      },
+      {
+        "date": "本週四",
+        "title": "美國個人消費支出(PCE)數據公布",
+        "detail": "本週市場核心焦點將轉向週四公布的個人消費支出(PCE)數據，這是聯準會最看重的核心通膨指標。"
+      }
+    ]
+  }
 }
