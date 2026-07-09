@@ -99,7 +99,7 @@
       "dollarVolume": 11367553824.190973,
       "marketCap": 554066240000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "半導體製造",
       "isNew": false,
       "rankChange": -4,
       "streak": 82
@@ -138,7 +138,7 @@
       "dollarVolume": 8215446101.244092,
       "marketCap": 1324479015034.56,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "社群媒體/廣告",
+      "theme": "社群媒體",
       "isNew": false,
       "rankChange": -1,
       "streak": 82
@@ -164,7 +164,7 @@
       "dollarVolume": 7200224438.953873,
       "marketCap": 2620647000798.32,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電子商務/雲端服務",
+      "theme": "電商與雲端服務",
       "isNew": false,
       "rankChange": -2,
       "streak": 82
@@ -177,7 +177,7 @@
       "dollarVolume": 6137485957.790261,
       "marketCap": 885900065019.16,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "銀行",
+      "theme": "金融服務",
       "isNew": false,
       "rankChange": 32,
       "streak": 5
@@ -190,7 +190,7 @@
       "dollarVolume": 5904783887.914207,
       "marketCap": 202699908000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網路基礎設施",
+      "theme": "資料中心晶片",
       "isNew": false,
       "rankChange": -1,
       "streak": 72
@@ -255,7 +255,7 @@
       "dollarVolume": 4808675647.667258,
       "marketCap": 72331231193.72,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "氫能源",
+      "theme": "燃料電池",
       "isNew": false,
       "rankChange": 11,
       "streak": 17
@@ -281,7 +281,7 @@
       "dollarVolume": 4213956296.8498087,
       "marketCap": 261634806709.32,
       "sector": "—",
-      "theme": "電子商務",
+      "theme": "電商與雲端服務",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -294,7 +294,7 @@
       "dollarVolume": 4194016032.5789557,
       "marketCap": 140335666270.80002,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "電腦硬體",
+      "theme": "伺服器與PC",
       "isNew": false,
       "rankChange": 10,
       "streak": 7
@@ -346,7 +346,7 @@
       "dollarVolume": 3551588883.6762977,
       "marketCap": 576798992667.96,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "支付服務",
+      "theme": "支付處理",
       "isNew": false,
       "rankChange": 11,
       "streak": 8
@@ -398,7 +398,7 @@
       "dollarVolume": 2907949542.5464206,
       "marketCap": 10926082463.24,
       "sector": "AIR TRANSPORTATION, SCHEDULED",
-      "theme": "航空",
+      "theme": "航空運輸",
       "isNew": false,
       "rankChange": 16,
       "streak": 3
@@ -489,7 +489,7 @@
       "dollarVolume": 2499850661.5170817,
       "marketCap": 159647135759.99997,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "行動廣告",
+      "theme": "數位廣告",
       "isNew": false,
       "rankChange": -3,
       "streak": 7
@@ -502,7 +502,7 @@
       "dollarVolume": 2248027850.5237274,
       "marketCap": 900058752430.5,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售",
+      "theme": "零售百貨",
       "isNew": false,
       "rankChange": 9,
       "streak": 5
@@ -515,7 +515,7 @@
       "dollarVolume": 2236573563.303186,
       "marketCap": 283892348824,
       "sector": "COMPUTER & OFFICE EQUIPMENT",
-      "theme": "企業軟體/服務",
+      "theme": "企業IT服務",
       "isNew": false,
       "rankChange": -4,
       "streak": 3
@@ -541,7 +541,7 @@
       "dollarVolume": 2122991649.350145,
       "marketCap": 345564088335.2,
       "sector": "SOAP, DETERGENTS, CLEANG PREPARATIONS, PERFUMES, COSMETICS",
-      "theme": "消費必需品",
+      "theme": "民生消費品",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -593,7 +593,7 @@
       "dollarVolume": 2041637068.0948014,
       "marketCap": 89823198763.94,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "金融科技",
+      "theme": "線上券商",
       "isNew": false,
       "rankChange": -6,
       "streak": 5
@@ -632,7 +632,7 @@
       "dollarVolume": 1907211968.5997043,
       "marketCap": 196634240000,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "行動晶片",
+      "theme": "無線通訊晶片",
       "isNew": false,
       "rankChange": -17,
       "streak": 51
@@ -645,20 +645,20 @@
       "dollarVolume": 1830314738.874851,
       "marketCap": 320679966902.4,
       "sector": "—",
-      "theme": "晶片設計",
+      "theme": "IP 設計",
       "isNew": true,
       "rankChange": null,
       "streak": 1
     }
   ],
   "asOf": "2026-07-08T20:00:00.000Z",
-  "generatedAt": "2026-07-09T04:50:40.598Z",
+  "generatedAt": "2026-07-09T06:32:32.083Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "半導體設備",
-      "reason": "AI與高效能運算需求持續增長，帶動半導體製造商擴大資本支出，對相關設備需求強勁。",
+      "reason": "全球半導體產業擴張，對先進製程設備的需求持續強勁，帶動相關供應商股價上漲。",
       "symbols": [
         "AMAT",
         "KLAC",
@@ -670,7 +670,7 @@
     },
     {
       "theme": "儲存裝置",
-      "reason": "AI應用對數據儲存需求激增，以及資料中心擴建，推動儲存裝置市場成長。",
+      "reason": "AI與資料中心需求增長，推動高速、大容量儲存解決方案的市場前景，相關公司表現亮眼。",
       "symbols": [
         "SNDK",
         "STX",
@@ -680,18 +680,8 @@
       "avgChange": 4.700123929551078
     },
     {
-      "theme": "AI 晶片",
-      "reason": "人工智慧技術快速發展，市場對AI運算能力的需求不斷提升，帶動AI晶片相關個股表現。",
-      "symbols": [
-        "NVDA",
-        "AMD"
-      ],
-      "count": 2,
-      "avgChange": 1.9509795102552332
-    },
-    {
       "theme": "網路通訊設備",
-      "reason": "數據中心升級和企業網路基礎設施建設需求增加，推動網路通訊設備供應商的營收成長。",
+      "reason": "企業數位轉型及雲端基礎設施升級，對高效能網路設備的需求增加，相關廠商受惠。",
       "symbols": [
         "ANET",
         "CSCO"
@@ -700,8 +690,18 @@
       "avgChange": 5.290386629201043
     },
     {
-      "theme": "電子商務",
-      "reason": "全球電商市場持續擴張，新興市場潛力巨大，大型電商平台受惠於消費習慣轉變。",
+      "theme": "AI 晶片",
+      "reason": "人工智慧技術的快速發展，對高效能運算晶片的需求持續爆發，引領市場關注。",
+      "symbols": [
+        "NVDA",
+        "AMD"
+      ],
+      "count": 2,
+      "avgChange": 1.9509795102552332
+    },
+    {
+      "theme": "電商與雲端服務",
+      "reason": "電子商務與雲端運算服務持續擴張，尤其在特定市場展現強勁增長潛力。",
       "symbols": [
         "BABA"
       ],
@@ -710,7 +710,7 @@
     },
     {
       "theme": "記憶體",
-      "reason": "記憶體市場需求回溫，特別是高頻寬記憶體（HBM）在AI領域的應用，推升相關廠商股價。",
+      "reason": "記憶體市場受惠於AI伺服器需求及產業景氣復甦預期，價格有望回升。",
       "symbols": [
         "MU"
       ],
@@ -722,7 +722,7 @@
     {
       "symbol": "BABA",
       "name": "Alibaba Group Holding Limited American Depositary Shares, each represents eight Ordinary Shares",
-      "theme": "電子商務",
+      "theme": "電商與雲端服務",
       "changePercent": 11.045445282249851,
       "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
@@ -731,42 +731,42 @@
       "name": "ExxonMobil Holdings Corporation",
       "theme": "石油與天然氣",
       "changePercent": -0.39522902110240826,
-      "reason": "完成遷冊德州，並因中東緊張局勢推升油價，上調第二季財測。"
+      "reason": "完成遷冊德州、董事會改組，並因中東緊張局勢油價上漲，上調第二季財測。"
     },
     {
       "symbol": "BRK.B",
       "name": "BERKSHIRE HATHAWAY Class B",
       "theme": "多元控股",
       "changePercent": -1.8273809523809483,
-      "reason": "巴菲特繼任者Greg Abel承諾投資Alphabet 100億美元於AI基礎設施。"
+      "reason": "投資Alphabet 100億美元，參與其800億美元AI擴張計畫。"
     },
     {
       "symbol": "PG",
       "name": "Procter & Gamble Company",
-      "theme": "消費必需品",
+      "theme": "民生消費品",
       "changePercent": -2.8477905073649716,
-      "reason": "最新財報優於預期，且連續70年提高股息。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "ANET",
       "name": "Arista Networks",
       "theme": "網路通訊設備",
       "changePercent": 8.76486843686171,
-      "reason": "受惠於AI基礎設施建置需求，且被納入羅素50指數。"
+      "reason": "納入Russell Top 50指數，並推出AI資料中心新產品。"
     },
     {
       "symbol": "CRWV",
       "name": "CoreWeave, Inc. Class A Common Stock",
       "theme": "雲端軟體 SaaS",
       "changePercent": 7.7457201005626715,
-      "reason": "Meta Platforms和SoftBank將推出AI雲服務，引發市場對競爭的擔憂。"
+      "reason": "Meta Platforms擬推出AI雲端服務，引發競爭疑慮導致股價下跌。"
     },
     {
       "symbol": "CSCO",
       "name": "Cisco Systems, Inc. Common Stock (DE)",
       "theme": "網路通訊設備",
       "changePercent": 1.8159048215403766,
-      "reason": "上調2026財年財測，並深化AI策略與合作。"
+      "reason": "上調財測及AI相關成長計畫，並與College Board合作推出AP網路安全課程。"
     },
     {
       "symbol": "ABBV",
@@ -778,60 +778,60 @@
     {
       "symbol": "ARM",
       "name": "Arm Holdings plc American Depositary Shares",
-      "theme": "晶片設計",
+      "theme": "IP 設計",
       "changePercent": -0.06324268548413864,
-      "reason": "近期無明確個股消息，可能受AI晶片族群輪動帶動。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點集中在AI晶片、記憶體和儲存裝置等半導體相關族群，資金主要受惠於AI基礎建設需求強勁的敘事。Nvidia (NVDA) 和Marvell Technology (MRVL) 等AI晶片股表現亮眼，帶動整體半導體板塊上揚。市場故事圍繞著AI技術的持續發展和其對硬體需求的巨大推動，即使部分科技巨頭如Meta和Alphabet因巨額AI投資而面臨短期獲利壓力，但長期成長潛力仍是資金追逐的焦點。",
+    "highlights": "本日美股成交重點聚焦於半導體相關族群，特別是記憶體和AI晶片領域。資金主要集中在Micron (MU)、Nvidia (NVDA) 和SanDisk (SNDK) 等個股，這些公司受惠於AI需求暢旺帶動的記憶體行情以及新產品的推出。市場故事圍繞著AI基礎建設的持續需求，儘管地緣政治緊張和聯準會可能升息的擔憂帶來短期震盪，但長期來看，AI相關產業前景依然受到支撐。此外，Apple (AAPL) 與Broadcom (AVGO) 的合作協議也為半導體產業注入動能，而中國對Nvidia AI晶片的態度轉變也引發市場關注。",
     "eventsPast": [
       {
-        "title": "AMD 公布 2026 年第一季財報",
-        "detail": "AMD 於 2026 年 5 月 5 日公布第一季財報，營收達 103 億美元，毛利率 53%，數據中心業務在 AI 基礎設施需求加速下成為主要增長動力。"
+        "title": "美伊衝突再起與半導體股賣壓湧現",
+        "detail": "美國與伊朗地緣政治緊張升溫，導致油價上漲，推升通膨預期，使得半導體類股面臨賣壓，四大指數同步收黑。"
       },
       {
-        "title": "Broadcom 公布 2026 財年第二季財報",
-        "detail": "Broadcom 於 2026 年 6 月 3 日公布第二季財報，AI 半導體營收年增 145%，佔總營收 49%，顯示其主力事業已轉向 AI 基礎設施提供。"
+        "title": "三星第二季營業利潤創歷史新高",
+        "detail": "三星電子公布第二季初步業績報告，營業利潤年增近19倍至89.4兆韓元，創歷史新高，主要受惠於AI需求暢旺帶動記憶體行情。"
       },
       {
-        "title": "Marvell Technology 公布 2026 財年第一季財報及上修全年財測",
-        "detail": "Marvell Technology 於 2026 年 5 月 27 日公布第一季財報優於預期，並因 AI 資料中心基建需求強勁而上修 2027 及 2028 財年的營收展望。"
+        "title": "聯準會公布貨幣政策會議紀要",
+        "detail": "聯準會六月會議紀錄顯示，部分官員因通膨擔憂加劇，認為有理由立即升息，但最終仍維持利率不變。"
       },
       {
-        "title": "Microsoft 公布 2026 財年第三季財報",
-        "detail": "Microsoft 於 2026 年 4 月 29 日公布第三季財報，營收和獲利均超預期，AI 相關營收年增 123%，但投資人對其積極的 AI 基礎設施投資可持續性仍有疑慮。"
+        "title": "蘋果與博通達成300億美元晶片協議",
+        "detail": "蘋果宣布與博通擴大合作，達成一項超過300億美元的多年期晶片協議，將擴展至高階客製化晶片領域，並持續至2031年，以履行提高「美國製造」零組件支出的承諾。"
       },
       {
-        "title": "Alphabet 公布 2026 年第一季財報",
-        "detail": "Alphabet 於 2026 年 4 月 29 日公布第一季財報，營收達 1099 億美元，Google Cloud 營收飆升 63%，主要受企業 AI 解決方案推動。"
+        "title": "阿里巴巴美股暴漲，雲業務與外賣減虧超預期",
+        "detail": "阿里巴巴在美股市場暴漲11.05%，因公司財報前瞻數據顯示，阿里雲收入增速加速，且外賣業務減虧速度均超出市場預期。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "7/22",
-        "title": "Tesla 2026 財年第二季財報",
-        "detail": "Tesla 預計於 2026 年 7 月 22 日公布第二季財報，市場將關注其電動車交付量、FSD 發展及 AI 相關投資。"
+        "date": "7/9",
+        "title": "聯儲局公布貨幣政策會議紀要",
+        "detail": "會議紀要將揭露官員們對於通膨前景、供應鏈衝擊以及利率路徑的詳細意見，市場將從中解讀官員對經濟衝擊的應對立場。"
       },
       {
-        "date": "7/23",
-        "title": "Intel 2026 財年第二季財報",
-        "detail": "Intel 預計於 2026 年 7 月 23 日美股收盤後公布第二季財報，市場關注其半導體業務表現及 AI 晶片進展。"
+        "date": "7/10",
+        "title": "SK海力士計劃在納斯達克上市ADR",
+        "detail": "作為全球HBM記憶體龍頭之一，SK海力士進軍美股是半導體產業的重大事件，可能對現有美股晶片巨頭產生資金連動與吸納效應。"
+      },
+      {
+        "date": "7/14",
+        "title": "美國6月CPI及聯儲局主席沃什出席國會聽證會",
+        "detail": "美國6月CPI數據將反映通膨狀況，同日新任聯準會主席沃什將出席聽證會，其對最新數據的解讀及抗通膨決心將是判斷利率走向的關鍵。"
+      },
+      {
+        "date": "7/22-23",
+        "title": "AMD舉辦2026年度Advancing AI大會",
+        "detail": "AMD將在此次大會上展示最新一代AI晶片架構與軟體生態系進展，將全面牽動全球AI與先進封裝供應鏈的股價走勢。"
       },
       {
         "date": "7/29",
-        "title": "Microsoft 2026 財年第四季財報",
-        "detail": "Microsoft 預計於 2026 年 7 月 29 日美股收盤後公布第四季財報，市場將關注其雲端服務 Azure 和 AI 相關業務的增長情況。"
-      },
-      {
-        "date": "7/28",
-        "title": "Alphabet 2026 財年第二季財報",
-        "detail": "Alphabet 預計於 2026 年 7 月 28 日公布第二季財報，市場將關注其廣告收入、Google Cloud 業務增長及 AI 投資效益。"
-      },
-      {
-        "date": "8/4",
-        "title": "AMD 2026 財年第二季財報",
-        "detail": "AMD 預計於 2026 年 8 月 4 日美股收盤後公布第二季財報，市場將關注其數據中心業務、AI 晶片出貨量及整體營收指引。"
+        "title": "聯儲局FOMC公布利率決議及新聞發布會",
+        "detail": "月底的FOMC決議是全球金融市場的核心，主席沃什在記者會上的發言將決定美股第三季大盤的整體走向。"
       }
     ]
   }
