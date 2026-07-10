@@ -73,7 +73,7 @@
       "dollarVolume": 12238173865.921225,
       "marketCap": 1849223847160.6199,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "AI 基礎設施",
+      "theme": "AI 晶片",
       "isNew": false,
       "rankChange": 6,
       "streak": 82
@@ -99,7 +99,7 @@
       "dollarVolume": 11367553824.190973,
       "marketCap": 554066240000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "CPU",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": -4,
       "streak": 82
@@ -164,7 +164,7 @@
       "dollarVolume": 7200224438.953873,
       "marketCap": 2620647000798.32,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電商",
+      "theme": "電商與雲端服務",
       "isNew": false,
       "rankChange": -2,
       "streak": 82
@@ -190,7 +190,7 @@
       "dollarVolume": 5904783887.914207,
       "marketCap": 202699908000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "資料中心網路",
+      "theme": "資料中心晶片",
       "isNew": false,
       "rankChange": -1,
       "streak": 72
@@ -216,7 +216,7 @@
       "dollarVolume": 5268027290.608118,
       "marketCap": 303586551781.48,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "資料分析軟體",
+      "theme": "大數據分析",
       "isNew": false,
       "rankChange": -2,
       "streak": 82
@@ -242,7 +242,7 @@
       "dollarVolume": 4827251787.703861,
       "marketCap": 404677370790,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "資料庫軟體",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": -1,
       "streak": 82
@@ -450,7 +450,7 @@
       "dollarVolume": 2588400538.92517,
       "marketCap": 584976392973.0599,
       "sector": "—",
-      "theme": "石油天然氣",
+      "theme": "石油與天然氣",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -463,7 +463,7 @@
       "dollarVolume": 2586815023.543842,
       "marketCap": 436678047242.64,
       "sector": "CONSTRUCTION MACHINERY & EQUIP",
-      "theme": "重型機械",
+      "theme": "基礎建設機械",
       "isNew": false,
       "rankChange": -10,
       "streak": 15
@@ -489,7 +489,7 @@
       "dollarVolume": 2499850661.5170817,
       "marketCap": 159647135759.99997,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "廣告技術",
+      "theme": "數位廣告",
       "isNew": false,
       "rankChange": -3,
       "streak": 7
@@ -515,7 +515,7 @@
       "dollarVolume": 2236573563.303186,
       "marketCap": 283892348824,
       "sector": "COMPUTER & OFFICE EQUIPMENT",
-      "theme": "企業軟體",
+      "theme": "企業軟體與服務",
       "isNew": false,
       "rankChange": -4,
       "streak": 3
@@ -541,7 +541,7 @@
       "dollarVolume": 2122991649.350145,
       "marketCap": 345564088335.2,
       "sector": "SOAP, DETERGENTS, CLEANG PREPARATIONS, PERFUMES, COSMETICS",
-      "theme": "消費必需品",
+      "theme": "民生消費",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -554,7 +554,7 @@
       "dollarVolume": 2102654897.8772118,
       "marketCap": 227978629462.65002,
       "sector": "COMPUTER COMMUNICATIONS EQUIPMENT",
-      "theme": "網路設備",
+      "theme": "網路通訊設備",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -567,7 +567,7 @@
       "dollarVolume": 2080817846.8792486,
       "marketCap": 40281654510,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端運算",
+      "theme": "雲端軟體 SaaS",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -580,7 +580,7 @@
       "dollarVolume": 2073738424.7439969,
       "marketCap": 448614093570.3,
       "sector": "COMPUTER COMMUNICATIONS EQUIPMENT",
-      "theme": "網路設備",
+      "theme": "網路通訊設備",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -632,7 +632,7 @@
       "dollarVolume": 1907211968.5997043,
       "marketCap": 196634240000,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "手機晶片",
+      "theme": "通訊晶片",
       "isNew": false,
       "rankChange": -17,
       "streak": 51
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-07-08T20:00:00.000Z",
-  "generatedAt": "2026-07-09T08:34:03.576Z",
+  "generatedAt": "2026-07-10T02:06:18.275Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "半導體設備",
-      "reason": "AI 晶片需求持續增長，帶動上游半導體設備廠訂單能見度高。",
+      "reason": "AI 晶片需求持續增長，帶動上游半導體設備廠訂單與營收預期。",
       "symbols": [
         "AMAT",
         "KLAC",
@@ -670,7 +670,7 @@
     },
     {
       "theme": "儲存裝置",
-      "reason": "AI 應用對資料儲存需求大增，推動儲存裝置產業復甦。",
+      "reason": "記憶體與儲存需求受 AI 發展帶動，產業景氣復甦。",
       "symbols": [
         "SNDK",
         "STX",
@@ -681,17 +681,18 @@
     },
     {
       "theme": "AI 晶片",
-      "reason": "AI 產業蓬勃發展，對高效能運算晶片的需求持續強勁。",
+      "reason": "AI 應用持續擴張，市場對 AI 晶片領導廠商的成長前景保持樂觀。",
       "symbols": [
         "NVDA",
+        "AVGO",
         "AMD"
       ],
-      "count": 2,
-      "avgChange": 1.9509795102552332
+      "count": 3,
+      "avgChange": 2.9107722149926043
     },
     {
-      "theme": "網路設備",
-      "reason": "資料中心升級以支援 AI 運算，刺激網路基礎設施需求。",
+      "theme": "網路通訊設備",
+      "reason": "企業與資料中心對高速網路基礎設施的需求增加，推動相關設備供應商表現。",
       "symbols": [
         "ANET",
         "CSCO"
@@ -700,22 +701,22 @@
       "avgChange": 5.290386629201043
     },
     {
-      "theme": "電商",
-      "reason": "全球電商市場持續擴張，尤其新興市場表現亮眼。",
+      "theme": "雲端軟體 SaaS",
+      "reason": "企業數位轉型趨勢不變，雲端軟體服務持續受青睞。",
       "symbols": [
-        "BABA"
+        "CRWV"
       ],
       "count": 1,
-      "avgChange": 11.045445282249851
+      "avgChange": 7.7457201005626715
     },
     {
-      "theme": "記憶體",
-      "reason": "HBM 等高頻寬記憶體在 AI 領域應用廣泛，需求旺盛。",
+      "theme": "晶圓代工",
+      "reason": "全球半導體需求回溫，先進製程技術領導者受惠。",
       "symbols": [
-        "MU"
+        "TSM"
       ],
       "count": 1,
-      "avgChange": 1.1104243483450158
+      "avgChange": 1.0194881753242309
     }
   ],
   "newEntrants": [
@@ -729,51 +730,51 @@
     {
       "symbol": "XOM",
       "name": "ExxonMobil Holdings Corporation",
-      "theme": "石油天然氣",
+      "theme": "石油與天然氣",
       "changePercent": -0.39522902110240826,
-      "reason": "中東地緣政治風險加劇及第二季盈利預警，推升油價與股價。"
+      "reason": "宣布將於7月1日完成遷冊德州，並更新第二季財測，預計收益將更高。"
     },
     {
       "symbol": "BRK.B",
       "name": "BERKSHIRE HATHAWAY Class B",
       "theme": "多元控股",
       "changePercent": -1.8273809523809483,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "旗下公司Duracell推出新產品，且有分析師看好其持有的消費股。"
     },
     {
       "symbol": "PG",
       "name": "Procter & Gamble Company",
-      "theme": "消費必需品",
+      "theme": "民生消費",
       "changePercent": -2.8477905073649716,
-      "reason": "市場資金轉向防禦型消費必需品類股，獲得買入評級。"
+      "reason": "旗下品牌Braun和Cascade推出新產品，並將於7月29日公布第四季財報。"
     },
     {
       "symbol": "ANET",
       "name": "Arista Networks",
-      "theme": "網路設備",
+      "theme": "網路通訊設備",
       "changePercent": 8.76486843686171,
-      "reason": "獲大型成長基金加碼押注AI網路題材，股價強勢反彈。"
+      "reason": "推出下一代1.6Terabit AI網路產品組合，並將於8月4日公布第二季財報。"
     },
     {
       "symbol": "CRWV",
       "name": "CoreWeave, Inc. Class A Common Stock",
-      "theme": "雲端運算",
+      "theme": "雲端軟體 SaaS",
       "changePercent": 7.7457201005626715,
-      "reason": "ARK加碼買進與電力供應落地，激勵AI基礎設施題材。"
+      "reason": "被Gartner評為雲端AI基礎設施的遠見者，且AI需求持續增長。"
     },
     {
       "symbol": "CSCO",
       "name": "Cisco Systems, Inc. Common Stock (DE)",
-      "theme": "網路設備",
+      "theme": "網路通訊設備",
       "changePercent": 1.8159048215403766,
-      "reason": "市場重新評估其在企業網路與AI基礎建設中的角色。"
+      "reason": "與Rafay Systems擴大合作夥伴關係，並專注於AI領域發展。"
     },
     {
       "symbol": "ABBV",
       "name": "ABBVIE INC.",
       "theme": "生技製藥",
       "changePercent": -0.750049086982131,
-      "reason": "獲分析師上調目標價，且有新藥試驗進展。"
+      "reason": "歐洲委員會批准其淋巴瘤藥物TEPKINLY，並預計7月31日公布財報。"
     },
     {
       "symbol": "ARM",
@@ -784,49 +785,34 @@
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點集中在記憶體、AI晶片和儲存裝置等半導體相關族群。資金主要受到對AI基礎設施強勁需求的預期所驅動，特別是瑞銀上調DRAM和NAND快閃記憶體價格預期，以及AI新創公司營收的快速增長，顯示市場對AI領域的長期看好。然而，近期三星財報未能完全滿足市場過高期待，加上地緣政治風險升溫，引發部分資金從漲幅過高的AI概念股獲利了結，轉向更廣泛的科技七巨頭或進行類股輪動。",
+    "highlights": "本日美股成交重點集中在AI晶片、記憶體和儲存裝置等半導體相關族群，主要受惠於AI熱潮持續推動的龐大需求。資金流向顯示市場對AI基礎設施建設的樂觀預期，特別是美光科技（MU）宣布大幅增加在美國的投資，以及蘋果（AAPL）與博通（AVGO）簽訂的長期晶片供應協議，都為相關個股帶來強勁的買盤動能。然而，部分大型科技股如特斯拉（TSLA）、微軟（MSFT）和Alphabet（GOOGL）則出現下跌，部分原因可能與中東地緣政治緊張局勢升溫以及市場對AI債券熱潮降溫的擔憂有關。",
     "eventsPast": [
       {
-        "title": "三星財報未達市場超高預期",
-        "detail": "儘管三星電子公布的財報優於分析師預期，但未能滿足投資人對AI投資熱潮的超高期待，導致市場對AI概念股的信心產生疑慮，引發半導體類股下跌。"
+        "title": "美光科技擴大美國投資至2500億美元",
+        "detail": "美光科技（MU）宣布將在美國的投資規模提高至2500億美元，目標是到2035年實現40%的DRAM產量在美國製造，以滿足全球AI對記憶體晶片的需求。"
       },
       {
-        "title": "美伊局勢升溫影響全球風險情緒",
-        "detail": "美國與伊朗之間地緣政治緊張局勢升溫，導致油價走高，並引發資金從AI與半導體等高估值成長股撤出，轉向防禦型或價值股。"
+        "title": "蘋果與博通簽訂逾300億美元晶片協議",
+        "detail": "蘋果（AAPL）與博通（AVGO）簽訂了一份多年期協議，預計金額超過300億美元，用於生產超過150億顆美國製造的晶片。"
       },
       {
-        "title": "SpaceX納入那斯達克100指數後股價下跌",
-        "detail": "SpaceX於7月7日加入Nasdaq-100指數，但在納入指數首日股價下跌近7%，市場對其短期評價趨於保守。"
+        "title": "三星量產供英偉達Vera Rubin使用的新一代企業級SSD",
+        "detail": "三星已開始量產供英偉達（NVDA）Vera Rubin使用的新一代企業級SSD。"
       },
       {
-        "title": "Fed公布6月會議紀要",
-        "detail": "聯準會公布6月會議紀要，揭露委員會內部對升降息存在對峙，並罕見地將AI基礎設施的強勁需求列為通膨的結構性推力，可能成為延後寬鬆的理由之一。"
+        "title": "Meta Platforms發布全新AI圖像生成模型Muse Image",
+        "detail": "Meta Platforms（META）於週二發布了全新的人工智慧（AI）圖像生成模型Muse Image，進一步加碼生成式AI工具。"
       },
       {
-        "title": "SpaceXAI發布新一代AI模型Grok 4.5",
-        "detail": "SpaceXAI於週三發布Grok 4.5，主打編程、金融、法律及複雜代理任務，試圖強化與其他AI對手的競爭能力。"
+        "title": "亞馬遜AWS擬在菲律賓投資至多50億美元",
+        "detail": "亞馬遜（AMZN）旗下的AWS宣布計劃在菲律賓投資至多50億美元。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "本週四",
-        "title": "美國初領失業金人數",
-        "detail": "每週例行公布，觀察6月非農就業數據疲軟是否為就業市場趨勢性降溫的開端。"
-      },
-      {
-        "date": "7/14",
-        "title": "美國6月CPI（消費者物價指數）",
-        "detail": "本輪數據中最受矚目的焦點，將揭露能源價格回落是否已反映在終端消費價格，以及核心通膨是否仍然頑固。"
-      },
-      {
-        "date": "7/28-7/29",
-        "title": "FOMC會議",
-        "detail": "聯準會將召開會議，市場預期維持利率不變的機率約70.1%，但升息1碼的機率仍保留約三成空間，政策行動將取決於後續數據。"
-      },
-      {
-        "date": "每月第一個週五",
-        "title": "非農就業報告",
-        "detail": "由勞工統計局(BLS)公布，是市場核爆點，直接影響聯準會利率預期、美元、美股、黃金、美債。"
+        "date": "8/4",
+        "title": "AMD 2026財年第二季度財報",
+        "detail": "AMD（AMD）將於2026年8月4日市場收盤後公佈2026財年第二季度財務業績。"
       }
     ]
   }
