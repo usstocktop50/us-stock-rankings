@@ -47,7 +47,7 @@
       "dollarVolume": 16261403260.657015,
       "marketCap": 1386758867910.24,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "社群媒體/廣告",
+      "theme": "社群媒體/AI",
       "isNew": false,
       "rankChange": 7,
       "streak": 83
@@ -73,7 +73,7 @@
       "dollarVolume": 15133299407.752993,
       "marketCap": 4644435714320,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "消費電子",
+      "theme": "消費性電子",
       "isNew": false,
       "rankChange": -1,
       "streak": 83
@@ -112,7 +112,7 @@
       "dollarVolume": 11271039488.36972,
       "marketCap": 565626040000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體製造",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": -1,
       "streak": 83
@@ -125,7 +125,7 @@
       "dollarVolume": 11238165374.683624,
       "marketCap": 1908312993219.78,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體網路通訊",
+      "theme": "半導體基礎設施",
       "isNew": false,
       "rankChange": -4,
       "streak": 83
@@ -138,7 +138,7 @@
       "dollarVolume": 9297202138.814507,
       "marketCap": 2657436315069.44,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電子商務/雲端服務",
+      "theme": "電子商務/雲端",
       "isNew": false,
       "rankChange": 2,
       "streak": 83
@@ -151,7 +151,7 @@
       "dollarVolume": 8806052284.059185,
       "marketCap": 2090175360000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "網路搜尋/廣告",
+      "theme": "網路服務/AI",
       "isNew": false,
       "rankChange": 0,
       "streak": 83
@@ -177,7 +177,7 @@
       "dollarVolume": 7013857769.340038,
       "marketCap": 1122970761825.5999,
       "sector": "—",
-      "theme": "太空",
+      "theme": "太空科技",
       "isNew": false,
       "rankChange": -4,
       "streak": 18
@@ -190,7 +190,7 @@
       "dollarVolume": 6090073525.52603,
       "marketCap": 1943645440000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "網路搜尋/廣告",
+      "theme": "網路服務/AI",
       "isNew": false,
       "rankChange": 1,
       "streak": 83
@@ -203,7 +203,7 @@
       "dollarVolume": 5224519841.080518,
       "marketCap": 212812596000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體網路通訊",
+      "theme": "資料中心網路",
       "isNew": false,
       "rankChange": -1,
       "streak": 73
@@ -229,7 +229,7 @@
       "dollarVolume": 5119000429.269886,
       "marketCap": 415421527620,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體 SaaS",
+      "theme": "企業軟體/雲端",
       "isNew": false,
       "rankChange": 1,
       "streak": 83
@@ -294,7 +294,7 @@
       "dollarVolume": 4155038131.901361,
       "marketCap": 404882843687.88,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售百貨",
+      "theme": "零售",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -359,7 +359,7 @@
       "dollarVolume": 3191936167.2417955,
       "marketCap": 277548123184,
       "sector": "COMPUTER & OFFICE EQUIPMENT",
-      "theme": "企業軟體/服務",
+      "theme": "企業IT服務",
       "isNew": false,
       "rankChange": 12,
       "streak": 4
@@ -372,7 +372,7 @@
       "dollarVolume": 3067176082.2134643,
       "marketCap": 29981628619.920002,
       "sector": "OPTICAL INSTRUMENTS & LENSES",
-      "theme": "半導體設備",
+      "theme": "半導體檢測",
       "isNew": false,
       "rankChange": 3,
       "streak": 23
@@ -385,7 +385,7 @@
       "dollarVolume": 3066164361.0358214,
       "marketCap": 47448352025.6,
       "sector": "—",
-      "theme": "雲端服務",
+      "theme": "雲端運算",
       "isNew": false,
       "rankChange": -4,
       "streak": 8
@@ -541,7 +541,7 @@
       "dollarVolume": 2346038458.6263638,
       "marketCap": 350190983041.2,
       "sector": "—",
-      "theme": "IP 設計",
+      "theme": "晶片設計IP",
       "isNew": false,
       "rankChange": 8,
       "streak": 2
@@ -567,7 +567,7 @@
       "dollarVolume": 2293252891.785781,
       "marketCap": 892976061982.5499,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售百貨",
+      "theme": "零售",
       "isNew": false,
       "rankChange": -5,
       "streak": 6
@@ -580,7 +580,7 @@
       "dollarVolume": 2269757708.952827,
       "marketCap": 40147382328.3,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端服務",
+      "theme": "雲端運算",
       "isNew": false,
       "rankChange": -1,
       "streak": 2
@@ -606,7 +606,7 @@
       "dollarVolume": 2166427304.6295185,
       "marketCap": 91073270586.78,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "線上券商",
+      "theme": "金融科技",
       "isNew": false,
       "rankChange": -1,
       "streak": 6
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-07-09T20:00:00.000Z",
-  "generatedAt": "2026-07-10T06:29:33.212Z",
+  "generatedAt": "2026-07-10T08:28:39.191Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "半導體設備",
-      "reason": "AI 相關需求持續推動半導體產業擴張，帶動上游設備供應商訂單成長。",
+      "reason": "AI 軍備競賽持續推動對先進製程設備的需求，相關供應商受惠於資本支出增加。",
       "symbols": [
         "AMAT",
         "LRCX",
@@ -670,7 +670,7 @@
     },
     {
       "theme": "儲存裝置",
-      "reason": "AI 數據中心對儲存容量的需求激增，以及記憶體價格回升預期，推動相關個股表現。",
+      "reason": "AI 數據中心對儲存容量的需求激增，帶動相關硬體供應商的營收成長預期。",
       "symbols": [
         "SNDK",
         "STX",
@@ -680,28 +680,8 @@
       "avgChange": 5.376320933934836
     },
     {
-      "theme": "半導體網路通訊",
-      "reason": "AI 和數據中心基礎設施的升級，對高速網路通訊晶片的需求持續增加。",
-      "symbols": [
-        "AVGO",
-        "MRVL"
-      ],
-      "count": 2,
-      "avgChange": 4.0921716712458585
-    },
-    {
-      "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型及 AI 應用整合，持續提升對雲端軟體服務的需求。",
-      "symbols": [
-        "MSFT",
-        "ORCL"
-      ],
-      "count": 2,
-      "avgChange": 1.4605377834779278
-    },
-    {
       "theme": "AI 晶片",
-      "reason": "AI 發展趨勢不變，市場對高效能運算晶片的需求仍是主要驅動力。",
+      "reason": "AI 應用持續擴張，市場對高效能運算晶片的需求旺盛，推動相關晶片設計與製造商股價上漲。",
       "symbols": [
         "AMD"
       ],
@@ -710,12 +690,30 @@
     },
     {
       "theme": "記憶體",
-      "reason": "記憶體市場景氣復甦，HBM 等高階產品需求旺盛，帶動相關廠商股價上漲。",
+      "reason": "AI 伺服器對高頻寬記憶體（HBM）的需求強勁，帶動整體記憶體產業景氣復甦。",
       "symbols": [
         "MU"
       ],
       "count": 1,
       "avgChange": 4.515177065767288
+    },
+    {
+      "theme": "晶片設計IP",
+      "reason": "Arm 架構在 AI 邊緣運算和數據中心領域的應用日益廣泛，市場看好其未來成長潛力。",
+      "symbols": [
+        "ARM"
+      ],
+      "count": 1,
+      "avgChange": 9.202637889688248
+    },
+    {
+      "theme": "光通訊",
+      "reason": "AI 數據中心內部及數據中心間的傳輸需求大增，推動光通訊元件及模組的需求。",
+      "symbols": [
+        "LITE"
+      ],
+      "count": 1,
+      "avgChange": 11.125724791401492
     }
   ],
   "newEntrants": [
@@ -724,21 +722,21 @@
       "name": "Lumentum Holdings Inc. Common Stock",
       "theme": "光通訊",
       "changePercent": 11.125724791401492,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "受AI光通訊需求強勁及機構持股增加帶動，股價上漲。"
     },
     {
       "symbol": "COST",
       "name": "Costco Wholesale Corp",
-      "theme": "零售百貨",
+      "theme": "零售",
       "changePercent": -4.213486093187704,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "六月銷售增長放緩且估值過高，引發投資者獲利了結。"
     },
     {
       "symbol": "PEP",
       "name": "PepsiCo, Inc.",
       "theme": "飲料食品",
       "changePercent": -3.262928917268948,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "第二季財報顯示美國消費者受油價影響，支出不如預期。"
     },
     {
       "symbol": "UNH",
@@ -752,73 +750,22 @@
       "name": "Salesforce, Inc.",
       "theme": "雲端軟體 SaaS",
       "changePercent": -2.4492736222835947,
-      "reason": "近期無明確個股消息，可能受人工智能相關情緒影響。"
+      "reason": "KeyBanc下調評級，擔憂AI平台Agentforce成長需時。"
     },
     {
       "symbol": "ALNY",
       "name": "Alnylam Pharmaceuticals, Inc.",
       "theme": "生技製藥",
       "changePercent": -3.310664605873255,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "競爭對手後期試驗失敗，有利其心臟病藥物市場。"
     },
     {
       "symbol": "GLW",
       "name": "Corning Incorporated",
       "theme": "特用玻璃/光纖",
       "changePercent": 4.537303700483614,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "受惠AI基礎設施及光通訊需求，獲Amazon和Meta大單。"
     }
   ],
-  "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於半導體相關族群，特別是記憶體和儲存裝置類股表現強勁，由美光科技（MU）和Sandisk（SNDK）帶動了顯著的成交量和漲幅。市場故事主要圍繞在AI基礎設施投資的持續熱潮，推升了對高頻寬記憶體（HBM）及相關半導體設備的強勁需求，儘管聯準會（Fed）對通膨的擔憂以及部分官員升息的討論為市場帶來不確定性，但AI題材的長期成長潛力仍是資金集中的主要原因。",
-    "eventsPast": [
-      {
-        "title": "Fed 6月會議紀要顯示官員對利率路徑存在分歧",
-        "detail": "美國聯準會（Fed）於7月8日公布的6月聯邦公開市場委員會（FOMC）會議紀要顯示，儘管最終決議維持利率不變，但內部對於下一步應升息或降息存在明顯分歧，且首次將AI基礎設施建設列為可能推高通膨的因素之一。"
-      },
-      {
-        "title": "美光科技（MU）、Sandisk（SNDK）等儲存晶片股貢獻標普500指數顯著漲幅",
-        "detail": "根據彭博策略師測算，今年以來標普500指數近四分之一的漲幅來自美光科技、Sandisk及西部數據（WDC）三家儲存晶片廠商的股價表現，顯示AI投資熱潮下資金高度集中於特定族群。"
-      },
-      {
-        "title": "Meta發表全新AI圖像生成模型Muse Image",
-        "detail": "Meta於7月7日發布了全新的AI圖像生成模型Muse Image，旨在吸引創作者和廣告商，並可透過Meta AI應用程式、WhatsApp和Instagram Stories免費使用。"
-      },
-      {
-        "title": "應用材料（AMAT）等半導體設備商受惠AI晶片擴產潮",
-        "detail": "應用材料（AMAT）執行長Gary Dickerson指出，全球AI運算基礎設施的快速建置，正帶動對先進邏輯晶片、高頻寬記憶體及先進封裝技術的爆發性需求，使半導體設備商訂單能見度高。"
-      },
-      {
-        "title": "美伊衝突再起引發市場對能源與科技類股的擔憂",
-        "detail": "美國總統川普表示與伊朗的停火協議「已經結束」，美伊在中東互相發動新一輪攻擊，引發油價走高與全球科技股跳水，AI與半導體族群首當其衝。"
-      }
-    ],
-    "eventsUpcoming": [
-      {
-        "date": "7/10",
-        "title": "SK海力士（SKHY）美國ADR掛牌",
-        "detail": "SK海力士將啟動約280億美元的美國ADR掛牌，此舉將測試美國投資人對AI記憶體的追逐意願，若買盤強勁，可能帶動美光（MU）及半導體ETF表現。"
-      },
-      {
-        "date": "7/10",
-        "title": "美國初次申請失業救濟金人數",
-        "detail": "美國勞工部將公布最新一週的初次申請失業救濟金人數，此數據為評估勞動市場狀況的重要指標。"
-      },
-      {
-        "date": "7/14",
-        "title": "美國消費者物價指數（CPI）更新",
-        "detail": "美國6月份消費者物價指數（CPI）年增率將更新，此數據將影響市場對通膨升溫及聯準會（Fed）升息的預期。"
-      },
-      {
-        "date": "7/28-7/29",
-        "title": "FOMC會議",
-        "detail": "聯準會（Fed）將召開聯邦公開市場委員會（FOMC）會議，市場將密切關注會議結果及會後聲明，以判斷未來的利率政策走向。"
-      },
-      {
-        "date": "本週",
-        "title": "ISM服務業PMI",
-        "detail": "美國將公布ISM服務業PMI，此數據可反映美國服務業的景氣狀況，對評估整體經濟健康程度有重要參考價值。"
-      }
-    ]
-  }
+  "marketBriefing": null
 }
