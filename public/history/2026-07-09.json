@@ -47,7 +47,7 @@
       "dollarVolume": 16261403260.657015,
       "marketCap": 1386758867910.24,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "社群媒體/AI",
+      "theme": "社群媒體/廣告",
       "isNew": false,
       "rankChange": 7,
       "streak": 83
@@ -112,7 +112,7 @@
       "dollarVolume": 11271039488.36972,
       "marketCap": 565626040000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "半導體製造",
       "isNew": false,
       "rankChange": -1,
       "streak": 83
@@ -125,7 +125,7 @@
       "dollarVolume": 11238165374.683624,
       "marketCap": 1908312993219.78,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體基礎設施",
+      "theme": "半導體網路通訊",
       "isNew": false,
       "rankChange": -4,
       "streak": 83
@@ -138,7 +138,7 @@
       "dollarVolume": 9297202138.814507,
       "marketCap": 2657436315069.44,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電子商務/雲端",
+      "theme": "電商/雲端服務",
       "isNew": false,
       "rankChange": 2,
       "streak": 83
@@ -151,7 +151,7 @@
       "dollarVolume": 8806052284.059185,
       "marketCap": 2090175360000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "網路服務/AI",
+      "theme": "網路搜尋/雲端服務",
       "isNew": false,
       "rankChange": 0,
       "streak": 83
@@ -177,7 +177,7 @@
       "dollarVolume": 7013857769.340038,
       "marketCap": 1122970761825.5999,
       "sector": "—",
-      "theme": "太空科技",
+      "theme": "太空",
       "isNew": false,
       "rankChange": -4,
       "streak": 18
@@ -190,7 +190,7 @@
       "dollarVolume": 6090073525.52603,
       "marketCap": 1943645440000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "網路服務/AI",
+      "theme": "網路搜尋/雲端服務",
       "isNew": false,
       "rankChange": 1,
       "streak": 83
@@ -203,7 +203,7 @@
       "dollarVolume": 5224519841.080518,
       "marketCap": 212812596000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "資料中心網路",
+      "theme": "半導體網路通訊",
       "isNew": false,
       "rankChange": -1,
       "streak": 73
@@ -229,7 +229,7 @@
       "dollarVolume": 5119000429.269886,
       "marketCap": 415421527620,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "企業軟體/雲端",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": 1,
       "streak": 83
@@ -359,7 +359,7 @@
       "dollarVolume": 3191936167.2417955,
       "marketCap": 277548123184,
       "sector": "COMPUTER & OFFICE EQUIPMENT",
-      "theme": "企業IT服務",
+      "theme": "企業軟體/服務",
       "isNew": false,
       "rankChange": 12,
       "streak": 4
@@ -372,7 +372,7 @@
       "dollarVolume": 3067176082.2134643,
       "marketCap": 29981628619.920002,
       "sector": "OPTICAL INSTRUMENTS & LENSES",
-      "theme": "半導體檢測",
+      "theme": "半導體設備",
       "isNew": false,
       "rankChange": 3,
       "streak": 23
@@ -385,7 +385,7 @@
       "dollarVolume": 3066164361.0358214,
       "marketCap": 47448352025.6,
       "sector": "—",
-      "theme": "雲端運算",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": -4,
       "streak": 8
@@ -476,7 +476,7 @@
       "dollarVolume": 2514792096.4591017,
       "marketCap": 466311135216.15,
       "sector": "COMPUTER COMMUNICATIONS EQUIPMENT",
-      "theme": "網路設備",
+      "theme": "網路通訊設備",
       "isNew": false,
       "rankChange": 8,
       "streak": 2
@@ -541,7 +541,7 @@
       "dollarVolume": 2346038458.6263638,
       "marketCap": 350190983041.2,
       "sector": "—",
-      "theme": "晶片設計IP",
+      "theme": "IC 設計 IP",
       "isNew": false,
       "rankChange": 8,
       "streak": 2
@@ -580,7 +580,7 @@
       "dollarVolume": 2269757708.952827,
       "marketCap": 40147382328.3,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端運算",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": -1,
       "streak": 2
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-07-09T20:00:00.000Z",
-  "generatedAt": "2026-07-10T08:28:39.191Z",
+  "generatedAt": "2026-07-11T02:04:15.901Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "半導體設備",
-      "reason": "AI 軍備競賽持續推動對先進製程設備的需求，相關供應商受惠於資本支出增加。",
+      "reason": "AI 晶片需求持續增長，帶動上游半導體製造設備訂單強勁。",
       "symbols": [
         "AMAT",
         "LRCX",
@@ -670,7 +670,7 @@
     },
     {
       "theme": "儲存裝置",
-      "reason": "AI 數據中心對儲存容量的需求激增，帶動相關硬體供應商的營收成長預期。",
+      "reason": "AI 應用對資料儲存的需求激增，推動相關硬體廠商營收成長。",
       "symbols": [
         "SNDK",
         "STX",
@@ -680,8 +680,28 @@
       "avgChange": 5.376320933934836
     },
     {
+      "theme": "半導體網路通訊",
+      "reason": "資料中心與網路基礎設施升級以支援 AI 和雲端運算，相關晶片需求旺盛。",
+      "symbols": [
+        "AVGO",
+        "MRVL"
+      ],
+      "count": 2,
+      "avgChange": 4.0921716712458585
+    },
+    {
+      "theme": "雲端軟體 SaaS",
+      "reason": "企業數位轉型及 AI 整合應用持續推動雲端軟體服務需求。",
+      "symbols": [
+        "MSFT",
+        "ORCL"
+      ],
+      "count": 2,
+      "avgChange": 1.4605377834779278
+    },
+    {
       "theme": "AI 晶片",
-      "reason": "AI 應用持續擴張，市場對高效能運算晶片的需求旺盛，推動相關晶片設計與製造商股價上漲。",
+      "reason": "AI 運算需求持續爆發，市場對高效能 AI 晶片的需求居高不下。",
       "symbols": [
         "AMD"
       ],
@@ -690,30 +710,12 @@
     },
     {
       "theme": "記憶體",
-      "reason": "AI 伺服器對高頻寬記憶體（HBM）的需求強勁，帶動整體記憶體產業景氣復甦。",
+      "reason": "AI 伺服器對高頻寬記憶體（HBM）需求強勁，帶動記憶體產業景氣復甦。",
       "symbols": [
         "MU"
       ],
       "count": 1,
       "avgChange": 4.515177065767288
-    },
-    {
-      "theme": "晶片設計IP",
-      "reason": "Arm 架構在 AI 邊緣運算和數據中心領域的應用日益廣泛，市場看好其未來成長潛力。",
-      "symbols": [
-        "ARM"
-      ],
-      "count": 1,
-      "avgChange": 9.202637889688248
-    },
-    {
-      "theme": "光通訊",
-      "reason": "AI 數據中心內部及數據中心間的傳輸需求大增，推動光通訊元件及模組的需求。",
-      "symbols": [
-        "LITE"
-      ],
-      "count": 1,
-      "avgChange": 11.125724791401492
     }
   ],
   "newEntrants": [
@@ -722,21 +724,21 @@
       "name": "Lumentum Holdings Inc. Common Stock",
       "theme": "光通訊",
       "changePercent": 11.125724791401492,
-      "reason": "受AI光通訊需求強勁及機構持股增加帶動，股價上漲。"
+      "reason": "AI基礎設施樂觀情緒，光通訊元件需求激增，分析師調升目標價。"
     },
     {
       "symbol": "COST",
       "name": "Costco Wholesale Corp",
       "theme": "零售",
       "changePercent": -4.213486093187704,
-      "reason": "六月銷售增長放緩且估值過高，引發投資者獲利了結。"
+      "reason": "六月銷售成長放緩引發投資者擔憂，儘管分析師仍看好。"
     },
     {
       "symbol": "PEP",
       "name": "PepsiCo, Inc.",
       "theme": "飲料食品",
       "changePercent": -3.262928917268948,
-      "reason": "第二季財報顯示美國消費者受油價影響，支出不如預期。"
+      "reason": "第二季財報顯示北美業務面臨挑戰，分析師下調評級與目標價。"
     },
     {
       "symbol": "UNH",
@@ -750,22 +752,73 @@
       "name": "Salesforce, Inc.",
       "theme": "雲端軟體 SaaS",
       "changePercent": -2.4492736222835947,
-      "reason": "KeyBanc下調評級，擔憂AI平台Agentforce成長需時。"
+      "reason": "分析師下調評級，對AI業務成長前景存在疑慮。"
     },
     {
       "symbol": "ALNY",
       "name": "Alnylam Pharmaceuticals, Inc.",
       "theme": "生技製藥",
       "changePercent": -3.310664605873255,
-      "reason": "競爭對手後期試驗失敗，有利其心臟病藥物市場。"
+      "reason": "競爭對手ATTR藥物試驗失敗，有利其ATTR產品組合。"
     },
     {
       "symbol": "GLW",
       "name": "Corning Incorporated",
       "theme": "特用玻璃/光纖",
       "changePercent": 4.537303700483614,
-      "reason": "受惠AI基礎設施及光通訊需求，獲Amazon和Meta大單。"
+      "reason": "與Amazon和Nvidia簽訂AI資料中心光纖協議，提振AI基礎建設樂觀情緒。"
     }
   ],
-  "marketBriefing": null
+  "marketBriefing": {
+    "highlights": "本日美股成交重點集中在AI相關題材，尤其是記憶體、儲存裝置、AI晶片和半導體設備等族群。資金主要受惠於AI基礎設施投資的持續擴大，以及部分公司在AI技術上的新進展。美光科技（MU）和Sandisk（SNDK）等記憶體與儲存裝置個股因AI記憶體需求爆發而帶動成交量，而AMD（AMD）則受惠於新世代AI晶片藍圖的公布。",
+    "eventsPast": [
+      {
+        "title": "美光科技擴大美國投資計畫",
+        "detail": "美光科技宣布將2035年前在美國的總投資金額提高至2500億美元，以滿足AI時代對記憶體晶片的需求，並強化本土晶片製造能力。"
+      },
+      {
+        "title": "Meta計畫推進自研AI晶片生產",
+        "detail": "Meta傳出計畫在9月開始生產代號為「Iris」的自研AI晶片，目標是提升AI訓練和推理能力，並降低對外部GPU供應商的依賴。"
+      },
+      {
+        "title": "AMD公布新世代伺服器處理器藍圖",
+        "detail": "超微（AMD）高層證實新一代伺服器處理器的發展藍圖，預計在7月的Advancing AI大會上釋出更多細節，包括採用台積電2nm製程和全新Zen 6架構。"
+      },
+      {
+        "title": "Broadcom與Apple簽訂晶片長約",
+        "detail": "Broadcom宣布與Apple簽訂多年度長約，將合作至2031年，提供多代Apple產品使用的客製化ASIC晶片，協議金額預計超過300億美元。"
+      },
+      {
+        "title": "特斯拉第二季交付量超預期",
+        "detail": "特斯拉公布第二季生產約45.2萬輛、交付約48萬輛電動車，優於市場預期，並將Robotaxi服務拓展至邁阿密。"
+      }
+    ],
+    "eventsUpcoming": [
+      {
+        "date": "7月",
+        "title": "AMD Advancing AI大會",
+        "detail": "超微（AMD）預計在7月舉辦的Advancing AI大會上，釋出新一代伺服器處理器的更多技術細節。"
+      },
+      {
+        "date": "本月晚些時候",
+        "title": "特斯拉季度財報",
+        "detail": "市場矚目特斯拉本月晚些時候即將公布的季度財報，關注其毛利率和時程執行力。"
+      },
+      {
+        "date": "本週",
+        "title": "通膨數據與Fed主席國會聽證會",
+        "detail": "市場需關注下週通膨數據和美聯儲主席沃什國會聽證會對利率預期的影響。"
+      },
+      {
+        "date": "9月",
+        "title": "Meta自研AI晶片「Iris」量產",
+        "detail": "Meta計畫在9月開始生產代號為「Iris」的自研AI晶片。"
+      },
+      {
+        "date": "2027年初",
+        "title": "Rivian能源部貸款撥款",
+        "detail": "Rivian需在2027年初政府低成本貸款資金正式撥款前，自行投入相對應的自有股權資金，以推進新R2與R3車系生產基地建設。"
+      }
+    ]
+  }
 }
