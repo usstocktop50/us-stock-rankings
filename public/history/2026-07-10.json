@@ -190,7 +190,7 @@
       "dollarVolume": 4223663104.286282,
       "marketCap": 405109441439.99994,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "資料庫軟體",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": 3,
       "streak": 84
@@ -229,7 +229,7 @@
       "dollarVolume": 3966654719.939838,
       "marketCap": 291118884437.86,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "大數據分析",
+      "theme": "數據分析/AI",
       "isNew": false,
       "rankChange": 2,
       "streak": 84
@@ -359,7 +359,7 @@
       "dollarVolume": 2510819080.2434483,
       "marketCap": 15202794825.86,
       "sector": "FINANCE SERVICES",
-      "theme": "加密貨幣/區塊鏈",
+      "theme": "加密貨幣",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -502,7 +502,7 @@
       "dollarVolume": 1833727414.1347454,
       "marketCap": 269677352153.22,
       "sector": "—",
-      "theme": "電商/雲端服務",
+      "theme": "電商",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-07-10T20:00:00.000Z",
-  "generatedAt": "2026-07-11T04:29:51.545Z",
+  "generatedAt": "2026-07-11T05:37:55.178Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "AI 晶片",
-      "reason": "市場對AI技術發展的樂觀預期持續推動相關晶片需求，帶動領先廠商股價上漲。",
+      "reason": "AI技術的持續發展和應用擴大，推動了對高性能AI晶片的需求，市場對相關供應商前景樂觀。",
       "symbols": [
         "NVDA",
         "AMD"
@@ -668,7 +668,7 @@
     },
     {
       "theme": "儲存裝置",
-      "reason": "隨著資料中心和AI應用對儲存需求的增加，相關硬體供應商受到市場關注。",
+      "reason": "數據量的爆炸式增長以及AI應用對儲存性能的要求提升，帶動了儲存裝置相關企業的營收預期。",
       "symbols": [
         "SNDK",
         "STX",
@@ -678,18 +678,8 @@
       "avgChange": 2.053977643369107
     },
     {
-      "theme": "金融科技",
-      "reason": "數位支付和新興金融服務的普及，使得金融科技公司持續吸引投資者目光。",
-      "symbols": [
-        "SOFI",
-        "NU"
-      ],
-      "count": 2,
-      "avgChange": 0.7588335453536127
-    },
-    {
       "theme": "半導體設備",
-      "reason": "全球半導體產業擴張，對製造設備的需求旺盛，支撐了設備供應商的表現。",
+      "reason": "全球半導體產業擴張，各國政府對本土製造的扶持政策，以及新技術節點的推進，使半導體設備需求旺盛。",
       "symbols": [
         "AMAT",
         "KLAC"
@@ -698,8 +688,18 @@
       "avgChange": 1.6112431306994426
     },
     {
+      "theme": "金融科技",
+      "reason": "數位支付和線上金融服務的普及，以及新興市場的金融科技滲透率提升，吸引了資金關注。",
+      "symbols": [
+        "SOFI",
+        "NU"
+      ],
+      "count": 2,
+      "avgChange": 0.7588335453536127
+    },
+    {
       "theme": "銀行",
-      "reason": "在經濟環境相對穩定的情況下，傳統銀行業的表現也受到市場的正面評價。",
+      "reason": "在當前利率環境下，銀行業的淨利息收入預期穩定，且經濟數據顯示出一定的韌性，支撐了銀行股表現。",
       "symbols": [
         "JPM",
         "C"
@@ -708,14 +708,13 @@
       "avgChange": 0.5861012980307723
     },
     {
-      "theme": "加密貨幣/區塊鏈",
-      "reason": "加密貨幣市場的波動和相關技術的發展，使得區塊鏈概念股受到資金追捧。",
+      "theme": "社群媒體/元宇宙",
+      "reason": "社群媒體巨頭在廣告業務上展現強勁復甦，同時在元宇宙領域的長期投資也持續吸引市場關注。",
       "symbols": [
-        "CRCL",
-        "MSTR"
+        "META"
       ],
-      "count": 2,
-      "avgChange": 2.8831362981891413
+      "count": 1,
+      "avgChange": 5.974852726927221
     }
   ],
   "newEntrants": [
@@ -724,101 +723,121 @@
       "name": "SKHYV",
       "theme": "記憶體",
       "changePercent": -1.1705882352941228,
-      "reason": "SK海力士在美國那斯達克掛牌首日，受AI記憶體需求龐大激勵。"
+      "reason": "SK Hynix在Nasdaq首次亮相，募資265億美元，推動股價上漲。"
     },
     {
       "symbol": "CRCL",
       "name": "Circle Internet Group, Inc.",
-      "theme": "加密貨幣/區塊鏈",
+      "theme": "加密貨幣",
       "changePercent": 4.9674654816695805,
-      "reason": "Circle Internet Group獲批成立加密貨幣銀行，提振市場信心。"
+      "reason": "Circle Internet Group獲得美國貨幣監理局批准，可作為國家信託銀行營運。"
     },
     {
       "symbol": "PG",
       "name": "Procter & Gamble Company",
       "theme": "民生消費",
       "changePercent": 0.12938372488934133,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "分析師重申買入評級，並因其股息吸引力而受到關注。"
     },
     {
       "symbol": "BABA",
       "name": "Alibaba Group Holding Limited American Depositary Shares, each represents eight Ordinary Shares",
-      "theme": "電商/雲端服務",
+      "theme": "電商",
       "changePercent": 1.0707216123807788,
-      "reason": "阿里巴巴與美國司法部達成和解，AI業務轉型受關注。"
+      "reason": "預期財報利好，即時商務虧損收窄，AI雲端成長加速。"
     },
     {
       "symbol": "CRWD",
       "name": "CrowdStrike Holdings, Inc. Class A Common Stock",
       "theme": "資安",
       "changePercent": -5.65524193548387,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "近期股價大漲後，投資者獲利了結，加上股票分割帶來波動。"
     },
     {
       "symbol": "SOFI",
       "name": "SoFi Technologies, Inc. Common Stock",
       "theme": "金融科技",
       "changePercent": 0.8592910848549953,
-      "reason": "SoFi擴展ETF產品線，推出Social 50 Income ETF。"
+      "reason": "推出AI投資工具Composer及新的ETF，擴展資產管理業務。"
     },
     {
       "symbol": "NU",
       "name": "Nu Holdings Ltd.",
       "theme": "金融科技",
       "changePercent": 0.6583760058522301,
-      "reason": "Nubank墨西哥子公司獲批轉型為銀行，提振股價。"
+      "reason": "墨西哥子公司獲得全面銀行營運許可，擴大市場。"
     },
     {
       "symbol": "JNJ",
       "name": "Johnson & Johnson",
       "theme": "生技製藥",
       "changePercent": -0.8182169046700133,
-      "reason": "嬌生新醫療平台獲FDA批准，但受訴訟消息影響。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動，但有訴訟壓力。"
     },
     {
       "symbol": "MSTR",
       "name": "Strategy Inc Common Stock Class A",
       "theme": "比特幣/加密",
       "changePercent": 0.7988071147087017,
-      "reason": "MicroStrategy公布新資本計畫，旨在管理比特幣波動性。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "C",
       "name": "Citigroup Inc.",
       "theme": "銀行",
       "changePercent": 0.8741133481407171,
-      "reason": "分析師調升目標價，並宣布股票回購計畫。"
+      "reason": "預計從SK Hynix上市中獲得7000萬美元費用，強化投行收入。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI晶片與記憶體族群，資金主要流向受惠於AI基礎設施建置需求的公司。Nvidia和AMD等AI晶片股因市場對AI算力需求的樂觀情緒而上漲。此外，Meta Platforms因其AI變現策略和擴大AI算力投資的計畫，也吸引了大量資金。記憶體和儲存裝置相關個股，如Micron和Sandisk，則受惠於AI帶動的資料儲存需求增長以及與科技巨頭的長期供貨協議。SK海力士（SKHYV）在美股上市首日大漲，也顯示市場對AI記憶體的高度期待。",
+    "highlights": "本日美股成交焦點集中於AI晶片、記憶體、儲存裝置及社群媒體/元宇宙等科技相關族群。資金主要受到Meta Platforms宣布將擴大AI運算能力並量產自研AI晶片，以及美光科技大幅提高在美國的投資計畫以滿足AI記憶體需求等利多消息帶動。此外，SK海力士在美股上市也吸引了市場對記憶體產業的關注，顯示市場對AI相關領域的長期成長故事仍抱持高度期待。",
     "eventsPast": [
       {
-        "title": "Meta Platforms宣佈兩大AI變現策略",
-        "detail": "Meta Platforms(META)透露進軍公有雲市場並推出全新AI訂閱方案，積極推動人工智慧變現，有望改善華爾街情緒並為股價提供強勁支撐。"
+        "title": "美光科技宣布擴大美國投資",
+        "detail": "美光科技（MU）宣布將在2035年前於美國投資超過2500億美元，以滿足AI基礎設施對記憶體的強勁需求，並與環球晶圓簽訂10年供應協議。"
       },
       {
-        "title": "SK海力士在美股上市首日大漲",
-        "detail": "全球HBM存儲龍頭SK海力士（SKHYV）以美國存託憑證（ADS）形式登陸納斯達克，募資265億美元，創下海外企業赴美上市的最大規模紀錄，上市首日大漲近13%。"
+        "title": "Meta Platforms將量產自研AI晶片並擴大AI運算能力",
+        "detail": "Meta Platforms（META）宣布預計於9月開始量產與博通（AVGO）共同設計的自研AI晶片，並計劃在明年將AI運算能力提升一倍，此舉緩解了市場對AI資本支出放緩的擔憂。"
       },
       {
-        "title": "半導體設備族群大漲",
-        "detail": "受惠於AI晶片需求激增推升產業資本支出，半導體設備族群飆漲，市場關注新訂單與營運展望。"
+        "title": "SK海力士在美股上市",
+        "detail": "南韓記憶體大廠SK海力士（SKHYV）在美國發行美國存託憑證（ADR），成功募集約265億美元，並於7月10日正式在那斯達克掛牌交易，引發市場對AI記憶體板塊的關注。"
       },
       {
-        "title": "Meta內部備忘錄曝光，計劃擴大AI算力投資",
-        "detail": "Meta一份流出的內部備忘錄顯示，公司計劃2026年部署7吉瓦AI算力，2027年翻倍至14吉瓦，並已與閃迪、三星、住友電工簽署長期供貨協議，刺激了儲存板塊股價上漲。"
+        "title": "特斯拉自動駕駛、儲能與機器人業務進展",
+        "detail": "特斯拉（TSLA）在自動駕駛FSD v14 Lite更新、儲能部署量創高（包含SpaceX採購Megapack系統供xAI資料中心使用）以及Optimus人形機器人啟動試產方面皆有最新進展。"
       },
       {
-        "title": "Alphabet因AI人才流失股價重挫",
-        "detail": "Alphabet(GOOGL)因AI核心人才流失，諾貝爾獎得主跳槽至競爭對手，導致股價重挫逾5%，引發市場對其AI競爭力的擔憂。"
+        "title": "博通公布亮眼財報與AI晶片出貨動能",
+        "detail": "網通與半導體大廠博通（AVGO）公布2026會計年度第二季財報，營收達221.9億美元，調整後每股盈餘2.44美元，市場關注其在AI半導體與客製化AI晶片的出貨動能。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "7/14",
-        "title": "美國6月CPI數據公佈",
-        "detail": "美國勞工部將公佈6月份的消費者物價指數（CPI），此數據將影響市場對通膨和聯準會貨幣政策的預期。"
+        "date": "下週",
+        "title": "美國銀行股財報季開跑",
+        "detail": "包括摩根大通（JPM）、美國銀行（BAC）、高盛（GS）、富國銀行（WFC）和花旗（C）在內的多家大型銀行將陸續發布財報，為第二季財報季揭開序幕。"
+      },
+      {
+        "date": "7月中旬",
+        "title": "美國消費者物價指數（CPI）公布",
+        "detail": "市場將密切關注即將公布的最新CPI數據，以尋求聯準會（Fed）未來利率政策的線索，並評估是否會出現「金髮女孩經濟」。"
+      },
+      {
+        "date": "月底",
+        "title": "科技巨頭財報陸續公布",
+        "detail": "包括Alphabet（GOOGL）、Meta Platforms（META）、亞馬遜（AMZN）、微軟（MSFT）、蘋果（AAPL）及輝達（NVDA）等科技巨頭將陸續公布財報，市場將關注AI資本支出是否持續擴大以及資金流向。"
+      },
+      {
+        "date": "未來幾天",
+        "title": "聯準會（Fed）會議紀錄",
+        "detail": "聯準會將公布最新一次利率會議紀錄，市場希望藉此進一步了解其政策方向。"
+      },
+      {
+        "date": "2026年內",
+        "title": "SpaceX Starship啟動商業運營",
+        "detail": "分析師預期SpaceX的Starship大型可重複使用火箭有望在2026年啟動商業運營，這將大幅降低太空運輸成本並開創新的商業模式。"
       }
     ]
   }
