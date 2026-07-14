@@ -58,7 +58,7 @@
       "price": 168.01,
       "changePercent": -1.1705882352941228,
       "dollarVolume": 18464883062.454815,
-      "marketCap": 0,
+      "marketCap": 29888979000,
       "sector": "—",
       "theme": "記憶體",
       "isNew": true,
@@ -125,7 +125,7 @@
       "dollarVolume": 7788364279.670228,
       "marketCap": 2639149229028.24,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電商與雲端服務",
+      "theme": "電商",
       "isNew": false,
       "rankChange": 1,
       "streak": 84
@@ -164,7 +164,7 @@
       "dollarVolume": 6457701702.130891,
       "marketCap": 2080216320000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "網路搜尋與雲端",
+      "theme": "搜尋引擎",
       "isNew": false,
       "rankChange": -1,
       "streak": 84
@@ -216,7 +216,7 @@
       "dollarVolume": 4109899555.218981,
       "marketCap": 1937043679999.9998,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "網路搜尋與雲端",
+      "theme": "搜尋引擎",
       "isNew": false,
       "rankChange": -2,
       "streak": 84
@@ -229,7 +229,7 @@
       "dollarVolume": 3966654719.939838,
       "marketCap": 291118884437.86,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "數據分析軟體",
+      "theme": "大數據分析",
       "isNew": false,
       "rankChange": 2,
       "streak": 84
@@ -268,7 +268,7 @@
       "dollarVolume": 3579847275.298666,
       "marketCap": 69577814551.48001,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "氫能源",
+      "theme": "燃料電池",
       "isNew": false,
       "rankChange": 12,
       "streak": 19
@@ -307,7 +307,7 @@
       "dollarVolume": 3150690280.1459274,
       "marketCap": 478135439211.15,
       "sector": "COMPUTER COMMUNICATIONS EQUIPMENT",
-      "theme": "網路通訊設備",
+      "theme": "網路設備",
       "isNew": false,
       "rankChange": 13,
       "streak": 3
@@ -398,7 +398,7 @@
       "dollarVolume": 2390018911.4322147,
       "marketCap": 1119335000343.48,
       "sector": "PHARMACEUTICAL PREPARATIONS",
-      "theme": "生技製藥",
+      "theme": "減肥藥 GLP-1",
       "isNew": false,
       "rankChange": 5,
       "streak": 36
@@ -450,7 +450,7 @@
       "dollarVolume": 1921603191.3314254,
       "marketCap": 406337454165,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售",
+      "theme": "零售百貨",
       "isNew": false,
       "rankChange": -12,
       "streak": 2
@@ -476,7 +476,7 @@
       "dollarVolume": 1861958460.8865688,
       "marketCap": 438672410529.02997,
       "sector": "CONSTRUCTION MACHINERY & EQUIP",
-      "theme": "工業機械",
+      "theme": "重型機械",
       "isNew": false,
       "rankChange": -10,
       "streak": 17
@@ -552,7 +552,7 @@
       "price": 13.76,
       "changePercent": 0.6583760058522301,
       "dollarVolume": 1723445566.5249808,
-      "marketCap": 52743083571.84,
+      "marketCap": 52396482078.72,
       "sector": "—",
       "theme": "金融科技",
       "isNew": true,
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-07-10T20:00:00.000Z",
-  "generatedAt": "2026-07-11T07:19:53.236Z",
+  "generatedAt": "2026-07-14T02:05:36.267Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "AI 晶片",
-      "reason": "人工智慧技術持續發展，市場對AI晶片的需求強勁，帶動相關供應商股價上漲。",
+      "reason": "人工智慧技術的持續發展和應用擴大，推動了對高性能AI晶片的需求，市場對相關供應商前景樂觀。",
       "symbols": [
         "NVDA",
         "AMD"
@@ -668,7 +668,7 @@
     },
     {
       "theme": "儲存裝置",
-      "reason": "隨著數據量的爆炸性增長，對高效能儲存解決方案的需求不斷提升，推動儲存裝置類股表現。",
+      "reason": "隨著數據量爆炸式增長，對高效能、大容量儲存解決方案的需求不斷增加，帶動相關廠商表現。",
       "symbols": [
         "SNDK",
         "STX",
@@ -679,7 +679,7 @@
     },
     {
       "theme": "金融科技",
-      "reason": "數位支付和線上金融服務的普及，使得金融科技公司持續受到投資者關注。",
+      "reason": "數位支付和金融服務的創新持續吸引投資者關注，市場看好其顛覆傳統金融的潛力。",
       "symbols": [
         "CRCL",
         "SOFI",
@@ -689,18 +689,8 @@
       "avgChange": 2.1617108574589357
     },
     {
-      "theme": "半導體設備",
-      "reason": "全球半導體產業擴張，晶圓廠投資增加，帶動半導體設備供應商的業績成長。",
-      "symbols": [
-        "AMAT",
-        "KLAC"
-      ],
-      "count": 2,
-      "avgChange": 1.6112431306994426
-    },
-    {
       "theme": "銀行",
-      "reason": "在經濟環境相對穩定的情況下，銀行業的盈利能力和股息吸引力受到市場青睞。",
+      "reason": "在經濟環境相對穩定的情況下，銀行業的盈利能力和資產品質受到市場肯定。",
       "symbols": [
         "JPM",
         "C"
@@ -709,14 +699,22 @@
       "avgChange": 0.5861012980307723
     },
     {
-      "theme": "網路通訊設備",
-      "reason": "企業數位轉型和網路基礎設施升級的需求，支撐網路通訊設備公司的表現。",
+      "theme": "電商",
+      "reason": "全球電子商務市場持續擴張，尤其在新興市場的成長潛力，吸引資金關注。",
       "symbols": [
-        "CSCO",
-        "LITE"
+        "BABA"
       ],
-      "count": 2,
-      "avgChange": 2.3012369028333737
+      "count": 1,
+      "avgChange": 1.0707216123807788
+    },
+    {
+      "theme": "電動車",
+      "reason": "全球對電動車的需求持續增長，儘管競爭激烈，市場仍對領先品牌抱有期待。",
+      "symbols": [
+        "TSLA"
+      ],
+      "count": 1,
+      "avgChange": 0.2976263682203861
     }
   ],
   "newEntrants": [
@@ -725,14 +723,14 @@
       "name": "SK hynix Inc. American Depositary Shares When Issued",
       "theme": "記憶體",
       "changePercent": -1.1705882352941228,
-      "reason": "SK Hynix美國存託憑證在納斯達克首次上市，吸引市場關注。"
+      "reason": "SK海力士完成在美國發行265億美元ADR，創外國公司IPO紀錄。"
     },
     {
       "symbol": "CRCL",
       "name": "Circle Internet Group, Inc.",
       "theme": "加密貨幣",
       "changePercent": 4.9674654816695805,
-      "reason": "方舟投資（ARK Invest）近期加碼Circle，看好其長期增長潛力。"
+      "reason": "Circle Internet Group獲美國貨幣監理署核准，成立全國性信託銀行。"
     },
     {
       "symbol": "PG",
@@ -746,100 +744,100 @@
       "name": "Alibaba Group Holding Limited American Depositary Shares, each represents eight Ordinary Shares",
       "theme": "電商",
       "changePercent": 1.0707216123807788,
-      "reason": "「迷因股之王」Ryan Cohen大幅增持阿里巴巴股份，推動股價上漲。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "CRWD",
       "name": "CrowdStrike Holdings, Inc. Class A Common Stock",
       "theme": "資安",
       "changePercent": -5.65524193548387,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "股價大漲後投資人獲利了結，加上科技股回檔壓力。"
     },
     {
       "symbol": "SOFI",
       "name": "SoFi Technologies, Inc. Common Stock",
       "theme": "金融科技",
       "changePercent": 0.8592910848549953,
-      "reason": "SoFi推出以人工智能為主題的新ETF，吸引投資者關注。"
+      "reason": "技術指標持續偏多，短中期均線呈多頭排列，推動買盤。"
     },
     {
       "symbol": "NU",
       "name": "Nu Holdings Ltd.",
       "theme": "金融科技",
       "changePercent": 0.6583760058522301,
-      "reason": "方舟投資（ARK Invest）近期減持Nu Holdings，但仍受市場關注。"
+      "reason": "Nu Holdings在墨西哥獲准開展銀行業務，擴大拉丁美洲市場。"
     },
     {
       "symbol": "JNJ",
       "name": "Johnson & Johnson",
       "theme": "生技製藥",
       "changePercent": -0.8182169046700133,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "TD Cowen將目標價上調至300美元，此前為250美元。"
     },
     {
       "symbol": "MSTR",
       "name": "Strategy Inc Common Stock Class A",
       "theme": "比特幣/加密",
       "changePercent": 0.7988071147087017,
-      "reason": "MicroStrategy高層搶購自家新優先股，且持續增持比特幣。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "C",
       "name": "Citigroup Inc.",
       "theme": "銀行",
       "changePercent": 0.8741133481407171,
-      "reason": "沙特阿美選擇花旗集團安排石油碼頭股權出售，帶動市場關注。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點集中在AI晶片、記憶體和儲存裝置等半導體相關族群，以及部分科技巨頭。AI晶片股如Nvidia和AMD因雲端服務商持續擴大AI基礎設施投資而強勁反彈，市場對其新產品藍圖抱持期待。記憶體和儲存裝置個股如美光和SanDisk則在近期經歷修正後，部分資金回流，但整體產業仍面臨估值與景氣循環的疑慮。此外，特斯拉因Robotaxi服務擴張和機構買盤而受到關注，而微軟則宣布重金投入AI部門，顯示科技巨頭在AI領域的積極布局。",
+    "highlights": "本日美股成交重點顯示，資金主要集中在AI晶片和記憶體/儲存裝置兩大族群。Nvidia (NVDA) 和AMD (AMD) 等AI晶片股在經歷前期的獲利了結後，資金重新回流，帶動成交量上揚。記憶體與儲存裝置類股如Micron (MU) 和Sandisk (SNDK) 則受惠於AI數據洪流引發的強勁需求，以及分析師上調目標價的利多消息，成為市場交易的另一大焦點。此外，Meta (META) 在社群媒體領域的強勢表現也吸引了大量資金。",
     "eventsPast": [
       {
-        "title": "AI疑慮引爆晶片股賣壓，那斯達克重挫",
-        "detail": "7月7日，投資人擔憂AI晶片獲利能力受壓縮及市場可能出現供給過剩，導致包括英特爾、美光等眾多晶片股股價重挫，拖累那斯達克指數走跌。"
+        "title": "AI晶片股降溫，資金輪動至軟體與其他AI相關企業",
+        "detail": "7月初，美股AI族群資金開始輪動，半導體與AI供應鏈不再是唯一選擇，部分資金轉向AI相關軟體公司，但多數市場人士仍將此視為修正而非多頭結束。"
       },
       {
-        "title": "微軟重砸25億美元成立AI部門並裁員",
-        "detail": "7月10日，微軟宣布投入25億美元設立Microsoft Frontier Company，專注於企業級AI設計與營運，同時裁減約4,800個職位，顯示其營運資源正加速轉向AI。"
+        "title": "韓國記憶體股暴跌引發AI與記憶體族群連鎖殺盤",
+        "detail": "7月13日，韓國記憶體大廠SK hynix (SKHYV) 在美股掛牌後，於韓股市場暴跌約15%，三星電子亦重挫近11%，拖累全球記憶體及AI相關個股賣壓，包括Micron (MU)、Sandisk (SNDK) 等均受影響。"
       },
       {
-        "title": "AMD新一代伺服器處理器發展藍圖獲證實",
-        "detail": "7月10日，受惠於大型雲端服務商持續擴大AI基礎設施投資，AMD股價飆漲並創歷史新高，公司高層證實將於7月Advancing AI大會公布新一代伺服器處理器細節。"
+        "title": "美國科技巨頭發債融資，主要用於AI及資料中心基礎設施支出",
+        "detail": "今年以來，Amazon、Alphabet、Nvidia、Meta、Oracle及SpaceX等科技巨頭透過發債共融資約1820億美元，遠超去年同期，主要用於人工智慧及資料中心等基礎設施支出。"
       },
       {
-        "title": "特斯拉Robotaxi服務擴展至邁阿密",
-        "detail": "7月6日，特斯拉宣布其Robotaxi無人車叫車服務已在美國佛州邁阿密擴大，繼德州奧斯汀後再向更多城市推進，激勵股價走強。"
+        "title": "特斯拉Q2交車量超預期，但股價大跌",
+        "detail": "特斯拉 (TSLA) 公布2026年第二季交車量達48萬輛，大幅超越市場預期，創下歷來最強第二季紀錄，但股價在利多公布後重挫7.49%，創近一年來最大單日跌幅，市場認為已提前反映利多。"
       },
       {
-        "title": "英特爾放棄收購AI新創SambaNova",
-        "detail": "7月8日，英特爾取消收購AI推論加速新創SambaNova的談判，市場擔憂其錯失快速補強AI推論能力的機會，導致股價盤前重挫。"
+        "title": "川普政府終結聯邦電動車購車稅賦優惠，加州推出地方補貼",
+        "detail": "美國總統川普簽署立法，終結原本最高可達7,500美元的聯邦電動車購車稅賦抵減，但加州州長Newsom隨即宣布一項全新州級激勵方案，鎖定「第一次購買新電動車」的消費者，最高提供3,500美元現金回饋。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "7月",
-        "title": "AMD Advancing AI大會",
-        "detail": "超微(AMD)預計將於7月舉辦Advancing AI大會，屆時將釋出新一代伺服器處理器的更多具體技術規格。"
-      },
-      {
-        "date": "本週四",
-        "title": "SK Hynix美國上市",
-        "detail": "市場正密切關注南韓記憶體巨頭SK Hynix在美國市場的首次亮相，這可能會影響整個記憶體行業的走勢。"
-      },
-      {
-        "date": "月底",
-        "title": "科技巨頭第二季財報",
-        "detail": "Alphabet、Meta Platforms、亞馬遜、微軟、蘋果及輝達等科技巨頭將陸續公布第二季財報，市場將關注AI資本支出是否持續擴大以及AI晶片股能否重新獲得青睞。"
-      },
-      {
-        "date": "7/22",
-        "title": "特斯拉第二季財報電話會議",
-        "detail": "投資人將有機會在特斯拉的第二季財報電話會議上，向執行長馬斯克及管理團隊詢問更多有關Robotaxi與Optimus人形機器人的最新發展。"
+        "date": "本週二 (7/14)",
+        "title": "華爾街五大銀行財報揭幕",
+        "detail": "摩根大通、美國銀行、花旗集團、富國銀行及高盛五大華爾街巨頭將於盤前集中公佈第二季財報，市場對金融類股寄予厚望，預計投行業務復甦與交易收入將帶來顯著增長。"
       },
       {
         "date": "下週",
-        "title": "銀行股財報季揭幕",
-        "detail": "美國上市企業第二季財報季將由銀行股率先揭開序幕，市場將從中尋找經濟走勢的線索。"
+        "title": "銀行股財報季揭開序幕",
+        "detail": "美國上市企業第二季財報季將由銀行股率先揭開序幕，相關業績預計於下週公布。"
+      },
+      {
+        "date": "月底",
+        "title": "科技巨頭財報陸續公布",
+        "detail": "市場真正關注的焦點是月底陸續公布財報的科技巨頭，包括Alphabet (GOOGL)、Meta Platforms (META)、亞馬遜 (AMZN)、微軟 (MSFT)、蘋果 (AAPL) 及輝達 (NVDA)。"
+      },
+      {
+        "date": "7/22–7/23",
+        "title": "AMD Advancing AI大會",
+        "detail": "AMD將於7/22–7/23舉行的Advancing AI大會，預計推出採用台積電2奈米製程的新一代Zen 6處理器，強化處理效能及能源效率，有助AMD搶攻AI伺服器市場。"
+      },
+      {
+        "date": "本週四",
+        "title": "Sandisk公布2026財年第三季財報",
+        "detail": "Sandisk 將於週四盤後公布2026財年第三季財報，市場預估營收約46.9億美元，每股盈餘(EPS)約14.45美元，成為儲存類股後續能否延續強勢的關鍵觀察點。"
       }
     ]
   }
