@@ -60,7 +60,7 @@
       "dollarVolume": 13104359095.01828,
       "marketCap": 1442209019007.24,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "社群媒體/廣告",
+      "theme": "社群媒體/廣告科技",
       "isNew": false,
       "rankChange": -2,
       "streak": 85
@@ -125,7 +125,7 @@
       "dollarVolume": 9955006825.370825,
       "marketCap": 1026880598057.3999,
       "sector": "—",
-      "theme": "太空科技",
+      "theme": "太空",
       "isNew": false,
       "rankChange": 2,
       "streak": 20
@@ -177,7 +177,7 @@
       "dollarVolume": 7606859828.457463,
       "marketCap": 378897155340,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "企業軟體",
+      "theme": "資料庫軟體",
       "isNew": false,
       "rankChange": 1,
       "streak": 85
@@ -203,7 +203,7 @@
       "dollarVolume": 5635796594.487371,
       "marketCap": 2053018240000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "網路搜尋/雲端服務",
+      "theme": "搜尋引擎/雲端服務",
       "isNew": false,
       "rankChange": -3,
       "streak": 85
@@ -242,7 +242,7 @@
       "dollarVolume": 4678236449.8765745,
       "marketCap": 135393416200,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "行動應用廣告",
+      "theme": "行動廣告",
       "isNew": false,
       "rankChange": 21,
       "streak": 10
@@ -268,7 +268,7 @@
       "dollarVolume": 3726631107.9815207,
       "marketCap": 1913255520000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "網路搜尋/雲端服務",
+      "theme": "搜尋引擎/雲端服務",
       "isNew": false,
       "rankChange": -4,
       "streak": 85
@@ -281,7 +281,7 @@
       "dollarVolume": 3557720215.323676,
       "marketCap": 593761228173,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "數位支付",
+      "theme": "支付服務",
       "isNew": false,
       "rankChange": 24,
       "streak": 11
@@ -320,7 +320,7 @@
       "dollarVolume": 2874505281.9489827,
       "marketCap": 59762070000,
       "sector": "COMMUNICATIONS EQUIPMENT, NEC",
-      "theme": "光通訊元件",
+      "theme": "光通訊",
       "isNew": false,
       "rankChange": 1,
       "streak": 3
@@ -359,7 +359,7 @@
       "dollarVolume": 2615413335.051101,
       "marketCap": 310883255322.24,
       "sector": "SERVICES-VIDEO TAPE RENTAL",
-      "theme": "影音串流",
+      "theme": "串流媒體",
       "isNew": false,
       "rankChange": -5,
       "streak": 29
@@ -372,7 +372,7 @@
       "dollarVolume": 2502710386.072038,
       "marketCap": 10787191584.47,
       "sector": "AIR TRANSPORTATION, SCHEDULED",
-      "theme": "航空運輸",
+      "theme": "航空",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -619,7 +619,7 @@
       "dollarVolume": 1858928913.753122,
       "marketCap": 429027614405.01,
       "sector": "CONSTRUCTION MACHINERY & EQUIP",
-      "theme": "重型機械",
+      "theme": "工業機械",
       "isNew": false,
       "rankChange": -11,
       "streak": 18
@@ -652,25 +652,25 @@
     }
   ],
   "asOf": "2026-07-13T20:00:00.000Z",
-  "generatedAt": "2026-07-14T07:17:30.425Z",
+  "generatedAt": "2026-07-15T02:05:20.777Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型需求持續推動雲端軟體服務的成長，市場對其營收穩定性和獲利能力抱持樂觀。",
+      "reason": "企業數位轉型需求持續，雲端軟體服務商的訂閱制模式帶來穩定營收增長，市場對其獲利能力抱持樂觀態度。",
       "symbols": [
-        "MSFT",
-        "CRM",
         "INTU",
-        "NOW"
+        "CRM",
+        "NOW",
+        "MSFT"
       ],
       "count": 4,
-      "avgChange": 3.7612726589162007
+      "avgChange": 3.761272658916201
     },
     {
       "theme": "零售百貨",
-      "reason": "在通膨壓力下，消費者轉向大型零售商尋求性價比高的商品，帶動相關業者業績表現。",
+      "reason": "在通膨壓力下，消費者轉向更具成本效益的零售通路，大型量販店和折扣零售商表現穩健。",
       "symbols": [
         "COST",
         "WMT"
@@ -679,19 +679,8 @@
       "avgChange": 0.941829013986319
     },
     {
-      "theme": "網路搜尋/雲端服務",
-      "reason": "儘管面臨競爭，網路巨頭在廣告和雲端服務領域的市場領導地位仍為其股價提供支撐。",
-      "symbols": [
-        "AMZN",
-        "GOOGL",
-        "GOOG"
-      ],
-      "count": 3,
-      "avgChange": -0.5775206489981707
-    },
-    {
-      "theme": "數位支付",
-      "reason": "全球數位支付趨勢不減，電子交易量的增長持續為支付處理公司帶來穩健營收。",
+      "theme": "金融服務",
+      "reason": "市場對經濟前景的預期改善，以及利率環境的變化，有利於銀行和證券公司的營運表現。",
       "symbols": [
         "V"
       ],
@@ -699,8 +688,17 @@
       "avgChange": 2.515975585293857
     },
     {
+      "theme": "電子商務/雲端服務",
+      "reason": "電子商務持續滲透，加上雲端服務需求穩健，支撐了相關公司的營收成長。",
+      "symbols": [
+        "AMZN"
+      ],
+      "count": 1,
+      "avgChange": 0.8029673106709052
+    },
+    {
       "theme": "消費性電子",
-      "reason": "市場對新產品發布和生態系統整合的期待，支撐了主要消費性電子品牌的股價。",
+      "reason": "儘管整體市場面臨挑戰，部分消費性電子巨頭仍憑藉其品牌影響力和產品創新維持市場份額。",
       "symbols": [
         "AAPL"
       ],
@@ -708,13 +706,13 @@
       "avgChange": 0.6311049092984933
     },
     {
-      "theme": "石油與天然氣",
-      "reason": "全球能源需求維持高檔，加上地緣政治因素影響，推升原油價格，利好上游能源公司。",
+      "theme": "串流媒體",
+      "reason": "串流媒體平台持續推出新內容並拓展用戶基礎，市場對其長期增長潛力仍有期待。",
       "symbols": [
-        "XOM"
+        "NFLX"
       ],
       "count": 1,
-      "avgChange": 4.053859447004606
+      "avgChange": 0.6269592476488943
     }
   ],
   "newEntrants": [
@@ -723,78 +721,129 @@
       "name": "SK hynix Inc. American Depositary Shares",
       "theme": "記憶體",
       "changePercent": -0.17690997248067766,
-      "reason": "SK Hynix ADRs在納斯達克首次上市，受AI記憶體需求激增帶動。"
+      "reason": "SK hynix的美國存託憑證（ADR）首次在納斯達克上市，吸引大量投資者需求。"
     },
     {
       "symbol": "XOM",
       "name": "ExxonMobil Holdings Corporation",
       "theme": "石油與天然氣",
       "changePercent": 4.053859447004606,
-      "reason": "中東地緣政治緊張推升油價，分析師看好第二季財報。"
+      "reason": "油價飆升預警及股東批准公司遷址德州，推動股價上漲。"
     },
     {
       "symbol": "AAL",
       "name": "American Airlines Group Inc.",
-      "theme": "航空運輸",
+      "theme": "航空",
       "changePercent": -3.7758112094395315,
-      "reason": "Melius Research降評至持有，但調升目標價，市場對成本與獲利能力擔憂。"
+      "reason": "宣布開通新航線，但燃料成本上升和債務風險仍受關注。"
     },
     {
       "symbol": "QCOM",
       "name": "Qualcomm Inc",
       "theme": "行動通訊晶片",
       "changePercent": -2.738422499471351,
-      "reason": "TD Cowen調升目標價至225美元，維持買入評級。"
+      "reason": "CES 2026展示AI和汽車領域擴張，以及即將發布的財報受關注。"
     },
     {
       "symbol": "CRM",
       "name": "Salesforce, Inc.",
       "theme": "雲端軟體 SaaS",
       "changePercent": 4.837129561596869,
-      "reason": "Agentforce AI平台成功變現，企業IT支出穩定，分析師調升目標價。"
+      "reason": "受惠於AI驅動的Agentforce產品增長及250億美元庫藏股計畫。"
     },
     {
       "symbol": "ALAB",
       "name": "Astera Labs, Inc. Common Stock",
       "theme": "資料中心互連",
       "changePercent": -12.330193476523721,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "受惠於AI基礎設施強勁需求及2026年第一季營收創紀錄。"
     },
     {
       "symbol": "TXN",
       "name": "Texas Instruments Incorporated",
       "theme": "類比IC",
       "changePercent": -4.138573171514797,
-      "reason": "TD Cowen調升目標價至360美元，維持買入評級。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "WMT",
       "name": "Walmart Inc. Common Stock",
       "theme": "零售百貨",
       "changePercent": 0.7726075504828757,
-      "reason": "Walmart+會員成長與數位參與度提高，被視為防禦型零售股。"
+      "reason": "分析師上調目標價，看好AI投資及強勁的假日銷售表現。"
     },
     {
       "symbol": "INTU",
       "name": "Intuit Inc",
       "theme": "雲端軟體 SaaS",
       "changePercent": 5.382601105615366,
-      "reason": "近期財報疲軟，TurboTax客戶流失，面臨證券詐欺調查。"
+      "reason": "AI驅動的2026年第一季財報優於預期，並重申全年財測。"
     },
     {
       "symbol": "GS",
       "name": "Goldman Sachs Group Inc.",
       "theme": "金融服務",
       "changePercent": -0.8785230955855854,
-      "reason": "第二季財報公布在即，市場預期表現強勁，但投資人轉趨謹慎。"
+      "reason": "多家華爾街投行上調目標價，市場對其近期表現樂觀。"
     },
     {
       "symbol": "NOW",
       "name": "SERVICENOW, INC.",
       "theme": "雲端軟體 SaaS",
       "changePercent": 3.2958871042614537,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "儘管財報優於預期，但股價持續下跌，公司宣布50億美元庫藏股計畫。"
     }
   ],
-  "marketBriefing": null
+  "marketBriefing": {
+    "highlights": "本日美股成交重點聚焦於記憶體和AI晶片類股的劇烈波動，資金在這些高成交量的個股中快速流動。市場故事主要圍繞著對AI晶片獲利能力和供給過剩的擔憂，導致部分晶片股面臨獲利了結賣壓，例如美光科技和Sandisk。同時，地緣政治緊張局勢，特別是美伊衝突升溫，也加劇了市場對半導體供應鏈的擔憂，進一步拖累了晶片股的表現。然而，部分雲端軟體SaaS個股則呈現反彈，顯示資金在不同科技板塊間進行輪動。",
+    "eventsPast": [
+      {
+        "title": "AI疑慮引爆晶片股賣壓",
+        "detail": "7月7日，投資人擔憂AI晶片獲利能力恐遭壓縮及市場可能出現供給過剩，導致半導體與記憶體股遭遇大規模拋售，那斯達克100指數大跌約1.6%。"
+      },
+      {
+        "title": "美伊地緣政治緊張局勢升溫",
+        "detail": "7月13日，美國總統川普宣布恢復對伊朗海運封鎖，引發原油期貨價格大漲，加劇通膨擔憂，並導致美股主要指數全面收低，其中半導體類股受創最深。"
+      },
+      {
+        "title": "特斯拉Robotaxi服務拓展至邁阿密",
+        "detail": "7月6日，特斯拉宣布其Robotaxi服務已於上週五正式在邁阿密推出，帶動特斯拉股價上漲。"
+      },
+      {
+        "title": "SpaceX納入那斯達克100指數後股價波動",
+        "detail": "SpaceX於7月2日被納入那斯達克100指數，上市後股價劇烈震盪，近期連續兩天低於IPO發行價150美元。"
+      },
+      {
+        "title": "美國6月CPI數據超預期降溫",
+        "detail": "7月15日，美國6月CPI年增率降至3.5%，低於市場預期的3.8%，主要受能源價格回落影響，降低了Fed在7月升息的急迫性。"
+      }
+    ],
+    "eventsUpcoming": [
+      {
+        "date": "7/15",
+        "title": "多間公司發布第二季財報",
+        "detail": "包括嬌生 (JNJ)、摩根士丹利 (MS)、貝萊德 (BLK) 等公司將於今日發布第二季財報。"
+      },
+      {
+        "date": "7/21",
+        "title": "通用汽車 (GM) 第二季財報",
+        "detail": "通用汽車預計將於7月21日發布第二季財報，預期每股獲利為3.18美元。"
+      },
+      {
+        "date": "7/22-23",
+        "title": "AMD舉辦2026年度Advancing AI大會",
+        "detail": "AMD將舉辦年度AI大會，可能牽動AI全球供應鏈走勢。"
+      },
+      {
+        "date": "7/28",
+        "title": "福特 (F) 第二季財報",
+        "detail": "福特預計將於7月28日發布第二季財報，預計調整後每股盈利為0.34美元。"
+      },
+      {
+        "date": "7/28-29",
+        "title": "聯準會FOMC利率決策會議",
+        "detail": "美國聯準會將召開年中第五場FOMC會議，市場預期本次維持利率不變的機率較高，但9月是否升息仍有分歧。"
+      }
+    ]
+  }
 }
