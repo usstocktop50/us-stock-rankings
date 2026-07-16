@@ -99,7 +99,7 @@
       "dollarVolume": 10836704753.266233,
       "marketCap": 1451673975491.52,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "社群媒體與廣告",
+      "theme": "社群媒體",
       "isNew": false,
       "rankChange": -3,
       "streak": 86
@@ -164,7 +164,7 @@
       "dollarVolume": 7443089041.376238,
       "marketCap": 2662277014315.64,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電子商務與雲端",
+      "theme": "電商與雲端服務",
       "isNew": false,
       "rankChange": -1,
       "streak": 86
@@ -177,7 +177,7 @@
       "dollarVolume": 6805907641.84377,
       "marketCap": 368527459740,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "資料庫與雲端",
+      "theme": "企業軟體與服務",
       "isNew": false,
       "rankChange": 0,
       "streak": 86
@@ -203,7 +203,7 @@
       "dollarVolume": 6459831413.5710335,
       "marketCap": 2093786240000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "搜尋引擎與雲端",
+      "theme": "網路服務",
       "isNew": false,
       "rankChange": 0,
       "streak": 86
@@ -294,7 +294,7 @@
       "dollarVolume": 4261273582.743584,
       "marketCap": 336308459940,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "投資銀行",
+      "theme": "金融服務",
       "isNew": false,
       "rankChange": 24,
       "streak": 2
@@ -307,7 +307,7 @@
       "dollarVolume": 3942014225.826709,
       "marketCap": 1949592480000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "搜尋引擎與雲端",
+      "theme": "網路服務",
       "isNew": false,
       "rankChange": -3,
       "streak": 86
@@ -372,7 +372,7 @@
       "dollarVolume": 3288570538.4357433,
       "marketCap": 148642685245.6,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "個人電腦與伺服器",
+      "theme": "電腦硬體",
       "isNew": false,
       "rankChange": 15,
       "streak": 11
@@ -398,7 +398,7 @@
       "dollarVolume": 3047877682.8178725,
       "marketCap": 1085394640071.24,
       "sector": "PHARMACEUTICAL PREPARATIONS",
-      "theme": "減肥藥 GLP-1",
+      "theme": "生技製藥",
       "isNew": false,
       "rankChange": 0,
       "streak": 38
@@ -411,7 +411,7 @@
       "dollarVolume": 3007876105.124322,
       "marketCap": 63391440000,
       "sector": "COMMUNICATIONS EQUIPMENT, NEC",
-      "theme": "光通訊元件",
+      "theme": "光通訊",
       "isNew": false,
       "rankChange": -7,
       "streak": 4
@@ -515,7 +515,7 @@
       "dollarVolume": 2366044930.3453283,
       "marketCap": 590889929990.64,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "支付處理",
+      "theme": "支付服務",
       "isNew": false,
       "rankChange": -18,
       "streak": 12
@@ -593,7 +593,7 @@
       "dollarVolume": 2198960631.8414173,
       "marketCap": 408776587587,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售百貨",
+      "theme": "零售",
       "isNew": false,
       "rankChange": -5,
       "streak": 4
@@ -619,7 +619,7 @@
       "dollarVolume": 2169230543.0829077,
       "marketCap": 134404798539,
       "sector": "ORTHOPEDIC, PROSTHETIC & SURGICAL APPLIANCES & SUPPLIES",
-      "theme": "醫療器材",
+      "theme": "醫療設備",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -645,20 +645,30 @@
       "dollarVolume": 2133809094.6879756,
       "marketCap": 53272295369.28,
       "sector": "—",
-      "theme": "數位銀行",
+      "theme": "金融科技",
       "isNew": false,
       "rankChange": 0,
       "streak": 3
     }
   ],
   "asOf": "2026-07-14T20:00:00.000Z",
-  "generatedAt": "2026-07-15T07:19:27.925Z",
+  "generatedAt": "2026-07-16T02:04:42.031Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
+      "theme": "記憶體",
+      "reason": "AI應用對高頻寬記憶體(HBM)需求激增，帶動整體記憶體產業景氣復甦。",
+      "symbols": [
+        "MU",
+        "SKHY"
+      ],
+      "count": 2,
+      "avgChange": 16.10397336078421
+    },
+    {
       "theme": "半導體設備",
-      "reason": "AI與高效能運算需求持續增長，帶動半導體製造設備訂單強勁。",
+      "reason": "全球半導體產業擴張，對先進製程設備的需求持續增長。",
       "symbols": [
         "ASML",
         "AMAT",
@@ -668,18 +678,18 @@
       "avgChange": 3.769209605924489
     },
     {
-      "theme": "記憶體",
-      "reason": "AI應用對高頻寬記憶體(HBM)需求激增，推動記憶體產業復甦。",
+      "theme": "AI 晶片",
+      "reason": "人工智慧技術快速發展，對高效能AI晶片的需求持續旺盛。",
       "symbols": [
-        "MU",
-        "SKHY"
+        "NVDA",
+        "AMD"
       ],
       "count": 2,
-      "avgChange": 16.10397336078421
+      "avgChange": 3.317219475736773
     },
     {
       "theme": "儲存裝置",
-      "reason": "數據中心擴建與AI數據儲存需求增加，帶動儲存裝置相關企業表現。",
+      "reason": "數據中心擴建和AI相關應用推動儲存需求增加，利好儲存裝置供應商。",
       "symbols": [
         "SNDK",
         "STX",
@@ -689,35 +699,24 @@
       "avgChange": 2.8194720254006147
     },
     {
-      "theme": "AI 晶片",
-      "reason": "全球AI軍備競賽持續升溫，對AI運算晶片的需求維持高檔。",
+      "theme": "網路服務",
+      "reason": "數位廣告和雲端服務的穩定增長，支撐了大型網路公司的表現。",
       "symbols": [
-        "NVDA",
-        "AMD"
+        "GOOGL",
+        "GOOG"
       ],
       "count": 2,
-      "avgChange": 3.317219475736773
+      "avgChange": 1.9424903797652981
     },
     {
       "theme": "半導體基礎設施",
-      "reason": "數據傳輸與網路基礎設施升級，對相關半導體元件需求旺盛。",
+      "reason": "數據中心和網路基礎設施的升級需求，推動相關半導體元件的需求。",
       "symbols": [
         "AVGO",
         "MRVL"
       ],
       "count": 2,
       "avgChange": 1.787348355514316
-    },
-    {
-      "theme": "銀行",
-      "reason": "市場對經濟前景的樂觀情緒，以及潛在的利率政策變化，提振金融股表現。",
-      "symbols": [
-        "JPM",
-        "GS",
-        "BAC"
-      ],
-      "count": 3,
-      "avgChange": 4.45912511602546
     }
   ],
   "newEntrants": [
@@ -726,114 +725,114 @@
       "name": "International Business Machines Corporation",
       "theme": "企業軟體與服務",
       "changePercent": -25.207593977190513,
-      "reason": "第二季財報初步結果遜於預期，客戶轉向AI硬體支出。"
+      "reason": "股價下跌可能受獲利回吐和對其估值重新評估影響，儘管之前受量子計算投資激勵上漲。"
     },
     {
       "symbol": "C",
       "name": "Citigroup Inc.",
       "theme": "銀行",
       "changePercent": -5.287470684386324,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "銀行股普遍受地緣政治緊張及財報季影響，花旗集團將於今日發布財報。"
     },
     {
       "symbol": "WFC",
       "name": "Wells Fargo & Co.",
       "theme": "銀行",
       "changePercent": -2.714725675829811,
-      "reason": "摩根大通上調評級，預期第二季財報交易收入強勁。"
+      "reason": "銀行股普遍受地緣政治緊張及財報季影響，富國銀行將於今日發布財報。"
     },
     {
       "symbol": "BAC",
       "name": "Bank of America Corporation",
       "theme": "銀行",
       "changePercent": 1.8823529411764663,
-      "reason": "第二季財報優於預期，交易和投行活動強勁。"
+      "reason": "銀行股普遍受地緣政治緊張及財報季影響，美國銀行將於今日發布財報。"
     },
     {
       "symbol": "CRWD",
       "name": "CrowdStrike Holdings, Inc. Class A Common Stock",
       "theme": "資安",
       "changePercent": 12.144111542759827,
-      "reason": "IBM財報預警引發資安股輪動，分析師上調目標價。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "ARM",
       "name": "Arm Holdings plc American Depositary Shares",
       "theme": "半導體IP",
       "changePercent": -5.960065554031905,
-      "reason": "HSBC下調評級至持有，擔憂晶圓代工產能限制。"
+      "reason": "台積電出售其剩餘Arm持股，導致Arm股價下跌。"
     },
     {
       "symbol": "JNJ",
       "name": "Johnson & Johnson",
       "theme": "生技製藥",
       "changePercent": -1.5207355394343747,
-      "reason": "第一季財報強勁並上調全年財測，新產品線表現佳。"
+      "reason": "公司上調全年財測，但克隆氏症藥物Stelara銷售疲軟引發投資者擔憂。"
     },
     {
       "symbol": "UNH",
       "name": "UNITEDHEALTH GROUP INCORPORATED (Delaware)",
       "theme": "醫療保險",
       "changePercent": -0.9089002307208225,
-      "reason": "CMS上調2027年醫療保險優勢計畫報銷費率。"
+      "reason": "醫療保險公司股價上漲，因政府提高醫療保險優惠計畫支付，分析師上調目標價。"
     },
     {
       "symbol": "ISRG",
       "name": "Intuitive Surgical Inc.",
-      "theme": "醫療器材",
+      "theme": "醫療設備",
       "changePercent": -6.784240518765968,
-      "reason": "即將公布第二季財報，市場預期程序量成長強勁。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI相關硬體產業的強勁表現，特別是記憶體、儲存裝置和AI晶片族群。資金主要受到企業將IT預算大幅轉移至AI基礎建設硬體的趨勢所驅動，導致這些領域的個股成交量顯著放大。市場正在交易AI軍備競賽的故事，認為AI基礎設施的崛起正在重塑市場格局，並預期相關企業的獲利將持續增長。",
+    "highlights": "本日美股成交重點集中在記憶體、AI晶片、儲存裝置及半導體基礎設施等科技類股。資金主要受到AI需求持續強勁、美國本土製造政策推動以及記憶體價格上漲等利多消息帶動。其中，美光科技（MU）和SK海力士（SKHY）因記憶體產業的「超級週期」敘事及SK海力士赴美上市而表現亮眼，而IBM則因財測預警導致股價大跌，資金流向AI基礎設施相關硬體。",
     "eventsPast": [
       {
-        "title": "IBM財報預警，傳統軟體與基礎設施業務受衝擊",
-        "detail": "IBM公布第二季初步財報，營收與獲利均低於市場預期，主因企業客戶將預算轉向AI基礎設施硬體，導致傳統軟體與基礎設施業務表現不佳，股價暴跌25.21%。"
+        "title": "SK海力士美國存託憑證（ADR）上市",
+        "detail": "全球HBM記憶體龍頭之一的SK海力士於7月10日在那斯達克上市ADR，成功募資265億美元，刷新外資IPO歷史紀錄，顯示市場對AI時代記憶體需求的強勁信心。"
       },
       {
-        "title": "SK海力士獲投行看好，股價飆升",
-        "detail": "Barclays對SK海力士給予「增持」評級和330美元的目標價，加上其近期在美國上市的美國存託憑證表現優於韓國股票，帶動SK海力士股價大漲27.29%。"
+        "title": "美光科技加大美國本土投資",
+        "detail": "美光科技宣布將2035年前在美國的投資金額從2,000億美元調高至2,500億美元，以應對AI時代記憶體需求的激增。"
       },
       {
-        "title": "美光科技上調美國投資金額，股價上漲",
-        "detail": "美光科技宣布將2035年前在美國的投資金額從2,000億美元上調至2,500億美元，以應對AI時代記憶體需求的激增，刺激股價上漲4.92%。"
+        "title": "IBM財測預警導致股價暴跌",
+        "detail": "IBM提前公布第二季初步財報，營收與獲利雙雙低於市場預期，並坦言企業客戶將資本支出轉向AI基礎設施相關硬體，導致股價暴跌25.21%。"
       },
       {
-        "title": "Broadcom與Apple擴大合作，推動美國製造",
-        "detail": "Broadcom與Apple簽訂了價值高達300億美元的美國製造晶片合約，將在美國境內生產超過150億顆晶片，並為Apple提供客製化ASIC晶片，被解讀為雙方合作打造專用AI伺服器晶片。"
+        "title": "美國6月CPI數據公布",
+        "detail": "美國於7月14日公布6月消費者物價指數（CPI），數據降溫使市場對聯準會升息的預期降低。"
       },
       {
-        "title": "美國6月CPI降溫，聯準會升息預期降溫",
-        "detail": "美國6月消費者物價指數(CPI)年增率降至3.5%，優於市場預期，使市場對聯準會下半年升息的預期明顯降溫，帶動美股三大指數反彈。"
+        "title": "美光科技入股環球晶圓",
+        "detail": "美光科技入股台灣矽晶片製造商環球晶圓，以支持其在美國德州的大型晶圓製造設施，顯示AI算力瓶頸正從晶片擴展到矽晶片供給。"
       }
     ],
     "eventsUpcoming": [
       {
         "date": "7/15",
-        "title": "美國6月PPI",
-        "detail": "美國勞工部將公布6月生產者物價指數(PPI)，此數據將提供更多關於通膨壓力的線索。"
+        "title": "美國6月PPI數據公布",
+        "detail": "美國將於7月15日公布6月生產者物價指數（PPI），此為消費者物價的領先指標，將揭示企業端是否持續面臨成本轉嫁壓力。"
+      },
+      {
+        "date": "7/15",
+        "title": "聯準會主席沃什赴國會作證",
+        "detail": "聯準會主席凱文·沃什將於7月15日在國會發表半年度貨幣政策證詞，市場將關注其對7月底利率會議及下半年政策方向的最新表態。"
+      },
+      {
+        "date": "7/15",
+        "title": "艾司摩爾（ASML）公布第二季財報",
+        "detail": "半導體設備龍頭ASML將於7月15日公布第二季財報，其財報與展望將是全球半導體及設備產業景氣的重要風向球。"
       },
       {
         "date": "7/16",
-        "title": "美國6月零售銷售月率",
-        "detail": "美國商務部將公布6月零售銷售月率，此數據將反映美國民間消費動能。"
+        "title": "台積電（TSM）公布第二季財報",
+        "detail": "半導體代工巨頭台積電將於7月16日公布第二季財報，市場普遍視其財報與展望為全球半導體景氣的重要風向球。"
       },
       {
-        "date": "7/22-7/23",
-        "title": "AMD舉辦2026年度Advancing AI大會",
-        "detail": "AMD將舉辦其年度Advancing AI大會，預計將公布與AI相關的最新產品和技術進展，可能對AI晶片族群產生影響。"
-      },
-      {
-        "date": "7/30",
-        "title": "聯準會FOMC公布利率決議及新聞發布會",
-        "detail": "聯準會聯邦公開市場委員會(FOMC)將公布最新的利率決議，並舉行新聞發布會，市場將密切關注其對未來貨幣政策的展望。"
-      },
-      {
-        "date": "7/30",
-        "title": "美國6月PCE物價指數",
-        "detail": "美國商務部將公布6月個人消費支出(PCE)物價指數，這是聯準會偏好的通膨指標，將影響市場對未來利率政策的預期。"
+        "date": "7/16",
+        "title": "美國6月零售銷售數據公布",
+        "detail": "美國將於7月16日公布6月零售銷售數據，此數據能反映佔GDP三分之二的經濟支柱，將是觀察美國消費力道的重要指標。"
       }
     ]
   }
