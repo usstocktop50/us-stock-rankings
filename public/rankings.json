@@ -99,7 +99,7 @@
       "dollarVolume": 12859531714.025625,
       "marketCap": 1496187819560.2798,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "社群媒體/廣告",
+      "theme": "社群媒體",
       "isNew": false,
       "rankChange": 0,
       "streak": 87
@@ -138,7 +138,7 @@
       "dollarVolume": 11511467387.884222,
       "marketCap": 2742632621802.56,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電子商務/雲端服務",
+      "theme": "電子商務",
       "isNew": false,
       "rankChange": 2,
       "streak": 87
@@ -151,7 +151,7 @@
       "dollarVolume": 10445676192.867666,
       "marketCap": 2160238080000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "搜尋引擎/雲端服務",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": 4,
       "streak": 87
@@ -190,7 +190,7 @@
       "dollarVolume": 7460614620.68798,
       "marketCap": 2019865760000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "搜尋引擎/雲端服務",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": 9,
       "streak": 87
@@ -203,7 +203,7 @@
       "dollarVolume": 7135919151.879878,
       "marketCap": 2175622113520,
       "sector": "—",
-      "theme": "晶圓代工",
+      "theme": "半導體製造",
       "isNew": false,
       "rankChange": 2,
       "streak": 87
@@ -229,7 +229,7 @@
       "dollarVolume": 6404566387.611485,
       "marketCap": 381633602790,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "企業軟體/資料庫",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": -4,
       "streak": 87
@@ -242,7 +242,7 @@
       "dollarVolume": 6377920258.4467945,
       "marketCap": 198503771136,
       "sector": "COMPUTER & OFFICE EQUIPMENT",
-      "theme": "企業IT服務",
+      "theme": "企業軟體",
       "isNew": false,
       "rankChange": -15,
       "streak": 2
@@ -268,7 +268,7 @@
       "dollarVolume": 5317857730.338335,
       "marketCap": 134068853755.2,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "個人電腦/伺服器",
+      "theme": "PC/伺服器",
       "isNew": false,
       "rankChange": 8,
       "streak": 12
@@ -333,7 +333,7 @@
       "dollarVolume": 3732938982.1106844,
       "marketCap": 929549306018.3801,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "大型銀行",
+      "theme": "金融服務",
       "isNew": false,
       "rankChange": -7,
       "streak": 10
@@ -359,7 +359,7 @@
       "dollarVolume": 3494457082.388326,
       "marketCap": 307122501635.83997,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "大數據分析",
+      "theme": "數據分析",
       "isNew": false,
       "rankChange": -13,
       "streak": 87
@@ -411,7 +411,7 @@
       "dollarVolume": 3122836221.269992,
       "marketCap": 339869199511.47,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "投資銀行",
+      "theme": "金融服務",
       "isNew": false,
       "rankChange": -9,
       "streak": 3
@@ -489,7 +489,7 @@
       "dollarVolume": 2670270879.049525,
       "marketCap": 437079018195.09,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "大型銀行",
+      "theme": "金融服務",
       "isNew": false,
       "rankChange": -5,
       "streak": 2
@@ -515,7 +515,7 @@
       "dollarVolume": 2600756479.7563434,
       "marketCap": 68090173121.84,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "燃料電池",
+      "theme": "再生能源",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -528,7 +528,7 @@
       "dollarVolume": 2524907530.370378,
       "marketCap": 52853428143.36,
       "sector": "—",
-      "theme": "數位銀行",
+      "theme": "金融科技",
       "isNew": false,
       "rankChange": 9,
       "streak": 4
@@ -567,7 +567,7 @@
       "dollarVolume": 2502097759.04645,
       "marketCap": 267797182619.94,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "大型銀行",
+      "theme": "金融服務",
       "isNew": false,
       "rankChange": -16,
       "streak": 2
@@ -580,7 +580,7 @@
       "dollarVolume": 2479252179.5271683,
       "marketCap": 360488444925.35004,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "投資銀行",
+      "theme": "金融服務",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -606,7 +606,7 @@
       "dollarVolume": 2429967926.390705,
       "marketCap": 230065275459.94998,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "大型銀行",
+      "theme": "金融服務",
       "isNew": false,
       "rankChange": -25,
       "streak": 2
@@ -632,7 +632,7 @@
       "dollarVolume": 2419119847.513331,
       "marketCap": 91413480006.92,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "線上券商",
+      "theme": "金融科技",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-07-15T20:00:00.000Z",
-  "generatedAt": "2026-07-16T05:35:22.110Z",
+  "generatedAt": "2026-07-16T07:28:29.809Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "數位支付",
-      "reason": "市場對數位支付平台未來營收成長和獲利能力改善抱持樂觀態度，特別是近期財報或業務發展傳出利好消息。",
+      "reason": "市場對數位支付公司的營收增長和盈利能力預期樂觀，尤其是在電子商務持續發展的背景下。",
       "symbols": [
         "PYPL"
       ],
@@ -667,16 +667,17 @@
     },
     {
       "theme": "電子商務",
-      "reason": "全球電子商務市場持續擴張，投資者看好主要平台在用戶增長和市場份額上的表現。",
+      "reason": "全球電商市場持續擴張，主要平台受惠於消費支出增長和新興市場的潛力。",
       "symbols": [
-        "BABA"
+        "BABA",
+        "AMZN"
       ],
-      "count": 1,
-      "avgChange": 4.780982905982911
+      "count": 2,
+      "avgChange": 3.899643337916099
     },
     {
       "theme": "消費性電子",
-      "reason": "市場預期新產品週期或服務收入增長將帶動營收，尤其是在關鍵市場的表現。",
+      "reason": "新款產品發布和市場對未來銷售的樂觀預期，推動了消費性電子龍頭股價上漲。",
       "symbols": [
         "AAPL"
       ],
@@ -684,32 +685,34 @@
       "avgChange": 4.014482627199386
     },
     {
-      "theme": "搜尋引擎/雲端服務",
-      "reason": "雲端運算和AI技術的持續發展，推動了相關服務的需求增長，市場對其未來盈利能力充滿信心。",
+      "theme": "雲端服務",
+      "reason": "企業數位轉型需求持續，雲端運算和相關服務提供商的業績表現強勁。",
       "symbols": [
         "GOOGL",
-        "GOOG"
+        "GOOG",
+        "NBIS"
       ],
-      "count": 2,
-      "avgChange": 3.3891377631981405
+      "count": 3,
+      "avgChange": 3.1902648203037303
     },
     {
-      "theme": "社群媒體/廣告",
-      "reason": "數位廣告市場復甦，加上公司在AI和元宇宙領域的投資潛力，吸引了資金關注。",
+      "theme": "雲端軟體 SaaS",
+      "reason": "企業對效率提升和成本優化的需求，持續推動SaaS解決方案的採用。",
+      "symbols": [
+        "MSFT",
+        "ORCL"
+      ],
+      "count": 2,
+      "avgChange": 3.1680403625863462
+    },
+    {
+      "theme": "社群媒體",
+      "reason": "廣告收入增長和用戶參與度提升，支撐了社群媒體平台的市場表現。",
       "symbols": [
         "META"
       ],
       "count": 1,
       "avgChange": 3.0663802493041246
-    },
-    {
-      "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型需求不減，雲端軟體服務的訂閱模式穩定增長，市場看好其長期發展。",
-      "symbols": [
-        "MSFT"
-      ],
-      "count": 1,
-      "avgChange": 2.7797261839815004
     }
   ],
   "newEntrants": [
@@ -718,107 +721,92 @@
       "name": "PayPal Holdings, Inc. Common Stock",
       "theme": "數位支付",
       "changePercent": 17.204982056153696,
-      "reason": "Stripe和Advent International提出以每股60.50美元收購PayPal的要約，溢價約28%。"
+      "reason": "Stripe和Advent International提出以每股60.50美元收購PayPal，溢價約28%。"
     },
     {
       "symbol": "GEV",
       "name": "GE Vernova Inc.",
       "theme": "電力基礎建設",
       "changePercent": -1.0065571617527058,
-      "reason": "GE Vernova宣布2025-2028年將投資110億美元，並受惠於AI數據中心電力需求。"
+      "reason": "受惠於AI資料中心和電網現代化需求，以及分析師看好其電力業務。"
     },
     {
       "symbol": "BE",
       "name": "Bloom Energy Corporation",
-      "theme": "燃料電池",
+      "theme": "再生能源",
       "changePercent": -1.6516023007395277,
-      "reason": "儘管遭遇做空報告質疑供應鏈，但分析師仍看好其AI數據中心電力需求前景。"
+      "reason": "公司駁斥做空報告的指控，並強調其供應鏈足以支持燃料電池生產。"
     },
     {
       "symbol": "BRK.B",
       "name": "BERKSHIRE HATHAWAY Class B",
       "theme": "多元控股",
       "changePercent": -0.5579425359913565,
-      "reason": "巴菲特加速財富轉移計畫，並宣布以85億美元收購房屋建築商Taylor Morrison。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "MS",
       "name": "Morgan Stanley",
-      "theme": "投資銀行",
+      "theme": "金融服務",
       "changePercent": 0.38652435542672464,
-      "reason": "Morgan Stanley第二季財報營收和獲利均超預期，交易和財富管理業務表現強勁。"
+      "reason": "第二季財報表現優於預期，股權交易和投資銀行業務強勁。"
     },
     {
       "symbol": "CAT",
       "name": "Caterpillar Inc.",
       "theme": "工業機械",
       "changePercent": -2.039985428675518,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "受惠於AI資料中心對大型發電設備的需求，上調全年營收預期。"
     },
     {
       "symbol": "HOOD",
       "name": "Robinhood Markets, Inc. Class A Common Stock",
-      "theme": "線上券商",
+      "theme": "金融科技",
       "changePercent": 1.8422212428382576,
-      "reason": "Robinhood受惠於加密貨幣和券商相關利好消息，預測市場活動激增。"
+      "reason": "Morgan Stanley和Barclays調升目標價，看好其平台成長與交易量。"
     },
     {
       "symbol": "BABA",
       "name": "Alibaba Group Holding Limited American Depositary Shares, each represents eight Ordinary Shares",
       "theme": "電子商務",
       "changePercent": 4.780982905982911,
-      "reason": "阿里巴巴與Apple合作，將其Qwen AI模型導入中國市場的Apple設備。"
+      "reason": "即時商務虧損收窄、雲端業務受AI需求帶動，以及美國訴訟案進展。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI相關產業的資金輪動與部分個股的利好消息。記憶體和儲存裝置類股如美光 (MU) 和Sandisk (SNDK) 雖然成交金額高，但股價出現顯著下跌，主要受到中國記憶體晶片競爭者IPO以及市場對AI晶片股高檔修正的影響。另一方面，Apple (AAPL)、Microsoft (MSFT)、Meta (META)、Amazon (AMZN) 和Alphabet (GOOGL, GOOG) 等科技巨頭則因其在AI應用和雲端服務領域的積極布局而受到資金青睞，尤其是Meta宣布將啟動雲端業務並量產自研AI晶片，帶動其股價上漲。此外，數位支付公司PayPal (PYPL) 因傳出收購消息而大幅上漲，顯示市場資金在尋找新的催化劑。",
+    "highlights": "本日美股成交重點呈現兩極化走勢。一方面，記憶體與儲存裝置類股（MU、SNDK、SKHY、INTC、AMD）遭遇重挫，主因是巴菲特對AI主題「賭博式」投資的警示，以及廣發香港下調第三季DRAM漲價預期，市場擔憂供給擴張與需求規格下調將動搖高物價持續性。另一方面，大型科技股（AAPL、MSFT、META、AMZN、GOOGL、GOOG）受惠於美國通膨數據降溫，以及企業對雲端AI服務的強勁需求而普遍上漲，市場對聯準會升息預期降低也提振了風險偏好。AI晶片龍頭Nvidia則在半導體族群普遍下跌的情況下逆勢小漲，顯示市場對其長期AI領導地位仍具信心。",
     "eventsPast": [
       {
-        "title": "SK海力士ADR在納斯達克上市",
-        "detail": "全球HBM記憶體龍頭之一的SK海力士於7月10日赴美發行ADR，此舉被視為半導體產業的重大事件，可能吸引全球科技資金並重新評估其在AI晶片供應鏈的價值。"
+        "title": "記憶體晶片股集體暴跌",
+        "detail": "美光（MU）與SK海力士（SKHY）等記憶體晶片股週三（7/15）遭遇重挫，主因是巴菲特對AI主題投資的謹慎言論，以及廣發香港下調第三季DRAM漲價預期，引發市場對高物價持續性的擔憂。"
       },
       {
-        "title": "美光科技股價下跌，受中國競爭者IPO影響",
-        "detail": "美光科技股價下跌11%，因中國記憶體晶片競爭者長鑫存儲技術有限公司（ChangXin Memory Technologies）將在上海科創板上市，並計畫募資85.5億美元，可能影響投資者情緒。"
+        "title": "電動車新貴Lucid Group否認破產傳聞",
+        "detail": "電動車製造商Lucid Group（非榜上個股，但為電動車族群相關）在破產及私有化傳聞衝擊下，股價一度暴跌超過50%，隨後公司緊急闢謠稱消息「完全不實」，股價跌幅收窄。"
       },
       {
-        "title": "PayPal股價飆升，傳出收購消息",
-        "detail": "PayPal股價大漲17%，有報導稱Stripe和Advent International聯手出價超過530億美元收購該支付公司。"
+        "title": "ASML公布優異財報與財測",
+        "detail": "半導體設備大廠艾司摩爾（ASML）公布2026年第二季財報，營收與毛利率均高於預期，並上調全年財測，激勵其股價上漲。"
       },
       {
-        "title": "國際商業機器(IBM)發布獲利預警",
-        "detail": "IBM發布第二季獲利預警，不如分析師預期，主因是客戶優先將資金投入記憶體、伺服器和儲存設備的採購，導致IBM未能及時完成數筆大型交易，突顯AI市場投資重點的轉變。"
+        "title": "PayPal傳出併購消息股價大漲",
+        "detail": "支付處理商PayPal（PYPL）傳出可能被支付公司Stripe和私募基金Advent International聯合收購的消息，帶動其股價大漲。"
       },
       {
-        "title": "ASML公布第二季財報優於預期",
-        "detail": "ASML公布第二季財報，核心營運指標全面優於先前財測，總淨銷售額達93億歐元，季增6.4%；毛利率提升至54%；淨利達29億歐元，季增5.8%。"
+        "title": "美國6月PPI數據降溫",
+        "detail": "美國勞工統計局公布6月生產者物價指數（PPI）月減0.3%，低於市場預期，顯示通膨壓力持續放緩，降低了聯準會近期升息的預期。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "7/16",
-        "title": "美國6月零售銷售月率",
-        "detail": "此數據能反映佔GDP三分之二的經濟支柱，若數據保持強勁代表經濟無虞；若顯著下滑，則需警惕通膨與降溫並存的滯脹風險。"
+        "date": "8月初",
+        "title": "SpaceX首份財報與閉鎖期解禁",
+        "detail": "SpaceX預計在8月初公布上市後的首份季度財報，同時首批早期投資人的股份閉鎖期將陸續到期，可能帶來潛在賣壓。"
       },
       {
-        "date": "7/17",
-        "title": "密西根大學消費者信心指數",
-        "detail": "此為消費者信心的快照，對市場情緒有重要影響。"
-      },
-      {
-        "date": "7/22-23",
-        "title": "AMD舉辦2026年度Advancing AI大會",
-        "detail": "AMD將秀出最新一代AI晶片架構與軟體生態系進展，將全面牽動全球AI與先進封裝供應鏈的股價走勢。"
-      },
-      {
-        "date": "7/22",
-        "title": "Alphabet公布財報",
-        "detail": "市場將特別關注AI資料中心相關的資本支出計畫。"
-      },
-      {
-        "date": "7/29",
-        "title": "Microsoft和Meta公布財報",
-        "detail": "市場將特別關注AI資料中心相關的資本支出計畫。"
+        "date": "本週四",
+        "title": "ASML和台積電財報",
+        "detail": "美股第二財報季開啟，ASML和台積電財報將於本週披露。"
       }
     ]
   }
