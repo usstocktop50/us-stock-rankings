@@ -99,7 +99,7 @@
       "dollarVolume": 11481689263.436398,
       "marketCap": 2688094076962.04,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電商巨頭",
+      "theme": "電商與雲端",
       "isNew": false,
       "rankChange": 3,
       "streak": 88
@@ -138,7 +138,7 @@
       "dollarVolume": 10533141209.874348,
       "marketCap": 487421480000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體製造",
+      "theme": "CPU",
       "isNew": false,
       "rankChange": -1,
       "streak": 88
@@ -216,7 +216,7 @@
       "dollarVolume": 6905132013.86392,
       "marketCap": 357783302910,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "企業軟體",
+      "theme": "資料庫軟體",
       "isNew": false,
       "rankChange": 1,
       "streak": 88
@@ -255,7 +255,7 @@
       "dollarVolume": 5640828795.602397,
       "marketCap": 313072870556.8,
       "sector": "SERVICES-VIDEO TAPE RENTAL",
-      "theme": "串流媒體",
+      "theme": "影音串流",
       "isNew": false,
       "rankChange": 28,
       "streak": 32
@@ -294,7 +294,7 @@
       "dollarVolume": 4816358321.025749,
       "marketCap": 205881870584,
       "sector": "COMPUTER & OFFICE EQUIPMENT",
-      "theme": "企業軟體",
+      "theme": "企業軟體與服務",
       "isNew": false,
       "rankChange": -4,
       "streak": 3
@@ -372,7 +372,7 @@
       "dollarVolume": 3502837183.0956745,
       "marketCap": 58803080831.64,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "氫能源",
+      "theme": "燃料電池",
       "isNew": false,
       "rankChange": 11,
       "streak": 2
@@ -398,7 +398,7 @@
       "dollarVolume": 3296535728.0889244,
       "marketCap": 606026484570.48,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "支付服務",
+      "theme": "支付處理",
       "isNew": false,
       "rankChange": 0,
       "streak": 14
@@ -424,7 +424,7 @@
       "dollarVolume": 3270381853.0252104,
       "marketCap": 1101055799653.02,
       "sector": "PHARMACEUTICAL PREPARATIONS",
-      "theme": "生技製藥",
+      "theme": "減肥藥 GLP-1",
       "isNew": false,
       "rankChange": 0,
       "streak": 40
@@ -476,7 +476,7 @@
       "dollarVolume": 3004275054.6362715,
       "marketCap": 16434038528.83,
       "sector": "COMMUNICATIONS SERVICES, NEC",
-      "theme": "太空",
+      "theme": "太空通訊",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -528,7 +528,7 @@
       "dollarVolume": 2816943282.3635645,
       "marketCap": 136316425101.74998,
       "sector": "DRAWING & INSULATING OF NONFERROUS WIRE",
-      "theme": "特種玻璃",
+      "theme": "特用玻璃",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -593,7 +593,7 @@
       "dollarVolume": 2573607806.2318697,
       "marketCap": 419340252698.28,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售通路",
+      "theme": "零售百貨",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -645,30 +645,38 @@
       "dollarVolume": 2384196426.0683446,
       "marketCap": 914781198867.25,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售通路",
+      "theme": "零售百貨",
       "isNew": true,
       "rankChange": null,
       "streak": 1
     }
   ],
   "asOf": "2026-07-16T20:00:00.000Z",
-  "generatedAt": "2026-07-17T04:23:45.702Z",
+  "generatedAt": "2026-07-17T05:37:19.157Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
-      "theme": "生技製藥",
-      "reason": "市場對新藥研發和醫療健康領域的需求持續增長，帶動相關個股表現。",
+      "theme": "醫療器材",
+      "reason": "醫療器材領域持續創新，市場對新技術和產品的需求推動了相關公司的成長。",
       "symbols": [
-        "LLY",
-        "JNJ"
+        "ABT"
       ],
-      "count": 2,
-      "avgChange": 1.1392097547262434
+      "count": 1,
+      "avgChange": 10.709084798924613
     },
     {
-      "theme": "零售通路",
-      "reason": "消費者支出數據表現穩健，大型零售商的營運展望受到市場肯定。",
+      "theme": "企業軟體與服務",
+      "reason": "企業數位轉型趨勢不變，對高效能軟體和服務的需求支撐了相關公司的表現。",
+      "symbols": [
+        "IBM"
+      ],
+      "count": 1,
+      "avgChange": 3.716856060606072
+    },
+    {
+      "theme": "零售百貨",
+      "reason": "消費者支出保持韌性，大型零售商透過規模經濟和供應鏈優勢維持競爭力。",
       "symbols": [
         "COST",
         "WMT"
@@ -677,26 +685,8 @@
       "avgChange": 2.658942197525951
     },
     {
-      "theme": "企業軟體",
-      "reason": "企業數位轉型需求不減，軟體服務的穩定收入和成長潛力吸引資金。",
-      "symbols": [
-        "IBM"
-      ],
-      "count": 1,
-      "avgChange": 3.716856060606072
-    },
-    {
-      "theme": "雲端軟體 SaaS",
-      "reason": "雲端服務和軟體即服務（SaaS）持續滲透各產業，市場對其長期成長性抱持樂觀態度。",
-      "symbols": [
-        "MSFT"
-      ],
-      "count": 1,
-      "avgChange": 1.382604959179038
-    },
-    {
-      "theme": "支付服務",
-      "reason": "全球數位支付趨勢不變，支付處理商受惠於交易量增長。",
+      "theme": "支付處理",
+      "reason": "數位支付普及化趨勢持續，全球交易量的增長為支付處理公司帶來穩定收入。",
       "symbols": [
         "V"
       ],
@@ -704,13 +694,22 @@
       "avgChange": 2.8157909556794505
     },
     {
-      "theme": "醫療器材",
-      "reason": "醫療技術創新和人口老齡化趨勢，推動醫療器材產業的需求。",
+      "theme": "消費性電子",
+      "reason": "儘管市場競爭激烈，部分消費性電子巨頭仍能透過品牌忠誠度和產品創新吸引買氣。",
       "symbols": [
-        "ABT"
+        "AAPL"
       ],
       "count": 1,
-      "avgChange": 10.709084798924613
+      "avgChange": 1.7587786259541958
+    },
+    {
+      "theme": "雲端軟體 SaaS",
+      "reason": "企業對雲端解決方案的依賴日益加深，SaaS模式的訂閱收入穩定增長。",
+      "symbols": [
+        "MSFT"
+      ],
+      "count": 1,
+      "avgChange": 1.382604959179038
     }
   ],
   "newEntrants": [
@@ -726,101 +725,50 @@
       "name": "Abbott Laboratories",
       "theme": "醫療器材",
       "changePercent": 10.709084798924613,
-      "reason": "第二季財報優於預期並上調全年財測，激勵股價上漲。"
+      "reason": "第二季財報優於預期並上調全年財測，激勵股價大漲。"
     },
     {
       "symbol": "ASTS",
       "name": "AST SpaceMobile, Inc. Class A Common Stock",
-      "theme": "太空",
+      "theme": "太空通訊",
       "changePercent": -17.0411702608958,
       "reason": "宣布發行10億美元可轉換優先債券，導致股價下跌。"
     },
     {
       "symbol": "GLW",
       "name": "Corning Incorporated",
-      "theme": "特種玻璃",
+      "theme": "特用玻璃",
       "changePercent": -9.185253139154872,
-      "reason": "被J.P. Morgan列入「負面催化劑觀察名單」，因估值過高。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "QCOM",
       "name": "Qualcomm Inc",
       "theme": "手機晶片",
       "changePercent": -4.14091470951791,
-      "reason": "受半導體產業整體賣壓與對手機晶片前景擔憂影響。"
+      "reason": "分析師上調評級與目標價，看好資料中心及汽車業務成長。"
     },
     {
       "symbol": "COST",
       "name": "Costco Wholesale Corp",
-      "theme": "零售通路",
+      "theme": "零售百貨",
       "changePercent": 3.1673467606432983,
-      "reason": "受惠於消費者支出數據強勁及會員費調整預期。"
+      "reason": "六月銷售數據成長放緩，但長期基本面仍受肯定。"
     },
     {
       "symbol": "ARM",
       "name": "Arm Holdings plc American Depositary Shares",
       "theme": "IP 設計",
       "changePercent": -5.414966968701491,
-      "reason": "HSBC將其評級下調至「持有」，擔憂估值過高。"
+      "reason": "股價在強勁上漲後遭遇獲利回吐及分析師下調評級。"
     },
     {
       "symbol": "WMT",
       "name": "Walmart Inc. Common Stock",
-      "theme": "零售通路",
+      "theme": "零售百貨",
       "changePercent": 2.150537634408604,
-      "reason": ""
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     }
   ],
-  "marketBriefing": {
-    "highlights": "本日美股成交重點集中在科技巨頭與AI相關類股，尤其是記憶體和AI晶片領域，儘管部分晶片股出現回檔，但整體市場對AI的投資熱情依然高漲，資金正在尋找新的AI應用領域。蘋果公司股價創歷史新高，顯示消費性電子龍頭的強勁表現。此外，聯準會官員對於通膨的看法以及即將公布的經濟數據，也牽動著市場情緒。",
-    "eventsPast": [
-      {
-        "title": "Fed 副主席暗示可能升息",
-        "detail": "聯準會副主席 Jefferson 表示，如果通膨短期內未能降溫，Fed 應考慮升息，儘管他認為目前貨幣政策仍處於合適位置。"
-      },
-      {
-        "title": "台積電法說會後半導體股承壓",
-        "detail": "台積電法說會後，華爾街擔憂龐大的資本支出能否帶來足夠的投資回報率，導致半導體股表現受挫，費城半導體指數下跌，台積電ADR、AMD、美光科技和SK海力士股價均有顯著跌幅。"
-      },
-      {
-        "title": "蘋果股價創歷史新高",
-        "detail": "蘋果公司傳出準備推出近五年來最大幅度的 iPad mini 升級，最快今年登場，帶動蘋果股價連兩日破頂，市值逼近輝達。"
-      },
-      {
-        "title": "華爾街銀行受惠AI熱潮",
-        "detail": "高盛與摩根大通等華爾街大型銀行公布創紀錄的季度業績，顯示AI熱潮已擴散至金融市場，從股票交易到IPO承銷，成為銀行的「全方位收入引擎」。"
-      },
-      {
-        "title": "6月零售銷售月率公布",
-        "detail": "美國商務部於2026年7月16日公布6月零售銷售月率數據。"
-      }
-    ],
-    "eventsUpcoming": [
-      {
-        "date": "7/22-23",
-        "title": "AMD 舉辦 Advancing AI 大會",
-        "detail": "AMD 將舉辦 2026 年度 Advancing AI 大會，預計將展示最新一代 AI 晶片架構與軟體生態系進展，牽動全球 AI 與先進封裝供應鏈股價走勢。"
-      },
-      {
-        "date": "7/28-29",
-        "title": "聯準會 FOMC 利率決策會議",
-        "detail": "美國聯準會將召開年中第五場 FOMC 會議，市場預期本次維持利率不變的機率約82%，但9月是否升息仍有分歧，會議紀要與主席發言將是市場焦點。"
-      },
-      {
-        "date": "7/30",
-        "title": "美國6月PCE物價指數",
-        "detail": "聯準會關注的通膨指標——美國6月PCE物價指數將公布，其數據將影響市場對聯準會未來貨幣政策的預期。"
-      },
-      {
-        "date": "本週四",
-        "title": "UnitedHealth、Netflix、GE Aerospace 財報",
-        "detail": "UnitedHealth、Netflix、GE Aerospace 將於本週四公布財報。"
-      },
-      {
-        "date": "本週四",
-        "title": "台積電財報",
-        "detail": "台積電將於本週四公布財報，市場關注其財報表現及法說會對未來展望的說明。"
-      }
-    ]
-  }
+  "marketBriefing": null
 }
