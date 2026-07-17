@@ -99,7 +99,7 @@
       "dollarVolume": 11481689263.436398,
       "marketCap": 2688094076962.04,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電商與雲端",
+      "theme": "電商",
       "isNew": false,
       "rankChange": 3,
       "streak": 88
@@ -255,7 +255,7 @@
       "dollarVolume": 5640828795.602397,
       "marketCap": 313072870556.8,
       "sector": "SERVICES-VIDEO TAPE RENTAL",
-      "theme": "影音串流",
+      "theme": "串流媒體",
       "isNew": false,
       "rankChange": 28,
       "streak": 32
@@ -294,7 +294,7 @@
       "dollarVolume": 4816358321.025749,
       "marketCap": 205881870584,
       "sector": "COMPUTER & OFFICE EQUIPMENT",
-      "theme": "企業軟體與服務",
+      "theme": "企業軟體服務",
       "isNew": false,
       "rankChange": -4,
       "streak": 3
@@ -398,7 +398,7 @@
       "dollarVolume": 3296535728.0889244,
       "marketCap": 606026484570.48,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "支付處理",
+      "theme": "支付服務",
       "isNew": false,
       "rankChange": 0,
       "streak": 14
@@ -476,7 +476,7 @@
       "dollarVolume": 3004275054.6362715,
       "marketCap": 16434038528.83,
       "sector": "COMMUNICATIONS SERVICES, NEC",
-      "theme": "太空通訊",
+      "theme": "太空",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -567,7 +567,7 @@
       "dollarVolume": 2753090597.7134533,
       "marketCap": 432217725363.89996,
       "sector": "COMPUTER COMMUNICATIONS EQUIPMENT",
-      "theme": "網路設備",
+      "theme": "網通設備",
       "isNew": false,
       "rankChange": -7,
       "streak": 7
@@ -652,31 +652,13 @@
     }
   ],
   "asOf": "2026-07-16T20:00:00.000Z",
-  "generatedAt": "2026-07-17T05:37:19.157Z",
+  "generatedAt": "2026-07-17T07:23:25.096Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
-      "theme": "醫療器材",
-      "reason": "醫療器材領域持續創新，市場對新技術和產品的需求推動了相關公司的成長。",
-      "symbols": [
-        "ABT"
-      ],
-      "count": 1,
-      "avgChange": 10.709084798924613
-    },
-    {
-      "theme": "企業軟體與服務",
-      "reason": "企業數位轉型趨勢不變，對高效能軟體和服務的需求支撐了相關公司的表現。",
-      "symbols": [
-        "IBM"
-      ],
-      "count": 1,
-      "avgChange": 3.716856060606072
-    },
-    {
       "theme": "零售百貨",
-      "reason": "消費者支出保持韌性，大型零售商透過規模經濟和供應鏈優勢維持競爭力。",
+      "reason": "在通膨壓力下，消費者轉向大型零售商尋求更具成本效益的商品，帶動零售百貨業績成長。",
       "symbols": [
         "COST",
         "WMT"
@@ -685,26 +667,44 @@
       "avgChange": 2.658942197525951
     },
     {
-      "theme": "支付處理",
-      "reason": "數位支付普及化趨勢持續，全球交易量的增長為支付處理公司帶來穩定收入。",
+      "theme": "生技製藥",
+      "reason": "醫療保健產業持續受到人口老化和新藥研發的推動，投資人關注具備穩定獲利能力的龍頭企業。",
       "symbols": [
-        "V"
+        "JNJ"
       ],
       "count": 1,
-      "avgChange": 2.8157909556794505
+      "avgChange": 1.194235284592336
     },
     {
-      "theme": "消費性電子",
-      "reason": "儘管市場競爭激烈，部分消費性電子巨頭仍能透過品牌忠誠度和產品創新吸引買氣。",
+      "theme": "減肥藥 GLP-1",
+      "reason": "GLP-1 藥物市場潛力巨大，相關藥廠因其創新產品線而受到市場高度關注。",
       "symbols": [
-        "AAPL"
+        "LLY"
       ],
       "count": 1,
-      "avgChange": 1.7587786259541958
+      "avgChange": 1.0841842248601508
+    },
+    {
+      "theme": "醫療器材",
+      "reason": "醫療器材需求穩定，受惠於全球醫療支出增加及技術創新。",
+      "symbols": [
+        "ABT"
+      ],
+      "count": 1,
+      "avgChange": 10.709084798924613
+    },
+    {
+      "theme": "醫療保險",
+      "reason": "醫療保險公司在健康服務需求持續成長的背景下，展現穩健的營運表現。",
+      "symbols": [
+        "UNH"
+      ],
+      "count": 1,
+      "avgChange": 1.1612348274873396
     },
     {
       "theme": "雲端軟體 SaaS",
-      "reason": "企業對雲端解決方案的依賴日益加深，SaaS模式的訂閱收入穩定增長。",
+      "reason": "企業數位轉型趨勢不變，雲端軟體服務持續為企業提供效率提升的解決方案。",
       "symbols": [
         "MSFT"
       ],
@@ -730,45 +730,96 @@
     {
       "symbol": "ASTS",
       "name": "AST SpaceMobile, Inc. Class A Common Stock",
-      "theme": "太空通訊",
+      "theme": "太空",
       "changePercent": -17.0411702608958,
-      "reason": "宣布發行10億美元可轉換優先債券，導致股價下跌。"
+      "reason": "宣布擬發行10億美元可轉換優先債券，導致股價下跌。"
     },
     {
       "symbol": "GLW",
       "name": "Corning Incorporated",
       "theme": "特用玻璃",
       "changePercent": -9.185253139154872,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "摩根大通發布負面催化劑觀察，擔憂其高估值。"
     },
     {
       "symbol": "QCOM",
       "name": "Qualcomm Inc",
       "theme": "手機晶片",
       "changePercent": -4.14091470951791,
-      "reason": "分析師上調評級與目標價，看好資料中心及汽車業務成長。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "COST",
       "name": "Costco Wholesale Corp",
       "theme": "零售百貨",
       "changePercent": 3.1673467606432983,
-      "reason": "六月銷售數據成長放緩，但長期基本面仍受肯定。"
+      "reason": "受惠於穩健的消費需求、高會員續訂率及數位銷售動能。"
     },
     {
       "symbol": "ARM",
       "name": "Arm Holdings plc American Depositary Shares",
       "theme": "IP 設計",
       "changePercent": -5.414966968701491,
-      "reason": "股價在強勁上漲後遭遇獲利回吐及分析師下調評級。"
+      "reason": "分析師下調評級，擔憂估值過高，且半導體類股普遍下跌。"
     },
     {
       "symbol": "WMT",
       "name": "Walmart Inc. Common Stock",
       "theme": "零售百貨",
       "changePercent": 2.150537634408604,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "受惠於返校季需求、穩健的消費支出及公司成長策略。"
     }
   ],
-  "marketBriefing": null
+  "marketBriefing": {
+    "highlights": "本日美股成交重點集中在AI相關的記憶體、AI晶片和儲存裝置類股，但普遍呈現下跌，顯示市場對AI題材的資金開始輪動，部分資金從晶片股轉向AI應用軟體公司。儘管如此，AI基礎設施的擴建需求仍是主要驅動力，各大科技巨頭持續投入AI資本支出，並積極尋求晶片自主化與供應鏈穩定。",
+    "eventsPast": [
+      {
+        "title": "Meta自研AI晶片9月投產，鎖定三星/閃迪供應",
+        "detail": "Meta Platforms計畫自9月起量產代號「Iris」的自研AI晶片，並已與三星電子和SanDisk簽署多年期長約，以確保記憶體和快閃記憶體供應，顯示其在AI算力建設上的自主化決心。"
+      },
+      {
+        "title": "晶片股普遍回檔，記憶體大廠跌勢尤其嚴重",
+        "detail": "近期約有七成科技股出現賣壓，其中美光、博通、邁威爾科技等大型晶片股跌勢顯著，美光市值損失近3500億美元，SanDisk和英特爾也各自損失約1000億美元，市場擔憂記憶體定價漲勢可能放緩。"
+      },
+      {
+        "title": "AI需求推升晶片價格，電子產品優惠難尋",
+        "detail": "受AI需求激增、供應鏈短缺及地緣政治影響，全球記憶體與儲存裝置價格持續攀升，導致電子產品零售市場折扣減少，美光預測晶片短缺將持續至2028年。"
+      },
+      {
+        "title": "華爾街大行受惠AI熱潮，獲利創紀錄",
+        "detail": "高盛與摩根大通公布創紀錄的季度業績，營收分別飆升39%和27%，顯示AI熱潮已從晶片股擴散至華爾街，成為金融市場的「全方位收入引擎」。"
+      },
+      {
+        "title": "標普500指數上漲，銀行財報與PayPal飆漲帶動",
+        "detail": "儘管晶片股拉回，標普500指數仍上漲，主要受惠於PayPal大漲17%（傳出收購方案）以及摩根士丹利和貝萊德等銀行與資產管理公司的強勁財報。"
+      }
+    ],
+    "eventsUpcoming": [
+      {
+        "date": "本週三",
+        "title": "Broadcom (AVGO) 第一季度財報",
+        "detail": "晶片大廠Broadcom預計公布第一季度財報，市場將檢視其AI晶片動能與企業科技支出的續航力。"
+      },
+      {
+        "date": "本週四",
+        "title": "Costco (COST) 第二財季業績",
+        "detail": "零售巨頭Costco將公布第二財季業績，分析師預期在穩定的客流量與會員趨勢帶動下，營收與獲利將呈現穩健成長。"
+      },
+      {
+        "date": "本週四",
+        "title": "UnitedHealth、Netflix、GE Aerospace 與台積電財報",
+        "detail": "這些公司將於週四公布財報，其中台積電的財報將進一步反映半導體行業的庫存調整壓力。"
+      },
+      {
+        "date": "本週四",
+        "title": "美國6月零售銷售數據",
+        "detail": "美國6月零售銷售數據將在美股開盤前發布，此數據將提供消費者購買力的重要線索。"
+      },
+      {
+        "date": "月底",
+        "title": "科技巨頭第二季財報",
+        "detail": "Alphabet (GOOGL)、Meta Platforms (META)、亞馬遜 (AMZN)、微軟 (MSFT)、蘋果 (AAPL) 及輝達 (NVDA) 等科技巨頭將陸續公布財報，市場將關注AI資本支出是否持續擴大以及AI晶片股能否重新獲得青睞。"
+      }
+    ]
+  }
 }
