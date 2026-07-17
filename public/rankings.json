@@ -216,7 +216,7 @@
       "dollarVolume": 6413963494.150425,
       "marketCap": 1875818720467.44,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體網路",
+      "theme": "網通晶片",
       "isNew": false,
       "rankChange": -5,
       "streak": 87
@@ -229,7 +229,7 @@
       "dollarVolume": 6404566387.611485,
       "marketCap": 381633602790,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體 SaaS",
+      "theme": "企業軟體",
       "isNew": false,
       "rankChange": -4,
       "streak": 87
@@ -255,7 +255,7 @@
       "dollarVolume": 5596017358.70701,
       "marketCap": 180436248000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體網路",
+      "theme": "網通晶片",
       "isNew": false,
       "rankChange": 0,
       "streak": 77
@@ -333,7 +333,7 @@
       "dollarVolume": 3732938982.1106844,
       "marketCap": 929549306018.3801,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "金融服務",
+      "theme": "銀行",
       "isNew": false,
       "rankChange": -7,
       "streak": 10
@@ -359,7 +359,7 @@
       "dollarVolume": 3494457082.388326,
       "marketCap": 307122501635.83997,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "數據分析",
+      "theme": "資料分析軟體",
       "isNew": false,
       "rankChange": -13,
       "streak": 87
@@ -385,7 +385,7 @@
       "dollarVolume": 3174136857.1251345,
       "marketCap": 58505600000,
       "sector": "COMMUNICATIONS EQUIPMENT, NEC",
-      "theme": "光學通訊",
+      "theme": "光通訊",
       "isNew": false,
       "rankChange": 2,
       "streak": 5
@@ -411,7 +411,7 @@
       "dollarVolume": 3122836221.269992,
       "marketCap": 339869199511.47,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "金融服務",
+      "theme": "投資銀行",
       "isNew": false,
       "rankChange": -9,
       "streak": 3
@@ -489,7 +489,7 @@
       "dollarVolume": 2670270879.049525,
       "marketCap": 437079018195.09,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "金融服務",
+      "theme": "銀行",
       "isNew": false,
       "rankChange": -5,
       "streak": 2
@@ -515,7 +515,7 @@
       "dollarVolume": 2600756479.7563434,
       "marketCap": 68090173121.84,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "再生能源",
+      "theme": "氫能源",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -528,7 +528,7 @@
       "dollarVolume": 2524907530.370378,
       "marketCap": 52853428143.36,
       "sector": "—",
-      "theme": "金融科技",
+      "theme": "數位銀行",
       "isNew": false,
       "rankChange": 9,
       "streak": 4
@@ -567,7 +567,7 @@
       "dollarVolume": 2502097759.04645,
       "marketCap": 267797182619.94,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "金融服務",
+      "theme": "銀行",
       "isNew": false,
       "rankChange": -16,
       "streak": 2
@@ -580,7 +580,7 @@
       "dollarVolume": 2479252179.5271683,
       "marketCap": 360488444925.35004,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "金融服務",
+      "theme": "投資銀行",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -593,7 +593,7 @@
       "dollarVolume": 2460826073.2778716,
       "marketCap": 421119250056.89996,
       "sector": "CONSTRUCTION MACHINERY & EQUIP",
-      "theme": "工業機械",
+      "theme": "重型機械",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -606,7 +606,7 @@
       "dollarVolume": 2429967926.390705,
       "marketCap": 230065275459.94998,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "金融服務",
+      "theme": "銀行",
       "isNew": false,
       "rankChange": -25,
       "streak": 2
@@ -652,41 +652,13 @@
     }
   ],
   "asOf": "2026-07-15T20:00:00.000Z",
-  "generatedAt": "2026-07-16T07:28:29.809Z",
+  "generatedAt": "2026-07-17T02:04:29.416Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
-      "theme": "數位支付",
-      "reason": "市場對數位支付公司的營收增長和盈利能力預期樂觀，尤其是在電子商務持續發展的背景下。",
-      "symbols": [
-        "PYPL"
-      ],
-      "count": 1,
-      "avgChange": 17.204982056153696
-    },
-    {
-      "theme": "電子商務",
-      "reason": "全球電商市場持續擴張，主要平台受惠於消費支出增長和新興市場的潛力。",
-      "symbols": [
-        "BABA",
-        "AMZN"
-      ],
-      "count": 2,
-      "avgChange": 3.899643337916099
-    },
-    {
-      "theme": "消費性電子",
-      "reason": "新款產品發布和市場對未來銷售的樂觀預期，推動了消費性電子龍頭股價上漲。",
-      "symbols": [
-        "AAPL"
-      ],
-      "count": 1,
-      "avgChange": 4.014482627199386
-    },
-    {
       "theme": "雲端服務",
-      "reason": "企業數位轉型需求持續，雲端運算和相關服務提供商的業績表現強勁。",
+      "reason": "雲端運算需求持續增長，大型科技公司在AI和企業數位轉型浪潮中受益。",
       "symbols": [
         "GOOGL",
         "GOOG",
@@ -696,23 +668,53 @@
       "avgChange": 3.1902648203037303
     },
     {
-      "theme": "雲端軟體 SaaS",
-      "reason": "企業對效率提升和成本優化的需求，持續推動SaaS解決方案的採用。",
+      "theme": "銀行",
+      "reason": "市場對經濟前景的樂觀情緒以及潛在的降息預期，提振了銀行股表現。",
       "symbols": [
-        "MSFT",
-        "ORCL"
+        "JPM",
+        "BAC",
+        "WFC",
+        "C"
+      ],
+      "count": 4,
+      "avgChange": 1.6477453230668855
+    },
+    {
+      "theme": "電子商務",
+      "reason": "消費者支出數據表現穩健，以及電商巨頭的創新服務，推動了板塊上漲。",
+      "symbols": [
+        "AMZN",
+        "BABA"
       ],
       "count": 2,
-      "avgChange": 3.1680403625863462
+      "avgChange": 3.899643337916099
+    },
+    {
+      "theme": "數位支付",
+      "reason": "數位支付普及率不斷提高，以及相關公司業務擴張，吸引了投資者關注。",
+      "symbols": [
+        "PYPL"
+      ],
+      "count": 1,
+      "avgChange": 17.204982056153696
     },
     {
       "theme": "社群媒體",
-      "reason": "廣告收入增長和用戶參與度提升，支撐了社群媒體平台的市場表現。",
+      "reason": "廣告收入增長和用戶參與度提升，支持了社群媒體平台的業績表現。",
       "symbols": [
         "META"
       ],
       "count": 1,
       "avgChange": 3.0663802493041246
+    },
+    {
+      "theme": "消費性電子",
+      "reason": "新產品發布和市場對未來銷售的預期，帶動了消費性電子龍頭股價。",
+      "symbols": [
+        "AAPL"
+      ],
+      "count": 1,
+      "avgChange": 4.014482627199386
     }
   ],
   "newEntrants": [
@@ -721,21 +723,21 @@
       "name": "PayPal Holdings, Inc. Common Stock",
       "theme": "數位支付",
       "changePercent": 17.204982056153696,
-      "reason": "Stripe和Advent International提出以每股60.50美元收購PayPal，溢價約28%。"
+      "reason": "Stripe和Advent International提出逾530億美元收購要約，推動股價上漲。"
     },
     {
       "symbol": "GEV",
       "name": "GE Vernova Inc.",
       "theme": "電力基礎建設",
       "changePercent": -1.0065571617527058,
-      "reason": "受惠於AI資料中心和電網現代化需求，以及分析師看好其電力業務。"
+      "reason": "GE Vernova公布2028年前110億美元資本支出和研發計畫，並受惠於AI資料中心電力需求。"
     },
     {
       "symbol": "BE",
       "name": "Bloom Energy Corporation",
-      "theme": "再生能源",
+      "theme": "氫能源",
       "changePercent": -1.6516023007395277,
-      "reason": "公司駁斥做空報告的指控，並強調其供應鏈足以支持燃料電池生產。"
+      "reason": "IDF和Oaktree宣布對Bloom Energy燃料電池進行17億美元投資，用於AI基礎設施。"
     },
     {
       "symbol": "BRK.B",
@@ -747,67 +749,31 @@
     {
       "symbol": "MS",
       "name": "Morgan Stanley",
-      "theme": "金融服務",
+      "theme": "投資銀行",
       "changePercent": 0.38652435542672464,
-      "reason": "第二季財報表現優於預期，股權交易和投資銀行業務強勁。"
+      "reason": "摩根士丹利第二季營收和獲利創紀錄，主要受股票交易收入激增69%帶動。"
     },
     {
       "symbol": "CAT",
       "name": "Caterpillar Inc.",
-      "theme": "工業機械",
+      "theme": "重型機械",
       "changePercent": -2.039985428675518,
-      "reason": "受惠於AI資料中心對大型發電設備的需求，上調全年營收預期。"
+      "reason": "Caterpillar因與Microsoft的AI資料中心電力協議，以及AI基礎設施需求增加而受關注。"
     },
     {
       "symbol": "HOOD",
       "name": "Robinhood Markets, Inc. Class A Common Stock",
       "theme": "金融科技",
       "changePercent": 1.8422212428382576,
-      "reason": "Morgan Stanley和Barclays調升目標價，看好其平台成長與交易量。"
+      "reason": "Robinhood因分析師上調評級、加密貨幣及預測市場成長故事而受提振。"
     },
     {
       "symbol": "BABA",
       "name": "Alibaba Group Holding Limited American Depositary Shares, each represents eight Ordinary Shares",
       "theme": "電子商務",
       "changePercent": 4.780982905982911,
-      "reason": "即時商務虧損收窄、雲端業務受AI需求帶動，以及美國訴訟案進展。"
+      "reason": "阿里巴巴因與Apple合作將Qwen AI引入中國設備，以及雲端和AI業務動能而上漲。"
     }
   ],
-  "marketBriefing": {
-    "highlights": "本日美股成交重點呈現兩極化走勢。一方面，記憶體與儲存裝置類股（MU、SNDK、SKHY、INTC、AMD）遭遇重挫，主因是巴菲特對AI主題「賭博式」投資的警示，以及廣發香港下調第三季DRAM漲價預期，市場擔憂供給擴張與需求規格下調將動搖高物價持續性。另一方面，大型科技股（AAPL、MSFT、META、AMZN、GOOGL、GOOG）受惠於美國通膨數據降溫，以及企業對雲端AI服務的強勁需求而普遍上漲，市場對聯準會升息預期降低也提振了風險偏好。AI晶片龍頭Nvidia則在半導體族群普遍下跌的情況下逆勢小漲，顯示市場對其長期AI領導地位仍具信心。",
-    "eventsPast": [
-      {
-        "title": "記憶體晶片股集體暴跌",
-        "detail": "美光（MU）與SK海力士（SKHY）等記憶體晶片股週三（7/15）遭遇重挫，主因是巴菲特對AI主題投資的謹慎言論，以及廣發香港下調第三季DRAM漲價預期，引發市場對高物價持續性的擔憂。"
-      },
-      {
-        "title": "電動車新貴Lucid Group否認破產傳聞",
-        "detail": "電動車製造商Lucid Group（非榜上個股，但為電動車族群相關）在破產及私有化傳聞衝擊下，股價一度暴跌超過50%，隨後公司緊急闢謠稱消息「完全不實」，股價跌幅收窄。"
-      },
-      {
-        "title": "ASML公布優異財報與財測",
-        "detail": "半導體設備大廠艾司摩爾（ASML）公布2026年第二季財報，營收與毛利率均高於預期，並上調全年財測，激勵其股價上漲。"
-      },
-      {
-        "title": "PayPal傳出併購消息股價大漲",
-        "detail": "支付處理商PayPal（PYPL）傳出可能被支付公司Stripe和私募基金Advent International聯合收購的消息，帶動其股價大漲。"
-      },
-      {
-        "title": "美國6月PPI數據降溫",
-        "detail": "美國勞工統計局公布6月生產者物價指數（PPI）月減0.3%，低於市場預期，顯示通膨壓力持續放緩，降低了聯準會近期升息的預期。"
-      }
-    ],
-    "eventsUpcoming": [
-      {
-        "date": "8月初",
-        "title": "SpaceX首份財報與閉鎖期解禁",
-        "detail": "SpaceX預計在8月初公布上市後的首份季度財報，同時首批早期投資人的股份閉鎖期將陸續到期，可能帶來潛在賣壓。"
-      },
-      {
-        "date": "本週四",
-        "title": "ASML和台積電財報",
-        "detail": "美股第二財報季開啟，ASML和台積電財報將於本週披露。"
-      }
-    ]
-  }
+  "marketBriefing": null
 }
