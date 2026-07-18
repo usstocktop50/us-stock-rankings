@@ -515,7 +515,7 @@
       "dollarVolume": 2799958175.5768,
       "marketCap": 199885402497.59998,
       "sector": "COMPUTER & OFFICE EQUIPMENT",
-      "theme": "企業服務",
+      "theme": "企業科技",
       "isNew": false,
       "rankChange": -17,
       "streak": 4
@@ -528,7 +528,7 @@
       "dollarVolume": 2782251795.5613723,
       "marketCap": 79086822412.08,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "券商服務",
+      "theme": "金融科技",
       "isNew": false,
       "rankChange": -5,
       "streak": 3
@@ -567,7 +567,7 @@
       "dollarVolume": 2763793177.1457424,
       "marketCap": 181056120000,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "行動晶片",
+      "theme": "無線通訊晶片",
       "isNew": false,
       "rankChange": 1,
       "streak": 2
@@ -632,7 +632,7 @@
       "dollarVolume": 2595315577.268525,
       "marketCap": 32766888074.19,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體",
+      "theme": "雲端服務",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-07-17T20:00:00.000Z",
-  "generatedAt": "2026-07-18T04:16:53.189Z",
+  "generatedAt": "2026-07-18T05:19:44.637Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "儲存裝置",
-      "reason": "隨著AI與數據中心需求增長，對高效能儲存裝置的需求也隨之提升，帶動相關個股表現。",
+      "reason": "隨著AI與數據中心需求增長，儲存裝置相關企業的營收前景看好。",
       "symbols": [
         "WDC",
         "STX"
@@ -668,7 +668,7 @@
     },
     {
       "theme": "生技製藥",
-      "reason": "市場對新藥研發與醫療保健需求持續關注，部分製藥公司因產品線或臨床試驗進展而受資金青睞。",
+      "reason": "新藥研發進展與市場需求持續推動生技製藥板塊的表現。",
       "symbols": [
         "LLY",
         "JNJ"
@@ -677,8 +677,27 @@
       "avgChange": 1.0391615716997218
     },
     {
+      "theme": "雲端服務",
+      "reason": "企業數位轉型趨勢不變，對雲端運算和相關服務的需求持續旺盛。",
+      "symbols": [
+        "NBIS",
+        "CRWV"
+      ],
+      "count": 2,
+      "avgChange": 1.9347893918073573
+    },
+    {
+      "theme": "半導體網路",
+      "reason": "網路基礎設施升級和數據傳輸需求增加，帶動相關半導體公司的成長。",
+      "symbols": [
+        "MRVL"
+      ],
+      "count": 1,
+      "avgChange": 0.20180562931492058
+    },
+    {
       "theme": "電力基礎建設",
-      "reason": "全球能源轉型與電網現代化需求，推動電力基礎建設相關企業的成長潛力。",
+      "reason": "全球能源轉型與電網現代化需求，使得電力基礎建設領域受到關注。",
       "symbols": [
         "GEV"
       ],
@@ -686,32 +705,13 @@
       "avgChange": 2.0864295226882215
     },
     {
-      "theme": "燃料電池",
-      "reason": "清潔能源解決方案日益受到重視，燃料電池技術的發展前景吸引投資者目光。",
-      "symbols": [
-        "BE"
-      ],
-      "count": 1,
-      "avgChange": 3.9810380689788705
-    },
-    {
       "theme": "光通訊",
-      "reason": "5G、數據中心及AI應用對高速傳輸的需求，持續推動光通訊產業的發展。",
+      "reason": "5G、數據中心和AI發展對高速光通訊技術的需求日益增加。",
       "symbols": [
         "LITE"
       ],
       "count": 1,
       "avgChange": 3.765062373447748
-    },
-    {
-      "theme": "雲端服務",
-      "reason": "企業數位轉型趨勢不變，雲端服務提供商持續受惠於市場對彈性IT解決方案的需求。",
-      "symbols": [
-        "NBIS",
-        "CRWV"
-      ],
-      "count": 2,
-      "avgChange": 1.9347893918073573
     }
   ],
   "newEntrants": [
@@ -720,50 +720,101 @@
       "name": "Intuitive Surgical Inc.",
       "theme": "醫療器材",
       "changePercent": -14.14510476474535,
-      "reason": "財報優於預期但全年指引保守，加上產品召回疑慮，導致分析師下調目標價。"
+      "reason": "第二季財報優於預期但成長展望保守，加上達文西手術系統召回事件，引發股價下跌。"
     },
     {
       "symbol": "XOM",
       "name": "ExxonMobil Holdings Corporation",
       "theme": "石油天然氣",
       "changePercent": 0.9660842754368105,
-      "reason": "分析師樂觀看待其液化天然氣投資，以及2030年前200億美元的低排放項目計畫。"
+      "reason": "近期無明確個股消息，可能受油價上漲及市場對能源股關注帶動。"
     },
     {
       "symbol": "PANW",
       "name": "Palo Alto Networks, Inc. Common Stock",
       "theme": "資安",
       "changePercent": 1.324896183508008,
-      "reason": "Capital One Financial將其評級調升至「增持」，並看好其AI相關產品與併購策略。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "BRK.B",
       "name": "BERKSHIRE HATHAWAY Class B",
       "theme": "多元控股",
       "changePercent": -0.44816677482154027,
-      "reason": "巴菲特稱親自推動對Alphabet的AI投資，並捐贈60億美元股票。"
+      "reason": "分析指出波克夏第二季加速執行庫藏股，對投資人是強心針。"
     },
     {
       "symbol": "BAC",
       "name": "Bank of America Corporation",
       "theme": "銀行",
       "changePercent": -0.35778175313058846,
-      "reason": "近期公布優於預期的第二季財報，並宣布高階主管將推動AI應用。"
+      "reason": "第二季財報獲利與營收優於預期，股票交易收入大增，但盤前出現獲利了結。"
     },
     {
       "symbol": "KO",
       "name": "Coca-Cola Company",
       "theme": "飲料",
       "changePercent": -3.9566650965614687,
-      "reason": "旗下乳製品子公司Fairlife遭勒索軟體攻擊，導致美國生產暫停。"
+      "reason": "旗下Fairlife乳品業務遭勒索軟體攻擊，導致美國產線暫停。"
     },
     {
       "symbol": "CRWV",
       "name": "CoreWeave, Inc. Class A Common Stock",
-      "theme": "雲端軟體",
+      "theme": "雲端服務",
       "changePercent": 0.4114661911946196,
-      "reason": "Meta Platforms宣布進軍雲端業務，引發市場對CoreWeave競爭加劇的擔憂。"
+      "reason": "股價連日下跌，市場對其AI基礎建設融資策略及記憶體價格風險存疑。"
     }
   ],
-  "marketBriefing": null
+  "marketBriefing": {
+    "highlights": "本日美股成交重點集中在AI晶片、記憶體和儲存裝置等半導體相關類股，但整體呈現下跌趨勢。資金流向顯示市場對AI題材的熱情正在重新評估，投資人擔憂AI資本支出能否帶來足夠的回報，導致半導體股面臨沉重賣壓，費城半導體指數甚至瀕臨熊市邊緣。儘管部分公司財報表現亮眼，仍難擋市場對高估值和未來不確定性的擔憂。",
+    "eventsPast": [
+      {
+        "title": "Netflix財測不如預期，盤後股價重挫",
+        "detail": "Netflix於2026年第二季財報中，營收與獲利大致符合預期，但投資人對其獲利展望感到失望，導致盤後股價下跌超過8%。"
+      },
+      {
+        "title": "台積電財報創高，但股價仍跌",
+        "detail": "台積電第二季財報全面優於市場預期，淨利、營收雙雙創下歷史新高，並上調全年營收展望，但因大幅提高資本支出預算及預期短期毛利率承壓，拖累台積電ADR及半導體類股走低。"
+      },
+      {
+        "title": "Alphabet旗下Google傳延後推出AI模型Gemini 3.5 Pro",
+        "detail": "因Gemini 3.5 Pro的程式碼生成能力未達Google內部預期，發布時程已延後數個月，引發市場對其AI競爭力的擔憂，導致Alphabet股價下跌逾4%。"
+      },
+      {
+        "title": "半導體股瀕臨熊市，投資人重新評估AI行情",
+        "detail": "隨著財報季展開，投資人重新評估半導體股的漲勢，費城半導體指數較6月高點已下跌19%，瀕臨熊市邊緣，顯示市場對AI投資回報的擔憂。"
+      },
+      {
+        "title": "美國7月製造業指數飆升，經濟數據好轉",
+        "detail": "費城聯儲7月製造業數據顯示，總體企業活動指數急升至41.4，遠高於市場預期，反映美國中大西洋地區製造業擴張步伐明顯加速。"
+      }
+    ],
+    "eventsUpcoming": [
+      {
+        "date": "7月下旬",
+        "title": "科技巨頭財報陸續公布",
+        "detail": "Alphabet、微軟、Meta、蘋果、亞馬遜等科技巨頭將於7月下旬陸續公布財報，特斯拉法說會訂於7月22日，輝達則預計延至8月底才登場。"
+      },
+      {
+        "date": "本週四",
+        "title": "美國6月零售銷售數據",
+        "detail": "美國將公布6月零售銷售數據，以進一步反映美國消費韌性和就業市場狀況。"
+      },
+      {
+        "date": "本週四",
+        "title": "美國初領失業救濟金人數",
+        "detail": "美國將公布截至當週初領失業救濟金人數，以反映美國就業市場狀況。"
+      },
+      {
+        "date": "尚未公布確切日期",
+        "title": "蘋果擬併購晶片新創公司",
+        "detail": "蘋果傳出正與多家晶片新創洽詢收購，以強化研發AI伺服器處理器能力，若成功將有望加速開發AI伺服器速度。"
+      },
+      {
+        "date": "尚未公布確切日期",
+        "title": "Meta自研AI晶片Iris量產",
+        "detail": "Meta Platforms計畫自9月起量產代號「Iris」的自研AI晶片，並將其納入四代Meta訓練與推理加速器(MTIA)計畫，以降低對輝達與超微AI晶片的依賴。"
+      }
+    ]
+  }
 }
