@@ -20,6 +20,7 @@ import {
   candidateText,
   enrichWithGemini,
   writeHistory,
+  preserveGroundedAI,
   THEME_TTL_MS,
   ROOT,
   HISTORY_DIR,
@@ -400,6 +401,10 @@ async function main() {
     newEntrants,
     marketBriefing: marketBrief,
   };
+  // 防呆：本次接地 AI（今日市場焦點／發動題材／新進榜說明）若偶發回空，沿用同交易日
+  // 既有值，避免早班（Polygon 閘門前）或 Gemini 回空的重跑把前一班的好資料洗掉。
+  await preserveGroundedAI(out, path.join(HISTORY_DIR, `${latest.date}.json`));
+
   await fs.mkdir(path.dirname(OUT_FILE), { recursive: true });
   await fs.writeFile(OUT_FILE, JSON.stringify(out, null, 2), "utf8");
 

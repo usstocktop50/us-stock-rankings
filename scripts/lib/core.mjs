@@ -250,6 +250,56 @@ ${lines}
 // ───────────────────────── 歷史快照存檔 ─────────────────────────
 
 /**
+ * 防呆：接地(grounded)AI 欄位偶發回空。若本次 out 的這些欄位為空、但同一交易日
+ * 既有檔案有內容，沿用既有值，避免重跑（尤其 Polygon 閘門前的早班／Gemini 回空）
+ * 把前一班的好資料洗成空白。只在既有檔為「同一交易日」時保護（換日 → 照常寫新資料）。
+ * 就地修改並回傳 out。
+ * @param out 本次要寫出的物件（含 asOf）。
+ * @param existingPath 同交易日既有 <date>.json 的絕對路徑。
+ */
+export async function preserveGroundedAI(out, existingPath) {
+  let existing;
+  try {
+    existing = JSON.parse(await fs.readFile(existingPath, "utf8"));
+  } catch {
+    return out; // 沒有既有檔或壞檔 → 照常寫
+  }
+  if (!existing || existing.asOf?.slice(0, 10) !== out.asOf?.slice(0, 10)) {
+    return out; // 不同交易日（換日）→ 不保護，讓新資料寫入
+  }
+
+  const briefEmpty = (b) =>
+    !b ||
+    (!(b.highlights ?? "").trim() && !b.eventsPast?.length && !b.eventsUpcoming?.length);
+  if (briefEmpty(out.marketBriefing) && !briefEmpty(existing.marketBriefing)) {
+    out.marketBriefing = existing.marketBriefing;
+    console.warn("⚠ 今日市場焦點本次為空 → 沿用既有同日焦點（避免洗空）");
+  }
+
+  if (!out.themeSummary?.length && existing.themeSummary?.length) {
+    out.themeSummary = existing.themeSummary;
+    console.warn("⚠ 發動題材本次為空 → 沿用既有同日題材（避免洗空）");
+  }
+
+  if (Array.isArray(out.newEntrants) && Array.isArray(existing.newEntrants)) {
+    const oldReason = new Map(
+      existing.newEntrants.filter((n) => n.reason).map((n) => [n.symbol, n.reason]),
+    );
+    let filled = 0;
+    out.newEntrants = out.newEntrants.map((n) => {
+      if (!n.reason && oldReason.has(n.symbol)) {
+        filled++;
+        return { ...n, reason: oldReason.get(n.symbol) };
+      }
+      return n;
+    });
+    if (filled) console.warn(`⚠ 新進榜 ${filled} 檔說明本次為空 → 沿用既有同日說明`);
+  }
+
+  return out;
+}
+
+/**
  * 寫入一份歷史快照（以交易日命名），並重建 index.json / trends.json。
  * @param out RankingsResponse 形狀的輸出物件（含 asOf）。
  */

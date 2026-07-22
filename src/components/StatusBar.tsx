@@ -17,16 +17,17 @@ export default function StatusBar({ asOf, generatedAt, source, aiSource, notice,
     <div className="mb-3 flex flex-wrap items-center justify-between gap-3 text-sm">
       <div className="flex flex-wrap items-center gap-x-4 gap-y-1 text-slate-400">
         <span>
-          美股收盤：
+          資料日期：
           <span className="ml-1 font-mono text-slate-200">
             {asOf ? formatTradingDate(asOf) : "—"}
           </span>
+          <span className="ml-1 text-xs text-slate-500">（美股收盤）</span>
         </span>
         {generatedAt && (
           <span>
             更新於：
             <span className="ml-1 font-mono text-slate-300">{formatTime(generatedAt)}</span>
-            <span className="ml-1 text-xs text-slate-500">（台北）</span>
+            <span className="ml-1 text-xs text-slate-500">（台北系統更新時間，非資料日期）</span>
           </span>
         )}
         {source === "mock" && (

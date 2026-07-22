@@ -657,8 +657,28 @@
   "aiSource": "gemini",
   "themeSummary": [
     {
+      "theme": "比特幣/加密",
+      "reason": "加密貨幣市場波動，相關概念股受資金追捧。",
+      "symbols": [
+        "IREN"
+      ],
+      "count": 1,
+      "avgChange": 19.571683521713286
+    },
+    {
+      "theme": "半導體",
+      "reason": "AI 需求持續增長，帶動半導體產業鏈表現。",
+      "symbols": [
+        "AVGO",
+        "MRVL",
+        "INTC"
+      ],
+      "count": 3,
+      "avgChange": 2.4737431940986463
+    },
+    {
       "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型需求持續推動雲端軟體服務的增長，市場對其營收前景保持樂觀。",
+      "reason": "企業數位轉型趨勢不變，雲端軟體服務需求穩健。",
       "symbols": [
         "MSFT",
         "CRM",
@@ -669,7 +689,7 @@
     },
     {
       "theme": "儲存裝置",
-      "reason": "AI 數據中心對儲存容量的需求激增，帶動相關儲存裝置供應商的股價表現。",
+      "reason": "數據中心擴建及AI應用對儲存需求增加。",
       "symbols": [
         "SNDK",
         "STX",
@@ -679,8 +699,19 @@
       "avgChange": 2.2272892143710608
     },
     {
+      "theme": "AI 晶片",
+      "reason": "AI 技術發展加速，市場對高效能運算晶片需求旺盛。",
+      "symbols": [
+        "MU",
+        "NVDA",
+        "AMD"
+      ],
+      "count": 3,
+      "avgChange": 1.250619442494947
+    },
+    {
       "theme": "雲端服務",
-      "reason": "大型科技公司在雲端運算領域的持續投入和市場擴張，使其相關業務表現強勁。",
+      "reason": "雲端運算作為數位經濟基石，持續吸引投資者關注。",
       "symbols": [
         "GOOGL",
         "GOOG",
@@ -688,35 +719,6 @@
       ],
       "count": 3,
       "avgChange": 1.9283546244539131
-    },
-    {
-      "theme": "AI 晶片",
-      "reason": "人工智慧技術的快速發展持續推升對高效能 AI 晶片的需求，相關供應商受市場追捧。",
-      "symbols": [
-        "NVDA",
-        "AMD"
-      ],
-      "count": 2,
-      "avgChange": 0.9035515207716924
-    },
-    {
-      "theme": "半導體",
-      "reason": "全球半導體產業景氣復甦，加上 AI 應用帶動新需求，推動相關晶片製造商股價上漲。",
-      "symbols": [
-        "INTC",
-        "AVGO"
-      ],
-      "count": 2,
-      "avgChange": 2.0517214267214294
-    },
-    {
-      "theme": "比特幣/加密",
-      "reason": "加密貨幣市場波動，但部分投資者仍看好區塊鏈技術和相關挖礦公司的長期潛力。",
-      "symbols": [
-        "IREN"
-      ],
-      "count": 1,
-      "avgChange": 19.571683521713286
     }
   ],
   "newEntrants": [
@@ -770,5 +772,56 @@
       "reason": "近期有分析師下調目標價，且傳統電信業受媒體與付費電視結構轉變拖累。"
     }
   ],
-  "marketBriefing": null
+  "marketBriefing": {
+    "highlights": "本日美股成交量集中於AI晶片、記憶體及儲存裝置等科技類股，主要受惠於市場對AI基礎設施需求的持續看好，以及部分個股財報或新產品發布的預期。Micron (MU) 在擴大美國投資與AI記憶體前景的推升下，成交金額居冠，顯示資金對記憶體產業循環反轉抱持樂觀態度。Nvidia (NVDA) 和 AMD (AMD) 等AI晶片股也維持高成交量，市場正交易AI算力需求的故事。",
+    "eventsPast": [
+      {
+        "title": "美光擴大美國晶圓廠投資",
+        "detail": "Micron (MU) 宣布加速美國晶圓廠與技術投資，預計至2035年在美投入金額將提高至逾2500億美元，目標在美生產40% DRAM，強化供應鏈與就業機會。"
+      },
+      {
+        "title": "AMD發表AI機櫃系統Helios",
+        "detail": "AMD (AMD) 傳將交付首款AI機櫃系統Helios，被視為Nvidia (NVDA) Grace Blackwell與Vera Rubin系統的競爭對手。"
+      },
+      {
+        "title": "美國存儲晶片股普遍反彈",
+        "detail": "在經歷上週大幅回檔後，Micron (MU)、SanDisk (SNDK)、Western Digital (WDC) 和 Seagate (STX) 等美國存儲晶片與儲存設備類股週一普遍反彈，顯示市場暫時將急跌視為漲多後修正。"
+      },
+      {
+        "title": "SpaceX星艦將再次發射",
+        "detail": "太空公司SpaceX (SPCX) 宣布本週將再度發射星艦，儘管當日股價下跌。"
+      },
+      {
+        "title": "Google開發Gemini專用推理晶片",
+        "detail": "Google (GOOGL) 傳出正為其AI模型開發新晶片，效率傳提高最多10倍，帶動股價上漲。"
+      }
+    ],
+    "eventsUpcoming": [
+      {
+        "date": "7/22 盤後",
+        "title": "Alphabet (GOOGL) 第二季財報",
+        "detail": "市場預期Alphabet營收可望年增近21%，EPS年增近24%，投資人關注其AI資本支出與獲利轉換效率。"
+      },
+      {
+        "date": "7/22 盤後",
+        "title": "Tesla (TSLA) 第二季財報",
+        "detail": "市場估計Tesla第二季營收約年增1成，EPS年增逾17%，投資人關注自駕計程車、Optimus機器人等業務進度及汽車毛利率。"
+      },
+      {
+        "date": "7/23 盤後",
+        "title": "Intel (INTC) 第二季財報",
+        "detail": "市場樂觀預估Intel第二季營收有望成長逾11%，投資人關注其18A製程進展及對台積電代工比重的影響。"
+      },
+      {
+        "date": "本週",
+        "title": "Fed 6月會議紀要",
+        "detail": "Fed將公布6月會議紀要，市場將關注其對利率政策的看法，以及美債殖利率的變動對科技股估值的影響。"
+      },
+      {
+        "date": "本週",
+        "title": "美國7月S&P全球採購經理人指數(PMI)初值",
+        "detail": "此數據將反映美國製造與房市景氣，進而影響股市對經濟前景的評估。"
+      }
+    ]
+  }
 }
