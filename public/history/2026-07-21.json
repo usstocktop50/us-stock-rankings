@@ -320,7 +320,7 @@
       "dollarVolume": 3831828907.7870364,
       "marketCap": 289155534917.76,
       "sector": "SERVICES-VIDEO TAPE RENTAL",
-      "theme": "影音串流",
+      "theme": "串流媒體",
       "isNew": false,
       "rankChange": -5,
       "streak": 35
@@ -333,7 +333,7 @@
       "dollarVolume": 3493206687.451824,
       "marketCap": 365963840550,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "企業軟體",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": -8,
       "streak": 91
@@ -515,7 +515,7 @@
       "dollarVolume": 2293702468.0722413,
       "marketCap": 182869000000,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "行動通訊晶片",
+      "theme": "無線通訊晶片",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -567,7 +567,7 @@
       "dollarVolume": 2162765612.836938,
       "marketCap": 4058563752.6,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "無線通訊",
+      "theme": "無線通訊設備",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -580,7 +580,7 @@
       "dollarVolume": 2161437340.5632157,
       "marketCap": 28419323468.760002,
       "sector": "OPTICAL INSTRUMENTS & LENSES",
-      "theme": "半導體檢測",
+      "theme": "半導體檢測設備",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -645,20 +645,20 @@
       "dollarVolume": 2093595951.0769322,
       "marketCap": 84150404479.28,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "線上券商",
+      "theme": "證券經紀",
       "isNew": false,
       "rankChange": -2,
       "streak": 5
     }
   ],
   "asOf": "2026-07-21T20:00:00.000Z",
-  "generatedAt": "2026-07-22T04:32:59.016Z",
+  "generatedAt": "2026-07-22T05:44:01.948Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "儲存裝置",
-      "reason": "隨著AI應用對資料儲存需求激增，記憶體和儲存裝置產業迎來復甦，相關公司業績展望樂觀。",
+      "reason": "隨著AI應用對資料儲存需求激增，儲存裝置相關公司受惠於市場預期需求成長。",
       "symbols": [
         "SNDK",
         "STX",
@@ -669,7 +669,7 @@
     },
     {
       "theme": "記憶體",
-      "reason": "AI伺服器對HBM等高頻寬記憶體需求強勁，推動記憶體價格上漲，相關供應商受惠。",
+      "reason": "AI伺服器對高頻寬記憶體(HBM)及DRAM需求強勁，推動記憶體價格上漲。",
       "symbols": [
         "MU",
         "SKHY"
@@ -679,7 +679,7 @@
     },
     {
       "theme": "半導體設備",
-      "reason": "全球半導體產業擴張，晶圓廠建置與升級需求持續，帶動半導體設備訂單成長。",
+      "reason": "全球半導體產業擴張，晶圓廠資本支出增加，帶動半導體設備製造商訂單成長。",
       "symbols": [
         "AMAT",
         "LRCX",
@@ -690,18 +690,8 @@
       "avgChange": 5.1873226787362015
     },
     {
-      "theme": "AI 晶片",
-      "reason": "AI技術快速發展，對高效能運算晶片需求持續旺盛，市場預期相關晶片設計公司將持續受惠。",
-      "symbols": [
-        "NVDA",
-        "AMD"
-      ],
-      "count": 2,
-      "avgChange": 5.043357067687433
-    },
-    {
       "theme": "比特幣/加密",
-      "reason": "加密貨幣市場波動性高，但隨著機構資金流入和現貨ETF的推出，相關概念股受到市場關注。",
+      "reason": "加密貨幣市場回暖，比特幣價格上漲，帶動相關挖礦及交易平台公司股價表現。",
       "symbols": [
         "COIN",
         "IREN"
@@ -710,8 +700,18 @@
       "avgChange": 6.161555713299107
     },
     {
+      "theme": "AI 晶片",
+      "reason": "人工智慧技術持續發展，對高效能AI晶片的需求不斷攀升，推動相關晶片設計公司股價。",
+      "symbols": [
+        "NVDA",
+        "AMD"
+      ],
+      "count": 2,
+      "avgChange": 5.043357067687433
+    },
+    {
       "theme": "半導體網路通訊",
-      "reason": "5G、數據中心和AI基礎設施建設推動網路通訊晶片需求，相關供應商營收成長可期。",
+      "reason": "5G、資料中心及物聯網等領域的發展，持續推動對高效能網路通訊半導體的需求。",
       "symbols": [
         "AVGO",
         "MRVL"
@@ -726,108 +726,57 @@
       "name": "Danaher Corporation",
       "theme": "生命科學工具",
       "changePercent": -10.989010989011,
-      "reason": "第二季財報優於預期，但核心營收展望下調導致股價下跌。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "TXN",
       "name": "Texas Instruments Incorporated",
       "theme": "類比IC",
       "changePercent": 2.5451473228429675,
-      "reason": "第二季財報優於預期，受工業和汽車領域需求復甦帶動。"
+      "reason": "Susquehanna調升目標價，且財報前市場預期樂觀。"
     },
     {
       "symbol": "COIN",
       "name": "Coinbase Global, Inc. Class A Common Stock",
       "theme": "比特幣/加密",
       "changePercent": 9.611668640528572,
-      "reason": "比特幣上漲及市場對加密貨幣監管法案通過的樂觀情緒。"
+      "reason": "CLARITY法案進展、推出代幣化股票，以及比特幣價格上漲。"
     },
     {
       "symbol": "QCOM",
       "name": "Qualcomm Inc",
-      "theme": "行動通訊晶片",
+      "theme": "無線通訊晶片",
       "changePercent": 1.8670737435415727,
-      "reason": "上修2029年非手機營收目標至400億美元，數據中心業務為主要驅動力。"
+      "reason": "投資者日宣布AI數據中心戰略、新CPU及與Meta、微軟合作。"
     },
     {
       "symbol": "MOH",
       "name": "Molina Healthcare, Inc.",
       "theme": "醫療保險",
       "changePercent": -1.380000870663017,
-      "reason": "Molina Healthcare被納入S&P MidCap 400指數。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "BRK.B",
       "name": "BERKSHIRE HATHAWAY Class B",
       "theme": "多元控股",
       "changePercent": -0.3256997455470784,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "收購Taylor Morrison Home及投資Alphabet，引發市場關注。"
     },
     {
       "symbol": "ONDS",
       "name": "Ondas Inc. Common Stock",
-      "theme": "無線通訊",
+      "theme": "無線通訊設備",
       "changePercent": 11.499272197962155,
-      "reason": "獲得澳洲國防部690萬美元合約，擴大無人機防禦解決方案的國際需求。"
+      "reason": "獲得澳洲國防部大訂單，並收購DZYNE Technologies。"
     },
     {
       "symbol": "KLAC",
       "name": "KLA Corporation Common Stock",
-      "theme": "半導體檢測",
+      "theme": "半導體檢測設備",
       "changePercent": 4.7976878612716805,
       "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     }
   ],
-  "marketBriefing": {
-    "highlights": "本日美股成交重點集中在半導體相關族群，特別是記憶體、儲存裝置和AI晶片股，資金主要受惠於市場對AI晶片需求的持續看好以及逢低買盤的介入。美光科技（MU）和SK海力士（SKHY）等記憶體大廠領漲，漲幅均達兩位數，帶動費城半導體指數勁揚超過5%。市場故事主要圍繞在AI基礎建設需求爆發，高頻寬記憶體（HBM）供不應求的現況，以及投資人對半導體業者財報優於預期並調高財測的樂觀預期。",
-    "eventsPast": [
-      {
-        "title": "美光科技財報亮眼，帶動晶片股上漲",
-        "detail": "美光科技公布的財報表現亮眼，並強調記憶體在AI基礎設施建設中的重要性，激勵投資人看好記憶體與儲存類股，帶動SanDisk、威騰和希捷等公司股價上漲。"
-      },
-      {
-        "title": "半導體類股強勁反彈",
-        "detail": "美國股市週二（21日）收高，主要受半導體類股強勁反彈帶動，費城半導體指數飆升約5.5%，記憶體與儲存晶片製造商表現突出。"
-      },
-      {
-        "title": "Alphabet、Tesla、IBM財報公布在即",
-        "detail": "市場靜待本週Alphabet、Tesla、IBM財報公布，以獲取AI相關資本支出計畫與電動車市場需求的最新指引。"
-      },
-      {
-        "title": "伊朗持續對荷姆茲海峽南側船隻進行攻擊",
-        "detail": "伊朗持續對行經荷姆茲海峽南側船隻進行攻擊，引發市場對石油供應的擔憂，布蘭特原油收盤價站上每桶91.08美元。"
-      },
-      {
-        "title": "摩根士丹利調降軟體類股評級",
-        "detail": "軟體類股普遍下跌，主要受摩根士丹利調降評級與目標價影響，例如Adobe、Workday、Salesforce等公司股價下跌。"
-      }
-    ],
-    "eventsUpcoming": [
-      {
-        "date": "本週三 (7/22)",
-        "title": "Alphabet、IBM、特斯拉財報",
-        "detail": "Google母公司Alphabet、國際商業機器公司（IBM）與特斯拉（Tesla）將公布業績，市場將檢視國際競爭下，AI投資獲利趨向與下半年營運展望。"
-      },
-      {
-        "date": "本週四 (7/23)",
-        "title": "英特爾財報",
-        "detail": "英特爾（Intel Corp.）預計於本週稍晚公布財報。"
-      },
-      {
-        "date": "本週四 (7/23)",
-        "title": "美國初請失業金人數",
-        "detail": "市場將關注美國初請失業金人數數據。"
-      },
-      {
-        "date": "本週五 (7/24)",
-        "title": "美國營建許可年化總數",
-        "detail": "市場將關注美國營建許可年化總數數據。"
-      },
-      {
-        "date": "8月底",
-        "title": "輝達（Nvidia）財報",
-        "detail": "輝達（Nvidia）預計8月底發布業績，投資人將從財測中尋找AI需求是否仍維持強勁的跡象。"
-      }
-    ]
-  }
+  "marketBriefing": null
 }
