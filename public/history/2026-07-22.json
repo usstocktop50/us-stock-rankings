@@ -320,7 +320,7 @@
       "dollarVolume": 3238206017.6242127,
       "marketCap": 126108335360,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "行動廣告/軟體",
+      "theme": "廣告科技",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -450,7 +450,7 @@
       "dollarVolume": 2665164234.955104,
       "marketCap": 362478470640,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體 SaaS",
+      "theme": "企業軟體/雲端",
       "isNew": false,
       "rankChange": -9,
       "streak": 92
@@ -502,7 +502,7 @@
       "dollarVolume": 2125921448.944735,
       "marketCap": 640187089170.8999,
       "sector": "—",
-      "theme": "石油與天然氣",
+      "theme": "能源",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -593,7 +593,7 @@
       "dollarVolume": 1929982031.2520869,
       "marketCap": 126790030120.77998,
       "sector": "INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL",
-      "theme": "醫療儀器",
+      "theme": "生命科學工具",
       "isNew": false,
       "rankChange": -27,
       "streak": 2
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-07-22T20:00:00.000Z",
-  "generatedAt": "2026-07-23T05:48:36.973Z",
+  "generatedAt": "2026-07-23T07:40:25.868Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "AI 伺服器",
-      "reason": "市場對AI基礎設施的需求持續增長，帶動相關伺服器供應商股價表現強勁。",
+      "reason": "市場對AI基礎設施的需求持續強勁，帶動相關伺服器供應商股價表現。",
       "symbols": [
         "SMCI",
         "DELL"
@@ -668,7 +668,7 @@
     },
     {
       "theme": "AI 晶片",
-      "reason": "AI技術的快速發展持續推動對高效能AI晶片的需求，相關領導廠商表現突出。",
+      "reason": "AI技術的快速發展持續推動對高效能AI晶片的需求，相關領導廠商表現強勁。",
       "symbols": [
         "NVDA",
         "AMD",
@@ -679,7 +679,7 @@
     },
     {
       "theme": "儲存裝置",
-      "reason": "隨著數據量爆炸性增長，對儲存解決方案的需求增加，帶動相關廠商股價上漲。",
+      "reason": "AI與數據中心擴建對儲存容量的需求增加，帶動相關供應商股價上漲。",
       "symbols": [
         "SNDK",
         "STX",
@@ -690,7 +690,7 @@
     },
     {
       "theme": "銀行",
-      "reason": "市場對經濟前景的樂觀情緒以及潛在的利率政策變化，對銀行業構成利好。",
+      "reason": "市場對經濟前景的樂觀情緒以及潛在的利率政策變化，支撐了銀行業的表現。",
       "symbols": [
         "BAC",
         "JPM"
@@ -709,7 +709,7 @@
     },
     {
       "theme": "電信",
-      "reason": "電信服務的穩定需求和潛在的基礎設施升級，為電信股帶來支撐。",
+      "reason": "電信服務的穩定需求和潛在的基礎設施升級，吸引資金關注。",
       "symbols": [
         "T"
       ],
@@ -723,121 +723,121 @@
       "name": "Super Micro Computer, Inc. Common Stock",
       "theme": "AI 伺服器",
       "changePercent": 19.843137254901954,
-      "reason": "上調毛利率展望且AI伺服器訂單爆發，緩解市場對獲利能力憂慮。"
+      "reason": "預期第四季營收與毛利率優於預期，新訂單超過600億美元，訂單積壓創紀錄。"
     },
     {
       "symbol": "NOW",
       "name": "SERVICENOW, INC.",
       "theme": "雲端軟體 SaaS",
       "changePercent": -6.466784244562031,
-      "reason": "第二季財報超預期，AI年度合約價值突破10億美元，並上調全年訂閱收入指引。"
+      "reason": "CEO表示AI採用率提升公司競爭力，且第二季財報優於預期。"
     },
     {
       "symbol": "APP",
       "name": "Applovin Corporation Class A Common Stock",
-      "theme": "行動廣告/軟體",
+      "theme": "廣告科技",
       "changePercent": -3.7812871772142995,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動，但有分析師維持買入評級。"
     },
     {
       "symbol": "BAC",
       "name": "Bank of America Corporation",
       "theme": "銀行",
       "changePercent": 0.6533812479581813,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "推出新獎勵計畫、AI升級客戶服務，以及發行新債券。"
     },
     {
       "symbol": "JPM",
       "name": "JPMorgan Chase & Co.",
       "theme": "銀行",
       "changePercent": 0.8631926541725694,
-      "reason": "美銀看好其投資銀行復甦、AI資本支出與財富管理流入，上調目標價。"
+      "reason": "第二季獲利創紀錄，各業務線營收強勁成長，AI效率提升潛力。"
     },
     {
       "symbol": "CBRS",
       "name": "Cerebras Systems Inc. Class A Common Stock",
       "theme": "AI 晶片",
       "changePercent": 0.5897300666443008,
-      "reason": "AI晶片股盤中飆漲，技術面轉強吸引資金回流。"
+      "reason": "與CrowdStrike建立AI合作夥伴關係，擴大Flex製造合作。"
     },
     {
       "symbol": "JNJ",
       "name": "Johnson & Johnson",
       "theme": "生技製藥",
       "changePercent": 2.003112405730011,
-      "reason": "第二季業績超預期，並上調全年展望，創新醫藥需求強勁。"
+      "reason": "FDA批准OTTAVA™機器人手術系統，第二季財報表現良好。"
     },
     {
       "symbol": "XOM",
       "name": "ExxonMobil Holdings Corporation",
-      "theme": "石油與天然氣",
+      "theme": "能源",
       "changePercent": 1.8060773844835412,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "能源板塊整體上漲，油價與能源需求增加，公司將發布第二季財報。"
     },
     {
       "symbol": "CRWV",
       "name": "CoreWeave, Inc. Class A Common Stock",
       "theme": "雲端/AI 軟體",
       "changePercent": 3.8451872329731116,
-      "reason": "獲Truist看好回升，AI雲基本面折價吸引買盤，技術面超跌後買盤湧入。"
+      "reason": "分析師看好GPU需求與AI擴張，Truist與Baird調升評級。"
     },
     {
       "symbol": "AAL",
       "name": "American Airlines Group Inc.",
       "theme": "航空",
       "changePercent": -3.2068062827225146,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "第二季財報即將公布，分析師預期航空業需求前景樂觀。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI相關產業，特別是AI伺服器、AI晶片和記憶體族群。資金主要集中在這些領域，反映市場對AI基礎設施的強勁需求和未來成長潛力。Super Micro Computer (SMCI) 因其AI伺服器訂單大爆發而帶動了成交量，顯示市場正在交易AI應用對硬體升級的迫切需求。此外，記憶體價格因AI需求而大幅上漲，也吸引了大量資金關注。",
+    "highlights": "本日美股成交重點集中在AI相關題材，特別是AI伺服器、AI晶片和記憶體領域。Super Micro Computer (SMCI) 因大幅上修毛利率預估及龐大訂單而飆漲近20%，成為市場焦點，帶動AI伺服器族群。Micron Technology (MU) 則受惠於被Bank of America納入優選名單，以及市場對AI記憶體需求的強勁預期而走高。Nvidia (NVDA) 和AMD (AMD) 等AI晶片股也因產業利多和新合作消息而維持高檔交易量，顯示資金持續追逐AI基礎建設的長期成長故事。",
     "eventsPast": [
       {
-        "title": "美超微電腦訂單大爆發",
-        "detail": "美超微電腦 (SMCI) 宣布截至6月的財季新增訂單總額突破600億美元，創下歷史紀錄，並大幅上調獲利預期，激勵股價飆升。"
+        "title": "Super Micro Computer (SMCI) 大幅上修毛利率及訂單",
+        "detail": "SMCI 公布第四季初步財測，預期毛利率將達15%至17%，遠高於先前預估，且單季新接訂單超過600億美元，推升積壓訂單至歷史新高，帶動股價飆漲。"
       },
       {
-        "title": "SpaceX擬向鴻海採購AI伺服器",
-        "detail": "SpaceX (SPCX) 計劃向鴻海訂購約1.3萬個英偉達GB300 AI伺服器機架，交易規模可能達到520億美元，顯示其對AI基礎設施的龐大投資。"
+        "title": "Micron Technology (MU) 獲大行納入優選名單",
+        "detail": "Bank of America 將美光科技納入美股「U.S. 1 List」，加上市場看好AI記憶體需求強勁，推動美光股價上漲。"
       },
       {
-        "title": "AI搶光記憶體產能，PC DRAM價格飆漲",
-        "detail": "人工智慧資料中心建設熱潮持續推升高頻寬記憶體 (HBM) 需求，導致傳統DRAM供應吃緊，PC記憶體價格一年內暴漲逾400%。"
+        "title": "AMD (AMD) 獲微軟採用Helios平台並獲分析師上調目標價",
+        "detail": "微軟宣布將採用AMD即將推出的Helios機櫃級AI平台，為Azure雲端服務提供AI運算能力，同時Rosenblatt和瑞銀上調AMD目標價。"
       },
       {
-        "title": "美國存儲晶片股普遍反彈",
-        "detail": "美光 (MU)、閃迪 (SNDK)、威騰電子 (WDC) 及希捷 (STX) 等美國存儲晶片與儲存設備類股普遍反彈，市場持續評估AI數據中心對HBM及企業級固態硬碟的強勁需求。"
+        "title": "SpaceX (SPCX) 股價跌破IPO發行價且將迎來解禁潮",
+        "detail": "SpaceX股價一度跌破每股135美元的發行價，且預計8月6日將有高達1160億美元的內部人士股票解禁，可能增加市場賣壓。"
       },
       {
-        "title": "AI晶片股面臨「高成長疲勞期」",
-        "detail": "在資本市場持續追捧AI與大型資料中心建設之際，AI晶片股面臨供應鏈成本上升和投資情緒重估的挑戰，部分軟體股也遭遇資金流出。"
+        "title": "Meta Platforms (META) 傳洽談AI算力租賃",
+        "detail": "Meta Platforms 據傳正與AI新創公司Anthropic洽談一筆高達100億美元的運算能力租賃協議，顯示Meta積極拓展AI雲端服務。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "本週四",
-        "title": "美國初次申請失業救濟金人數",
-        "detail": "市場將關注此數據以評估美國就業市場狀況。"
+        "date": "7/29",
+        "title": "Meta Platforms (META) 第二季度財報",
+        "detail": "Meta Platforms 預計將公布第二季度財報，市場關注其AI相關投資回報與雲端服務的發展。"
       },
       {
-        "date": "7/24",
-        "title": "美國新屋銷售",
-        "detail": "此數據將反映美國房市景氣，進而影響股市對經濟前景的評估。"
+        "date": "8/6",
+        "title": "SpaceX (SPCX) 股票解禁",
+        "detail": "SpaceX 首批內部人士股票禁售期將解除，預計有1160億美元的股票可供交易，可能對股價造成影響。"
       },
       {
-        "date": "未定",
-        "title": "Tesla、Alphabet、Intel等科技巨頭財報",
-        "detail": "隨著美股財報季進入第二週，市場將聚焦這些科技巨頭的盈利預期，以判斷AI主題的可持續性。"
+        "date": "8/8",
+        "title": "SpaceX (SPCX) 首次公布季度業績",
+        "detail": "SpaceX 將在股票解禁後兩天首次公布季度業績，市場將密切關注其財務表現。"
       },
       {
-        "date": "未定",
-        "title": "Fed會議紀要",
-        "detail": "Fed將公布6月會議紀要，市場將從中尋找未來貨幣政策走向的線索。"
+        "date": "8/11",
+        "title": "Super Micro Computer (SMCI) 正式財報公布",
+        "detail": "SMCI 將公布正式的第四季財報，市場將驗證其先前的毛利率上修及訂單數據。"
       },
       {
-        "date": "未定",
-        "title": "美伊衝突進展",
-        "detail": "中東局勢緊張和通膨升溫疑慮，Fed鷹派基調難以大幅轉變，壓抑市場情緒，市場將持續關注美伊衝突的進展及其對油價的影響。"
+        "date": "8/12",
+        "title": "美國7月消費者物價指數 (CPI) 公布",
+        "detail": "美國勞工統計局將公布7月份CPI數據，此為聯準會利率決策的關鍵通膨指標。"
       }
     ]
   }
