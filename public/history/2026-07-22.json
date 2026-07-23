@@ -177,7 +177,7 @@
       "dollarVolume": 6688694066.3003845,
       "marketCap": 1887855398368.3801,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "AI 晶片",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": -1,
       "streak": 92
@@ -268,7 +268,7 @@
       "dollarVolume": 4298038644.777751,
       "marketCap": 160089726758.4,
       "sector": "TELEPHONE COMMUNICATIONS (NO RADIOTELEPHONE)",
-      "theme": "電信服務",
+      "theme": "電信",
       "isNew": false,
       "rankChange": 8,
       "streak": 3
@@ -307,7 +307,7 @@
       "dollarVolume": 3560400233.3374343,
       "marketCap": 184574052000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "AI 晶片",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": -4,
       "streak": 82
@@ -320,7 +320,7 @@
       "dollarVolume": 3238206017.6242127,
       "marketCap": 126108335360,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "廣告科技",
+      "theme": "行動廣告/軟體",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -372,7 +372,7 @@
       "dollarVolume": 3147023000.935941,
       "marketCap": 267740198184.29,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "類比IC",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": 3,
       "streak": 2
@@ -398,7 +398,7 @@
       "dollarVolume": 3036391493.8096766,
       "marketCap": 193400194065.6,
       "sector": "COMPUTER & OFFICE EQUIPMENT",
-      "theme": "企業軟體/服務",
+      "theme": "企業軟體/AI",
       "isNew": false,
       "rankChange": 4,
       "streak": 7
@@ -450,7 +450,7 @@
       "dollarVolume": 2665164234.955104,
       "marketCap": 362478470640,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "企業軟體/雲端",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": -9,
       "streak": 92
@@ -593,7 +593,7 @@
       "dollarVolume": 1929982031.2520869,
       "marketCap": 126790030120.77998,
       "sector": "INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL",
-      "theme": "生命科學儀器",
+      "theme": "醫療儀器",
       "isNew": false,
       "rankChange": -27,
       "streak": 2
@@ -632,7 +632,7 @@
       "dollarVolume": 1807868512.746685,
       "marketCap": 1095254672592.0599,
       "sector": "PHARMACEUTICAL PREPARATIONS",
-      "theme": "減肥藥 GLP-1",
+      "theme": "生技製藥",
       "isNew": false,
       "rankChange": -12,
       "streak": 44
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-07-22T20:00:00.000Z",
-  "generatedAt": "2026-07-23T04:30:37.128Z",
+  "generatedAt": "2026-07-23T05:48:36.973Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "AI 伺服器",
-      "reason": "市場對AI基礎設施的需求持續強勁，帶動相關伺服器供應商的營收成長預期。",
+      "reason": "市場對AI基礎設施的需求持續增長，帶動相關伺服器供應商股價表現強勁。",
       "symbols": [
         "SMCI",
         "DELL"
@@ -668,20 +668,18 @@
     },
     {
       "theme": "AI 晶片",
-      "reason": "AI技術的快速發展持續推動對高效能AI晶片的需求，相關供應商受惠於市場擴張。",
+      "reason": "AI技術的快速發展持續推動對高效能AI晶片的需求，相關領導廠商表現突出。",
       "symbols": [
         "NVDA",
         "AMD",
-        "AVGO",
-        "MRVL",
         "CBRS"
       ],
-      "count": 5,
-      "avgChange": 1.6932906144894808
+      "count": 3,
+      "avgChange": 1.4473043338088936
     },
     {
       "theme": "儲存裝置",
-      "reason": "隨著數據量的爆炸性增長，對高效能和高容量儲存解決方案的需求不斷增加。",
+      "reason": "隨著數據量爆炸性增長，對儲存解決方案的需求增加，帶動相關廠商股價上漲。",
       "symbols": [
         "SNDK",
         "STX",
@@ -692,7 +690,7 @@
     },
     {
       "theme": "銀行",
-      "reason": "市場預期聯準會降息時程可能延後，有助於銀行業維持較高的淨利息收益。",
+      "reason": "市場對經濟前景的樂觀情緒以及潛在的利率政策變化，對銀行業構成利好。",
       "symbols": [
         "BAC",
         "JPM"
@@ -702,7 +700,7 @@
     },
     {
       "theme": "生技製藥",
-      "reason": "特定藥物研發進展或市場需求增長，推動相關製藥公司的股價上漲。",
+      "reason": "特定藥物研發進展或市場需求預期，推動部分生技製藥公司股價上揚。",
       "symbols": [
         "JNJ"
       ],
@@ -710,8 +708,8 @@
       "avgChange": 2.003112405730011
     },
     {
-      "theme": "電信服務",
-      "reason": "電信服務作為基礎設施，其穩定性及潛在的股息收益吸引資金關注。",
+      "theme": "電信",
+      "reason": "電信服務的穩定需求和潛在的基礎設施升級，為電信股帶來支撐。",
       "symbols": [
         "T"
       ],
@@ -732,12 +730,12 @@
       "name": "SERVICENOW, INC.",
       "theme": "雲端軟體 SaaS",
       "changePercent": -6.466784244562031,
-      "reason": "第二季財報營收、每股盈餘均優於預期，AI平台Now Assist成長動能強勁。"
+      "reason": "第二季財報超預期，AI年度合約價值突破10億美元，並上調全年訂閱收入指引。"
     },
     {
       "symbol": "APP",
       "name": "Applovin Corporation Class A Common Stock",
-      "theme": "廣告科技",
+      "theme": "行動廣告/軟體",
       "changePercent": -3.7812871772142995,
       "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
@@ -746,28 +744,28 @@
       "name": "Bank of America Corporation",
       "theme": "銀行",
       "changePercent": 0.6533812479581813,
-      "reason": "第二季財報獲利與營收均超預期，並確認發放優先股股息。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "JPM",
       "name": "JPMorgan Chase & Co.",
       "theme": "銀行",
       "changePercent": 0.8631926541725694,
-      "reason": "第二季財報表現強勁超預期，美銀上調目標價至408美元。"
+      "reason": "美銀看好其投資銀行復甦、AI資本支出與財富管理流入，上調目標價。"
     },
     {
       "symbol": "CBRS",
       "name": "Cerebras Systems Inc. Class A Common Stock",
       "theme": "AI 晶片",
       "changePercent": 0.5897300666443008,
-      "reason": "盤中勁揚逾5%，技術面轉強吸引資金回流。"
+      "reason": "AI晶片股盤中飆漲，技術面轉強吸引資金回流。"
     },
     {
       "symbol": "JNJ",
       "name": "Johnson & Johnson",
       "theme": "生技製藥",
       "changePercent": 2.003112405730011,
-      "reason": "第二季財報業績超預期，並上調全年展望。"
+      "reason": "第二季業績超預期，並上調全年展望，創新醫藥需求強勁。"
     },
     {
       "symbol": "XOM",
@@ -781,65 +779,65 @@
       "name": "CoreWeave, Inc. Class A Common Stock",
       "theme": "雲端/AI 軟體",
       "changePercent": 3.8451872329731116,
-      "reason": "獲Truist看好回升，且技術面顯示超跌後買盤湧入。"
+      "reason": "獲Truist看好回升，AI雲基本面折價吸引買盤，技術面超跌後買盤湧入。"
     },
     {
       "symbol": "AAL",
       "name": "American Airlines Group Inc.",
       "theme": "航空",
       "changePercent": -3.2068062827225146,
-      "reason": "中東地緣政治升溫引發航空股回調，股價挫跌。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點集中在AI相關族群，特別是AI伺服器和記憶體類股。美超微電腦（SMCI）因其AI伺服器訂單大爆發，單季新增訂單突破600億美元，成為當日漲幅最大的個股，帶動了AI伺服器概念股的熱度。記憶體類股如美光（MU）和Sandisk（SNDK）也表現強勁，市場對記憶體產業受惠於AI算力需求的預期，推動了資金流入。整體而言，市場正在交易AI基礎設施建設的強勁需求故事，儘管部分大型科技股面臨財報考驗，但AI硬體供應鏈的樂觀展望成為主要驅動力。",
+    "highlights": "本日美股成交重點聚焦於AI相關產業，特別是AI伺服器、AI晶片和記憶體族群。資金主要集中在這些領域，反映市場對AI基礎設施的強勁需求和未來成長潛力。Super Micro Computer (SMCI) 因其AI伺服器訂單大爆發而帶動了成交量，顯示市場正在交易AI應用對硬體升級的迫切需求。此外，記憶體價格因AI需求而大幅上漲，也吸引了大量資金關注。",
     "eventsPast": [
       {
-        "title": "美超微電腦AI伺服器訂單大爆發",
-        "detail": "美超微電腦（SMCI）宣布截至6月的財季新增訂單總額突破600億美元，創下歷史紀錄，並大幅上調獲利預期，盤前股價飆漲逾15%。"
+        "title": "美超微電腦訂單大爆發",
+        "detail": "美超微電腦 (SMCI) 宣布截至6月的財季新增訂單總額突破600億美元，創下歷史紀錄，並大幅上調獲利預期，激勵股價飆升。"
       },
       {
-        "title": "美光科技市值重返萬億美元",
-        "detail": "美光科技（MU）股價收高，市值重新回到1萬億美元之上，其CEO表示受AI算力需求拉動，記憶體供需緊張格局將延續至2027年之後。"
+        "title": "SpaceX擬向鴻海採購AI伺服器",
+        "detail": "SpaceX (SPCX) 計劃向鴻海訂購約1.3萬個英偉達GB300 AI伺服器機架，交易規模可能達到520億美元，顯示其對AI基礎設施的龐大投資。"
       },
       {
-        "title": "半導體類股強勁反彈",
-        "detail": "華爾街結束連續三天的跌勢，半導體和儲存晶片股強勁反彈，費城半導體指數上漲約5.2%，美光、閃迪和希捷漲幅均超10%。"
+        "title": "AI搶光記憶體產能，PC DRAM價格飆漲",
+        "detail": "人工智慧資料中心建設熱潮持續推升高頻寬記憶體 (HBM) 需求，導致傳統DRAM供應吃緊，PC記憶體價格一年內暴漲逾400%。"
       },
       {
-        "title": "特斯拉公布第二季財報",
-        "detail": "特斯拉（TSLA）財報不如預期，第二季自由現金流轉為負值，為兩年多來首見，盤後股價承壓。"
+        "title": "美國存儲晶片股普遍反彈",
+        "detail": "美光 (MU)、閃迪 (SNDK)、威騰電子 (WDC) 及希捷 (STX) 等美國存儲晶片與儲存設備類股普遍反彈，市場持續評估AI數據中心對HBM及企業級固態硬碟的強勁需求。"
       },
       {
-        "title": "Alphabet公布財報",
-        "detail": "Alphabet（GOOGL, GOOG）盤後股價一度下跌近5%，儘管雲端營收優於預期，但繼續上修全年資本支出預測。"
+        "title": "AI晶片股面臨「高成長疲勞期」",
+        "detail": "在資本市場持續追捧AI與大型資料中心建設之際，AI晶片股面臨供應鏈成本上升和投資情緒重估的挑戰，部分軟體股也遭遇資金流出。"
       }
     ],
     "eventsUpcoming": [
       {
         "date": "本週四",
-        "title": "Intel、美國航空、Comcast和洛克希德馬丁財報",
-        "detail": "投資人將關注這些公司的財報，特別是Intel作為半導體巨頭的業績表現。"
+        "title": "美國初次申請失業救濟金人數",
+        "detail": "市場將關注此數據以評估美國就業市場狀況。"
       },
       {
-        "date": "本週四",
-        "title": "歐洲央行利率決策",
-        "detail": "歐洲央行將公布利率決策，可能對全球市場情緒產生影響。"
+        "date": "7/24",
+        "title": "美國新屋銷售",
+        "detail": "此數據將反映美國房市景氣，進而影響股市對經濟前景的評估。"
       },
       {
-        "date": "本週五",
-        "title": "美國運通和Verizon財報",
-        "detail": "美國運通和Verizon將公布業績。"
+        "date": "未定",
+        "title": "Tesla、Alphabet、Intel等科技巨頭財報",
+        "detail": "隨著美股財報季進入第二週，市場將聚焦這些科技巨頭的盈利預期，以判斷AI主題的可持續性。"
       },
       {
-        "date": "7月24日",
-        "title": "美國新關稅政策",
-        "detail": "特朗普政府正在籌備新的關稅措施，以應對將於7月24日（週五）到期的臨時全球關稅安排。"
+        "date": "未定",
+        "title": "Fed會議紀要",
+        "detail": "Fed將公布6月會議紀要，市場將從中尋找未來貨幣政策走向的線索。"
       },
       {
-        "date": "9月",
-        "title": "美中人工智能對話",
-        "detail": "美國和中國計劃於9月舉行正式的人工智能對話，議題包括前沿模型安全、知識產權、網絡與軍事應用及先進技術管制。"
+        "date": "未定",
+        "title": "美伊衝突進展",
+        "detail": "中東局勢緊張和通膨升溫疑慮，Fed鷹派基調難以大幅轉變，壓抑市場情緒，市場將持續關注美伊衝突的進展及其對油價的影響。"
       }
     ]
   }
