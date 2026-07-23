@@ -99,7 +99,7 @@
       "dollarVolume": 9995459257.12265,
       "marketCap": 911749526261.4,
       "sector": "—",
-      "theme": "太空",
+      "theme": "太空探索",
       "isNew": false,
       "rankChange": 3,
       "streak": 26
@@ -138,7 +138,7 @@
       "dollarVolume": 7673847545.056446,
       "marketCap": 2202228725140,
       "sector": "—",
-      "theme": "半導體製造",
+      "theme": "晶圓代工",
       "isNew": false,
       "rankChange": 5,
       "streak": 91
@@ -151,7 +151,7 @@
       "dollarVolume": 6870971147.968406,
       "marketCap": 2662922440881.8003,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電商與雲端",
+      "theme": "電子商務",
       "isNew": false,
       "rankChange": -2,
       "streak": 91
@@ -164,7 +164,7 @@
       "dollarVolume": 6670411692.010716,
       "marketCap": 1838804746527,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體基礎設施",
+      "theme": "半導體網路通訊",
       "isNew": false,
       "rankChange": 1,
       "streak": 91
@@ -255,7 +255,7 @@
       "dollarVolume": 4591267451.044977,
       "marketCap": 181923408000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體基礎設施",
+      "theme": "半導體網路通訊",
       "isNew": false,
       "rankChange": -5,
       "streak": 81
@@ -320,7 +320,7 @@
       "dollarVolume": 3831828907.7870364,
       "marketCap": 289155534917.76,
       "sector": "SERVICES-VIDEO TAPE RENTAL",
-      "theme": "串流媒體",
+      "theme": "影音串流",
       "isNew": false,
       "rankChange": -5,
       "streak": 35
@@ -385,7 +385,7 @@
       "dollarVolume": 3087014680.3873806,
       "marketCap": 304596823168.44,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "數據分析軟體",
+      "theme": "大數據分析",
       "isNew": false,
       "rankChange": -11,
       "streak": 91
@@ -411,7 +411,7 @@
       "dollarVolume": 2981691623.6261845,
       "marketCap": 265110030018.30002,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "類比晶片",
+      "theme": "類比IC",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -541,7 +541,7 @@
       "dollarVolume": 2190275128.330508,
       "marketCap": 684681843693.0499,
       "sector": "FIRE, MARINE & CASUALTY INSURANCE",
-      "theme": "多元控股",
+      "theme": "綜合保險",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -567,7 +567,7 @@
       "dollarVolume": 2162765612.836938,
       "marketCap": 4058563752.6,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "無線通訊",
+      "theme": "無線通訊設備",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -580,7 +580,7 @@
       "dollarVolume": 2161437340.5632157,
       "marketCap": 28419323468.760002,
       "sector": "OPTICAL INSTRUMENTS & LENSES",
-      "theme": "半導體設備",
+      "theme": "半導體檢測設備",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -645,30 +645,20 @@
       "dollarVolume": 2093595951.0769322,
       "marketCap": 84150404479.28,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "線上券商",
+      "theme": "證券經紀",
       "isNew": false,
       "rankChange": -2,
       "streak": 5
     }
   ],
   "asOf": "2026-07-21T20:00:00.000Z",
-  "generatedAt": "2026-07-22T13:14:16.944Z",
+  "generatedAt": "2026-07-23T02:04:16.544Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
-      "theme": "記憶體",
-      "reason": "AI應用對高頻寬記憶體(HBM)需求持續增長，帶動整體記憶體產業景氣復甦與價格上漲預期。",
-      "symbols": [
-        "MU",
-        "SKHY"
-      ],
-      "count": 2,
-      "avgChange": 12.960447937853
-    },
-    {
       "theme": "儲存裝置",
-      "reason": "記憶體產業的復甦趨勢也延伸至儲存裝置領域，市場預期需求將回溫。",
+      "reason": "市場對資料儲存需求持續增長，特別是AI應用帶動高容量儲存解決方案的需求，相關廠商營收展望樂觀。",
       "symbols": [
         "SNDK",
         "STX",
@@ -678,8 +668,18 @@
       "avgChange": 12.63811183291032
     },
     {
+      "theme": "記憶體",
+      "reason": "AI伺服器對高頻寬記憶體（HBM）的需求激增，帶動整體記憶體市場復甦，相關供應商受惠。",
+      "symbols": [
+        "MU",
+        "SKHY"
+      ],
+      "count": 2,
+      "avgChange": 12.960447937853
+    },
+    {
       "theme": "半導體設備",
-      "reason": "全球半導體產業擴張與技術升級，持續推動對先進製程設備的需求。",
+      "reason": "全球半導體產業景氣回升，晶圓廠擴建與技術升級需求，推動半導體設備訂單增長。",
       "symbols": [
         "AMAT",
         "LRCX",
@@ -691,7 +691,7 @@
     },
     {
       "theme": "AI 晶片",
-      "reason": "人工智慧技術的快速發展，持續推升對高效能AI晶片的需求。",
+      "reason": "人工智慧技術快速發展，對高效能運算晶片的需求持續強勁，推動相關晶片設計公司股價上漲。",
       "symbols": [
         "NVDA",
         "AMD"
@@ -701,7 +701,7 @@
     },
     {
       "theme": "比特幣/加密",
-      "reason": "加密貨幣市場波動與相關政策發展，影響投資人對加密貨幣相關公司的信心。",
+      "reason": "加密貨幣市場情緒回暖，比特幣價格波動吸引資金流入相關交易平台及挖礦公司。",
       "symbols": [
         "COIN",
         "IREN"
@@ -710,14 +710,14 @@
       "avgChange": 6.161555713299107
     },
     {
-      "theme": "半導體製造",
-      "reason": "全球晶片需求增長，晶圓代工廠受惠於訂單增加。",
+      "theme": "半導體網路通訊",
+      "reason": "5G、資料中心及AI基礎設施建設持續推進，對高速網路通訊晶片及相關半導體元件需求旺盛。",
       "symbols": [
-        "INTC",
-        "TSM"
+        "AVGO",
+        "MRVL"
       ],
       "count": 2,
-      "avgChange": 7.094875186818592
+      "avgChange": 4.442196922090818
     }
   ],
   "newEntrants": [
@@ -726,56 +726,56 @@
       "name": "Danaher Corporation",
       "theme": "生命科學工具",
       "changePercent": -10.989010989011,
-      "reason": "第二季財報優於預期，並上調全年財測，但生物製程營收疲軟導致股價下跌。"
+      "reason": "第二季財報優於預期，且完成收購Masimo公司，上調全年財測。"
     },
     {
       "symbol": "TXN",
       "name": "Texas Instruments Incorporated",
-      "theme": "類比晶片",
+      "theme": "類比IC",
       "changePercent": 2.5451473228429675,
-      "reason": "第二季財報優於預期，受惠於工業和汽車領域需求復甦，且預計類比半導體週期將迎來拐點。"
+      "reason": "第二季財報與第三季財測皆優於預期，營收年增23%。"
     },
     {
       "symbol": "COIN",
       "name": "Coinbase Global, Inc. Class A Common Stock",
       "theme": "比特幣/加密",
       "changePercent": 9.611668640528572,
-      "reason": "計劃將業務擴展到加拿大，提供代幣化股票和預測市場，並在穩定幣獎勵方面與銀行高管產生分歧。"
+      "reason": "與SEC達成訴訟和解，並宣布與MassPay合作推動穩定幣跨境支付。"
     },
     {
       "symbol": "QCOM",
       "name": "Qualcomm Inc",
       "theme": "行動通訊晶片",
       "changePercent": 1.8670737435415727,
-      "reason": "上調2029財年非手機業務營收目標至400億美元，其中資料中心業務貢獻150億美元。"
+      "reason": "擴大與三星的合作夥伴關係，將Snapdragon晶片整合到新Galaxy系列裝置中。"
     },
     {
       "symbol": "MOH",
       "name": "Molina Healthcare, Inc.",
       "theme": "醫療保險",
       "changePercent": -1.380000870663017,
-      "reason": "被納入S&P MidCap 400指數，且市場關注其即將公布的第二季財報及醫療成本趨勢。"
+      "reason": "第二季財報調整後EPS優於預期，並上調全年調整後EPS財測。"
     },
     {
       "symbol": "BRK.B",
       "name": "BERKSHIRE HATHAWAY Class B",
-      "theme": "多元控股",
+      "theme": "綜合保險",
       "changePercent": -0.3256997455470784,
       "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "ONDS",
       "name": "Ondas Inc. Common Stock",
-      "theme": "無線通訊",
+      "theme": "無線通訊設備",
       "changePercent": 11.499272197962155,
-      "reason": "獲得澳洲國防部690萬美元合約，並宣布在過去四周內獲得7000萬美元新訂單。"
+      "reason": "過去一個月獲得7000萬美元新訂單，特別是國防和安全領域。"
     },
     {
       "symbol": "KLAC",
       "name": "KLA Corporation Common Stock",
-      "theme": "半導體設備",
+      "theme": "半導體檢測設備",
       "changePercent": 4.7976878612716805,
-      "reason": "受惠於半導體和AI基礎設施領域的整體反彈，以及市場對AI相關支出的樂觀情緒。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     }
   ],
   "marketBriefing": {
