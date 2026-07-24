@@ -138,7 +138,7 @@
       "dollarVolume": 11119049692.97317,
       "marketCap": 2513506190815.76,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電子商務/雲端",
+      "theme": "電商/雲端",
       "isNew": false,
       "rankChange": -1,
       "streak": 93
@@ -281,7 +281,7 @@
       "dollarVolume": 3651496012.9867163,
       "marketCap": 283266320475.58,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "大數據/AI 軟體",
+      "theme": "大數據/AI",
       "isNew": false,
       "rankChange": -5,
       "streak": 93
@@ -333,7 +333,7 @@
       "dollarVolume": 3331395730.251108,
       "marketCap": 259367344507.09,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "類比IC",
+      "theme": "類比半導體",
       "isNew": false,
       "rankChange": 3,
       "streak": 3
@@ -554,7 +554,7 @@
       "dollarVolume": 2145612004.9977286,
       "marketCap": 121944265520,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "數位廣告",
+      "theme": "行動廣告",
       "isNew": false,
       "rankChange": -18,
       "streak": 2
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-07-23T20:00:00.000Z",
-  "generatedAt": "2026-07-24T05:45:39.044Z",
+  "generatedAt": "2026-07-24T07:39:54.939Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "生命科學儀器",
-      "reason": "全球對生物科技和醫療診斷的需求持續增長，推動相關儀器設備公司的業績表現。",
+      "reason": "全球對生物科技研發和醫療診斷的需求持續增長，帶動相關儀器設備公司的業績表現。",
       "symbols": [
         "TMO",
         "DHR"
@@ -667,8 +667,35 @@
       "avgChange": 8.084433687319953
     },
     {
+      "theme": "電力基礎建設",
+      "reason": "全球能源轉型和電網現代化趨勢，推動電力基礎設施相關企業的投資與成長。",
+      "symbols": [
+        "GEV"
+      ],
+      "count": 1,
+      "avgChange": 4.686151690811456
+    },
+    {
+      "theme": "國防航太",
+      "reason": "地緣政治緊張局勢升溫，各國增加國防預算，帶動國防工業訂單成長。",
+      "symbols": [
+        "RTX"
+      ],
+      "count": 1,
+      "avgChange": 7.3275862068965525
+    },
+    {
+      "theme": "鐵路運輸",
+      "reason": "物流需求穩定，加上鐵路運輸在成本和環保方面的優勢，吸引資金關注。",
+      "symbols": [
+        "UNP"
+      ],
+      "count": 1,
+      "avgChange": 4.0231063713426245
+    },
+    {
       "theme": "記憶體",
-      "reason": "AI應用對高頻寬記憶體(HBM)需求強勁，市場預期記憶體產業景氣復甦。",
+      "reason": "AI 應用帶動高頻寬記憶體（HBM）需求，以及整體記憶體市場復甦預期。",
       "symbols": [
         "MU",
         "SKHY"
@@ -678,7 +705,7 @@
     },
     {
       "theme": "儲存裝置",
-      "reason": "數據中心擴建和企業級儲存需求增加，帶動硬碟和儲存解決方案供應商的表現。",
+      "reason": "數據中心擴建和企業級儲存需求增加，推動硬碟和固態硬碟市場的穩定成長。",
       "symbols": [
         "SNDK",
         "STX",
@@ -686,35 +713,6 @@
       ],
       "count": 3,
       "avgChange": 0.5212031689482938
-    },
-    {
-      "theme": "半導體設備",
-      "reason": "全球半導體產業擴張，晶圓廠投資持續，設備供應商受惠於資本支出增加。",
-      "symbols": [
-        "AMAT",
-        "LRCX",
-        "ASML"
-      ],
-      "count": 3,
-      "avgChange": 0.6066176806940301
-    },
-    {
-      "theme": "國防航太",
-      "reason": "地緣政治緊張局勢升溫，各國增加國防預算，帶動國防工業相關企業訂單。",
-      "symbols": [
-        "RTX"
-      ],
-      "count": 1,
-      "avgChange": 7.3275862068965525
-    },
-    {
-      "theme": "電力基礎建設",
-      "reason": "全球能源轉型和電網現代化需求，推動電力基礎設施相關公司的成長。",
-      "symbols": [
-        "GEV"
-      ],
-      "count": 1,
-      "avgChange": 4.686151690811456
     }
   ],
   "newEntrants": [
@@ -730,7 +728,7 @@
       "name": "Nu Holdings Ltd.",
       "theme": "金融科技",
       "changePercent": -2.2053756030323934,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "ARK基金近期持續賣出，非明確利多消息。"
     },
     {
       "symbol": "CAT",
@@ -751,55 +749,65 @@
       "name": "RTX Corporation",
       "theme": "國防航太",
       "changePercent": 7.3275862068965525,
-      "reason": "Pratt & Whitney推出AI飛機引擎檢測工具Percept。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "GS",
       "name": "Goldman Sachs Group Inc.",
       "theme": "金融服務",
       "changePercent": -2.138044072118013,
-      "reason": "第二季獲利超預期，投資銀行手續費收入及資產管理收入強勁。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點集中在AI相關的硬體（記憶體、儲存裝置、AI晶片、半導體設備）與軟體（雲端/AI軟體）兩大領域，顯示市場對AI產業鏈的投資熱情不減。其中，記憶體和儲存裝置族群因AI資料中心對儲存需求暴增而表現強勁，特別是美光 (MU) 和Sandisk (SNDK) 獲得資金青睞。然而，特斯拉 (TSLA) 因財報獲利不如預期且自由現金流轉負，股價大幅下跌，而Alphabet (GOOGL, GOOG) 儘管營收亮眼，但因資本支出上修導致自由現金流轉負，也引發市場對AI投資回報的疑慮。",
+    "highlights": "本日美股成交重點聚焦於記憶體族群的強勁表現與AI相關個股的分化。記憶體股如美光 (MU) 和SK海力士 (SKHY) 受惠於AI數據中心對高頻寬記憶體 (HBM) 的強勁需求而逆勢上漲，儘管市場對整體半導體產業的估值仍有疑慮。特斯拉 (TSLA) 因第二季財報獲利不如預期及電動車市場競爭加劇而大跌，而Alphabet (GOOGL, GOOG) 則因大幅上調AI資本支出導致自由現金流轉負，引發市場對AI投資回報的擔憂，使得資金在AI概念股中出現明顯的板塊輪動，從雲端/AI軟體轉向具備稀缺性的上游晶片供應商。",
     "eventsPast": [
       {
-        "title": "特斯拉Q2財報不如預期，自由現金流轉負",
-        "detail": "特斯拉 (TSLA) 第二季營收優於預期，但獲利遠低於預期，自由現金流轉為負11億美元，導致盤後股價下跌。"
+        "title": "記憶體族群強勁反彈",
+        "detail": "摩根士丹利指出，AI驅動的新一輪記憶體景氣循環與過往大不相同，AI帶動的DRAM供需失衡將持續多年，美光 (MU)、SanDisk (SNDK) 和SK海力士 (SKHY) 等記憶體股受此激勵普遍反彈。"
       },
       {
-        "title": "Alphabet Q2財報營收亮眼，但資本支出上修引發現金流擔憂",
-        "detail": "Alphabet (GOOGL, GOOG) 第二季營收年增24%，雲端業務年增82%，但因將2026年資本支出上修至1950億至2050億美元，導致首次出現單季自由現金流轉負，引發市場對AI投資回報的疑慮。"
+        "title": "特斯拉第二季獲利不如預期",
+        "detail": "特斯拉 (TSLA) 公布第二季獲利年減5%至11億美元，低於市場預期，主因車價下跌、監管信用額度收入減少以及供應商電池問題導致能源保固費用增加，導致盤後股價下跌。"
       },
       {
-        "title": "Intel Q2財報表現強勁，上調全年財測",
-        "detail": "Intel (INTC) 第二季營收達161億美元，年增25%，每股獲利0.42美元，幾乎是市場預期的兩倍，數據中心業務營收年增59%，並上調2026年資本支出，預計2027年將顯著增加。"
+        "title": "Alphabet大幅上調AI資本支出",
+        "detail": "Alphabet (GOOGL, GOOG) 將全年資本支出上調至1,950億至2,050億美元，導致自由現金流首次轉負，引發市場對AI投資回報速度的擔憂，股價重挫。"
       },
       {
-        "title": "Raytheon Technologies (RTX) Q2業績超預期並上調全年指引",
-        "detail": "Raytheon Technologies (RTX) 第二季調整後每股盈餘為1.89美元，營收達247億美元，均優於市場預期，並上調全年財測，訂單積壓創紀錄地達到2890億美元，主要受國防需求推動。"
+        "title": "Union Pacific第二季財報優於預期",
+        "detail": "美國鐵路營運商Union Pacific (UNP) 第二季營運收入年增12%至69億美元，調整後每股盈餘達3.41美元，優於市場預期，加上與Norfolk Southern的合併案進展，股價勁揚。"
       },
       {
-        "title": "Thermo Fisher Scientific (TMO) Q2財報前瞻，市場預期營收獲利成長",
-        "detail": "Thermo Fisher Scientific (TMO) 預計於7月23日開盤前公布Q2財報，市場普遍預估每股盈餘(EPS)為5.71美元，年增6.5%，營收預估為117億美元，年增7.7%。"
+        "title": "SpaceX市值蒸發逾1兆美元",
+        "detail": "SpaceX市值在一個多月前創新高後，如今蒸發了逾1兆美元，排名從全美第五大公司跌至第八大，且表現遜於那斯達克交易所的多數大型掛牌案，主要受動能交易出場影響。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "7/29",
-        "title": "Meta Platforms (META) Q2財報公布",
-        "detail": "Meta Platforms (META) 預計於2026年7月29日盤後公布2026年第二季財報，市場關注其在AI算力中心與自研晶片的龐大資本支出是否繼續反映在廣告營收的高成長上，以及元宇宙部門Reality Labs的虧損收斂情況。"
+        "date": "本週三",
+        "title": "Alphabet、特斯拉、IBM公布財報",
+        "detail": "投資人將密切關注這些科技巨頭的財報，以獲取AI相關資本支出計畫與電動車市場需求的最新指引。"
       },
       {
-        "date": "8/5",
-        "title": "Sandisk Corporation (SNDK) Q3財報公布",
-        "detail": "Sandisk Corporation (SNDK) 預計於2026年8月5日發佈下一份收益報告，市場將關注其合約型收入佔比及毛利率表現，以判斷其商業模式轉型至AI基礎建設公司的進展。"
+        "date": "本週四",
+        "title": "Intel公布財報",
+        "detail": "Intel (INTC) 預計於盤後公布財報，其表現將影響半導體製造板塊。"
       },
       {
-        "date": "10/27",
-        "title": "Raytheon Technologies (RTX) Q3財報公布",
-        "detail": "Raytheon Technologies (RTX) 將於2026年10月27日發佈下一份收益報告。"
+        "date": "8月4日",
+        "title": "SpaceX公布上市後首份財報",
+        "detail": "SpaceX將公布上市後的首份財報，同時解除內部人售股禁制，可能引發市場波動。"
+      },
+      {
+        "date": "8月6日",
+        "title": "SpaceX內部人股票解禁",
+        "detail": "SpaceX將允許內部人出售20%的合規解禁股票，總計高達9.115億股。"
+      },
+      {
+        "date": "未來幾週",
+        "title": "微軟、Meta、亞馬遜公布財報",
+        "detail": "這些雲端巨頭的財報將揭示AI資本支出對利潤率的影響，以及AI基礎設施建設的進展。"
       }
     ]
   }
