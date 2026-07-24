@@ -125,7 +125,7 @@
       "dollarVolume": 11602470482.827448,
       "marketCap": 2834542114352.32,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體 SaaS",
+      "theme": "雲端/AI 軟體",
       "isNew": false,
       "rankChange": -1,
       "streak": 93
@@ -138,7 +138,7 @@
       "dollarVolume": 11119049692.97317,
       "marketCap": 2513506190815.76,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電商/雲端服務",
+      "theme": "電子商務/雲端",
       "isNew": false,
       "rankChange": -1,
       "streak": 93
@@ -151,7 +151,7 @@
       "dollarVolume": 9383814549.72431,
       "marketCap": 1331023230886.8,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "社群媒體/元宇宙",
+      "theme": "社群媒體/AI",
       "isNew": false,
       "rankChange": 1,
       "streak": 93
@@ -177,7 +177,7 @@
       "dollarVolume": 6408580368.327982,
       "marketCap": 1867207500309.06,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體網路通訊",
+      "theme": "半導體網路",
       "isNew": false,
       "rankChange": 0,
       "streak": 93
@@ -307,7 +307,7 @@
       "dollarVolume": 3423007378.813354,
       "marketCap": 183113136000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體網路通訊",
+      "theme": "半導體網路",
       "isNew": false,
       "rankChange": 0,
       "streak": 83
@@ -554,7 +554,7 @@
       "dollarVolume": 2145612004.9977286,
       "marketCap": 121944265520,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "廣告科技",
+      "theme": "數位廣告",
       "isNew": false,
       "rankChange": -18,
       "streak": 2
@@ -580,7 +580,7 @@
       "dollarVolume": 2086098128.9843724,
       "marketCap": 61809652516.4,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "氫能源",
+      "theme": "燃料電池",
       "isNew": false,
       "rankChange": -4,
       "streak": 7
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-07-23T20:00:00.000Z",
-  "generatedAt": "2026-07-24T04:31:06.272Z",
+  "generatedAt": "2026-07-24T05:45:39.044Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "生命科學儀器",
-      "reason": "全球對生物科技研發和醫療診斷的需求持續增長，帶動相關儀器設備公司的業績表現。",
+      "reason": "全球對生物科技和醫療診斷的需求持續增長，推動相關儀器設備公司的業績表現。",
       "symbols": [
         "TMO",
         "DHR"
@@ -668,7 +668,7 @@
     },
     {
       "theme": "記憶體",
-      "reason": "AI 應用對高頻寬記憶體（HBM）的需求激增，加上整體記憶體市場復甦預期，推動相關個股上漲。",
+      "reason": "AI應用對高頻寬記憶體(HBM)需求強勁，市場預期記憶體產業景氣復甦。",
       "symbols": [
         "MU",
         "SKHY"
@@ -678,7 +678,7 @@
     },
     {
       "theme": "儲存裝置",
-      "reason": "數據儲存需求持續成長，企業級儲存解決方案的穩定需求支撐了相關公司的表現。",
+      "reason": "數據中心擴建和企業級儲存需求增加，帶動硬碟和儲存解決方案供應商的表現。",
       "symbols": [
         "SNDK",
         "STX",
@@ -689,7 +689,7 @@
     },
     {
       "theme": "半導體設備",
-      "reason": "全球半導體產業擴張，晶圓廠投資增加，帶動半導體設備供應商的訂單與營收成長。",
+      "reason": "全球半導體產業擴張，晶圓廠投資持續，設備供應商受惠於資本支出增加。",
       "symbols": [
         "AMAT",
         "LRCX",
@@ -699,22 +699,22 @@
       "avgChange": 0.6066176806940301
     },
     {
-      "theme": "電力基礎建設",
-      "reason": "全球能源轉型和電網現代化需求，推動電力基礎設施相關設備與服務供應商的成長。",
-      "symbols": [
-        "GEV"
-      ],
-      "count": 1,
-      "avgChange": 4.686151690811456
-    },
-    {
       "theme": "國防航太",
-      "reason": "地緣政治緊張局勢升溫，各國增加國防預算，帶動國防航太產業訂單成長。",
+      "reason": "地緣政治緊張局勢升溫，各國增加國防預算，帶動國防工業相關企業訂單。",
       "symbols": [
         "RTX"
       ],
       "count": 1,
       "avgChange": 7.3275862068965525
+    },
+    {
+      "theme": "電力基礎建設",
+      "reason": "全球能源轉型和電網現代化需求，推動電力基礎設施相關公司的成長。",
+      "symbols": [
+        "GEV"
+      ],
+      "count": 1,
+      "avgChange": 4.686151690811456
     }
   ],
   "newEntrants": [
@@ -723,35 +723,35 @@
       "name": "Thermo Fisher Scientific, Inc.",
       "theme": "生命科學儀器",
       "changePercent": 8.711013182388028,
-      "reason": "第二季財報優於預期並上修全年財測，加上近期收購案表現良好。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "NU",
       "name": "Nu Holdings Ltd.",
       "theme": "金融科技",
       "changePercent": -2.2053756030323934,
-      "reason": "近期獲得巴西新銀行牌照，但股價受市場風險情緒減弱影響走低。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "CAT",
       "name": "Caterpillar Inc.",
       "theme": "重型機械",
       "changePercent": 0.5880963893355543,
-      "reason": "分析師上調盈利預期，看好建築、電力、資料中心等多領域需求。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "UNP",
       "name": "Union Pacific Corp.",
       "theme": "鐵路運輸",
       "changePercent": 4.0231063713426245,
-      "reason": "第二季財報營收、EPS均超預期，並上調全年財測。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "RTX",
       "name": "RTX Corporation",
       "theme": "國防航太",
       "changePercent": 7.3275862068965525,
-      "reason": "第二季業績與全年展望均超預期，訂單積壓量創紀錄。"
+      "reason": "Pratt & Whitney推出AI飛機引擎檢測工具Percept。"
     },
     {
       "symbol": "GS",
@@ -762,54 +762,44 @@
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI相關產業的劇烈波動，其中記憶體和儲存裝置族群因AI需求強勁而表現突出，美光科技（MU）和SK海力士（SKHY）漲幅顯著，顯示市場對AI記憶體供應吃緊和價格上漲的預期。特斯拉（TSLA）則因財報不如預期及對AI和機器人投資的巨額支出導致自由現金流為負，股價大幅下跌。此外，Alphabet（GOOGL, GOOG）儘管雲端業務表現亮眼，但因AI基礎設施的高額資本支出導致首次出現現金消耗，也引發市場對大型科技公司AI投資回報的擔憂。AI晶片股如Nvidia（NVDA）和AMD（AMD）雖然有新產品發表和合作消息，但整體市場對AI支出的疑慮仍使其股價承壓。",
+    "highlights": "本日美股成交重點集中在AI相關的硬體（記憶體、儲存裝置、AI晶片、半導體設備）與軟體（雲端/AI軟體）兩大領域，顯示市場對AI產業鏈的投資熱情不減。其中，記憶體和儲存裝置族群因AI資料中心對儲存需求暴增而表現強勁，特別是美光 (MU) 和Sandisk (SNDK) 獲得資金青睞。然而，特斯拉 (TSLA) 因財報獲利不如預期且自由現金流轉負，股價大幅下跌，而Alphabet (GOOGL, GOOG) 儘管營收亮眼，但因資本支出上修導致自由現金流轉負，也引發市場對AI投資回報的疑慮。",
     "eventsPast": [
       {
-        "title": "Intel 公布第二季財報，AI 需求推動營收成長",
-        "detail": "Intel 於 2026 年 7 月 23 日公布第二季財報，營收達 161 億美元，年增 25%，主要受惠於 AI 運算需求的強勁增長。"
+        "title": "特斯拉Q2財報不如預期，自由現金流轉負",
+        "detail": "特斯拉 (TSLA) 第二季營收優於預期，但獲利遠低於預期，自由現金流轉為負11億美元，導致盤後股價下跌。"
       },
       {
-        "title": "AMD 推出新一代 AI 基礎設施和實體 AI 產品組合",
-        "detail": "AMD 於 2026 年 7 月 23 日在 Advancing AI 2026 活動中，推出其 Helios 機架規模解決方案，並預計到 2030 年，AI 加速器市場規模將達到 1.4 兆美元。"
+        "title": "Alphabet Q2財報營收亮眼，但資本支出上修引發現金流擔憂",
+        "detail": "Alphabet (GOOGL, GOOG) 第二季營收年增24%，雲端業務年增82%，但因將2026年資本支出上修至1950億至2050億美元，導致首次出現單季自由現金流轉負，引發市場對AI投資回報的疑慮。"
       },
       {
-        "title": "Alphabet 第二季財報顯示雲端業務強勁增長，但 AI 支出導致現金消耗",
-        "detail": "Alphabet 於 2026 年 7 月 22 日公布第二季財報，營收達 1198 億美元，年增 24%，其中 Google Cloud 營收增長 82%，但因 AI 基礎設施的龐大投資，導致該公司首次出現現金消耗。"
+        "title": "Intel Q2財報表現強勁，上調全年財測",
+        "detail": "Intel (INTC) 第二季營收達161億美元，年增25%，每股獲利0.42美元，幾乎是市場預期的兩倍，數據中心業務營收年增59%，並上調2026年資本支出，預計2027年將顯著增加。"
       },
       {
-        "title": "特斯拉第二季財報不如預期，AI 和機器人投資導致自由現金流為負",
-        "detail": "特斯拉於 2026 年 7 月 23 日公布的第二季財報顯示，每股盈餘低於華爾街預期，且因對 AI 和機器人技術的巨額投資，導致公司兩年多來首次出現負自由現金流，股價因此大跌。"
+        "title": "Raytheon Technologies (RTX) Q2業績超預期並上調全年指引",
+        "detail": "Raytheon Technologies (RTX) 第二季調整後每股盈餘為1.89美元，營收達247億美元，均優於市場預期，並上調全年財測，訂單積壓創紀錄地達到2890億美元，主要受國防需求推動。"
       },
       {
-        "title": "SpaceX Starship 13 號飛行測試延遲",
-        "detail": "SpaceX 原定於 2026 年 7 月 23 日進行的 Starship 13 號飛行測試，因天氣因素延遲至 7 月 24 日。"
+        "title": "Thermo Fisher Scientific (TMO) Q2財報前瞻，市場預期營收獲利成長",
+        "detail": "Thermo Fisher Scientific (TMO) 預計於7月23日開盤前公布Q2財報，市場普遍預估每股盈餘(EPS)為5.71美元，年增6.5%，營收預估為117億美元，年增7.7%。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "本週五",
-        "title": "SpaceX Starship 13 號飛行測試",
-        "detail": "SpaceX 預計於 2026 年 7 月 24 日（週五）進行 Starship 13 號的飛行測試，此次任務將部署首批 Starlink V3 衛星。"
+        "date": "7/29",
+        "title": "Meta Platforms (META) Q2財報公布",
+        "detail": "Meta Platforms (META) 預計於2026年7月29日盤後公布2026年第二季財報，市場關注其在AI算力中心與自研晶片的龐大資本支出是否繼續反映在廣告營收的高成長上，以及元宇宙部門Reality Labs的虧損收斂情況。"
       },
       {
-        "date": "未來幾天",
-        "title": "微軟、Meta Platforms 和 Amazon 將公布財報",
-        "detail": "市場將密切關注微軟、Meta Platforms 和 Amazon 未來幾天公布的財報，以評估其 AI 相關支出的影響。"
+        "date": "8/5",
+        "title": "Sandisk Corporation (SNDK) Q3財報公布",
+        "detail": "Sandisk Corporation (SNDK) 預計於2026年8月5日發佈下一份收益報告，市場將關注其合約型收入佔比及毛利率表現，以判斷其商業模式轉型至AI基礎建設公司的進展。"
       },
       {
-        "date": "2027",
-        "title": "AMD Instinct MI500 系列 GPU 推出",
-        "detail": "AMD 預計在 2027 年推出下一代 Instinct MI500 系列 GPU，將在運算、記憶體和互連技術方面實現領先性能。"
-      },
-      {
-        "date": "2028",
-        "title": "AMD 第七代 EPYC 處理器 (Florence) 推出",
-        "detail": "AMD 計劃在 2028 年推出基於「Zen 7」架構的第七代 EPYC 伺服器 CPU，代號為 Florence。"
-      },
-      {
-        "date": "2028-2029",
-        "title": "Nvidia Kyber Rubin Ultra 延遲交付",
-        "detail": "Nvidia 的下一代 Kyber Rubin Ultra 晶片組的推出可能延遲至 2028-2029 年，主要原因為製造良率挑戰和光學元件整合困難。"
+        "date": "10/27",
+        "title": "Raytheon Technologies (RTX) Q3財報公布",
+        "detail": "Raytheon Technologies (RTX) 將於2026年10月27日發佈下一份收益報告。"
       }
     ]
   }
