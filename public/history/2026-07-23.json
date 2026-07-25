@@ -268,7 +268,7 @@
       "dollarVolume": 3744147447.9853487,
       "marketCap": 345771738840,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體 SaaS",
+      "theme": "企業軟體",
       "isNew": false,
       "rankChange": 14,
       "streak": 93
@@ -281,7 +281,7 @@
       "dollarVolume": 3651496012.9867163,
       "marketCap": 283266320475.58,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "大數據/AI",
+      "theme": "大數據/AI 軟體",
       "isNew": false,
       "rankChange": -5,
       "streak": 93
@@ -333,7 +333,7 @@
       "dollarVolume": 3331395730.251108,
       "marketCap": 259367344507.09,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "類比半導體",
+      "theme": "類比IC",
       "isNew": false,
       "rankChange": 3,
       "streak": 3
@@ -385,7 +385,7 @@
       "dollarVolume": 3131565355.757487,
       "marketCap": 194227293112,
       "sector": "COMPUTER & OFFICE EQUIPMENT",
-      "theme": "企業IT服務",
+      "theme": "企業軟體/服務",
       "isNew": false,
       "rankChange": 1,
       "streak": 8
@@ -567,7 +567,7 @@
       "dollarVolume": 2091714672.991218,
       "marketCap": 281672305800.48,
       "sector": "AIRCRAFT ENGINES & ENGINE PARTS",
-      "theme": "國防航太",
+      "theme": "國防",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-07-23T20:00:00.000Z",
-  "generatedAt": "2026-07-24T07:39:54.939Z",
+  "generatedAt": "2026-07-25T02:05:13.428Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "生命科學儀器",
-      "reason": "全球對生物科技研發和醫療診斷的需求持續增長，帶動相關儀器設備公司的業績表現。",
+      "reason": "市場對醫療檢測、生物技術研究和製藥開發的需求持續增長，帶動相關儀器設備股表現。",
       "symbols": [
         "TMO",
         "DHR"
@@ -667,35 +667,8 @@
       "avgChange": 8.084433687319953
     },
     {
-      "theme": "電力基礎建設",
-      "reason": "全球能源轉型和電網現代化趨勢，推動電力基礎設施相關企業的投資與成長。",
-      "symbols": [
-        "GEV"
-      ],
-      "count": 1,
-      "avgChange": 4.686151690811456
-    },
-    {
-      "theme": "國防航太",
-      "reason": "地緣政治緊張局勢升溫，各國增加國防預算，帶動國防工業訂單成長。",
-      "symbols": [
-        "RTX"
-      ],
-      "count": 1,
-      "avgChange": 7.3275862068965525
-    },
-    {
-      "theme": "鐵路運輸",
-      "reason": "物流需求穩定，加上鐵路運輸在成本和環保方面的優勢，吸引資金關注。",
-      "symbols": [
-        "UNP"
-      ],
-      "count": 1,
-      "avgChange": 4.0231063713426245
-    },
-    {
       "theme": "記憶體",
-      "reason": "AI 應用帶動高頻寬記憶體（HBM）需求，以及整體記憶體市場復甦預期。",
+      "reason": "記憶體市場需求回溫，特別是HBM在AI應用中的重要性日益凸顯，推升相關廠商股價。",
       "symbols": [
         "MU",
         "SKHY"
@@ -704,15 +677,40 @@
       "avgChange": 2.88111233982605
     },
     {
-      "theme": "儲存裝置",
-      "reason": "數據中心擴建和企業級儲存需求增加，推動硬碟和固態硬碟市場的穩定成長。",
+      "theme": "電力基礎建設",
+      "reason": "全球能源轉型與電網現代化需求，加上AI數據中心對電力消耗的增加，使電力基礎建設受到關注。",
       "symbols": [
-        "SNDK",
-        "STX",
-        "WDC"
+        "GEV"
       ],
-      "count": 3,
-      "avgChange": 0.5212031689482938
+      "count": 1,
+      "avgChange": 4.686151690811456
+    },
+    {
+      "theme": "國防",
+      "reason": "地緣政治緊張局勢持續，各國增加國防預算，推動國防工業相關企業營收成長。",
+      "symbols": [
+        "RTX"
+      ],
+      "count": 1,
+      "avgChange": 7.3275862068965525
+    },
+    {
+      "theme": "鐵路運輸",
+      "reason": "經濟活動復甦帶動貨運需求，加上基礎建設投資，使鐵路運輸公司表現穩健。",
+      "symbols": [
+        "UNP"
+      ],
+      "count": 1,
+      "avgChange": 4.0231063713426245
+    },
+    {
+      "theme": "AI 伺服器",
+      "reason": "AI技術的快速發展持續推動對高效能伺服器的需求，相關供應商受惠。",
+      "symbols": [
+        "SMCI"
+      ],
+      "count": 1,
+      "avgChange": 2.094240837696337
     }
   ],
   "newEntrants": [
@@ -721,94 +719,68 @@
       "name": "Thermo Fisher Scientific, Inc.",
       "theme": "生命科學儀器",
       "changePercent": 8.711013182388028,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "第二季財報強勁，營收和獲利均超預期，並上調全年財測。"
     },
     {
       "symbol": "NU",
       "name": "Nu Holdings Ltd.",
       "theme": "金融科技",
       "changePercent": -2.2053756030323934,
-      "reason": "ARK基金近期持續賣出，非明確利多消息。"
+      "reason": "收購Banco Porto Real de Investimentos SA，取得巴西銀行執照。"
     },
     {
       "symbol": "CAT",
       "name": "Caterpillar Inc.",
       "theme": "重型機械",
       "changePercent": 0.5880963893355543,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "與雪佛龍和微軟達成AI資料中心供電協議，市場視為AI基礎設施概念股。"
     },
     {
       "symbol": "UNP",
       "name": "Union Pacific Corp.",
       "theme": "鐵路運輸",
       "changePercent": 4.0231063713426245,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "第二季財報營收與獲利優於預期，並上調全年獲利成長預測。"
     },
     {
       "symbol": "RTX",
       "name": "RTX Corporation",
-      "theme": "國防航太",
+      "theme": "國防",
       "changePercent": 7.3275862068965525,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "第二季財報表現強勁，超出預期，並上調2026年財測。"
     },
     {
       "symbol": "GS",
       "name": "Goldman Sachs Group Inc.",
       "theme": "金融服務",
       "changePercent": -2.138044072118013,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "第二季獲利強勁，投資銀行業務收入大增，並提高季度股息。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於記憶體族群的強勁表現與AI相關個股的分化。記憶體股如美光 (MU) 和SK海力士 (SKHY) 受惠於AI數據中心對高頻寬記憶體 (HBM) 的強勁需求而逆勢上漲，儘管市場對整體半導體產業的估值仍有疑慮。特斯拉 (TSLA) 因第二季財報獲利不如預期及電動車市場競爭加劇而大跌，而Alphabet (GOOGL, GOOG) 則因大幅上調AI資本支出導致自由現金流轉負，引發市場對AI投資回報的擔憂，使得資金在AI概念股中出現明顯的板塊輪動，從雲端/AI軟體轉向具備稀缺性的上游晶片供應商。",
+    "highlights": "本日美股成交重點聚焦於AI相關科技巨頭的財報表現，市場資金在記憶體族群（MU、SKHY）中尋找機會，因生成式AI基礎設施需求帶動高階記憶體銷售成長，美光科技（MU）的產能已被預訂至下一會計年度，顯示市場對其AI記憶體前景樂觀。然而，特斯拉（TSLA）、Alphabet（GOOGL, GOOG）、亞馬遜（AMZN）和Meta（META）等公司因AI高資本支出導致獲利不如預期或自由現金流轉負，引發投資人對AI投資回報率的擔憂，導致股價大幅下跌。英特爾（INTC）則因AI晶片需求帶動資料中心業務強勁成長，財報表現超預期，股價盤後上揚。",
     "eventsPast": [
       {
-        "title": "記憶體族群強勁反彈",
-        "detail": "摩根士丹利指出，AI驅動的新一輪記憶體景氣循環與過往大不相同，AI帶動的DRAM供需失衡將持續多年，美光 (MU)、SanDisk (SNDK) 和SK海力士 (SKHY) 等記憶體股受此激勵普遍反彈。"
+        "title": "Alphabet (GOOGL, GOOG) 第二季財報不如預期，資本支出大增",
+        "detail": "Alphabet 第二季營收優於預期，但每股盈餘低於市場預期，且將2026年全年資本支出預測上調至1950億至2050億美元，導致自由現金流首次轉負，引發市場對AI投資回報率的擔憂，股價重挫。"
       },
       {
-        "title": "特斯拉第二季獲利不如預期",
-        "detail": "特斯拉 (TSLA) 公布第二季獲利年減5%至11億美元，低於市場預期，主因車價下跌、監管信用額度收入減少以及供應商電池問題導致能源保固費用增加，導致盤後股價下跌。"
+        "title": "特斯拉 (TSLA) 第二季財報獲利不及預期，自由現金流轉負",
+        "detail": "特斯拉第二季營收成長26%，但調整後每股盈餘0.33美元，低於市場預期0.50美元，且資本支出暴增至約57.9億美元，導致自由現金流轉為負值，股價暴跌逾14%。"
       },
       {
-        "title": "Alphabet大幅上調AI資本支出",
-        "detail": "Alphabet (GOOGL, GOOG) 將全年資本支出上調至1,950億至2,050億美元，導致自由現金流首次轉負，引發市場對AI投資回報速度的擔憂，股價重挫。"
+        "title": "英特爾 (INTC) 第二季財報超預期，AI晶片需求強勁",
+        "detail": "英特爾第二季營收達161億美元，年增25%，非GAAP稀釋後每股盈餘0.42美元，遠高於市場預期，主要受惠於AI資料中心晶片需求加速成長，帶動股價盤後上揚。"
       },
       {
-        "title": "Union Pacific第二季財報優於預期",
-        "detail": "美國鐵路營運商Union Pacific (UNP) 第二季營運收入年增12%至69億美元，調整後每股盈餘達3.41美元，優於市場預期，加上與Norfolk Southern的合併案進展，股價勁揚。"
+        "title": "美光科技 (MU) 股價上漲，受惠於AI記憶體需求",
+        "detail": "美光科技股價盤中上漲3.28%，主要受惠於生成式AI基礎設施對高階記憶體與DDR5的強勁需求，且高效能記憶體產能已獲全數預訂至下一會計年度。"
       },
       {
-        "title": "SpaceX市值蒸發逾1兆美元",
-        "detail": "SpaceX市值在一個多月前創新高後，如今蒸發了逾1兆美元，排名從全美第五大公司跌至第八大，且表現遜於那斯達克交易所的多數大型掛牌案，主要受動能交易出場影響。"
+        "title": "AMD (AMD) 宣布與Anthropic建立戰略合作",
+        "detail": "AMD宣布與AI公司Anthropic建立戰略合作，計劃投資高達50億美元，並將向其供應MI450系列GPU，進一步拓展AI算力市場。"
       }
     ],
-    "eventsUpcoming": [
-      {
-        "date": "本週三",
-        "title": "Alphabet、特斯拉、IBM公布財報",
-        "detail": "投資人將密切關注這些科技巨頭的財報，以獲取AI相關資本支出計畫與電動車市場需求的最新指引。"
-      },
-      {
-        "date": "本週四",
-        "title": "Intel公布財報",
-        "detail": "Intel (INTC) 預計於盤後公布財報，其表現將影響半導體製造板塊。"
-      },
-      {
-        "date": "8月4日",
-        "title": "SpaceX公布上市後首份財報",
-        "detail": "SpaceX將公布上市後的首份財報，同時解除內部人售股禁制，可能引發市場波動。"
-      },
-      {
-        "date": "8月6日",
-        "title": "SpaceX內部人股票解禁",
-        "detail": "SpaceX將允許內部人出售20%的合規解禁股票，總計高達9.115億股。"
-      },
-      {
-        "date": "未來幾週",
-        "title": "微軟、Meta、亞馬遜公布財報",
-        "detail": "這些雲端巨頭的財報將揭示AI資本支出對利潤率的影響，以及AI基礎設施建設的進展。"
-      }
-    ]
+    "eventsUpcoming": []
   }
 }
