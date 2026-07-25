@@ -164,7 +164,7 @@
       "dollarVolume": 6455975595.509414,
       "marketCap": 849239258433.7,
       "sector": "—",
-      "theme": "太空",
+      "theme": "太空探索",
       "isNew": false,
       "rankChange": 0,
       "streak": 29
@@ -177,7 +177,7 @@
       "dollarVolume": 5792479214.342906,
       "marketCap": 1817015029220.1602,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體網路通訊",
+      "theme": "半導體設計",
       "isNew": false,
       "rankChange": 0,
       "streak": 94
@@ -190,7 +190,7 @@
       "dollarVolume": 5434933795.482349,
       "marketCap": 331225360290,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端資料庫",
+      "theme": "企業軟體",
       "isNew": false,
       "rankChange": 6,
       "streak": 94
@@ -255,7 +255,7 @@
       "dollarVolume": 3893504112.467538,
       "marketCap": 169912404000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體網路通訊",
+      "theme": "半導體設計",
       "isNew": false,
       "rankChange": 4,
       "streak": 84
@@ -333,7 +333,7 @@
       "dollarVolume": 2646323502.543961,
       "marketCap": 946430227951.7799,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "銀行",
+      "theme": "金融服務",
       "isNew": false,
       "rankChange": -6,
       "streak": 3
@@ -359,7 +359,7 @@
       "dollarVolume": 2614084021.425183,
       "marketCap": 282233088375.28,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "大數據分析",
+      "theme": "數據分析",
       "isNew": false,
       "rankChange": -6,
       "streak": 94
@@ -411,7 +411,7 @@
       "dollarVolume": 2374597169.253294,
       "marketCap": 1126350973818.18,
       "sector": "PHARMACEUTICAL PREPARATIONS",
-      "theme": "減肥藥 GLP-1",
+      "theme": "生技製藥",
       "isNew": false,
       "rankChange": 9,
       "streak": 46
@@ -450,7 +450,7 @@
       "dollarVolume": 2313309521.2282224,
       "marketCap": 254443742507.78,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "類比半導體",
+      "theme": "類比晶片",
       "isNew": false,
       "rankChange": -9,
       "streak": 4
@@ -463,7 +463,7 @@
       "dollarVolume": 2258704940.9169025,
       "marketCap": 201314028123.2,
       "sector": "COMPUTER & OFFICE EQUIPMENT",
-      "theme": "企業軟體服務",
+      "theme": "企業軟體",
       "isNew": false,
       "rankChange": -6,
       "streak": 9
@@ -528,7 +528,7 @@
       "dollarVolume": 2009033594.8357093,
       "marketCap": 871170925097.85,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售",
+      "theme": "零售百貨",
       "isNew": false,
       "rankChange": -3,
       "streak": 7
@@ -541,7 +541,7 @@
       "dollarVolume": 1944464439.6601276,
       "marketCap": 692064913507.61,
       "sector": "FIRE, MARINE & CASUALTY INSURANCE",
-      "theme": "綜合保險",
+      "theme": "多元控股",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -593,7 +593,7 @@
       "dollarVolume": 1889597260.8399146,
       "marketCap": 32171614735.32,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端運算",
+      "theme": "雲端基礎設施",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -606,7 +606,7 @@
       "dollarVolume": 1878808927.189675,
       "marketCap": 134227398917.22,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "叫車服務",
+      "theme": "共享經濟",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -632,7 +632,7 @@
       "dollarVolume": 1798317309.7443416,
       "marketCap": 440343449894.55,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "銀行",
+      "theme": "金融服務",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-07-24T20:00:00.000Z",
-  "generatedAt": "2026-07-25T04:25:57.112Z",
+  "generatedAt": "2026-07-25T05:38:45.877Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "電信服務",
-      "reason": "電信股因其穩定的股息收益和在不確定市場中的防禦性特質，持續吸引尋求穩定現金流的投資者。",
+      "reason": "電信股因其穩定的股息收益和在不確定經濟環境下的防禦性特質，持續吸引尋求穩定報酬的資金。",
       "symbols": [
         "T",
         "VZ"
@@ -668,18 +668,18 @@
     },
     {
       "theme": "雲端軟體 SaaS",
-      "reason": "企業對數位轉型和效率提升的需求，推動了雲端軟體即服務（SaaS）解決方案的持續增長。",
+      "reason": "企業對數位轉型和效率提升的需求，持續推動雲端軟體服務的增長，市場看好其訂閱制帶來的穩定營收。",
       "symbols": [
-        "MSFT",
         "NOW",
-        "CRM"
+        "CRM",
+        "MSFT"
       ],
       "count": 3,
       "avgChange": 3.919873007814026
     },
     {
-      "theme": "銀行",
-      "reason": "在經濟數據表現穩健的背景下，市場對銀行業的盈利前景保持樂觀，尤其是在利率環境有利的情況下。",
+      "theme": "金融服務",
+      "reason": "在經濟數據表現穩健的背景下，市場對銀行業的盈利前景保持樂觀，尤其是在利率環境可能維持高位的預期下。",
       "symbols": [
         "JPM",
         "BAC"
@@ -689,7 +689,7 @@
     },
     {
       "theme": "雲端服務",
-      "reason": "隨著企業持續將業務遷移至雲端，對雲端基礎設施和相關服務的需求保持強勁。",
+      "reason": "雲端運算作為數位經濟的基石，其服務需求持續增長，大型雲端服務提供商的營收表現穩定。",
       "symbols": [
         "GOOGL",
         "GOOG"
@@ -698,17 +698,17 @@
       "avgChange": 0.4404401489594044
     },
     {
-      "theme": "消費性電子",
-      "reason": "市場對新產品發布的期待以及消費者支出的回升，提振了對消費性電子產品的需求。",
+      "theme": "企業軟體",
+      "reason": "企業在數位化轉型中對高效軟體解決方案的需求不減，推動了相關企業的業績增長。",
       "symbols": [
-        "AAPL"
+        "IBM"
       ],
       "count": 1,
-      "avgChange": 3.5316794130448166
+      "avgChange": 3.648681345269776
     },
     {
       "theme": "資料中心 REITs",
-      "reason": "AI 和雲端運算需求的爆炸性增長，持續推動對資料中心基礎設施的投資。",
+      "reason": "隨著AI和雲端運算需求的爆發式增長，對資料中心基礎設施的需求也隨之增加，使得相關REITs受到市場關注。",
       "symbols": [
         "DLR"
       ],
@@ -722,7 +722,7 @@
       "name": "KLA Corporation Common Stock",
       "theme": "半導體設備",
       "changePercent": -3.753486033008723,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "即將公布財報，市場預期其半導體設備需求強勁，受AI基礎設施部署帶動。"
     },
     {
       "symbol": "HOOD",
@@ -743,100 +743,85 @@
       "name": "Digital Realty Trust, Inc.",
       "theme": "資料中心 REITs",
       "changePercent": 11.007025761124128,
-      "reason": "第二季財報優於預期，上調全年財測，受惠於AI和雲端運算需求強勁。"
+      "reason": "第二季財報優於預期，上調全年財測，且數據中心需求受AI帶動強勁。"
     },
     {
       "symbol": "AXP",
       "name": "American Express Company",
       "theme": "金融服務",
       "changePercent": -4.304072291984498,
-      "reason": "第二季財報營收未達預期，儘管獲利超標且上調全年展望。"
+      "reason": "第二季財報表現強勁，營收和淨利顯著增長，並上調全年營收預期。"
     },
     {
       "symbol": "BRK.B",
       "name": "BERKSHIRE HATHAWAY Class B",
-      "theme": "綜合保險",
+      "theme": "多元控股",
       "changePercent": 0.8312111643068115,
-      "reason": "完成收購房屋建築商Taylor Morrison。"
+      "reason": "完成對美國房屋建築商Taylor Morrison的收購。"
     },
     {
       "symbol": "CRWV",
       "name": "CoreWeave, Inc. Class A Common Stock",
-      "theme": "雲端運算",
+      "theme": "雲端基礎設施",
       "changePercent": -11.368680641183722,
-      "reason": "高層近期大量出售股票，引發投資者對公司財務和競爭力的擔憂。"
+      "reason": "近期分析師下調評級，且執行長及高階主管出售股票。"
     },
     {
       "symbol": "UBER",
       "name": "Uber Technologies, Inc.",
-      "theme": "叫車服務",
+      "theme": "共享經濟",
       "changePercent": -4.309969525468,
-      "reason": "宣布以148億美元收購德國外送公司Delivery Hero。"
+      "reason": "宣布收購Delivery Hero，擴大全球移動和配送平台。"
     },
     {
       "symbol": "VZ",
       "name": "Verizon Communications",
       "theme": "電信服務",
       "changePercent": 5.842081241442268,
-      "reason": "第二季財報表現強勁，上調全年財測，行動和寬頻業務加速成長。"
+      "reason": "第二季財報優於預期，上調全年財測，並與Google簽訂逾10億美元的光纖網路協議。"
     },
     {
       "symbol": "BAC",
       "name": "Bank of America Corporation",
-      "theme": "銀行",
+      "theme": "金融服務",
       "changePercent": 1.2565274151435966,
-      "reason": "宣布將普通股季度股息提高14%，並實施400億美元庫藏股計畫。"
+      "reason": "宣布將普通股股息提高14%。 "
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點集中在科技巨頭，記憶體與AI晶片類股普遍遭遇重挫，其中美光 (MU) 和 Sandisk (SNDK) 跌幅尤其顯著，顯示市場對該族群的獲利了結壓力與對未來需求的擔憂。特斯拉 (TSLA) 因財報不如預期且對AI投資回收前景不明，股價大幅下挫。相較之下，蘋果 (AAPL) 受惠於MacBook Neo新機消息與折疊iPhone預期，股價逆勢上漲，而雲端軟體與服務類股如微軟 (MSFT) 和 Alphabet (GOOGL, GOOG) 則表現相對穩健，反映資金在AI投資熱潮降溫之際，轉向尋求更具確定性的成長故事。",
+    "highlights": "本日美股成交重點集中在科技巨頭，特別是AI晶片、記憶體和儲存裝置相關個股。資金主要受到對AI晶片需求持續看好以及投資人重新布局先前大跌的晶片股所帶動。Nvidia、AMD等AI晶片公司積極推出新產品與解決方案，而美光、SanDisk等記憶體和儲存裝置公司則受惠於AI算力需求拉動，市場預期供需緊張將延續。然而，特斯拉與SpaceX則因馬斯克財富蒸發及SpaceX上市後股價表現疲弱而承壓。",
     "eventsPast": [
       {
-        "title": "記憶體與AI晶片股重挫",
-        "detail": "美光 (MU) 和 Sandisk (SNDK) 等記憶體股在7月24日重挫，費城半導體指數下跌超過4%，主要受亞洲科技股拋售潮影響，市場擔憂估值過高及供應協議不確定性。"
+        "title": "高通晶片9月起漲價，AI供應短缺持續惡化",
+        "detail": "高通於7月24日通知客戶，9月1日後出貨的產品價格將有雙位數漲幅，預計對整個科技產業帶來連鎖效應，凸顯AI供應短缺問題。"
       },
       {
-        "title": "特斯拉財報不如預期股價暴跌",
-        "detail": "特斯拉 (TSLA) 公布第二季財報後，盈利表現未達市場預期，加上對AI與機器人布局的投資回收前景不明，導致股價單日暴跌超過10%。"
+        "title": "黃仁勳攜手微軟、Meta發聲籲國會勿扼殺開源AI",
+        "detail": "輝達、微軟、Meta Platforms、IBM等科技大廠於7月24日聯名致函美國國會，公開支持開源AI模型，呼籲避免過早或過於廣泛的限制，以防抑制市場競爭。"
       },
       {
-        "title": "Alphabet資本支出上修引發擔憂",
-        "detail": "Google母公司Alphabet (GOOGL, GOOG) 第二季財報顯示營收超預期，雲端業務成長強勁，但公司再度上調全年資本支出預估，且AI投資首次導致單季自由現金流轉負，引發市場對AI軍備競賽侵蝕獲利的擔憂，盤後股價一度下挫。"
+        "title": "特斯拉周跌18%、SpaceX續挫，馬斯克蒸發千億美元",
+        "detail": "特斯拉股價本周暴跌18%，SpaceX也延續跌勢，5個交易日累計下跌7.2%，導致馬斯克財富蒸發約1,300億美元。"
       },
       {
-        "title": "英特爾財報優於預期但股價仍下跌",
-        "detail": "英特爾 (INTC) 公布上季獲利優於預期，營收成長率為2011年來最快，本季財測也超乎市場預估，主要受惠於AI基建熱潮，但股價在財報後仍下跌超過7%。"
+        "title": "美光科技市值重返萬億美元之上，CEO看好記憶體供需緊張格局延續至2027年後",
+        "detail": "美光科技7月21日收高2.17%，市值重返1萬億美元之上，CEO指出受AI算力需求拉動，儲存晶片供需緊張格局將延續至2027年之後。"
       },
       {
-        "title": "蘋果新產品消息帶動股價上漲",
-        "detail": "蘋果 (AAPL) 股價逆勢上漲，主要受媒體報導蘋果正在研發下一代MacBook Neo搭載A19 Pro晶片，以及市場預計蘋果將於2026年推出首款折疊iPhone的消息提振。"
+        "title": "輝達Vera資料中心CPU正式出貨，直攻英特爾、超微地盤",
+        "detail": "輝達於7月21日公布新一代資料中心CPU「Vera」的詳細規格、架構及效能測試資訊，已於6月交付給OpenAI、Anthropic、SpaceX等客戶，正式進軍AI伺服器CPU市場。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "7/29",
-        "title": "Meta Platforms (META) 第二季財報公布",
-        "detail": "Meta Platforms預計將於7月29日公布第二季財報，市場將關注其核心廣告業務表現、AI相關投資的進展以及對未來資本支出的指引。"
+        "date": "本週三",
+        "title": "Alphabet、特斯拉、IBM將公布財報",
+        "detail": "市場將密切關注這些財報，以獲取AI相關資本支出計畫與電動車市場需求的最新指引。"
       },
       {
-        "date": "7/30",
-        "title": "美國聯準會 (Fed) 利率決策會議",
-        "detail": "美國聯準會將召開聯邦公開市場委員會 (FOMC) 利率決策會議，市場將關注其對通膨、就業市場的看法以及未來利率政策走向。"
-      },
-      {
-        "date": "7/31",
-        "title": "蘋果 (AAPL) 2026財年第三季財報公布",
-        "detail": "蘋果將於7月31日發布2026財年第三季財報，市場關注重點包含毛利率與iPhone的營收表現，以及記憶體漲價對其成本的影響。"
-      },
-      {
-        "date": "8/4",
-        "title": "AMD (AMD) 第二季財報公布",
-        "detail": "AMD預計將於8月4日公布第二季財報，市場將關注其資料中心部門表現、AI晶片銷售狀況以及對未來營收的預測。"
-      },
-      {
-        "date": "未定",
-        "title": "SpaceX (SPCX) 財報公布",
-        "detail": "SpaceX的財報公布日期尚未確定，但市場持續關注其在太空探索、星鏈計畫以及AI基礎設施方面的進展與財務表現。"
+        "date": "本週四",
+        "title": "英特爾預計公布財報",
+        "detail": "投資人將關注英特爾在半導體製造和AI領域的最新業績表現。"
       }
     ]
   }
