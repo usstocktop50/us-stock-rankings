@@ -86,7 +86,7 @@
       "dollarVolume": 12074773438.945919,
       "marketCap": 462383480000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體製造",
+      "theme": "CPU",
       "isNew": false,
       "rankChange": -2,
       "streak": 95
@@ -151,7 +151,7 @@
       "dollarVolume": 7194149514.225756,
       "marketCap": 837652349285,
       "sector": "—",
-      "theme": "太空",
+      "theme": "太空科技",
       "isNew": false,
       "rankChange": 1,
       "streak": 30
@@ -177,7 +177,7 @@
       "dollarVolume": 7071307205.511639,
       "marketCap": 1823199883477.56,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體網路通訊",
+      "theme": "網路通訊晶片",
       "isNew": false,
       "rankChange": 0,
       "streak": 95
@@ -203,7 +203,7 @@
       "dollarVolume": 6709045611.215642,
       "marketCap": 1304165593345.56,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "社群媒體與廣告",
+      "theme": "社群媒體",
       "isNew": false,
       "rankChange": -4,
       "streak": 95
@@ -229,7 +229,7 @@
       "dollarVolume": 4769992431.814572,
       "marketCap": 302002262561.02,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "數據分析與AI軟體",
+      "theme": "資料分析軟體",
       "isNew": false,
       "rankChange": 10,
       "streak": 95
@@ -242,7 +242,7 @@
       "dollarVolume": 4428938982.019876,
       "marketCap": 345368472900,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體 SaaS",
+      "theme": "雲端資料庫",
       "isNew": false,
       "rankChange": -4,
       "streak": 95
@@ -268,7 +268,7 @@
       "dollarVolume": 4087565706.829431,
       "marketCap": 165485916000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體網路通訊",
+      "theme": "網路通訊晶片",
       "isNew": false,
       "rankChange": -1,
       "streak": 85
@@ -372,7 +372,7 @@
       "dollarVolume": 2891444304.880154,
       "marketCap": 53526647080.240005,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "燃料電池",
+      "theme": "氫能源",
       "isNew": false,
       "rankChange": -7,
       "streak": 9
@@ -398,7 +398,7 @@
       "dollarVolume": 2805313586.360507,
       "marketCap": 954441967091.6,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "銀行",
+      "theme": "大型銀行",
       "isNew": false,
       "rankChange": -5,
       "streak": 4
@@ -437,7 +437,7 @@
       "dollarVolume": 2684271169.554545,
       "marketCap": 55390488000,
       "sector": "COMMUNICATIONS EQUIPMENT, NEC",
-      "theme": "光學通訊",
+      "theme": "光通訊元件",
       "isNew": false,
       "rankChange": -9,
       "streak": 13
@@ -476,7 +476,7 @@
       "dollarVolume": 2529747745.6407533,
       "marketCap": 255170535945.26,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "類比IC",
+      "theme": "類比晶片",
       "isNew": false,
       "rankChange": -2,
       "streak": 5
@@ -502,7 +502,7 @@
       "dollarVolume": 2297812411.3491755,
       "marketCap": 440911177146.63,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "銀行",
+      "theme": "大型銀行",
       "isNew": false,
       "rankChange": 10,
       "streak": 2
@@ -541,7 +541,7 @@
       "dollarVolume": 2111210782.7003973,
       "marketCap": 126184768360,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "行動廣告軟體",
+      "theme": "行動廣告",
       "isNew": false,
       "rankChange": 2,
       "streak": 4
@@ -554,7 +554,7 @@
       "dollarVolume": 2110827585.9415843,
       "marketCap": 179222160000,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "行動通訊晶片",
+      "theme": "手機晶片",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -593,7 +593,7 @@
       "dollarVolume": 1982494520.9919903,
       "marketCap": 123381038592.00002,
       "sector": "DRAWING & INSULATING OF NONFERROUS WIRE",
-      "theme": "特種玻璃與陶瓷",
+      "theme": "特種玻璃",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -619,7 +619,7 @@
       "dollarVolume": 1921594399.1476834,
       "marketCap": 181142799305.6,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "類比IC",
+      "theme": "類比晶片",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -632,7 +632,7 @@
       "dollarVolume": 1909750607.576597,
       "marketCap": 1127763585927.18,
       "sector": "PHARMACEUTICAL PREPARATIONS",
-      "theme": "減肥藥 GLP-1",
+      "theme": "生技製藥",
       "isNew": false,
       "rankChange": -17,
       "streak": 47
@@ -652,26 +652,24 @@
     }
   ],
   "asOf": "2026-07-27T20:00:00.000Z",
-  "generatedAt": "2026-07-28T04:23:04.743Z",
+  "generatedAt": "2026-07-28T05:39:48.374Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型需求持續推動雲端軟體服務的增長，尤其是在AI整合應用方面。",
+      "reason": "企業數位轉型需求持續推動雲端軟體服務的增長，市場對其盈利能力和效率提升抱有期待。",
       "symbols": [
         "MSFT",
-        "PLTR",
-        "ORCL",
         "NOW",
         "CRM"
       ],
-      "count": 5,
-      "avgChange": 5.23009847708875
+      "count": 3,
+      "avgChange": 4.9586666868563
     },
     {
       "theme": "雲端服務",
-      "reason": "大型科技公司在雲端基礎設施和AI應用上的投資，持續帶動相關服務需求。",
+      "reason": "隨著AI應用普及，對雲端運算和資料處理的需求激增，帶動相關服務提供商的營收成長。",
       "symbols": [
         "GOOGL",
         "GOOG",
@@ -682,7 +680,7 @@
     },
     {
       "theme": "零售百貨",
-      "reason": "消費者支出數據表現穩健，帶動大型零售商股價上漲。",
+      "reason": "在通膨壓力下，消費者對日常必需品和折扣商品的需求穩定，大型零售商展現出韌性。",
       "symbols": [
         "WMT",
         "COST"
@@ -691,8 +689,18 @@
       "avgChange": 1.9218120812230854
     },
     {
-      "theme": "銀行",
-      "reason": "市場對經濟前景的樂觀預期，有利於銀行業的營運表現。",
+      "theme": "生技製藥",
+      "reason": "新藥研發進展和市場對醫療保健需求的穩定性，持續吸引資金關注此領域的龍頭企業。",
+      "symbols": [
+        "JNJ",
+        "LLY"
+      ],
+      "count": 2,
+      "avgChange": 0.5467621268746814
+    },
+    {
+      "theme": "大型銀行",
+      "reason": "在經濟數據表現穩健和利率前景不明朗的背景下，大型銀行股因其穩定的業務模式而受到青睞。",
       "symbols": [
         "JPM",
         "BAC"
@@ -701,24 +709,14 @@
       "avgChange": 0.48772509139785675
     },
     {
-      "theme": "類比IC",
-      "reason": "工業、汽車和消費電子領域對類比IC的需求持續增長。",
+      "theme": "類比晶片",
+      "reason": "類比晶片在工業、汽車和消費電子等廣泛應用領域的需求持續增長，支撐了相關公司的表現。",
       "symbols": [
         "TXN",
         "ADI"
       ],
       "count": 2,
       "avgChange": -0.026368970825290234
-    },
-    {
-      "theme": "生技製藥",
-      "reason": "特定藥物（如減肥藥）的市場潛力巨大，吸引資金關注。",
-      "symbols": [
-        "JNJ",
-        "LLY"
-      ],
-      "count": 2,
-      "avgChange": 0.5467621268746814
     }
   ],
   "newEntrants": [
@@ -727,114 +725,114 @@
       "name": "Caterpillar Inc.",
       "theme": "重型機械",
       "changePercent": -1.7384357453894934,
-      "reason": "分析師下調評級與獲利了結，儘管財報強勁且有AI數據中心需求預期。"
+      "reason": "Erste Group 將其股票評級從「買入」下調至「持有」，導致股價回落。"
     },
     {
       "symbol": "GS",
       "name": "Goldman Sachs Group Inc.",
       "theme": "投資銀行",
       "changePercent": -1.2249936394561027,
-      "reason": "高盛Q2財報表現亮眼，AI債務交易產品推出，但加密貨幣立法不確定性帶來壓力。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "JNJ",
       "name": "Johnson & Johnson",
       "theme": "生技製藥",
       "changePercent": 0.9681093394077492,
-      "reason": "第二季財報強勁並上調全年財測，且有新藥與醫療器材獲批。"
+      "reason": "第二季度營收和調整後每股收益均超出預期，並上調了2026年盈利預期。"
     },
     {
       "symbol": "V",
       "name": "VISA Inc.",
       "theme": "支付服務",
       "changePercent": 1.9086973632428075,
-      "reason": "分析師上調評級，Q2財報優於預期，並宣布200億美元庫藏股計畫。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "QCOM",
       "name": "Qualcomm Inc",
-      "theme": "行動通訊晶片",
+      "theme": "手機晶片",
       "changePercent": 1.8386536503563473,
-      "reason": "近期股價下跌創造買入機會，且即將公布Q3財報，市場預期中國市場將觸底反彈。"
+      "reason": "將於7月29日發布第三季度財報，市場預期營收將年減6.8%。"
     },
     {
       "symbol": "COST",
       "name": "Costco Wholesale Corp",
       "theme": "零售百貨",
       "changePercent": 1.7699966845983623,
-      "reason": "Q4財報前投資人樂觀，6月銷售數據強勁，且分析師普遍看好。"
+      "reason": "Kirkland Signature自有品牌成為成長引擎，第四季度財報預期良好。"
     },
     {
       "symbol": "GLW",
       "name": "Corning Incorporated",
-      "theme": "特種玻璃與陶瓷",
+      "theme": "特種玻璃",
       "changePercent": -2.2434367541766056,
-      "reason": "第二季財報前投資人態度謹慎，光學通訊業務受電信商資本支出放緩影響。"
+      "reason": "第二季度財報表現疲軟，並下修了前瞻性指引。"
     },
     {
       "symbol": "UNH",
       "name": "UNITEDHEALTH GROUP INCORPORATED (Delaware)",
       "theme": "醫療保險",
       "changePercent": -0.7367970718258361,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "第二季度業績強勁，上調了2026年全年盈利預期。"
     },
     {
       "symbol": "ADI",
       "name": "Analog Devices, Inc.",
-      "theme": "類比IC",
+      "theme": "類比晶片",
       "changePercent": 0.008067552304623438,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "收購 Empower Semiconductor 強化 AI 基礎設施，Cantor Fitzgerald 調升目標價。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI相關類股，儘管Nvidia、AMD等AI晶片股呈現下跌，但成交金額仍居高不下，顯示市場對AI題材的高度關注與資金持續投入。記憶體類股如Micron和Sandisk也因AI需求而有大量成交，但受到中國競爭者上市的影響，股價出現較大跌幅。雲端服務和軟體類股則表現相對穩健，部分個股甚至上漲，顯示市場對其基本面和AI整合潛力的信心。",
+    "highlights": "本日美股成交重點聚焦於AI晶片與記憶體族群的劇烈波動，資金在追逐AI題材的同時，也因對高資本支出的擔憂而出現獲利了結賣壓。Nvidia、AMD等AI晶片股普遍下跌，而記憶體股如SanDisk和SK Hynix也受到影響，顯示市場在AI軍備競賽下，對科技巨頭的獲利能力與資本效率產生疑慮。雲端服務與軟體SaaS類股則相對穩健，部分個股甚至逆勢上漲，反映市場對其長期成長性的信心。",
     "eventsPast": [
       {
-        "title": "Intel 第二季財報優於預期，AI業務成長強勁",
-        "detail": "Intel 公布第二季營收達 161 億美元，年增 25%，創下逾 15 年來最強勁成長，主要受惠於資料中心和 AI 客戶產品營收年增 59%。"
+        "title": "AI晶片美本土供應鏈成形，Nvidia GB300在台積電亞利桑那廠完成製造",
+        "detail": "Nvidia首片GB300 AI晶片已在台積電亞利桑那Fab 21完成4奈米晶圓製造，象徵美國AI供應鏈在晶圓製造環節取得進展，但CoWoS先進封裝仍需回台灣進行。"
       },
       {
-        "title": "Nvidia 考慮為 OpenAI 俄亥俄州資料中心提供 2500 億美元融資",
-        "detail": "Nvidia 正與 OpenAI 洽談，可能為其在俄亥俄州的大型資料中心計畫提供約 2500 億美元的資金支持，該計畫總成本可能超過 5000 億美元，使其成為迄今為止最大的資料中心項目。"
+        "title": "Alphabet第二季現金流首度轉負，AI支出壓力浮現",
+        "detail": "Google母公司Alphabet因AI支出激增，第二季淨現金流減少59億美元，為史上首次單季負自由現金流，引發市場對科技巨頭AI投資回報率的擔憂。"
       },
       {
-        "title": "AMD 宣布與 Anthropic 達成 AI 合作協議",
-        "detail": "AMD 在其 AI 活動中宣布與 Anthropic 達成協議，Anthropic 將購買高達 2 GW 的 Helios 機架，其中 1 GW 將於 2027 年上半年交付，AMD 也將向 Anthropic 投資 50 億美元。"
+        "title": "SanDisk股價大跌，中國記憶體產業發展引發市場擔憂",
+        "detail": "SanDisk股價在近期大漲後出現大幅回檔，單日下跌超過11%，主要原因為市場對中國記憶體產業擴張的擔憂，以及AI記憶體族群的獲利了結賣壓。"
       },
       {
-        "title": "Sandisk 推出第十代 3D NAND Flash 記憶體",
-        "detail": "Sandisk 宣布已開始送樣其第十代 BiCS10 1Tb TLC 3D NAND Flash 記憶體，提升了密度、電源效率和性能，以支援資料密集型工作負載。"
+        "title": "台積電第二季營收成長36%，AI需求為主要驅動力",
+        "detail": "台積電公布第二季營收年增36%，主要受惠於高效能運算（HPC）需求成長66%及2奈米技術的貢獻，並預期第三季營收和毛利率將進一步增長。"
       },
       {
-        "title": "Amazon 計劃部署逾 5000 顆衛星提供電信服務",
-        "detail": "Amazon 的子公司 Leo 已向 FCC 提交申請，計劃部署超過 5100 顆低地球軌道衛星，以提供高速、低延遲的寬頻服務，包括語音、訊息和緊急服務。"
+        "title": "美國6月CPI數據降溫，通膨壓力緩解",
+        "detail": "美國6月消費者物價指數（CPI）年增3.5%，低於市場預期，創下六年來最大單月跌幅，主要受能源價格大跌影響，降低了聯準會短期內升息的壓力。"
       }
     ],
     "eventsUpcoming": [
       {
+        "date": "本週四",
+        "title": "Apple Inc. (AAPL) 公布2026會計年度第三季財報",
+        "detail": "市場預期Apple將首次揭露AI帶動全球記憶體晶片短缺所造成的部分財務影響，並可能因記憶體供應吃緊而調高Mac與iPad產品售價。"
+      },
+      {
         "date": "8/5",
-        "title": "Sandisk 公布 2026 財年第四季及全年財報",
-        "detail": "Sandisk 將於 2026 年 8 月 5 日舉行財報電話會議，公布其 2026 財年第四季及全年財報。"
+        "title": "SanDisk Corporation (SNDK) 公布2026財年第四季及全年財報",
+        "detail": "SanDisk將公布最新財報，市場將關注其在記憶體市場的表現以及對AI相關業務的展望。"
       },
       {
-        "date": "8/13",
-        "title": "Sandisk 舉辦投資者日",
-        "detail": "Sandisk 將於 2026 年 8 月 13 日舉辦投資者日活動。"
+        "date": "8/10",
+        "title": "Micron Technology (MU) 參與KeyBanc Capital Markets科技領導力論壇",
+        "detail": "Micron高層將參與投資者活動，市場預期將有助於了解公司在記憶體產業的最新策略與展望。"
       },
       {
-        "date": "2027上半年",
-        "title": "Anthropic 將接收首批 AMD Helios AI 機架",
-        "detail": "根據 AMD 與 Anthropic 的協議，Anthropic 將於 2027 年上半年接收首批 1 GW 的 Helios AI 機架。"
+        "date": "8/12",
+        "title": "美國7月消費者物價指數（CPI）報告公布",
+        "detail": "此數據將提供美國通膨的最新情況，並可能影響聯準會未來的貨幣政策決策。"
       },
       {
-        "date": "2028",
-        "title": "AMD 推出 Zen 7 EPYC Florence 處理器和 Instinct MI600 GPU",
-        "detail": "AMD 確認將於 2028 年推出採用 Zen 7 和 Zen 7c 核心的 EPYC Florence 處理器，以及 Instinct MI600 GPU 系列。"
-      },
-      {
-        "date": "2028年初",
-        "title": "Amazon Leo 衛星網路預計啟動",
-        "detail": "如果獲得電信監管機構批准，Amazon 的 Leo 衛星網路預計將於 2028 年初啟動，提供直接到設備的電信服務。"
+        "date": "未知",
+        "title": "Nvidia (NVDA) 與OpenAI洽談大型AI資料中心融資",
+        "detail": "市場傳出Nvidia正考慮為OpenAI位於俄亥俄州的大型AI資料中心提供最高2500億美元的融資支持，並可能為OpenAI未來3500億美元的晶片採購提供融資方案，這將深化Nvidia在AI基礎建設領域的角色。"
       }
     ]
   }
