@@ -47,7 +47,7 @@
       "dollarVolume": 17594767080.771305,
       "marketCap": 4994876028480,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "消費性電子",
+      "theme": "消費電子",
       "isNew": false,
       "rankChange": 0,
       "streak": 96
@@ -73,7 +73,7 @@
       "dollarVolume": 13299635819.406769,
       "marketCap": 435297200000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "CPU",
       "isNew": false,
       "rankChange": 1,
       "streak": 96
@@ -151,7 +151,7 @@
       "dollarVolume": 7720454344.383017,
       "marketCap": 1812209873220.1802,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "網通晶片",
       "isNew": false,
       "rankChange": 2,
       "streak": 96
@@ -255,7 +255,7 @@
       "dollarVolume": 5094460903.994648,
       "marketCap": 152626356000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "網通晶片",
       "isNew": false,
       "rankChange": 1,
       "streak": 86
@@ -268,7 +268,7 @@
       "dollarVolume": 4951602314.910541,
       "marketCap": 47456614937.12,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "潔淨能源",
+      "theme": "氫能",
       "isNew": false,
       "rankChange": 8,
       "streak": 10
@@ -502,7 +502,7 @@
       "dollarVolume": 3101882211.962694,
       "marketCap": 379780123036.86,
       "sector": "BEVERAGES",
-      "theme": "消費性飲料",
+      "theme": "飲料",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -515,7 +515,7 @@
       "dollarVolume": 3100265706.100741,
       "marketCap": 253033536360.02,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "類比晶片",
       "isNew": false,
       "rankChange": -3,
       "streak": 6
@@ -541,7 +541,7 @@
       "dollarVolume": 2908963776.041332,
       "marketCap": 1149546064647.96,
       "sector": "PHARMACEUTICAL PREPARATIONS",
-      "theme": "生技製藥",
+      "theme": "減肥藥 GLP-1",
       "isNew": false,
       "rankChange": 7,
       "streak": 48
@@ -580,7 +580,7 @@
       "dollarVolume": 2657440500.4382157,
       "marketCap": 171675520000,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "無線通訊晶片",
+      "theme": "手機晶片",
       "isNew": false,
       "rankChange": -2,
       "streak": 2
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-07-28T20:00:00.000Z",
-  "generatedAt": "2026-07-29T04:27:02.231Z",
+  "generatedAt": "2026-07-29T05:51:25.320Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型需求持續推動雲端軟體服務的增長，市場對其未來獲利能力保持樂觀。",
+      "reason": "企業數位轉型需求持續推動雲端軟體服務的成長，市場對其未來獲利能力保持樂觀。",
       "symbols": [
         "MSFT",
         "GOOGL",
@@ -671,18 +671,8 @@
       "avgChange": 2.420405790138052
     },
     {
-      "theme": "生技製藥",
-      "reason": "新藥研發進展與醫療健康需求穩定增長，帶動產業表現。",
-      "symbols": [
-        "LLY",
-        "JNJ"
-      ],
-      "count": 2,
-      "avgChange": 1.1123819163612338
-    },
-    {
       "theme": "零售百貨",
-      "reason": "消費者支出數據表現穩健，大型零售商展現韌性。",
+      "reason": "在通膨壓力下，消費者對日常必需品的需求穩定，大型零售商展現韌性。",
       "symbols": [
         "WMT",
         "COST"
@@ -691,31 +681,41 @@
       "avgChange": 1.3967184203955976
     },
     {
-      "theme": "消費性飲料",
-      "reason": "防禦性消費股在市場波動時受到資金青睞。",
+      "theme": "生技製藥",
+      "reason": "新藥研發進展與市場需求，特別是減肥藥物領域的突破，持續吸引資金關注。",
       "symbols": [
-        "KO"
+        "LLY",
+        "JNJ"
+      ],
+      "count": 2,
+      "avgChange": 1.1123819163612338
+    },
+    {
+      "theme": "多元控股",
+      "reason": "在市場波動時期，多元化投資組合的控股公司因其穩定性和抗跌性受到青睞。",
+      "symbols": [
+        "BRK.B"
       ],
       "count": 1,
-      "avgChange": 4.99583680266445
+      "avgChange": 3.055231505692103
+    },
+    {
+      "theme": "串流媒體",
+      "reason": "串流媒體平台透過內容創新和訂閱模式調整，持續吸引用戶並提升營收。",
+      "symbols": [
+        "NFLX"
+      ],
+      "count": 1,
+      "avgChange": 2.826704545454538
     },
     {
       "theme": "企業軟體",
-      "reason": "企業在數位化轉型中對軟體解決方案的需求持續增加。",
+      "reason": "企業級軟體解決方案在數位化轉型浪潮中扮演關鍵角色，市場對其長期價值看好。",
       "symbols": [
         "IBM"
       ],
       "count": 1,
       "avgChange": 5.210837802848165
-    },
-    {
-      "theme": "電子製造服務",
-      "reason": "特定電子產品需求回溫，帶動相關製造服務商表現。",
-      "symbols": [
-        "CLS"
-      ],
-      "count": 1,
-      "avgChange": 10.042735042735035
     }
   ],
   "newEntrants": [
@@ -729,7 +729,7 @@
     {
       "symbol": "KO",
       "name": "Coca-Cola Company",
-      "theme": "消費性飲料",
+      "theme": "飲料",
       "changePercent": 4.99583680266445,
       "reason": "第二季財報營收獲利超預期，並上調全年財測。"
     },
