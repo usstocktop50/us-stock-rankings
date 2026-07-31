@@ -73,7 +73,7 @@
       "dollarVolume": 24411716983.052658,
       "marketCap": 2533299272178,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電商與雲端服務",
+      "theme": "電子商務",
       "isNew": false,
       "rankChange": 4,
       "streak": 98
@@ -138,7 +138,7 @@
       "dollarVolume": 10057751974.163137,
       "marketCap": 1957916880000.0002,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "搜尋與雲端服務",
+      "theme": "搜尋引擎",
       "isNew": false,
       "rankChange": 0,
       "streak": 98
@@ -151,7 +151,7 @@
       "dollarVolume": 9116280523.844748,
       "marketCap": 1845179903992.3198,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網路晶片",
+      "theme": "網通晶片",
       "isNew": false,
       "rankChange": 2,
       "streak": 98
@@ -268,7 +268,7 @@
       "dollarVolume": 5765666207.347753,
       "marketCap": 1844249360000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "搜尋與雲端服務",
+      "theme": "搜尋引擎",
       "isNew": false,
       "rankChange": -4,
       "streak": 98
@@ -281,7 +281,7 @@
       "dollarVolume": 5417076104.249223,
       "marketCap": 160350840000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網路晶片",
+      "theme": "網通晶片",
       "isNew": false,
       "rankChange": 3,
       "streak": 88
@@ -294,7 +294,7 @@
       "dollarVolume": 5215102845.156033,
       "marketCap": 367432880760,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體 SaaS",
+      "theme": "資料庫軟體",
       "isNew": false,
       "rankChange": 11,
       "streak": 98
@@ -437,7 +437,7 @@
       "dollarVolume": 3200052454.9623322,
       "marketCap": 884142594120.5,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售",
+      "theme": "零售百貨",
       "isNew": false,
       "rankChange": 9,
       "streak": 11
@@ -515,7 +515,7 @@
       "dollarVolume": 3022926999.50108,
       "marketCap": 123475982840,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "廣告科技",
+      "theme": "行動廣告",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -567,7 +567,7 @@
       "dollarVolume": 2663975292.0799117,
       "marketCap": 940106581005.3,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "銀行",
+      "theme": "金融服務",
       "isNew": false,
       "rankChange": -3,
       "streak": 7
@@ -632,7 +632,7 @@
       "dollarVolume": 2503981894.9522085,
       "marketCap": 131512098208.4,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "伺服器",
+      "theme": "電子電腦",
       "isNew": false,
       "rankChange": 0,
       "streak": 23
@@ -645,20 +645,30 @@
       "dollarVolume": 2494191370.385602,
       "marketCap": 14787245000,
       "sector": "RETAIL-EATING & DRINKING PLACES",
-      "theme": "餐飲",
+      "theme": "餐飲連鎖",
       "isNew": true,
       "rankChange": null,
       "streak": 1
     }
   ],
   "asOf": "2026-07-30T20:00:00.000Z",
-  "generatedAt": "2026-07-31T06:00:00.150Z",
+  "generatedAt": "2026-07-31T07:58:35.732Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
+      "theme": "記憶體",
+      "reason": "AI 應用對高頻寬記憶體（HBM）的需求激增，帶動整體記憶體產業景氣復甦。",
+      "symbols": [
+        "MU",
+        "SKHY"
+      ],
+      "count": 2,
+      "avgChange": 17.93719693128366
+    },
+    {
       "theme": "半導體設備",
-      "reason": "AI需求持續推動半導體產業擴張，設備供應商受惠於資本支出增加。",
+      "reason": "全球半導體產業擴張，晶圓廠投資持續增加，帶動設備供應商訂單成長。",
       "symbols": [
         "LRCX",
         "AMAT",
@@ -670,18 +680,8 @@
       "avgChange": 11.965391139888292
     },
     {
-      "theme": "記憶體",
-      "reason": "HBM和DRAM需求強勁，市場預期記憶體價格將持續上漲。",
-      "symbols": [
-        "MU",
-        "SKHY"
-      ],
-      "count": 2,
-      "avgChange": 17.93719693128366
-    },
-    {
       "theme": "儲存裝置",
-      "reason": "資料中心和AI應用對儲存容量的需求不斷增長，帶動相關廠商營收。",
+      "reason": "AI 數據中心對儲存容量的需求不斷增加，推動相關硬體設備銷售。",
       "symbols": [
         "SNDK",
         "STX",
@@ -692,18 +692,17 @@
     },
     {
       "theme": "雲端基礎設施",
-      "reason": "企業數位轉型和AI應用普及，對雲端運算和資料中心基礎設施的需求持續增長。",
+      "reason": "企業數位轉型及 AI 運算需求，持續推動雲端服務及基礎設施的建置與升級。",
       "symbols": [
         "NBIS",
-        "CRWV",
-        "VRT"
+        "CRWV"
       ],
-      "count": 3,
-      "avgChange": 16.878105825890675
+      "count": 2,
+      "avgChange": 24.317338078864708
     },
     {
       "theme": "AI 晶片",
-      "reason": "AI技術的快速發展持續推動對高效能AI晶片的需求，市場對相關供應商前景樂觀。",
+      "reason": "AI 技術快速發展，對高效能運算晶片的需求持續強勁，推動相關供應商股價上漲。",
       "symbols": [
         "NVDA",
         "AMD"
@@ -712,13 +711,13 @@
       "avgChange": 7.8221246499643895
     },
     {
-      "theme": "氫能源",
-      "reason": "全球對清潔能源解決方案的關注日益增加，氫能源技術被視為未來發展方向。",
+      "theme": "比特幣/加密",
+      "reason": "加密貨幣市場波動，但部分投資者看好其長期發展潛力，帶動相關概念股表現。",
       "symbols": [
-        "BE"
+        "IREN"
       ],
       "count": 1,
-      "avgChange": 26.48549618320611
+      "avgChange": 30.535653360627773
     }
   ],
   "newEntrants": [
@@ -727,26 +726,26 @@
       "name": "CoreWeave, Inc. Class A Common Stock",
       "theme": "雲端基礎設施",
       "changePercent": 21.506083525156207,
-      "reason": "獲分析師重申買入評級，並有Nvidia融資OpenAI數據中心專案的報導利好。"
+      "reason": "獲分析師重申買入評級，且有報導稱Nvidia可能為OpenAI資料中心專案提供融資擔保，該專案預計將耗資超過5000億美元，CoreWeave為其客戶之一。"
     },
     {
       "symbol": "ARM",
       "name": "Arm Holdings plc American Depositary Shares",
       "theme": "IP 設計",
       "changePercent": 7.403619547334256,
-      "reason": "受惠於AI數據中心CPU需求強勁，以及分析師普遍看好。"
+      "reason": "受惠於半導體類股普遍反彈，以及對AI基礎設施需求的關注。"
     },
     {
       "symbol": "MA",
       "name": "Mastercard Incorporated",
       "theme": "支付服務",
       "changePercent": 2.4905914932897772,
-      "reason": "第二季財報超出華爾街預期，受惠於消費支出增加、跨境交易量成長。"
+      "reason": "發布了2026年第二季度財報，並宣布多項領導層變動以推進策略。"
     },
     {
       "symbol": "APP",
       "name": "Applovin Corporation Class A Common Stock",
-      "theme": "廣告科技",
+      "theme": "行動廣告",
       "changePercent": 1.1039903870224865,
       "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
@@ -755,52 +754,72 @@
       "name": "IREN Limited Ordinary Shares",
       "theme": "比特幣/加密",
       "changePercent": 30.535653360627773,
-      "reason": "股價飆升30.5%，成交量異常放大，分析師普遍給予「買入」評級。"
+      "reason": "股價飆升，因其簽署了28億美元的新客戶合約，並將2026年年度經常性收入目標提高至40億美元以上。"
     },
     {
       "symbol": "HOOD",
       "name": "Robinhood Markets, Inc. Class A Common Stock",
       "theme": "線上券商",
       "changePercent": -3.6064113980409713,
-      "reason": "第二季財報表現強勁，營收和淨存款成長抵銷了部分估值壓力。"
+      "reason": "公布第二季度業績，營收年增32%達13.1億美元，稀釋後每股盈餘年增48%達0.62美元。"
     },
     {
       "symbol": "SBUX",
       "name": "Starbucks Corp",
-      "theme": "餐飲",
+      "theme": "餐飲連鎖",
       "changePercent": 1.6420203572114402,
-      "reason": "Q3財報優於預期，全球同店銷售增長，並上調全年財測。"
+      "reason": "公布優於預期的第三季度財報，並上調全年財測，同店銷售額增長7.9%。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI相關題材，特別是記憶體、儲存裝置、雲端基礎設施和AI晶片領域。微軟（MSFT）公布優於預期的財報，其雲端業務Azure強勁成長，有效緩解了市場對科技巨頭AI資本支出過高的擔憂，帶動整體科技股和半導體族群大幅反彈，終結了那斯達克指數的連續跌勢。美光（MU）、SanDisk（SNDK）、SK海力士（SKHY）等記憶體和儲存裝置公司，以及Intel（INTC）、AMD（AMD）等AI晶片相關個股均受此利多激勵大漲。然而，Meta（META）和Tesla（TSLA）則因AI投資導致自由現金流銳減及獲利不如預期而下跌，顯示市場在AI投資回報上仍存在分歧。",
+    "highlights": "本日美股成交重點聚焦於AI相關的半導體、記憶體及雲端基礎設施板塊的強勁反彈。微軟（MSFT）因優於預期的財報和雲端業務成長，帶動整體市場樂觀情緒，其股價飆升並創下單日市值增長紀錄。記憶體和儲存裝置類股也受惠於AI資本支出預期，從先前的拋售中強勢反彈。此外，Bloom Energy（BE）和Nebius（NBIS）等公司也因財報利多或Nvidia的投資消息而受到資金追捧。",
     "eventsPast": [
       {
-        "title": "微軟財報優於預期，帶動科技股反彈",
-        "detail": "微軟（MSFT）公布的季度銷售額和雲端業務成長預測均優於市場預期，且資本支出預測低於分析師估計，激勵股價飆漲逾15%，帶動美股大盤和半導體類股全面上漲。"
+        "title": "微軟財報超預期，雲端業務強勁成長",
+        "detail": "微軟（MSFT）公布的財報顯示其雲端業務Azure營收年增36%，AI相關營收貢獻持續拉高，且資本支出低於分析師預期，緩解了市場對AI基礎建設龐大支出的疑慮，帶動股價飆升15.51%。"
       },
       {
-        "title": "亞馬遜財報亮眼，AWS雲端業務表現強勁",
-        "detail": "亞馬遜（AMZN）上季營收和EPS雙雙優於市場預期，其AWS雲端業務成長達37%，創下近18個季度以來最快增速，自研AI晶片年化收入也達到250億美元，提振了市場對AI投資主題的信心。"
+        "title": "記憶體與儲存裝置類股強勢反彈",
+        "detail": "受微軟財報利多影響，加上市場對AI資本支出持續的信心，美光（MU）、SK海力士（SKHY）ADR、Sandisk（SNDK）、西部數據（WDC）和希捷（STX）等記憶體與儲存裝置類股集體暴漲，漲幅分別達18.36%、17.52%、25.99%、15.37%和11.41%。"
       },
       {
-        "title": "Meta財測失色，AI燒錢侵蝕現金流",
-        "detail": "Meta（META）公布第二季財報，儘管營收優於預期，但AI基礎設施支出侵蝕現金流，加上第三季營收展望低於市場預估，導致盤後股價重挫近8%。"
+        "title": "半導體設備股全面點火",
+        "detail": "科林研發（LRCX）和應用材料（AMAT）等半導體設備商因財報超預期及對先進製程設備需求能見度優於預期，股價分別大漲22.98%和14.97%，帶動費城半導體指數全面反彈8.85%。"
       },
       {
-        "title": "Intel財報財測超預期，AI基建熱潮助攻",
-        "detail": "英特爾（INTC）上季獲利優於預期，營收成長率為2011年來最快，本季財測超乎市場預估，主要受惠於AI基建熱潮帶動資料中心與AI事業群營收大幅成長。"
+        "title": "Bloom Energy財報亮眼，氫能源概念股受關注",
+        "detail": "燃料電池大廠Bloom Energy（BE）公布第二季營收首次突破10億美元大關，且非GAAP每股盈利遠超市場預期，並上調全年營收指引，受惠於AI數據中心對潔淨能源的需求，股價大漲26.49%。"
       },
       {
-        "title": "Bloom Energy財報超預期，AI資料中心需求強勁",
-        "detail": "燃料電池大廠Bloom Energy（BE）第二季營收首次突破10億美元大關，大幅成長165.5%，主要受AI資料中心對現場穩定供電的強勁需求推動，並上調全年財測目標。"
+        "title": "Nebius Group受Nvidia持股與買評升級激勵",
+        "detail": "雲端基礎設施公司Nebius Group N.V.（NBIS）因披露Nvidia持有其9.3%股權，並獲得Freedom Capital Markets的「買入」評級升級，股價飆漲27.13%。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "本週四",
-        "title": "美國6月個人消費支出物價指數（PCE）",
-        "detail": "此數據將是聯準會（Fed）決定未來利率走向的關鍵指標。"
+        "date": "8/12",
+        "title": "Nebius Group (NBIS) 第二季度財報",
+        "detail": "AI雲服務商Nebius Group N.V.將於8月12日美股開盤前發布2026年第二季度財務業績，並舉行財報電話會議。"
+      },
+      {
+        "date": "本週",
+        "title": "美國第二季度GDP數據",
+        "detail": "投資者將關注美國第二季度GDP數據，以評估整體經濟狀況。"
+      },
+      {
+        "date": "本週",
+        "title": "美國6月份PCE通脹數據",
+        "detail": "美國6月份PCE通脹數據的發布將影響市場對聯準會未來政策的預期。"
+      },
+      {
+        "date": "未來幾天",
+        "title": "更多科技巨頭財報",
+        "detail": "預計未來幾天將有更多科技巨頭發布財報，可能對市場產生進一步影響。"
+      },
+      {
+        "date": "2026年10月21日",
+        "title": "Amazon (AMZN) 第三季度財報",
+        "detail": "Amazon預計將於2026年10月21日公布2026年第三季度財報。"
       }
     ]
   }
