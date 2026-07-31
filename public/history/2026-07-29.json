@@ -164,7 +164,7 @@
       "dollarVolume": 8245995654.417009,
       "marketCap": 1943216213580,
       "sector": "—",
-      "theme": "晶圓代工",
+      "theme": "半導體製造",
       "isNew": false,
       "rankChange": 1,
       "streak": 97
@@ -177,7 +177,7 @@
       "dollarVolume": 8007276358.812401,
       "marketCap": 1761827098923.3599,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網通晶片",
+      "theme": "半導體網路",
       "isNew": false,
       "rankChange": -2,
       "streak": 97
@@ -242,7 +242,7 @@
       "dollarVolume": 6137503656.830037,
       "marketCap": 830641162220.5,
       "sector": "—",
-      "theme": "太空科技",
+      "theme": "太空探索",
       "isNew": false,
       "rankChange": -8,
       "streak": 32
@@ -320,7 +320,7 @@
       "dollarVolume": 4329006338.068057,
       "marketCap": 142942320000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網通晶片",
+      "theme": "半導體網路",
       "isNew": false,
       "rankChange": -5,
       "streak": 87
@@ -411,7 +411,7 @@
       "dollarVolume": 3380372979.7646646,
       "marketCap": 282416774082,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "大數據分析",
+      "theme": "資料分析軟體",
       "isNew": false,
       "rankChange": -13,
       "streak": 97
@@ -450,7 +450,7 @@
       "dollarVolume": 3224192965.9939027,
       "marketCap": 106762122191.25,
       "sector": "DRAWING & INSULATING OF NONFERROUS WIRE",
-      "theme": "特用玻璃",
+      "theme": "特種玻璃",
       "isNew": false,
       "rankChange": -17,
       "streak": 3
@@ -502,7 +502,7 @@
       "dollarVolume": 3046202317.194191,
       "marketCap": 164086720000,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "手機晶片",
+      "theme": "行動通訊晶片",
       "isNew": false,
       "rankChange": 6,
       "streak": 3
@@ -632,7 +632,7 @@
       "dollarVolume": 2391371963.3972554,
       "marketCap": 120086292289.59999,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "電腦硬體",
+      "theme": "電子電腦",
       "isNew": false,
       "rankChange": -17,
       "streak": 22
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-07-29T20:00:00.000Z",
-  "generatedAt": "2026-07-30T07:41:16.785Z",
+  "generatedAt": "2026-07-31T02:05:27.889Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型需求持續推動雲端軟體服務的成長，市場對其營收前景保持樂觀。",
+      "reason": "市場持續看好企業數位轉型及雲端服務需求增長，帶動相關軟體公司表現。",
       "symbols": [
         "NOW",
         "CRM",
@@ -670,7 +670,7 @@
     },
     {
       "theme": "雲端服務",
-      "reason": "大型科技公司在雲端運算領域的持續投入，使其相關服務營收表現穩健。",
+      "reason": "大型科技公司在雲端運算領域的持續投入與發展，使其業務前景樂觀。",
       "symbols": [
         "GOOGL",
         "GOOG"
@@ -680,7 +680,7 @@
     },
     {
       "theme": "儲存裝置",
-      "reason": "在資料量持續增長的趨勢下，儲存解決方案的需求依然存在。",
+      "reason": "資料儲存需求持續成長，部分儲存裝置公司在市場上獲得關注。",
       "symbols": [
         "STX"
       ],
@@ -689,7 +689,7 @@
     },
     {
       "theme": "支付服務",
-      "reason": "全球電子支付普及率不斷提升，帶動支付服務提供商的交易量增長。",
+      "reason": "全球數位支付趨勢不減，支付服務提供商持續受惠。",
       "symbols": [
         "V"
       ],
@@ -698,7 +698,7 @@
     },
     {
       "theme": "串流媒體",
-      "reason": "串流媒體平台透過內容創新和用戶訂閱增長，維持市場關注度。",
+      "reason": "串流媒體平台在內容創新和用戶增長方面取得進展，吸引投資者目光。",
       "symbols": [
         "NFLX"
       ],
@@ -707,7 +707,7 @@
     },
     {
       "theme": "零售百貨",
-      "reason": "在通膨壓力下，大型零售商的營運韌性及其對消費者支出的影響受到市場關注。",
+      "reason": "大型零售商在穩定的消費需求下，展現出韌性。",
       "symbols": [
         "WMT"
       ],
@@ -721,101 +721,75 @@
       "name": "Vertiv Holdings Co Class A Common Stock",
       "theme": "資料中心基礎設施",
       "changePercent": -17.257753375871797,
-      "reason": "第二季財報強勁，稀釋每股盈餘成長53%，並上調全年財測。"
+      "reason": "第二季營收不及預期，儘管上調全年財測，股價仍下跌逾12%。"
     },
     {
       "symbol": "GS",
       "name": "Goldman Sachs Group Inc.",
       "theme": "投資銀行",
       "changePercent": -5.089322004374157,
-      "reason": "第二季每股盈餘達20.98美元，年化普通股股東權益報酬率23.5%，優於預期。"
+      "reason": "盤中股價重挫逾5%，高檔震盪回落，此前財報勁揚後出現獲利了結。"
     },
     {
       "symbol": "TER",
       "name": "Teradyne, Inc. Common Stock",
       "theme": "半導體測試",
       "changePercent": -0.38671448619989157,
-      "reason": "第二季財報表現優異，營收和每股盈餘均超乎預期，並上調第三季財測。"
+      "reason": "第二季營收與調整後EPS均優於預期，股價上漲12.8%。"
     },
     {
       "symbol": "SOFI",
       "name": "SoFi Technologies, Inc. Common Stock",
       "theme": "金融科技",
       "changePercent": -8.90083632019115,
-      "reason": "第二季營收成長40%，會員和產品數量創新高，並上調全年營收預期。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "ADBE",
       "name": "Adobe Inc.",
       "theme": "雲端軟體 SaaS",
       "changePercent": 5.718757524680954,
-      "reason": "聯邦貿易委員會提前批准收購AI公司Topaz Labs，強化AI產品線。"
+      "reason": "遭分析師降評且目標價大砍，擔憂AI衝擊定價能力。"
     },
     {
       "symbol": "SNOW",
       "name": "Snowflake Inc.",
       "theme": "雲端軟體 SaaS",
       "changePercent": 4.638260097647567,
-      "reason": "推出Cortex AI Gateway及新AI安全功能，強化企業AI解決方案。"
+      "reason": "股價創52週新高，獲外資喊買且AI動能助攻。"
     },
     {
       "symbol": "BSX",
       "name": "Boston Scientific Corp.",
       "theme": "醫療器材",
       "changePercent": -0.04342162396874322,
-      "reason": "第二季營收和調整後每股盈餘均超出市場預期。"
+      "reason": "第二季財報優於預期，但下調全年財測且Watchman業務面臨挑戰。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點集中在AI相關類股，尤其是記憶體和AI晶片。儘管市場對AI前景仍抱持樂觀態度，但近期半導體族群面臨多重利空，導致資金出現獲利了結賣壓，多檔熱門股呈現下跌。主要驅動因素包括對AI交易規模可能形成「循環融資」泡沫的擔憂，以及大型科技公司財報公布前的觀望氣氛。",
+    "highlights": "本日美股成交重點集中在記憶體、AI晶片和儲存裝置等半導體相關類股，以及雲端軟體與服務。資金主要流向這些科技巨頭，反映市場對AI發展的持續關注，但同時也伴隨著對AI投資回報和產業競爭的擔憂。記憶體和儲存裝置類股因AI資料中心需求暴增而受到關注，但部分個股面臨漲多回吐和全球晶片股修正壓力。雲端軟體SaaS和雲端服務族群則因AI應用軟體需求延續漲勢，但Google的財報引發市場對AI投資成本的疑慮。",
     "eventsPast": [
       {
-        "title": "晶片股面臨「五空」罩頂",
-        "detail": "半導體族群賣壓持續升高，彭博半導體股指數盤中重挫7.5%，主要受輝達AI交易規模、中國DUV設備生產、長鑫存儲上市擴產、大型科技股財報將公布以及費半成分股跌破50日線等五大利空影響。"
+        "title": "記憶體與儲存裝置類股面臨修正壓力",
+        "detail": "硬碟與儲存裝置廠Seagate Technology (STX) 股價盤中重挫逾10%，記憶體族群技術面轉弱，Roundhill Memory ETF (DRAM) 面臨跌破成交量加權平均價格，顯示整體記憶體板塊投資人開始承受未實現損失。"
       },
       {
-        "title": "SK海力士下半年量產LPDDR6",
-        "detail": "SK海力士計畫於今年下半年正式量產並供應新一代低功耗行動記憶體LPDDR6，小米集團下一代旗艦智慧手機可望成為首批導入產品。"
+        "title": "Seagate Technology (STX) 財報優於預期帶動股價上漲",
+        "detail": "Seagate Technology (STX) 公布的2026財年第四季度財報及下一季度指引均顯著優於華爾街預期，Q4營收同比暴增48%，每股收益遠超預期，毛利率創歷史新高，為遭遇拋售的存儲板塊打了一針強心劑。"
       },
       {
-        "title": "谷歌上調全年資本支出，記憶體族群暫獲支撐",
-        "detail": "谷歌最新財報顯示其上調全年資本支出，儘管自由現金流轉負，但仍持續為AI基礎建設提供資金，帶動美股盤後AI半導體股普遍走高，記憶體相關族群表現突出。"
+        "title": "AI應用軟體股延續漲勢",
+        "detail": "美股AI應用軟體股延續漲勢，Adobe (ADBE) 漲近6%，Workday (WDAY)、Snowflake (SNOW) 漲超4%，賽富時 (CRM)、ServiceNow (NOW) 漲超3%。"
       },
       {
-        "title": "三星電管轉攻AI電力需求",
-        "detail": "三星電管將自10月起在美國生產儲能系統(ESS)電池，將電動車產線改造為儲能電池產線，以掌握AI數據中心及電網升級帶動的電力儲存需求。"
+        "title": "Google Cloud 高速增長但自由現金流轉負",
+        "detail": "Google Cloud 本季實現82%的高速增長，但Alphabet自由現金流首次轉負 (-59億美元)，引發市場對AI投資回報的擔憂，公司將2026年資本支出指引上調至約2000億美元。"
       },
       {
-        "title": "緯創德州GB300 AI伺服器新廠啟動量產",
-        "detail": "AI伺服器需求持續強勁，緯創美國德州新廠正式投入GB300 AI伺服器機架量產，以因應全球雲端服務供應商及大型客戶攀升的AI基礎建設需求。"
+        "title": "Visa 裁員以提升營運效率",
+        "detail": "金融支付服務商Visa (V) 傳出將裁減約2,600個職位，約佔員工總數的7%，主要涉及技術和產品團隊，以提升公司營運效率並因應支付行業日益激烈的競爭。"
       }
     ],
-    "eventsUpcoming": [
-      {
-        "date": "本週",
-        "title": "微軟、Meta、蘋果與亞馬遜公布財報",
-        "detail": "這些大型科技公司將陸續公布財報，市場關注其對AI投資和未來展望的說明，可能引發股價波動。"
-      },
-      {
-        "date": "本週",
-        "title": "SK海力士與三星公布財報",
-        "detail": "亞洲市場的記憶體巨頭SK海力士與三星也將公布財報，其業績表現將影響記憶體產業的市場情緒。"
-      },
-      {
-        "date": "7/30",
-        "title": "美國ISM服務業PMI公布",
-        "detail": "此經濟數據將反映美國服務業的景氣狀況，可能影響市場對聯準會利率政策的預期。"
-      },
-      {
-        "date": "7/30",
-        "title": "Fed公布6月會議紀要",
-        "detail": "聯準會的會議紀要將提供更多關於未來利率走向的線索，對科技股估值壓力有影響。"
-      },
-      {
-        "date": "2026年底",
-        "title": "長鑫存儲DRAM月產能衝高",
-        "detail": "長鑫存儲預計在2026年底DRAM月產能將衝上35萬片晶圓，逼近美光全球產能，可能增加記憶體供應，對其他記憶體製造業者帶來壓力。"
-      }
-    ]
+    "eventsUpcoming": []
   }
 }
