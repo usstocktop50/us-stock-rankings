@@ -112,7 +112,7 @@
       "dollarVolume": 12785395446.92906,
       "marketCap": 459659720000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "CPU",
+      "theme": "半導體製造",
       "isNew": false,
       "rankChange": -1,
       "streak": 98
@@ -151,7 +151,7 @@
       "dollarVolume": 9116280523.844748,
       "marketCap": 1845179903992.3198,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網通晶片",
+      "theme": "半導體網路通訊",
       "isNew": false,
       "rankChange": 2,
       "streak": 98
@@ -281,7 +281,7 @@
       "dollarVolume": 5417076104.249223,
       "marketCap": 160350840000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網通晶片",
+      "theme": "半導體網路通訊",
       "isNew": false,
       "rankChange": 3,
       "streak": 88
@@ -346,7 +346,7 @@
       "dollarVolume": 3670787363.249605,
       "marketCap": 159786400000,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "手機晶片",
+      "theme": "行動通訊晶片",
       "isNew": false,
       "rankChange": 12,
       "streak": 4
@@ -463,7 +463,7 @@
       "dollarVolume": 3108394115.7659335,
       "marketCap": 257983743690.4,
       "sector": "—",
-      "theme": "IP 設計",
+      "theme": "晶片設計 IP",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-07-30T20:00:00.000Z",
-  "generatedAt": "2026-07-31T07:58:35.732Z",
+  "generatedAt": "2026-08-01T02:05:31.940Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "記憶體",
-      "reason": "AI 應用對高頻寬記憶體（HBM）的需求激增，帶動整體記憶體產業景氣復甦。",
+      "reason": "市場預期記憶體需求將因AI應用擴張而持續增長，特別是HBM等高階產品。",
       "symbols": [
         "MU",
         "SKHY"
@@ -668,7 +668,7 @@
     },
     {
       "theme": "半導體設備",
-      "reason": "全球半導體產業擴張，晶圓廠投資持續增加，帶動設備供應商訂單成長。",
+      "reason": "全球半導體產業擴張，帶動晶圓廠資本支出增加，設備供應商直接受惠。",
       "symbols": [
         "LRCX",
         "AMAT",
@@ -681,7 +681,7 @@
     },
     {
       "theme": "儲存裝置",
-      "reason": "AI 數據中心對儲存容量的需求不斷增加，推動相關硬體設備銷售。",
+      "reason": "資料中心和AI伺服器對儲存容量的需求持續攀升，推動相關硬體銷售。",
       "symbols": [
         "SNDK",
         "STX",
@@ -692,7 +692,7 @@
     },
     {
       "theme": "雲端基礎設施",
-      "reason": "企業數位轉型及 AI 運算需求，持續推動雲端服務及基礎設施的建置與升級。",
+      "reason": "企業數位轉型和AI模型訓練對雲端運算資源的需求激增，帶動基礎設施服務商成長。",
       "symbols": [
         "NBIS",
         "CRWV"
@@ -702,7 +702,7 @@
     },
     {
       "theme": "AI 晶片",
-      "reason": "AI 技術快速發展，對高效能運算晶片的需求持續強勁，推動相關供應商股價上漲。",
+      "reason": "AI技術的快速發展持續推動對高效能運算晶片的需求，市場對相關供應商前景樂觀。",
       "symbols": [
         "NVDA",
         "AMD"
@@ -712,7 +712,7 @@
     },
     {
       "theme": "比特幣/加密",
-      "reason": "加密貨幣市場波動，但部分投資者看好其長期發展潛力，帶動相關概念股表現。",
+      "reason": "加密貨幣市場波動，但部分投資者仍看好區塊鏈技術及其相關應用。",
       "symbols": [
         "IREN"
       ],
@@ -726,21 +726,21 @@
       "name": "CoreWeave, Inc. Class A Common Stock",
       "theme": "雲端基礎設施",
       "changePercent": 21.506083525156207,
-      "reason": "獲分析師重申買入評級，且有報導稱Nvidia可能為OpenAI資料中心專案提供融資擔保，該專案預計將耗資超過5000億美元，CoreWeave為其客戶之一。"
+      "reason": "與Leidos合作提供AI雲端服務給美國聯邦機構，並獲分析師看好。"
     },
     {
       "symbol": "ARM",
       "name": "Arm Holdings plc American Depositary Shares",
-      "theme": "IP 設計",
+      "theme": "晶片設計 IP",
       "changePercent": 7.403619547334256,
-      "reason": "受惠於半導體類股普遍反彈，以及對AI基礎設施需求的關注。"
+      "reason": "第一季度財報優於預期，數據中心特許權使用費翻倍，AI需求強勁。"
     },
     {
       "symbol": "MA",
       "name": "Mastercard Incorporated",
       "theme": "支付服務",
       "changePercent": 2.4905914932897772,
-      "reason": "發布了2026年第二季度財報，並宣布多項領導層變動以推進策略。"
+      "reason": "第二季度財報優於預期，受惠於消費者支出和跨境交易增長。"
     },
     {
       "symbol": "APP",
@@ -754,21 +754,21 @@
       "name": "IREN Limited Ordinary Shares",
       "theme": "比特幣/加密",
       "changePercent": 30.535653360627773,
-      "reason": "股價飆升，因其簽署了28億美元的新客戶合約，並將2026年年度經常性收入目標提高至40億美元以上。"
+      "reason": "獲得28億美元AI雲端合約，並上調2026年年度經常性收入目標。"
     },
     {
       "symbol": "HOOD",
       "name": "Robinhood Markets, Inc. Class A Common Stock",
       "theme": "線上券商",
       "changePercent": -3.6064113980409713,
-      "reason": "公布第二季度業績，營收年增32%達13.1億美元，稀釋後每股盈餘年增48%達0.62美元。"
+      "reason": "第二季度營收和淨存款創紀錄，但股價下跌，可能受加密貨幣市場影響。"
     },
     {
       "symbol": "SBUX",
       "name": "Starbucks Corp",
       "theme": "餐飲連鎖",
       "changePercent": 1.6420203572114402,
-      "reason": "公布優於預期的第三季度財報，並上調全年財測，同店銷售額增長7.9%。"
+      "reason": "第三季度財報優於預期，全球同店銷售增長強勁，並上調全年財測。"
     }
   ],
   "marketBriefing": {
