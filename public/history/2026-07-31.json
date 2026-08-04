@@ -19,9 +19,9 @@
       "price": 308.91,
       "changePercent": -7.353867378460241,
       "dollarVolume": 40348573101.515045,
-      "marketCap": 4537071141960,
+      "marketCap": 4508288143800,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "消費性電子",
+      "theme": "消費電子",
       "isNew": false,
       "rankChange": 3,
       "streak": 99
@@ -32,7 +32,7 @@
       "price": 271.58,
       "changePercent": 15.320594479830142,
       "dollarVolume": 34751778469.49614,
-      "marketCap": 2921415780628.88,
+      "marketCap": 2929347039883.76,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
       "theme": "電子商務與雲端服務",
       "isNew": false,
@@ -45,7 +45,7 @@
       "price": 464.72,
       "changePercent": 3.0192861893150087,
       "dollarVolume": 28043342561.135487,
-      "marketCap": 3452142175642.8804,
+      "marketCap": 3450799500577.52,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
       "theme": "雲端軟體與AI",
       "isNew": false,
@@ -86,7 +86,7 @@
       "dollarVolume": 16372767750.811422,
       "marketCap": 2089770840000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "AI與網路服務",
+      "theme": "網路服務與AI",
       "isNew": false,
       "rankChange": 4,
       "streak": 99
@@ -97,7 +97,7 @@
       "price": 556.71,
       "changePercent": 3.279965864608661,
       "dollarVolume": 13352843891.923004,
-      "marketCap": 1222560539295.48,
+      "marketCap": 1227617092245.3901,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
       "theme": "社群媒體與AI",
       "isNew": false,
@@ -138,7 +138,7 @@
       "dollarVolume": 10747027651.774258,
       "marketCap": 1971204549999.9998,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "AI與網路服務",
+      "theme": "網路服務與AI",
       "isNew": false,
       "rankChange": 10,
       "streak": 99
@@ -151,7 +151,7 @@
       "dollarVolume": 10122987510.135372,
       "marketCap": 454968800000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "半導體製造",
       "isNew": false,
       "rankChange": -3,
       "streak": 99
@@ -164,7 +164,7 @@
       "dollarVolume": 7920306166.261018,
       "marketCap": 1852030819477.44,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "半導體與基礎設施",
       "isNew": false,
       "rankChange": -1,
       "streak": 99
@@ -190,7 +190,7 @@
       "dollarVolume": 6422871237.865149,
       "marketCap": 799791939136.7001,
       "sector": "—",
-      "theme": "太空科技",
+      "theme": "太空探索",
       "isNew": false,
       "rankChange": 3,
       "streak": 34
@@ -203,7 +203,7 @@
       "dollarVolume": 6068900875.686835,
       "marketCap": 121039298800,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "廣告科技",
+      "theme": "行動廣告與軟體",
       "isNew": false,
       "rankChange": 24,
       "streak": 2
@@ -242,7 +242,7 @@
       "dollarVolume": 5160003630.3747015,
       "marketCap": 164077488000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "資料中心晶片",
       "isNew": false,
       "rankChange": 3,
       "streak": 89
@@ -255,7 +255,7 @@
       "dollarVolume": 4919217067.997998,
       "marketCap": 41788347406.08,
       "sector": "—",
-      "theme": "新興科技",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": -7,
       "streak": 24
@@ -279,7 +279,7 @@
       "price": 205.81,
       "changePercent": -0.6324835843955207,
       "dollarVolume": 4700152543.059422,
-      "marketCap": 58541392473.08,
+      "marketCap": 60616673080.26,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
       "theme": "清潔能源",
       "isNew": false,
@@ -294,7 +294,7 @@
       "dollarVolume": 4447188442.508467,
       "marketCap": 374086768770,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體與資料庫",
+      "theme": "企業軟體與雲端資料庫",
       "isNew": false,
       "rankChange": 0,
       "streak": 99
@@ -305,7 +305,7 @@
       "price": 140.67,
       "changePercent": -20.989665243765447,
       "dollarVolume": 4221417038.6465526,
-      "marketCap": 19970306860.14,
+      "marketCap": 20552337144,
       "sector": "SERVICES-COMPUTER PROCESSING & DATA PREPARATION",
       "theme": "社群媒體",
       "isNew": true,
@@ -346,7 +346,7 @@
       "dollarVolume": 3551600929.424101,
       "marketCap": 282554538362.04,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "大數據與AI",
+      "theme": "大數據與AI軟體",
       "isNew": false,
       "rankChange": 3,
       "streak": 99
@@ -372,7 +372,7 @@
       "dollarVolume": 3283840974.1174817,
       "marketCap": 55544532000.00001,
       "sector": "COMMUNICATIONS EQUIPMENT, NEC",
-      "theme": "光通訊",
+      "theme": "光通訊元件",
       "isNew": false,
       "rankChange": -3,
       "streak": 17
@@ -383,9 +383,9 @@
       "price": 146.26,
       "changePercent": -10.588091453722962,
       "dollarVolume": 3035717991.0748854,
-      "marketCap": 32532154737.499996,
+      "marketCap": 32587171460.32,
       "sector": "FINANCE SERVICES",
-      "theme": "比特幣/加密",
+      "theme": "加密貨幣交易平台",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -396,9 +396,9 @@
       "price": 366.13,
       "changePercent": -0.03822316870068156,
       "dollarVolume": 2859781053.93084,
-      "marketCap": 607669597403.16,
+      "marketCap": 623926780654.22,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "支付服務",
+      "theme": "支付處理",
       "isNew": false,
       "rankChange": 6,
       "streak": 5
@@ -422,7 +422,7 @@
       "price": 241.57,
       "changePercent": 6.184615384615381,
       "dollarVolume": 2637867130.659222,
-      "marketCap": 92789166681.12,
+      "marketCap": 93001592951.61,
       "sector": "ELECTRONIC COMPONENTS, NEC",
       "theme": "資料中心基礎設施",
       "isNew": false,
@@ -435,9 +435,9 @@
       "price": 573.1,
       "changePercent": -0.7361219364337057,
       "dollarVolume": 2618017429.9898868,
-      "marketCap": 502629463413,
+      "marketCap": 498289884306.5,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "支付服務",
+      "theme": "支付處理",
       "isNew": false,
       "rankChange": 5,
       "streak": 2
@@ -463,7 +463,7 @@
       "dollarVolume": 2536009854.1604705,
       "marketCap": 884938402036,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售",
+      "theme": "零售百貨",
       "isNew": false,
       "rankChange": -2,
       "streak": 12
@@ -474,7 +474,7 @@
       "price": 478.38,
       "changePercent": -5.949197860962565,
       "dollarVolume": 2496096007.464913,
-      "marketCap": 221177706157.8,
+      "marketCap": 220523690375.94,
       "sector": "INDUSTRIAL INORGANIC CHEMICALS",
       "theme": "工業氣體",
       "isNew": true,
@@ -489,7 +489,7 @@
       "dollarVolume": 2493649378.8628635,
       "marketCap": 23881323389.219997,
       "sector": "OPTICAL INSTRUMENTS & LENSES",
-      "theme": "半導體設備",
+      "theme": "半導體檢測設備",
       "isNew": false,
       "rankChange": -3,
       "streak": 6
@@ -502,7 +502,7 @@
       "dollarVolume": 2443782884.180567,
       "marketCap": 251818916937.64,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "類比與嵌入式處理器",
       "isNew": false,
       "rankChange": 8,
       "streak": 9
@@ -515,7 +515,7 @@
       "dollarVolume": 2429857608.7466884,
       "marketCap": 13151535203.199999,
       "sector": "FINANCE SERVICES",
-      "theme": "比特幣/加密",
+      "theme": "加密貨幣挖礦",
       "isNew": false,
       "rankChange": 3,
       "streak": 2
@@ -554,7 +554,7 @@
       "dollarVolume": 2327277107.0289426,
       "marketCap": 942625321738.2201,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "銀行",
+      "theme": "銀行服務",
       "isNew": false,
       "rankChange": 1,
       "streak": 8
@@ -591,9 +591,9 @@
       "price": 35.6,
       "changePercent": -26.85432504622971,
       "dollarVolume": 2226197107.9096427,
-      "marketCap": 23908810195.2,
+      "marketCap": 23851750372.8,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "元宇宙與遊戲",
+      "theme": "元宇宙遊戲平台",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -606,7 +606,7 @@
       "dollarVolume": 2190673181.4780183,
       "marketCap": 101650847999.99998,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端資料庫",
+      "theme": "雲端資料倉儲",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -619,7 +619,7 @@
       "dollarVolume": 2175633346.9194975,
       "marketCap": 457167006793.35,
       "sector": "COMPUTER COMMUNICATIONS EQUIPMENT",
-      "theme": "網路設備",
+      "theme": "網路通訊設備",
       "isNew": false,
       "rankChange": -7,
       "streak": 6
@@ -632,7 +632,7 @@
       "dollarVolume": 2067243696.475306,
       "marketCap": 293041200162,
       "sector": "—",
-      "theme": "電子商務",
+      "theme": "電子商務與雲端服務",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -643,7 +643,7 @@
       "price": 147.61,
       "changePercent": -2.631926121372019,
       "dollarVolume": 2049007775.433418,
-      "marketCap": 155580940000,
+      "marketCap": 155025029078.81003,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
       "theme": "行動通訊晶片",
       "isNew": false,
@@ -652,51 +652,54 @@
     }
   ],
   "asOf": "2026-07-31T20:00:00.000Z",
-  "generatedAt": "2026-08-01T07:37:38.100Z",
+  "generatedAt": "2026-08-04T02:05:19.670Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
-      "theme": "AI與網路服務",
-      "reason": "市場持續看好大型科技公司在AI領域的發展潛力及其對核心業務的助益。",
+      "theme": "網路服務與AI",
+      "reason": "大型科技公司持續投入AI研發，其網路服務與AI應用前景受到市場高度關注。",
       "symbols": [
         "GOOGL",
-        "GOOG"
+        "GOOG",
+        "META"
+      ],
+      "count": 3,
+      "avgChange": 5.6327356526296315
+    },
+    {
+      "theme": "電子商務與雲端服務",
+      "reason": "電商巨頭在雲端服務領域的強勁增長，以及其核心電商業務的穩健表現，推動股價上漲。",
+      "symbols": [
+        "AMZN",
+        "BABA"
       ],
       "count": 2,
-      "avgChange": 6.809120546640116
+      "avgChange": 10.209299990946711
     },
     {
       "theme": "儲存裝置",
-      "reason": "隨著AI應用對資料儲存需求增加，相關儲存裝置供應商的營收前景受到市場關注。",
+      "reason": "隨著AI和資料中心需求增長，對高效能儲存裝置的需求增加，帶動相關公司股價表現。",
       "symbols": [
-        "STX",
-        "WDC"
+        "WDC",
+        "STX"
       ],
       "count": 2,
       "avgChange": 1.3681071285149062
     },
     {
       "theme": "雲端軟體與AI",
-      "reason": "企業對雲端服務和AI解決方案的需求持續增長，帶動相關軟體公司的業績表現。",
+      "reason": "企業對數位轉型和AI解決方案的需求不斷增長，推動雲端軟體服務提供商的業績和股價。",
       "symbols": [
-        "MSFT"
+        "MSFT",
+        "NOW"
       ],
-      "count": 1,
-      "avgChange": 3.0192861893150087
-    },
-    {
-      "theme": "電子商務與雲端服務",
-      "reason": "電商巨頭在雲端服務領域的強勁增長，持續為公司帶來可觀的營收。",
-      "symbols": [
-        "AMZN"
-      ],
-      "count": 1,
-      "avgChange": 15.320594479830142
+      "count": 2,
+      "avgChange": 2.036580498128028
     },
     {
       "theme": "AI 晶片",
-      "reason": "AI技術的快速發展持續推升對高效能AI晶片的需求，相關供應商受惠。",
+      "reason": "AI技術的快速發展持續推動對高效能AI晶片的需求，相關供應商受惠。",
       "symbols": [
         "NVDA"
       ],
@@ -705,7 +708,7 @@
     },
     {
       "theme": "資料中心基礎設施",
-      "reason": "AI和雲端運算需求的爆發式增長，促使資料中心基礎設施供應商的產品需求旺盛。",
+      "reason": "全球資料中心建設熱潮，特別是為了支持AI運算，對相關基礎設施供應商帶來利好。",
       "symbols": [
         "VRT"
       ],
@@ -719,92 +722,92 @@
       "name": "Reddit, Inc.",
       "theme": "社群媒體",
       "changePercent": -20.989665243765447,
-      "reason": "財報亮眼但因Google AI搜尋結果影響流量，導致股價下跌。"
+      "reason": "第二季財報強勁，營收和調整後EBITDA均超預期，但AI搜尋流量擔憂導致股價波動。"
     },
     {
       "symbol": "COIN",
       "name": "Coinbase Global, Inc. Class A Common Stock",
-      "theme": "比特幣/加密",
+      "theme": "加密貨幣交易平台",
       "changePercent": -10.588091453722962,
-      "reason": "第二季營收未達預期，加密貨幣市場疲軟導致虧損，股價下跌。"
+      "reason": "Citigroup下調目標價至210美元，因市場逆風、交易量疲軟和監管壓力。"
     },
     {
       "symbol": "LIN",
       "name": "Linde plc Ordinary Share",
       "theme": "工業氣體",
       "changePercent": -5.949197860962565,
-      "reason": "第二季財報優於預期，並宣布十億美元半導體設施擴張投資，但股價仍下跌。"
+      "reason": "第二季財報優於預期，並宣布與半導體製造商達成十億美元氣體供應協議。"
     },
     {
       "symbol": "XOM",
       "name": "ExxonMobil Holdings Corporation",
       "theme": "石油與天然氣",
       "changePercent": -0.9747085430337015,
-      "reason": "第二季獲利略低於預期，但營收超標，並宣布擴張投資計畫。"
+      "reason": "第二季財報公布，收益和自由現金流強勁，並宣布庫藏股計畫。"
     },
     {
       "symbol": "MPWR",
       "name": "Monolithic Power Systems, Inc.",
       "theme": "電源管理晶片",
       "changePercent": 8.346122870731959,
-      "reason": "第二季財報與財測皆優於預期，受惠於AI需求帶動，分析師調升目標價。"
+      "reason": "第二季營收和EPS均超預期，但資料中心成長預期調整及AI伺服器市佔競爭加劇。"
     },
     {
       "symbol": "RBLX",
       "name": "Roblox Corporation",
-      "theme": "元宇宙與遊戲",
+      "theme": "元宇宙遊戲平台",
       "changePercent": -26.85432504622971,
-      "reason": "第二季營收未達預期且下修全年財測，加上年齡驗證措施影響用戶增長，股價大跌。"
+      "reason": "近期財報預測疲弱導致股價大跌，多家分析師下調評級和目標價。"
     },
     {
       "symbol": "SNOW",
       "name": "Snowflake Inc.",
-      "theme": "雲端資料庫",
+      "theme": "雲端資料倉儲",
       "changePercent": -1.6169070781617074,
       "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "BABA",
       "name": "Alibaba Group Holding Limited American Depositary Shares, each represents eight Ordinary Shares",
-      "theme": "電子商務",
+      "theme": "電子商務與雲端服務",
       "changePercent": 5.0980055020632795,
-      "reason": "傳聞其雲端業務支援AI公司Moonshot AI，強化AI運算能力與雲端營收前景。"
+      "reason": "阿里巴巴推出新的AI模型Qwen3.8，並與Nvidia達成雲端運算合作，強化AI佈局。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股市場資金主要集中在AI相關族群，特別是雲端服務與AI晶片領域。亞馬遜（AMZN）受惠於AWS雲端業務的爆發式成長，營收與獲利優於預期，股價狂飆逾15%，成為帶動大盤上漲的關鍵力量。微軟（MSFT）也因雲端軟體與AI業務表現強勁而上漲。然而，記憶體族群如美光（MU）和SanDisk（SNDK）則呈現大幅波動，儘管前一日因三星財報利多而反彈，但本日又因市場對AI貿易未來擔憂加劇而下跌。蘋果（AAPL）則因財報中服務業務和大中華區表現不如預期，以及記憶體晶片短缺影響展望而重挫。整體而言，市場在交易AI投資能否有效變現的故事，並對不同公司在AI領域的實際獲利能力進行重新評估。",
+    "highlights": "本日美股成交重點集中在AI相關題材，尤其是雲端服務與AI晶片領域。亞馬遜 (AMZN) 和微軟 (MSFT) 的強勁財報，顯示其在雲端服務和AI投資上已見成效，帶動了市場對AI基礎設施需求的樂觀情緒，進而推升了AI晶片和記憶體相關個股。然而，蘋果 (AAPL) 因記憶體供應鏈問題導致財測不如預期，以及美光 (MU) 和Sandisk (SNDK) 等記憶體廠商面臨獲利了結和NAND供過於求的擔憂，使得這些個股呈現下跌。",
     "eventsPast": [
       {
-        "title": "亞馬遜Q2財報優於預期，AWS營收爆發式成長",
-        "detail": "亞馬遜公布2026年第二季財報，受惠於雲端運算、廣告及AI業務持續高速成長，營收與獲利全面優於市場預期，其中Amazon Web Services(AWS)營收創下2021年以來最快增速，帶動盤後股價一度大漲超過9%。"
+        "title": "Amazon (AMZN) 財報優於預期，上調資本支出預估",
+        "detail": "亞馬遜第二季營收達2006億美元，超出預期，AWS雲端服務營收成長37%，為四年來最快增速。公司將2026年全年資本支出上調至2200億美元，主要用於AI基礎設施建設。"
       },
       {
-        "title": "蘋果Q3營收優於預期，但服務與大中華區表現失色",
-        "detail": "蘋果公布庫克在執行長任內最後一份財報，上季整體營收優於預期，但在服務業務的表現卻令華爾街失望，大中華地區營收增幅也未讓人驚豔，盤後股價應聲走軟。"
+        "title": "Microsoft (MSFT) 雲端業務表現強勁，AI投資見效",
+        "detail": "微軟第四財季營收達900.07億美元，超出預期，Azure雲端服務營收成長43%，顯示其AI投資正帶來顯著回報。"
       },
       {
-        "title": "美光科技股價暴跌，市場對AI貿易未來擔憂加劇",
-        "detail": "美光科技在經歷劇烈波動後，週五收盤下跌近6%，投資者對AI貿易未來的擔憂加劇。"
+        "title": "Alphabet (GOOGL, GOOG) 財報亮眼，Google Cloud獲利能力提升",
+        "detail": "Alphabet第二季營收達1198億美元，超出預期，Google Cloud實現獲利，且AI需求強勁，帶動股價上漲。"
       },
       {
-        "title": "SanDisk股價大幅波動，受三星財報與市場情緒影響",
-        "detail": "SanDisk股價在經歷前一日大漲近26%後，本日又下跌，主要受三星電子優於預期的財報以及市場對記憶體供應短缺的看法影響，但整體7月表現仍可能創下史上最差。"
+        "title": "Apple (AAPL) 財測不如預期，受記憶體供應鏈限制",
+        "detail": "蘋果第三財季營收達1094億美元，但因記憶體供應限制，預計第四財季營收成長將低於市場預期，導致股價下跌。"
       },
       {
-        "title": "Meta財報後股價重挫，市場擔憂AI投資回報率",
-        "detail": "Meta公布第二季財報後，儘管廣告營收強勁成長，但自由現金流暴跌91%，主因是大舉投資AI基礎建設，市場擔憂鉅額投資變現太慢、回報率不如預期，拖累股價重挫。"
+        "title": "記憶體類股波動，SK Hynix (SKHY) 和Sandisk (SNDK) 漲跌互見",
+        "detail": "SK Hynix ADR受微軟財報利多帶動上漲，但此前曾因財報不如預期而下跌。Sandisk則因NAND供過於求擔憂而下跌，儘管長期看好AI基礎設施需求。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "本週二",
-        "title": "AMD財報公布",
-        "detail": "Advanced Micro Devices (AMD) 將於本週二美股盤後公布財報，選擇權市場顯示交易員預期股價將出現大幅波動。"
+        "date": "8/4",
+        "title": "Advanced Micro Devices (AMD) 第二季財報",
+        "detail": "AMD預計將於8月4日公布第二季財報，市場預期每股盈餘為1.55美元，營收為112.8億美元。"
       },
       {
-        "date": "本週四",
-        "title": "KeyBanc Capital Markets科技領導力論壇",
-        "detail": "美光科技(MU)高層將參與KeyBanc Capital Markets科技領導力論壇。"
+        "date": "8/5",
+        "title": "Sandisk (SNDK) 第四季財報",
+        "detail": "Sandisk預計將於8月5日公布第四季財報，分析師預期每股盈餘約為33.38美元。"
       }
     ]
   }
