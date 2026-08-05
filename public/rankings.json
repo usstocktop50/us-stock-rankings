@@ -125,7 +125,7 @@
       "dollarVolume": 13446660673.10287,
       "marketCap": 2216050200000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "雲端服務",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": -2,
       "streak": 101
@@ -151,7 +151,7 @@
       "dollarVolume": 12284300371.490168,
       "marketCap": 1989429735595.6802,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體網路通訊",
+      "theme": "半導體基礎設施",
       "isNew": false,
       "rankChange": 4,
       "streak": 101
@@ -216,7 +216,7 @@
       "dollarVolume": 7476213315.90697,
       "marketCap": 2074559450000.0002,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "雲端服務",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": -6,
       "streak": 101
@@ -229,7 +229,7 @@
       "dollarVolume": 7350887060.173866,
       "marketCap": 191222532000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體網路通訊",
+      "theme": "半導體基礎設施",
       "isNew": false,
       "rankChange": 4,
       "streak": 91
@@ -320,7 +320,7 @@
       "dollarVolume": 4758654858.916269,
       "marketCap": 49542048965.12,
       "sector": "—",
-      "theme": "雲端服務",
+      "theme": "AI 軟體",
       "isNew": false,
       "rankChange": -8,
       "streak": 26
@@ -359,7 +359,7 @@
       "dollarVolume": 4328528271.759769,
       "marketCap": 67184632896.060005,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "燃料電池",
+      "theme": "清潔能源",
       "isNew": false,
       "rankChange": -5,
       "streak": 15
@@ -398,7 +398,7 @@
       "dollarVolume": 3606328762.3340592,
       "marketCap": 61993109298.130005,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體網路通訊",
+      "theme": "半導體基礎設施",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -476,7 +476,7 @@
       "dollarVolume": 3065984942.1186886,
       "marketCap": 41132044994.100006,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體 SaaS",
+      "theme": "AI 軟體",
       "isNew": false,
       "rankChange": -13,
       "streak": 2
@@ -502,7 +502,7 @@
       "dollarVolume": 2971934467.6306624,
       "marketCap": 128315720400,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "廣告科技",
+      "theme": "AI 軟體",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -593,7 +593,7 @@
       "dollarVolume": 2714167738.645306,
       "marketCap": 299660176905.6,
       "sector": "—",
-      "theme": "半導體設計",
+      "theme": "半導體IP",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -606,7 +606,7 @@
       "dollarVolume": 2642836763.5296373,
       "marketCap": 170841551929.06998,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "行動晶片",
+      "theme": "無線通訊晶片",
       "isNew": false,
       "rankChange": -3,
       "streak": 7
@@ -652,13 +652,25 @@
     }
   ],
   "asOf": "2026-08-04T20:00:00.000Z",
-  "generatedAt": "2026-08-05T05:39:39.026Z",
+  "generatedAt": "2026-08-05T07:45:12.020Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
-      "theme": "半導體網路通訊",
-      "reason": "隨著AI應用對資料傳輸速度與頻寬需求激增，相關的網路通訊晶片與設備供應商持續受到市場青睞。",
+      "theme": "AI 軟體",
+      "reason": "市場持續看好AI技術在企業應用及雲端服務的廣闊前景，相關軟體解決方案需求強勁。",
+      "symbols": [
+        "PLTR",
+        "NBIS",
+        "CRWV",
+        "APP"
+      ],
+      "count": 4,
+      "avgChange": 11.534655497238568
+    },
+    {
+      "theme": "半導體基礎設施",
+      "reason": "AI運算需求帶動資料中心及網路基礎設施升級，對高速傳輸與連接晶片需求旺盛。",
       "symbols": [
         "AVGO",
         "MRVL",
@@ -669,7 +681,7 @@
     },
     {
       "theme": "半導體設備",
-      "reason": "全球半導體產業擴張，晶圓廠持續投資先進製程設備，帶動設備供應商營收成長。",
+      "reason": "全球半導體產業擴張及技術升級，推動晶圓廠對先進製造設備的投資。",
       "symbols": [
         "LRCX",
         "AMAT",
@@ -680,18 +692,8 @@
       "avgChange": 6.12654090094995
     },
     {
-      "theme": "AI 晶片",
-      "reason": "人工智慧技術的快速發展，推動對高效能AI晶片的需求持續旺盛，相關領導廠商表現強勁。",
-      "symbols": [
-        "NVDA",
-        "AMD"
-      ],
-      "count": 2,
-      "avgChange": 4.783991712836063
-    },
-    {
       "theme": "記憶體",
-      "reason": "記憶體市場受惠於AI伺服器需求與庫存回補，價格回升，帶動相關廠商股價上漲。",
+      "reason": "AI應用對高頻寬記憶體（HBM）及DRAM需求激增，產業景氣復甦。",
       "symbols": [
         "MU",
         "SKHY"
@@ -700,25 +702,24 @@
       "avgChange": 7.892637015923468
     },
     {
-      "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型趨勢不減，雲端軟體服務持續提供效率與創新，吸引資金關注。",
-      "symbols": [
-        "MSFT",
-        "ORCL",
-        "CRWV"
-      ],
-      "count": 3,
-      "avgChange": 3.6533281114560694
-    },
-    {
       "theme": "光通訊",
-      "reason": "AI資料中心對高速傳輸的需求，加速光通訊技術的應用與發展，相關供應商受惠。",
+      "reason": "AI數據中心內部及外部的高速數據傳輸需求，帶動光模組與光纖通訊元件的成長。",
       "symbols": [
         "LITE",
         "AAOI"
       ],
       "count": 2,
       "avgChange": 14.17869696036146
+    },
+    {
+      "theme": "AI 晶片",
+      "reason": "AI模型訓練與推論需求持續爆發，推動高性能AI晶片市場快速成長。",
+      "symbols": [
+        "NVDA",
+        "AMD"
+      ],
+      "count": 2,
+      "avgChange": 4.783991712836063
     }
   ],
   "newEntrants": [
@@ -727,116 +728,110 @@
       "name": "Electronic Arts Inc",
       "theme": "遊戲軟體",
       "changePercent": -0.10004287551808298,
-      "reason": "即將被收購下市，投資者視為套利機會。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動"
     },
     {
       "symbol": "ALAB",
       "name": "Astera Labs, Inc. Common Stock",
-      "theme": "半導體網路通訊",
+      "theme": "半導體基礎設施",
       "changePercent": 12.652234854384053,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "第二季財報表現出色，營收年增104%並超出預期。"
     },
     {
       "symbol": "GLW",
       "name": "Corning Incorporated",
       "theme": "光學材料",
       "changePercent": 9.035733769776323,
-      "reason": "美國擬禁止中國數據中心光學硬體，Corning受惠。"
+      "reason": "第二季財報優於預期，且分析師上調評級。"
     },
     {
       "symbol": "APP",
       "name": "Applovin Corporation Class A Common Stock",
-      "theme": "廣告科技",
+      "theme": "AI 軟體",
       "changePercent": 3.3336616111877,
-      "reason": "UBS上調目標價，且財報前市場預期樂觀。"
+      "reason": "UBS分析師上調目標價，且第二季財報即將公布。"
     },
     {
       "symbol": "COHR",
       "name": "Coherent Corp.",
       "theme": "光學元件",
       "changePercent": 12.351634622058732,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "美國考慮禁用中國光學元件，利好國內供應商。"
     },
     {
       "symbol": "GS",
       "name": "Goldman Sachs Group Inc.",
       "theme": "金融服務",
       "changePercent": 2.523708449360317,
-      "reason": "聯準會政策預期轉變及併購諮詢業務成長。"
+      "reason": "受聯準會政策預期轉變及投資銀行業務樂觀預測帶動。"
     },
     {
       "symbol": "V",
       "name": "VISA Inc.",
       "theme": "支付服務",
       "changePercent": 1.072004813082823,
-      "reason": "宣布以24億美元收購防詐騙平台BioCatch。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動"
     },
     {
       "symbol": "AAOI",
       "name": "Applied Optoelectronics, Inc.",
       "theme": "光通訊",
       "changePercent": 19.43562290173306,
-      "reason": "AI資料中心對800G/1.6T光收發器需求強勁。"
+      "reason": "美國考慮禁用中國光學元件，利好國內供應商。"
     },
     {
       "symbol": "ANET",
       "name": "Arista Networks",
       "theme": "網路通訊設備",
       "changePercent": 3.03964519443994,
-      "reason": "AI資料中心需求強勁，乙太網路交換機業務看好。"
+      "reason": "第二季財報和財測均超出預期，AI基礎設施需求強勁。"
     },
     {
       "symbol": "ARM",
       "name": "Arm Holdings plc American Depositary Shares",
-      "theme": "半導體設計",
+      "theme": "半導體IP",
       "changePercent": 17.35965866309713,
-      "reason": "AI晶片需求帶動，Q1財報優於預期。"
+      "reason": "第一季財報優於預期，資料中心版稅收入翻倍。"
     },
     {
       "symbol": "SHOP",
       "name": "Shopify Inc. Class A subordinate voting shares",
       "theme": "電子商務軟體",
       "changePercent": 5.375608922314325,
-      "reason": "AI工具帶動訂單顯著成長，Q2財報前市場樂觀。"
+      "reason": "即將公布第二季財報，市場預期樂觀。"
     },
     {
       "symbol": "KLAC",
       "name": "KLA Corporation Common Stock",
       "theme": "半導體設備",
       "changePercent": 6.949384404924755,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "第四季財報及財測優於預期，受惠於先進封裝和AI需求。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI相關題材，尤其是記憶體、AI晶片和AI軟體領域。資金持續湧入這些板塊，主要受到企業財報亮眼、AI投資效益開始兌現，以及市場對AI基礎建設需求持續看好的預期所帶動。Palantir和AMD的強勁財報，以及SpaceX表示未來AI資料中心將全面採用Nvidia晶片的消息，都為這些熱門股和族群注入了強心針，推動成交量顯著放大。",
+    "highlights": "本日美股成交重點集中在AI相關硬體與軟體，特別是記憶體、AI晶片、AI軟體、半導體基礎設施和光通訊族群。資金湧入這些領域，主要受到市場對AI需求持續旺盛的預期、企業財報優於預期，以及美國財政部長對中東局勢的樂觀發言所帶動。此外，AI巨頭Anthropic與Nvidia支持的雲基礎設施公司簽署大額算力採購協議，進一步驗證了算力需求的強勁，也刺激了相關供應鏈的交易熱度。",
     "eventsPast": [
       {
-        "title": "Palantir Technologies Inc. 公布亮眼財報並上調全年財測",
-        "detail": "Palantir Technologies (PLTR) 第二季營收達19.4億美元，年增93%，每股盈餘0.41美元，皆優於市場預期，並上調2026全年營收預期至81.6億美元，激勵股價大漲近30%。"
+        "title": "美伊談判傳出積極信號，國際油價大跌",
+        "detail": "美國財政部長表示，美伊可能在8月4日或5日達成霍爾木茲海峽協議，帶動國際油價大幅跳水，提振市場做多情緒。"
       },
       {
-        "title": "Advanced Micro Devices (AMD) 公布優於預期的第二季財報",
-        "detail": "AMD第二季營收年增50%，獲利成長163%，資料中心業務營收年增逾一倍，顯示AI晶片需求強勁。"
+        "title": "Palantir財報及展望強勁，股價暴漲",
+        "detail": "AI應用公司Palantir受惠於AI需求，公布超預期的財報和展望，股價一度暴漲超過27%。"
       },
       {
-        "title": "SpaceX (SPCX) 公布IPO後首份財報，並宣布全面採用Nvidia晶片",
-        "detail": "SpaceX第二季營收年增92%至78.1億美元，並表示未來AI資料中心將全面採用Nvidia (NVDA) 晶片，預計2026年底AI運算能力將超過2GW。"
+        "title": "美股AI交易全面反攻，半導體、儲存、光通訊全線大漲",
+        "detail": "美股三大指數全線走強，道指、標普500指數創歷史新高，費城半導體指數大漲超5%，記憶體、光通訊概念股集體大漲。"
       },
       {
-        "title": "記憶體價格持續上漲，DDR4和NAND Flash七月雙創新高",
-        "detail": "受AI伺服器和高頻寬記憶體 (HBM) 需求持續吸收DRAM產能，以及記憶體業者將NAND資源轉向企業級固態硬碟 (SSD) 等因素影響，傳統記憶體供應緊張，價格持續上漲。"
+        "title": "Anthropic簽署百億美元算力採購協議",
+        "detail": "AI巨頭Anthropic與Nvidia支持的雲基礎設施公司Volta Infra Holdings Ltd.簽署了價值高達100億美元的六年期算力採購協議，凸顯AI開發商對算力資源的迫切需求。"
       },
       {
-        "title": "美股第二季財報表現亮眼，科技股獲利狂飆",
-        "detail": "截至七月底，已公布財報的美國企業中，高達85%獲利超越預期，整體企業獲利年增率達47.7%，其中科技類股更以70.5%的驚人成長率領先。"
+        "title": "川普政府擬禁中國光收發器輸美",
+        "detail": "路透報導，川普政府正草擬禁令，禁止美國進口新型號的中國資料中心光收發器，此消息激勵美國光通訊類股集體大漲。"
       }
     ],
-    "eventsUpcoming": [
-      {
-        "date": "本週三",
-        "title": "聯準會 (Fed) 公布最新一次利率會議紀錄",
-        "detail": "市場將密切關注聯準會新任主席華許 (Kevin Warsh) 上任後首次會議紀錄，以了解其政策方向。"
-      }
-    ]
+    "eventsUpcoming": []
   }
 }
