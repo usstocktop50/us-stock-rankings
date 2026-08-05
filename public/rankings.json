@@ -47,7 +47,7 @@
       "dollarVolume": 25800331983.61382,
       "marketCap": 3063528780719.44,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "雲端服務",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": -1,
       "streak": 100
@@ -73,7 +73,7 @@
       "dollarVolume": 18459226126.0054,
       "marketCap": 190744050996.74,
       "sector": "COMPUTER STORAGE DEVICES",
-      "theme": "儲存裝置",
+      "theme": "記憶體",
       "isNew": false,
       "rankChange": 0,
       "streak": 100
@@ -99,7 +99,7 @@
       "dollarVolume": 14518852735.608116,
       "marketCap": 2191756680000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "雲端服務",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": -1,
       "streak": 100
@@ -138,7 +138,7 @@
       "dollarVolume": 10111797196.232124,
       "marketCap": 2058641690000.0002,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "雲端服務",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": 0,
       "streak": 100
@@ -151,7 +151,7 @@
       "dollarVolume": 10047111935.759464,
       "marketCap": 288501363117.10004,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "數據分析",
+      "theme": "資料分析軟體",
       "isNew": false,
       "rankChange": 15,
       "streak": 100
@@ -164,7 +164,7 @@
       "dollarVolume": 8669003717.068855,
       "marketCap": 459004000000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體製造",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": -1,
       "streak": 100
@@ -203,7 +203,7 @@
       "dollarVolume": 6720590608.636877,
       "marketCap": 1866065681061.54,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網路晶片",
+      "theme": "AI 晶片",
       "isNew": false,
       "rankChange": -3,
       "streak": 100
@@ -216,7 +216,7 @@
       "dollarVolume": 6059465075.75956,
       "marketCap": 46653888407.04,
       "sector": "—",
-      "theme": "雲端基礎設施",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": 3,
       "streak": 25
@@ -281,7 +281,7 @@
       "dollarVolume": 3979613421.239498,
       "marketCap": 169514370000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網路晶片",
+      "theme": "AI 晶片",
       "isNew": false,
       "rankChange": -3,
       "streak": 90
@@ -307,7 +307,7 @@
       "dollarVolume": 3662121509.104803,
       "marketCap": 38383941008.64,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端基礎設施",
+      "theme": "雲端軟體 SaaS",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -398,7 +398,7 @@
       "dollarVolume": 2741684385.7119145,
       "marketCap": 48499971526.08,
       "sector": "WHOLESALE-HARDWARE & PLUMBING & HEATING EQUIPMENT & SUPPLIES",
-      "theme": "建築材料",
+      "theme": "工業用品",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -422,7 +422,7 @@
       "price": 157.97,
       "changePercent": -6.879273756189572,
       "dollarVolume": 2554856490.1506386,
-      "marketCap": 244992037636.38998,
+      "marketCap": 244993436460.74,
       "sector": "—",
       "theme": "生技製藥",
       "isNew": true,
@@ -540,7 +540,7 @@
       "changePercent": -0.2444673185795133,
       "dollarVolume": 2249996187.955464,
       "marketCap": 642715506939.72,
-      "sector": "—",
+      "sector": "PETROLEUM REFINING",
       "theme": "能源",
       "isNew": false,
       "rankChange": -1,
@@ -567,7 +567,7 @@
       "dollarVolume": 2164949368.8817196,
       "marketCap": 159183955405.97,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "無線通訊晶片",
+      "theme": "通訊晶片",
       "isNew": false,
       "rankChange": 6,
       "streak": 6
@@ -580,7 +580,7 @@
       "dollarVolume": 2162772465.6998987,
       "marketCap": 245700157441.44003,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "類比晶片",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": -6,
       "streak": 10
@@ -652,57 +652,54 @@
     }
   ],
   "asOf": "2026-08-03T20:00:00.000Z",
-  "generatedAt": "2026-08-04T07:43:38.692Z",
+  "generatedAt": "2026-08-05T02:05:07.648Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型需求持續推動雲端軟體服務的成長，市場對其未來獲利能力保持樂觀。",
+      "reason": "企業數位轉型及AI應用需求持續推動雲端服務與軟體訂閱模式增長，相關公司業績表現亮眼。",
       "symbols": [
         "MSFT",
+        "AMZN",
+        "META",
+        "GOOGL",
+        "GOOG",
         "ORCL",
+        "NBIS",
+        "CRWV",
         "NOW",
         "CRM",
         "SNOW"
       ],
-      "count": 5,
-      "avgChange": 4.545510540921427
-    },
-    {
-      "theme": "雲端服務",
-      "reason": "隨著AI應用普及，對雲端運算和數據儲存的需求激增，帶動相關服務提供商的營收增長預期。",
-      "symbols": [
-        "AMZN",
-        "GOOGL",
-        "GOOG"
-      ],
-      "count": 3,
-      "avgChange": 4.632188019273073
+      "count": 11,
+      "avgChange": 6.707556504888166
     },
     {
       "theme": "AI 晶片",
-      "reason": "人工智慧技術的快速發展持續推升對高效能AI晶片的需求，市場預期相關公司將受惠於此趨勢。",
+      "reason": "人工智慧技術的快速發展，對高效能運算晶片的需求持續旺盛，帶動相關供應商股價上漲。",
       "symbols": [
         "NVDA",
-        "AMD"
+        "AMD",
+        "AVGO",
+        "MRVL"
       ],
-      "count": 2,
-      "avgChange": 2.358524534361259
+      "count": 4,
+      "avgChange": 2.1971161675782103
     },
     {
-      "theme": "雲端基礎設施",
-      "reason": "AI和數據中心建設熱潮帶動對雲端基礎設施服務及相關硬體的需求，市場看好其成長潛力。",
+      "theme": "記憶體",
+      "reason": "記憶體市場需求回溫，特別是HBM等高階產品受AI趨勢帶動，價格預期上漲。",
       "symbols": [
-        "NBIS",
-        "CRWV"
+        "MU",
+        "SNDK"
       ],
       "count": 2,
-      "avgChange": 15.568060172611263
+      "avgChange": 3.4058270097176813
     },
     {
       "theme": "資安",
-      "reason": "網路攻擊事件頻傳，企業和政府對資安防護的投入增加，推動資安解決方案供應商的業績增長。",
+      "reason": "網路攻擊事件頻傳，企業及政府對資安防護的重視度提升，推動資安解決方案需求增長。",
       "symbols": [
         "PANW",
         "CRWD"
@@ -712,7 +709,7 @@
     },
     {
       "theme": "半導體設備",
-      "reason": "全球半導體產業擴張，晶圓廠投資持續，帶動對先進半導體製造設備的需求。",
+      "reason": "全球半導體產業擴張，晶圓廠投資持續增加，帶動半導體設備供應商訂單成長。",
       "symbols": [
         "AMAT",
         "LRCX",
@@ -720,85 +717,94 @@
       ],
       "count": 3,
       "avgChange": 1.1495779788508067
+    },
+    {
+      "theme": "電力基礎建設",
+      "reason": "AI資料中心擴建及電網現代化需求，推動電力相關基礎設施和設備供應商的業務成長。",
+      "symbols": [
+        "VRT"
+      ],
+      "count": 1,
+      "avgChange": 8.891832595107015
     }
   ],
   "newEntrants": [
     {
       "symbol": "CRWV",
       "name": "CoreWeave, Inc. Class A Common Stock",
-      "theme": "雲端基礎設施",
+      "theme": "雲端軟體 SaaS",
       "changePercent": 19.49282429984675,
-      "reason": "受惠於大型科技公司強勁財報，AI資料中心需求激增，並有新GPU運算合約預期。"
+      "reason": "與Leidos合作向美國政府提供AI雲端基礎設施，並擴展亞太市場。"
     },
     {
       "symbol": "CAT",
       "name": "Caterpillar Inc.",
       "theme": "基礎建設",
       "changePercent": 1.8679201286189453,
-      "reason": "受惠於資料中心應用帶動發電設備需求，積壓訂單創紀錄，且將於8月4日公布財報。"
+      "reason": "第二季財報超出預期，上調全年財測，且AI數據中心需求帶動訂單積壓創新高。"
     },
     {
       "symbol": "FERG",
       "name": "Ferguson Enterprises Inc.",
-      "theme": "建築材料",
+      "theme": "工業用品",
       "changePercent": 6.721290487773652,
-      "reason": "將於8月5日納入S&P 500指數，且近期公布的財報優於預期，並宣布收購FloWorks。"
+      "reason": "財報優於預期並上調財測，宣布股票回購計畫，且將納入S&P 500指數。"
     },
     {
       "symbol": "AZN",
       "name": "AstraZeneca PLC",
       "theme": "生技製藥",
       "changePercent": -6.879273756189572,
-      "reason": "市場傳聞與Bristol Myers Squibb進行4000億美元的合併談判，引發股價下跌。"
+      "reason": "傳聞與Bristol Myers Squibb進行4000億美元的合併談判，引發市場關注。"
     },
     {
       "symbol": "BA",
       "name": "Boeing Company",
       "theme": "航空",
       "changePercent": 8.02720458961785,
-      "reason": "美國FAA認證新的波音737-7飛機，為其投入商業服務掃清障礙。"
+      "reason": "美國FAA認證新的波音737-7飛機，且Somon Air接收首架737 MAX。"
     },
     {
       "symbol": "PANW",
       "name": "Palo Alto Networks, Inc. Common Stock",
       "theme": "資安",
       "changePercent": 4.610794684024956,
-      "reason": "公布的季度財報優於分析師預期，且營收年增31.1%。"
+      "reason": "AI技術發展提高網路安全需求，公司平台化策略受投資者青睞。"
     },
     {
       "symbol": "CRM",
       "name": "Salesforce, Inc.",
       "theme": "雲端軟體 SaaS",
       "changePercent": 1.0487990435822074,
-      "reason": "宣布進行大規模裁員以推動AI轉型，並將於近期公布財報。"
+      "reason": "獲得美國退伍軍人事務部16億美元合約，以AI現代化醫療服務。"
     },
     {
       "symbol": "BRK.B",
       "name": "BERKSHIRE HATHAWAY Class B",
       "theme": "多元控股",
       "changePercent": 0.3127810141924318,
-      "reason": "近期完成對Taylor Morrison的收購，並有消息指出其投資Alphabet。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "BMY",
       "name": "Bristol-Myers Squibb Co.",
       "theme": "生技製藥",
       "changePercent": 0.2449854539886642,
-      "reason": "市場傳聞與AstraZeneca進行4000億美元的合併談判，引發股價上漲。"
+      "reason": "第二季財報強勁，超出預期並上調全年財測，且傳聞與AstraZeneca合併。"
     },
     {
       "symbol": "CRWD",
       "name": "CrowdStrike Holdings, Inc. Class A Common Stock",
       "theme": "資安",
       "changePercent": 6.119668867232515,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "Wedbush分析師認為AI是網路安全產業最大催化劑，有利CrowdStrike。"
     },
     {
       "symbol": "JNJ",
       "name": "Johnson & Johnson",
       "theme": "生技製藥",
       "changePercent": -0.7567778427930665,
-      "reason": "同意支付55億美元和解數萬起滑石粉致癌訴訟，並完成收購Firefly Bio。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "DELL",
@@ -809,50 +815,29 @@
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI相關族群與雲端服務。在近期地緣政治降溫、美國ISM製造業PMI優於預期以及亞馬遜雲端業務表現亮眼的帶動下，市場對AI領域的持續投資預期成為主要推動力。微軟、Oracle、Meta、Alphabet和亞馬遜等雲端軟體與服務巨頭表現強勁，而AI晶片股如Nvidia和AMD也隨之上漲。此外，記憶體和儲存裝置類股也因AI需求升溫而受到資金青睞，例如Micron和Sandisk。",
+    "highlights": "本日美股成交重點聚焦於雲端軟體 SaaS、AI 晶片和記憶體三大族群。雲端軟體 SaaS 類股受惠於強勁的財報表現和對 AI 相關業務的樂觀預期，例如 Microsoft 和 Amazon 的雲端業務增長超乎預期。AI 晶片股則因 SpaceX 宣布將獨家採用 Nvidia 平台，以及 AMD 數據中心業務的強勁增長而受到追捧。記憶體類股則受惠於高頻寬快閃記憶體 (HBF) 標準的合作，以及 AI 驅動的需求持續超出供應。",
     "eventsPast": [
       {
-        "title": "美國ISM製造業PMI優於預期",
-        "detail": "美國7月ISM製造業採購經理人指數(PMI)由6月的53.3升至55.6，高於預期的54.0，為連續7個月維持擴張並創2022年5月以來新高，提振市場信心。"
+        "title": "AMD 第二季財報優於預期，數據中心營收翻倍",
+        "detail": "AMD 公布第二季營收達 115 億美元，數據中心業務營收年增 107%，主要受惠於 EPYC 處理器和 Instinct GPU 的強勁需求。"
       },
       {
-        "title": "亞馬遜雲端業務表現亮眼",
-        "detail": "亞馬遜憑藉超預期的第二季AWS雲端業務表現，總市值歷史性地突破3兆美元大關，華爾街對其上調2026全年資本開支極度樂觀，認定AI算力供不應求趨勢仍將持續。"
+        "title": "Amazon 第二季財報亮眼，AWS 營收成長加速",
+        "detail": "Amazon 第二季營收達 2006.1 億美元，AWS 雲端服務營收年增 37%，創下 18 個季度以來最快增速，並推動公司市值突破 3 兆美元。"
       },
       {
-        "title": "微軟財報提振AI投資信心",
-        "detail": "微軟公布優於市場預期的季報與雲端、AI服務成長，成為「風險資產與AI題材巨大反彈」的觸發點，成功扭轉先前科技股的修正壓力。"
+        "title": "SpaceX 宣布獨家採用 Nvidia AI 平台",
+        "detail": "Elon Musk 宣布 SpaceX 未來將獨家採用 Nvidia 的 Vera Rubin 架構平台，以滿足其不斷增長的 AI 運算需求，此消息帶動 Nvidia 股價上漲。"
       },
       {
-        "title": "聯準會維持利率不變但鷹派聲音增強",
-        "detail": "聯準會7月會議決議維持聯邦基金利率目標區間在3.50-3.75%，符合市場預期，但有3名委員投下反對票主張升息，顯示內部對政策走向分歧，市場對9月升息預期機率升溫。"
+        "title": "Sandisk 與 SK Hynix 合作推動高頻寬快閃記憶體 (HBF) 標準",
+        "detail": "Sandisk 宣布與 SK Hynix 合作制定高頻寬快閃記憶體 (HBF) 的產業標準，並獲得 Alphabet 等 AI 產業公司的支持，此舉有望擴大 NAND 晶片在 AI 應用中的使用。"
       },
       {
-        "title": "SpaceX公布上市後首份財報",
-        "detail": "SpaceX於8月4日美股盤後公布上市後的首份季度財報，市場關注其獲利壓力、星鏈獲利能力及星艦燒錢速度。"
+        "title": "Apple 執行長 Tim Cook 將卸任，John Ternus 接任",
+        "detail": "Apple 宣布 Tim Cook 將於 9 月 1 日卸任執行長，由硬體工程主管 John Ternus 接任，市場關注公司未來產品策略的轉變。"
       }
     ],
-    "eventsUpcoming": [
-      {
-        "date": "8/4-6",
-        "title": "Ai4 2026與FMS快閃記憶體峰會",
-        "detail": "北美AI產業峰會與全球快閃記憶體峰會同期開幕，輝達、谷歌、微軟、Meta、三星等產業鏈巨頭出席，預計將有AI教父級人物同台，三星也預計公佈HBM4E路線圖。"
-      },
-      {
-        "date": "8/6",
-        "title": "華邦電第二季法說會",
-        "detail": "華邦電將召開第二季法說會，市場將檢視其2026、2027年產能銷售與資本支出加碼進度，是否延續帶動記憶體族群比價效應。"
-      },
-      {
-        "date": "8/13",
-        "title": "應用材料（AMAT）財報",
-        "detail": "應用材料將公布財報，市場預期每股盈餘年增逾三成，觀察重點為晶圓廠資本支出動能是否延續，尤其近期DRAM與先進封裝相關新設備需求強勁。"
-      },
-      {
-        "date": "8/26",
-        "title": "輝達（NVDA）2027財年第二季財報",
-        "detail": "輝達將公布2027財年第二季財報，市場關注其營收能否延續高速成長、Blackwell系列出貨動能、資料中心營收占比以及管理層對下半年展望的措辭。"
-      }
-    ]
+    "eventsUpcoming": []
   }
 }
