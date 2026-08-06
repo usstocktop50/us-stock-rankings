@@ -99,7 +99,7 @@
       "dollarVolume": 15304585018.830729,
       "marketCap": 4538789980000,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "消費電子",
+      "theme": "消費性電子",
       "isNew": false,
       "rankChange": -2,
       "streak": 102
@@ -112,7 +112,7 @@
       "dollarVolume": 12374097455.06989,
       "marketCap": 2940888395405.8,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電商/雲端",
+      "theme": "電商/雲端服務",
       "isNew": false,
       "rankChange": -1,
       "streak": 102
@@ -138,7 +138,7 @@
       "dollarVolume": 10201692675.10646,
       "marketCap": 363766581445.62,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "資料分析/AI",
+      "theme": "大數據/AI 軟體",
       "isNew": false,
       "rankChange": -8,
       "streak": 102
@@ -203,7 +203,7 @@
       "dollarVolume": 7096362069.83611,
       "marketCap": 1990000645219.44,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "AI 晶片",
+      "theme": "網通晶片",
       "isNew": false,
       "rankChange": -4,
       "streak": 102
@@ -255,7 +255,7 @@
       "dollarVolume": 4336365382.982002,
       "marketCap": 127734829600,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "行動廣告",
+      "theme": "行動廣告/軟體",
       "isNew": false,
       "rankChange": 19,
       "streak": 2
@@ -294,7 +294,7 @@
       "dollarVolume": 3626447784.5580683,
       "marketCap": 184600296000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "資料中心晶片",
+      "theme": "網通晶片",
       "isNew": false,
       "rankChange": -5,
       "streak": 92
@@ -333,7 +333,7 @@
       "dollarVolume": 3396634020.0332174,
       "marketCap": 415911207689.99994,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "資料庫/雲端",
+      "theme": "企業軟體/雲端",
       "isNew": false,
       "rankChange": -7,
       "streak": 102
@@ -359,7 +359,7 @@
       "dollarVolume": 3133129360.155179,
       "marketCap": 69016592988.18001,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "氫能/燃料電池",
+      "theme": "氫能源",
       "isNew": false,
       "rankChange": 0,
       "streak": 16
@@ -424,7 +424,7 @@
       "dollarVolume": 2893467235.794374,
       "marketCap": 64283028000,
       "sector": "COMMUNICATIONS EQUIPMENT, NEC",
-      "theme": "光通訊",
+      "theme": "光通訊元件",
       "isNew": false,
       "rankChange": -12,
       "streak": 20
@@ -619,7 +619,7 @@
       "dollarVolume": 1915965080.8181498,
       "marketCap": 448859358675.75,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "商業銀行",
+      "theme": "銀行",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -645,20 +645,20 @@
       "dollarVolume": 1896961762.8095784,
       "marketCap": 962587681802.3201,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "商業銀行",
+      "theme": "銀行",
       "isNew": false,
       "rankChange": -12,
       "streak": 11
     }
   ],
   "asOf": "2026-08-05T20:00:00.000Z",
-  "generatedAt": "2026-08-06T04:26:59.659Z",
+  "generatedAt": "2026-08-06T05:42:49.344Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "減肥藥 GLP-1",
-      "reason": "市場持續看好 GLP-1 藥物在糖尿病和減肥市場的巨大潛力，相關藥廠業績展望樂觀。",
+      "reason": "市場持續看好 GLP-1 藥物在糖尿病和減重領域的巨大潛力，相關藥廠表現強勁。",
       "symbols": [
         "LLY"
       ],
@@ -667,7 +667,7 @@
     },
     {
       "theme": "電商 SaaS",
-      "reason": "電子商務平台服務商受惠於線上消費需求回溫及商家數位轉型。",
+      "reason": "電商平台在數位轉型趨勢下持續成長，提供相關軟體服務的公司受市場青睞。",
       "symbols": [
         "SHOP"
       ],
@@ -676,7 +676,7 @@
     },
     {
       "theme": "線上旅遊",
-      "reason": "全球旅遊市場復甦，帶動線上旅遊預訂平台業績成長。",
+      "reason": "全球旅遊需求復甦，線上旅遊平台業績增長，帶動股價上揚。",
       "symbols": [
         "BKNG"
       ],
@@ -685,7 +685,7 @@
     },
     {
       "theme": "娛樂媒體",
-      "reason": "媒體巨頭在內容製作與串流服務方面持續投入，吸引用戶增長。",
+      "reason": "媒體巨頭在內容創作和串流服務方面持續發力，吸引投資者關注。",
       "symbols": [
         "DIS"
       ],
@@ -694,22 +694,21 @@
     },
     {
       "theme": "AI 晶片",
-      "reason": "AI 應用需求持續強勁，推動 AI 晶片領導廠商股價上漲。",
+      "reason": "AI 產業的蓬勃發展持續推動對高性能 AI 晶片的需求，領頭羊表現穩健。",
       "symbols": [
-        "NVDA",
-        "AVGO"
-      ],
-      "count": 2,
-      "avgChange": 1.731815782408532
-    },
-    {
-      "theme": "生技製藥",
-      "reason": "大型生技製藥公司在研發管線和市場擴張方面取得進展，受到資金青睞。",
-      "symbols": [
-        "AMGN"
+        "NVDA"
       ],
       "count": 1,
-      "avgChange": 4.566432490641506
+      "avgChange": 3.434934415400585
+    },
+    {
+      "theme": "網路設備",
+      "reason": "企業和資料中心對網路基礎設施升級的需求，支撐網路設備供應商的表現。",
+      "symbols": [
+        "ANET"
+      ],
+      "count": 1,
+      "avgChange": 3.5693664374573575
     }
   ],
   "newEntrants": [
@@ -718,35 +717,35 @@
       "name": "Uber Technologies, Inc.",
       "theme": "叫車/外送平台",
       "changePercent": -5.292401722461436,
-      "reason": "Uber公布第二季財報，營收成長放緩且財測保守，股價下跌。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "AMGN",
       "name": "Amgen Inc",
       "theme": "生技製藥",
       "changePercent": 4.566432490641506,
-      "reason": "Amgen第二季財報優於預期並調升全年財測，帶動股價上漲。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "UNH",
       "name": "UNITEDHEALTH GROUP INCORPORATED (Delaware)",
       "theme": "醫療保險",
       "changePercent": 1.2759170653907468,
-      "reason": "UnitedHealth Group第二季財報表現強勁並上調全年財測。"
+      "reason": "近期因Medicare Advantage支付費率預期維持不變，導致股價下跌後反彈。"
     },
     {
       "symbol": "BKNG",
       "name": "Booking Holdings Inc. Common Stock",
       "theme": "線上旅遊",
       "changePercent": 6.563030833376228,
-      "reason": "Booking Holdings第二季財報超出預期，受惠於強勁的旅遊需求。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "DIS",
       "name": "The Walt Disney Company",
       "theme": "娛樂媒體",
       "changePercent": 3.646363821552249,
-      "reason": "迪士尼第三季獲利優於預期，受惠於樂園和串流媒體業務表現。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "BRK.B",
@@ -758,35 +757,61 @@
     {
       "symbol": "BAC",
       "name": "Bank of America Corporation",
-      "theme": "商業銀行",
+      "theme": "銀行",
       "changePercent": 0.5564387917329117,
       "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI晶片、記憶體及減肥藥GLP-1等族群。資金主要流向Nvidia (NVDA) 和Eli Lilly (LLY)，Nvidia受惠於AI晶片需求的持續強勁，而Eli Lilly則因減肥藥GLP-1的優異財報表現而大漲。市場故事圍繞在AI基礎設施的龐大資本支出與其帶來的獲利潛力，以及新興藥物市場的成長動能。然而，部分AI相關個股如AMD和SpaceX則因財測不如預期或AI支出龐大引發市場擔憂而下跌。",
+    "highlights": "本日美股成交重點聚焦於AI晶片、記憶體和減肥藥GLP-1等題材。Nvidia（NVDA）和Eli Lilly（LLY）因各自領域的利好消息帶動資金流入，分別上漲3.43%和4.86%。然而，部分AI相關個股如AMD和SNDK則因財報指引未達市場極高預期或漲多獲利了結而出現較大跌幅，顯示市場對AI概念股的估值已趨於嚴格，要求企業必須展現更強勁的成長動能才能支撐股價。",
     "eventsPast": [
       {
-        "title": "Eli Lilly (LLY) 第二季營收與財測上修",
-        "detail": "禮來公司第二季營收同比增長48%至229.7億美元，調整後每股收益為8.38美元，並上調了2026年營收指引和利潤率，主要受減肥藥GLP-1需求強勁帶動。"
+        "title": "SpaceX公布上市後首份財報，AI支出暴增",
+        "detail": "SpaceX（SPCX）第二季營收年增92%至78.1億美元，但因AI算力基礎設施的資本開支高達158.28億美元，導致股價盤後一度重挫。"
       },
       {
-        "title": "SpaceX (SPCX) 第二季財報營收增長，但AI支出引發擔憂",
-        "detail": "SpaceX第二季營收同比增長90.2%至78億美元，但因AI算力基礎設施的資本開支達到183.69億美元，導致每股虧損9美分，引發市場對其龐大AI支出的疑慮，股價重挫。"
+        "title": "AMD第二季營收獲利雙優，但財測未達市場極高預期",
+        "detail": "AMD（AMD）第二季營收年增50%至115億美元，資料中心業務營收年增逾一倍，但因第三季財測未達華爾街部分分析師的最高預期，導致股價盤後重挫近9%。"
       },
       {
-        "title": "AMD (AMD) 第二季財報優異但財測不如預期",
-        "detail": "AMD第二季營收達115.4億美元，同比增長50%，淨利潤為23億美元，數據中心業務銷售額同比驟升107%，但第三季度營收指引僅略高於預期，未能滿足市場對「超級爆發」的期待，導致股價大跌。"
+        "title": "禮來（LLY）上修全年財測",
+        "detail": "禮來（LLY）第二季營收年增48%至229.7億美元，調整後每股收益為8.38美元，並上調了2026年營收指引和利潤率。"
       },
       {
-        "title": "SanDisk (SNDK) 財報亮眼但財測保守",
-        "detail": "SanDisk第四財季營收大增372%至89.7億美元，EPS飆增超過130倍至39.25美元，雙雙優於市場預期，但預估本季營收中位數將落在105.5億美元，低於市場預測，導致盤後股價重挫。"
+        "title": "英特爾（INTC）第二季業績超預期，但面臨供應鏈挑戰",
+        "detail": "英特爾（INTC）第二季營收達161.3億美元，年增25.4%，超出市場預期，但公司承認目前仍存在供應限制及庫存管理挑戰。"
       },
       {
-        "title": "Palantir (PLTR) 第二季財報超預期並上調全年財測",
-        "detail": "Palantir第二季營收同比大增93%至19.35億美元，其中美國商業領域收入成長149%，並大幅上調全年營收指引，激勵股價強勢走高，但隨後因市場認為好消息已充分反映而下跌。"
+        "title": "Meta傳向印度政府道歉，因平台出現兒童性虐待內容",
+        "detail": "Meta（META）執行長祖克柏傳已就旗下平台出現兒童性虐待內容、深偽內容及營運疏失，向印度政府表達歉意。"
       }
     ],
-    "eventsUpcoming": []
+    "eventsUpcoming": [
+      {
+        "date": "本週四",
+        "title": "SpaceX股票禁售期屆滿",
+        "detail": "SpaceX（SPCX）將觸發首階段股票禁售期屆滿，最多可能有9.115億股取得出售資格，可能引發沉重賣壓。"
+      },
+      {
+        "date": "8/6",
+        "title": "亞馬遜Alexa+在澳洲推出",
+        "detail": "亞馬遜（AMZN）的Alexa+將於8月6日在澳大利亞推出，作為搶先體驗計劃的一部分。"
+      },
+      {
+        "date": "10/1",
+        "title": "蘋果訴OpenAI聽證會",
+        "detail": "蘋果（AAPL）訴OpenAI升級，蘋果申請禁令要求OpenAI停止使用並歸還機密信息，聽證會將於10月1日舉行。"
+      },
+      {
+        "date": "未來幾個月",
+        "title": "AMD Helios AI伺服器開始出貨",
+        "detail": "AMD（AMD）新一代Helios AI伺服器已全面投入生產，搭載MI455X A加速器及由台積電製造的Venice處理器，並將於未來幾個月開始出貨。"
+      },
+      {
+        "date": "未來幾個月到幾年",
+        "title": "Meta推出AI代理產品線",
+        "detail": "Meta（META）執行長祖克柏表示，AI代理（AI agents）將是Meta未來幾個月到幾年的下一波產品線。"
+      }
+    ]
   }
 }
