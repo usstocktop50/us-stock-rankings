@@ -112,7 +112,7 @@
       "dollarVolume": 12374097455.06989,
       "marketCap": 2940888395405.8,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電商/雲端服務",
+      "theme": "電商/雲端",
       "isNew": false,
       "rankChange": -1,
       "streak": 102
@@ -138,7 +138,7 @@
       "dollarVolume": 10201692675.10646,
       "marketCap": 363766581445.62,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "大數據/AI 軟體",
+      "theme": "數據分析軟體",
       "isNew": false,
       "rankChange": -8,
       "streak": 102
@@ -203,7 +203,7 @@
       "dollarVolume": 7096362069.83611,
       "marketCap": 1990000645219.44,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網通晶片",
+      "theme": "AI 網路晶片",
       "isNew": false,
       "rankChange": -4,
       "streak": 102
@@ -216,7 +216,7 @@
       "dollarVolume": 6072141306.070022,
       "marketCap": 174723017230.56,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "電商 SaaS",
+      "theme": "電商軟體 SaaS",
       "isNew": false,
       "rankChange": 32,
       "streak": 2
@@ -255,7 +255,7 @@
       "dollarVolume": 4336365382.982002,
       "marketCap": 127734829600,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "行動廣告/軟體",
+      "theme": "廣告科技",
       "isNew": false,
       "rankChange": 19,
       "streak": 2
@@ -294,7 +294,7 @@
       "dollarVolume": 3626447784.5580683,
       "marketCap": 184600296000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網通晶片",
+      "theme": "AI 網路晶片",
       "isNew": false,
       "rankChange": -5,
       "streak": 92
@@ -320,7 +320,7 @@
       "dollarVolume": 3408339769.0022826,
       "marketCap": 138787140706.34003,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "叫車/外送平台",
+      "theme": "叫車/外送服務",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -333,7 +333,7 @@
       "dollarVolume": 3396634020.0332174,
       "marketCap": 415911207689.99994,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "企業軟體/雲端",
+      "theme": "企業軟體",
       "isNew": false,
       "rankChange": -7,
       "streak": 102
@@ -359,7 +359,7 @@
       "dollarVolume": 3133129360.155179,
       "marketCap": 69016592988.18001,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "氫能源",
+      "theme": "燃料電池/潔淨能源",
       "isNew": false,
       "rankChange": 0,
       "streak": 16
@@ -424,7 +424,7 @@
       "dollarVolume": 2893467235.794374,
       "marketCap": 64283028000,
       "sector": "COMMUNICATIONS EQUIPMENT, NEC",
-      "theme": "光通訊元件",
+      "theme": "光通訊",
       "isNew": false,
       "rankChange": -12,
       "streak": 20
@@ -450,7 +450,7 @@
       "dollarVolume": 2405131706.55349,
       "marketCap": 894010612272.7001,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售百貨",
+      "theme": "零售",
       "isNew": false,
       "rankChange": -2,
       "streak": 15
@@ -580,7 +580,7 @@
       "dollarVolume": 1942199952.0342004,
       "marketCap": 25184986048.800003,
       "sector": "OPTICAL INSTRUMENTS & LENSES",
-      "theme": "半導體檢測",
+      "theme": "半導體檢測設備",
       "isNew": false,
       "rankChange": 5,
       "streak": 2
@@ -652,13 +652,22 @@
     }
   ],
   "asOf": "2026-08-05T20:00:00.000Z",
-  "generatedAt": "2026-08-06T05:42:49.344Z",
+  "generatedAt": "2026-08-06T07:47:01.497Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
+      "theme": "AI 晶片",
+      "reason": "AI 晶片需求持續強勁，市場對相關供應鏈前景樂觀。",
+      "symbols": [
+        "NVDA"
+      ],
+      "count": 1,
+      "avgChange": 3.434934415400585
+    },
+    {
       "theme": "減肥藥 GLP-1",
-      "reason": "市場持續看好 GLP-1 藥物在糖尿病和減重領域的巨大潛力，相關藥廠表現強勁。",
+      "reason": "GLP-1 藥物市場潛力巨大，相關藥廠持續受資金追捧。",
       "symbols": [
         "LLY"
       ],
@@ -666,8 +675,8 @@
       "avgChange": 4.856231177398522
     },
     {
-      "theme": "電商 SaaS",
-      "reason": "電商平台在數位轉型趨勢下持續成長，提供相關軟體服務的公司受市場青睞。",
+      "theme": "電商軟體 SaaS",
+      "reason": "電商平台軟體服務表現亮眼，顯示線上零售市場仍具成長動能。",
       "symbols": [
         "SHOP"
       ],
@@ -676,7 +685,7 @@
     },
     {
       "theme": "線上旅遊",
-      "reason": "全球旅遊需求復甦，線上旅遊平台業績增長，帶動股價上揚。",
+      "reason": "全球旅遊需求復甦，線上旅遊平台業績表現強勁。",
       "symbols": [
         "BKNG"
       ],
@@ -685,7 +694,7 @@
     },
     {
       "theme": "娛樂媒體",
-      "reason": "媒體巨頭在內容創作和串流服務方面持續發力，吸引投資者關注。",
+      "reason": "娛樂產業內容與服務需求穩定，相關公司表現良好。",
       "symbols": [
         "DIS"
       ],
@@ -693,17 +702,8 @@
       "avgChange": 3.646363821552249
     },
     {
-      "theme": "AI 晶片",
-      "reason": "AI 產業的蓬勃發展持續推動對高性能 AI 晶片的需求，領頭羊表現穩健。",
-      "symbols": [
-        "NVDA"
-      ],
-      "count": 1,
-      "avgChange": 3.434934415400585
-    },
-    {
       "theme": "網路設備",
-      "reason": "企業和資料中心對網路基礎設施升級的需求，支撐網路設備供應商的表現。",
+      "reason": "資料中心和企業網路升級需求，帶動網路設備供應商成長。",
       "symbols": [
         "ANET"
       ],
@@ -715,37 +715,37 @@
     {
       "symbol": "UBER",
       "name": "Uber Technologies, Inc.",
-      "theme": "叫車/外送平台",
+      "theme": "叫車/外送服務",
       "changePercent": -5.292401722461436,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "Uber Technologies 因成長放緩、財測保守，以及對自動駕駛的大筆投資，導致股價下跌。"
     },
     {
       "symbol": "AMGN",
       "name": "Amgen Inc",
       "theme": "生技製藥",
       "changePercent": 4.566432490641506,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "Amgen 公布第二季財報優於預期，並上調全年財測，儘管近期有網路攻擊事件。"
     },
     {
       "symbol": "UNH",
       "name": "UNITEDHEALTH GROUP INCORPORATED (Delaware)",
       "theme": "醫療保險",
       "changePercent": 1.2759170653907468,
-      "reason": "近期因Medicare Advantage支付費率預期維持不變，導致股價下跌後反彈。"
+      "reason": "UnitedHealth Group 公布第二季財報並上調全年財測，顯示業績強勁。"
     },
     {
       "symbol": "BKNG",
       "name": "Booking Holdings Inc. Common Stock",
       "theme": "線上旅遊",
       "changePercent": 6.563030833376228,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "Booking Holdings 第二季財報營收、獲利、訂單皆優於預期，且上調全年財測。"
     },
     {
       "symbol": "DIS",
       "name": "The Walt Disney Company",
       "theme": "娛樂媒體",
       "changePercent": 3.646363821552249,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "迪士尼第三季財報表現強勁，樂園業務創紀錄，串流獲利改善，並宣布重組消費品部門。"
     },
     {
       "symbol": "BRK.B",
@@ -759,58 +759,43 @@
       "name": "Bank of America Corporation",
       "theme": "銀行",
       "changePercent": 0.5564387917329117,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "美國銀行第二季財報表現強勁，交易收入創紀錄，並獲分析師上調目標價。、近期面臨反洗錢計畫的監管罰款風險。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI晶片、記憶體和減肥藥GLP-1等題材。Nvidia（NVDA）和Eli Lilly（LLY）因各自領域的利好消息帶動資金流入，分別上漲3.43%和4.86%。然而，部分AI相關個股如AMD和SNDK則因財報指引未達市場極高預期或漲多獲利了結而出現較大跌幅，顯示市場對AI概念股的估值已趨於嚴格，要求企業必須展現更強勁的成長動能才能支撐股價。",
+    "highlights": "本日美股成交重點集中在AI晶片、記憶體和太空科技等高科技板塊，其中AI晶片龍頭Nvidia（NVDA）和記憶體大廠美光（MU）成交金額領先。資金主要圍繞AI產業鏈的強勁需求，特別是數據中心資本支出，以及減肥藥GLP-1題材的持續發酵。SpaceX（SPCX）在公布IPO後首份財報後，儘管營收優於預期，但因AI基礎設施支出暴增導致股價下跌，而Palantir（PLTR）則因財報超預期且美國商業業務營收大幅增長而股價飆升，顯示市場對企業端AI需求的信心依然強勁。",
     "eventsPast": [
       {
-        "title": "SpaceX公布上市後首份財報，AI支出暴增",
-        "detail": "SpaceX（SPCX）第二季營收年增92%至78.1億美元，但因AI算力基礎設施的資本開支高達158.28億美元，導致股價盤後一度重挫。"
+        "title": "SpaceX公布IPO後首份財報",
+        "detail": "SpaceX (SPCX) 第二季度營收同比增長90.2%至78億美元，每股虧損9美分，優於市場預期，但資本開支達到183.69億美元，其中158.28億美元投向AI算力基礎設施，導致盤後股價下跌。"
       },
       {
-        "title": "AMD第二季營收獲利雙優，但財測未達市場極高預期",
-        "detail": "AMD（AMD）第二季營收年增50%至115億美元，資料中心業務營收年增逾一倍，但因第三季財測未達華爾街部分分析師的最高預期，導致股價盤後重挫近9%。"
+        "title": "AMD第二季度財報優於預期，但盤後下跌",
+        "detail": "AMD (AMD) 第二季度營收達115.4億美元，同比增長50%，淨利潤為23億美元，調整後每股收益為1.66美元，均優於市場預期。 但由於市場對財測期待更高，加上部分分析師預估更為樂觀，AMD盤後股價仍走跌近10%。"
       },
       {
-        "title": "禮來（LLY）上修全年財測",
-        "detail": "禮來（LLY）第二季營收年增48%至229.7億美元，調整後每股收益為8.38美元，並上調了2026年營收指引和利潤率。"
+        "title": "Palantir財報超預期，股價飆升",
+        "detail": "Palantir (PLTR) 第二季度營收與獲利雙雙優於市場預期，並同步上調全年財測，激勵股價強勢走高近30%。 公司執行長Alex Karp表示，美國商業業務營收年增149%，整體營收年增93%。"
       },
       {
-        "title": "英特爾（INTC）第二季業績超預期，但面臨供應鏈挑戰",
-        "detail": "英特爾（INTC）第二季營收達161.3億美元，年增25.4%，超出市場預期，但公司承認目前仍存在供應限制及庫存管理挑戰。"
+        "title": "禮來上調2026年營收指引和利潤率",
+        "detail": "禮來 (LLY) 第二季度營收同比增長48%至229.7億美元，調整後每股收益為8.38美元，公司上調了2026年營收指引和利潤率。"
       },
       {
-        "title": "Meta傳向印度政府道歉，因平台出現兒童性虐待內容",
-        "detail": "Meta（META）執行長祖克柏傳已就旗下平台出現兒童性虐待內容、深偽內容及營運疏失，向印度政府表達歉意。"
+        "title": "美聯儲官員對升息的看法",
+        "detail": "美聯儲卡什卡利表示，現在是開始逐步上調利率的時候了，但不呼籲大幅加息。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "本週四",
-        "title": "SpaceX股票禁售期屆滿",
-        "detail": "SpaceX（SPCX）將觸發首階段股票禁售期屆滿，最多可能有9.115億股取得出售資格，可能引發沉重賣壓。"
+        "date": "8月7日週五",
+        "title": "美國7月非農就業數據",
+        "detail": "7月非農就業數據能否延續降溫走勢，是市場評估9月降息機率的重要依據。"
       },
       {
-        "date": "8/6",
-        "title": "亞馬遜Alexa+在澳洲推出",
-        "detail": "亞馬遜（AMZN）的Alexa+將於8月6日在澳大利亞推出，作為搶先體驗計劃的一部分。"
-      },
-      {
-        "date": "10/1",
-        "title": "蘋果訴OpenAI聽證會",
-        "detail": "蘋果（AAPL）訴OpenAI升級，蘋果申請禁令要求OpenAI停止使用並歸還機密信息，聽證會將於10月1日舉行。"
-      },
-      {
-        "date": "未來幾個月",
-        "title": "AMD Helios AI伺服器開始出貨",
-        "detail": "AMD（AMD）新一代Helios AI伺服器已全面投入生產，搭載MI455X A加速器及由台積電製造的Venice處理器，並將於未來幾個月開始出貨。"
-      },
-      {
-        "date": "未來幾個月到幾年",
-        "title": "Meta推出AI代理產品線",
-        "detail": "Meta（META）執行長祖克柏表示，AI代理（AI agents）將是Meta未來幾個月到幾年的下一波產品線。"
+        "date": "8月12日週三",
+        "title": "美國7月CPI數據",
+        "detail": "市場將關注7月CPI數據，以評估通膨走勢及對聯準會政策的影響。"
       }
     ]
   }
