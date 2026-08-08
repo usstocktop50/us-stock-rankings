@@ -47,7 +47,7 @@
       "dollarVolume": 17181128049.740242,
       "marketCap": 179515885545.18,
       "sector": "COMPUTER STORAGE DEVICES",
-      "theme": "儲存設備",
+      "theme": "儲存裝置",
       "isNew": false,
       "rankChange": 0,
       "streak": 104
@@ -73,7 +73,7 @@
       "dollarVolume": 13132954540.718243,
       "marketCap": 394947230161.33997,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "大數據/AI 軟體",
+      "theme": "資料分析/AI 軟體",
       "isNew": false,
       "rankChange": 8,
       "streak": 104
@@ -125,7 +125,7 @@
       "dollarVolume": 9323333420.429764,
       "marketCap": 2960627349242.56,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電子商務",
+      "theme": "電子商務/雲端服務",
       "isNew": false,
       "rankChange": -1,
       "streak": 104
@@ -151,7 +151,7 @@
       "dollarVolume": 7056367446.84749,
       "marketCap": 2079032400000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "網路服務",
+      "theme": "網路服務/AI",
       "isNew": false,
       "rankChange": -4,
       "streak": 104
@@ -164,7 +164,7 @@
       "dollarVolume": 6672872587.485726,
       "marketCap": 1305656590178.9001,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "社群媒體",
+      "theme": "社群媒體/AI",
       "isNew": false,
       "rankChange": 0,
       "streak": 104
@@ -203,7 +203,7 @@
       "dollarVolume": 5142834659.342283,
       "marketCap": 1953628690000.0002,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "網路服務",
+      "theme": "網路服務/AI",
       "isNew": false,
       "rankChange": -1,
       "streak": 104
@@ -216,7 +216,7 @@
       "dollarVolume": 5137262539.236896,
       "marketCap": 149695449493.30002,
       "sector": "COMPUTER STORAGE DEVICES",
-      "theme": "儲存設備",
+      "theme": "儲存裝置",
       "isNew": false,
       "rankChange": -5,
       "streak": 102
@@ -229,7 +229,7 @@
       "dollarVolume": 4777103281.4465275,
       "marketCap": 182244355537.91998,
       "sector": "COMPUTER STORAGE DEVICES",
-      "theme": "儲存設備",
+      "theme": "儲存裝置",
       "isNew": false,
       "rankChange": 1,
       "streak": 39
@@ -255,7 +255,7 @@
       "dollarVolume": 4276678537.658263,
       "marketCap": 41252852591.36,
       "sector": "—",
-      "theme": "雲端基礎設施",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": -3,
       "streak": 29
@@ -346,7 +346,7 @@
       "dollarVolume": 3328399778.773154,
       "marketCap": 64601628071.64,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "氫能源",
+      "theme": "燃料電池",
       "isNew": false,
       "rankChange": 1,
       "streak": 18
@@ -424,7 +424,7 @@
       "dollarVolume": 2707724946.9109106,
       "marketCap": 96442170105.18,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "資安",
+      "theme": "資安/雲端基礎設施",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -437,7 +437,7 @@
       "dollarVolume": 2672382167.1412344,
       "marketCap": 106027857600,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "行動廣告",
+      "theme": "數位廣告",
       "isNew": false,
       "rankChange": -16,
       "streak": 4
@@ -450,7 +450,7 @@
       "dollarVolume": 2464392634.2460217,
       "marketCap": 152710637955.25998,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "叫車服務",
+      "theme": "叫車/外送服務",
       "isNew": false,
       "rankChange": 4,
       "streak": 3
@@ -489,7 +489,7 @@
       "dollarVolume": 2296148036.233402,
       "marketCap": 147417911622.8,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "電子電腦",
+      "theme": "電腦硬體",
       "isNew": false,
       "rankChange": -8,
       "streak": 5
@@ -502,7 +502,7 @@
       "dollarVolume": 2217523521.2959957,
       "marketCap": 3530679964.2,
       "sector": "SERVICES-COMPUTER PROGRAMMING SERVICES",
-      "theme": "醫療科技",
+      "theme": "醫療科技軟體",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -515,7 +515,7 @@
       "dollarVolume": 2202139591.2791076,
       "marketCap": 261261898010.87997,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "類比IC",
+      "theme": "半導體",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -606,7 +606,7 @@
       "dollarVolume": 2022090980.5175922,
       "marketCap": 183602105668.58,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "電子商務",
+      "theme": "電子商務軟體",
       "isNew": false,
       "rankChange": -14,
       "streak": 4
@@ -619,7 +619,7 @@
       "dollarVolume": 1988604959.8893323,
       "marketCap": 36619996940.8,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體 SaaS",
+      "theme": "雲端通訊",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -652,16 +652,15 @@
     }
   ],
   "asOf": "2026-08-07T20:00:00.000Z",
-  "generatedAt": "2026-08-08T04:20:15.953Z",
+  "generatedAt": "2026-08-08T05:49:04.343Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型趨勢不減，雲端軟體服務需求持續成長，帶動相關個股表現強勁。",
+      "reason": "企業數位轉型需求持續推動雲端軟體服務的增長，尤其在效率提升和協作工具方面表現強勁。",
       "symbols": [
         "MSFT",
-        "PLTR",
         "ORCL",
         "NOW",
         "TEAM",
@@ -669,15 +668,14 @@
         "CRM",
         "SNOW",
         "DDOG",
-        "SHOP",
-        "TWLO"
+        "SHOP"
       ],
-      "count": 11,
-      "avgChange": 8.81360120831532
+      "count": 9,
+      "avgChange": 6.860454485085087
     },
     {
       "theme": "太空",
-      "reason": "商業太空探索領域持續獲得關注，相關公司在技術創新和發射任務上取得進展。",
+      "reason": "太空探索和衛星通訊領域的商業化進程加速，吸引了投資者對相關技術和服務公司的關注。",
       "symbols": [
         "SPCX",
         "RKLB"
@@ -687,7 +685,7 @@
     },
     {
       "theme": "光通訊",
-      "reason": "AI和數據中心對高速傳輸的需求激增，推動光通訊元件和設備供應商的業績增長。",
+      "reason": "隨著資料中心和AI基礎設施對高速網路的需求激增，光通訊技術的重要性日益凸顯。",
       "symbols": [
         "LITE",
         "AAOI"
@@ -696,22 +694,17 @@
       "avgChange": 7.701624132246483
     },
     {
-      "theme": "半導體",
-      "reason": "全球對半導體的需求持續旺盛，尤其在AI和高效能運算領域，帶動產業鏈相關公司上漲。",
+      "theme": "AI 晶片",
+      "reason": "人工智慧技術的快速發展持續推動對高效能AI晶片的需求，相關供應商受市場追捧。",
       "symbols": [
-        "NVDA",
-        "INTC",
-        "AVGO",
-        "MRVL",
-        "TSM",
-        "TXN"
+        "NVDA"
       ],
-      "count": 6,
-      "avgChange": 2.151275918397566
+      "count": 1,
+      "avgChange": 2.269510023288734
     },
     {
-      "theme": "大數據/AI 軟體",
-      "reason": "人工智慧技術的廣泛應用，使得大數據分析和AI軟體解決方案提供商受到市場青睞。",
+      "theme": "資料分析/AI 軟體",
+      "reason": "企業對大數據分析和AI應用軟體的需求不斷增加，以提升營運效率和決策能力。",
       "symbols": [
         "PLTR"
       ],
@@ -720,7 +713,7 @@
     },
     {
       "theme": "旅遊服務",
-      "reason": "全球旅遊業持續復甦，消費者出行需求增加，帶動線上旅遊平台業績成長。",
+      "reason": "全球旅遊業持續復甦，帶動線上旅遊預訂平台和相關服務提供商的業績增長。",
       "symbols": [
         "ABNB"
       ],
@@ -734,128 +727,128 @@
       "name": "Atlassian Corporation Class A Common Stock",
       "theme": "雲端軟體 SaaS",
       "changePercent": 35.30906780430244,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "財報優於預期，雲端業務加速成長，加上AI產品整合，推動股價大漲。"
     },
     {
       "symbol": "MSTR",
       "name": "Strategy Inc Common Stock Class A",
       "theme": "比特幣/加密",
       "changePercent": 3.262777490965422,
-      "reason": "第二季財報顯示比特幣持有量增加，並宣布庫藏股計畫。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "XOM",
       "name": "ExxonMobil Holdings Corporation",
       "theme": "石油與天然氣",
       "changePercent": -1.1624903125807358,
-      "reason": "第二季財報獲利超預期，並宣布提高股息和庫藏股。"
+      "reason": "第二季財報顯示煉油業務強勁及蓋亞那現金流增加，儘管EPS未達預期。"
     },
     {
       "symbol": "ABNB",
       "name": "Airbnb, Inc. Class A Common Stock",
       "theme": "旅遊服務",
       "changePercent": 17.4294381429702,
-      "reason": "第二季財報表現優於預期，帶動股價上漲。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "NET",
       "name": "Cloudflare, Inc. Class A common stock, par value $0.001 per share",
-      "theme": "資安",
+      "theme": "資安/雲端基礎設施",
       "changePercent": 5.569032802446991,
-      "reason": "第二季財報營收獲利皆優於預期，並上調全年財測。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "GEV",
       "name": "GE Vernova Inc.",
       "theme": "電力基礎建設",
       "changePercent": -0.9977006897930525,
-      "reason": "第二季財報營收成長強勁，並上調全年財測。"
+      "reason": "第二季財報訂單和積壓成長強勁，且上調全年財測，獲分析師看好。"
     },
     {
       "symbol": "DOCS",
       "name": "Doximity, Inc.",
-      "theme": "醫療科技",
+      "theme": "醫療科技軟體",
       "changePercent": 32.62342691190706,
-      "reason": "第一季財報營收獲利優於預期，並上調全年財測。"
+      "reason": "第一季營收與財測優於預期，AI工具Doximity Ask表現亮眼。"
     },
     {
       "symbol": "TXN",
       "name": "Texas Instruments Incorporated",
-      "theme": "類比IC",
+      "theme": "半導體",
       "changePercent": 2.7586206896551753,
-      "reason": "第二季財報獲利與營收優於預期，並受惠AI晶片需求。"
+      "reason": "分析師上調盈利預期且被Zacks列為「強力買入」，受惠AI晶片需求。"
     },
     {
       "symbol": "TWLO",
       "name": "Twilio Inc.",
-      "theme": "雲端軟體 SaaS",
+      "theme": "雲端通訊",
       "changePercent": 24.886128364389243,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "第二季財報業績與財測均優於預期，AI通訊平台成長樂觀。"
     },
     {
       "symbol": "RKLB",
       "name": "Rocket Lab Corporation Common Stock",
       "theme": "太空",
       "changePercent": 9.46213823179595,
-      "reason": "獲得美國太空軍多項大額合約，強化國防業務。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "CSCO",
       "name": "Cisco Systems, Inc. Common Stock (DE)",
       "theme": "網路設備",
       "changePercent": 0.4549966909331663,
-      "reason": "受惠AI基礎設施訂單強勁，分析師調升目標價。"
+      "reason": "受惠企業AI基礎設施建置加速，以及以太網路解決方案需求增加。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI相關題材，其中太空、大數據/AI軟體、半導體和光通訊族群表現強勁。SpaceX（SPCX）在股票解鎖後逆勢大漲，顯示市場對其AI晶片廠Terafab前景的看好，並有空頭回補助攻。Palantir（PLTR）受惠於強勁的美國商業AI需求，財報優於預期帶動股價上漲。半導體和光通訊族群則受Nvidia（NVDA）在AI儲存技術和CPO量產的進展，以及AMD（AMD）收購AI新創公司的消息激勵。",
+    "highlights": "本日美股成交重點集中在AI相關題材，尤其是雲端軟體SaaS、AI晶片、資料分析/AI軟體以及太空領域。SpaceX (SPCX) 在公布財報後因其龐大的AI資本支出而受到市場關注，儘管股價一度大跌，但其全面擁抱Nvidia晶片並布局太空AI算力的策略，顯示市場對AI基礎設施長期需求的信心。同時，Palantir (PLTR) 的亮眼財報，特別是美國商業營收的爆發性成長，也強化了AI軟體應用前景的樂觀情緒。整體而言，市場正在交易AI投資從「高投入」轉向「高回報」的故事，並密切關注科技巨頭的資本支出能否有效轉化為營收與獲利。",
     "eventsPast": [
       {
-        "title": "SpaceX股票解鎖後逆勢大漲",
-        "detail": "SpaceX（SPCX）在8月7日首波9.115億股解鎖後，股價逆勢大漲逾15%，主要受流通量大增帶動被動型ETF買進，以及市場看好其與Tesla合作的Terafab晶片廠前景所致。"
+        "title": "SpaceX公布財報與AI策略",
+        "detail": "SpaceX (SPCX) 公布第二季財報後，因其高達158億美元的AI算力基礎建設資本支出，導致股價盤前大跌超過11%。然而，執行長馬斯克宣布未來將全面採用Nvidia (NVDA) 系統建構AI服務，並規劃發射搭載Nvidia Vera Rubin NVL72機架式系統的Starmind衛星，顯示其積極布局太空AI算力。"
       },
       {
-        "title": "Palantir上調年度營收預期",
-        "detail": "Palantir Technologies（PLTR）於8月4日上調年度營收預期，主要受惠於美國商業部門對其軍用級AI工具的強勁需求，第二季業績超越分析師預期。"
+        "title": "Palantir第二季財報亮眼",
+        "detail": "Palantir Technologies (PLTR) 第二季調整後每股盈餘和營收均超出市場預期，特別是美國商業營收年增149%，帶動股價盤後一度飆漲逾一成，顯示其AI軟體應用在商業領域的強勁成長動能。"
       },
       {
-        "title": "AMD收購AI晶片新創公司Taalas",
-        "detail": "AMD（AMD）於8月7日宣布收購加拿大AI晶片新創公司Taalas，此舉旨在擴展其AI推論晶片產品線，以提供資料中心市場專用AI推論晶片，強化與Nvidia的競爭力。"
+        "title": "摩根大通看好AI投資兌現",
+        "detail": "摩根大通報告指出，超大型雲端服務商的雲端業務積壓訂單年增超過150%，總金額達約1.7兆美元，遠高於資本支出成長速度，顯示AI基礎設施投資正逐步轉化為龐大訂單與未來營收，市場對AI投資效益的疑慮可能已開始消退。"
       },
       {
-        "title": "Nvidia發表AI儲存技術與CPO量產",
-        "detail": "Nvidia（NVDA）在未來記憶體與儲存（FMS）大會上發表多項前瞻儲存技術，並宣布其共同封裝光學（CPO）技術已進入量產階段，激勵半導體及光通訊族群。"
+        "title": "川普政府擬禁中國光收發器",
+        "detail": "路透報導，川普政府正在草擬一項禁令，禁止美國進口新型號的中國資料中心零組件，以保護AI基礎設施，此消息激勵光通訊族群股價上漲，其中Lumentum (LITE) 表現活躍。"
       },
       {
-        "title": "SanDisk財測不如預期導致股價下跌",
-        "detail": "SanDisk（SNDK）於8月6日公布的2027會計年度第一季營收財測低於分析師預期，導致股價下跌，儘管其第四季營收和獲利表現亮眼。"
+        "title": "美股第二季財報表現強勁",
+        "detail": "截至7月底，已公布財報的美國企業中，高達85%獲利超越預期，整體企業獲利年增率達47.7%，其中科技類股獲利年增70.5%，顯示AI投資已逐步反映在營收與獲利表現上。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "8/13",
-        "title": "SanDisk投資人日",
-        "detail": "SanDisk（SNDK）將於8月13日舉行投資人日，市場將關注其對記憶體和儲存設備市場的展望以及AI相關策略。"
+        "date": "本週稍晚",
+        "title": "美國財政部融資計畫細節",
+        "detail": "美國財政部將公布最新融資計畫的更多細節，任何超出市場預期的變化都可能重新釋放債市波動。"
       },
       {
-        "date": "8/20",
-        "title": "SpaceX第二波股票解鎖",
-        "detail": "SpaceX（SPCX）預計在8月20日迎來第二波股票解鎖，約有3.19億股股票將解除閉鎖期，可能對股價造成影響。"
+        "date": "本週五",
+        "title": "美國7月非農就業報告",
+        "detail": "投資者將迎來多項重要經濟數據，最終關注點將落在週五公布的7月非農就業報告。"
       },
       {
-        "date": "9月底",
-        "title": "SpaceX第三波股票解鎖",
-        "detail": "SpaceX（SPCX）預計在9月底進行第三波股票解鎖，約有7億股股票將解除閉鎖期。"
+        "date": "未來幾週或幾個月",
+        "title": "大型科技公司AI資本支出與雲端需求",
+        "detail": "市場將密切關注大型科技公司是否會下調AI資本支出，以及雲端與AI服務需求是否明顯低於預期，這些將是判斷半導體產業基本面是否崩壞的關鍵訊號。"
       },
       {
-        "date": "9/2",
-        "title": "Broadcom公布第三季財報",
-        "detail": "Broadcom（AVGO）將於9月2日公布2026財年第三季財報，市場將關注其在半導體和基礎設施軟體領域的表現，特別是AI相關業務的增長。"
+        "date": "未來幾週或幾個月",
+        "title": "資料中心晶片、記憶體訂單",
+        "detail": "市場將關注資料中心晶片、記憶體或先進封裝訂單是否轉弱，以及分析師是否會全面下修半導體產業獲利預估。"
       },
       {
-        "date": "2027年6月",
-        "title": "馬斯克SpaceX持股解禁",
-        "detail": "SpaceX最大股東馬斯克（Elon Musk）的持股預計要到2027年6月才可出脫，此消息可能影響市場對SpaceX長期股價的預期。"
+        "date": "未來幾天",
+        "title": "SpaceX股票解禁潮",
+        "detail": "SpaceX即將到來的股票解禁潮，規模達1000億美元的籌碼拋壓可能對市場流動性造成衝擊。"
       }
     ]
   }
