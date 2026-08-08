@@ -73,7 +73,7 @@
       "dollarVolume": 14417704287.82822,
       "marketCap": 4559367773800,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "消費電子",
+      "theme": "消費性電子",
       "isNew": false,
       "rankChange": 2,
       "streak": 103
@@ -112,7 +112,7 @@
       "dollarVolume": 8365892852.076307,
       "marketCap": 2936681733112.7197,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電商與雲端服務",
+      "theme": "電子商務",
       "isNew": false,
       "rankChange": 0,
       "streak": 103
@@ -138,7 +138,7 @@
       "dollarVolume": 7826288605.4400835,
       "marketCap": 503441640000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "CPU",
+      "theme": "半導體製造",
       "isNew": false,
       "rankChange": 3,
       "streak": 103
@@ -177,7 +177,7 @@
       "dollarVolume": 6503208340.469338,
       "marketCap": 358003442397.27997,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "數據分析軟體",
+      "theme": "大數據分析",
       "isNew": false,
       "rankChange": -3,
       "streak": 103
@@ -203,7 +203,7 @@
       "dollarVolume": 5865604280.782166,
       "marketCap": 2000871715971.8699,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網通晶片",
+      "theme": "網路通訊晶片",
       "isNew": false,
       "rankChange": 0,
       "streak": 103
@@ -229,7 +229,7 @@
       "dollarVolume": 5156672360.298002,
       "marketCap": 102625060440,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "廣告科技",
+      "theme": "行動廣告",
       "isNew": false,
       "rankChange": 2,
       "streak": 3
@@ -281,7 +281,7 @@
       "dollarVolume": 3574201043.848693,
       "marketCap": 184180392000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網通晶片",
+      "theme": "網路通訊晶片",
       "isNew": false,
       "rankChange": 1,
       "streak": 93
@@ -307,7 +307,7 @@
       "dollarVolume": 3521608352.1205506,
       "marketCap": 75855047223.42,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端監控軟體",
+      "theme": "雲端監控",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -385,7 +385,7 @@
       "dollarVolume": 2697250598.9735847,
       "marketCap": 142180948546,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "電腦硬體",
+      "theme": "電子電腦",
       "isNew": false,
       "rankChange": -3,
       "streak": 4
@@ -424,7 +424,7 @@
       "dollarVolume": 2570945733.268688,
       "marketCap": 178599290491.36,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "電商軟體",
+      "theme": "電子商務軟體",
       "isNew": false,
       "rankChange": -16,
       "streak": 3
@@ -515,7 +515,7 @@
       "dollarVolume": 2160532406.738232,
       "marketCap": 92775843060,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "拉丁美洲電商",
+      "theme": "電子商務",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -632,7 +632,7 @@
       "dollarVolume": 1891675567.0940037,
       "marketCap": 110218800000,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端數據庫",
+      "theme": "雲端資料庫",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -652,25 +652,24 @@
     }
   ],
   "asOf": "2026-08-06T20:00:00.000Z",
-  "generatedAt": "2026-08-07T06:18:40.036Z",
+  "generatedAt": "2026-08-08T02:05:11.726Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型需求持續推動雲端軟體服務的成長，市場對其營收穩定性和擴展性抱持樂觀態度。",
+      "reason": "企業數位轉型需求持續，雲端軟體服務提供商的營收增長潛力受市場青睞。",
       "symbols": [
         "MSFT",
         "SHOP",
-        "SNOW",
         "NOW"
       ],
-      "count": 4,
-      "avgChange": 1.309835278106346
+      "count": 3,
+      "avgChange": 1.6244085743181167
     },
     {
       "theme": "光通訊",
-      "reason": "隨著數據中心和AI基礎設施對高速傳輸的需求增加，光通訊相關技術和產品受到市場關注。",
+      "reason": "隨著數據中心和AI基礎設施的擴建，對高速光學傳輸元件的需求持續增長。",
       "symbols": [
         "LITE",
         "COHR"
@@ -680,7 +679,7 @@
     },
     {
       "theme": "太空科技",
-      "reason": "商業太空探索和衛星通訊領域的發展潛力，吸引投資者對相關公司的興趣。",
+      "reason": "太空探索與衛星通訊領域的商業化進程加速，吸引投資者關注。",
       "symbols": [
         "SPCX"
       ],
@@ -689,7 +688,7 @@
     },
     {
       "theme": "減肥藥 GLP-1",
-      "reason": "GLP-1藥物在體重管理和糖尿病治療領域展現巨大市場潛力，持續引發市場熱潮。",
+      "reason": "GLP-1受體激動劑在減重和糖尿病治療領域展現巨大市場潛力，相關藥廠備受矚目。",
       "symbols": [
         "LLY"
       ],
@@ -698,7 +697,7 @@
     },
     {
       "theme": "晶圓代工",
-      "reason": "全球半導體需求持續增長，晶圓代工廠作為產業鏈關鍵環節，營運表現受到市場肯定。",
+      "reason": "全球半導體需求持續強勁，先進製程技術的晶圓代工廠扮演關鍵角色。",
       "symbols": [
         "TSM"
       ],
@@ -707,7 +706,7 @@
     },
     {
       "theme": "多元控股",
-      "reason": "在市場波動時，多元化投資組合的控股公司因其穩健的經營模式和廣泛的投資佈局，常被視為避險標的。",
+      "reason": "多元化投資組合在市場波動中提供相對穩定性，吸引尋求避險的資金。",
       "symbols": [
         "BRK.B"
       ],
@@ -719,9 +718,9 @@
     {
       "symbol": "DDOG",
       "name": "Datadog, Inc. Class A Common Stock",
-      "theme": "雲端監控軟體",
+      "theme": "雲端監控",
       "changePercent": -19.0274393473885,
-      "reason": "財報公布前分析師上調目標價，市場看好AI平台成長潛力。"
+      "reason": "Evercore推薦為「風險偏好」企業軟體首選，投資者重返成長股市場。"
     },
     {
       "symbol": "HONA",
@@ -735,102 +734,92 @@
       "name": "Celestica, Inc.",
       "theme": "電子製造服務",
       "changePercent": -13.295291652883453,
-      "reason": "摩根大通上調目標價，看好其AI基礎設施市場的戰略定位。"
+      "reason": "分析師看好其AI相關盈利指標，年同比增長預期引起關注。"
     },
     {
       "symbol": "CRM",
       "name": "Salesforce, Inc.",
       "theme": "雲端軟體 SaaS",
       "changePercent": -3.217950046636947,
-      "reason": "近期領導層變動引發不確定性，宏觀壓力與AI策略受質疑。"
+      "reason": "近期市場轉向相對便宜的股票，且軟體股普遍走弱。"
     },
     {
       "symbol": "MELI",
       "name": "Mercado Libre, Inc",
-      "theme": "拉丁美洲電商",
+      "theme": "電子商務",
       "changePercent": -4.81490921006777,
-      "reason": "投資人擔憂物流成本上升與競爭加劇，導致利潤受壓。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "COST",
       "name": "Costco Wholesale Corp",
       "theme": "零售百貨",
       "changePercent": 0.7600929946177739,
-      "reason": "財報結果好壞參半，但會員續訂率穩定支撐股價。"
+      "reason": "零售百貨股受關注，但無具體催化劑。"
     },
     {
       "symbol": "AAOI",
       "name": "Applied Optoelectronics, Inc.",
       "theme": "光通訊",
       "changePercent": -3.3758556316117017,
-      "reason": "AI收發器需求強勁，第二季獲利展望提升，並獲政府擴廠補助。"
+      "reason": "受惠於AI與網通題材，宣布擴大800G與1.6T光收發模組產能。"
     },
     {
       "symbol": "GLW",
       "name": "Corning Incorporated",
       "theme": "特種玻璃",
       "changePercent": 0.3063178047224111,
-      "reason": "受同業對AI資料中心光纖需求預期下調影響，股價承壓。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "SNOW",
       "name": "Snowflake Inc.",
-      "theme": "雲端數據庫",
+      "theme": "雲端資料庫",
       "changePercent": 0.3661153894710343,
-      "reason": "獲美銀上調評級至「買入」，並因AI戰略合作夥伴關係而受關注。"
+      "reason": "Evercore推薦為「風險偏好」企業軟體首選，投資者重返成長股市場。"
     },
     {
       "symbol": "NOW",
       "name": "SERVICENOW, INC.",
       "theme": "雲端軟體 SaaS",
       "changePercent": 0.11090257635215446,
-      "reason": "近期股價大幅上漲，市場對SaaS產業的悲觀情緒有所修正。"
+      "reason": "被分析師青睞，認為其AI未來被低估。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI相關題材，儘管部分個股下跌，但資金仍大量湧入AI晶片、記憶體、儲存裝置和雲端軟體SaaS等領域。Nvidia (NVDA) 受惠於SpaceX的AI晶片獨家採購協議，以及主要雲端服務供應商持續增加AI資本支出，帶動其成交量。同時，美光 (MU) 和西部數據 (WDC) 等記憶體與儲存裝置公司也因AI需求激增而受到關注，儘管SanDisk (SNDK) 財報優異但因財測不如預期而下跌。微軟 (MSFT) 和亞馬遜 (AMZN) 等雲端服務巨頭則因其雲端和AI業務的強勁增長而吸引資金。",
+    "highlights": "本日美股成交重點聚焦於AI相關產業鏈與太空科技領域。SpaceX執行長馬斯克宣布未來將全面採用Nvidia的AI晶片，帶動Nvidia股價上漲，同時也讓市場對太空科技與AI結合的潛力產生高度關注。記憶體和儲存裝置類股則因財報表現和市場對未來價格走勢的預期而出現較大波動。此外，美國7月非農就業數據意外疲軟，引發市場對聯準會升息步伐可能放緩的預期，也影響了整體市場情緒。",
     "eventsPast": [
       {
-        "title": "西部數據 (WDC) 公布優異財報與財測",
-        "detail": "西部數據於8月5日公布2026財年第四季度及全年財報，營收年增44%，超出預期，並預計2027財年第一季度營收和非GAAP每股盈餘將持續增長，主要受惠於AI和雲端儲存需求的強勁增長。"
+        "title": "SpaceX宣布全面採用Nvidia AI晶片",
+        "detail": "SpaceX執行長馬斯克表示，未來其AI基礎設施將完全以Nvidia的Vera Rubin架構晶片建構，激勵Nvidia股價上漲。"
       },
       {
-        "title": "SanDisk (SNDK) 財報亮眼但財測不如預期",
-        "detail": "SanDisk於8月6日公布2026財年第四季度財報，營收和每股盈餘均大幅超出預期，但由於下一季度營收財測略低於分析師預期，導致股價下跌。"
+        "title": "Sandisk公布第四財季財報與財測",
+        "detail": "Sandisk第四財季營收年增372%至89.7億美元，調整後每股收益為39.25美元，但由於第一財季營收預測低於市場預期，導致股價下跌。"
       },
       {
-        "title": "AMD (AMD) 收購Taalas強化AI推論市場",
-        "detail": "AMD於8月6日宣布收購AI推論晶片公司Taalas，此舉旨在強化其在快速增長的AI推論市場的長期AI發展藍圖，並提升其差異化的推論技術和工程專業知識。"
+        "title": "Western Digital公布第四財季財報與財測",
+        "detail": "Western Digital第四財季淨營收年增44%至37.5億美元，調整後每股收益3.56美元，但因財測未能滿足市場高度期待，盤後股價重挫。"
       },
       {
-        "title": "Nvidia (NVDA) 與Safe Superintelligence Inc. 建立戰略合作夥伴關係",
-        "detail": "Nvidia於7月27日宣布與Ilya Sutskever的Safe Superintelligence Inc.建立長期戰略合作夥伴關係，以加速SSI的戰略增長。"
+        "title": "美國7月非農就業人數意外減少",
+        "detail": "美國勞工統計局公布，7月份非農就業人數意外減少2.3萬人，失業率小幅下滑，市場預期聯準會9月加息的概率下降。"
       },
       {
-        "title": "微軟 (MSFT) 雲端與AI業務強勁增長",
-        "detail": "微軟於7月29日公布2026財年第四季度財報，Microsoft Cloud營收達到593億美元，增長27%，Azure營收首次突破1000億美元，顯示其雲端和AI業務的強勁動能。"
+        "title": "Meta Platforms被判支付巨額賠償",
+        "detail": "新墨西哥州法官裁定Meta Platforms需支付5.67億美元，以解決其平台對年輕用戶造成的傷害。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "8/26",
-        "title": "Nvidia (NVDA) 公布第二季度財報",
-        "detail": "Nvidia預計於8月26日公布2027財年第二季度財報，市場預期營收將年增近一倍，且其2026年AI晶片產能已幾乎售罄，投資人正密切關注其財報表現。"
+        "date": "本週四",
+        "title": "Sandisk投資者日",
+        "detail": "Sandisk將於8月13日舉行投資者日，預計將提供更多關於公司未來策略和展望的資訊。"
       },
       {
-        "date": "9/4",
-        "title": "Alphabet (GOOGL, GOOG) 除息日",
-        "detail": "Alphabet Class A (GOOGL) 和 Class C (GOOG) 的除息日為2026年9月4日，季度股息為每股0.22美元。"
-      },
-      {
-        "date": "9/8",
-        "title": "西部數據 (WDC) 股息記錄日",
-        "detail": "西部數據將於2026年9月8日為其普通股的每股0.15美元現金股息設定記錄日，並於9月17日支付。"
-      },
-      {
-        "date": "9/17",
-        "title": "西部數據 (WDC) 股息支付日",
-        "detail": "西部數據將於2026年9月17日支付每股0.15美元的現金股息。"
+        "date": "下週",
+        "title": "美國通脹數據",
+        "detail": "摩根士丹利財富管理首席經濟策略師Ellen Zentner指出，下週的通脹數據將是決定聯準會9月會議是否加息的關鍵因素。"
       }
     ]
   }
