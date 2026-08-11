@@ -6,7 +6,7 @@
       "price": 133.11,
       "changePercent": 15.828402366863918,
       "dollarVolume": 30617432786.24262,
-      "marketCap": 982378010690.1001,
+      "marketCap": 1754626728478.9502,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
       "theme": "太空",
       "isNew": false,
@@ -71,9 +71,9 @@
       "price": 172.01,
       "changePercent": 10.319394561313496,
       "dollarVolume": 13132954540.718243,
-      "marketCap": 394947230161.33997,
+      "marketCap": 395745699721.29,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "資料分析/AI 軟體",
+      "theme": "大數據/AI 軟體",
       "isNew": false,
       "rankChange": 8,
       "streak": 104
@@ -97,7 +97,7 @@
       "price": 483.36,
       "changePercent": -1.2099411379986835,
       "dollarVolume": 12861606540.639397,
-      "marketCap": 788167124867.04,
+      "marketCap": 789073136301.12,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
       "theme": "AI 晶片",
       "isNew": false,
@@ -125,7 +125,7 @@
       "dollarVolume": 9323333420.429764,
       "marketCap": 2960627349242.56,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電子商務/雲端服務",
+      "theme": "電子商務",
       "isNew": false,
       "rankChange": -1,
       "streak": 104
@@ -151,7 +151,7 @@
       "dollarVolume": 7056367446.84749,
       "marketCap": 2079032400000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "網路服務/AI",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": -4,
       "streak": 104
@@ -164,7 +164,7 @@
       "dollarVolume": 6672872587.485726,
       "marketCap": 1305656590178.9001,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "社群媒體/AI",
+      "theme": "社群媒體",
       "isNew": false,
       "rankChange": 0,
       "streak": 104
@@ -177,7 +177,7 @@
       "dollarVolume": 6269655918.691318,
       "marketCap": 2035102505496.48,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "網通晶片",
       "isNew": false,
       "rankChange": 2,
       "streak": 104
@@ -203,7 +203,7 @@
       "dollarVolume": 5142834659.342283,
       "marketCap": 1953628690000.0002,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "網路服務/AI",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": -1,
       "streak": 104
@@ -227,7 +227,7 @@
       "price": 812.76,
       "changePercent": -4.711882290872859,
       "dollarVolume": 4777103281.4465275,
-      "marketCap": 182244355537.91998,
+      "marketCap": 184207598449.68,
       "sector": "COMPUTER STORAGE DEVICES",
       "theme": "儲存裝置",
       "isNew": false,
@@ -240,7 +240,7 @@
       "price": 137.91,
       "changePercent": -3.9155577231240883,
       "dollarVolume": 4743906654.252357,
-      "marketCap": 982887831571.5,
+      "marketCap": 978960880178.1,
       "sector": "—",
       "theme": "記憶體",
       "isNew": false,
@@ -268,7 +268,7 @@
       "dollarVolume": 4245154729.8491654,
       "marketCap": 191336256000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "網通晶片",
       "isNew": false,
       "rankChange": 1,
       "streak": 94
@@ -305,9 +305,9 @@
       "price": 1185.71,
       "changePercent": -0.522677315972282,
       "dollarVolume": 3428246318.702731,
-      "marketCap": 1116632202508.26,
+      "marketCap": 1116176485541.1501,
       "sector": "PHARMACEUTICAL PREPARATIONS",
-      "theme": "減肥藥 GLP-1",
+      "theme": "生技製藥",
       "isNew": false,
       "rankChange": -3,
       "streak": 56
@@ -318,7 +318,7 @@
       "price": 135.63,
       "changePercent": 9.185316374174848,
       "dollarVolume": 3357622353.7350287,
-      "marketCap": 10883326488.21,
+      "marketCap": 11470125614.31,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
       "theme": "光通訊",
       "isNew": false,
@@ -333,7 +333,7 @@
       "dollarVolume": 3329596964.8068485,
       "marketCap": 423486846420,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體 SaaS",
+      "theme": "企業軟體",
       "isNew": false,
       "rankChange": -1,
       "streak": 104
@@ -383,7 +383,7 @@
       "price": 100.01,
       "changePercent": 3.262777490965422,
       "dollarVolume": 2926448028.3638906,
-      "marketCap": 33084070276.22,
+      "marketCap": 36462195955.01,
       "sector": "FINANCE SERVICES",
       "theme": "比特幣/加密",
       "isNew": true,
@@ -398,7 +398,7 @@
       "dollarVolume": 2821040200.876945,
       "marketCap": 634342713672.48,
       "sector": "PETROLEUM REFINING",
-      "theme": "石油與天然氣",
+      "theme": "石油天然氣",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -409,9 +409,9 @@
       "price": 178.07,
       "changePercent": 17.4294381429702,
       "dollarVolume": 2775184059.443156,
-      "marketCap": 74420836590.31,
+      "marketCap": 74705628036.92,
       "sector": "SERVICES-TO DWELLINGS & OTHER BUILDINGS",
-      "theme": "旅遊服務",
+      "theme": "線上旅遊",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -424,7 +424,7 @@
       "dollarVolume": 2707724946.9109106,
       "marketCap": 96442170105.18,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "資安/雲端基礎設施",
+      "theme": "資安",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -435,9 +435,9 @@
       "price": 346.8,
       "changePercent": 3.315756546608274,
       "dollarVolume": 2672382167.1412344,
-      "marketCap": 106027857600,
+      "marketCap": 105580832400,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "數位廣告",
+      "theme": "行動廣告",
       "isNew": false,
       "rankChange": -16,
       "streak": 4
@@ -450,7 +450,7 @@
       "dollarVolume": 2464392634.2460217,
       "marketCap": 152710637955.25998,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "叫車/外送服務",
+      "theme": "叫車服務",
       "isNew": false,
       "rankChange": 4,
       "streak": 3
@@ -500,9 +500,9 @@
       "price": 27.4,
       "changePercent": 32.62342691190706,
       "dollarVolume": 2217523521.2959957,
-      "marketCap": 3530679964.2,
+      "marketCap": 3489372710.6,
       "sector": "SERVICES-COMPUTER PROGRAMMING SERVICES",
-      "theme": "醫療科技軟體",
+      "theme": "醫療科技",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -515,7 +515,7 @@
       "dollarVolume": 2202139591.2791076,
       "marketCap": 261261898010.87997,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "類比IC",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -541,7 +541,7 @@
       "dollarVolume": 2100756827.4096935,
       "marketCap": 890111153486.75,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售",
+      "theme": "零售百貨",
       "isNew": false,
       "rankChange": -11,
       "streak": 17
@@ -565,7 +565,7 @@
       "price": 842.19,
       "changePercent": -1.7235343539955168,
       "dollarVolume": 2064761348.858921,
-      "marketCap": 387905962162.77,
+      "marketCap": 387133594766.91003,
       "sector": "CONSTRUCTION MACHINERY & EQUIP",
       "theme": "重型機械",
       "isNew": false,
@@ -580,7 +580,7 @@
       "dollarVolume": 2033534511.1494138,
       "marketCap": 114547834000,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體 SaaS",
+      "theme": "雲端資料庫",
       "isNew": false,
       "rankChange": 4,
       "streak": 2
@@ -591,9 +591,9 @@
       "price": 233.93,
       "changePercent": 2.023638187448216,
       "dollarVolume": 2027221246.921431,
-      "marketCap": 77390078926.14,
+      "marketCap": 78344236353.02,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體 SaaS",
+      "theme": "雲端監控",
       "isNew": false,
       "rankChange": -22,
       "streak": 2
@@ -604,9 +604,9 @@
       "price": 151.57,
       "changePercent": 2.8011394465545276,
       "dollarVolume": 2022090980.5175922,
-      "marketCap": 183602105668.58,
+      "marketCap": 183203990239.31,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "電子商務軟體",
+      "theme": "電子商務",
       "isNew": false,
       "rankChange": -14,
       "streak": 4
@@ -652,30 +652,31 @@
     }
   ],
   "asOf": "2026-08-07T20:00:00.000Z",
-  "generatedAt": "2026-08-08T05:49:04.343Z",
+  "generatedAt": "2026-08-11T02:05:24.036Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型需求持續推動雲端軟體服務的增長，尤其在效率提升和協作工具方面表現強勁。",
+      "reason": "企業數位轉型需求持續推動雲端軟體服務成長，相關公司財報或展望佳。",
       "symbols": [
         "MSFT",
-        "ORCL",
+        "PLTR",
         "NOW",
         "TEAM",
         "NET",
         "CRM",
         "SNOW",
         "DDOG",
-        "SHOP"
+        "SHOP",
+        "TWLO"
       ],
-      "count": 9,
-      "avgChange": 6.860454485085087
+      "count": 10,
+      "avgChange": 9.447522840264156
     },
     {
       "theme": "太空",
-      "reason": "太空探索和衛星通訊領域的商業化進程加速，吸引了投資者對相關技術和服務公司的關注。",
+      "reason": "太空探索與衛星通訊領域持續受到關注，新技術與發射任務帶動相關公司股價。",
       "symbols": [
         "SPCX",
         "RKLB"
@@ -685,7 +686,7 @@
     },
     {
       "theme": "光通訊",
-      "reason": "隨著資料中心和AI基礎設施對高速網路的需求激增，光通訊技術的重要性日益凸顯。",
+      "reason": "AI 發展對高速數據傳輸的需求增加，推動光通訊元件與設備的需求。",
       "symbols": [
         "LITE",
         "AAOI"
@@ -695,7 +696,7 @@
     },
     {
       "theme": "AI 晶片",
-      "reason": "人工智慧技術的快速發展持續推動對高效能AI晶片的需求，相關供應商受市場追捧。",
+      "reason": "人工智慧技術的快速發展，持續帶動對高效能 AI 晶片的需求。",
       "symbols": [
         "NVDA"
       ],
@@ -703,17 +704,18 @@
       "avgChange": 2.269510023288734
     },
     {
-      "theme": "資料分析/AI 軟體",
-      "reason": "企業對大數據分析和AI應用軟體的需求不斷增加，以提升營運效率和決策能力。",
+      "theme": "網通晶片",
+      "reason": "網路基礎設施升級與數據中心擴建，推動網通晶片市場需求。",
       "symbols": [
-        "PLTR"
+        "AVGO",
+        "MRVL"
       ],
-      "count": 1,
-      "avgChange": 10.319394561313496
+      "count": 2,
+      "avgChange": 2.7980206359999755
     },
     {
-      "theme": "旅遊服務",
-      "reason": "全球旅遊業持續復甦，帶動線上旅遊預訂平台和相關服務提供商的業績增長。",
+      "theme": "線上旅遊",
+      "reason": "全球旅遊市場復甦，線上旅遊平台受惠於預訂量增加。",
       "symbols": [
         "ABNB"
       ],
@@ -727,128 +729,108 @@
       "name": "Atlassian Corporation Class A Common Stock",
       "theme": "雲端軟體 SaaS",
       "changePercent": 35.30906780430244,
-      "reason": "財報優於預期，雲端業務加速成長，加上AI產品整合，推動股價大漲。"
+      "reason": "財報優於預期，雲端業務加速成長，AI平台Rovo受市場關注。"
     },
     {
       "symbol": "MSTR",
       "name": "Strategy Inc Common Stock Class A",
       "theme": "比特幣/加密",
       "changePercent": 3.262777490965422,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "近期無明確個股消息，可能受比特幣/加密貨幣族群輪動帶動。"
     },
     {
       "symbol": "XOM",
       "name": "ExxonMobil Holdings Corporation",
-      "theme": "石油與天然氣",
+      "theme": "石油天然氣",
       "changePercent": -1.1624903125807358,
-      "reason": "第二季財報顯示煉油業務強勁及蓋亞那現金流增加，儘管EPS未達預期。"
+      "reason": "第二季財報強勁，收益和現金流表現出色。"
     },
     {
       "symbol": "ABNB",
       "name": "Airbnb, Inc. Class A Common Stock",
-      "theme": "旅遊服務",
+      "theme": "線上旅遊",
       "changePercent": 17.4294381429702,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "第二季財報優於預期，上調全年財測，AI投資策略奏效。"
     },
     {
       "symbol": "NET",
       "name": "Cloudflare, Inc. Class A common stock, par value $0.001 per share",
-      "theme": "資安/雲端基礎設施",
+      "theme": "資安",
       "changePercent": 5.569032802446991,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "第二季財報亮眼，營收與獲利超預期，上調全年財測。"
     },
     {
       "symbol": "GEV",
       "name": "GE Vernova Inc.",
       "theme": "電力基礎建設",
       "changePercent": -0.9977006897930525,
-      "reason": "第二季財報訂單和積壓成長強勁，且上調全年財測，獲分析師看好。"
+      "reason": "第二季財報強勁，訂單與積壓訂單創新高，擴大美國製造設施。"
     },
     {
       "symbol": "DOCS",
       "name": "Doximity, Inc.",
-      "theme": "醫療科技軟體",
+      "theme": "醫療科技",
       "changePercent": 32.62342691190706,
-      "reason": "第一季營收與財測優於預期，AI工具Doximity Ask表現亮眼。"
+      "reason": "第一季財報超預期，上調全年營收展望，AI工具應用受關注。"
     },
     {
       "symbol": "TXN",
       "name": "Texas Instruments Incorporated",
-      "theme": "半導體",
+      "theme": "類比IC",
       "changePercent": 2.7586206896551753,
-      "reason": "分析師上調盈利預期且被Zacks列為「強力買入」，受惠AI晶片需求。"
+      "reason": "第二季財報優於預期，並宣布季度股息。"
     },
     {
       "symbol": "TWLO",
       "name": "Twilio Inc.",
       "theme": "雲端通訊",
       "changePercent": 24.886128364389243,
-      "reason": "第二季財報業績與財測均優於預期，AI通訊平台成長樂觀。"
+      "reason": "第二季財報優於預期，上調全年營收預期，並完成庫藏股計畫。"
     },
     {
       "symbol": "RKLB",
       "name": "Rocket Lab Corporation Common Stock",
       "theme": "太空",
       "changePercent": 9.46213823179595,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "第二季營收和積壓訂單創紀錄，並獲得美國太空軍大額合約。"
     },
     {
       "symbol": "CSCO",
       "name": "Cisco Systems, Inc. Common Stock (DE)",
       "theme": "網路設備",
       "changePercent": 0.4549966909331663,
-      "reason": "受惠企業AI基礎設施建置加速，以及以太網路解決方案需求增加。"
+      "reason": "提高AI基礎設施訂單目標，並發布Q3財報優於預期。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點集中在AI相關題材，尤其是雲端軟體SaaS、AI晶片、資料分析/AI軟體以及太空領域。SpaceX (SPCX) 在公布財報後因其龐大的AI資本支出而受到市場關注，儘管股價一度大跌，但其全面擁抱Nvidia晶片並布局太空AI算力的策略，顯示市場對AI基礎設施長期需求的信心。同時，Palantir (PLTR) 的亮眼財報，特別是美國商業營收的爆發性成長，也強化了AI軟體應用前景的樂觀情緒。整體而言，市場正在交易AI投資從「高投入」轉向「高回報」的故事，並密切關注科技巨頭的資本支出能否有效轉化為營收與獲利。",
+    "highlights": "本日美股成交重點集中在AI相關題材，包括AI晶片、記憶體、雲端軟體與大數據/AI軟體。SpaceX (SPCX) 憑藉其太空題材和高達15.83%的漲幅，以306億美元的成交金額位居榜首，顯示市場對太空探索領域的熱情。記憶體大廠美光 (MU) 儘管小幅下跌，但因其在AI時代的關鍵地位，成交金額仍高達302億美元。AI晶片龍頭輝達 (NVDA) 則持續上漲，凸顯AI產業的強勁動能，而Palantir (PLTR) 受惠於強勁的財報和龐大的訂單積壓，股價大漲超過10%。",
     "eventsPast": [
       {
-        "title": "SpaceX公布財報與AI策略",
-        "detail": "SpaceX (SPCX) 公布第二季財報後，因其高達158億美元的AI算力基礎建設資本支出，導致股價盤前大跌超過11%。然而，執行長馬斯克宣布未來將全面採用Nvidia (NVDA) 系統建構AI服務，並規劃發射搭載Nvidia Vera Rubin NVL72機架式系統的Starmind衛星，顯示其積極布局太空AI算力。"
+        "title": "Sandisk 公布2026財年第四季度財報",
+        "detail": "Sandisk 於8月5日公布了2026財年第四季度財報，營收達89.7億美元，年增51%，GAAP淨利潤為69億美元，稀釋後每股收益43.97美元。公司同時宣布了140億美元的股票回購計畫，並預計2027年第一季度營收將在103億至108億美元之間。"
       },
       {
-        "title": "Palantir第二季財報亮眼",
-        "detail": "Palantir Technologies (PLTR) 第二季調整後每股盈餘和營收均超出市場預期，特別是美國商業營收年增149%，帶動股價盤後一度飆漲逾一成，顯示其AI軟體應用在商業領域的強勁成長動能。"
+        "title": "Intel 宣布發行150億美元普通股",
+        "detail": "Intel 於8月10日宣布發行150億美元的普通股，旨在為一般公司用途提供資金，包括資本支出和營運資金，以把握AI運算投資帶來的強勁需求環境。"
       },
       {
-        "title": "摩根大通看好AI投資兌現",
-        "detail": "摩根大通報告指出，超大型雲端服務商的雲端業務積壓訂單年增超過150%，總金額達約1.7兆美元，遠高於資本支出成長速度，顯示AI基礎設施投資正逐步轉化為龐大訂單與未來營收，市場對AI投資效益的疑慮可能已開始消退。"
+        "title": "Palantir 公布2026年第二季度財報",
+        "detail": "Palantir 於8月10日公布2026年第二季度財報，營收年增93%至19.35億美元，營運利潤率從27%擴大至47%，淨利潤率達55%。公司積壓訂單金額高達131億美元，年增83%，並上調全年營收預期至81.5億至81.6億美元。"
       },
       {
-        "title": "川普政府擬禁中國光收發器",
-        "detail": "路透報導，川普政府正在草擬一項禁令，禁止美國進口新型號的中國資料中心零組件，以保護AI基礎設施，此消息激勵光通訊族群股價上漲，其中Lumentum (LITE) 表現活躍。"
+        "title": "Broadcom 推出增強企業網路安全解決方案",
+        "detail": "Broadcom 於8月6日推出新的vDefend和Avi Load Balancer功能，旨在增強企業的多層網路防禦和營運效率。"
       },
       {
-        "title": "美股第二季財報表現強勁",
-        "detail": "截至7月底，已公布財報的美國企業中，高達85%獲利超越預期，整體企業獲利年增率達47.7%，其中科技類股獲利年增70.5%，顯示AI投資已逐步反映在營收與獲利表現上。"
+        "title": "Meta 推出可下載的AI模型",
+        "detail": "Meta Platforms 於8月10日推出了一款新的、可下載的AI模型，可在個人電腦上運行，引發了關於AI技術開放性與監管的討論。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "本週稍晚",
-        "title": "美國財政部融資計畫細節",
-        "detail": "美國財政部將公布最新融資計畫的更多細節，任何超出市場預期的變化都可能重新釋放債市波動。"
-      },
-      {
-        "date": "本週五",
-        "title": "美國7月非農就業報告",
-        "detail": "投資者將迎來多項重要經濟數據，最終關注點將落在週五公布的7月非農就業報告。"
-      },
-      {
-        "date": "未來幾週或幾個月",
-        "title": "大型科技公司AI資本支出與雲端需求",
-        "detail": "市場將密切關注大型科技公司是否會下調AI資本支出，以及雲端與AI服務需求是否明顯低於預期，這些將是判斷半導體產業基本面是否崩壞的關鍵訊號。"
-      },
-      {
-        "date": "未來幾週或幾個月",
-        "title": "資料中心晶片、記憶體訂單",
-        "detail": "市場將關注資料中心晶片、記憶體或先進封裝訂單是否轉弱，以及分析師是否會全面下修半導體產業獲利預估。"
-      },
-      {
-        "date": "未來幾天",
-        "title": "SpaceX股票解禁潮",
-        "detail": "SpaceX即將到來的股票解禁潮，規模達1000億美元的籌碼拋壓可能對市場流動性造成衝擊。"
+        "date": "9/2",
+        "title": "Broadcom 公布2026財年第三季度財報",
+        "detail": "Broadcom 預計於9月2日公布2026財年第三季度財報，市場將關注其半導體和基礎設施軟體解決方案的表現，特別是在AI和網路通訊領域的增長。"
       }
     ]
   }
