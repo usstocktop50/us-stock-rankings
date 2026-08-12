@@ -34,7 +34,7 @@
       "dollarVolume": 22849590608.2106,
       "marketCap": 1828840149569.3,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "太空",
+      "theme": "太空科技",
       "isNew": false,
       "rankChange": -2,
       "streak": 40
@@ -73,7 +73,7 @@
       "dollarVolume": 13516632022.337154,
       "marketCap": 183323273223.36002,
       "sector": "COMPUTER STORAGE DEVICES",
-      "theme": "儲存裝置",
+      "theme": "儲存設備",
       "isNew": false,
       "rankChange": -2,
       "streak": 105
@@ -86,7 +86,7 @@
       "dollarVolume": 10122028645.898235,
       "marketCap": 403153996640.67,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "AI 軟體",
+      "theme": "數據分析軟體",
       "isNew": false,
       "rankChange": -1,
       "streak": 105
@@ -99,7 +99,7 @@
       "dollarVolume": 9926207135.672499,
       "marketCap": 491890880000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "半導體製造",
       "isNew": false,
       "rankChange": 3,
       "streak": 105
@@ -177,7 +177,7 @@
       "dollarVolume": 5890150085.539767,
       "marketCap": 2009601875635.2,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "半導體網路通訊",
       "isNew": false,
       "rankChange": 0,
       "streak": 105
@@ -190,7 +190,7 @@
       "dollarVolume": 5193936577.723292,
       "marketCap": 63291078000,
       "sector": "COMMUNICATIONS EQUIPMENT, NEC",
-      "theme": "光通訊",
+      "theme": "光學元件",
       "isNew": false,
       "rankChange": 0,
       "streak": 23
@@ -229,7 +229,7 @@
       "dollarVolume": 4517355768.622187,
       "marketCap": 182448288000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "半導體網路通訊",
       "isNew": false,
       "rankChange": 3,
       "streak": 95
@@ -294,7 +294,7 @@
       "dollarVolume": 3297810676.214535,
       "marketCap": 181539992472.82,
       "sector": "COMPUTER STORAGE DEVICES",
-      "theme": "儲存裝置",
+      "theme": "儲存設備",
       "isNew": false,
       "rankChange": -5,
       "streak": 40
@@ -307,7 +307,7 @@
       "dollarVolume": 3237888404.1326747,
       "marketCap": 740292579777.34,
       "sector": "FIRE, MARINE & CASUALTY INSURANCE",
-      "theme": "金融保險",
+      "theme": "綜合保險",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -320,7 +320,7 @@
       "dollarVolume": 3197543608.649843,
       "marketCap": 151087965302.53998,
       "sector": "COMPUTER STORAGE DEVICES",
-      "theme": "儲存裝置",
+      "theme": "儲存設備",
       "isNew": false,
       "rankChange": -8,
       "streak": 103
@@ -331,9 +331,9 @@
       "price": 159.79,
       "changePercent": 4.4106116048092,
       "dollarVolume": 3143191941.5371127,
-      "marketCap": 662321107015.98,
+      "marketCap": 657042412088.4,
       "sector": "PETROLEUM REFINING",
-      "theme": "石油天然氣",
+      "theme": "石油與天然氣",
       "isNew": false,
       "rankChange": 5,
       "streak": 2
@@ -359,7 +359,7 @@
       "dollarVolume": 2758419483.3891473,
       "marketCap": 46332552699,
       "sector": "GUIDED MISSILES & SPACE VEHICLES & PARTS",
-      "theme": "太空",
+      "theme": "太空科技",
       "isNew": false,
       "rankChange": 21,
       "streak": 2
@@ -385,7 +385,7 @@
       "dollarVolume": 2653505269.981851,
       "marketCap": 385097579015.33997,
       "sector": "PETROLEUM REFINING",
-      "theme": "石油天然氣",
+      "theme": "石油與天然氣",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -398,7 +398,7 @@
       "dollarVolume": 2601396407.2714396,
       "marketCap": 483101646889.05,
       "sector": "COMPUTER COMMUNICATIONS EQUIPMENT",
-      "theme": "網路設備",
+      "theme": "網路通訊設備",
       "isNew": false,
       "rankChange": 19,
       "streak": 2
@@ -411,7 +411,7 @@
       "dollarVolume": 2540829040.4780107,
       "marketCap": 11231640365.97,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "光通訊",
+      "theme": "光纖通訊",
       "isNew": false,
       "rankChange": -7,
       "streak": 3
@@ -424,7 +424,7 @@
       "dollarVolume": 2395550706.5301433,
       "marketCap": 99756797592.06,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "資安",
+      "theme": "雲端資安",
       "isNew": false,
       "rankChange": 0,
       "streak": 2
@@ -489,7 +489,7 @@
       "dollarVolume": 2205865699.1841826,
       "marketCap": 87336425238.92,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體 SaaS",
+      "theme": "雲端監控軟體",
       "isNew": false,
       "rankChange": 8,
       "streak": 3
@@ -554,7 +554,7 @@
       "dollarVolume": 2111169051.5903504,
       "marketCap": 158837790984.39,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "共享經濟",
+      "theme": "叫車服務",
       "isNew": false,
       "rankChange": -8,
       "streak": 4
@@ -580,7 +580,7 @@
       "dollarVolume": 2005733208.5107484,
       "marketCap": 25177148397.54,
       "sector": "OPTICAL INSTRUMENTS & LENSES",
-      "theme": "半導體設備",
+      "theme": "半導體檢測設備",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -652,28 +652,30 @@
     }
   ],
   "asOf": "2026-08-10T20:00:00.000Z",
-  "generatedAt": "2026-08-11T06:00:54.623Z",
+  "generatedAt": "2026-08-12T02:05:14.893Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "雲端軟體 SaaS",
-      "reason": "隨著企業數位轉型持續推進，雲端軟體服務的需求保持強勁增長，尤其是在AI整合應用方面。",
+      "reason": "市場持續看好企業數位轉型及雲端服務需求增長，帶動相關軟體公司表現。",
       "symbols": [
         "MSFT",
         "PLTR",
         "ORCL",
+        "GOOGL",
+        "GOOG",
         "NET",
         "DDOG",
         "NOW",
         "CRM"
       ],
-      "count": 7,
-      "avgChange": 3.609519420952686
+      "count": 9,
+      "avgChange": 2.9828850713662387
     },
     {
-      "theme": "石油天然氣",
-      "reason": "全球能源需求回升以及地緣政治緊張局勢，推升原油價格，帶動能源股表現。",
+      "theme": "石油與天然氣",
+      "reason": "全球能源需求預期上升，加上地緣政治因素影響，推升油價及相關能源股表現。",
       "symbols": [
         "XOM",
         "CVX"
@@ -682,27 +684,8 @@
       "avgChange": 4.443191737224495
     },
     {
-      "theme": "資安",
-      "reason": "網路攻擊日益頻繁，企業及政府對網路安全防護的投入持續增加，資安概念股受市場關注。",
-      "symbols": [
-        "NET",
-        "PANW"
-      ],
-      "count": 2,
-      "avgChange": 4.628913459006006
-    },
-    {
-      "theme": "太空",
-      "reason": "商業太空探索領域持續發展，相關技術與服務的創新吸引投資者目光。",
-      "symbols": [
-        "SPCX"
-      ],
-      "count": 1,
-      "avgChange": 4.229584554128161
-    },
-    {
       "theme": "減肥藥 GLP-1",
-      "reason": "GLP-1藥物在減重和糖尿病治療領域展現巨大市場潛力，相關製藥公司持續受到追捧。",
+      "reason": "GLP-1藥物市場潛力巨大，相關藥廠的研發進展和銷售數據持續受到市場關注。",
       "symbols": [
         "LLY"
       ],
@@ -710,62 +693,81 @@
       "avgChange": 3.8989297551677913
     },
     {
-      "theme": "共享經濟",
-      "reason": "隨著經濟活動復甦，共享經濟平台的使用率提升，營收表現改善。",
+      "theme": "儲存設備",
+      "reason": "AI及數據中心需求增長，帶動對高效能儲存設備的需求。",
       "symbols": [
-        "UBER"
+        "SNDK",
+        "WDC"
+      ],
+      "count": 2,
+      "avgChange": 1.5255761003878532
+    },
+    {
+      "theme": "太空科技",
+      "reason": "商業太空探索與衛星通訊領域持續發展，吸引投資人目光。",
+      "symbols": [
+        "SPCX"
       ],
       "count": 1,
-      "avgChange": 4.012263396427626
+      "avgChange": 4.229584554128161
+    },
+    {
+      "theme": "資安",
+      "reason": "網路攻擊事件頻傳，企業及個人對資安防護需求日益增加，推動資安產業成長。",
+      "symbols": [
+        "PANW"
+      ],
+      "count": 1,
+      "avgChange": 5.82092013411752
     }
   ],
   "newEntrants": [
     {
       "symbol": "BRK.B",
       "name": "BERKSHIRE HATHAWAY Class B",
-      "theme": "金融保險",
+      "theme": "綜合保險",
       "changePercent": 1.460329628210043,
-      "reason": "第二季財報顯示大幅庫藏股與新增Alphabet持股，激勵股價上漲。"
+      "reason": "第二季營運收益和投資收益強勁，超出預期，現金儲備減少因增加投資和股票回購。"
     },
     {
       "symbol": "V",
       "name": "VISA Inc.",
       "theme": "支付服務",
       "changePercent": -0.32551724137931226,
-      "reason": "第三季財報優於預期，且宣布收購BioCatch強化詐欺防範技術。"
+      "reason": "宣布以24億美元收購詐欺情報供應商BioCatch，強化資安解決方案。"
     },
     {
       "symbol": "CVX",
       "name": "Chevron Corporation",
-      "theme": "石油天然氣",
+      "theme": "石油與天然氣",
       "changePercent": 4.475771869639791,
-      "reason": "第二季財報表現強勁，原油價格上漲及Hess併購案進展順利。"
+      "reason": "受油價上漲、優於預期的第二季財報及Hess收購案的整合效益帶動。"
     },
     {
       "symbol": "JNJ",
       "name": "Johnson & Johnson",
       "theme": "生技製藥",
       "changePercent": 0.9913593581237437,
-      "reason": "第二季財報表現良好，且藥品部門高階主管退休並任命新主管。"
+      "reason": "第二季財報表現良好，創新藥和醫療科技業務是主要亮點。"
     },
     {
       "symbol": "PANW",
       "name": "Palo Alto Networks, Inc. Common Stock",
       "theme": "資安",
       "changePercent": 5.82092013411752,
-      "reason": "市場樂觀看待其統一平台資安策略，AI驅動安全模組採用率加速。"
+      "reason": "受惠於AI相關資安需求增長、分析師上調目標價，股價創52週新高。"
     },
     {
       "symbol": "NFLX",
       "name": "NetFlix Inc",
       "theme": "串流媒體",
       "changePercent": 2.8999190720259045,
-      "reason": "廣告銷售承諾翻倍，預計2026年廣告收入將達30億美元。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "KLAC",
       "name": "KLA Corporation Common Stock",
-      "theme": "半導體設備",
+      "theme": "半導體檢測設備",
       "changePercent": -2.710615314724145,
       "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
@@ -774,52 +776,72 @@
       "name": "ASML Holding NV",
       "theme": "半導體設備",
       "changePercent": -0.431363764295027,
-      "reason": "近期持續執行庫藏股計畫，並公布第二季財報。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "JPM",
       "name": "JPMorgan Chase & Co.",
       "theme": "金融服務",
       "changePercent": 0.6349295144327699,
-      "reason": "宣布投資7500億美元協助美國民眾購屋，並公布第二季財報。"
+      "reason": "第二季淨收益達212億美元，每股盈餘7.70美元，表現強勁。"
     },
     {
       "symbol": "GS",
       "name": "Goldman Sachs Group Inc.",
       "theme": "金融服務",
       "changePercent": -0.49056857860158226,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "參與AI基礎設施融資，並宣布贖回部分優先股及發行新系列優先股。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI晶片、記憶體與太空題材。Nvidia與Intel等AI晶片股因籌資消息和市場對其估值的擔憂而承壓下跌，但Nvidia透過與華爾街巨頭合作，籌集逾5000億美元用於AI基礎設施建設，顯示市場對AI長期發展的資金需求依然強勁。太空題材則因SpaceX火箭撞月事件引發對太空維修與垃圾清除商機的討論，帶動相關個股SPCX上漲。雲端軟體SaaS族群則有微軟計畫推出新一代AI晶片的消息支撐。",
+    "highlights": "本日美股成交重點聚焦於AI晶片、記憶體、雲端軟體SaaS、儲存設備以及太空科技等題材。資金流向顯示市場對AI相關技術和基礎設施的強勁需求，儘管部分AI晶片股面臨獲利了結壓力。SpaceX與Nvidia的合作以及儲存設備公司的亮眼財報，是帶動這些族群成交量的主要故事。",
     "eventsPast": [
       {
-        "title": "英特爾宣布150億美元股票發行計畫",
-        "detail": "英特爾(INTC)宣布計畫透過發行股票籌集150億美元資金，以支應晶圓代工業務擴張，導致股價下跌。"
+        "title": "美國7月非農就業人數意外驟降",
+        "detail": "美國勞工統計局公布7月非農就業人數月減2.3萬人，遠低於市場預期的增加8萬人，顯示就業市場明顯降溫，降低了聯準會9月升息的預期。"
       },
       {
-        "title": "Nvidia與華爾街巨頭合作籌集AI基礎設施資金",
-        "detail": "Nvidia(NVDA)宣布與Apollo、BlackRock等六家金融機構建立合作夥伴關係，目標是為AI基礎設施建設籌集超過5000億美元的第三方資本。"
+        "title": "SpaceX宣布獨家採用Nvidia晶片建構太空算力",
+        "detail": "SpaceX第二季AI業務收入按年狂飆247%，並宣布未來將獨家採用Nvidia晶片建構算力，攜手打造Starmind衛星網絡，帶動SpaceX股價上漲。"
       },
       {
-        "title": "SpaceX廢棄火箭撞擊月球",
-        "detail": "一枚已失效數年的SpaceX Falcon 9上面級火箭殘骸於2026年8月5日撞擊月球，引發對地月空間物體追蹤、任務末期處置與未來月球交通管理重要性的討論，催生太空維修與垃圾清除的藍海商機。"
+        "title": "Sandisk公布亮眼財報與財測",
+        "detail": "Sandisk公布2026財年第四季度營收達89.7億美元，超出預測，且資料中心營收季增103%，並預期2027財年第一季度營收將介於103億至108億美元，每股盈餘介於44至46美元，同時宣布擴大股票回購計畫。"
       },
       {
-        "title": "Meta因兒童安全問題被判罰款",
-        "detail": "新墨西哥州法院裁定Meta(META)需支付5.67億美元，原因是其平台未能保護青少年免受剝削和有害內容的侵害，加上三月份的罰款，總金額達9.42億美元。"
+        "title": "Lumentum公布2026財年第四季度及全年業績",
+        "detail": "Lumentum公布2026財年第四季度營收為10.1億美元，並預計2027財年第一季度營收將介於12.25億至12.75億美元，顯示光學元件在AI數據中心連結中的重要性。"
       },
       {
-        "title": "微軟計畫推出新一代AI晶片Maia 300",
-        "detail": "微軟(MSFT)計畫最快於9月發表其新一代AI晶片Maia 300，並已與台積電洽談2027年逾30萬顆晶片的產能，以減少對Nvidia處理器的依賴。"
+        "title": "Intel宣布增發200億美元普通股",
+        "detail": "Intel宣布增發200億美元普通股，以支持其資料中心和人工智慧業務的增長，儘管此舉可能導致股價短期承壓。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "本週四",
-        "title": "應用材料、Lumentum和思科公布財報",
-        "detail": "投資者將從這些公司的財報中尋找有關AI交易以及晶片估值的更多線索。"
+        "date": "本週四 (8/13)",
+        "title": "Made by Google發表會",
+        "detail": "Google將於美國紐約舉行年度新品發表會，預期將發表Pixel 11系列手機、Pixel Watch 5智慧手錶，以及展示AI軟硬體整合能力。"
+      },
+      {
+        "date": "8/27",
+        "title": "Nvidia公布第二季度財報",
+        "detail": "Nvidia將公布其第二季度財報，作為AI產業的風向標，其營收表現將反映科技巨頭投資AI的力度，市場關注Blackwell與下一代Vera Rubin平台的出貨進度。"
+      },
+      {
+        "date": "9/10",
+        "title": "蘋果秋季發表會",
+        "detail": "蘋果預計於9月10日（台灣時間）舉辦秋季發表會，預計將推出3款iPhone（包含首款摺疊手機iPhone Ultra）、新一代Apple Watch Series 12及Ultra 4，以及支援Apple Intelligence和AI Siri的Apple TV和HomePod mini新產品。"
+      },
+      {
+        "date": "9/4",
+        "title": "美國非農就業人口變動",
+        "detail": "美國勞工統計局將公布8月份非農就業數據，此數據將持續影響市場對聯準會利率政策的預期。"
+      },
+      {
+        "date": "本週三 (8/12)",
+        "title": "美國7月消費者物價指數（CPI）",
+        "detail": "美國將公布7月份消費者物價指數（CPI），此數據將是影響聯準會利率政策的關鍵因素，若數據繼續降溫，可能進一步壓縮升息可能性。"
       }
     ]
   }
