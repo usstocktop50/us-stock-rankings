@@ -34,7 +34,7 @@
       "dollarVolume": 15966404636.29183,
       "marketCap": 492849239999.99994,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體製造",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": 5,
       "streak": 106
@@ -47,7 +47,7 @@
       "dollarVolume": 14582649270.138206,
       "marketCap": 1756999448869.0498,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "太空科技",
+      "theme": "太空",
       "isNew": false,
       "rankChange": -1,
       "streak": 41
@@ -112,7 +112,7 @@
       "dollarVolume": 8707572987.561428,
       "marketCap": 2936789596248.44,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電商與雲端",
+      "theme": "電商",
       "isNew": false,
       "rankChange": 0,
       "streak": 106
@@ -164,7 +164,7 @@
       "dollarVolume": 7562800142.220142,
       "marketCap": 402486789775.26,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "數據分析軟體",
+      "theme": "大數據分析",
       "isNew": false,
       "rankChange": -6,
       "streak": 106
@@ -190,7 +190,7 @@
       "dollarVolume": 5378482325.646349,
       "marketCap": 1979533968783.8398,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體網路",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": -1,
       "streak": 106
@@ -203,7 +203,7 @@
       "dollarVolume": 4869792830.058338,
       "marketCap": 63841902000,
       "sector": "COMMUNICATIONS EQUIPMENT, NEC",
-      "theme": "光通訊元件",
+      "theme": "光通訊",
       "isNew": false,
       "rankChange": -1,
       "streak": 24
@@ -242,7 +242,7 @@
       "dollarVolume": 4197812503.0033226,
       "marketCap": 419050921080,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "企業軟體",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": 2,
       "streak": 106
@@ -281,7 +281,7 @@
       "dollarVolume": 3253499440.9985304,
       "marketCap": 185728788000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體網路",
+      "theme": "網路晶片",
       "isNew": false,
       "rankChange": -4,
       "streak": 96
@@ -346,7 +346,7 @@
       "dollarVolume": 2588231113.666594,
       "marketCap": 97019895240,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "廣告科技",
+      "theme": "數位廣告",
       "isNew": false,
       "rankChange": 14,
       "streak": 6
@@ -372,7 +372,7 @@
       "dollarVolume": 2451874755.861487,
       "marketCap": 722058634629.26,
       "sector": "FIRE, MARINE & CASUALTY INSURANCE",
-      "theme": "多元控股",
+      "theme": "金融保險",
       "isNew": false,
       "rankChange": -5,
       "streak": 2
@@ -411,7 +411,7 @@
       "dollarVolume": 2358733966.496904,
       "marketCap": 46315186674.75,
       "sector": "GUIDED MISSILES & SPACE VEHICLES & PARTS",
-      "theme": "太空科技",
+      "theme": "太空",
       "isNew": false,
       "rankChange": -4,
       "streak": 3
@@ -450,7 +450,7 @@
       "dollarVolume": 2200579046.640993,
       "marketCap": 657083531208,
       "sector": "PETROLEUM REFINING",
-      "theme": "石油與天然氣",
+      "theme": "石油天然氣",
       "isNew": false,
       "rankChange": -9,
       "streak": 3
@@ -476,7 +476,7 @@
       "dollarVolume": 2116932880.5383987,
       "marketCap": 143259529030.80002,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "電子電腦",
+      "theme": "電腦硬體",
       "isNew": false,
       "rankChange": -1,
       "streak": 7
@@ -515,7 +515,7 @@
       "dollarVolume": 1965149463.9306235,
       "marketCap": 74560479430.79,
       "sector": "—",
-      "theme": "電商與遊戲",
+      "theme": "電商",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -554,7 +554,7 @@
       "dollarVolume": 1869648445.893652,
       "marketCap": 98594108492.98001,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端資安",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": -10,
       "streak": 3
@@ -645,20 +645,20 @@
       "dollarVolume": 1655315462.7318256,
       "marketCap": 970090313772.7201,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "金融服務",
+      "theme": "銀行",
       "isNew": false,
       "rankChange": -2,
       "streak": 2
     }
   ],
   "asOf": "2026-08-11T20:00:00.000Z",
-  "generatedAt": "2026-08-12T04:32:17.640Z",
+  "generatedAt": "2026-08-12T06:19:27.241Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "半導體設備",
-      "reason": "全球半導體產業持續擴張，對先進製程設備的需求旺盛，帶動相關設備供應商表現。",
+      "reason": "隨著AI需求持續增長，市場預期半導體資本支出將增加，帶動設備供應商表現。",
       "symbols": [
         "AMAT",
         "ASML",
@@ -669,7 +669,7 @@
     },
     {
       "theme": "記憶體",
-      "reason": "記憶體市場需求回溫，特別是HBM等高頻寬記憶體在AI應用中的重要性日益凸顯，推升相關廠商股價。",
+      "reason": "AI應用對高頻寬記憶體（HBM）需求強勁，推動記憶體產業景氣復甦。",
       "symbols": [
         "MU",
         "SKHY"
@@ -679,7 +679,7 @@
     },
     {
       "theme": "儲存裝置",
-      "reason": "數據儲存需求持續增長，企業級儲存解決方案和數據中心建設推動了儲存裝置相關公司的表現。",
+      "reason": "AI與資料中心擴建帶動儲存需求，相關硬體供應商受惠。",
       "symbols": [
         "SNDK",
         "STX"
@@ -688,19 +688,8 @@
       "avgChange": 2.5572480483200213
     },
     {
-      "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型趨勢不減，雲端軟體服務（SaaS）持續受到青睞，提供效率提升和成本優化的解決方案。",
-      "symbols": [
-        "CRWV",
-        "CRM",
-        "NOW"
-      ],
-      "count": 3,
-      "avgChange": 0.8244853275947626
-    },
-    {
       "theme": "AI 晶片",
-      "reason": "人工智慧技術的快速發展，對高效能AI晶片的需求持續爆發，相關供應商受惠於市場成長。",
+      "reason": "AI技術持續發展，市場對AI晶片的需求維持高檔。",
       "symbols": [
         "AMD"
       ],
@@ -708,13 +697,22 @@
       "avgChange": 1.0137149672033374
     },
     {
-      "theme": "比特幣/加密",
-      "reason": "加密貨幣市場波動，但比特幣相關基礎設施和挖礦服務仍吸引部分資金關注。",
+      "theme": "晶圓代工",
+      "reason": "全球半導體需求回溫，晶圓代工龍頭訂單能見度高。",
       "symbols": [
-        "IREN"
+        "TSM"
       ],
       "count": 1,
-      "avgChange": 2.607124419204951
+      "avgChange": 0.8578870647836104
+    },
+    {
+      "theme": "電力基礎建設",
+      "reason": "AI資料中心耗電量大增，推動電力基礎設施相關投資。",
+      "symbols": [
+        "GEV"
+      ],
+      "count": 1,
+      "avgChange": 2.12242014432053
     }
   ],
   "newEntrants": [
@@ -735,7 +733,7 @@
     {
       "symbol": "SE",
       "name": "Sea Limited American Depositary Shares, each representing one Class A Ordinary Share",
-      "theme": "電商與遊戲",
+      "theme": "電商",
       "changePercent": 14.555749128919857,
       "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
@@ -769,44 +767,54 @@
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於記憶體、儲存裝置、半導體製造及AI晶片等科技類股，資金主要受AI基礎設施需求持續強勁以及記憶體「晶片通膨」預期心理帶動。Micron Technology (MU) 和 SanDisk (SNDK) 等記憶體與儲存裝置公司因市場預期供應短缺將持續，成交金額名列前茅。AI晶片領域的Nvidia (NVDA) 和 AMD (AMD) 雖然漲跌互見，但仍是市場關注焦點，顯示投資人持續在AI相關供應鏈中尋找機會。此外，摩根士丹利上調美國IT硬體業評級，也為相關族群帶來正面影響。",
+    "highlights": "本日美股成交重點聚焦於半導體、AI晶片、記憶體與太空題材。資金主要流向這些高科技領域，由AI算力需求與基礎建設擴張的故事所驅動。英特爾（INTC）和輝達（NVDA）等晶片巨頭的籌資與投資計畫，以及微軟（MSFT）在AI晶片領域的積極布局，都顯示市場對AI未來發展的強烈信心。此外，SpaceX（SPCX）的禁售股解禁後股價表現強勁，也吸引了大量市場關注。",
     "eventsPast": [
       {
-        "title": "SpaceX財報與資本支出",
-        "detail": "SpaceX公佈第二季財報優於預期，但資本支出高於華爾街預期，導致股價下跌。"
+        "title": "英特爾增發股票募資200億美元",
+        "detail": "英特爾宣布將原訂150億美元的股票發行規模擴大至200億美元，旨在為AI晶片開發與晶圓代工業務的資本支出提供資金，以追趕台積電等市場領導者。"
       },
       {
-        "title": "Alphabet高階主管離職",
-        "detail": "Google AI研究主管Jeff Dean離職，創辦新公司Discovery Loop，導致Alphabet股價下跌。"
+        "title": "輝達攜手金融巨頭募資5000億美元",
+        "detail": "輝達正聯手六大華爾街金融機構，計畫募集超過5000億美元第三方資本，將AI晶片及資料中心算力打造為可融資、可投資的新型資產類別。"
       },
       {
-        "title": "記憶體晶片「晶片通膨」預警",
-        "detail": "摩根士丹利警告記憶體晶片需求快速攀升、價格上漲的局面短期內不會結束，企業為避免供應短缺正加速採購。"
+        "title": "微軟大擴產自研AI晶片",
+        "detail": "微軟計劃大幅提高自家AI晶片Maia 300的產量，並傳出已與台積電討論訂購逾30萬顆晶片，預計2027年交貨。"
       },
       {
-        "title": "美聯儲官員對通膨立場曖昧",
-        "detail": "美聯儲主席沃什近期對通膨立場曖昧，加上克利夫蘭聯儲局預測7月核心PCE物價指數月增幅可能加快，加劇9月FOMC會議政策分歧的可能性。"
+        "title": "SpaceX禁售股解禁後股價飆升",
+        "detail": "SpaceX因首波禁售期屆滿而大漲16%，並延續漲勢，顯示市場對其衛星及AI業務的看好。"
       },
       {
-        "title": "微軟財報與AI支出",
-        "detail": "微軟公布強勁的第四季度財報，並維持資本支出指引不變，緩解了市場對AI過度支出的擔憂，股價上漲。"
+        "title": "SK海力士NAND產能擴張",
+        "detail": "SK海力士計劃將在中國的NAND產能提高50%，以應對記憶體市場的需求。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "8/12 (三) 晚上20:30 (台灣時間)",
+        "date": "本週三",
         "title": "美國7月消費者物價指數 (CPI) 公布",
-        "detail": "此數據將影響聯準會未來的升息決策，市場預期7月整體CPI年增率為3.4%，核心CPI年增幅為2.5%。"
+        "detail": "市場將密切關注7月CPI數據，以評估通膨壓力是否持續，這將影響聯準會9月升息的決策。"
       },
       {
-        "date": "8/13 (四) 晚上20:30 (台灣時間)",
-        "title": "美國7月生產者物價指數 (PPI) 公布",
-        "detail": "PPI是衡量生產端成本壓力的指標，通常被視為CPI的領先指標，將與CPI一同評估通膨趨勢。"
+        "date": "8/20",
+        "title": "SpaceX下一波禁售股解禁",
+        "detail": "SpaceX下一波7%的禁售股將於8月20日登場，可能再次引起市場對其股價波動的關注。"
       },
       {
-        "date": "9/15-9/16",
-        "title": "聯邦公開市場委員會 (FOMC) 會議",
-        "detail": "聯準會將在此會議上討論經濟狀況並決定利率政策，市場對9月是否升息存在分歧。"
+        "date": "未來幾天",
+        "title": "應用材料、Lumentum、思科財報",
+        "detail": "應用材料（AMAT）、Lumentum（LITE）和思科（CSCO）將公布財報，投資人將從中尋找AI交易和晶片估值的更多線索。"
+      },
+      {
+        "date": "12/6",
+        "title": "那斯達克啟動23小時交易計畫",
+        "detail": "那斯達克宣布收購場外交易平台LeveL Markets，並預計於12月6日啟動每天23小時的交易計畫，推動美股朝向全天候交易發展。"
+      },
+      {
+        "date": "2027年",
+        "title": "英特爾資本支出預計顯著高於2026年",
+        "detail": "英特爾預計2027年的資本支出將顯著高於2026年，主要用於AI晶片產品線迭代與量產，以及IDM 2.0戰略下的晶圓代工業務擴張。"
       }
     ]
   }
