@@ -34,7 +34,7 @@
       "dollarVolume": 15966404636.29183,
       "marketCap": 492849239999.99994,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "半導體製造",
       "isNew": false,
       "rankChange": 5,
       "streak": 106
@@ -47,7 +47,7 @@
       "dollarVolume": 14582649270.138206,
       "marketCap": 1756999448869.0498,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "太空",
+      "theme": "太空科技",
       "isNew": false,
       "rankChange": -1,
       "streak": 41
@@ -112,7 +112,7 @@
       "dollarVolume": 8707572987.561428,
       "marketCap": 2936789596248.44,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電商",
+      "theme": "電子商務",
       "isNew": false,
       "rankChange": 0,
       "streak": 106
@@ -164,7 +164,7 @@
       "dollarVolume": 7562800142.220142,
       "marketCap": 402486789775.26,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "大數據分析",
+      "theme": "數據分析",
       "isNew": false,
       "rankChange": -6,
       "streak": 106
@@ -190,7 +190,7 @@
       "dollarVolume": 5378482325.646349,
       "marketCap": 1979533968783.8398,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "半導體網路",
       "isNew": false,
       "rankChange": -1,
       "streak": 106
@@ -203,7 +203,7 @@
       "dollarVolume": 4869792830.058338,
       "marketCap": 63841902000,
       "sector": "COMMUNICATIONS EQUIPMENT, NEC",
-      "theme": "光通訊",
+      "theme": "光學通訊",
       "isNew": false,
       "rankChange": -1,
       "streak": 24
@@ -281,7 +281,7 @@
       "dollarVolume": 3253499440.9985304,
       "marketCap": 185728788000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網路晶片",
+      "theme": "半導體網路",
       "isNew": false,
       "rankChange": -4,
       "streak": 96
@@ -372,7 +372,7 @@
       "dollarVolume": 2451874755.861487,
       "marketCap": 722058634629.26,
       "sector": "FIRE, MARINE & CASUALTY INSURANCE",
-      "theme": "金融保險",
+      "theme": "多元金融",
       "isNew": false,
       "rankChange": -5,
       "streak": 2
@@ -411,7 +411,7 @@
       "dollarVolume": 2358733966.496904,
       "marketCap": 46315186674.75,
       "sector": "GUIDED MISSILES & SPACE VEHICLES & PARTS",
-      "theme": "太空",
+      "theme": "太空科技",
       "isNew": false,
       "rankChange": -4,
       "streak": 3
@@ -515,7 +515,7 @@
       "dollarVolume": 1965149463.9306235,
       "marketCap": 74560479430.79,
       "sector": "—",
-      "theme": "電商",
+      "theme": "電子商務",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -528,7 +528,7 @@
       "dollarVolume": 1919691708.0572443,
       "marketCap": 901332045095.3,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售",
+      "theme": "零售百貨",
       "isNew": false,
       "rankChange": 1,
       "streak": 19
@@ -541,7 +541,7 @@
       "dollarVolume": 1893495272.5147402,
       "marketCap": 301190616149.28,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "金融服務",
+      "theme": "投資銀行",
       "isNew": false,
       "rankChange": 8,
       "streak": 2
@@ -554,7 +554,7 @@
       "dollarVolume": 1869648445.893652,
       "marketCap": 98594108492.98001,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端服務",
+      "theme": "網路安全",
       "isNew": false,
       "rankChange": -10,
       "streak": 3
@@ -580,7 +580,7 @@
       "dollarVolume": 1844830678.9961622,
       "marketCap": 387676011135.93,
       "sector": "CONSTRUCTION MACHINERY & EQUIP",
-      "theme": "重型機械",
+      "theme": "工業機械",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -606,7 +606,7 @@
       "dollarVolume": 1700027107.3260365,
       "marketCap": 418785904193.28,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售",
+      "theme": "零售百貨",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -645,20 +645,20 @@
       "dollarVolume": 1655315462.7318256,
       "marketCap": 970090313772.7201,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "銀行",
+      "theme": "商業銀行",
       "isNew": false,
       "rankChange": -2,
       "streak": 2
     }
   ],
   "asOf": "2026-08-11T20:00:00.000Z",
-  "generatedAt": "2026-08-12T06:19:27.241Z",
+  "generatedAt": "2026-08-13T02:04:24.270Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "半導體設備",
-      "reason": "隨著AI需求持續增長，市場預期半導體資本支出將增加，帶動設備供應商表現。",
+      "reason": "全球半導體產業景氣復甦與AI需求帶動資本支出增加，設備供應商受惠。",
       "symbols": [
         "AMAT",
         "ASML",
@@ -669,7 +669,7 @@
     },
     {
       "theme": "記憶體",
-      "reason": "AI應用對高頻寬記憶體（HBM）需求強勁，推動記憶體產業景氣復甦。",
+      "reason": "HBM與DRAM市場需求強勁，價格上漲預期帶動記憶體製造商股價。",
       "symbols": [
         "MU",
         "SKHY"
@@ -679,7 +679,7 @@
     },
     {
       "theme": "儲存裝置",
-      "reason": "AI與資料中心擴建帶動儲存需求，相關硬體供應商受惠。",
+      "reason": "AI數據儲存需求增長，企業級儲存解決方案供應商表現亮眼。",
       "symbols": [
         "SNDK",
         "STX"
@@ -688,8 +688,17 @@
       "avgChange": 2.5572480483200213
     },
     {
+      "theme": "半導體網路",
+      "reason": "數據中心與網路基礎設施升級，推動相關半導體元件需求。",
+      "symbols": [
+        "MRVL"
+      ],
+      "count": 1,
+      "avgChange": 1.7980437284234752
+    },
+    {
       "theme": "AI 晶片",
-      "reason": "AI技術持續發展，市場對AI晶片的需求維持高檔。",
+      "reason": "AI技術持續發展，對高效能運算晶片的需求不斷攀升。",
       "symbols": [
         "AMD"
       ],
@@ -697,22 +706,14 @@
       "avgChange": 1.0137149672033374
     },
     {
-      "theme": "晶圓代工",
-      "reason": "全球半導體需求回溫，晶圓代工龍頭訂單能見度高。",
+      "theme": "雲端軟體 SaaS",
+      "reason": "企業數位轉型持續推進，雲端軟體服務需求穩健增長。",
       "symbols": [
-        "TSM"
+        "CRWV",
+        "NOW"
       ],
-      "count": 1,
-      "avgChange": 0.8578870647836104
-    },
-    {
-      "theme": "電力基礎建設",
-      "reason": "AI資料中心耗電量大增，推動電力基礎設施相關投資。",
-      "symbols": [
-        "GEV"
-      ],
-      "count": 1,
-      "avgChange": 2.12242014432053
+      "count": 2,
+      "avgChange": 1.2468540609582397
     }
   ],
   "newEntrants": [
@@ -721,100 +722,80 @@
       "name": "CoreWeave, Inc. Class A Common Stock",
       "theme": "雲端軟體 SaaS",
       "changePercent": 2.4152398231091907,
-      "reason": "AI算力需求強勁，雲端運算公司受惠，股價飆升38%。"
+      "reason": "第二季財報強勁，營收和積壓訂單創新高，AI需求旺盛。"
     },
     {
       "symbol": "SMCI",
       "name": "Super Micro Computer, Inc. Common Stock",
       "theme": "AI 伺服器",
       "changePercent": 0.4450095359186286,
-      "reason": "摩根大通下調評級與目標價，且有會計操縱指控，股價下跌。"
+      "reason": "第四季財報優於預期，AI伺服器訂單積壓創紀錄，2027財年營收展望強勁。"
     },
     {
       "symbol": "SE",
       "name": "Sea Limited American Depositary Shares, each representing one Class A Ordinary Share",
-      "theme": "電商",
+      "theme": "電子商務",
       "changePercent": 14.555749128919857,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "第二季營收和業務增長超預期，Shopee獲利能力展望改善。"
     },
     {
       "symbol": "CAT",
       "name": "Caterpillar Inc.",
-      "theme": "重型機械",
+      "theme": "工業機械",
       "changePercent": 0.6912772511282461,
-      "reason": "股價連漲七日，表現超越大盤，受惠於弱勢美元有利出口。"
+      "reason": "第二季財報銷售額超200億美元，數據中心發電機需求強勁。"
     },
     {
       "symbol": "COST",
       "name": "Costco Wholesale Corp",
-      "theme": "零售",
+      "theme": "零售百貨",
       "changePercent": -0.8848071372343164,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "7月銷售額強勁增長，持續吸引注重價值的消費者。"
     },
     {
       "symbol": "IREN",
       "name": "IREN Limited Ordinary Shares",
       "theme": "比特幣/加密",
       "changePercent": 2.607124419204951,
-      "reason": "近期無明確個股消息，可能受比特幣價格波動影響。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "GEV",
       "name": "GE Vernova Inc.",
       "theme": "電力基礎建設",
       "changePercent": 2.12242014432053,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "第二季財報表現強勁，上調2026財年財測，Fitch調升評級。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於半導體、AI晶片、記憶體與太空題材。資金主要流向這些高科技領域，由AI算力需求與基礎建設擴張的故事所驅動。英特爾（INTC）和輝達（NVDA）等晶片巨頭的籌資與投資計畫，以及微軟（MSFT）在AI晶片領域的積極布局，都顯示市場對AI未來發展的強烈信心。此外，SpaceX（SPCX）的禁售股解禁後股價表現強勁，也吸引了大量市場關注。",
+    "highlights": "本日美股成交重點聚焦於記憶體、儲存裝置和AI晶片等半導體相關族群，資金主要流向這些領域，反映市場對AI基礎設施建置的強勁需求。Micron Technology (MU) 和 Sandisk Corporation (SNDK) 等記憶體與儲存裝置公司成交金額領先，部分原因來自於AI應用推動的企業級SSD需求增加，導致消費性產品供應短缺，並推升產業營收至歷史新高。AI晶片領域的 Nvidia (NVDA) 和 AMD (AMD) 也持續受到關注，儘管 Nvidia 股價小幅下跌，但其在AI晶片市場的領導地位以及與SK海力士的合作仍是市場焦點。此外，Palantir (PLTR) 在數據分析領域的AI需求也表現強勁，其第二季營收大幅成長並上調全年財測，顯示AI技術在多個產業的應用正加速擴張。",
     "eventsPast": [
       {
-        "title": "英特爾增發股票募資200億美元",
-        "detail": "英特爾宣布將原訂150億美元的股票發行規模擴大至200億美元，旨在為AI晶片開發與晶圓代工業務的資本支出提供資金，以追趕台積電等市場領導者。"
+        "title": "Meta 公布 2026 年第二季財報",
+        "detail": "Meta Platforms (META) 於 2026 年 7 月 29 日公布第二季財報，營收年增 28% 達到 608 億美元，並表示 AI 正在加速其核心業務發展，推動新一代產品並開拓企業機會。"
       },
       {
-        "title": "輝達攜手金融巨頭募資5000億美元",
-        "detail": "輝達正聯手六大華爾街金融機構，計畫募集超過5000億美元第三方資本，將AI晶片及資料中心算力打造為可融資、可投資的新型資產類別。"
+        "title": "AMD 公布 2026 年第二季財報",
+        "detail": "AMD (AMD) 於 2026 年 8 月 4 日公布第二季財報，營收達 115 億美元，年增 50%，其中資料中心業務營收年增逾一倍，顯示 AI 基礎設施需求強勁。"
       },
       {
-        "title": "微軟大擴產自研AI晶片",
-        "detail": "微軟計劃大幅提高自家AI晶片Maia 300的產量，並傳出已與台積電討論訂購逾30萬顆晶片，預計2027年交貨。"
+        "title": "SK 海力士宣布重大 AI 記憶體投資",
+        "detail": "SK 海力士 (SKHY) 於 2026 年 8 月 7 日宣布將投資約 54 兆韓元，興建兩座新的 AI 記憶體晶圓廠，以確保中長期 AI 記憶體需求。"
       },
       {
-        "title": "SpaceX禁售股解禁後股價飆升",
-        "detail": "SpaceX因首波禁售期屆滿而大漲16%，並延續漲勢，顯示市場對其衛星及AI業務的看好。"
+        "title": "Palantir 公布 2026 年第二季財報",
+        "detail": "Palantir Technologies (PLTR) 於 2026 年 8 月 3 日公布第二季財報，營收年增 93%，美國商業營收成長 149%，並上調 2026 財年營收預期，顯示 AI 需求強勁。"
       },
       {
-        "title": "SK海力士NAND產能擴張",
-        "detail": "SK海力士計劃將在中國的NAND產能提高50%，以應對記憶體市場的需求。"
+        "title": "Meta 面臨兒童數據訴訟",
+        "detail": "Meta Platforms (META) 於 2026 年 8 月 12 日面臨 29 個州提出的訴訟，指控其不當收集和使用兒童數據，部分州更挑戰其平台設計和消費者安全聲明。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "本週三",
-        "title": "美國7月消費者物價指數 (CPI) 公布",
-        "detail": "市場將密切關注7月CPI數據，以評估通膨壓力是否持續，這將影響聯準會9月升息的決策。"
-      },
-      {
-        "date": "8/20",
-        "title": "SpaceX下一波禁售股解禁",
-        "detail": "SpaceX下一波7%的禁售股將於8月20日登場，可能再次引起市場對其股價波動的關注。"
-      },
-      {
-        "date": "未來幾天",
-        "title": "應用材料、Lumentum、思科財報",
-        "detail": "應用材料（AMAT）、Lumentum（LITE）和思科（CSCO）將公布財報，投資人將從中尋找AI交易和晶片估值的更多線索。"
-      },
-      {
-        "date": "12/6",
-        "title": "那斯達克啟動23小時交易計畫",
-        "detail": "那斯達克宣布收購場外交易平台LeveL Markets，並預計於12月6日啟動每天23小時的交易計畫，推動美股朝向全天候交易發展。"
-      },
-      {
-        "date": "2027年",
-        "title": "英特爾資本支出預計顯著高於2026年",
-        "detail": "英特爾預計2027年的資本支出將顯著高於2026年，主要用於AI晶片產品線迭代與量產，以及IDM 2.0戰略下的晶圓代工業務擴張。"
+        "date": "9/2",
+        "title": "Broadcom 公布 2026 財年第三季財報",
+        "detail": "Broadcom (AVGO) 預計於 2026 年 9 月 2 日公布 2026 財年第三季財報。"
       }
     ]
   }
