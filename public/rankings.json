@@ -60,7 +60,7 @@
       "dollarVolume": 16358152789.48239,
       "marketCap": 199075580781.82,
       "sector": "COMPUTER STORAGE DEVICES",
-      "theme": "儲存裝置",
+      "theme": "儲存設備",
       "isNew": false,
       "rankChange": 0,
       "streak": 107
@@ -73,7 +73,7 @@
       "dollarVolume": 15221004165.696064,
       "marketCap": 56885350809.6,
       "sector": "—",
-      "theme": "雲端服務",
+      "theme": "雲端基礎設施",
       "isNew": false,
       "rankChange": 11,
       "streak": 32
@@ -112,7 +112,7 @@
       "dollarVolume": 10754442247.8152,
       "marketCap": 72546166000,
       "sector": "COMMUNICATIONS EQUIPMENT, NEC",
-      "theme": "光通訊",
+      "theme": "光通訊元件",
       "isNew": false,
       "rankChange": 7,
       "streak": 25
@@ -216,7 +216,7 @@
       "dollarVolume": 6602967197.836686,
       "marketCap": 441518594880,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體 SaaS",
+      "theme": "雲端資料庫",
       "isNew": false,
       "rankChange": 2,
       "streak": 107
@@ -242,7 +242,7 @@
       "dollarVolume": 6020353759.103629,
       "marketCap": 393514007792.16,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "數據分析軟體",
+      "theme": "大數據分析",
       "isNew": false,
       "rankChange": -6,
       "streak": 107
@@ -307,7 +307,7 @@
       "dollarVolume": 4151218119.0766816,
       "marketCap": 199041482152.78,
       "sector": "COMPUTER STORAGE DEVICES",
-      "theme": "儲存裝置",
+      "theme": "儲存設備",
       "isNew": false,
       "rankChange": 2,
       "streak": 42
@@ -359,7 +359,7 @@
       "dollarVolume": 3778190191.3767147,
       "marketCap": 69850105377.36,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "燃料電池",
+      "theme": "氫能源",
       "isNew": false,
       "rankChange": 16,
       "streak": 21
@@ -437,7 +437,7 @@
       "dollarVolume": 2633682347.5944767,
       "marketCap": 156520155687.1,
       "sector": "COMPUTER STORAGE DEVICES",
-      "theme": "儲存裝置",
+      "theme": "儲存設備",
       "isNew": false,
       "rankChange": -10,
       "streak": 105
@@ -580,7 +580,7 @@
       "dollarVolume": 1806897082.3121455,
       "marketCap": 302005896091.68,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "投資銀行",
+      "theme": "金融服務",
       "isNew": false,
       "rankChange": -3,
       "streak": 3
@@ -593,7 +593,7 @@
       "dollarVolume": 1803375766.4437177,
       "marketCap": 11677320244.960001,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "光通訊",
+      "theme": "光通訊元件",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -606,7 +606,7 @@
       "dollarVolume": 1778159574.3000972,
       "marketCap": 453200021535.65,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "商業銀行",
+      "theme": "銀行",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -632,7 +632,7 @@
       "dollarVolume": 1722729482.9414759,
       "marketCap": 61157939950.1,
       "sector": "TELEPHONE & TELEGRAPH APPARATUS",
-      "theme": "光通訊",
+      "theme": "光通訊設備",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -645,20 +645,20 @@
       "dollarVolume": 1685377081.3954678,
       "marketCap": 144230862142.63998,
       "sector": "DRAWING & INSULATING OF NONFERROUS WIRE",
-      "theme": "光學材料",
+      "theme": "特種玻璃",
       "isNew": true,
       "rankChange": null,
       "streak": 1
     }
   ],
   "asOf": "2026-08-12T20:00:00.000Z",
-  "generatedAt": "2026-08-13T04:36:29.119Z",
+  "generatedAt": "2026-08-13T06:23:37.648Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "AI 晶片",
-      "reason": "AI技術的快速發展持續推動對高效能運算晶片的需求，帶動相關供應鏈股價上漲。",
+      "reason": "AI技術的快速發展持續推動對高效能運算晶片的需求，市場對相關供應鏈前景樂觀。",
       "symbols": [
         "NVDA",
         "AMD",
@@ -668,19 +668,8 @@
       "avgChange": 5.4913376264462785
     },
     {
-      "theme": "光通訊",
-      "reason": "AI數據中心和網路基礎設施升級對高速光通訊模組和設備的需求激增，推動相關公司業績預期。",
-      "symbols": [
-        "LITE",
-        "AAOI",
-        "CIEN"
-      ],
-      "count": 3,
-      "avgChange": 9.304622647779999
-    },
-    {
       "theme": "記憶體",
-      "reason": "HBM等高頻寬記憶體在AI應用中的需求強勁，市場預期記憶體價格將持續回升。",
+      "reason": "AI應用對高頻寬記憶體(HBM)需求激增，帶動整體記憶體產業景氣復甦與價格上漲預期。",
       "symbols": [
         "MU",
         "SKHY"
@@ -689,8 +678,28 @@
       "avgChange": 6.96629390709065
     },
     {
-      "theme": "儲存裝置",
-      "reason": "AI數據量的爆炸式增長，對高效能、大容量的儲存解決方案需求增加，帶動相關廠商營收成長。",
+      "theme": "雲端基礎設施",
+      "reason": "企業數位轉型及AI模型訓練對雲端運算資源需求強勁，推動雲端服務供應商及相關基礎設施建置。",
+      "symbols": [
+        "NBIS",
+        "CRWV"
+      ],
+      "count": 2,
+      "avgChange": 26.708284635532813
+    },
+    {
+      "theme": "AI 伺服器",
+      "reason": "AI模型訓練和推論對高效能伺服器需求旺盛，相關供應商受惠於訂單成長。",
+      "symbols": [
+        "SMCI",
+        "DELL"
+      ],
+      "count": 2,
+      "avgChange": 14.445203583124997
+    },
+    {
+      "theme": "儲存設備",
+      "reason": "數據量爆炸性增長，加上AI應用對儲存容量和速度的要求提高，推動儲存設備需求。",
       "symbols": [
         "SNDK",
         "STX",
@@ -701,24 +710,15 @@
     },
     {
       "theme": "半導體設備",
-      "reason": "全球半導體產業擴張和技術升級，持續推動對先進製程設備的需求。",
+      "reason": "全球半導體產業擴張，晶圓廠積極投資新設備以提升產能和技術，帶動設備供應商營收。",
       "symbols": [
         "AMAT",
         "LRCX",
-        "ASML"
+        "ASML",
+        "KLAC"
       ],
-      "count": 3,
-      "avgChange": 3.2009697270726516
-    },
-    {
-      "theme": "AI 伺服器",
-      "reason": "企業和雲端服務提供商積極投資AI基礎設施，對AI伺服器及相關零組件的需求旺盛。",
-      "symbols": [
-        "SMCI",
-        "DELL"
-      ],
-      "count": 2,
-      "avgChange": 14.445203583124997
+      "count": 4,
+      "avgChange": 3.370947278344345
     }
   ],
   "newEntrants": [
@@ -727,7 +727,7 @@
       "name": "Cerebras Systems Inc. Class A Common Stock",
       "theme": "AI 晶片",
       "changePercent": 11.628897597546436,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "第二季財報顯示雲端服務營收強勁增長，並獲OpenAI等大訂單。"
     },
     {
       "symbol": "KLAC",
@@ -741,21 +741,21 @@
       "name": "Arista Networks",
       "theme": "網路設備",
       "changePercent": 6.393732625726564,
-      "reason": "執行長Jayshree Ullal近期出售大量股票，但公司仍受AI熱潮帶動。"
+      "reason": "第二季財報優於預期，上調全年財測，AI基礎設施需求強勁。"
     },
     {
       "symbol": "AAOI",
       "name": "Applied Optoelectronics, Inc.",
-      "theme": "光通訊",
+      "theme": "光通訊元件",
       "changePercent": 2.7916325467133176,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "第二季營收大幅增長，儘管虧損擴大，但AI及資料中心光學產品需求強勁。"
     },
     {
       "symbol": "BAC",
       "name": "Bank of America Corporation",
-      "theme": "商業銀行",
+      "theme": "銀行",
       "changePercent": 1.2656250000000036,
-      "reason": "伯克希爾哈撒韋公司近期賣出價值15億美元的美國銀行股票。"
+      "reason": "宣布與印度Jio Credit合作及2500億美元美國基礎設施融資計畫。"
     },
     {
       "symbol": "MA",
@@ -767,67 +767,47 @@
     {
       "symbol": "CIEN",
       "name": "Ciena Corporation",
-      "theme": "光通訊",
+      "theme": "光通訊設備",
       "changePercent": 11.488142853456518,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "獲得主要網路合約，AI基礎設施需求增加，分析師給予買入評級。"
     },
     {
       "symbol": "GLW",
       "name": "Corning Incorporated",
-      "theme": "光學材料",
+      "theme": "特種玻璃",
       "changePercent": 5.1824863370814755,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "第二季財報光通訊部門因AI需求強勁增長，並與Amazon、NVIDIA和Meta合作。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI基礎設施相關類股的強勁表現，特別是雲端服務、記憶體、儲存裝置和光通訊等題材。資金主要集中在這些個股，原因在於多數公司公布了優於預期的財報和財測，強化了市場對AI算力需求持續增長的信心，帶動了相關族群的成交量。市場交易的故事是「算力資產化」的長線價值，以及企業對AI投資的回報正加速顯現。",
+    "highlights": "本日美股成交重點集中在AI相關題材，包括記憶體、AI晶片和雲端基礎設施。資金主要流向受惠於AI需求成長的公司，例如美光（MU）和輝達（NVDA）等晶片製造商，以及提供AI雲端服務的Nebius Group（NBIS）和CoreWeave（CRWV）。市場故事圍繞著AI技術的快速發展，以及企業對AI運算能力和儲存設備的龐大需求，這也帶動了相關硬體和服務供應商的強勁成交量。",
     "eventsPast": [
       {
-        "title": "美國7月CPI數據放緩",
-        "detail": "美國7月消費者物價指數（CPI）年增率放緩且符合預期，降低了市場對聯準會（Fed）進一步升息的預期，有助於提振整體市場情緒。"
+        "title": "Nebius Group 第二季財報亮眼",
+        "detail": "AI雲端公司Nebius Group（NBIS）公布第二季財報，營收年增454%至5.823億美元，超出市場預期，並重申全年財測，激勵股價大漲。"
       },
       {
-        "title": "CoreWeave (CRWV) 財報亮眼",
-        "detail": "AI雲端服務巨頭CoreWeave公布第二季度營收年增112%，超出市場預期，且積壓訂單高達1040億美元，顯示AI算力需求依然強勁。"
+        "title": "CoreWeave 第二季財報強勁",
+        "detail": "AI雲端基礎設施供應商CoreWeave（CRWV）公布第二季財報，營收創紀錄，客戶需求加速成長，且已簽訂250億美元的新客戶承諾，顯示AI運算需求持續旺盛。"
       },
       {
-        "title": "Nebius Group (NBIS) 營收大增",
-        "detail": "雲端服務公司Nebius第二季度營收年增454%至5.82億美元，優於市場預期，其中AI雲業務貢獻98%的收入，並上調了2026年度簽約電力容量指引。"
+        "title": "Intel 宣布增發200億美元普通股",
+        "detail": "Intel（INTC）宣布將增發普通股規模至200億美元，預計於2026年8月12日完成，旨在支持營運資金和資本支出，可能與其半導體製造和AI相關投資有關。"
       },
       {
-        "title": "Lumentum Holdings (LITE) 財報與財測優異",
-        "detail": "光通訊產品製造商Lumentum公布的季度業績和下一季度營收指引均優於分析師預期，反映資料中心高速光通訊元件的需求強度。"
+        "title": "SpaceX 執行多次星鏈衛星發射任務",
+        "detail": "SpaceX（SPCX）於2026年8月12日成功發射多批星鏈（Starlink）網路衛星，持續擴大其衛星網路規模，並預計AI相關營收將超越其他太空業務。"
       },
       {
-        "title": "記憶體與儲存類股走強",
-        "detail": "受AI資料中心擴建與企業儲存需求升溫影響，Micron (MU) 和Sandisk (SNDK) 等記憶體與儲存裝置個股股價走高。"
+        "title": "NVIDIA 推出開源AI模型 Nemotron 3.5 Lightning",
+        "detail": "NVIDIA（NVDA）推出其最新的開源AI模型Nemotron 3.5 Lightning，旨在用於大型多代理系統中的專業任務，並同時發布了用於代理應用程式路由的開源函式庫NeMo Switchyard。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "本週四",
-        "title": "美國7月PPI生產者物價指數",
-        "detail": "生產者物價指數（PPI）衡量生產端出廠價格，往往領先CPI反映通脹壓力，是市場關注的重要經濟數據。"
-      },
-      {
-        "date": "本週五",
-        "title": "美國7月非農就業與失業率",
-        "detail": "非農就業報告和失業率是衡量美國勞動市場狀況的關鍵指標，對聯準會的貨幣政策決策具有重要影響。"
-      },
-      {
-        "date": "未來幾天",
-        "title": "AI相關企業財報",
-        "detail": "部分AI相關企業如AMD、Arm、CoreWeave預計將在本週稍晚公布財報，市場將密切關注其業績表現和對未來展望的預期。"
-      },
-      {
-        "date": "未來幾天",
-        "title": "科技巨頭財報",
-        "detail": "Google母公司Alphabet、特斯拉、英特爾等科技巨頭預計將在本週稍晚公布財報，投資人將關注其AI相關業務的進展。"
-      },
-      {
-        "date": "未來幾天",
-        "title": "FOMC會議/利率決議",
-        "detail": "聯邦公開市場委員會（FOMC）的會議和利率決議將對市場產生重大影響，特別是在通膨數據放緩的背景下。"
+        "date": "8/26",
+        "title": "NVIDIA 財報公布",
+        "detail": "NVIDIA（NVDA）預計將於8月26日公布財報，市場將密切關注其在AI晶片領域的營收和財測表現。"
       }
     ]
   }
