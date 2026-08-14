@@ -47,7 +47,7 @@
       "dollarVolume": 16455054099.17838,
       "marketCap": 509191800000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體製造",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": -1,
       "streak": 107
@@ -60,7 +60,7 @@
       "dollarVolume": 16358152789.48239,
       "marketCap": 199075580781.82,
       "sector": "COMPUTER STORAGE DEVICES",
-      "theme": "儲存設備",
+      "theme": "儲存裝置",
       "isNew": false,
       "rankChange": 0,
       "streak": 107
@@ -138,7 +138,7 @@
       "dollarVolume": 9420046148.637321,
       "marketCap": 48217140448.47,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端基礎設施",
+      "theme": "雲端運算服務",
       "isNew": false,
       "rankChange": 7,
       "streak": 2
@@ -203,7 +203,7 @@
       "dollarVolume": 6628980037.227472,
       "marketCap": 1979391241377.9001,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體設計",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": -1,
       "streak": 107
@@ -216,7 +216,7 @@
       "dollarVolume": 6602967197.836686,
       "marketCap": 441518594880,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端資料庫",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": 2,
       "streak": 107
@@ -242,7 +242,7 @@
       "dollarVolume": 6020353759.103629,
       "marketCap": 393514007792.16,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "大數據分析",
+      "theme": "數據分析軟體",
       "isNew": false,
       "rankChange": -6,
       "streak": 107
@@ -307,7 +307,7 @@
       "dollarVolume": 4151218119.0766816,
       "marketCap": 199041482152.78,
       "sector": "COMPUTER STORAGE DEVICES",
-      "theme": "儲存設備",
+      "theme": "儲存裝置",
       "isNew": false,
       "rankChange": 2,
       "streak": 42
@@ -359,7 +359,7 @@
       "dollarVolume": 3778190191.3767147,
       "marketCap": 69850105377.36,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "氫能源",
+      "theme": "燃料電池",
       "isNew": false,
       "rankChange": 16,
       "streak": 21
@@ -437,7 +437,7 @@
       "dollarVolume": 2633682347.5944767,
       "marketCap": 156520155687.1,
       "sector": "COMPUTER STORAGE DEVICES",
-      "theme": "儲存設備",
+      "theme": "儲存裝置",
       "isNew": false,
       "rankChange": -10,
       "streak": 105
@@ -515,7 +515,7 @@
       "dollarVolume": 2346018896.471832,
       "marketCap": 713137425270,
       "sector": "FIRE, MARINE & CASUALTY INSURANCE",
-      "theme": "多元控股",
+      "theme": "多元金融",
       "isNew": false,
       "rankChange": -11,
       "streak": 3
@@ -580,7 +580,7 @@
       "dollarVolume": 1806897082.3121455,
       "marketCap": 302005896091.68,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "金融服務",
+      "theme": "投資銀行",
       "isNew": false,
       "rankChange": -3,
       "streak": 3
@@ -606,7 +606,7 @@
       "dollarVolume": 1778159574.3000972,
       "marketCap": 453200021535.65,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "銀行",
+      "theme": "商業銀行",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-08-12T20:00:00.000Z",
-  "generatedAt": "2026-08-13T06:23:37.648Z",
+  "generatedAt": "2026-08-14T02:05:58.594Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "AI 晶片",
-      "reason": "AI技術的快速發展持續推動對高效能運算晶片的需求，市場對相關供應鏈前景樂觀。",
+      "reason": "市場持續看好AI技術發展對高性能晶片的需求，相關供應商受惠於訂單增長與技術領先。",
       "symbols": [
         "NVDA",
         "AMD",
@@ -669,7 +669,7 @@
     },
     {
       "theme": "記憶體",
-      "reason": "AI應用對高頻寬記憶體(HBM)需求激增，帶動整體記憶體產業景氣復甦與價格上漲預期。",
+      "reason": "AI應用對高頻寬記憶體（HBM）及DRAM需求強勁，推動記憶體價格上漲及相關廠商營收預期。",
       "symbols": [
         "MU",
         "SKHY"
@@ -678,18 +678,8 @@
       "avgChange": 6.96629390709065
     },
     {
-      "theme": "雲端基礎設施",
-      "reason": "企業數位轉型及AI模型訓練對雲端運算資源需求強勁，推動雲端服務供應商及相關基礎設施建置。",
-      "symbols": [
-        "NBIS",
-        "CRWV"
-      ],
-      "count": 2,
-      "avgChange": 26.708284635532813
-    },
-    {
       "theme": "AI 伺服器",
-      "reason": "AI模型訓練和推論對高效能伺服器需求旺盛，相關供應商受惠於訂單成長。",
+      "reason": "隨著AI模型訓練與推論需求激增，對高性能AI伺服器的建置需求持續成長。",
       "symbols": [
         "SMCI",
         "DELL"
@@ -698,8 +688,8 @@
       "avgChange": 14.445203583124997
     },
     {
-      "theme": "儲存設備",
-      "reason": "數據量爆炸性增長，加上AI應用對儲存容量和速度的要求提高，推動儲存設備需求。",
+      "theme": "儲存裝置",
+      "reason": "AI數據量爆炸式增長，帶動對大容量、高效能儲存解決方案的需求。",
       "symbols": [
         "SNDK",
         "STX",
@@ -710,7 +700,7 @@
     },
     {
       "theme": "半導體設備",
-      "reason": "全球半導體產業擴張，晶圓廠積極投資新設備以提升產能和技術，帶動設備供應商營收。",
+      "reason": "全球半導體產業擴張及技術升級，帶動對先進製程設備的採購需求。",
       "symbols": [
         "AMAT",
         "LRCX",
@@ -719,6 +709,16 @@
       ],
       "count": 4,
       "avgChange": 3.370947278344345
+    },
+    {
+      "theme": "光通訊元件",
+      "reason": "AI數據中心內部及外部傳輸頻寬需求大增，推動光通訊模組及元件市場成長。",
+      "symbols": [
+        "LITE",
+        "AAOI"
+      ],
+      "count": 2,
+      "avgChange": 8.212862544941737
     }
   ],
   "newEntrants": [
@@ -727,56 +727,56 @@
       "name": "Cerebras Systems Inc. Class A Common Stock",
       "theme": "AI 晶片",
       "changePercent": 11.628897597546436,
-      "reason": "第二季財報顯示雲端服務營收強勁增長，並獲OpenAI等大訂單。"
+      "reason": "AI晶片需求強勁，上調財測，並與OpenAI、Amazon簽訂合作協議帶動。"
     },
     {
       "symbol": "KLAC",
       "name": "KLA Corporation Common Stock",
       "theme": "半導體檢測",
       "changePercent": 3.8808799321594254,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "AI相關工作負載推動先進邏輯晶片和高頻寬記憶體製造需求，獲穆迪上調評級展望。"
     },
     {
       "symbol": "ANET",
       "name": "Arista Networks",
       "theme": "網路設備",
       "changePercent": 6.393732625726564,
-      "reason": "第二季財報優於預期，上調全年財測，AI基礎設施需求強勁。"
+      "reason": "受惠於資料中心現代化及高速網路需求，推出1.6T AI網路平台。"
     },
     {
       "symbol": "AAOI",
       "name": "Applied Optoelectronics, Inc.",
       "theme": "光通訊元件",
       "changePercent": 2.7916325467133176,
-      "reason": "第二季營收大幅增長，儘管虧損擴大，但AI及資料中心光學產品需求強勁。"
+      "reason": "800G光學網路產品需求激增，第二季營收創紀錄並轉虧為盈。"
     },
     {
       "symbol": "BAC",
       "name": "Bank of America Corporation",
-      "theme": "銀行",
+      "theme": "商業銀行",
       "changePercent": 1.2656250000000036,
-      "reason": "宣布與印度Jio Credit合作及2500億美元美國基礎設施融資計畫。"
+      "reason": "第二季財報優於預期，獲利成長強勁，商業貸款因AI基礎設施建置而增加。"
     },
     {
       "symbol": "MA",
       "name": "Mastercard Incorporated",
       "theme": "支付服務",
       "changePercent": -0.3045739526930814,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "與Borderless.xyz合作測試穩定幣支付，並擴大與Fiserv的合作夥伴關係。"
     },
     {
       "symbol": "CIEN",
       "name": "Ciena Corporation",
       "theme": "光通訊設備",
       "changePercent": 11.488142853456518,
-      "reason": "獲得主要網路合約，AI基礎設施需求增加，分析師給予買入評級。"
+      "reason": "AI基礎設施建置加速，網路測試業務激增，雲端客戶貢獻近半營收。"
     },
     {
       "symbol": "GLW",
       "name": "Corning Incorporated",
       "theme": "特種玻璃",
       "changePercent": 5.1824863370814755,
-      "reason": "第二季財報光通訊部門因AI需求強勁增長，並與Amazon、NVIDIA和Meta合作。"
+      "reason": "第二季財報亮眼，光學通訊部門營收和淨利大幅增長，受惠於AI基礎設施需求。"
     }
   ],
   "marketBriefing": {
