@@ -138,7 +138,7 @@
       "dollarVolume": 7872599227.694297,
       "marketCap": 60941065635.840004,
       "sector": "—",
-      "theme": "雲端軟體 SaaS",
+      "theme": "雲端基礎設施",
       "isNew": false,
       "rankChange": -2,
       "streak": 34
@@ -229,7 +229,7 @@
       "dollarVolume": 4248891386.984306,
       "marketCap": 400416147779.16,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "資料分析軟體",
+      "theme": "數據分析",
       "isNew": false,
       "rankChange": -3,
       "streak": 109
@@ -242,7 +242,7 @@
       "dollarVolume": 3931978586.6179743,
       "marketCap": 72053692000,
       "sector": "COMMUNICATIONS EQUIPMENT, NEC",
-      "theme": "光通訊",
+      "theme": "光學元件",
       "isNew": false,
       "rankChange": 5,
       "streak": 27
@@ -281,7 +281,7 @@
       "dollarVolume": 3521889899.55162,
       "marketCap": 47111632819.14,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體 SaaS",
+      "theme": "雲端基礎設施",
       "isNew": false,
       "rankChange": -5,
       "streak": 4
@@ -307,7 +307,7 @@
       "dollarVolume": 3320989460.840778,
       "marketCap": 433568494920,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體 SaaS",
+      "theme": "企業軟體",
       "isNew": false,
       "rankChange": 5,
       "streak": 109
@@ -385,7 +385,7 @@
       "dollarVolume": 2873280588.7052684,
       "marketCap": 67723617939.24,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "潔淨能源",
+      "theme": "清潔能源",
       "isNew": false,
       "rankChange": 8,
       "streak": 23
@@ -398,7 +398,7 @@
       "dollarVolume": 2764016979.966381,
       "marketCap": 12709064936.36,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "光通訊",
+      "theme": "光學元件",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -554,7 +554,7 @@
       "dollarVolume": 1837885420.1704423,
       "marketCap": 972233922907.1199,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "金融服務",
+      "theme": "銀行",
       "isNew": false,
       "rankChange": 2,
       "streak": 2
@@ -632,7 +632,7 @@
       "dollarVolume": 1654108575.482243,
       "marketCap": 302649384903.36005,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "金融服務",
+      "theme": "投資銀行",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-08-14T20:00:00.000Z",
-  "generatedAt": "2026-08-15T04:21:07.339Z",
+  "generatedAt": "2026-08-15T05:29:59.574Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "儲存裝置",
-      "reason": "隨著AI應用對資料儲存需求大增，市場預期儲存裝置產業將受惠於新一波的升級週期。",
+      "reason": "隨著資料量持續增長，市場對高效能儲存解決方案的需求不斷提升，帶動相關公司股價上漲。",
       "symbols": [
         "SNDK",
         "STX",
@@ -668,8 +668,8 @@
       "avgChange": 5.820110599023273
     },
     {
-      "theme": "光通訊",
-      "reason": "AI數據中心對高速網路傳輸的需求持續增長，推動光通訊元件及設備供應商的營收成長。",
+      "theme": "光學元件",
+      "reason": "AI、高速通訊等新興技術的發展，對光學元件的需求激增，推動相關供應商表現亮眼。",
       "symbols": [
         "LITE",
         "AAOI"
@@ -678,17 +678,8 @@
       "avgChange": 10.36153809335142
     },
     {
-      "theme": "AI 晶片",
-      "reason": "AI技術的快速發展持續帶動對高效能AI晶片的需求，相關供應商受市場高度關注。",
-      "symbols": [
-        "AMD"
-      ],
-      "count": 1,
-      "avgChange": 6.496759901451315
-    },
-    {
       "theme": "記憶體",
-      "reason": "HBM等高頻寬記憶體在AI伺服器中的應用日益普及，帶動記憶體產業景氣復甦。",
+      "reason": "AI應用對高頻寬記憶體（HBM）的需求強勁，加上整體記憶體市場復甦預期，帶動相關個股上漲。",
       "symbols": [
         "MU",
         "SKHY"
@@ -698,7 +689,7 @@
     },
     {
       "theme": "社群媒體",
-      "reason": "社群媒體平台透過創新功能和用戶增長，持續吸引市場關注，尤其新上市或表現亮眼的公司。",
+      "reason": "新興社群平台Reddit上市後表現強勁，顯示市場對社群媒體平台的商業模式仍具信心。",
       "symbols": [
         "RDDT"
       ],
@@ -706,13 +697,22 @@
       "avgChange": 12.62964836832785
     },
     {
-      "theme": "金融科技",
-      "reason": "數位支付和新興金融服務的普及，使金融科技公司在市場中展現成長潛力。",
+      "theme": "AI 晶片",
+      "reason": "AI技術持續發展，市場對AI晶片的需求維持高檔，相關公司股價受惠。",
       "symbols": [
-        "NU"
+        "AMD"
       ],
       "count": 1,
-      "avgChange": 9.332376166547027
+      "avgChange": 6.496759901451315
+    },
+    {
+      "theme": "AI 伺服器",
+      "reason": "AI運算需求帶動伺服器市場成長，特別是支援AI工作負載的伺服器需求強勁。",
+      "symbols": [
+        "SMCI"
+      ],
+      "count": 1,
+      "avgChange": 1.7364657814096192
     }
   ],
   "newEntrants": [
@@ -721,28 +721,28 @@
       "name": "Reddit, Inc.",
       "theme": "社群媒體",
       "changePercent": 12.62964836832785,
-      "reason": "Reddit將於8月18日納入S&P 500指數，引發被動型基金買盤。"
+      "reason": "Reddit將於8月18日被納入S&P 500指數，引發指數型基金被動買盤。"
     },
     {
       "symbol": "AAOI",
       "name": "Applied Optoelectronics, Inc.",
-      "theme": "光通訊",
+      "theme": "光學元件",
       "changePercent": 15.52890528905288,
-      "reason": "第二季財報營收創紀錄，AI資料中心產品需求強勁。"
+      "reason": "第二季營收創紀錄，AI和CATV產品需求強勁，財測樂觀。"
     },
     {
       "symbol": "NU",
       "name": "Nu Holdings Ltd.",
       "theme": "金融科技",
       "changePercent": 9.332376166547027,
-      "reason": "第二季獲利創紀錄，淨利首次突破10億美元，並宣布10億美元庫藏股計畫。"
+      "reason": "第二季財報亮眼，營收與淨利均超預期，數位銀行業務加速成長。"
     },
     {
       "symbol": "GS",
       "name": "Goldman Sachs Group Inc.",
-      "theme": "金融服務",
+      "theme": "投資銀行",
       "changePercent": -0.3078752769438857,
-      "reason": "收購ETF管理公司NEOS Investments，並參與Nvidia的AI基礎設施融資。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "XOM",
@@ -753,54 +753,54 @@
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI晶片、儲存裝置和記憶體等科技類股。資金主要集中在這些族群，反映市場對AI基礎設施建置的強勁需求以及相關技術發展的樂觀預期。Nvidia透過與多家金融機構合作，為AI基礎設施建設籌集逾5000億美元資金，成為市場關注焦點，並帶動了相關供應鏈的熱度。同時，AMD也透過發行債券籌集資金以擴大其AI業務，顯示晶片製造商正積極投入AI領域的發展。儲存裝置和記憶體族群則受惠於AI對資料儲存和處理能力的需求增長。",
+    "highlights": "本日美股成交重點集中在儲存裝置、記憶體和AI晶片等科技類股。其中，Sandisk (SNDK) 和美光 (MU) 受惠於AI伺服器對高頻寬記憶體 (HBM) 和資料中心儲存裝置 (SSD) 的強勁需求，帶動股價逆勢走強，市場正在重新評估其價值。Nvidia (NVDA) 雖然小幅下跌，但其在AI晶片領域的領導地位以及推動5,000億美元AI基礎設施融資計畫，仍使其保持高成交量。整體而言，市場資金正追逐具備AI相關業績想像空間的公司，並對記憶體產業的景氣反轉持樂觀態度。",
     "eventsPast": [
       {
-        "title": "NVIDIA 宣布與多家金融機構合作，籌集逾5000億美元資金用於AI基礎設施建置",
-        "detail": "NVIDIA與Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs和KKR建立獨立的AI運算融資平台，旨在為AI基礎設施建設籌集超過5000億美元的第三方資金。"
+        "title": "Sandisk 公布長期財務目標，預估營收與毛利率成長",
+        "detail": "Sandisk (SNDK) 在投資者日公布樂觀的長期財務目標，預估2028至2030財年營收每年可望維持15%至19%的成長速度，並將調整後毛利率穩定在約80%，緩解市場對記憶體景氣反轉的擔憂。"
       },
       {
-        "title": "AMD 完成47.5億美元債務發行，以擴大AI業務",
-        "detail": "Advanced Micro Devices (AMD) 完成了47.5億美元的投資級債務發行，為其快速增長的AI硬體業務和資本支出提供資金。"
+        "title": "美光儲存事業部門表現亮眼，NAND營收創新高",
+        "detail": "美光 (MU) 上季NAND營收創下99億美元新高，其中資料中心儲存裝置SSD營收超過50億美元，單季增加一倍，顯示代理式AI興起對資料中心超快速SSD的需求強勁。"
       },
       {
-        "title": "SpaceX 完成對 Cursor 的600億美元全股票收購",
-        "detail": "Space Exploration Technologies Corp. (SPCX) 於2026年8月14日完成對 Anysphere, Inc. (Cursor) 的600億美元全股票收購，Cursor 成為其全資子公司。"
+        "title": "Nvidia 披露持有SpaceX股權，價值約210億美元",
+        "detail": "Nvidia (NVDA) 披露截至第二季末，公司持有的SpaceX (SPCX) 股權價值約210億美元，持有1.228億股A類普通股。"
       },
       {
-        "title": "Intel 宣布發行200億美元普通股",
-        "detail": "Intel Corporation (INTC) 於2026年8月10日宣布發行200億美元普通股，所得款項將用於一般公司用途，包括資本支出和營運資金，以應對AI運算領域的強勁需求。"
+        "title": "應用材料財報優於預期，但盤後股價下挫",
+        "detail": "應用材料 (AMAT) 公布優於預期的財報和財測，但市場反應平淡，盤後下挫逾5%，顯示投資人對其抱持更高期待。"
       },
       {
-        "title": "Broadcom 因 VMware 安全漏洞報告股價下跌",
-        "detail": "Broadcom (AVGO) 股價下跌，此前有報導稱 VMware vCenter 的一個安全漏洞正在被積極利用，儘管 Broadcom 已發布緊急補丁。"
+        "title": "美國7月零售銷售數據意外負成長",
+        "detail": "美國商務部公布7月零售銷售環比下降0.6%，為去年5月以來最大降幅，低於市場預期的增長0.1%，導致美股三大指數全線下跌。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "8/26",
-        "title": "NVIDIA 第二季度財報電話會議",
-        "detail": "NVIDIA (NVDA) 將於8月26日盤後舉行第二季度財報電話會議。"
+        "date": "9月底",
+        "title": "美光科技 (MU) 財報公布",
+        "detail": "市場預期美光將公布下一份財報，投資人關注其毛利率與HBM出貨量能否同步跟上，以驗證AI記憶體需求帶來的獲利延續性。"
       },
       {
-        "date": "9月",
-        "title": "AMD 開始出貨 Helios AI 機架",
-        "detail": "AMD 預計將於9月開始出貨其 Helios AI 機架，並預計第四季度收入將顯著增長。"
+        "date": "12/9",
+        "title": "美光科技 (MU) 庫藏股限制解除",
+        "detail": "美光在2024年12月9日簽署晶片法案補助後，受到兩年內不得回購公司股票的限制，屆時解禁後公司準備開始買回可觀的庫藏股，增加返還給股東的資本。"
       },
       {
-        "date": "9/2",
-        "title": "Broadcom 財報日",
-        "detail": "Broadcom (AVGO) 將於9月2日公布財報。"
+        "date": "未來幾天",
+        "title": "美國7月PCE數據",
+        "detail": "7月PCE數據將是9月FOMC決策前最具關鍵的通膨成績單，若核心PCE月增率能壓低在0.2%以內，將證實通膨降溫趨勢延續。"
       },
       {
-        "date": "本週四",
-        "title": "特斯拉 Roadster 改款車型發表",
-        "detail": "據 The Information 報導，特斯拉 (TSLA) 最快將於8月發表其重新設計的 Roadster。"
+        "date": "未來幾天",
+        "title": "美國8月密大消費者信心指數初值",
+        "detail": "此數據將反映消費者對經濟前景的看法，可能影響市場情緒。"
       },
       {
-        "date": "本週四",
-        "title": "LG 集團將推出人形機器人",
-        "detail": "據報導，LG 集團計劃於2027年初推出人形機器人，並與 Nvidia 合作。"
+        "date": "未來幾天",
+        "title": "歐元區Q2 GDP修正值",
+        "detail": "歐元區第二季GDP修正值將提供歐洲經濟狀況的進一步線索。"
       }
     ]
   }
