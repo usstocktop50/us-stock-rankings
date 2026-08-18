@@ -125,7 +125,7 @@
       "dollarVolume": 9205702657.649822,
       "marketCap": 522003560000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "半導體製造",
       "isNew": false,
       "rankChange": -2,
       "streak": 110
@@ -151,7 +151,7 @@
       "dollarVolume": 7907450757.701813,
       "marketCap": 1867017197101.1401,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "AI 基礎設施",
+      "theme": "半導體網路通訊",
       "isNew": false,
       "rankChange": -5,
       "streak": 110
@@ -164,7 +164,7 @@
       "dollarVolume": 6292715397.933747,
       "marketCap": 2018592000000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "搜尋引擎",
+      "theme": "網路服務",
       "isNew": false,
       "rankChange": 1,
       "streak": 110
@@ -203,7 +203,7 @@
       "dollarVolume": 5383196182.642921,
       "marketCap": 59003188908.8,
       "sector": "—",
-      "theme": "雲端服務",
+      "theme": "雲端基礎設施",
       "isNew": false,
       "rankChange": -5,
       "streak": 35
@@ -255,7 +255,7 @@
       "dollarVolume": 4967035778.679551,
       "marketCap": 204991884000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "AI 基礎設施",
+      "theme": "半導體網路通訊",
       "isNew": false,
       "rankChange": 7,
       "streak": 100
@@ -281,7 +281,7 @@
       "dollarVolume": 4305844641.890373,
       "marketCap": 1887194150000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "搜尋引擎",
+      "theme": "網路服務",
       "isNew": false,
       "rankChange": -1,
       "streak": 110
@@ -411,7 +411,7 @@
       "dollarVolume": 2571851132.762127,
       "marketCap": 444987973678.5,
       "sector": "COMPUTER COMMUNICATIONS EQUIPMENT",
-      "theme": "網路設備",
+      "theme": "網路通訊設備",
       "isNew": false,
       "rankChange": -7,
       "streak": 7
@@ -593,7 +593,7 @@
       "dollarVolume": 2037531690.324339,
       "marketCap": 383306719177.59,
       "sector": "ELECTRONIC & OTHER ELECTRICAL EQUIPMENT (NO COMPUTER EQUIP)",
-      "theme": "航空發動機",
+      "theme": "航空工業",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-08-17T20:00:00.000Z",
-  "generatedAt": "2026-08-18T04:24:12.290Z",
+  "generatedAt": "2026-08-18T05:32:52.553Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "半導體設備",
-      "reason": "AI 晶片需求持續增長，帶動上游半導體製造設備訂單強勁。",
+      "reason": "隨著AI與高效能運算需求持續增長，市場預期半導體資本支出將增加，帶動設備供應商股價上揚。",
       "symbols": [
         "AMAT",
         "LRCX",
@@ -670,7 +670,7 @@
     },
     {
       "theme": "儲存裝置",
-      "reason": "記憶體與儲存需求受惠於AI應用擴張，市場預期價格將持續上漲。",
+      "reason": "記憶體與儲存需求受AI發展推動，相關廠商營收展望看好，吸引資金買入。",
       "symbols": [
         "SNDK",
         "WDC",
@@ -681,7 +681,7 @@
     },
     {
       "theme": "記憶體",
-      "reason": "HBM和DRAM需求旺盛，記憶體廠營收與獲利展望樂觀。",
+      "reason": "HBM與DRAM需求強勁，記憶體價格有望回升，帶動相關供應商股價表現。",
       "symbols": [
         "MU",
         "SKHY"
@@ -691,7 +691,7 @@
     },
     {
       "theme": "光通訊",
-      "reason": "AI數據中心建設加速，對高速光通訊模組與元件需求激增。",
+      "reason": "AI數據中心對高速傳輸的需求激增，光通訊元件與設備供應商受惠。",
       "symbols": [
         "LITE",
         "AAOI"
@@ -701,7 +701,7 @@
     },
     {
       "theme": "AI 晶片",
-      "reason": "AI技術發展持續推進，相關晶片設計與製造商受市場追捧。",
+      "reason": "AI技術持續發展，市場對AI晶片的需求保持旺盛，推動相關概念股表現。",
       "symbols": [
         "CBRS"
       ],
@@ -709,13 +709,13 @@
       "avgChange": 15.069869394465249
     },
     {
-      "theme": "比特幣/加密",
-      "reason": "比特幣價格波動吸引市場關注，相關概念股隨之表現。",
+      "theme": "電力基礎建設",
+      "reason": "全球能源轉型與AI數據中心電力需求增加，推動電力基礎建設相關企業的成長潛力。",
       "symbols": [
-        "MSTR"
+        "GEV"
       ],
       "count": 1,
-      "avgChange": 4.987102321582116
+      "avgChange": 1.4813073124853045
     }
   ],
   "newEntrants": [
@@ -724,93 +724,73 @@
       "name": "Nike, Inc.",
       "theme": "運動用品",
       "changePercent": -4.0265160815123835,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "摩根大通下調評級與目標價，中國市場疲弱，股價創12年新低。"
     },
     {
       "symbol": "GEV",
       "name": "GE Vernova Inc.",
       "theme": "電力基礎建設",
       "changePercent": 1.4813073124853045,
-      "reason": "Fitch將GE Vernova評級上調至A-，肯定其獲利能力擴張。"
+      "reason": "AI數據中心需求激增，電力設備訂單與積壓量創新高，上調財測。"
     },
     {
       "symbol": "UNH",
       "name": "UNITEDHEALTH GROUP INCORPORATED (Delaware)",
       "theme": "醫療保險",
       "changePercent": -1.5209220122968194,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "第二季財報優於預期，上調全年獲利指引，醫療損失率改善。"
     },
     {
       "symbol": "GE",
       "name": "GE Aerospace",
-      "theme": "航空發動機",
+      "theme": "航空工業",
       "changePercent": 0.28503176068190766,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "第二季財報優於預期，上調全年財測，商業訂單與國防合約強勁。"
     },
     {
       "symbol": "GLW",
       "name": "Corning Incorporated",
       "theme": "特種玻璃",
       "changePercent": 4.349659618049279,
-      "reason": "Corning與Amazon簽訂數十億美元光纖合約，受惠AI數據中心需求。"
+      "reason": "與NVIDIA、Amazon、Meta簽訂AI數據中心光纖長期供應合約。"
     },
     {
       "symbol": "KLAC",
       "name": "KLA Corporation Common Stock",
       "theme": "半導體設備",
       "changePercent": 1.0013744354997016,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "發布70億美元庫藏股計畫，半導體設備需求受AI基礎設施帶動。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點集中在記憶體、儲存裝置和AI晶片等半導體相關族群，主要受惠於AI需求持續強勁、資料中心擴建加速，以及美國政府對中國記憶體晶片的政策限制，促使資金轉向美國本土供應商。SpaceX因AI業務成長預期及股票解禁賣壓低於預期而表現強勁。",
+    "highlights": "本日美股成交重點集中在記憶體、儲存裝置和AI晶片等半導體相關族群，主要受惠於AI產業對高效能運算和資料儲存的龐大需求。美光（MU）和Sandisk（SNDK）因美國政府不希望Apple向中國購買記憶體晶片以及Sandisk的長期營收成長計畫而大漲，帶動了記憶體和儲存裝置板塊的成交量。Nvidia（NVDA）則因其對OpenAI資料中心投資的財務支持調整而受到市場關注，儘管漲幅不大，但仍顯示市場對AI晶片的需求故事持續交易。此外，光通訊族群也因AI基礎設施對高速傳輸的需求而表現強勁。",
     "eventsPast": [
       {
-        "title": "記憶體與儲存裝置股集體上漲",
-        "detail": "受惠於AI需求爆發及美國政府對中國記憶體晶片的政策限制，美光科技(MU)、Sandisk(SNDK)等記憶體與儲存裝置股大幅上漲。"
+        "title": "美國商務部長表態不希望Apple向中國購買記憶體晶片",
+        "detail": "美光（MU）股價上漲，因美國商務部長表示不希望Apple向中國購買記憶體晶片。"
       },
       {
-        "title": "微軟擴大自研AI晶片產量",
-        "detail": "微軟(MSFT)計畫大幅提高自研AI晶片Maia 300產量，並與台積電洽談2027年交付超過30萬顆，以降低AI運算成本。"
+        "title": "Sandisk長期營收成長計畫獲華爾街關注",
+        "detail": "Sandisk（SNDK）股價連續五天上漲，因多家華爾街公司看好其雄心勃勃的長期營收成長計畫。"
       },
       {
-        "title": "輝達與金融機構合作投入AI基礎建設",
-        "detail": "輝達(NVDA)與Apollo、BlackRock等六大金融機構合作，計畫調動逾5000億美元資金投入AI基礎建設，擴大資料中心與GPU需求。"
+        "title": "Nvidia調整對OpenAI資料中心投資的財務支持",
+        "detail": "Nvidia（NVDA）股價持平，因股東消化了其將對OpenAI在俄亥俄州建立大型資料中心園區的財務擔保從2500億美元下調至1200億美元以下的計畫。"
       },
       {
-        "title": "SpaceX首波股票解禁賣壓低於預期",
-        "detail": "SpaceX(SPCX)首波約9.1億股解禁後賣壓低於預期，加上與特斯拉的合作題材，推升股價走揚，且其AI業務收入預計將超越星鏈。"
+        "title": "Reddit將加入S&P 500指數",
+        "detail": "Reddit（RDDT）股價上漲13%，因S&P Dow Jones Indices宣布該社群媒體平台將於下週二加入S&P 500指數。"
       },
       {
-        "title": "Meta面臨青少年社媒成癮訴訟",
-        "detail": "Meta(META)將在美國加州奧克蘭聯邦法院迎來青少年社交媒體成癮訴訟，可能面臨高達1.4兆美元的潛在賠償。"
+        "title": "Berkshire Hathaway增持Alphabet股份",
+        "detail": "波克夏海瑟威（Berkshire Hathaway）上週末報告大幅增持Alphabet（GOOGL）股份，使其持股價值約360億美元。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "8/20",
-        "title": "SpaceX第二波股票解禁",
-        "detail": "SpaceX預計還有約3.2億股股票將於8月20日解禁，短線籌碼供給可能增加，需留意股價波動。"
-      },
-      {
-        "date": "本週二",
-        "title": "Reddit加入S&P 500指數",
-        "detail": "社群媒體平台Reddit(RDDT)將於本週二加入S&P 500指數，取代AvalonBay Communities。"
-      },
-      {
-        "date": "下月",
-        "title": "蘋果iPhone 18 Pro發表",
-        "detail": "蘋果(AAPL)預計下月推出新一代iPhone陣容，其中iPhone 18 Pro與Pro Max將有六大升級。"
-      },
-      {
-        "date": "未定",
-        "title": "美國ADP就業報告",
-        "detail": "美國將公布ADP就業報告，此數據為非農就業數據的前瞻指標，可能影響市場對聯準會政策的預期。"
-      },
-      {
-        "date": "未定",
-        "title": "美國7月新屋開工率",
-        "detail": "美國將公布7月新屋開工率，此經濟數據可反映房市景氣及整體經濟狀況。"
+        "date": "本月底",
+        "title": "Nvidia財報公布",
+        "detail": "Nvidia（NVDA）的財報和財測將成為市場焦點，其能否再次證明AI需求強勁，將攸關半導體族群能否延續目前的多頭行情。"
       }
     ]
   }
