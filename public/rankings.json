@@ -73,7 +73,7 @@
       "dollarVolume": 12033626806.347418,
       "marketCap": 1889476337316.3,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "太空科技",
+      "theme": "太空",
       "isNew": false,
       "rankChange": -2,
       "streak": 46
@@ -294,7 +294,7 @@
       "dollarVolume": 3660964933.661941,
       "marketCap": 42753075357.3,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "AI 雲端運算",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": 4,
       "streak": 6
@@ -346,7 +346,7 @@
       "dollarVolume": 3126043409.902084,
       "marketCap": 680768144097.6,
       "sector": "PETROLEUM REFINING",
-      "theme": "石油天然氣",
+      "theme": "石油與天然氣",
       "isNew": false,
       "rankChange": 18,
       "streak": 3
@@ -437,7 +437,7 @@
       "dollarVolume": 2750031158.057125,
       "marketCap": 411302454090,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "資料庫軟體",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": -6,
       "streak": 111
@@ -463,7 +463,7 @@
       "dollarVolume": 2635597999.7626033,
       "marketCap": 254502247860.56998,
       "sector": "OPTICAL INSTRUMENTS & LENSES",
-      "theme": "半導體檢測",
+      "theme": "半導體檢測設備",
       "isNew": false,
       "rankChange": 14,
       "streak": 2
@@ -502,7 +502,7 @@
       "dollarVolume": 2386718163.873504,
       "marketCap": 916770718656,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售百貨",
+      "theme": "零售",
       "isNew": false,
       "rankChange": 5,
       "streak": 24
@@ -567,7 +567,7 @@
       "dollarVolume": 2219286271.3344245,
       "marketCap": 12633747940.56,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "區域銀行",
+      "theme": "商業銀行",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -645,20 +645,20 @@
       "dollarVolume": 1999837431.9467614,
       "marketCap": 965586135333.75,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "大型銀行",
+      "theme": "商業銀行",
       "isNew": true,
       "rankChange": null,
       "streak": 1
     }
   ],
   "asOf": "2026-08-18T20:00:00.000Z",
-  "generatedAt": "2026-08-19T04:27:13.006Z",
+  "generatedAt": "2026-08-19T05:34:25.712Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型需求持續，推動雲端軟體服務訂閱成長。",
+      "reason": "企業數位轉型需求持續推動雲端軟體服務的增長，市場對其未來營收前景保持樂觀。",
       "symbols": [
         "MSFT",
         "CRM",
@@ -669,7 +669,7 @@
     },
     {
       "theme": "支付服務",
-      "reason": "全球數位支付趨勢不變，電子交易量持續擴大。",
+      "reason": "全球電子支付普及率不斷提高，消費者對數位支付方式的依賴性增加，帶動相關企業營收成長。",
       "symbols": [
         "V",
         "MA"
@@ -678,41 +678,41 @@
       "avgChange": 1.8253861711325416
     },
     {
-      "theme": "生技製藥",
-      "reason": "藥品研發進展與市場需求推動，特定藥物題材持續發酵。",
+      "theme": "商業銀行",
+      "reason": "市場預期聯準會可能調整利率政策，對銀行業的利差收入產生正面影響，吸引資金流入。",
       "symbols": [
-        "LLY",
-        "JNJ"
+        "WBS",
+        "JPM"
       ],
       "count": 2,
-      "avgChange": 3.4645826760396856
+      "avgChange": -0.14028175891526584
     },
     {
-      "theme": "搜尋引擎",
-      "reason": "數位廣告市場穩定增長，核心搜尋業務表現穩健。",
+      "theme": "減肥藥 GLP-1",
+      "reason": "GLP-1 藥物在減重和糖尿病治療領域展現巨大市場潛力，相關藥廠持續受市場追捧。",
       "symbols": [
-        "GOOGL"
+        "LLY"
       ],
       "count": 1,
-      "avgChange": 0.05813953488371762
+      "avgChange": 3.5979918185198905
     },
     {
-      "theme": "石油天然氣",
-      "reason": "國際油價波動或地緣政治因素影響，帶動能源股表現。",
+      "theme": "生技製藥",
+      "reason": "醫療保健領域的創新藥物研發和市場需求穩定，為大型製藥公司提供成長動能。",
+      "symbols": [
+        "JNJ"
+      ],
+      "count": 1,
+      "avgChange": 3.3311735335594803
+    },
+    {
+      "theme": "石油與天然氣",
+      "reason": "國際原油價格波動及地緣政治因素影響，市場對能源股的避險需求增加。",
       "symbols": [
         "XOM"
       ],
       "count": 1,
       "avgChange": 2.5393286262851444
-    },
-    {
-      "theme": "消費性電子",
-      "reason": "新產品發布或市場預期改善，提振主要消費電子品牌股價。",
-      "symbols": [
-        "AAPL"
-      ],
-      "count": 1,
-      "avgChange": 1.4529271245786832
     }
   ],
   "newEntrants": [
@@ -728,50 +728,92 @@
       "name": "Mastercard Incorporated",
       "theme": "支付服務",
       "changePercent": 2.1431366271831456,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "第二季財報優於預期，支付網路收入及跨境交易量成長強勁。"
     },
     {
       "symbol": "HD",
       "name": "Home Depot, Inc.",
       "theme": "居家修繕零售",
       "changePercent": -0.11542559488575423,
-      "reason": "第二季財報優於預期，並宣布全國快速到貨服務。"
+      "reason": "第二季財報超出華爾街預期，並擴大全國快速配送服務。"
     },
     {
       "symbol": "WBS",
       "name": "Webster Financial Corporation Waterbury",
-      "theme": "區域銀行",
+      "theme": "商業銀行",
       "changePercent": -0.9149828440716722,
-      "reason": "Barclays上調目標價，且Santander收購案獲聯準會批准。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "ADI",
       "name": "Analog Devices, Inc.",
       "theme": "類比IC",
       "changePercent": -3.4974889822691346,
-      "reason": "第三季財報公布前，受惠於工業和資料中心需求帶動。"
+      "reason": "即將公布第三季財報，市場預期工業和通訊需求強勁。"
     },
     {
       "symbol": "TXN",
       "name": "Texas Instruments Incorporated",
       "theme": "類比IC",
       "changePercent": -3.771517443710019,
-      "reason": "汽車需求顯著改善，且第二季財報優於預期。"
+      "reason": "汽車產業需求顯著改善，推動半導體產業復甦。"
     },
     {
       "symbol": "JNJ",
       "name": "Johnson & Johnson",
       "theme": "生技製藥",
       "changePercent": 3.3311735335594803,
-      "reason": "FDA批准醫療器材新進展，第二季財報優於預期並上調財測。"
+      "reason": "第二季銷售額及調整後每股盈餘均超預期，並上調2026年財測。"
     },
     {
       "symbol": "JPM",
       "name": "JPMorgan Chase & Co.",
-      "theme": "大型銀行",
+      "theme": "商業銀行",
       "changePercent": 0.6344193262411405,
-      "reason": "Wells Fargo預期市值將達1兆美元，且分析師看好其獲利彈性。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     }
   ],
-  "marketBriefing": null
+  "marketBriefing": {
+    "highlights": "本日美股成交重點聚焦於AI相關科技股，尤其是記憶體與儲存裝置類股，儘管部分個股出現較大跌幅，但整體市場對AI基礎建設的長期需求仍持樂觀態度。資金主要集中在半導體產業鏈，如美光（MU）、Sandisk（SNDK）、輝達（NVDA）和超微（AMD），這些公司在AI浪潮下被視為關鍵受益者。市場正在權衡短期地緣政治風險與長期AI需求增長的故事，導致部分高估值股票出現獲利了結賣壓。",
+    "eventsPast": [
+      {
+        "title": "Google技術突破引發記憶體股票拋售",
+        "detail": "Google研究人員展示了一項新的壓縮技術，引發市場對記憶體與儲存產品需求前景的擔憂，導致美光（MU）與Sandisk（SNDK）等股價重挫。"
+      },
+      {
+        "title": "SpaceX首份財報營收優於預期",
+        "detail": "SpaceX公布上市後首份財報，第二季營收較去年同期成長92%，主要受惠於「星鏈」衛星網路與人工智慧（AI）事業的強勁成長。"
+      },
+      {
+        "title": "美7月CPI符合預期，緩和升息壓力",
+        "detail": "美國7月消費者物價指數（CPI）月增0.1%、年增3.4%，符合市場預期，加上先前非農就業數據疲軟，降低了聯準會9月升息的預期。"
+      },
+      {
+        "title": "AI雲端股受地緣政治重擊",
+        "detail": "中東地緣政治緊張局勢升級，引發投資人對能源與科技類股的連鎖反應，油價走高之際，美股期貨與全球科技股同步跳水，人工智慧與記憶體族群首當其衝。"
+      }
+    ],
+    "eventsUpcoming": [
+      {
+        "date": "本週三 (8/19)",
+        "title": "聯準會7月會議紀錄公布",
+        "detail": "聯準會將公布7月貨幣政策會議紀錄，市場將從中尋找未來利率走向的線索，特別是關於通膨和勞動市場的評估。"
+      },
+      {
+        "date": "本週二 (8/18)",
+        "title": "美國工業生產與製造業數據",
+        "detail": "聯準會將公布7月工業生產和產能利用率，市場將關注製造業生產、礦業以及公用事業產出，以判斷企業資本支出和製造業活動是否繼續支撐美國經濟。"
+      },
+      {
+        "date": "本週四 (8/20)",
+        "title": "初領失業金人數與費城聯儲製造業指數",
+        "detail": "美國將公布當週初領失業金人數和8月費城聯儲製造業指數，反映地區製造業景氣與勞動市場狀況。"
+      },
+      {
+        "date": "本週五 (8/21)",
+        "title": "美國製造業與服務業採購經理人指數（PMI）初值",
+        "detail": "此數據將作為判斷經濟擴張或收縮的關鍵指標。"
+      }
+    ]
+  }
 }
