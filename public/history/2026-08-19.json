@@ -60,7 +60,7 @@
       "dollarVolume": 15950753960.828844,
       "marketCap": 4623874049400,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "消費電子",
+      "theme": "消費性電子",
       "isNew": false,
       "rankChange": -1,
       "streak": 112
@@ -203,7 +203,7 @@
       "dollarVolume": 7090466868.4643755,
       "marketCap": 12568934561.359999,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "區域銀行",
+      "theme": "商業銀行",
       "isNew": false,
       "rankChange": 28,
       "streak": 2
@@ -229,7 +229,7 @@
       "dollarVolume": 6294262939.33217,
       "marketCap": 403061968107.51,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "數據分析與AI",
+      "theme": "數據分析軟體",
       "isNew": false,
       "rankChange": 1,
       "streak": 112
@@ -515,7 +515,7 @@
       "dollarVolume": 2445328087.445221,
       "marketCap": 41697670470.3,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端服務",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": -17,
       "streak": 7
@@ -528,7 +528,7 @@
       "dollarVolume": 2423328632.80017,
       "marketCap": 75718657510.18,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "金融科技",
+      "theme": "金融服務",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -541,7 +541,7 @@
       "dollarVolume": 2397652491.688173,
       "marketCap": 949663600025.7,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "大型銀行",
+      "theme": "商業銀行",
       "isNew": false,
       "rankChange": 8,
       "streak": 2
@@ -619,7 +619,7 @@
       "dollarVolume": 2153575031.1198263,
       "marketCap": 622921354164.76,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "支付處理",
+      "theme": "支付服務",
       "isNew": false,
       "rankChange": -10,
       "streak": 5
@@ -645,32 +645,31 @@
       "dollarVolume": 2115079809.7435653,
       "marketCap": 60858185503.979996,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "能源技術",
+      "theme": "再生能源",
       "isNew": false,
       "rankChange": -24,
       "streak": 26
     }
   ],
   "asOf": "2026-08-19T20:00:00.000Z",
-  "generatedAt": "2026-08-20T04:27:00.456Z",
+  "generatedAt": "2026-08-20T05:40:45.951Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "生技製藥",
-      "reason": "市場對新藥研發與生物科技的潛力持續看好，特別是具備創新療法的公司。",
+      "reason": "市場對新藥研發和生物科技的潛力持續看好，特別是疫苗和創新療法。",
       "symbols": [
         "MRNA",
-        "LLY",
         "MRK",
         "JNJ"
       ],
-      "count": 4,
-      "avgChange": 48.718030559255325
+      "count": 3,
+      "avgChange": 63.47227268364815
     },
     {
       "theme": "比特幣/加密",
-      "reason": "加密貨幣市場波動帶動相關概念股表現，投資人關注其未來發展與應用。",
+      "reason": "加密貨幣市場波動性高，相關概念股受比特幣價格影響而有顯著漲幅。",
       "symbols": [
         "MSTR",
         "COIN"
@@ -680,7 +679,7 @@
     },
     {
       "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型需求不減，雲端軟體服務持續受青睞，推動相關公司營收成長。",
+      "reason": "企業數位轉型需求不減，雲端軟體服務持續受青睞，推動相關公司業績成長。",
       "symbols": [
         "MSFT",
         "ORCL",
@@ -691,8 +690,17 @@
       "avgChange": 3.1990273462435552
     },
     {
+      "theme": "金融服務",
+      "reason": "市場對金融科技和券商服務的需求增加，帶動相關平台表現。",
+      "symbols": [
+        "HOOD"
+      ],
+      "count": 1,
+      "avgChange": 4.632360974543859
+    },
+    {
       "theme": "電動車",
-      "reason": "電動車市場競爭激烈，但龍頭企業的創新與市場擴張仍吸引資金關注。",
+      "reason": "電動車產業長期趨勢不變，儘管競爭激烈，市場仍關注龍頭企業的創新與發展。",
       "symbols": [
         "TSLA"
       ],
@@ -700,22 +708,13 @@
       "avgChange": 4.230118443316413
     },
     {
-      "theme": "消費電子",
-      "reason": "主要消費電子品牌在新產品發表與市場策略上有所進展，提振投資者信心。",
+      "theme": "減肥藥 GLP-1",
+      "reason": "GLP-1 藥物在減重和糖尿病治療領域展現巨大市場潛力，吸引資金追捧。",
       "symbols": [
-        "AAPL"
+        "LLY"
       ],
       "count": 1,
-      "avgChange": 2.193336128761737
-    },
-    {
-      "theme": "金融科技",
-      "reason": "金融服務與科技結合的創新模式持續發展，吸引年輕世代用戶與投資。",
-      "symbols": [
-        "HOOD"
-      ],
-      "count": 1,
-      "avgChange": 4.632360974543859
+      "avgChange": 4.4553041860768605
     }
   ],
   "newEntrants": [
@@ -724,49 +723,49 @@
       "name": "Moderna, Inc. Common Stock",
       "theme": "生技製藥",
       "changePercent": 176.9695044472681,
-      "reason": "與默克合作的實驗性黑色素瘤疫苗後期試驗數據積極，股價飆升。"
+      "reason": "與Merck合作的黑色素瘤疫苗三期試驗數據積極，股價飆升."
     },
     {
       "symbol": "MSTR",
       "name": "Strategy Inc Common Stock Class A",
       "theme": "比特幣/加密",
       "changePercent": 12.678339818417644,
-      "reason": "比特幣價格回升，加上市場對美國加密貨幣監管樂觀，帶動股價上漲。"
+      "reason": "執行長確認將重啟比特幣購買，帶動股價上漲."
     },
     {
       "symbol": "MRK",
       "name": "Merck & Co., Inc.",
       "theme": "生技製藥",
       "changePercent": 12.598949471036475,
-      "reason": "與Moderna合作的個人化癌症疫苗後期試驗結果令人鼓舞，推動股價創新高。"
+      "reason": "與Moderna合作的黑色素瘤疫苗三期試驗數據積極，股價創歷史新高."
     },
     {
       "symbol": "GS",
       "name": "Goldman Sachs Group Inc.",
       "theme": "金融服務",
       "changePercent": -1.8087979470816122,
-      "reason": "近期宣布收購LCN Capital Partners，但股價下跌可能受估值和獲利了結影響。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動."
     },
     {
       "symbol": "COIN",
       "name": "Coinbase Global, Inc. Class A Common Stock",
       "theme": "比特幣/加密",
       "changePercent": 9.5534432059085,
-      "reason": "比特幣價格上漲，以及對美國加密貨幣監管趨於明朗的樂觀情緒。"
+      "reason": "比特幣價格回穩上漲，加上監管樂觀情緒帶動."
     },
     {
       "symbol": "HOOD",
       "name": "Robinhood Markets, Inc. Class A Common Stock",
-      "theme": "金融科技",
+      "theme": "金融服務",
       "changePercent": 4.632360974543859,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動."
     },
     {
       "symbol": "CRWD",
       "name": "CrowdStrike Holdings, Inc. Class A Common Stock",
       "theme": "資安",
       "changePercent": -5.302461018222803,
-      "reason": "股價下跌可能受大盤科技股賣壓影響，而非個股基本面惡化。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動."
     }
   ],
   "marketBriefing": {
