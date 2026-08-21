@@ -60,7 +60,7 @@
       "dollarVolume": 15950753960.828844,
       "marketCap": 4623874049400,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "消費性電子",
+      "theme": "消費電子",
       "isNew": false,
       "rankChange": -1,
       "streak": 112
@@ -164,7 +164,7 @@
       "dollarVolume": 9439810625.519867,
       "marketCap": 2867433599980.4795,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電商與雲端服務",
+      "theme": "電子商務",
       "isNew": false,
       "rankChange": -1,
       "streak": 112
@@ -320,7 +320,7 @@
       "dollarVolume": 3946723279.097789,
       "marketCap": 909608447416.5,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售",
+      "theme": "零售百貨",
       "isNew": false,
       "rankChange": 14,
       "streak": 25
@@ -385,7 +385,7 @@
       "dollarVolume": 3376062296.009004,
       "marketCap": 375163660657.35,
       "sector": "CONSTRUCTION MACHINERY & EQUIP",
-      "theme": "重型機械",
+      "theme": "工業機械",
       "isNew": false,
       "rankChange": 10,
       "streak": 2
@@ -580,7 +580,7 @@
       "dollarVolume": 2264851996.571614,
       "marketCap": 677519733649.2001,
       "sector": "PETROLEUM REFINING",
-      "theme": "石油與天然氣",
+      "theme": "石油天然氣",
       "isNew": false,
       "rankChange": -18,
       "streak": 4
@@ -645,20 +645,20 @@
       "dollarVolume": 2115079809.7435653,
       "marketCap": 60858185503.979996,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "再生能源",
+      "theme": "潔淨能源",
       "isNew": false,
       "rankChange": -24,
       "streak": 26
     }
   ],
   "asOf": "2026-08-19T20:00:00.000Z",
-  "generatedAt": "2026-08-20T05:40:45.951Z",
+  "generatedAt": "2026-08-21T02:05:17.875Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "生技製藥",
-      "reason": "市場對新藥研發和生物科技的潛力持續看好，特別是疫苗和創新療法。",
+      "reason": "市場對新藥研發和生物技術的潛力持續看好，特別是針對特定疾病的突破性療法。",
       "symbols": [
         "MRNA",
         "MRK",
@@ -668,18 +668,8 @@
       "avgChange": 63.47227268364815
     },
     {
-      "theme": "比特幣/加密",
-      "reason": "加密貨幣市場波動性高，相關概念股受比特幣價格影響而有顯著漲幅。",
-      "symbols": [
-        "MSTR",
-        "COIN"
-      ],
-      "count": 2,
-      "avgChange": 11.115891512163072
-    },
-    {
       "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型需求不減，雲端軟體服務持續受青睞，推動相關公司業績成長。",
+      "reason": "企業數位轉型需求不減，雲端軟體服務持續提供效率提升和成本優化方案。",
       "symbols": [
         "MSFT",
         "ORCL",
@@ -690,8 +680,28 @@
       "avgChange": 3.1990273462435552
     },
     {
+      "theme": "比特幣/加密",
+      "reason": "加密貨幣市場波動性高，但長期投資者對其未來發展仍抱有期待，相關概念股受資金追捧。",
+      "symbols": [
+        "MSTR",
+        "COIN"
+      ],
+      "count": 2,
+      "avgChange": 11.115891512163072
+    },
+    {
+      "theme": "網路服務",
+      "reason": "數位廣告和雲端服務的穩定增長，支撐了大型網路公司的表現。",
+      "symbols": [
+        "GOOGL",
+        "GOOG"
+      ],
+      "count": 2,
+      "avgChange": 0.13707053024973193
+    },
+    {
       "theme": "金融服務",
-      "reason": "市場對金融科技和券商服務的需求增加，帶動相關平台表現。",
+      "reason": "市場對金融科技和經紀業務的創新模式保持關注。",
       "symbols": [
         "HOOD"
       ],
@@ -700,21 +710,12 @@
     },
     {
       "theme": "電動車",
-      "reason": "電動車產業長期趨勢不變，儘管競爭激烈，市場仍關注龍頭企業的創新與發展。",
+      "reason": "電動車市場競爭激烈，但龍頭企業的技術創新和市場擴張仍吸引投資者目光。",
       "symbols": [
         "TSLA"
       ],
       "count": 1,
       "avgChange": 4.230118443316413
-    },
-    {
-      "theme": "減肥藥 GLP-1",
-      "reason": "GLP-1 藥物在減重和糖尿病治療領域展現巨大市場潛力，吸引資金追捧。",
-      "symbols": [
-        "LLY"
-      ],
-      "count": 1,
-      "avgChange": 4.4553041860768605
     }
   ],
   "newEntrants": [
@@ -723,100 +724,100 @@
       "name": "Moderna, Inc. Common Stock",
       "theme": "生技製藥",
       "changePercent": 176.9695044472681,
-      "reason": "與Merck合作的黑色素瘤疫苗三期試驗數據積極，股價飆升."
+      "reason": "與默克合作的mRNA癌症疫苗後期試驗成功，降低黑色素瘤復發和擴散風險。"
     },
     {
       "symbol": "MSTR",
       "name": "Strategy Inc Common Stock Class A",
       "theme": "比特幣/加密",
       "changePercent": 12.678339818417644,
-      "reason": "執行長確認將重啟比特幣購買，帶動股價上漲."
+      "reason": "比特幣價格上漲突破71,000美元，加上川普總統呼籲通過CLARITY法案。"
     },
     {
       "symbol": "MRK",
       "name": "Merck & Co., Inc.",
       "theme": "生技製藥",
       "changePercent": 12.598949471036475,
-      "reason": "與Moderna合作的黑色素瘤疫苗三期試驗數據積極，股價創歷史新高."
+      "reason": "與Moderna合作的mRNA癌症疫苗後期試驗成功，降低黑色素瘤復發和擴散風險。"
     },
     {
       "symbol": "GS",
       "name": "Goldman Sachs Group Inc.",
       "theme": "金融服務",
       "changePercent": -1.8087979470816122,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動."
+      "reason": "近期宣布收購NEOS Investments和LCN Capital Partners，擴大資產管理業務。"
     },
     {
       "symbol": "COIN",
       "name": "Coinbase Global, Inc. Class A Common Stock",
       "theme": "比特幣/加密",
       "changePercent": 9.5534432059085,
-      "reason": "比特幣價格回穩上漲，加上監管樂觀情緒帶動."
+      "reason": "執行長表示加密貨幣市場可能處於牛市邊緣，並將推出非美國代幣化股票。"
     },
     {
       "symbol": "HOOD",
       "name": "Robinhood Markets, Inc. Class A Common Stock",
       "theme": "金融服務",
       "changePercent": 4.632360974543859,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動."
+      "reason": "白宮加密貨幣政策峰會提振市場情緒，川普總統推動CLARITY法案。"
     },
     {
       "symbol": "CRWD",
       "name": "CrowdStrike Holdings, Inc. Class A Common Stock",
       "theme": "資安",
       "changePercent": -5.302461018222803,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動."
+      "reason": "被Frost Radar™評為雲端工作負載保護平台領導者，並將公布第二季財報。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點集中在生技製藥和AI相關概念股。Moderna (MRNA) 因其黑色素瘤疫苗在晚期臨床試驗中取得積極成果，股價飆升近177%，帶動生技製藥族群走高，成為市場焦點。AI晶片領域則呈現多空交雜，Marvell (MRVL) 因與Google擴大客製化AI晶片合作而大漲，但整體半導體類股受長期公債殖利率上升以及市場對AI估值和資本支出回報率的重新質疑而普遍承壓，Nvidia (NVDA)、Sandisk (SNDK)、Micron (MU)、Broadcom (AVGO) 和 AMD 均出現下跌。此外，美國財政部擴大長年期國債回購操作，使得美債殖利率回落，為市場帶來部分支撐。",
+    "highlights": "本日美股成交重點集中在生技製藥、半導體和AI相關產業。Moderna (MRNA) 因其實驗性mRNA癌症療法在關鍵測試中取得成功，股價飆升，帶動生技製藥族群。半導體方面，Marvell Technology (MRVL) 與Google達成AI晶片合作協議，使其股價大漲，而Broadcom (AVGO) 則尋求巨額債務融資以擴展AI基礎設施，顯示市場對AI晶片需求持續強勁。同時，記憶體大廠Micron (MU) 宣布投資百億美元成立AI研究實驗室，進一步強化AI題材。",
     "eventsPast": [
       {
-        "title": "Moderna 黑色素瘤疫苗試驗成功",
-        "detail": "Moderna (MRNA) 與默沙東 (MRK) 聯合研發的黑色素瘤皮膚癌疫苗在首次晚期臨床試驗中取得積極初步結果，有效降低癌症復發或擴散的風險，推動Moderna股價大漲176.97%。"
+        "title": "Moderna mRNA癌症療法成功通過關鍵測試",
+        "detail": "Moderna (MRNA) 宣布其實驗性mRNA癌症療法在後期試驗中顯示能有效降低黑色素瘤復發和擴散，促使股價大幅上漲。"
       },
       {
-        "title": "Marvell 與 Google 擴大客製化 AI 晶片合作",
-        "detail": "Marvell Technology (MRVL) 宣布與 Google 擴大合作，共同開發 Tensor Processing Unit (TPU) 生態系統的客製化晶片，Google 有權購買 Marvell 價值高達 122 億美元的股份，激勵 Marvell 股價上漲近10%。"
+        "title": "Marvell Technology與Google達成AI晶片合作協議",
+        "detail": "Marvell Technology (MRVL) 宣布與Google簽訂商業協議，共同開發客製化半導體產品，特別是針對Google的TPU生態系統，並給予Google購買其股票的認股權證，激勵股價上漲。"
       },
       {
-        "title": "美國財政部擴大長債回購操作",
-        "detail": "美國財政部宣布擴大長年期國債的回購操作規模，主要針對10年至30年期公債，導致美債殖利率回落，為股市帶來支撐。"
+        "title": "Broadcom尋求逾600億美元AI晶片融資",
+        "detail": "Broadcom (AVGO) 正在與貸款機構洽談，尋求超過600億美元的債務融資，以支持AI晶片採購和基礎設施擴展，此舉將惠及Anthropic等公司。"
       },
       {
-        "title": "半導體類股普遍承壓",
-        "detail": "受長期公債殖利率上升以及市場對AI估值和資本支出回報率的重新質疑影響，半導體類股普遍走弱，包括Nvidia、Micron、SanDisk、Broadcom和AMD等公司股價下跌。"
+        "title": "Micron Technology投資100億美元成立AI研究實驗室",
+        "detail": "Micron Technology (MU) 宣布成立Micron Research Labs，並計劃在未來十年內投資100億美元，專注於記憶體和AI領域的突破性研究。"
       },
       {
-        "title": "Nebius Group 發行可轉換優先票據",
-        "detail": "雲端服務公司 Nebius Group (NBIS) 宣布將發行 45 億美元的可轉換優先票據，以資助其 AI 數據中心的建設，此消息導致其股價下跌。"
+        "title": "Nebius Group發行50億美元可轉換優先票據",
+        "detail": "雲端服務公司Nebius Group (NBIS) 宣布發行50億美元的可轉換優先票據，以支持其AI雲端擴張策略，儘管公司目前仍面臨盈利挑戰和高估值。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "本月底",
-        "title": "Tesla Cybercab 亮相",
-        "detail": "Tesla 據報最快於本月底在美國德州 Austin 公開推出 Cybercab（無人駕駛的士），先安排員工試乘，再併入現有 Robotaxi 車隊服務。"
+        "date": "9月2日",
+        "title": "Broadcom Inc. 公布2026財年第三季度財報",
+        "detail": "Broadcom (AVGO) 預計將於2026年9月2日公布其2026財年第三季度財報。"
       },
       {
-        "date": "8/20",
-        "title": "SpaceX 大量股票解鎖",
-        "detail": "SpaceX (SPCX) 將有約 3.19 億股首次公開募股後股票解鎖，可能對股價造成壓力。"
+        "date": "9月",
+        "title": "Apple iPhone 18 Pro、iPhone 18 Pro Max和首款可折疊iPhone發表",
+        "detail": "Apple (AAPL) 預計將於2026年9月推出iPhone 18 Pro、iPhone 18 Pro Max以及其首款可折疊iPhone。"
       },
       {
-        "date": "8/20",
-        "title": "Insta360 Luna Pro 發表",
-        "detail": "影石創新科技預告將發表 Insta360 Luna Pro 單鏡頭三軸穩定器相機，支援 4K 30fps 直式拍攝、AI 追蹤與三軸防震。"
+        "date": "8月30日",
+        "title": "SpaceX Falcon Heavy發射NASA羅曼太空望遠鏡",
+        "detail": "SpaceX (SPCX) 計劃於8月30日發射Falcon Heavy火箭，搭載NASA的羅曼太空望遠鏡。"
       },
       {
-        "date": "9/1",
-        "title": "Meta 創業學校啟動",
-        "detail": "Meta Platforms (META) 將於 2026 年 9 月 1 日啟動 Meta 創業學校，旨在加速早期階段初創企業的發展。"
+        "date": "未來幾個月",
+        "title": "SpaceX Starship火箭塔架捕捉測試",
+        "detail": "Elon Musk表示，SpaceX (SPCX) 預計在未來幾個月內嘗試首次Starship火箭上層級的塔架捕捉。"
       },
       {
-        "date": "9/8 或 9/9",
-        "title": "Apple iPhone 新品發表會",
-        "detail": "根據彭博社消息，Apple 預計將在 9 月 8 日或 9 日舉行 iPhone 新品發表會，摺疊 iPhone 預期將是焦點。"
+        "date": "2027年初",
+        "title": "Apple iPhone 18和iPhone Air發表",
+        "detail": "Apple (AAPL) 的標準版iPhone 18和iPhone Air預計將於2027年初發布。"
       }
     ]
   }
