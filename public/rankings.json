@@ -151,7 +151,7 @@
       "dollarVolume": 7412004029.181135,
       "marketCap": 2805628023212.92,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電子商務",
+      "theme": "電商與雲端",
       "isNew": false,
       "rankChange": 1,
       "streak": 113
@@ -177,7 +177,7 @@
       "dollarVolume": 7146832726.498096,
       "marketCap": 219583548000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "資料中心晶片",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": -4,
       "streak": 103
@@ -294,7 +294,7 @@
       "dollarVolume": 3560736911.622588,
       "marketCap": 312888898626.96,
       "sector": "—",
-      "theme": "電子商務",
+      "theme": "電商",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -606,7 +606,7 @@
       "dollarVolume": 1906441217.1395013,
       "marketCap": 59635897018.079994,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "潔淨能源",
+      "theme": "氫能",
       "isNew": false,
       "rankChange": 3,
       "streak": 27
@@ -632,7 +632,7 @@
       "dollarVolume": 1888906204.6310678,
       "marketCap": 21951774593,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "AI 伺服器",
+      "theme": "伺服器",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-08-20T20:00:00.000Z",
-  "generatedAt": "2026-08-21T04:33:09.756Z",
+  "generatedAt": "2026-08-21T05:37:21.561Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "比特幣/加密",
-      "reason": "加密貨幣市場近期波動劇烈，相關概念股受資金追捧。",
+      "reason": "加密貨幣市場近期波動劇烈，但部分相關概念股因市場情緒回暖或特定利好消息而受到資金追捧。",
       "symbols": [
         "MSTR",
         "COIN",
@@ -669,7 +669,7 @@
     },
     {
       "theme": "記憶體",
-      "reason": "市場預期記憶體需求回溫，特別是HBM在AI領域的應用前景看好。",
+      "reason": "AI 應用對高頻寬記憶體（HBM）的需求持續增長，帶動整體記憶體產業景氣復甦預期。",
       "symbols": [
         "MU",
         "SKHY"
@@ -679,7 +679,7 @@
     },
     {
       "theme": "儲存裝置",
-      "reason": "隨著數據量的增長，對儲存裝置的需求持續增加，相關廠商營收展望佳。",
+      "reason": "隨著數據量的爆炸式增長，對高效能儲存解決方案的需求持續旺盛，推動相關企業股價上漲。",
       "symbols": [
         "SNDK",
         "STX",
@@ -689,8 +689,18 @@
       "avgChange": 1.8845067807326776
     },
     {
+      "theme": "半導體",
+      "reason": "半導體產業作為科技創新的基石，儘管市場波動，部分公司仍因其技術領先或特定產品需求而表現強勁。",
+      "symbols": [
+        "AVGO",
+        "MRVL"
+      ],
+      "count": 2,
+      "avgChange": 3.109240479299963
+    },
+    {
       "theme": "半導體設備",
-      "reason": "半導體產業景氣復甦，資本支出增加帶動設備需求。",
+      "reason": "全球晶圓廠擴建和技術升級的需求，持續為半導體設備供應商帶來訂單。",
       "symbols": [
         "AMAT",
         "LRCX"
@@ -700,134 +710,120 @@
     },
     {
       "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型趨勢不變，雲端軟體服務持續受青睞。",
+      "reason": "企業數位轉型趨勢不減，雲端軟體服務的訂閱模式穩定增長，部分公司因財報表現或新產品推出而受關注。",
       "symbols": [
         "NOW"
       ],
       "count": 1,
       "avgChange": 2.004716981132073
-    },
-    {
-      "theme": "光通訊",
-      "reason": "AI發展帶動高速傳輸需求，光通訊產業受惠。",
-      "symbols": [
-        "LITE"
-      ],
-      "count": 1,
-      "avgChange": 6.244562590623484
     }
   ],
   "newEntrants": [
     {
       "symbol": "BABA",
       "name": "Alibaba Group Holding Limited American Depositary Shares, each represents eight Ordinary Shares",
-      "theme": "電子商務",
+      "theme": "電商",
       "changePercent": 1.2645461598138055,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動"
     },
     {
       "symbol": "GEV",
       "name": "GE Vernova Inc.",
       "theme": "電力基礎建設",
       "changePercent": -2.172239888198008,
-      "reason": "近期因獲利了結賣壓與估值偏高，導致股價下跌。"
+      "reason": "獲利了結賣壓與估值偏高導致股價下跌，但長期需求強勁。"
     },
     {
       "symbol": "COST",
       "name": "Costco Wholesale Corp",
       "theme": "零售百貨",
       "changePercent": -2.4535261601479657,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動"
     },
     {
       "symbol": "PG",
       "name": "Procter & Gamble Company",
       "theme": "消費必需品",
       "changePercent": -0.9765895553400725,
-      "reason": "近期無明確個股消息，可能受資金轉向防禦型個股帶動。"
+      "reason": "市場資金轉向大型穩健消費股，但無直接利多消息。"
     },
     {
       "symbol": "BAC",
       "name": "Bank of America Corporation",
       "theme": "銀行",
       "changePercent": -2.0737691942377747,
-      "reason": "近期美國銀行調整亞太工業投行團隊，並招募科技投行董事總經理。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動"
     },
     {
       "symbol": "GE",
       "name": "GE Aerospace",
       "theme": "航空工業",
       "changePercent": -3.2535159868624293,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動"
     },
     {
       "symbol": "DE",
       "name": "Deere & Company",
       "theme": "農業機械",
       "changePercent": 6.942459053097508,
-      "reason": "第三季財報營收與淨利均超出預期，並上調全年淨利指引。"
+      "reason": "第三季財報營收與淨利均超出預期，上調全年淨利指引。"
     },
     {
       "symbol": "IREN",
       "name": "IREN Limited Ordinary Shares",
       "theme": "比特幣/加密",
       "changePercent": -0.5602240896358589,
-      "reason": "比特幣突破72,000美元，帶動加密貨幣相關股票上漲。"
+      "reason": "成功交付Horizon 1給微軟，並達成Nvidia Exemplar Cloud地位。"
     },
     {
       "symbol": "SMCI",
       "name": "Super Micro Computer, Inc. Common Stock",
-      "theme": "AI 伺服器",
+      "theme": "伺服器",
       "changePercent": -0.21869874248222607,
-      "reason": "AI伺服器需求強勁，Bernstein調升目標價。"
+      "reason": "完成內部調查，澄清高管涉嫌走私，並強化出口合規計畫。"
     },
     {
       "symbol": "CRCL",
       "name": "Circle Internet Group, Inc.",
       "theme": "比特幣/加密",
       "changePercent": 6.451202443058904,
-      "reason": "Arc區塊鏈主網即將上線，推動股價上漲。"
+      "reason": "第二季財報營收與淨利表現強勁，Arc區塊鏈主網將上線。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於生技製藥、記憶體、比特幣/加密貨幣以及AI晶片相關族群。Moderna (MRNA) 因其癌症疫苗在後期臨床試驗中取得突破性成功，股價暴漲近177%，帶動生技製藥板塊活躍。記憶體族群則受美光科技 (MU) 宣布投資百億美元擴建AI記憶體研究實驗室的利好消息提振。比特幣/加密貨幣概念股因美國加密貨幣監管可能趨於明朗，以及川普政府推動相關法案而逆勢走高。AI晶片領域則呈現漲跌互見的局面，Marvell Technology (MRVL) 受惠於Google擴大合作而大漲，而Nvidia (NVDA) 和AMD (AMD) 則受到OpenAI財報不如預期及市場對AI硬體支出擔憂的影響。",
+    "highlights": "本日美股成交量前段的焦點集中在AI相關的半導體和記憶體類股，以及受公司特定消息影響的個股。資金主要流向對AI未來發展有明確利多的公司，例如美光科技（MU）宣布投資百億美元於AI記憶體研發，以及Marvell Technology（MRVL）與Google擴大AI晶片合作。此外，Moderna（MRNA）因癌症疫苗的積極試驗結果而受到關注，而SpaceX（SPCX）則因星艦重用時程更新而有大量交易。",
     "eventsPast": [
       {
-        "title": "Moderna癌症疫苗三期試驗成功",
-        "detail": "Moderna (MRNA) 與默沙東 (Merck) 合作開發的個性化mRNA腫瘤疫苗在晚期黑色素瘤試驗中取得成功，顯著降低患者術後復發及腫瘤擴散風險，帶動Moderna股價暴漲177%。"
+        "title": "美光科技宣布百億美元投資AI記憶體研發",
+        "detail": "美光科技（MU）宣布將在美國投資100億美元設立Micron Research Labs，專注於記憶體、運算和半導體製造的基礎研究，以強化其在AI記憶體領域的長期競爭力。"
       },
       {
-        "title": "美光科技投資百億美元擴建AI記憶體研究實驗室",
-        "detail": "美光科技 (MU) 宣布將在愛達荷州投資100億美元設立新研究實驗室，專注於推動人工智慧相關技術的發展，強化其在AI記憶體領域的競爭優勢。"
+        "title": "Marvell Technology與Google擴大AI晶片合作",
+        "detail": "Marvell Technology（MRVL）獲得Google的認股權證，以擴大在AI晶片方面的合作，這項協議將Marvell直接納入Google的客製化半導體計畫，成為超大規模AI基礎設施的關鍵供應商。"
       },
       {
-        "title": "比特幣/加密貨幣概念股逆勢走高",
-        "detail": "美國總統川普會見加密貨幣業高層並推動《加密資產監管規則》(Clarity Act)，加上美國財政部擴大回購長天期公債，提振市場風險偏好，帶動比特幣及相關概念股如MSTR、COIN上漲。"
+        "title": "Moderna癌症疫苗後期試驗成功",
+        "detail": "Moderna（MRNA）與默克（Merck）共同開發的mRNA癌症疫苗Intismeran在後期試驗中，成功降低黑色素瘤復發和擴散的風險，導致Moderna股價大幅上漲。"
       },
       {
-        "title": "Google擴大與Marvell的AI晶片合作",
-        "detail": "Google擴大與Marvell Technology (MRVL) 的客製化AI晶片合作，並取得可買進近5,900萬股Marvell股票的認股權證，激勵Marvell股價飆漲。"
+        "title": "SpaceX更新星艦重用時程",
+        "detail": "SpaceX（SPCX）執行長馬斯克透露了星艦（Starship）上層級重用的一個重要里程碑，並設定了首次上層級重飛的新目標時程，這項進展對其發射效率和長期業務規劃具有重要意義。"
       },
       {
-        "title": "Walmart第二季度財報不如預期",
-        "detail": "Walmart (WMT) 公布的第二季度財報顯示美國同店銷售額增長不如預期，創下逾六年新低，引發市場對消費端增長動能減弱的擔憂，導致股價大跌。"
+        "title": "Walmart公布第二季財報並調降商品價格",
+        "detail": "Walmart（WMT）公布第二季財報，營收成長強勁，並表示將利用收到的29億美元關稅退款來調降商品價格，以吸引受通膨影響的消費者，但其美國同店銷售成長為六年來最慢。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "8/26",
-        "title": "輝達 (Nvidia) 財報",
-        "detail": "AI晶片龍頭Nvidia (NVDA) 將於8月26日盤後公布財報，市場將密切關注其AI算力需求、資料中心支出及整體半導體產業的展望。"
+        "date": "本週三",
+        "title": "Nvidia公布2027財年第二季財報",
+        "detail": "Jefferies預計Nvidia（NVDA）在下週三公布的2027財年第二季財報中，營收將會超出預期，達到950億美元，高於市場普遍預期的920.7億美元。"
       },
       {
-        "date": "8/26",
-        "title": "美光科技 (Micron) 財報",
-        "detail": "美光科技 (MU) 將於8月26日公布財報，Nvidia強勁的業績和其Vera Rubin晶片的推出將對美光科技產生利好影響。"
-      },
-      {
-        "date": "8/27-8/29",
-        "title": "傑克森洞全球央行年會",
-        "detail": "投資人將關注8月27日至29日舉行的傑克森洞全球央行年會，以尋求聯準會 (Fed) 對於通膨和經濟增長之間平衡的更明確方向。"
+        "date": "2027下半年",
+        "title": "Tesla Optimus機器人預計開始銷售",
+        "detail": "Tesla（TSLA）向摩根大通透露，其Optimus機器人最快可能在2027年下半年開始對外銷售。"
       }
     ]
   }
