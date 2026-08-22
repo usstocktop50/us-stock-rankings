@@ -112,7 +112,7 @@
       "dollarVolume": 9256135921.019775,
       "marketCap": 2789664279126.36,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電子商務",
+      "theme": "電商/雲端服務",
       "isNew": false,
       "rankChange": 3,
       "streak": 114
@@ -138,7 +138,7 @@
       "dollarVolume": 7614325628.099998,
       "marketCap": 1212600167099.0999,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "社群媒體",
+      "theme": "社群媒體/元宇宙",
       "isNew": false,
       "rankChange": 0,
       "streak": 114
@@ -151,7 +151,7 @@
       "dollarVolume": 7339927263.343229,
       "marketCap": 413990356420.26,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "大數據/AI 軟體",
+      "theme": "數據分析/AI",
       "isNew": false,
       "rankChange": 8,
       "streak": 114
@@ -164,7 +164,7 @@
       "dollarVolume": 7175048083.764641,
       "marketCap": 2023403760000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "網路服務",
+      "theme": "網路搜尋/AI",
       "isNew": false,
       "rankChange": 3,
       "streak": 114
@@ -242,7 +242,7 @@
       "dollarVolume": 5243626807.005529,
       "marketCap": 1888852250000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "網路服務",
+      "theme": "網路搜尋/AI",
       "isNew": false,
       "rankChange": 0,
       "streak": 114
@@ -255,7 +255,7 @@
       "dollarVolume": 4580644292.642848,
       "marketCap": 825252808373.5,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售百貨",
+      "theme": "零售",
       "isNew": false,
       "rankChange": -11,
       "streak": 27
@@ -294,7 +294,7 @@
       "dollarVolume": 3947384783.3664637,
       "marketCap": 286065740918.88,
       "sector": "—",
-      "theme": "電子商務",
+      "theme": "電商",
       "isNew": false,
       "rankChange": 0,
       "streak": 2
@@ -372,7 +372,7 @@
       "dollarVolume": 2833191588.583401,
       "marketCap": 302608620906.24,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "投資銀行",
+      "theme": "金融服務",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -489,7 +489,7 @@
       "dollarVolume": 2238107737.8474264,
       "marketCap": 420302601702.96,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售百貨",
+      "theme": "零售",
       "isNew": false,
       "rankChange": -2,
       "streak": 2
@@ -502,7 +502,7 @@
       "dollarVolume": 2169333241.1005726,
       "marketCap": 110085103313.18,
       "sector": "METAL MINING",
-      "theme": "礦業",
+      "theme": "金屬礦業",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -567,7 +567,7 @@
       "dollarVolume": 2036492051.5559459,
       "marketCap": 380564840603.1,
       "sector": "CONSTRUCTION MACHINERY & EQUIP",
-      "theme": "重型機械",
+      "theme": "工業機械",
       "isNew": false,
       "rankChange": -10,
       "streak": 4
@@ -645,20 +645,20 @@
       "dollarVolume": 1882258298.8551912,
       "marketCap": 59332533851.7,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "燃料電池",
+      "theme": "潔淨能源",
       "isNew": false,
       "rankChange": -3,
       "streak": 28
     }
   ],
   "asOf": "2026-08-21T20:00:00.000Z",
-  "generatedAt": "2026-08-22T04:33:25.380Z",
+  "generatedAt": "2026-08-22T05:30:36.476Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "比特幣/加密",
-      "reason": "市場對加密貨幣的興趣持續增長，帶動相關金融服務和挖礦公司表現強勁。",
+      "reason": "加密貨幣市場情緒回暖，比特幣價格上漲帶動相關概念股表現。",
       "symbols": [
         "MSTR",
         "HOOD",
@@ -670,7 +670,7 @@
     },
     {
       "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型需求不減，雲端軟體服務持續受到市場青睞。",
+      "reason": "企業數位轉型需求持續，雲端軟體服務商營收成長預期樂觀。",
       "symbols": [
         "MSFT",
         "ORCL",
@@ -680,18 +680,8 @@
       "avgChange": 1.7840040952100458
     },
     {
-      "theme": "生技製藥",
-      "reason": "特定藥物研發進展或市場需求預期，推動相關製藥公司股價上漲。",
-      "symbols": [
-        "MRNA",
-        "MRK"
-      ],
-      "count": 2,
-      "avgChange": 5.623903973725114
-    },
-    {
-      "theme": "網路服務",
-      "reason": "數位廣告和雲端業務的穩健增長，支撐大型網路公司的表現。",
+      "theme": "網路搜尋/AI",
+      "reason": "AI 技術持續發展，大型科技公司在AI領域的投資與進展受到市場關注。",
       "symbols": [
         "GOOGL",
         "GOOG"
@@ -700,8 +690,18 @@
       "avgChange": 1.1339312188176423
     },
     {
+      "theme": "生技製藥",
+      "reason": "特定藥物研發進展或市場需求增加，推動相關製藥公司股價上漲。",
+      "symbols": [
+        "MRNA",
+        "MRK"
+      ],
+      "count": 2,
+      "avgChange": 5.623903973725114
+    },
+    {
       "theme": "半導體",
-      "reason": "儘管部分個股下跌，但整體半導體產業仍受惠於長期需求趨勢。",
+      "reason": "半導體產業景氣復甦預期，部分公司受惠於特定應用需求。",
       "symbols": [
         "AVGO",
         "ADI"
@@ -710,65 +710,116 @@
       "avgChange": 0.9919783017090114
     },
     {
-      "theme": "零售百貨",
-      "reason": "消費者支出數據或公司營運展望良好，提振零售業信心。",
+      "theme": "電動車",
+      "reason": "電動車市場競爭激烈，但龍頭企業仍憑藉技術創新和市場份額獲得關注。",
       "symbols": [
-        "COST"
+        "TSLA"
       ],
       "count": 1,
-      "avgChange": 1.5243543186468296
+      "avgChange": 5.137194680265413
     }
   ],
   "newEntrants": [
     {
       "symbol": "GS",
       "name": "Goldman Sachs Group Inc.",
-      "theme": "投資銀行",
+      "theme": "金融服務",
       "changePercent": 3.7257348171066345,
-      "reason": ""
+      "reason": "投資銀行與資本市場業務復甦，分析師給予買入評級，並擴展印度市場。"
     },
     {
       "symbol": "BRK.B",
       "name": "BERKSHIRE HATHAWAY Class B",
       "theme": "多元控股",
       "changePercent": -0.20931449502878488,
-      "reason": ""
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "FCX",
       "name": "Freeport-McMoran Inc.",
-      "theme": "礦業",
+      "theme": "金屬礦業",
       "changePercent": 7.63830384723392,
-      "reason": ""
+      "reason": "銅價上漲，市場看好銅在AI、電動車及電網擴張中的關鍵作用。"
     },
     {
       "symbol": "CSCO",
       "name": "Cisco Systems, Inc. Common Stock (DE)",
       "theme": "網路設備",
       "changePercent": 1.3231134227575536,
-      "reason": ""
+      "reason": "第四季度財報強勁，AI基礎設施訂單與營收預期提高。"
     },
     {
       "symbol": "ADI",
       "name": "Analog Devices, Inc.",
       "theme": "半導體",
       "changePercent": 0.7697709593776917,
-      "reason": ""
+      "reason": "第三季度營收與獲利超預期，AI和數據中心需求加速成長。"
     },
     {
       "symbol": "CRWV",
       "name": "CoreWeave, Inc. Class A Common Stock",
       "theme": "雲端服務",
       "changePercent": -2.1278966131907424,
-      "reason": ""
+      "reason": "第二季度業績強勁，與Hudson River Trading簽署AI雲端服務協議。"
     },
     {
       "symbol": "UNH",
       "name": "UNITEDHEALTH GROUP INCORPORATED (Delaware)",
       "theme": "醫療保險",
       "changePercent": 1.3667662725737277,
-      "reason": ""
+      "reason": "分析師上調獲利預期，且近期財報優於預期。"
     }
   ],
-  "marketBriefing": null
+  "marketBriefing": {
+    "highlights": "本日美股成交重點聚焦於AI相關產業的持續發展與電動車領域的動態。資金主要集中在AI晶片、記憶體、雲端軟體SaaS、數據分析/AI以及電動車等族群。Nvidia和Broadcom等AI晶片公司因其在AI基礎設施和融資方面的重大舉措而成為焦點，而Micron則因其在AI記憶體研發上的巨額投資而受到關注。Tesla則受惠於其Robotaxi服務在拉斯維加斯獲得批准，以及電動半掛卡車進軍歐洲市場的消息，帶動了成交量。市場交易的故事主要圍繞著AI技術的快速演進及其對各產業的影響，以及電動車市場的擴張潛力。",
+    "eventsPast": [
+      {
+        "title": "Nvidia 洽談投資數據中心電力開發商 Cloverleaf Infrastructure",
+        "detail": "Nvidia 正在洽談向數據中心電力開發商 Cloverleaf Infrastructure 投資數億美元，以擴大其在AI基礎設施的佈局，確保其晶片的電力供應。"
+      },
+      {
+        "title": "Broadcom 尋求高達 800 億美元的 AI 融資",
+        "detail": "Broadcom 正在協商籌集 700 億至 800 億美元的債務，以支持包括 Anthropic 在內的 AI 公司，此舉凸顯了AI能力需求激增下的資本需求。"
+      },
+      {
+        "title": "Micron 投資 100 億美元建立 AI 記憶體研究實驗室",
+        "detail": "Micron 宣布計劃在愛達荷州博伊西投資 100 億美元建立 Micron 研究實驗室，專注於半導體製造和人工智慧，以應對記憶體短缺問題。"
+      },
+      {
+        "title": "Tesla Robotaxi 服務獲准進入拉斯維加斯",
+        "detail": "Tesla 獲得內華達州交通管理局批准，可在拉斯維加斯所在的克拉克縣提供商業 Robotaxi 服務，預計可部署多達 5,000 輛 Robotaxi。"
+      },
+      {
+        "title": "Amazon 擴大數據中心和機器人製造業務",
+        "detail": "Amazon 計劃在路易斯安那州什里夫波特擴建數據中心，並在德州奧斯汀設立機器人製造廠，預計將創造數百個就業機會。"
+      }
+    ],
+    "eventsUpcoming": [
+      {
+        "date": "本週四",
+        "title": "Amazon 社區會議討論無人機送貨服務",
+        "detail": "Amazon 將在里奇蒙賽道舉行社區會議，討論其 Prime Air 無人機送貨服務的擴展計劃。"
+      },
+      {
+        "date": "九月",
+        "title": "Sandisk 推出新款 NAS SSD",
+        "detail": "Sandisk 將推出兩款新的網路附加儲存 (NAS) SSD，旨在滿足專業消費者和小型企業對本地AI、資料庫和內容工作負載日益增長的儲存需求。"
+      },
+      {
+        "date": "2027",
+        "title": "Micron 研究實驗室動工",
+        "detail": "Micron 計劃於 2027 年開始建造其在愛達荷州博伊西的 AI 記憶體研究實驗室。"
+      },
+      {
+        "date": "2027 春季",
+        "title": "Apple 可能推出標準版 iPhone 18",
+        "detail": "有報導指出，Apple 可能會打破其年度 iPhone 發布週期，在 2027 年春季推出標準版 iPhone 18，可能與 iPhone 18e 同步發布。"
+      },
+      {
+        "date": "2028 年底",
+        "title": "Apple 考慮推出新款 Vision Pro",
+        "detail": "Apple 仍在考慮最早於 2028 年底發布新款 Vision Pro 機型。"
+      }
+    ]
+  }
 }
