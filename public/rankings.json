@@ -86,7 +86,7 @@
       "dollarVolume": 8426716127.945433,
       "marketCap": 440139440000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "CPU 晶片",
       "isNew": false,
       "rankChange": 3,
       "streak": 115
@@ -138,7 +138,7 @@
       "dollarVolume": 7352330481.431138,
       "marketCap": 2826769197814.04,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電商/雲端",
+      "theme": "電子商務/雲端",
       "isNew": false,
       "rankChange": -2,
       "streak": 115
@@ -164,7 +164,7 @@
       "dollarVolume": 6752229400.22754,
       "marketCap": 1706829471834.48,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "網路晶片",
       "isNew": false,
       "rankChange": 1,
       "streak": 115
@@ -255,7 +255,7 @@
       "dollarVolume": 4275917433.4664917,
       "marketCap": 200582892000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "網路晶片",
       "isNew": false,
       "rankChange": -4,
       "streak": 105
@@ -320,7 +320,7 @@
       "dollarVolume": 3211575681.256195,
       "marketCap": 74466249000,
       "sector": "COMMUNICATIONS EQUIPMENT, NEC",
-      "theme": "光通訊",
+      "theme": "光學元件",
       "isNew": false,
       "rankChange": 0,
       "streak": 33
@@ -346,7 +346,7 @@
       "dollarVolume": 2833320220.27617,
       "marketCap": 283957617169.05,
       "sector": "—",
-      "theme": "電商",
+      "theme": "電子商務",
       "isNew": false,
       "rankChange": -4,
       "streak": 3
@@ -632,7 +632,7 @@
       "dollarVolume": 1757603594.3032882,
       "marketCap": 179856163644.05002,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "類比晶片",
       "isNew": false,
       "rankChange": -6,
       "streak": 2
@@ -645,40 +645,20 @@
       "dollarVolume": 1712013382.7919223,
       "marketCap": 236476355812.84,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "類比晶片",
       "isNew": true,
       "rankChange": null,
       "streak": 1
     }
   ],
   "asOf": "2026-08-24T20:00:00.000Z",
-  "generatedAt": "2026-08-25T04:29:03.282Z",
+  "generatedAt": "2026-08-25T05:37:12.720Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
-      "theme": "支付服務",
-      "reason": "隨著全球經濟活動復甦，數位支付交易量持續增長，帶動支付服務提供商的營收預期。",
-      "symbols": [
-        "V",
-        "MA"
-      ],
-      "count": 2,
-      "avgChange": 3.188139724507211
-    },
-    {
-      "theme": "零售百貨",
-      "reason": "消費者支出數據表現穩健，加上通膨壓力緩解預期，有利於大型零售商的營運前景。",
-      "symbols": [
-        "WMT",
-        "COST"
-      ],
-      "count": 2,
-      "avgChange": 2.593459252879488
-    },
-    {
       "theme": "雲端/AI 軟體",
-      "reason": "企業持續投入數位轉型和AI應用，推動雲端服務及AI相關軟體需求增長。",
+      "reason": "市場持續看好雲端服務及AI應用軟體的需求增長，帶動相關公司股價表現。",
       "symbols": [
         "GOOGL",
         "MSFT",
@@ -690,17 +670,28 @@
       "avgChange": 1.1202875822063203
     },
     {
-      "theme": "醫療保險",
-      "reason": "醫療保健需求穩定，且保險公司在成本控制與服務效率提升方面有所進展，支撐股價表現。",
+      "theme": "支付服務",
+      "reason": "隨著全球經濟活動復甦，數位支付交易量增加，支撐支付服務公司的營收成長。",
       "symbols": [
-        "UNH"
+        "V",
+        "MA"
       ],
-      "count": 1,
-      "avgChange": 2.2173233190638477
+      "count": 2,
+      "avgChange": 3.188139724507211
+    },
+    {
+      "theme": "零售百貨",
+      "reason": "消費者支出保持韌性，大型零售商因其規模經濟和穩定的需求而受到青睞。",
+      "symbols": [
+        "WMT",
+        "COST"
+      ],
+      "count": 2,
+      "avgChange": 2.593459252879488
     },
     {
       "theme": "潔淨能源",
-      "reason": "全球對可再生能源和能源效率解決方案的需求日益增加，政策支持也為該產業帶來利好。",
+      "reason": "全球對可再生能源和能源效率的投資持續增加，推動相關技術供應商的發展。",
       "symbols": [
         "BE"
       ],
@@ -708,8 +699,17 @@
       "avgChange": 1.2757508066517855
     },
     {
+      "theme": "醫療保險",
+      "reason": "醫療保健服務需求穩定，大型醫療保險公司因其市場地位和盈利能力而受到關注。",
+      "symbols": [
+        "UNH"
+      ],
+      "count": 1,
+      "avgChange": 2.2173233190638477
+    },
+    {
       "theme": "消費性電子",
-      "reason": "儘管整體市場波動，但特定消費性電子產品的需求仍具韌性，或有新品發表預期支撐。",
+      "reason": "儘管整體市場波動，部分消費性電子巨頭仍能憑藉其品牌影響力和產品創新維持股價。",
       "symbols": [
         "AAPL"
       ],
@@ -723,21 +723,21 @@
       "name": "Lam Research Corp",
       "theme": "半導體設備",
       "changePercent": -1.2197452229299313,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "財報與財測優於預期，推動股價上漲。"
     },
     {
       "symbol": "ASML",
       "name": "ASML Holding NV",
       "theme": "半導體設備",
       "changePercent": -1.339751440105223,
-      "reason": "公司於8月24日公布庫藏股執行狀況，每日回購約7千萬至8千萬歐元股票。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "PANW",
       "name": "Palo Alto Networks, Inc. Common Stock",
       "theme": "資安",
       "changePercent": -1.9476346159219904,
-      "reason": "Needham上調目標價至400美元，且AI資安新方案受市場關注。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "COHR",
@@ -751,33 +751,33 @@
       "name": "Dell Technologies Inc.",
       "theme": "電子電腦",
       "changePercent": -2.0109482446615967,
-      "reason": "AI伺服器需求強勁，與Nvidia合作推出AI Factory解決方案。"
+      "reason": "近期無明確個股消息，可能受AI伺服器需求帶動。"
     },
     {
       "symbol": "MA",
       "name": "Mastercard Incorporated",
       "theme": "支付服務",
       "changePercent": 3.3119198112395187,
-      "reason": "營收強勁成長且獲利超預期，跨境交易量與加值服務表現佳。"
+      "reason": "近期無明確個股消息，可能受市場對降息預期樂觀影響。"
     },
     {
       "symbol": "KLAC",
       "name": "KLA Corporation Common Stock",
       "theme": "半導體設備",
       "changePercent": -1.3152888743953561,
-      "reason": "高盛上調晶圓廠設備支出預測，AI基礎設施帶動需求。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "GEV",
       "name": "GE Vernova Inc.",
       "theme": "電力基礎建設",
       "changePercent": -1.5415164341328316,
-      "reason": "受惠AI數據中心需求，上半年訂單超去年全年兩倍。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "TXN",
       "name": "Texas Instruments Incorporated",
-      "theme": "半導體",
+      "theme": "類比晶片",
       "changePercent": -2.0502345286730277,
       "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     }
