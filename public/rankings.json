@@ -86,7 +86,7 @@
       "dollarVolume": 8426716127.945433,
       "marketCap": 440139440000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "CPU 晶片",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": 3,
       "streak": 115
@@ -164,7 +164,7 @@
       "dollarVolume": 6752229400.22754,
       "marketCap": 1706829471834.48,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網路晶片",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": 1,
       "streak": 115
@@ -177,7 +177,7 @@
       "dollarVolume": 6181264158.406442,
       "marketCap": 404672467437.81,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "大數據/AI 軟體",
+      "theme": "資料分析/AI",
       "isNew": false,
       "rankChange": -2,
       "streak": 115
@@ -255,7 +255,7 @@
       "dollarVolume": 4275917433.4664917,
       "marketCap": 200582892000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網路晶片",
+      "theme": "資料中心晶片",
       "isNew": false,
       "rankChange": -4,
       "streak": 105
@@ -268,7 +268,7 @@
       "dollarVolume": 3756337238.795405,
       "marketCap": 847455849215.95,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售百貨",
+      "theme": "零售",
       "isNew": false,
       "rankChange": -1,
       "streak": 28
@@ -307,7 +307,7 @@
       "dollarVolume": 3233068547.623485,
       "marketCap": 651669735312.54,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "支付服務",
+      "theme": "金融支付",
       "isNew": false,
       "rankChange": 8,
       "streak": 8
@@ -320,7 +320,7 @@
       "dollarVolume": 3211575681.256195,
       "marketCap": 74466249000,
       "sector": "COMMUNICATIONS EQUIPMENT, NEC",
-      "theme": "光學元件",
+      "theme": "光學通訊",
       "isNew": false,
       "rankChange": 0,
       "streak": 33
@@ -333,7 +333,7 @@
       "dollarVolume": 3070251520.2659683,
       "marketCap": 60089469130.920006,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "潔淨能源",
+      "theme": "氫能源",
       "isNew": false,
       "rankChange": 24,
       "streak": 29
@@ -411,7 +411,7 @@
       "dollarVolume": 2351538721.748834,
       "marketCap": 81925104847.08,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "金融科技",
+      "theme": "金融服務",
       "isNew": false,
       "rankChange": -14,
       "streak": 4
@@ -437,7 +437,7 @@
       "dollarVolume": 2136118530.4132557,
       "marketCap": 430795310205.6,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售百貨",
+      "theme": "零售",
       "isNew": false,
       "rankChange": 4,
       "streak": 3
@@ -567,7 +567,7 @@
       "dollarVolume": 1864686959.3531015,
       "marketCap": 521556744023.9,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "支付服務",
+      "theme": "金融支付",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -632,7 +632,7 @@
       "dollarVolume": 1757603594.3032882,
       "marketCap": 179856163644.05002,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "類比晶片",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": -6,
       "streak": 2
@@ -645,20 +645,20 @@
       "dollarVolume": 1712013382.7919223,
       "marketCap": 236476355812.84,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "類比晶片",
+      "theme": "半導體",
       "isNew": true,
       "rankChange": null,
       "streak": 1
     }
   ],
   "asOf": "2026-08-24T20:00:00.000Z",
-  "generatedAt": "2026-08-25T05:37:12.720Z",
+  "generatedAt": "2026-08-26T02:06:38.285Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "雲端/AI 軟體",
-      "reason": "市場持續看好雲端服務及AI應用軟體的需求增長，帶動相關公司股價表現。",
+      "reason": "市場持續看好大型科技公司在雲端服務和人工智慧領域的領先地位及成長潛力。",
       "symbols": [
         "GOOGL",
         "MSFT",
@@ -670,8 +670,8 @@
       "avgChange": 1.1202875822063203
     },
     {
-      "theme": "支付服務",
-      "reason": "隨著全球經濟活動復甦，數位支付交易量增加，支撐支付服務公司的營收成長。",
+      "theme": "金融支付",
+      "reason": "全球經濟活動復甦帶動數位支付交易量增加，支撐金融支付服務商的營收成長。",
       "symbols": [
         "V",
         "MA"
@@ -680,8 +680,8 @@
       "avgChange": 3.188139724507211
     },
     {
-      "theme": "零售百貨",
-      "reason": "消費者支出保持韌性，大型零售商因其規模經濟和穩定的需求而受到青睞。",
+      "theme": "零售",
+      "reason": "消費者支出保持韌性，大型零售商的業績表現優於預期。",
       "symbols": [
         "WMT",
         "COST"
@@ -690,17 +690,8 @@
       "avgChange": 2.593459252879488
     },
     {
-      "theme": "潔淨能源",
-      "reason": "全球對可再生能源和能源效率的投資持續增加，推動相關技術供應商的發展。",
-      "symbols": [
-        "BE"
-      ],
-      "count": 1,
-      "avgChange": 1.2757508066517855
-    },
-    {
       "theme": "醫療保險",
-      "reason": "醫療保健服務需求穩定，大型醫療保險公司因其市場地位和盈利能力而受到關注。",
+      "reason": "醫療保健需求穩定，保險公司在市場中展現防禦性特質。",
       "symbols": [
         "UNH"
       ],
@@ -709,12 +700,21 @@
     },
     {
       "theme": "消費性電子",
-      "reason": "儘管整體市場波動，部分消費性電子巨頭仍能憑藉其品牌影響力和產品創新維持股價。",
+      "reason": "市場對新產品發布和服務收入增長的預期，支撐了消費性電子巨頭的股價。",
       "symbols": [
         "AAPL"
       ],
       "count": 1,
       "avgChange": 0.3200258606755947
+    },
+    {
+      "theme": "氫能源",
+      "reason": "全球對清潔能源轉型的關注，使氫能源相關技術和公司受到市場青睞。",
+      "symbols": [
+        "BE"
+      ],
+      "count": 1,
+      "avgChange": 1.2757508066517855
     }
   ],
   "newEntrants": [
@@ -723,114 +723,114 @@
       "name": "Lam Research Corp",
       "theme": "半導體設備",
       "changePercent": -1.2197452229299313,
-      "reason": "財報與財測優於預期，推動股價上漲。"
+      "reason": "Lam Research 宣布未來五年將投資超過 30 億美元擴展全球實驗室網絡，加速 AI 時代創新。"
     },
     {
       "symbol": "ASML",
       "name": "ASML Holding NV",
       "theme": "半導體設備",
       "changePercent": -1.339751440105223,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "ASML 受惠於 AI 驅動的半導體需求，並持續執行庫藏股計畫。"
     },
     {
       "symbol": "PANW",
       "name": "Palo Alto Networks, Inc. Common Stock",
       "theme": "資安",
       "changePercent": -1.9476346159219904,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "Palo Alto Networks 與 NTT DATA 建立全球戰略聯盟，目標在 AI 安全轉型領域達成 10 億美元業務。"
     },
     {
       "symbol": "COHR",
       "name": "Coherent Corp.",
       "theme": "光學元件",
       "changePercent": -4.845951920419997,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "Coherent 公布優於預期的第四季度財報，並開始向客戶提供 300 毫米碳化矽基板樣品，用於 AI 基礎設施。"
     },
     {
       "symbol": "DELL",
       "name": "Dell Technologies Inc.",
       "theme": "電子電腦",
       "changePercent": -2.0109482446615967,
-      "reason": "近期無明確個股消息，可能受AI伺服器需求帶動。"
+      "reason": "Dell Technologies 受惠於 AI 伺服器訂單和 AI 基礎設施需求，股價接近歷史新高。"
     },
     {
       "symbol": "MA",
       "name": "Mastercard Incorporated",
-      "theme": "支付服務",
+      "theme": "金融支付",
       "changePercent": 3.3119198112395187,
-      "reason": "近期無明確個股消息，可能受市場對降息預期樂觀影響。"
+      "reason": "Mastercard 第二季度財報優於預期，且知名投資者 Bill Ackman 披露新建倉位。"
     },
     {
       "symbol": "KLAC",
       "name": "KLA Corporation Common Stock",
       "theme": "半導體設備",
       "changePercent": -1.3152888743953561,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "KLA 受益於先進半導體製程、HBM 和先進封裝的投資，以及 AI 基礎設施需求。"
     },
     {
       "symbol": "GEV",
       "name": "GE Vernova Inc.",
       "theme": "電力基礎建設",
       "changePercent": -1.5415164341328316,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "GE Vernova 公布強勁的第二季度財報，並推出新產品以滿足 AI 資料中心對穩定電力需求。"
     },
     {
       "symbol": "TXN",
       "name": "Texas Instruments Incorporated",
-      "theme": "類比晶片",
+      "theme": "半導體",
       "changePercent": -2.0502345286730277,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "Texas Instruments 推出用於電動車牽引逆變器的新型電流感測技術，並公布第二季度財報。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI晶片與記憶體族群的劇烈波動。市場對半導體和儲存晶片股的拋售主要受到美國可能允許蘋果從中國供應商採購儲存晶片的傳聞影響，加上三星財報不如預期，進一步拖累了整體晶片市場情緒。儘管如此，雲端/AI軟體相關個股如Alphabet、Microsoft、Amazon和Meta仍呈現上漲，顯示市場對AI長期發展的信心依然存在，資金在不同AI相關領域間進行輪動。",
+    "highlights": "本日美股成交重點聚焦於科技股的劇烈波動，特別是AI晶片和記憶體板塊。Nvidia、美光和Sandisk等個股因市場對AI記憶體炒作降溫以及美國可能允許蘋果從中國供應商採購存儲晶片的傳聞而大幅下跌，顯示資金正在獲利了結。另一方面，雲端/AI軟體族群中的Google、微軟、亞馬遜和Meta則呈現上漲，反映市場對其長期增長潛力仍抱持信心，並有相關利好消息支撐，例如Google Cloud與Verizon簽署AI框架協議，以及Meta Platforms延攬前OpenAI研究員。",
     "eventsPast": [
       {
-        "title": "半導體與儲存晶片股拋售潮",
-        "detail": "市場傳出美國可能允許蘋果從中國供應商採購儲存晶片，導致半導體和儲存晶片股大幅下挫，費城半導體指數下跌3%。"
+        "title": "半導體和存儲晶片股大幅下挫",
+        "detail": "費城半導體指數下跌3%，市場傳出美國可能允許蘋果從中國供應商採購存儲晶片，以及三星公佈的股東回報計劃低於預期，拖累全球晶片市場情緒。"
       },
       {
-        "title": "三星財報不如預期",
-        "detail": "三星公佈的股東回報計劃低於預期，進一步拖累全球晶片市場情緒。"
+        "title": "Nvidia洽談投資Perplexity",
+        "detail": "Nvidia正在洽談投資AI搜尋引擎新創公司Perplexity，後者估值可能超過300億美元。"
       },
       {
-        "title": "谷歌雲與Verizon簽署企業AI框架協議",
-        "detail": "谷歌雲與Verizon簽署了一項企業人工智能框架協議。"
+        "title": "Google Cloud與Verizon簽署企業AI框架協議",
+        "detail": "Google Cloud與Verizon簽署了一項企業人工智能框架協議，預計將推動雲端/AI軟體領域的合作與發展。"
       },
       {
-        "title": "英偉達洽談投資Perplexity",
-        "detail": "英偉達正在洽談投資Perplexity，後者估值可能超過300億美元。"
-      },
-      {
-        "title": "Meta Platforms延攬OpenAI前員工",
+        "title": "Meta Platforms延攬前OpenAI研究員",
         "detail": "著名人工智能研究員、OpenAI前員工盧克·梅茨（Luke Metz）已加入Meta Platforms的超級智能實驗室。"
+      },
+      {
+        "title": "美國8月消費者信心跌至七個月低位",
+        "detail": "世界大型企業聯合會公布，美國8月消費者信心指數跌0.8點至89.4，低於市場預期的90.2，並創今年1月以來最低，主要受對未來前景看法的拖累。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "本週三",
+        "date": "本週三 (8/26)",
         "title": "Nvidia財報公布",
-        "detail": "Nvidia將公布最新財報，被視為檢驗人工智能市場漲勢可持續性的關鍵測試，市場預期營收將上看920億美元。"
+        "detail": "Nvidia將於美股收盤後公佈2027財年第二季度業績，市場高度關注其數據中心收入、加速器需求、產品供應及與中國相關的銷售和監管風險敞口，被視為檢驗人工智能市場漲勢可持續性的關鍵測試。"
       },
       {
         "date": "本週三",
-        "title": "美國通膨數據公布",
-        "detail": "美國將發布關鍵通膨數據，在聯準會下次決策前受到密切關注。"
+        "title": "美國通脹數據 (PCE)",
+        "detail": "美國將公布關鍵通脹數據，PCE（個人消費支出）數據將受到密切關注，以尋找未來利率政策的線索。"
       },
       {
         "date": "本週五",
-        "title": "傑克森霍爾會議",
-        "detail": "聯準會主席Kevin Warsh將在傑克森霍爾會議發表講話，尋找未來利率政策的線索。"
+        "title": "傑克遜霍爾會議",
+        "detail": "聯準會主席Kevin Warsh的講話將受到密切關注，以尋找未來利率政策的線索。"
       },
       {
-        "date": "8/26",
-        "title": "惠普(HPQ)財報公布",
-        "detail": "惠普將公布財報，市場關注其在企業硬體換機潮與AI PC滲透率提升下的營運表現。"
+        "date": "9/16",
+        "title": "FOMC貨幣政策決議",
+        "detail": "美聯儲（Fed）的下一輪聯邦公開市場委員會（FOMC）貨幣政策決議定於2026年9月16日公佈。"
       },
       {
-        "date": "8/26",
-        "title": "Salesforce (CRM)財報公布",
-        "detail": "企業軟體巨頭Salesforce將公布財報，市場關注其訂閱業務及AI代理平台Agentforce的成長。"
+        "date": "2027年1月起",
+        "title": "川普對加拿大汽車、汽車零部件和鋼鐵加徵關稅",
+        "detail": "美國總統川普威脅稱，自2027年1月起，將對加拿大汽車、汽車零部件和鋼鐵額外徵收50%關稅，這可能對相關產業造成影響。"
       }
     ]
   }
