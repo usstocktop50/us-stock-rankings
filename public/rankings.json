@@ -112,7 +112,7 @@
       "dollarVolume": 7322695298.846274,
       "marketCap": 1818426543412.7498,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "太空科技",
+      "theme": "太空",
       "isNew": false,
       "rankChange": 0,
       "streak": 51
@@ -255,7 +255,7 @@
       "dollarVolume": 3204718159.122417,
       "marketCap": 64044971387.7,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "再生能源",
+      "theme": "潔淨能源",
       "isNew": false,
       "rankChange": 6,
       "streak": 30
@@ -359,7 +359,7 @@
       "dollarVolume": 2637723906.8179607,
       "marketCap": 308315580503.04004,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "投資銀行",
+      "theme": "金融服務",
       "isNew": false,
       "rankChange": 9,
       "streak": 3
@@ -554,7 +554,7 @@
       "dollarVolume": 1832182000.497618,
       "marketCap": 168625558355.76,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "行動通訊晶片",
+      "theme": "通訊晶片",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-08-25T20:00:00.000Z",
-  "generatedAt": "2026-08-26T04:22:10.083Z",
+  "generatedAt": "2026-08-26T05:37:53.531Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "比特幣/加密",
-      "reason": "市場對加密貨幣的興趣持續增長，相關概念股受到資金追捧。",
+      "reason": "市場對加密貨幣的興趣持續增長，帶動相關金融服務和交易平台表現。",
       "symbols": [
         "MSTR",
         "COIN",
@@ -669,7 +669,7 @@
     },
     {
       "theme": "生技製藥",
-      "reason": "特定藥物研發進展或市場需求預期，帶動相關生技製藥公司股價上漲。",
+      "reason": "特定藥物研發進展或市場需求預期，推動相關製藥公司股價上漲。",
       "symbols": [
         "MRNA",
         "MRK"
@@ -679,7 +679,7 @@
     },
     {
       "theme": "AI 晶片",
-      "reason": "AI 技術發展持續推動對高效能晶片的需求，相關供應商表現強勁。",
+      "reason": "人工智慧技術的快速發展持續推動對高效能AI晶片的需求。",
       "symbols": [
         "NVDA",
         "AMD"
@@ -689,7 +689,7 @@
     },
     {
       "theme": "AI 伺服器",
-      "reason": "AI 應用普及帶動伺服器需求，相關供應商受惠。",
+      "reason": "AI應用普及帶動伺服器硬體需求，特別是支援AI運算的高效能伺服器。",
       "symbols": [
         "SMCI",
         "DELL"
@@ -699,7 +699,7 @@
     },
     {
       "theme": "記憶體",
-      "reason": "記憶體市場需求回溫，產品價格預期上漲，推動相關公司股價。",
+      "reason": "記憶體市場需求回溫，特別是HBM等高階記憶體產品前景看好。",
       "symbols": [
         "MU",
         "SKHY"
@@ -709,7 +709,7 @@
     },
     {
       "theme": "儲存裝置",
-      "reason": "數據儲存需求增長，帶動儲存裝置相關公司股價上漲。",
+      "reason": "數據儲存需求增長，以及新技術應用推動儲存裝置相關企業表現。",
       "symbols": [
         "WDC",
         "STX"
@@ -724,56 +724,56 @@
       "name": "Dick's Sporting Goods, Inc.",
       "theme": "零售",
       "changePercent": -30.68086767412034,
-      "reason": "DICK'S Sporting Goods因財報未達預期且下修全年財測，股價大跌。"
+      "reason": "財報未達預期且下修全年財測，加上Foot Locker業務表現不佳，引發股價大跌。"
     },
     {
       "symbol": "INTU",
       "name": "Intuit Inc",
       "theme": "雲端軟體 SaaS",
       "changePercent": -3.3682958477508746,
-      "reason": "Intuit公布第四季度財報優於預期，但2027財年財測保守導致股價下跌。"
+      "reason": "公布優於預期的第四季度財報，但全年營收指引略低於預期，導致股價下跌。"
     },
     {
       "symbol": "NFLX",
       "name": "NetFlix Inc",
       "theme": "串流媒體",
       "changePercent": 2.774653168353954,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "Wolfe Research上調目標價，且考慮提供訂閱其他串流服務，激勵股價上漲。"
     },
     {
       "symbol": "QCOM",
       "name": "Qualcomm Inc",
-      "theme": "行動通訊晶片",
+      "theme": "通訊晶片",
       "changePercent": 1.2805147290733623,
-      "reason": "Qualcomm近期宣布完成收購AI軟體公司Modular，並發布了季度股息。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "SMCI",
       "name": "Super Micro Computer, Inc. Common Stock",
       "theme": "AI 伺服器",
       "changePercent": 9.354563548478815,
-      "reason": "Super Micro Computer完成內部調查，未發現高層涉入違規，且AI伺服器訂單強勁。"
+      "reason": "公布第四季度初步財報，營收預計接近指引低端，但毛利率預計較高。"
     },
     {
       "symbol": "CVX",
       "name": "Chevron Corporation",
       "theme": "石油與天然氣",
       "changePercent": -1.5756561130533344,
-      "reason": "Chevron在安哥拉發現新油氣田，推動股價接近歷史新高。"
+      "reason": "在安哥拉海上新發現油氣，推動股價接近歷史新高。"
     },
     {
       "symbol": "NKE",
       "name": "Nike, Inc.",
       "theme": "運動用品",
       "changePercent": -3.116564417177922,
-      "reason": "Nike股價下跌，受DICK'S Sporting Goods財報不佳影響，市場擔憂運動鞋服前景。"
+      "reason": "受Dick's Sporting Goods財報不佳影響，市場擔憂運動鞋服市場環境。"
     },
     {
       "symbol": "CRCL",
       "name": "Circle Internet Group, Inc.",
       "theme": "比特幣/加密",
       "changePercent": 4.901960784313722,
-      "reason": ""
+      "reason": "公布第二季度財報，總收入和儲備收入增長，並宣布Arc主網將於9月16日上線。"
     }
   ],
   "marketBriefing": {
