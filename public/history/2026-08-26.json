@@ -138,7 +138,7 @@
       "dollarVolume": 6793823182.362874,
       "marketCap": 1691747942606.8198,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網通晶片",
+      "theme": "半導體設備",
       "isNew": false,
       "rankChange": 2,
       "streak": 117
@@ -151,7 +151,7 @@
       "dollarVolume": 6613064855.761303,
       "marketCap": 445082560000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "CPU",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": -2,
       "streak": 117
@@ -190,7 +190,7 @@
       "dollarVolume": 4907786633.909441,
       "marketCap": 408376615897.5,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "大數據分析",
+      "theme": "數據分析軟體",
       "isNew": false,
       "rankChange": 3,
       "streak": 117
@@ -203,7 +203,7 @@
       "dollarVolume": 4163043794.3348355,
       "marketCap": 214422228000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網通晶片",
+      "theme": "資料中心晶片",
       "isNew": false,
       "rankChange": -1,
       "streak": 107
@@ -216,7 +216,7 @@
       "dollarVolume": 4160371416.3512287,
       "marketCap": 84230991000,
       "sector": "COMMUNICATIONS EQUIPMENT, NEC",
-      "theme": "光通訊",
+      "theme": "光通訊元件",
       "isNew": false,
       "rankChange": 8,
       "streak": 35
@@ -463,7 +463,7 @@
       "dollarVolume": 2069442761.7006876,
       "marketCap": 947643378517.5,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "商業銀行",
+      "theme": "金融服務",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -515,7 +515,7 @@
       "dollarVolume": 1815013926.980092,
       "marketCap": 8548730672.639999,
       "sector": "RETAIL-MISCELLANEOUS SHOPPING GOODS STORES",
-      "theme": "運動用品零售",
+      "theme": "體育用品零售",
       "isNew": false,
       "rankChange": -24,
       "streak": 2
@@ -554,7 +554,7 @@
       "dollarVolume": 1708760773.5084713,
       "marketCap": 171944297546.12,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "手機晶片",
+      "theme": "無線通訊晶片",
       "isNew": false,
       "rankChange": 0,
       "streak": 2
@@ -632,7 +632,7 @@
       "dollarVolume": 1552796764.079977,
       "marketCap": 302952203167.68,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "投資銀行",
+      "theme": "金融服務",
       "isNew": false,
       "rankChange": -21,
       "streak": 4
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-08-26T20:00:00.000Z",
-  "generatedAt": "2026-08-27T10:41:10.299Z",
+  "generatedAt": "2026-08-27T13:05:20.782Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "儲存裝置",
-      "reason": "市場對資料儲存需求持續增長，特別是AI和雲端運算帶動的資料量爆炸性成長，推升相關供應商股價。",
+      "reason": "隨著AI與數據中心需求增長，對高效能儲存解決方案的需求持續增加，帶動相關個股表現。",
       "symbols": [
         "SNDK",
         "WDC",
@@ -669,7 +669,7 @@
     },
     {
       "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型趨勢不變，雲端軟體服務持續受青睞，尤其在效率提升和成本優化方面展現價值。",
+      "reason": "企業數位轉型趨勢不變，對雲端軟體服務的需求持續穩健增長，推動相關公司股價。",
       "symbols": [
         "MSFT",
         "ORCL",
@@ -679,37 +679,37 @@
       "avgChange": 1.9455795806620209
     },
     {
-      "theme": "網通晶片",
-      "reason": "AI基礎設施建設對高速網路通訊需求激增，帶動網通晶片供應商的業績預期。",
+      "theme": "半導體",
+      "reason": "儘管部分大型晶片股下跌，但整體半導體產業受惠於AI與新興科技應用，部分個股仍有不錯表現。",
       "symbols": [
-        "MRVL",
-        "AVGO"
+        "MU",
+        "INTC",
+        "MRVL"
       ],
-      "count": 2,
-      "avgChange": 0.8226770770055286
+      "count": 3,
+      "avgChange": 1.1395000227023357
     },
     {
-      "theme": "零售百貨",
-      "reason": "部分零售商因財報表現優異或市場預期消費力道回升而受到資金關注。",
+      "theme": "電子商務",
+      "reason": "全球電商市場持續擴大，尤其在特定節慶或促銷活動帶動下，相關平台與服務商表現亮眼。",
       "symbols": [
-        "ANF",
-        "DKS"
-      ],
-      "count": 2,
-      "avgChange": 19.98934393333293
-    },
-    {
-      "theme": "記憶體",
-      "reason": "HBM和DRAM價格回升，以及AI應用對高頻寬記憶體的需求，使記憶體產業前景看好。",
-      "symbols": [
-        "MU"
+        "BABA"
       ],
       "count": 1,
-      "avgChange": 0.582012283353157
+      "avgChange": 0.32652377762893553
+    },
+    {
+      "theme": "太空",
+      "reason": "太空探索與商業化應用前景廣闊，持續吸引市場關注，相關公司股價有所反應。",
+      "symbols": [
+        "SPCX"
+      ],
+      "count": 1,
+      "avgChange": 1.2178325480246517
     },
     {
       "theme": "電力基礎建設",
-      "reason": "全球能源轉型和AI資料中心對電力需求的增加，使得電力基礎建設相關公司受到市場關注。",
+      "reason": "全球能源轉型與電網升級需求，推動電力基礎建設相關產業發展，獲得市場青睞。",
       "symbols": [
         "GEV"
       ],
@@ -723,19 +723,19 @@
       "name": "CrowdStrike Holdings, Inc. Class A Common Stock",
       "theme": "資安",
       "changePercent": 2.0498435645700783,
-      "reason": "財報與財測優於預期，受AI資安需求帶動，上修全年展望。"
+      "reason": "AI需求帶動，第二季財報優於預期，年度經常性收入創紀錄。"
     },
     {
       "symbol": "ANF",
       "name": "Abercrombie & Fitch Co.",
       "theme": "服飾零售",
       "changePercent": 35.674931129476576,
-      "reason": "第二季財報優於預期，並上調全年營收與獲利展望。"
+      "reason": "第二季營收創紀錄且優於預期，並上調全年財測及股票回購計畫。"
     },
     {
       "symbol": "JPM",
       "name": "JPMorgan Chase & Co.",
-      "theme": "商業銀行",
+      "theme": "金融服務",
       "changePercent": -0.053267543244833813,
       "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
@@ -744,36 +744,87 @@
       "name": "Johnson & Johnson",
       "theme": "生技製藥",
       "changePercent": -1.1495936149959678,
-      "reason": "FDA批准新藥IMAAVY擴大用於治療溫型自體免疫溶血性貧血。"
+      "reason": "FDA批准新藥Imaavy，為罕見疾病提供首個治療方案。"
     },
     {
       "symbol": "BSX",
       "name": "Boston Scientific Corp.",
       "theme": "醫療器材",
       "changePercent": -3.3894905736060923,
-      "reason": "公司揭露遭遇網路攻擊，影響全球營運及訂單處理。"
+      "reason": "公司揭露網路安全事件，影響全球營運，導致股價下跌。"
     },
     {
       "symbol": "NOW",
       "name": "SERVICENOW, INC.",
       "theme": "雲端軟體 SaaS",
       "changePercent": -0.9448818897637817,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "第二季財報表現優異，訂閱收入年增24.5%。"
     },
     {
       "symbol": "COHR",
       "name": "Coherent Corp.",
       "theme": "光學元件",
       "changePercent": 2.162143402512674,
-      "reason": "第四季度財報優於預期，並開始向客戶提供300mm碳化矽基板樣品。"
+      "reason": "第四季財報轉虧為盈，並獲得CHIPS法案資金擴建AI相關設施。"
     },
     {
       "symbol": "IREN",
       "name": "IREN Limited Ordinary Shares",
       "theme": "比特幣/加密",
       "changePercent": -6.230751006870416,
-      "reason": "財報公布前樂觀情緒，以及AI雲端合約與NVIDIA合作進展。"
+      "reason": "AI雲端業務動能強勁，與微軟達成合作並獲NVIDIA認可。"
     }
   ],
-  "marketBriefing": null
+  "marketBriefing": {
+    "highlights": "本日美股成交重點聚焦於半導體與AI相關類股，資金主要受惠於美債殖利率回落以及對AI硬體需求的持續樂觀預期。Nvidia（NVDA）和AMD（AMD）等AI晶片股表現強勁，而記憶體族群如美光（MU）也因AI伺服器記憶體需求增加而受到關注。此外，Meta（META）因達成巨額和解協議，股價也受到提振。市場故事圍繞著AI技術的發展及其對半導體和記憶體產業的帶動作用，以及大型科技公司在法律和產品創新方面的進展。",
+    "eventsPast": [
+      {
+        "title": "Meta達成兒童安全訴訟和解",
+        "detail": "Meta Platforms同意支付高達180億美元，以解決多州對其平台設計導致兒童沉迷的指控，並將對Facebook和Instagram進行重大改革。"
+      },
+      {
+        "title": "美光科技高層人事變動",
+        "detail": "美光科技（MU）宣布晉升兩位高層，以應對AI需求飆升，Manish Bhatia擔任總裁兼營運長，Scott DeBoer擔任總裁兼技術與產品長。"
+      },
+      {
+        "title": "蘋果發表新款Mac mini與Mac Studio",
+        "detail": "蘋果（AAPL）於8月25日發表搭載M6晶片的新款Mac mini和可選配M5 Ultra的Mac Studio，強化AI運算能力。"
+      },
+      {
+        "title": "研調機構看好記憶體產業成長",
+        "detail": "Gartner預測2026年全球半導體營收將成長92%至1.6兆美元，其中記憶體將是主要成長動能，營收可望達8370億美元，並於2027年突破1兆美元。"
+      },
+      {
+        "title": "美國7月消費者物價指數（CPI）公布",
+        "detail": "美國勞工統計局於8月12日公布，7月CPI月增0.1%，年增3.4%，核心CPI年增2.5%。"
+      }
+    ],
+    "eventsUpcoming": [
+      {
+        "date": "8/28",
+        "title": "聯準會主席談話",
+        "detail": "聯準會主席凱文·華許（Kevin Warsh）預計將在懷俄明州杰克遜谷地舉行的年度經濟政策研討會上發表談話，市場關注其對通膨及升息時機的看法。"
+      },
+      {
+        "date": "9/9",
+        "title": "蘋果秋季發表會",
+        "detail": "蘋果（AAPL）預計將於9月9日舉行發表會，市場預期將揭曉iPhone 18 Pro及首款可摺疊iPhone。"
+      },
+      {
+        "date": "9/11",
+        "title": "美國8月消費者物價指數（CPI）公布",
+        "detail": "美國勞工統計局將公布8月份CPI數據，此為評估通膨狀況的重要指標。"
+      },
+      {
+        "date": "9/15-9/16",
+        "title": "FOMC利率決策會議",
+        "detail": "聯邦公開市場委員會（FOMC）將召開利率決策會議，並可能發布經濟預測摘要（SEP），市場關注其對利率政策的決議。"
+      },
+      {
+        "date": "9/30",
+        "title": "美光科技財報",
+        "detail": "美光科技（MU）將於9月30日公布2026財年第四季度財報。"
+      }
+    ]
+  }
 }
