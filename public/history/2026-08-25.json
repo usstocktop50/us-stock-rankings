@@ -151,7 +151,7 @@
       "dollarVolume": 6670000985.0467825,
       "marketCap": 2815875021106.32,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電子商務",
+      "theme": "電商/雲端服務",
       "isNew": false,
       "rankChange": -1,
       "streak": 116
@@ -177,7 +177,7 @@
       "dollarVolume": 5537745990.690042,
       "marketCap": 1257033506555.45,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "社群媒體",
+      "theme": "社群媒體/AI",
       "isNew": false,
       "rankChange": -2,
       "streak": 116
@@ -190,7 +190,7 @@
       "dollarVolume": 5163811699.644668,
       "marketCap": 210284424000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "資料中心晶片",
       "isNew": false,
       "rankChange": 5,
       "streak": 106
@@ -203,7 +203,7 @@
       "dollarVolume": 5087810217.306476,
       "marketCap": 8195994986.24,
       "sector": "RETAIL-MISCELLANEOUS SHOPPING GOODS STORES",
-      "theme": "零售",
+      "theme": "運動用品零售",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -229,7 +229,7 @@
       "dollarVolume": 4291519308.988108,
       "marketCap": 397402213318.17,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "數據分析軟體",
+      "theme": "資料分析軟體",
       "isNew": false,
       "rankChange": -4,
       "streak": 116
@@ -255,7 +255,7 @@
       "dollarVolume": 3204718159.122417,
       "marketCap": 64044971387.7,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "潔淨能源",
+      "theme": "氫能源",
       "isNew": false,
       "rankChange": 6,
       "streak": 30
@@ -294,7 +294,7 @@
       "dollarVolume": 2845328037.0257554,
       "marketCap": 838622381353.9,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售",
+      "theme": "零售百貨",
       "isNew": false,
       "rankChange": -2,
       "streak": 29
@@ -346,7 +346,7 @@
       "dollarVolume": 2663342169.1287975,
       "marketCap": 1161314556807.9001,
       "sector": "PHARMACEUTICAL PREPARATIONS",
-      "theme": "生技製藥",
+      "theme": "減肥藥 GLP-1",
       "isNew": false,
       "rankChange": 9,
       "streak": 68
@@ -359,7 +359,7 @@
       "dollarVolume": 2637723906.8179607,
       "marketCap": 308315580503.04004,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "金融服務",
+      "theme": "投資銀行",
       "isNew": false,
       "rankChange": 9,
       "streak": 3
@@ -541,7 +541,7 @@
       "dollarVolume": 1869156547.6749272,
       "marketCap": 286282584575.6,
       "sector": "—",
-      "theme": "電子商務",
+      "theme": "電商/雲端服務",
       "isNew": false,
       "rankChange": -15,
       "streak": 4
@@ -580,7 +580,7 @@
       "dollarVolume": 1758501823.009929,
       "marketCap": 146680448460,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "AI 伺服器",
+      "theme": "電子電腦",
       "isNew": false,
       "rankChange": -2,
       "streak": 2
@@ -606,7 +606,7 @@
       "dollarVolume": 1640605098.0168443,
       "marketCap": 47459340345.479996,
       "sector": "RUBBER & PLASTICS FOOTWEAR",
-      "theme": "運動用品",
+      "theme": "運動用品零售",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-08-25T20:00:00.000Z",
-  "generatedAt": "2026-08-26T05:37:53.531Z",
+  "generatedAt": "2026-08-27T02:05:10.687Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "比特幣/加密",
-      "reason": "市場對加密貨幣的興趣持續增長，帶動相關金融服務和交易平台表現。",
+      "reason": "市場對加密貨幣的興趣持續增長，帶動相關金融服務和區塊鏈技術公司表現。",
       "symbols": [
         "MSTR",
         "COIN",
@@ -668,18 +668,8 @@
       "avgChange": 4.2019752966881425
     },
     {
-      "theme": "生技製藥",
-      "reason": "特定藥物研發進展或市場需求預期，推動相關製藥公司股價上漲。",
-      "symbols": [
-        "MRNA",
-        "MRK"
-      ],
-      "count": 2,
-      "avgChange": 9.099887774374515
-    },
-    {
       "theme": "AI 晶片",
-      "reason": "人工智慧技術的快速發展持續推動對高效能AI晶片的需求。",
+      "reason": "AI 技術的快速發展持續推動對高效能運算晶片的需求。",
       "symbols": [
         "NVDA",
         "AMD"
@@ -688,18 +678,8 @@
       "avgChange": 3.5519939785552745
     },
     {
-      "theme": "AI 伺服器",
-      "reason": "AI應用普及帶動伺服器硬體需求，特別是支援AI運算的高效能伺服器。",
-      "symbols": [
-        "SMCI",
-        "DELL"
-      ],
-      "count": 2,
-      "avgChange": 6.790673126763704
-    },
-    {
       "theme": "記憶體",
-      "reason": "記憶體市場需求回溫，特別是HBM等高階記憶體產品前景看好。",
+      "reason": "AI 和資料中心需求帶動記憶體市場復甦，相關廠商營收展望樂觀。",
       "symbols": [
         "MU",
         "SKHY"
@@ -709,71 +689,91 @@
     },
     {
       "theme": "儲存裝置",
-      "reason": "數據儲存需求增長，以及新技術應用推動儲存裝置相關企業表現。",
+      "reason": "資料儲存需求增長，加上產業整併預期，推動儲存裝置類股上漲。",
       "symbols": [
         "WDC",
         "STX"
       ],
       "count": 2,
       "avgChange": 3.4652442681237883
+    },
+    {
+      "theme": "生技製藥",
+      "reason": "特定藥物或療法研發進展，以及併購消息持續刺激生技製藥板塊。",
+      "symbols": [
+        "MRNA",
+        "MRK"
+      ],
+      "count": 2,
+      "avgChange": 9.099887774374515
+    },
+    {
+      "theme": "雲端服務",
+      "reason": "企業數位轉型和AI應用擴展，持續推動雲端服務及相關軟體需求。",
+      "symbols": [
+        "NBIS",
+        "META"
+      ],
+      "count": 2,
+      "avgChange": 3.6085193443939136
     }
   ],
   "newEntrants": [
     {
       "symbol": "DKS",
       "name": "Dick's Sporting Goods, Inc.",
-      "theme": "零售",
+      "theme": "運動用品零售",
       "changePercent": -30.68086767412034,
-      "reason": "財報未達預期且下修全年財測，加上Foot Locker業務表現不佳，引發股價大跌。"
+      "reason": "財報未達預期並下修財測，尤其Foot Locker業務表現不佳導致股價大跌。"
     },
     {
       "symbol": "INTU",
       "name": "Intuit Inc",
       "theme": "雲端軟體 SaaS",
       "changePercent": -3.3682958477508746,
-      "reason": "公布優於預期的第四季度財報，但全年營收指引略低於預期，導致股價下跌。"
+      "reason": "財報雖優於預期，但2027財年營收指引疲軟，關鍵業務成長放緩。"
     },
     {
       "symbol": "NFLX",
       "name": "NetFlix Inc",
       "theme": "串流媒體",
       "changePercent": 2.774653168353954,
-      "reason": "Wolfe Research上調目標價，且考慮提供訂閱其他串流服務，激勵股價上漲。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "QCOM",
       "name": "Qualcomm Inc",
       "theme": "通訊晶片",
       "changePercent": 1.2805147290733623,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "高通在德意志銀行科技大會上提出雄心勃勃的AI策略，提振市場信心。"
     },
     {
       "symbol": "SMCI",
       "name": "Super Micro Computer, Inc. Common Stock",
       "theme": "AI 伺服器",
       "changePercent": 9.354563548478815,
-      "reason": "公布第四季度初步財報，營收預計接近指引低端，但毛利率預計較高。"
+      "reason": "AI伺服器需求強勁，獲得巨額訂單，並與思科合作強化AI基礎設施。"
     },
     {
       "symbol": "CVX",
       "name": "Chevron Corporation",
       "theme": "石油與天然氣",
       "changePercent": -1.5756561130533344,
-      "reason": "在安哥拉海上新發現油氣，推動股價接近歷史新高。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "NKE",
       "name": "Nike, Inc.",
-      "theme": "運動用品",
+      "theme": "運動用品零售",
       "changePercent": -3.116564417177922,
-      "reason": "受Dick's Sporting Goods財報不佳影響，市場擔憂運動鞋服市場環境。"
+      "reason": "主要零售夥伴Dick's Sporting Goods財報不佳，引發對運動服飾需求的擔憂。"
     },
     {
       "symbol": "CRCL",
       "name": "Circle Internet Group, Inc.",
       "theme": "比特幣/加密",
       "changePercent": 4.901960784313722,
-      "reason": "公布第二季度財報，總收入和儲備收入增長，並宣布Arc主網將於9月16日上線。"
+      "reason": "銀行考慮推出自己的穩定幣，加劇市場競爭，導致股價下跌。"
     }
   ],
   "marketBriefing": {
