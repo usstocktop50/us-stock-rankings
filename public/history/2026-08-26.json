@@ -151,7 +151,7 @@
       "dollarVolume": 6613064855.761303,
       "marketCap": 445082560000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "半導體製造",
       "isNew": false,
       "rankChange": -2,
       "streak": 117
@@ -190,7 +190,7 @@
       "dollarVolume": 4907786633.909441,
       "marketCap": 408376615897.5,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "數據分析軟體",
+      "theme": "數據分析",
       "isNew": false,
       "rankChange": 3,
       "streak": 117
@@ -203,7 +203,7 @@
       "dollarVolume": 4163043794.3348355,
       "marketCap": 214422228000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "資料中心晶片",
+      "theme": "網路基礎設施",
       "isNew": false,
       "rankChange": -1,
       "streak": 107
@@ -216,7 +216,7 @@
       "dollarVolume": 4160371416.3512287,
       "marketCap": 84230991000,
       "sector": "COMMUNICATIONS EQUIPMENT, NEC",
-      "theme": "光通訊元件",
+      "theme": "光通訊",
       "isNew": false,
       "rankChange": 8,
       "streak": 35
@@ -307,7 +307,7 @@
       "dollarVolume": 2741128030.469509,
       "marketCap": 428815717770,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "資料庫軟體",
+      "theme": "企業軟體",
       "isNew": false,
       "rankChange": 16,
       "streak": 117
@@ -463,7 +463,7 @@
       "dollarVolume": 2069442761.7006876,
       "marketCap": 947643378517.5,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "金融服務",
+      "theme": "商業銀行",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -476,7 +476,7 @@
       "dollarVolume": 1952984135.5614016,
       "marketCap": 650672621190,
       "sector": "PHARMACEUTICAL PREPARATIONS",
-      "theme": "生技製藥",
+      "theme": "醫療保健",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -515,7 +515,7 @@
       "dollarVolume": 1815013926.980092,
       "marketCap": 8548730672.639999,
       "sector": "RETAIL-MISCELLANEOUS SHOPPING GOODS STORES",
-      "theme": "體育用品零售",
+      "theme": "運動用品零售",
       "isNew": false,
       "rankChange": -24,
       "streak": 2
@@ -554,7 +554,7 @@
       "dollarVolume": 1708760773.5084713,
       "marketCap": 171944297546.12,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "無線通訊晶片",
+      "theme": "無線通訊",
       "isNew": false,
       "rankChange": 0,
       "streak": 2
@@ -632,7 +632,7 @@
       "dollarVolume": 1552796764.079977,
       "marketCap": 302952203167.68,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "金融服務",
+      "theme": "投資銀行",
       "isNew": false,
       "rankChange": -21,
       "streak": 4
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-08-26T20:00:00.000Z",
-  "generatedAt": "2026-08-27T13:05:20.782Z",
+  "generatedAt": "2026-08-27T16:12:54.167Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "儲存裝置",
-      "reason": "隨著AI與數據中心需求增長，對高效能儲存解決方案的需求持續增加，帶動相關個股表現。",
+      "reason": "隨著數據量的爆炸性增長，對高效能儲存解決方案的需求持續增加，帶動相關公司表現。",
       "symbols": [
         "SNDK",
         "WDC",
@@ -669,52 +669,49 @@
     },
     {
       "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型趨勢不變，對雲端軟體服務的需求持續穩健增長，推動相關公司股價。",
+      "reason": "企業數位轉型趨勢不減，雲端軟體服務持續受到青睞，提升營運效率。",
       "symbols": [
         "MSFT",
-        "ORCL",
+        "CRM"
+      ],
+      "count": 2,
+      "avgChange": 0.456840643747221
+    },
+    {
+      "theme": "資安",
+      "reason": "網路攻擊日益頻繁，企業對資安防護的投入增加，推動資安解決方案供應商的成長。",
+      "symbols": [
         "CRWD"
       ],
-      "count": 3,
-      "avgChange": 1.9455795806620209
-    },
-    {
-      "theme": "半導體",
-      "reason": "儘管部分大型晶片股下跌，但整體半導體產業受惠於AI與新興科技應用，部分個股仍有不錯表現。",
-      "symbols": [
-        "MU",
-        "INTC",
-        "MRVL"
-      ],
-      "count": 3,
-      "avgChange": 1.1395000227023357
-    },
-    {
-      "theme": "電子商務",
-      "reason": "全球電商市場持續擴大，尤其在特定節慶或促銷活動帶動下，相關平台與服務商表現亮眼。",
-      "symbols": [
-        "BABA"
-      ],
       "count": 1,
-      "avgChange": 0.32652377762893553
-    },
-    {
-      "theme": "太空",
-      "reason": "太空探索與商業化應用前景廣闊，持續吸引市場關注，相關公司股價有所反應。",
-      "symbols": [
-        "SPCX"
-      ],
-      "count": 1,
-      "avgChange": 1.2178325480246517
+      "avgChange": 2.0498435645700783
     },
     {
       "theme": "電力基礎建設",
-      "reason": "全球能源轉型與電網升級需求，推動電力基礎建設相關產業發展，獲得市場青睞。",
+      "reason": "全球能源轉型與電網現代化需求，使得電力基礎建設相關企業受到市場關注。",
       "symbols": [
         "GEV"
       ],
       "count": 1,
       "avgChange": 2.8444099144303103
+    },
+    {
+      "theme": "服飾零售",
+      "reason": "特定服飾品牌因財報利好或市場趨勢，展現強勁的銷售增長。",
+      "symbols": [
+        "ANF"
+      ],
+      "count": 1,
+      "avgChange": 35.674931129476576
+    },
+    {
+      "theme": "光通訊",
+      "reason": "5G、數據中心和AI發展對高速光通訊技術的需求不斷提升，帶動相關產業鏈。",
+      "symbols": [
+        "LITE"
+      ],
+      "count": 1,
+      "avgChange": 6.037388559845964
     }
   ],
   "newEntrants": [
@@ -723,56 +720,56 @@
       "name": "CrowdStrike Holdings, Inc. Class A Common Stock",
       "theme": "資安",
       "changePercent": 2.0498435645700783,
-      "reason": "AI需求帶動，第二季財報優於預期，年度經常性收入創紀錄。"
+      "reason": "第二季財報優於預期，年度經常性收入成長指引上調，AI資安需求強勁。"
     },
     {
       "symbol": "ANF",
       "name": "Abercrombie & Fitch Co.",
       "theme": "服飾零售",
       "changePercent": 35.674931129476576,
-      "reason": "第二季營收創紀錄且優於預期，並上調全年財測及股票回購計畫。"
+      "reason": "第二季財報亮眼，營收創紀錄，並獲1億美元關稅退稅，上調全年財測。"
     },
     {
       "symbol": "JPM",
       "name": "JPMorgan Chase & Co.",
-      "theme": "金融服務",
+      "theme": "商業銀行",
       "changePercent": -0.053267543244833813,
       "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "JNJ",
       "name": "Johnson & Johnson",
-      "theme": "生技製藥",
+      "theme": "醫療保健",
       "changePercent": -1.1495936149959678,
-      "reason": "FDA批准新藥Imaavy，為罕見疾病提供首個治療方案。"
+      "reason": "FDA批准新藥Imaavy，為首個治療溫型自體免疫溶血性貧血的藥物。"
     },
     {
       "symbol": "BSX",
       "name": "Boston Scientific Corp.",
       "theme": "醫療器材",
       "changePercent": -3.3894905736060923,
-      "reason": "公司揭露網路安全事件，影響全球營運，導致股價下跌。"
+      "reason": "公司揭露網路安全事件影響全球營運，且有產品召回，引發投資人擔憂。"
     },
     {
       "symbol": "NOW",
       "name": "SERVICENOW, INC.",
       "theme": "雲端軟體 SaaS",
       "changePercent": -0.9448818897637817,
-      "reason": "第二季財報表現優異，訂閱收入年增24.5%。"
+      "reason": "第二季財報優於預期，AI業務年合約價值突破10億美元。"
     },
     {
       "symbol": "COHR",
       "name": "Coherent Corp.",
       "theme": "光學元件",
       "changePercent": 2.162143402512674,
-      "reason": "第四季財報轉虧為盈，並獲得CHIPS法案資金擴建AI相關設施。"
+      "reason": "第四季財報強勁，並開始向客戶提供300mm碳化矽基板用於AI基礎設施。"
     },
     {
       "symbol": "IREN",
       "name": "IREN Limited Ordinary Shares",
       "theme": "比特幣/加密",
       "changePercent": -6.230751006870416,
-      "reason": "AI雲端業務動能強勁，與微軟達成合作並獲NVIDIA認可。"
+      "reason": "受惠於AI基礎設施轉型，獲28億美元AI雲端合約，並獲NVIDIA認可。"
     }
   ],
   "marketBriefing": {
