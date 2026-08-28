@@ -190,7 +190,7 @@
       "dollarVolume": 4907786633.909441,
       "marketCap": 408376615897.5,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "數據分析",
+      "theme": "大數據分析",
       "isNew": false,
       "rankChange": 3,
       "streak": 117
@@ -203,7 +203,7 @@
       "dollarVolume": 4163043794.3348355,
       "marketCap": 214422228000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網路基礎設施",
+      "theme": "資料中心晶片",
       "isNew": false,
       "rankChange": -1,
       "streak": 107
@@ -216,7 +216,7 @@
       "dollarVolume": 4160371416.3512287,
       "marketCap": 84230991000,
       "sector": "COMMUNICATIONS EQUIPMENT, NEC",
-      "theme": "光通訊",
+      "theme": "光通訊元件",
       "isNew": false,
       "rankChange": 8,
       "streak": 35
@@ -385,7 +385,7 @@
       "dollarVolume": 2363263647.695015,
       "marketCap": 650463352952.4,
       "sector": "PETROLEUM REFINING",
-      "theme": "石油天然氣",
+      "theme": "石油與天然氣",
       "isNew": false,
       "rankChange": -6,
       "streak": 9
@@ -450,7 +450,7 @@
       "dollarVolume": 2069921942.8415174,
       "marketCap": 150682891704.8,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "電子電腦",
+      "theme": "電腦硬體",
       "isNew": false,
       "rankChange": 10,
       "streak": 3
@@ -463,7 +463,7 @@
       "dollarVolume": 2069442761.7006876,
       "marketCap": 947643378517.5,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "商業銀行",
+      "theme": "銀行",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -476,7 +476,7 @@
       "dollarVolume": 1952984135.5614016,
       "marketCap": 650672621190,
       "sector": "PHARMACEUTICAL PREPARATIONS",
-      "theme": "醫療保健",
+      "theme": "生技製藥",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -554,7 +554,7 @@
       "dollarVolume": 1708760773.5084713,
       "marketCap": 171944297546.12,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "無線通訊",
+      "theme": "無線通訊晶片",
       "isNew": false,
       "rankChange": 0,
       "streak": 2
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-08-26T20:00:00.000Z",
-  "generatedAt": "2026-08-27T16:12:54.167Z",
+  "generatedAt": "2026-08-28T02:05:06.707Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "儲存裝置",
-      "reason": "隨著數據量的爆炸性增長，對高效能儲存解決方案的需求持續增加，帶動相關公司表現。",
+      "reason": "隨著資料量持續增長，對高效能儲存解決方案的需求推動了相關公司的股價上漲。",
       "symbols": [
         "SNDK",
         "WDC",
@@ -669,49 +669,51 @@
     },
     {
       "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型趨勢不減，雲端軟體服務持續受到青睞，提升營運效率。",
+      "reason": "企業數位轉型趨勢不減，雲端軟體服務持續受到市場青睞，帶動相關個股表現。",
       "symbols": [
         "MSFT",
-        "CRM"
-      ],
-      "count": 2,
-      "avgChange": 0.456840643747221
-    },
-    {
-      "theme": "資安",
-      "reason": "網路攻擊日益頻繁，企業對資安防護的投入增加，推動資安解決方案供應商的成長。",
-      "symbols": [
+        "ORCL",
         "CRWD"
       ],
-      "count": 1,
-      "avgChange": 2.0498435645700783
+      "count": 3,
+      "avgChange": 1.9455795806620209
     },
     {
-      "theme": "電力基礎建設",
-      "reason": "全球能源轉型與電網現代化需求，使得電力基礎建設相關企業受到市場關注。",
+      "theme": "零售百貨",
+      "reason": "部分零售商因財報或市場預期改善而獲得資金關注，顯示消費市場仍有亮點。",
       "symbols": [
-        "GEV"
+        "ANF",
+        "DKS"
+      ],
+      "count": 2,
+      "avgChange": 19.98934393333293
+    },
+    {
+      "theme": "AI 晶片",
+      "reason": "儘管部分龍頭股回檔，但市場對AI晶片的需求前景依然樂觀，部分個股仍有表現。",
+      "symbols": [
+        "AMD"
       ],
       "count": 1,
-      "avgChange": 2.8444099144303103
+      "avgChange": 0.3652072290162361
     },
     {
-      "theme": "服飾零售",
-      "reason": "特定服飾品牌因財報利好或市場趨勢，展現強勁的銷售增長。",
-      "symbols": [
-        "ANF"
-      ],
-      "count": 1,
-      "avgChange": 35.674931129476576
-    },
-    {
-      "theme": "光通訊",
-      "reason": "5G、數據中心和AI發展對高速光通訊技術的需求不斷提升，帶動相關產業鏈。",
+      "theme": "光通訊元件",
+      "reason": "隨著5G和資料中心建設的推進，對高速光通訊元件的需求持續增長。",
       "symbols": [
         "LITE"
       ],
       "count": 1,
       "avgChange": 6.037388559845964
+    },
+    {
+      "theme": "電力基礎建設",
+      "reason": "全球能源轉型和電網現代化需求，使得電力基礎建設相關公司受到關注。",
+      "symbols": [
+        "GEV"
+      ],
+      "count": 1,
+      "avgChange": 2.8444099144303103
     }
   ],
   "newEntrants": [
@@ -720,107 +722,107 @@
       "name": "CrowdStrike Holdings, Inc. Class A Common Stock",
       "theme": "資安",
       "changePercent": 2.0498435645700783,
-      "reason": "第二季財報優於預期，年度經常性收入成長指引上調，AI資安需求強勁。"
+      "reason": "財報優於預期，上調財測，且AI威脅增加資安需求。"
     },
     {
       "symbol": "ANF",
       "name": "Abercrombie & Fitch Co.",
       "theme": "服飾零售",
       "changePercent": 35.674931129476576,
-      "reason": "第二季財報亮眼，營收創紀錄，並獲1億美元關稅退稅，上調全年財測。"
+      "reason": "財報獲利遠超預期，上調全年財測，並獲1億美元關稅退款。"
     },
     {
       "symbol": "JPM",
       "name": "JPMorgan Chase & Co.",
-      "theme": "商業銀行",
+      "theme": "銀行",
       "changePercent": -0.053267543244833813,
       "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "JNJ",
       "name": "Johnson & Johnson",
-      "theme": "醫療保健",
+      "theme": "生技製藥",
       "changePercent": -1.1495936149959678,
-      "reason": "FDA批准新藥Imaavy，為首個治療溫型自體免疫溶血性貧血的藥物。"
+      "reason": "FDA批准新藥IMAAVY治療罕見血液病，拓展市場。"
     },
     {
       "symbol": "BSX",
       "name": "Boston Scientific Corp.",
       "theme": "醫療器材",
       "changePercent": -3.3894905736060923,
-      "reason": "公司揭露網路安全事件影響全球營運，且有產品召回，引發投資人擔憂。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "NOW",
       "name": "SERVICENOW, INC.",
       "theme": "雲端軟體 SaaS",
       "changePercent": -0.9448818897637817,
-      "reason": "第二季財報優於預期，AI業務年合約價值突破10億美元。"
+      "reason": "Salesforce財報利好帶動企業軟體股上漲，AI動能強勁。"
     },
     {
       "symbol": "COHR",
       "name": "Coherent Corp.",
       "theme": "光學元件",
       "changePercent": 2.162143402512674,
-      "reason": "第四季財報強勁，並開始向客戶提供300mm碳化矽基板用於AI基礎設施。"
+      "reason": "財報轉虧為盈，並開始出樣300mm碳化矽基板用於AI晶片。"
     },
     {
       "symbol": "IREN",
       "name": "IREN Limited Ordinary Shares",
       "theme": "比特幣/加密",
       "changePercent": -6.230751006870416,
-      "reason": "受惠於AI基礎設施轉型，獲28億美元AI雲端合約，並獲NVIDIA認可。"
+      "reason": "財報發布，儘管有減值損失，但AI雲端業務展望積極。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於半導體與AI相關類股，資金主要受惠於美債殖利率回落以及對AI硬體需求的持續樂觀預期。Nvidia（NVDA）和AMD（AMD）等AI晶片股表現強勁，而記憶體族群如美光（MU）也因AI伺服器記憶體需求增加而受到關注。此外，Meta（META）因達成巨額和解協議，股價也受到提振。市場故事圍繞著AI技術的發展及其對半導體和記憶體產業的帶動作用，以及大型科技公司在法律和產品創新方面的進展。",
+    "highlights": "本日美股成交重點聚焦於AI晶片、社群媒體和儲存裝置等科技類股，資金主要流向受惠於AI需求增長的公司。Nvidia因其強勁的財報和對AI產業的樂觀展望，成為市場關注的焦點，儘管盤中下跌，盤後仍大幅上漲。Meta則因與多州達成社群媒體成癮訴訟和解而受到市場關注。此外，記憶體和儲存裝置類股也因AI帶動的需求而表現活躍。",
     "eventsPast": [
       {
-        "title": "Meta達成兒童安全訴訟和解",
-        "detail": "Meta Platforms同意支付高達180億美元，以解決多州對其平台設計導致兒童沉迷的指控，並將對Facebook和Instagram進行重大改革。"
+        "title": "Nvidia財報優於預期，AI需求加速",
+        "detail": "Nvidia公布2027財年第二季度營收達962億美元，年增106%，超出華爾街預期，並預計2028財年營收將增長約70%，顯示AI基礎設施建置需求強勁。"
       },
       {
-        "title": "美光科技高層人事變動",
-        "detail": "美光科技（MU）宣布晉升兩位高層，以應對AI需求飆升，Manish Bhatia擔任總裁兼營運長，Scott DeBoer擔任總裁兼技術與產品長。"
+        "title": "Meta達成社群媒體成癮訴訟和解",
+        "detail": "Meta同意支付高達170億美元，並將對Facebook和Instagram平台進行改革，以解決多州對其產品導致兒童成癮的指控。"
       },
       {
-        "title": "蘋果發表新款Mac mini與Mac Studio",
-        "detail": "蘋果（AAPL）於8月25日發表搭載M6晶片的新款Mac mini和可選配M5 Ultra的Mac Studio，強化AI運算能力。"
+        "title": "美光科技高層人事調整以應對AI需求",
+        "detail": "美光科技(MU)晉升兩位高階主管，分別擔任營運長和技術與產品長，以應對AI帶來的記憶體和資料儲存需求激增。"
       },
       {
-        "title": "研調機構看好記憶體產業成長",
-        "detail": "Gartner預測2026年全球半導體營收將成長92%至1.6兆美元，其中記憶體將是主要成長動能，營收可望達8370億美元，並於2027年突破1兆美元。"
+        "title": "蘋果發表新一代Mac產品並預告摺疊iPhone",
+        "detail": "蘋果(AAPL)發表了搭載M6晶片的Mac mini和可選配M5 Ultra的Mac Studio，並預計在9月9日（台灣時間9月10日）發表會上推出新款iPhone系列，可能包含首款摺疊手機。"
       },
       {
-        "title": "美國7月消費者物價指數（CPI）公布",
-        "detail": "美國勞工統計局於8月12日公布，7月CPI月增0.1%，年增3.4%，核心CPI年增2.5%。"
+        "title": "特斯拉否認上海資料中心傳聞，加速自動駕駛招聘",
+        "detail": "特斯拉(TSLA)否認了關於其上海資料中心閒置的謠言，並表示正在加速自動駕駛職位的招聘，所有相關計畫都在穩步推進。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "8/28",
-        "title": "聯準會主席談話",
-        "detail": "聯準會主席凱文·華許（Kevin Warsh）預計將在懷俄明州杰克遜谷地舉行的年度經濟政策研討會上發表談話，市場關注其對通膨及升息時機的看法。"
+        "date": "9/2",
+        "title": "Broadcom公布2026財年第三季度財報",
+        "detail": "Broadcom (AVGO)將於9月2日公布財報，市場關注其AI半導體營收目標是否會上調。"
       },
       {
         "date": "9/9",
-        "title": "蘋果秋季發表會",
-        "detail": "蘋果（AAPL）預計將於9月9日舉行發表會，市場預期將揭曉iPhone 18 Pro及首款可摺疊iPhone。"
+        "title": "蘋果新品發表會",
+        "detail": "蘋果(AAPL)預計將於9月9日舉行新品發表會，外界預期將推出全新一代iPhone系列，並可能發表萬眾矚目的摺疊手機。"
       },
       {
-        "date": "9/11",
-        "title": "美國8月消費者物價指數（CPI）公布",
-        "detail": "美國勞工統計局將公布8月份CPI數據，此為評估通膨狀況的重要指標。"
-      },
-      {
-        "date": "9/15-9/16",
-        "title": "FOMC利率決策會議",
-        "detail": "聯邦公開市場委員會（FOMC）將召開利率決策會議，並可能發布經濟預測摘要（SEP），市場關注其對利率政策的決議。"
+        "date": "9/24",
+        "title": "特斯拉Semi卡車發表會",
+        "detail": "特斯拉(TSLA)預計於9月24日舉行Semi卡車發表會，市場關注其自動駕駛卡車的進展。"
       },
       {
         "date": "9/30",
-        "title": "美光科技財報",
-        "detail": "美光科技（MU）將於9月30日公布2026財年第四季度財報。"
+        "title": "美光科技公布2026財年第四季度財報",
+        "detail": "美光科技(MU)將於9月30日舉行2026財年第四季度財報電話會議。"
+      },
+      {
+        "date": "本週",
+        "title": "美國重要經濟數據公布",
+        "detail": "本週將公布美國7月PCE指數、美國Q2 GDP修正值、美國7月耐久財訂單等數據，可能影響聯準會的貨幣政策決策。"
       }
     ]
   }
