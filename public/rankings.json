@@ -86,7 +86,7 @@
       "dollarVolume": 10164373114.545273,
       "marketCap": 4591037144400,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "消費性電子",
+      "theme": "消費電子",
       "isNew": false,
       "rankChange": -2,
       "streak": 118
@@ -99,7 +99,7 @@
       "dollarVolume": 9913110191.752617,
       "marketCap": 211220460000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網通晶片",
+      "theme": "半導體網路通訊",
       "isNew": false,
       "rankChange": 8,
       "streak": 108
@@ -125,7 +125,7 @@
       "dollarVolume": 9155903727.91305,
       "marketCap": 464501960000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "CPU 晶片",
       "isNew": false,
       "rankChange": 2,
       "streak": 118
@@ -151,7 +151,7 @@
       "dollarVolume": 7966031284.787155,
       "marketCap": 1998934199999.9998,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "網路服務",
+      "theme": "網路搜尋",
       "isNew": false,
       "rankChange": -3,
       "streak": 118
@@ -164,7 +164,7 @@
       "dollarVolume": 7858603530.939576,
       "marketCap": 1767631346764.9202,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網通晶片",
+      "theme": "半導體網路通訊",
       "isNew": false,
       "rankChange": -2,
       "streak": 118
@@ -177,7 +177,7 @@
       "dollarVolume": 7820005011.171128,
       "marketCap": 778151878270.14,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "AI 晶片",
+      "theme": "CPU/GPU 晶片",
       "isNew": false,
       "rankChange": -4,
       "streak": 118
@@ -190,7 +190,7 @@
       "dollarVolume": 7753255032.585823,
       "marketCap": 1856917340852.1501,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "太空",
+      "theme": "太空科技",
       "isNew": false,
       "rankChange": -7,
       "streak": 53
@@ -216,7 +216,7 @@
       "dollarVolume": 6055187082.4795065,
       "marketCap": 1866523170000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "網路服務",
+      "theme": "網路搜尋",
       "isNew": false,
       "rankChange": -3,
       "streak": 118
@@ -268,7 +268,7 @@
       "dollarVolume": 4558818453.428756,
       "marketCap": 437658763740,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體 SaaS",
+      "theme": "資料庫軟體",
       "isNew": false,
       "rankChange": 3,
       "streak": 118
@@ -294,7 +294,7 @@
       "dollarVolume": 3888824413.5720143,
       "marketCap": 85765758000,
       "sector": "COMMUNICATIONS EQUIPMENT, NEC",
-      "theme": "光通訊",
+      "theme": "光通訊元件",
       "isNew": false,
       "rankChange": -6,
       "streak": 36
@@ -398,7 +398,7 @@
       "dollarVolume": 3031961480.269825,
       "marketCap": 427746417487.05,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "金融服務",
+      "theme": "銀行",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -450,7 +450,7 @@
       "dollarVolume": 2571008763.8039923,
       "marketCap": 64156891779.18,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "能源技術",
+      "theme": "燃料電池",
       "isNew": false,
       "rankChange": -9,
       "streak": 32
@@ -476,7 +476,7 @@
       "dollarVolume": 2481941243.2514625,
       "marketCap": 173057545502.38,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "行動通訊晶片",
+      "theme": "手機晶片",
       "isNew": false,
       "rankChange": 6,
       "streak": 3
@@ -606,7 +606,7 @@
       "dollarVolume": 1879028213.5665162,
       "marketCap": 114937124999.99998,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體 SaaS",
+      "theme": "創意軟體",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -619,7 +619,7 @@
       "dollarVolume": 1847750313.0952084,
       "marketCap": 941582713992.9,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "金融服務",
+      "theme": "銀行",
       "isNew": false,
       "rankChange": -12,
       "streak": 2
@@ -632,7 +632,7 @@
       "dollarVolume": 1840180216.370867,
       "marketCap": 89016823399.25,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "半導體設計軟體",
+      "theme": "EDA 軟體",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -645,35 +645,20 @@
       "dollarVolume": 1831758088.792987,
       "marketCap": 45830125689.83,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體 SaaS",
+      "theme": "生命科學雲端軟體",
       "isNew": true,
       "rankChange": null,
       "streak": 1
     }
   ],
   "asOf": "2026-08-27T20:00:00.000Z",
-  "generatedAt": "2026-08-28T14:38:40.064Z",
+  "generatedAt": "2026-08-28T17:13:31.303Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
-      "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型需求持續，雲端軟體服務商財報表現亮眼，帶動板塊整體上漲。",
-      "symbols": [
-        "CRM",
-        "MSFT",
-        "PLTR",
-        "ORCL",
-        "NOW",
-        "ADBE",
-        "VEEV"
-      ],
-      "count": 7,
-      "avgChange": 8.87336853223702
-    },
-    {
       "theme": "資安",
-      "reason": "網路攻擊事件頻傳，企業對資安防護需求提升，相關軟體服務商獲市場青睞。",
+      "reason": "網路安全需求持續增長，企業對資料保護和威脅防禦的投資不斷增加，帶動資安軟體公司業績表現。",
       "symbols": [
         "CRWD",
         "PANW",
@@ -683,17 +668,19 @@
       "avgChange": 20.65501703360114
     },
     {
-      "theme": "AI 晶片",
-      "reason": "人工智慧發展加速，對高效能運算晶片需求持續增長，相關供應商受惠。",
+      "theme": "雲端軟體 SaaS",
+      "reason": "企業數位轉型趨勢不減，對雲端應用和軟體服務的需求強勁，推動相關SaaS公司營收成長。",
       "symbols": [
-        "NVDA"
+        "MSFT",
+        "CRM",
+        "NOW"
       ],
-      "count": 1,
-      "avgChange": 8.7379566917867
+      "count": 3,
+      "avgChange": 11.45698135435393
     },
     {
       "theme": "比特幣/加密",
-      "reason": "比特幣價格波動吸引市場關注，相關概念股隨之表現。",
+      "reason": "加密貨幣市場情緒回暖，比特幣價格波動吸引資金關注相關概念股。",
       "symbols": [
         "MSTR",
         "IREN"
@@ -702,23 +689,31 @@
       "avgChange": 6.967614658024862
     },
     {
-      "theme": "半導體設備",
-      "reason": "半導體產業景氣復甦預期，帶動設備投資需求。",
+      "theme": "AI 晶片",
+      "reason": "人工智慧技術快速發展，對高效能AI晶片的需求持續爆發，Nvidia作為市場領導者表現強勁。",
       "symbols": [
-        "AMAT",
-        "LRCX"
+        "NVDA"
       ],
-      "count": 2,
-      "avgChange": 1.181861172638651
+      "count": 1,
+      "avgChange": 8.7379566917867
     },
     {
-      "theme": "網通晶片",
-      "reason": "資料中心與網路基礎建設升級需求，推動網通晶片市場成長。",
+      "theme": "半導體網路通訊",
+      "reason": "網路基礎設施升級和數據中心建設推動對高速通訊晶片的需求，Broadcom受惠於此趨勢。",
       "symbols": [
         "AVGO"
       ],
       "count": 1,
       "avgChange": 4.4855029669000945
+    },
+    {
+      "theme": "EDA 軟體",
+      "reason": "半導體設計複雜度提升，對電子設計自動化(EDA)軟體的需求日益增加，Synopsys作為產業龍頭表現亮眼。",
+      "symbols": [
+        "SNPS"
+      ],
+      "count": 1,
+      "avgChange": 13.387804878048778
     }
   ],
   "newEntrants": [
@@ -732,16 +727,16 @@
     {
       "symbol": "BAC",
       "name": "Bank of America Corporation",
-      "theme": "金融服務",
+      "theme": "銀行",
       "changePercent": -1.703358508757826,
-      "reason": "聯準會資本要求疑慮與SEC調查對沖基金貸款，抵銷AI計畫效益。"
+      "reason": "受惠於債券殖利率下降、投資銀行活動增加及AI效率提升等利好消息。"
     },
     {
       "symbol": "OKTA",
       "name": "Okta, Inc. Class A Common Stock",
       "theme": "資安",
       "changePercent": 28.634131825621196,
-      "reason": "第二季財報優於預期並上調全年財測，AI身份安全需求強勁。"
+      "reason": "第二季度財報優於預期並上調全年財測，AI安全產品需求強勁。"
     },
     {
       "symbol": "COST",
@@ -755,26 +750,26 @@
       "name": "Lam Research Corp",
       "theme": "半導體設備",
       "changePercent": 1.8217847097928883,
-      "reason": "宣布季度股息增加27%，並將擴大全球實驗室網路投資AI晶片研發。"
+      "reason": "宣布調高季度股息27%並擴大研發實驗室投資，以加速AI時代半導體發展。"
     },
     {
       "symbol": "ADBE",
       "name": "Adobe Inc.",
-      "theme": "雲端軟體 SaaS",
+      "theme": "創意軟體",
       "changePercent": 5.73371850660034,
-      "reason": "AI產品營收成長強勁，企業軟體產業情緒好轉。"
+      "reason": "受惠於企業軟體產業利好、AI產品營收成長及Salesforce財報亮眼。"
     },
     {
       "symbol": "SNPS",
       "name": "Synopsys Inc",
-      "theme": "半導體設計軟體",
+      "theme": "EDA 軟體",
       "changePercent": 13.387804878048778,
-      "reason": "第三季財報優於預期並上調全年財測，受AI晶片設計軟體需求加速。"
+      "reason": "第三季度財報營收及EPS超預期，並上調全年財測，受AI驅動需求強勁。"
     },
     {
       "symbol": "VEEV",
       "name": "Veeva Systems Inc.",
-      "theme": "雲端軟體 SaaS",
+      "theme": "生命科學雲端軟體",
       "changePercent": 15.197419460209874,
       "reason": "第二季財報獲利成長超出預期，Vault CRM與AI產品進展良好。"
     }
