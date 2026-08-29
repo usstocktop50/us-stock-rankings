@@ -86,7 +86,7 @@
       "dollarVolume": 10164373114.545273,
       "marketCap": 4591037144400,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "消費電子",
+      "theme": "消費性電子",
       "isNew": false,
       "rankChange": -2,
       "streak": 118
@@ -99,7 +99,7 @@
       "dollarVolume": 9913110191.752617,
       "marketCap": 211220460000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體網路通訊",
+      "theme": "資料中心晶片",
       "isNew": false,
       "rankChange": 8,
       "streak": 108
@@ -125,7 +125,7 @@
       "dollarVolume": 9155903727.91305,
       "marketCap": 464501960000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "CPU 晶片",
+      "theme": "半導體製造",
       "isNew": false,
       "rankChange": 2,
       "streak": 118
@@ -151,7 +151,7 @@
       "dollarVolume": 7966031284.787155,
       "marketCap": 1998934199999.9998,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "網路搜尋",
+      "theme": "網路服務",
       "isNew": false,
       "rankChange": -3,
       "streak": 118
@@ -164,7 +164,7 @@
       "dollarVolume": 7858603530.939576,
       "marketCap": 1767631346764.9202,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體網路通訊",
+      "theme": "資料中心晶片",
       "isNew": false,
       "rankChange": -2,
       "streak": 118
@@ -177,7 +177,7 @@
       "dollarVolume": 7820005011.171128,
       "marketCap": 778151878270.14,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "CPU/GPU 晶片",
+      "theme": "AI 晶片",
       "isNew": false,
       "rankChange": -4,
       "streak": 118
@@ -216,7 +216,7 @@
       "dollarVolume": 6055187082.4795065,
       "marketCap": 1866523170000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "網路搜尋",
+      "theme": "網路服務",
       "isNew": false,
       "rankChange": -3,
       "streak": 118
@@ -268,7 +268,7 @@
       "dollarVolume": 4558818453.428756,
       "marketCap": 437658763740,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "資料庫軟體",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": 3,
       "streak": 118
@@ -476,7 +476,7 @@
       "dollarVolume": 2481941243.2514625,
       "marketCap": 173057545502.38,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "手機晶片",
+      "theme": "行動通訊晶片",
       "isNew": false,
       "rankChange": 6,
       "streak": 3
@@ -502,7 +502,7 @@
       "dollarVolume": 2174464593.35926,
       "marketCap": 153424825226.4,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "電子電腦",
+      "theme": "電腦硬體",
       "isNew": false,
       "rankChange": -4,
       "streak": 4
@@ -606,7 +606,7 @@
       "dollarVolume": 1879028213.5665162,
       "marketCap": 114937124999.99998,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "創意軟體",
+      "theme": "雲端軟體 SaaS",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -632,7 +632,7 @@
       "dollarVolume": 1840180216.370867,
       "marketCap": 89016823399.25,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "EDA 軟體",
+      "theme": "半導體設計軟體",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -645,20 +645,36 @@
       "dollarVolume": 1831758088.792987,
       "marketCap": 45830125689.83,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "生命科學雲端軟體",
+      "theme": "雲端軟體 SaaS",
       "isNew": true,
       "rankChange": null,
       "streak": 1
     }
   ],
   "asOf": "2026-08-27T20:00:00.000Z",
-  "generatedAt": "2026-08-28T17:13:31.303Z",
+  "generatedAt": "2026-08-29T02:05:25.728Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
+      "theme": "雲端軟體 SaaS",
+      "reason": "企業數位轉型需求持續推動雲端軟體服務的成長，尤其在AI整合應用方面。",
+      "symbols": [
+        "MSFT",
+        "CRM",
+        "PLTR",
+        "ORCL",
+        "NOW",
+        "ADBE",
+        "SNPS",
+        "VEEV"
+      ],
+      "count": 8,
+      "avgChange": 9.43767307546349
+    },
+    {
       "theme": "資安",
-      "reason": "網路安全需求持續增長，企業對資料保護和威脅防禦的投資不斷增加，帶動資安軟體公司業績表現。",
+      "reason": "網路攻擊事件頻傳，企業對網路安全防護的需求日益增加，資安解決方案供應商受惠。",
       "symbols": [
         "CRWD",
         "PANW",
@@ -668,19 +684,18 @@
       "avgChange": 20.65501703360114
     },
     {
-      "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型趨勢不減，對雲端應用和軟體服務的需求強勁，推動相關SaaS公司營收成長。",
+      "theme": "AI 晶片",
+      "reason": "人工智慧技術的快速發展，帶動對高效能AI晶片的需求持續爆發。",
       "symbols": [
-        "MSFT",
-        "CRM",
-        "NOW"
+        "NVDA",
+        "INTC"
       ],
-      "count": 3,
-      "avgChange": 11.45698135435393
+      "count": 2,
+      "avgChange": 6.550528663209764
     },
     {
       "theme": "比特幣/加密",
-      "reason": "加密貨幣市場情緒回暖，比特幣價格波動吸引資金關注相關概念股。",
+      "reason": "加密貨幣市場情緒回暖，相關概念股受到資金追捧。",
       "symbols": [
         "MSTR",
         "IREN"
@@ -689,17 +704,8 @@
       "avgChange": 6.967614658024862
     },
     {
-      "theme": "AI 晶片",
-      "reason": "人工智慧技術快速發展，對高效能AI晶片的需求持續爆發，Nvidia作為市場領導者表現強勁。",
-      "symbols": [
-        "NVDA"
-      ],
-      "count": 1,
-      "avgChange": 8.7379566917867
-    },
-    {
-      "theme": "半導體網路通訊",
-      "reason": "網路基礎設施升級和數據中心建設推動對高速通訊晶片的需求，Broadcom受惠於此趨勢。",
+      "theme": "資料中心晶片",
+      "reason": "雲端運算和AI應用的擴張，推升資料中心基礎設施對高效能晶片的需求。",
       "symbols": [
         "AVGO"
       ],
@@ -707,13 +713,13 @@
       "avgChange": 4.4855029669000945
     },
     {
-      "theme": "EDA 軟體",
-      "reason": "半導體設計複雜度提升，對電子設計自動化(EDA)軟體的需求日益增加，Synopsys作為產業龍頭表現亮眼。",
+      "theme": "晶圓代工",
+      "reason": "全球半導體需求回升，晶圓代工廠訂單能見度提升。",
       "symbols": [
-        "SNPS"
+        "TSM"
       ],
       "count": 1,
-      "avgChange": 13.387804878048778
+      "avgChange": 2.300749359572892
     }
   ],
   "newEntrants": [
@@ -729,14 +735,14 @@
       "name": "Bank of America Corporation",
       "theme": "銀行",
       "changePercent": -1.703358508757826,
-      "reason": "受惠於債券殖利率下降、投資銀行活動增加及AI效率提升等利好消息。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "OKTA",
       "name": "Okta, Inc. Class A Common Stock",
       "theme": "資安",
       "changePercent": 28.634131825621196,
-      "reason": "第二季度財報優於預期並上調全年財測，AI安全產品需求強勁。"
+      "reason": "第二季財報優於預期，上調全年財測，AI資安需求強勁。"
     },
     {
       "symbol": "COST",
@@ -750,79 +756,59 @@
       "name": "Lam Research Corp",
       "theme": "半導體設備",
       "changePercent": 1.8217847097928883,
-      "reason": "宣布調高季度股息27%並擴大研發實驗室投資，以加速AI時代半導體發展。"
+      "reason": "宣布投資30億美元擴大AI半導體實驗室網絡，並提高股息。"
     },
     {
       "symbol": "ADBE",
       "name": "Adobe Inc.",
-      "theme": "創意軟體",
+      "theme": "雲端軟體 SaaS",
       "changePercent": 5.73371850660034,
-      "reason": "受惠於企業軟體產業利好、AI產品營收成長及Salesforce財報亮眼。"
+      "reason": "企業軟體領域受AI驅動，Firefly等AI產品營收成長。"
     },
     {
       "symbol": "SNPS",
       "name": "Synopsys Inc",
-      "theme": "EDA 軟體",
+      "theme": "半導體設計軟體",
       "changePercent": 13.387804878048778,
-      "reason": "第三季度財報營收及EPS超預期，並上調全年財測，受AI驅動需求強勁。"
+      "reason": "第三季財報營收獲利均優於預期，上調全年財測。"
     },
     {
       "symbol": "VEEV",
       "name": "Veeva Systems Inc.",
-      "theme": "生命科學雲端軟體",
+      "theme": "雲端軟體 SaaS",
       "changePercent": 15.197419460209874,
-      "reason": "第二季財報獲利成長超出預期，Vault CRM與AI產品進展良好。"
+      "reason": "第二季財報優於預期，上調全年財測，AI產品需求強勁。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點集中在AI晶片和雲端軟體SaaS兩大題材。Nvidia（NVDA）和Salesforce（CRM）分別以8.74%和22.58%的漲幅，以及高達676億和137億美元的成交金額，成為當日資金追逐的焦點。市場主要在交易AI需求持續強勁的故事，Nvidia的財報和對未來成長的預期，以及Salesforce在雲端軟體領域的表現，都顯示出資金對這些高成長科技股的信心。",
+    "highlights": "本日美股成交重點聚焦於AI晶片與雲端軟體SaaS兩大族群。Nvidia (NVDA) 受惠於強勁的財報與樂觀的財測，營收翻倍成長並預估2028財年營收成長率高達70%，帶動股價狂飆近9%，成為成交金額最高的個股，顯示市場對AI基礎設施的需求依然旺盛。雲端軟體SaaS族群則因Salesforce (CRM) 財報亮眼，股價大漲超過22%，同時資安相關的雲端軟體公司如CrowdStrike (CRWD) 和Okta (OKTA) 也因AI資安需求井噴而業績超預期，進一步推升了市場對企業軟體AI變現能力的信心。然而，聯準會主席華許的鷹派發言，暗示升息可能，為整體市場帶來些許賣壓，尤其影響了加密貨幣相關概念股。",
     "eventsPast": [
       {
-        "title": "Nvidia (NVDA) 公布亮眼財報與樂觀財測",
-        "detail": "Nvidia於2026年8月26日公布第二季財報，營收達962億美元，年增106%，數據中心營收年增117%，並預期2027財年營收將成長70%，顯示AI需求異常強勁。"
+        "title": "Nvidia (NVDA) 財報與財測強勁",
+        "detail": "Nvidia 公布第二季營收與獲利雙雙擊敗市場預期，營收年增翻倍，並預估2028財年營收成長率高達70%，帶動股價狂飆近9%。"
       },
       {
-        "title": "Marvell Technology (MRVL) 財報符合預期並上調財測",
-        "detail": "Marvell Technology於2026年8月27日公布2027會計年度第二季財報，業績符合分析師預期，並上調年度財測，儘管盤後股價一度重挫，但公司強調AI相關產品需求「異常強勁」，資料中心產品組合表現全面強勁。"
+        "title": "Salesforce (CRM) 財報亮眼",
+        "detail": "Salesforce 公布優於預期的財報，帶動股價大漲超過22%。"
       },
       {
-        "title": "Intel (INTC) 第二季營收成長25%，AI需求帶動資料中心業務",
-        "detail": "Intel於2026年7月23日公布2026年第二季財報，營收年增25%，資料中心與AI部門營收年增59%，顯示AI需求對其業務的強勁拉動作用。"
+        "title": "CrowdStrike (CRWD) 財報超預期",
+        "detail": "資安大廠CrowdStrike 最新一季財報表現優異，新增年度經常性收入（NNARR）大幅成長51%，並調升全年營收預測，股價狂飆逾17%。"
       },
       {
-        "title": "Meta Platforms (META) 第二季營收成長28%，AI加速核心業務",
-        "detail": "Meta Platforms於2026年7月29日公布第二季財報，營收年增28%，執行長祖克柏表示AI正在加速其核心業務並推動新一代產品發展。"
+        "title": "Okta (OKTA) 業績超出預期",
+        "detail": "Okta 第二季度營收和調整後EPS均超市場預期，並上調全年營收目標，股價跳漲近23%。"
       },
       {
-        "title": "Broadcom (AVGO) 第二季營收創新高，AI半導體解決方案成長加速",
-        "detail": "Broadcom在2026年第二季實現創紀錄的營收、營業利潤和自由現金流，主要受AI半導體解決方案收入加速增長和強勁的營運槓桿推動。"
+        "title": "聯準會主席華許發表鷹派言論",
+        "detail": "聯準會主席華許在傑克森霍爾全球央行年會上表示抗擊通膨的戰役尚未結束，暗示升息可能，導致美股面臨賣壓，加密貨幣相關概念股走跌。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "9/01",
-        "title": "8月ISM製造業PMI公布",
-        "detail": "此數據將反映美國製造業的景氣狀況，可能影響市場對經濟前景的判斷。"
-      },
-      {
-        "date": "9/01",
-        "title": "Dell (DELL) 財報",
-        "detail": "戴爾的財報將提供PC市場和企業IT支出的最新資訊。"
-      },
-      {
-        "date": "9/02",
-        "title": "Broadcom (AVGO) 財報",
-        "detail": "Broadcom的財報將提供網通晶片和AI半導體解決方案的最新業績和展望。"
-      },
-      {
-        "date": "9/10",
-        "title": "8月生產者物價指數 (PPI) 公布",
-        "detail": "此數據將反映生產者層面的物價變動，是評估通膨壓力的重要指標。"
-      },
-      {
-        "date": "9/10",
-        "title": "Adobe (ADBE) 財報",
-        "detail": "Adobe的財報將提供雲端軟體SaaS領域的最新業績和展望。"
+        "date": "9/2",
+        "title": "博通 (AVGO) 財報",
+        "detail": "市場關注博通在財報中能否準時實現16億美元的AI晶片季收入目標。"
       }
     ]
   }
