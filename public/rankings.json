@@ -99,7 +99,7 @@
       "dollarVolume": 10789230322.546833,
       "marketCap": 189499176000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "資料中心晶片",
+      "theme": "網通晶片",
       "isNew": false,
       "rankChange": 0,
       "streak": 109
@@ -190,7 +190,7 @@
       "dollarVolume": 6140323918.871716,
       "marketCap": 1754548001220.4202,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網路通訊晶片",
+      "theme": "網通晶片",
       "isNew": false,
       "rankChange": -2,
       "streak": 119
@@ -398,7 +398,7 @@
       "dollarVolume": 2451241341.6008687,
       "marketCap": 62077528716.420006,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "氫能源",
+      "theme": "潔淨能源",
       "isNew": false,
       "rankChange": 4,
       "streak": 33
@@ -489,7 +489,7 @@
       "dollarVolume": 2084189138.496909,
       "marketCap": 435788078106.8,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "銀行",
+      "theme": "商業銀行",
       "isNew": false,
       "rankChange": -7,
       "streak": 2
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-08-28T20:00:00.000Z",
-  "generatedAt": "2026-08-29T07:34:31.735Z",
+  "generatedAt": "2026-08-29T09:21:59.710Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型需求持續推動雲端軟體服務的增長，市場對其未來盈利能力保持樂觀。",
+      "reason": "企業數位轉型需求持續增長，雲端軟體服務提供商的營收展望樂觀。",
       "symbols": [
         "MSFT",
         "CRM",
@@ -670,7 +670,7 @@
     },
     {
       "theme": "網路服務",
-      "reason": "廣告市場復甦與AI技術整合應用，持續提升網路服務巨頭的營收預期。",
+      "reason": "數位廣告市場復甦以及AI技術整合，提升了網路服務巨頭的獲利預期。",
       "symbols": [
         "GOOGL",
         "GOOG"
@@ -679,17 +679,8 @@
       "avgChange": 1.6373122617339506
     },
     {
-      "theme": "數位支付",
-      "reason": "全球電子商務與數位交易的普及，支撐數位支付服務提供商的業務成長。",
-      "symbols": [
-        "V"
-      ],
-      "count": 1,
-      "avgChange": 0.5109835115629768
-    },
-    {
       "theme": "電子商務",
-      "reason": "消費者線上購物習慣的養成，持續為電子商務平台帶來穩定的營收。",
+      "reason": "消費者支出保持韌性，加上Prime會員日等促銷活動，帶動電子商務巨頭的銷售增長。",
       "symbols": [
         "AMZN"
       ],
@@ -698,7 +689,7 @@
     },
     {
       "theme": "消費性電子",
-      "reason": "新產品發表與市場對未來銷售的預期，帶動消費性電子龍頭股價上漲。",
+      "reason": "市場對新產品發布的期待，以及服務業務的持續增長，支撐了消費性電子龍頭的股價。",
       "symbols": [
         "AAPL"
       ],
@@ -707,12 +698,21 @@
     },
     {
       "theme": "社群媒體",
-      "reason": "廣告收入增長及用戶參與度提升，使社群媒體平台表現穩健。",
+      "reason": "廣告收入回升和用戶參與度提高，推動社群媒體平台的業績表現。",
       "symbols": [
         "META"
       ],
       "count": 1,
       "avgChange": 1.2116967256172226
+    },
+    {
+      "theme": "串流媒體",
+      "reason": "訂閱用戶增長和內容策略奏效，使得串流媒體平台表現強勁。",
+      "symbols": [
+        "NFLX"
+      ],
+      "count": 1,
+      "avgChange": 2.3547094188376696
     }
   ],
   "newEntrants": [
@@ -721,64 +721,115 @@
       "name": "Affirm Holdings, Inc. Class A Common Stock",
       "theme": "金融科技",
       "changePercent": 0.34843205574914216,
-      "reason": "獲利創歷史新高，高層換血佈局，且2027財年獲利展望大幅上修。"
+      "reason": "受惠於強勁的第四季財報及獲利能力，儘管漲幅不大，但市場對其業務轉型持正面看法。"
     },
     {
       "symbol": "ASML",
       "name": "ASML Holding NV",
       "theme": "半導體設備",
       "changePercent": -2.2391801776358586,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "近期受高頻寬記憶體和先進光刻技術關注，但估值偏高，導致股價下跌。"
     },
     {
       "symbol": "APP",
       "name": "Applovin Corporation Class A Common Stock",
       "theme": "行動廣告",
       "changePercent": 1.6409173783705964,
-      "reason": "第二季營收雖未達預期，但市場認為股價超賣而反彈。"
+      "reason": "近期期權交易量異常增加，分析師給予「買入」評級，但股價下跌。"
     },
     {
       "symbol": "PYPL",
       "name": "PayPal Holdings, Inc. Common Stock",
       "theme": "數位支付",
       "changePercent": -12.705384740523836,
-      "reason": "與併購公司Advent及Stripe的收購談判破局，引發賣壓。"
+      "reason": "因收購談判破裂，導致股價大跌，市場對其獨立營運能力產生疑慮。"
     },
     {
       "symbol": "PCG",
       "name": "PG&E Corporation",
       "theme": "電力公用事業",
       "changePercent": -7.520891364902495,
-      "reason": "加州立法者阻擋州長野火保險計畫，導致股價下跌。"
+      "reason": "加州野火責任保護立法受阻，導致股價大幅下跌。"
     },
     {
       "symbol": "COIN",
       "name": "Coinbase Global, Inc. Class A Common Stock",
       "theme": "比特幣/加密",
       "changePercent": -6.3338926174496715,
-      "reason": "Coinbase溢價重現，暗示美股比特幣需求強勁反彈。"
+      "reason": "儘管交易量下降，但付費會員數創新高，CEO對比特幣前景看好。"
     },
     {
       "symbol": "WDAY",
       "name": "Workday, Inc. Class A Common Stock",
       "theme": "雲端軟體 SaaS",
       "changePercent": 5.760190112104151,
-      "reason": "公布優於預期的財報，AI平台快速採用，並調升財測。"
+      "reason": "第二季財報優於預期，並宣布40億美元庫藏股計畫，AI產品動能強勁。"
     },
     {
       "symbol": "KLAC",
       "name": "KLA Corporation Common Stock",
       "theme": "半導體設備",
       "changePercent": -4.47842411710291,
-      "reason": "半導體資本設備股普遍賣壓，估值過高引發獲利了結。"
+      "reason": "受惠於AI基礎設施和先進封裝投資增加，但股價被認為被高估。"
     },
     {
       "symbol": "GEV",
       "name": "GE Vernova Inc.",
       "theme": "電力基礎建設",
       "changePercent": -4.392816329953984,
-      "reason": "宣布計畫進行財務長人事交接，引發市場不確定性。"
+      "reason": "宣布新任CFO人選，以及推出新型中壓UPS，但風電業務虧損導致股價下跌。"
     }
   ],
-  "marketBriefing": null
+  "marketBriefing": {
+    "highlights": "本日美股成交重點聚焦於AI晶片、雲端軟體SaaS及部分消費性電子類股。Nvidia (NVDA) 儘管下跌，但仍以高成交金額領跑，顯示市場對AI產業的關注度不減，但可能存在獲利了結壓力。Salesforce (CRM) 和Microsoft (MSFT) 等雲端軟體股表現強勁，受惠於AI合作夥伴關係和企業對AI基礎建設投資的擴散。然而，聯準會主席的鷹派發言，使得市場對9月升息的預期升溫，導致半導體族群普遍承壓，費城半導體指數下跌。",
+    "eventsPast": [
+      {
+        "title": "Nvidia財報優於預期，AI需求擴散",
+        "detail": "Nvidia公布的最新財報顯示營收、獲利與財測全面優於預期，特別是資料中心營收強勁增長，且AI投資正從少數大型雲端業者擴散至AI新創、企業與實體AI應用，顯示AI基礎建設仍處於快速擴張階段。"
+      },
+      {
+        "title": "Salesforce財報亮眼，擴大AI合作",
+        "detail": "Salesforce公布優於預期的第二季財報，並宣布擴大與AI新創Anthropic的合作關係，帶動股價大漲。"
+      },
+      {
+        "title": "Marvell Technology財測上調，股價仍重挫",
+        "detail": "Marvell Technology公布的第二季財報符合預期並上調年度財測，但因市場對Google客製化AI晶片短期貢獻不如預期，盤後股價仍重挫逾7%。"
+      },
+      {
+        "title": "聯準會主席華許發表鷹派言論",
+        "detail": "聯準會主席華許在全球央行年會上釋出偏鷹訊號，重申抗通膨決心，推高市場對9月升息的預期，導致美股四大指數全面收黑，費城半導體指數重挫。"
+      },
+      {
+        "title": "川普考慮對晶片產品課徵新關稅",
+        "detail": "有報導指出，川普當局正在評估對搭載晶片的產品（如筆電、遊戲主機、伺服器等）課徵新一輪的全面性關稅，可能對消費性電子廠商營運造成衝擊。"
+      }
+    ],
+    "eventsUpcoming": [
+      {
+        "date": "9/2 ~ 9/4",
+        "title": "SEMICON Taiwan 2026 國際半導體展",
+        "detail": "此展會將聚焦矽光子與先進封裝等核心技術路線，預計將吸引超過10萬名專業人士，並揭示量子運算從學術實驗室走向實際商業應用的發展路徑，對半導體產業鏈具有重要影響。"
+      },
+      {
+        "date": "9/4",
+        "title": "美國8月非農就業報告 (NFP)",
+        "detail": "市場預期8月新增職位4.5萬個，失業率維持4.2%。此數據將左右聯準會9月的利率決策，若數據顯示就業市場持續降溫，可能減輕升息壓力。"
+      },
+      {
+        "date": "9/7 (美國勞動節後)",
+        "title": "Anthropic IPO招股說明書公布",
+        "detail": "據知情人士透露，AI公司Anthropic計劃在美國勞動節（9月7日）後公布其IPO招股說明書，並可能在9月下旬或10月初在美上市。"
+      },
+      {
+        "date": "9/10",
+        "title": "美國8月生產者物價指數 (PPI)",
+        "detail": "此數據將反映製造業投入成本的通膨情況。若8月份價格指數再度飆升，市場將擔憂供應鏈通膨死灰復燃；反之，若持續下滑，將強化聯準會採取更寬鬆政策的可能性。"
+      },
+      {
+        "date": "9/17",
+        "title": "聯準會利率決策會議",
+        "detail": "聯準會將在此會議上決定是否升息，此決策將受到近期經濟數據（特別是就業和通膨數據）的影響，並對市場資金走向產生重大牽動。"
+      }
+    ]
+  }
 }
