@@ -6,7 +6,7 @@
       "price": 217.55,
       "changePercent": -4.574962716027713,
       "dollarVolume": 43168297562.20116,
-      "marketCap": 5264710000000,
+      "marketCap": 5242955000000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
       "theme": "AI 晶片",
       "isNew": false,
@@ -123,7 +123,7 @@
       "price": 256,
       "changePercent": 1.5671493751239787,
       "dollarVolume": 8886997142.273247,
-      "marketCap": 209664000000,
+      "marketCap": 210688000000,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
       "theme": "雲端軟體 SaaS",
       "isNew": false,
@@ -279,7 +279,7 @@
       "price": 35.45,
       "changePercent": -12.53392548729336,
       "dollarVolume": 3244205242.343921,
-      "marketCap": 12669073993.300001,
+      "marketCap": 13969379071.6,
       "sector": "FINANCE SERVICES",
       "theme": "比特幣/加密",
       "isNew": false,
@@ -292,7 +292,7 @@
       "price": 218.4,
       "changePercent": -4.1937181961747685,
       "dollarVolume": 3190053063.0380588,
-      "marketCap": 55596956688,
+      "marketCap": 223627369492.80002,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
       "theme": "資安",
       "isNew": false,
@@ -385,7 +385,7 @@
       "dollarVolume": 2451469060.741206,
       "marketCap": 711057756305,
       "sector": "FIRE, MARINE & CASUALTY INSURANCE",
-      "theme": "多元控股",
+      "theme": "綜合保險",
       "isNew": false,
       "rankChange": -1,
       "streak": 2
@@ -398,7 +398,7 @@
       "dollarVolume": 2451241341.6008687,
       "marketCap": 62077528716.420006,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "氫能源",
+      "theme": "燃料電池",
       "isNew": false,
       "rankChange": 4,
       "streak": 33
@@ -409,7 +409,7 @@
       "price": 77.76,
       "changePercent": 0.34843205574914216,
       "dollarVolume": 2411357515.1757946,
-      "marketCap": 22889262605.760002,
+      "marketCap": 23085541365.120003,
       "sector": "PERSONAL CREDIT INSTITUTIONS",
       "theme": "金融科技",
       "isNew": true,
@@ -489,7 +489,7 @@
       "dollarVolume": 2084189138.496909,
       "marketCap": 435788078106.8,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "銀行",
+      "theme": "商業銀行",
       "isNew": false,
       "rankChange": -7,
       "streak": 2
@@ -567,7 +567,7 @@
       "dollarVolume": 1827030297.9258077,
       "marketCap": 148220349513.6,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "電腦硬體",
+      "theme": "電子電腦",
       "isNew": false,
       "rankChange": -5,
       "streak": 5
@@ -617,7 +617,7 @@
       "price": 204.72,
       "changePercent": 5.760190112104151,
       "dollarVolume": 1763364078.211553,
-      "marketCap": 41148720000,
+      "marketCap": 40125120000,
       "sector": "SERVICES-COMPUTER PROCESSING & DATA PREPARATION",
       "theme": "雲端軟體 SaaS",
       "isNew": true,
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-08-28T20:00:00.000Z",
-  "generatedAt": "2026-08-29T11:39:13.318Z",
+  "generatedAt": "2026-09-01T02:05:09.579Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型需求持續推動雲端軟體服務的增長，市場對其未來獲利能力保持樂觀。",
+      "reason": "企業數位轉型趨勢持續，對雲端軟體服務的需求穩健增長，帶動相關公司表現。",
       "symbols": [
         "MSFT",
         "CRM",
@@ -670,7 +670,7 @@
     },
     {
       "theme": "網路服務",
-      "reason": "廣告收入和雲端業務的穩定增長，支撐了大型網路服務公司的股價表現。",
+      "reason": "廣告業務復甦及AI技術整合應用前景看好，支撐大型網路服務公司的股價。",
       "symbols": [
         "GOOGL",
         "GOOG"
@@ -680,7 +680,7 @@
     },
     {
       "theme": "數位支付",
-      "reason": "全球電子支付普及率不斷提高，推動相關服務商的交易量和營收成長。",
+      "reason": "全球數位支付普及率提升，交易量持續增長，有利於支付平台業者。",
       "symbols": [
         "V"
       ],
@@ -689,7 +689,7 @@
     },
     {
       "theme": "電子商務",
-      "reason": "消費者線上購物習慣的養成，持續為電子商務巨頭帶來穩定的營收增長。",
+      "reason": "消費者線上購物習慣鞏固，電商巨頭持續擴大市場份額。",
       "symbols": [
         "AMZN"
       ],
@@ -698,7 +698,7 @@
     },
     {
       "theme": "消費性電子",
-      "reason": "市場對新產品發布和服務收入增長的預期，提振了消費性電子龍頭的表現。",
+      "reason": "市場對新產品發布的期待以及穩定的用戶基礎，支撐了消費性電子龍頭的表現。",
       "symbols": [
         "AAPL"
       ],
@@ -707,7 +707,7 @@
     },
     {
       "theme": "社群媒體",
-      "reason": "廣告業務復甦和用戶參與度提升，為社群媒體平台帶來正向動能。",
+      "reason": "廣告收入回升及元宇宙等新興技術的發展潛力，吸引資金關注。",
       "symbols": [
         "META"
       ],
@@ -721,7 +721,7 @@
       "name": "Affirm Holdings, Inc. Class A Common Stock",
       "theme": "金融科技",
       "changePercent": 0.34843205574914216,
-      "reason": "發布優於預期的2026財年第四季財報，營收成長33%並創下最盈利季度。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "ASML",
@@ -742,28 +742,28 @@
       "name": "PayPal Holdings, Inc. Common Stock",
       "theme": "數位支付",
       "changePercent": -12.705384740523836,
-      "reason": "Stripe和Advent放棄對PayPal的收購要約，結束潛在出售談判。"
+      "reason": "第一季財報優於預期，但維持全年盈利預測不變，引發市場波動。"
     },
     {
       "symbol": "PCG",
       "name": "PG&E Corporation",
       "theme": "電力公用事業",
       "changePercent": -7.520891364902495,
-      "reason": "加州議會否決州長提案，未能保護公用事業免受野火保險索賠。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "COIN",
       "name": "Coinbase Global, Inc. Class A Common Stock",
       "theme": "比特幣/加密",
       "changePercent": -6.3338926174496715,
-      "reason": "CEO對比特幣前景看好，預測2030年可能達到40萬美元。"
+      "reason": "比特幣價格波動及ETF審批不確定性影響。"
     },
     {
       "symbol": "WDAY",
       "name": "Workday, Inc. Class A Common Stock",
       "theme": "雲端軟體 SaaS",
       "changePercent": 5.760190112104151,
-      "reason": "發布2027財年第二季財報，AI產品帶來超過1億美元新年度合約價值。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "KLAC",
@@ -777,58 +777,43 @@
       "name": "GE Vernova Inc.",
       "theme": "電力基礎建設",
       "changePercent": -4.392816329953984,
-      "reason": "宣布新的財務長任命，並與LS Electric成立高壓直流輸電合資企業。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI晶片、雲端軟體SaaS和記憶體族群。Nvidia (NVDA) 儘管財報表現亮眼，但股價仍下跌，顯示市場對AI晶片估值存在疑慮，資金流向有分化現象。Salesforce (CRM) 受惠於優於預期的財報及與AI新創Anthropic的合作，帶動雲端軟體SaaS族群走強。記憶體族群則因Nvidia證實記憶體漲價超乎預期，且願意支付更高價格，使得美光 (MU) 等記憶體股受到關注，但也有分析師對其漲價邏輯提出質疑，導致股價波動。",
+    "highlights": "本日美股成交重點聚焦於AI晶片、記憶體、雲端軟體SaaS、電子商務和社群媒體等科技巨頭。Nvidia強勁的財報和對AI需求的樂觀展望，帶動了AI相關個股的資金流入，儘管其股價在財報後有所回落，但仍顯示市場對AI領域的長期看好。Salesforce優於預期的財報和與AI新創公司的合作，也推動了雲端軟體SaaS族群的表現。整體而言，市場仍在交易AI帶來的成長故事，但對個別公司的長期營收展望和資本支出回報仍保持審慎態度。",
     "eventsPast": [
       {
-        "title": "Nvidia財報優於預期，但股價下跌",
-        "detail": "Nvidia (NVDA) 公布的最新財報與長期展望遠超市場預期，但股價仍下跌4.57%，可能反映市場對AI晶片估值過高及部分獲利了結的疑慮。"
+        "title": "Nvidia 第二季財報亮眼",
+        "detail": "Nvidia 公布2027財年第二季營收達962億美元，年增106%，數據中心營收年增117%，並預計AI需求將持續加速。"
       },
       {
-        "title": "Salesforce財報亮眼，SaaS族群受提振",
-        "detail": "Salesforce (CRM) 公布優於預期的第二季財報，並宣布擴大與AI新創Anthropic的合作關係，股價大漲22%，帶動雲端軟體SaaS類股走強。"
+        "title": "Salesforce 第二季財報超預期",
+        "detail": "Salesforce 公布2027財年第二季財報優於預期，營收年增10%，並宣布擴大與AI新創Anthropic的合作關係，帶動股價大漲。"
       },
       {
-        "title": "Marvell Technology上調財測，股價仍重挫",
-        "detail": "Marvell Technology (MRVL) 公布符合預期的財報並上調年度財測，但股價盤後一度重挫逾7%，市場可能擔憂其與Google合作案的營收認列時程。"
+        "title": "Marvell Technology 財報符合預期但展望未顯著上調",
+        "detail": "Marvell Technology 2026財年第二季營收和每股收益均超預期，但長期營收展望未顯著上調，導致盤後股價一度重挫。"
       },
       {
-        "title": "Nvidia證實記憶體漲價，美光等記憶體股受關注",
-        "detail": "Nvidia財務長表示記憶體市場極端定價狀況，漲幅超出預期且明年將進一步走高，Nvidia仍將持續加碼採購，激勵美光 (MU) 等記憶體大廠股價走揚。"
+        "title": "SpaceX 營收預期上調",
+        "detail": "馬斯克預估SpaceX年營收有望在2033年達到3.5兆美元，較摩根士丹利預估提早7年，提振股價。"
       },
       {
-        "title": "美國非農就業基準變動初值不及預期",
-        "detail": "美國2026年非農就業基準變動初值為-7.9萬人，低於市場預期的18.3萬人，可能影響聯準會未來的貨幣政策決策。"
+        "title": "聯準會主席對通膨發表評論",
+        "detail": "聯準會主席Kevin Warsh在傑克遜霍爾會議上表示通膨仍處於高位，加息仍在考慮之中，導致週五主要股指收低。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "本週五",
-        "title": "聯準會主席華許發表演講",
-        "detail": "聯準會主席凱文·沃什將在傑克遜霍爾全球央行年會上發表首次演講，市場關注其對通膨和利率政策的看法，可能影響市場對9月升息的預期。"
-      },
-      {
-        "date": "下週",
-        "title": "美國8月非農就業報告",
-        "detail": "市場將密切關注美國8月非農就業人數，以判斷就業市場是否持續轉弱或恢復成長，這將是聯準會評估升息路徑的重要依據。"
-      },
-      {
         "date": "9/2",
-        "title": "Broadcom (AVGO) 財報",
-        "detail": "Broadcom (AVGO) 將於9月2日公布財報，其業績表現將考驗AI行情能否延燒至其他網通晶片股。"
+        "title": "Broadcom 公布2026財年第三季財報",
+        "detail": "Broadcom (AVGO) 將於市場收盤後公布2026財年第三季財報，分析師預計每股收益為3.24美元，營收為294.3億美元。"
       },
       {
-        "date": "9/9",
-        "title": "Oracle (ORCL) 財報",
-        "detail": "Oracle (ORCL) 將於9月9日公布財報，作為雲端軟體SaaS領域的重要公司，其財報將提供該產業的最新動態。"
-      },
-      {
-        "date": "9月下旬或10月初",
-        "title": "Anthropic IPO",
-        "detail": "AI新創公司Anthropic計劃在美國勞動節（9月7日）後公布IPO招股說明書，並可能在9月下旬或10月初在美上市，這將是AI領域的重要事件。"
+        "date": "9/30",
+        "title": "Micron Technology 公布2026財年第四季財報",
+        "detail": "Micron Technology (MU) 將於9月30日公布2026財年第四季財報。"
       }
     ]
   }
