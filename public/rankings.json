@@ -99,7 +99,7 @@
       "dollarVolume": 11362135474.98433,
       "marketCap": 1991305800000.0002,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "雲端服務",
+      "theme": "搜尋引擎/雲端",
       "isNew": false,
       "rankChange": 3,
       "streak": 120
@@ -125,7 +125,7 @@
       "dollarVolume": 8117498634.4418125,
       "marketCap": 1761922250527.3198,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體設備與設計",
+      "theme": "半導體設備",
       "isNew": false,
       "rankChange": 5,
       "streak": 120
@@ -138,7 +138,7 @@
       "dollarVolume": 7783783810.205564,
       "marketCap": 1853811070000.0002,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "雲端服務",
+      "theme": "搜尋引擎/雲端",
       "isNew": false,
       "rankChange": 5,
       "streak": 120
@@ -164,7 +164,7 @@
       "dollarVolume": 5856587815.058858,
       "marketCap": 451488440000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "CPU 晶片",
       "isNew": false,
       "rankChange": -1,
       "streak": 120
@@ -203,7 +203,7 @@
       "dollarVolume": 5008631708.764892,
       "marketCap": 185160168000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體設備與設計",
+      "theme": "半導體設備",
       "isNew": false,
       "rankChange": -8,
       "streak": 110
@@ -216,7 +216,7 @@
       "dollarVolume": 4830941243.219256,
       "marketCap": 428806950259.02,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "大數據/AI 軟體",
+      "theme": "數據分析軟體",
       "isNew": false,
       "rankChange": 0,
       "streak": 120
@@ -281,7 +281,7 @@
       "dollarVolume": 3538117458.077487,
       "marketCap": 1088895957797.4501,
       "sector": "PHARMACEUTICAL PREPARATIONS",
-      "theme": "減肥藥 GLP-1",
+      "theme": "生技製藥",
       "isNew": false,
       "rankChange": 4,
       "streak": 72
@@ -333,7 +333,7 @@
       "dollarVolume": 2945798596.7571154,
       "marketCap": 661812229962,
       "sector": "PETROLEUM REFINING",
-      "theme": "石油與天然氣",
+      "theme": "石油天然氣",
       "isNew": false,
       "rankChange": 20,
       "streak": 12
@@ -385,7 +385,7 @@
       "dollarVolume": 2830249641.236895,
       "marketCap": 363777131896.77,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體設備與設計",
+      "theme": "半導體設備",
       "isNew": false,
       "rankChange": -5,
       "streak": 85
@@ -450,7 +450,7 @@
       "dollarVolume": 2585551248.8466086,
       "marketCap": 709691962198.83,
       "sector": "FIRE, MARINE & CASUALTY INSURANCE",
-      "theme": "綜合保險",
+      "theme": "多元控股",
       "isNew": false,
       "rankChange": -5,
       "streak": 3
@@ -489,7 +489,7 @@
       "dollarVolume": 2480883563.2344112,
       "marketCap": 407285490422.36,
       "sector": "PETROLEUM REFINING",
-      "theme": "石油與天然氣",
+      "theme": "石油天然氣",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -528,7 +528,7 @@
       "dollarVolume": 2360661682.2972465,
       "marketCap": 98006327960.84999,
       "sector": "ROLLING DRAWING & EXTRUDING OF NONFERROUS METALS",
-      "theme": "航空航太材料",
+      "theme": "航太材料",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -593,7 +593,7 @@
       "dollarVolume": 2161130129.8922076,
       "marketCap": 179043878852.08,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "無線通訊晶片",
+      "theme": "通訊晶片",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -645,20 +645,20 @@
       "dollarVolume": 2100035573.4905875,
       "marketCap": 132828447682.26001,
       "sector": "GOLD AND SILVER ORES",
-      "theme": "貴金屬礦業",
+      "theme": "貴金屬",
       "isNew": true,
       "rankChange": null,
       "streak": 1
     }
   ],
   "asOf": "2026-08-31T20:00:00.000Z",
-  "generatedAt": "2026-09-01T05:49:18.002Z",
+  "generatedAt": "2026-09-01T08:05:53.635Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型趨勢持續，對雲端基礎設施和軟體服務的需求保持強勁，帶動相關軟體公司表現。",
+      "reason": "企業數位轉型需求持續推動雲端軟體服務的成長，資安需求尤其強勁。",
       "symbols": [
         "CRM",
         "CRWD",
@@ -668,8 +668,8 @@
       "avgChange": 2.879131813029243
     },
     {
-      "theme": "石油與天然氣",
-      "reason": "全球能源需求預期增長以及地緣政治不確定性，支撐油價上漲，帶動能源股表現。",
+      "theme": "石油天然氣",
+      "reason": "全球能源需求增長與地緣政治不確定性推升油價，帶動相關類股表現。",
       "symbols": [
         "XOM",
         "CVX",
@@ -680,7 +680,7 @@
     },
     {
       "theme": "AI 晶片",
-      "reason": "人工智慧技術的快速發展持續推動對高效能運算晶片的需求，市場對相關供應商前景樂觀。",
+      "reason": "人工智慧技術的快速發展持續刺激對高效能運算晶片的需求。",
       "symbols": [
         "NVDA",
         "AMD"
@@ -690,7 +690,7 @@
     },
     {
       "theme": "儲存裝置",
-      "reason": "數據量的爆炸性增長以及AI應用對儲存需求的提升，為儲存裝置產業帶來成長動能。",
+      "reason": "數據量的爆炸性增長，對高效能和高容量儲存解決方案的需求持續增加。",
       "symbols": [
         "SNDK"
       ],
@@ -699,7 +699,7 @@
     },
     {
       "theme": "電動車",
-      "reason": "儘管市場競爭激烈，但電動車長期發展趨勢不變，部分個股因特定利好消息或技術突破而受到關注。",
+      "reason": "電動車市場的長期增長趨勢與技術創新持續吸引投資者關注。",
       "symbols": [
         "TSLA"
       ],
@@ -708,7 +708,7 @@
     },
     {
       "theme": "記憶體",
-      "reason": "記憶體市場受惠於AI伺服器需求增長以及智慧型手機等消費性電子產品的復甦，產業景氣逐漸回暖。",
+      "reason": "AI、5G和資料中心等應用需求增加，推動記憶體市場復甦。",
       "symbols": [
         "MU"
       ],
@@ -727,9 +727,9 @@
     {
       "symbol": "CVX",
       "name": "Chevron Corporation",
-      "theme": "石油與天然氣",
+      "theme": "石油天然氣",
       "changePercent": 2.1202813831368137,
-      "reason": "摩根士丹利調升目標價，且原油價格強勁推動成長。"
+      "reason": "與委內瑞拉達成能源項目協議，有望釋放650億桶原油儲量。"
     },
     {
       "symbol": "CAT",
@@ -741,16 +741,16 @@
     {
       "symbol": "HWM",
       "name": "Howmet Aerospace Inc.",
-      "theme": "航空航太材料",
+      "theme": "航太材料",
       "changePercent": -7.513686992637354,
-      "reason": "SpaceX宣布自製渦輪葉片，引發市場對其需求前景擔憂。"
+      "reason": "SpaceX宣布將自製渦輪葉片，引發投資人對其未來訂單量擔憂。"
     },
     {
       "symbol": "CSCO",
       "name": "Cisco Systems, Inc. Common Stock (DE)",
       "theme": "網路設備",
       "changePercent": 0.5094150823251051,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "沙烏地阿拉伯AI基礎設施擴張，強化思科AI成長前景。"
     },
     {
       "symbol": "COST",
@@ -764,21 +764,21 @@
       "name": "UNITEDHEALTH GROUP INCORPORATED (Delaware)",
       "theme": "醫療保險",
       "changePercent": -0.9008779742969751,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "第二季財報優於預期並上調全年財測，且獲分析師調升目標價。"
     },
     {
       "symbol": "QCOM",
       "name": "Qualcomm Inc",
-      "theme": "無線通訊晶片",
+      "theme": "通訊晶片",
       "changePercent": 3.8309275838967003,
-      "reason": "越南敦促高通擴大AI和晶片投資，股價表現強勁。"
+      "reason": "受惠於資料中心、汽車系統及AI加速器等多元化策略。"
     },
     {
       "symbol": "KO",
       "name": "Coca-Cola Company",
       "theme": "飲料",
       "changePercent": -1.1041713138523253,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "第二季財報表現強勁，營收及每股盈餘皆成長。"
     },
     {
       "symbol": "JNJ",
@@ -792,65 +792,50 @@
       "name": "SLB Limited",
       "theme": "油田服務",
       "changePercent": 4.831676260247694,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "宣布收購Kelvion，擴展資料中心基礎設施業務。"
     },
     {
       "symbol": "NEM",
       "name": "Newmont Corporation",
-      "theme": "貴金屬礦業",
+      "theme": "貴金屬",
       "changePercent": -1.500234411626818,
       "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI晶片、儲存裝置、電動車及記憶體等題材。其中，儲存裝置龍頭SNDK因AI記憶體需求飆升而大漲，記憶體大廠MU也受惠於此。AI晶片雙雄NVDA和AMD表現強勁，市場看好AMD在資料中心CPU市場的潛力。電動車巨頭TSLA則在近期消息面平淡下，仍吸引大量資金追捧。整體而言，市場資金正圍繞著AI產業鏈的上下游進行佈局，並對具備成長潛力的個股展現高度興趣。",
+    "highlights": "本日美股成交重點聚焦在儲存裝置、AI晶片、電動車及記憶體等科技相關族群。其中，Sandisk Corporation (SNDK) 以高達360億美元的成交金額領漲，顯示市場資金對儲存裝置題材的強勁追捧。AI晶片雙雄Nvidia (NVDA) 和AMD (AMD) 亦表現活躍，Nvidia與聯發科深化合作，AMD則在沙烏地阿拉伯啟動主權AI平台，顯示AI領域的持續熱度。電動車龍頭Tesla (TSLA) 也有亮眼漲幅，而記憶體族群則呈現多空分歧，但整體而言，市場仍圍繞著科技創新與地緣政治緊張對能源價格的影響等故事進行交易。",
     "eventsPast": [
       {
-        "title": "Salesforce(CRM)財報報喜，股價狂飆",
-        "detail": "Salesforce公布第二季財報後，營收與獲利表現均符合或超越市場預期，帶動股價大漲超過20%。"
+        "title": "美伊交火推升油價與美債殖利率",
+        "detail": "美國與伊朗相隔一個月再度互相發動攻擊，帶動國際油價急升，美國原油突破每桶85美元，加劇市場對通膨及聯準會(Fed)升息的擔憂。"
       },
       {
-        "title": "亞馬遜(AMZN)因反壟斷訴訟傳聞股價重挫",
-        "detail": "《華爾街日報》報導美國聯邦貿易委員會（FTC）準備起訴亞馬遜，指控其在廣告拍賣中操縱價格，導致亞馬遜股價下跌。"
+        "title": "AMD與思科合作啟動沙烏地阿拉伯主權AI平台",
+        "detail": "Advanced Micro Devices (AMD) 宣布與思科 (Cisco) 和沙烏地阿拉伯主權科技公司HUMAIN合作，啟動沙烏地阿拉伯的主權AI基礎設施平台，此舉有望加速AMD在區域雲端運算領域與Nvidia的競爭。"
       },
       {
-        "title": "蘋果(AAPL)CEO庫克卸任，新任CEO接棒",
-        "detail": "蒂姆·庫克執掌蘋果15年後正式卸任CEO，由硬體工程負責人John Ternus接任。"
+        "title": "NVIDIA與聯發科深化合作",
+        "detail": "NVIDIA與聯發科深化長期合作夥伴關係，共同打造AI邊緣到雲端運算平台。"
       },
       {
-        "title": "AMD看好資料中心CPU市場，分析師上調評級",
-        "detail": "Raymond James分析師上調AMD股票評級至「強力買進」，看好其在伺服器CPU市場擊敗英特爾與輝達的潛力。"
+        "title": "SK海力士預測記憶體短缺延續至2030年",
+        "detail": "SK海力士執行長郭魯正表示，全球記憶體半導體供應短缺情況預期將延續至2030年底，且AI時代的記憶體需求結構正在發生根本性變化。"
       },
       {
-        "title": "NVIDIA與聯發科擴大合作，投資35億美元",
-        "detail": "NVIDIA擬向聯發科投資35億美元，擴大AI晶片生態合作，此消息帶動聯發科股價上漲。"
+        "title": "摩根士丹利看好記憶體產業未來兩年景氣",
+        "detail": "摩根士丹利報告指出，儘管中國記憶體晶片大廠長鑫科技與長江存儲大舉擴充產能，但在2026至2027年短期內，全球市場仍有能力消化新增產能，主要因三大巨頭將產能集中於AI高頻寬記憶體(HBM)。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "9/1",
-        "title": "美國8月ISM製造業PMI",
-        "detail": "此數據將提供美國經濟健康狀況的重要參考。"
+        "date": "本週",
+        "title": "美國8月就業與ISM數據公布",
+        "detail": "市場焦點轉向即將公布的8月就業與ISM數據，這些數據將影響聯準會未來的利率政策。"
       },
       {
-        "date": "9/3",
-        "title": "美國8月ISM非製造業（服務業）PMI",
-        "detail": "此數據將提供美國經濟健康狀況的重要參考。"
-      },
-      {
-        "date": "9/4",
-        "title": "美國8月非農就業報告",
-        "detail": "市場將藉此觀察勞動市場是否持續降溫。"
-      },
-      {
-        "date": "9/10",
-        "title": "美國8月生產者物價指數(PPI)",
-        "detail": "此數據將反映通脹壓力，並可能領先CPI反映通脹趨勢。"
-      },
-      {
-        "date": "9/11",
-        "title": "美國8月消費者物價指數(CPI)",
-        "detail": "此為通脹的核心指標，對聯準會的利率決策具有重要影響。"
+        "date": "9/30",
+        "title": "美光科技 (MU) 財報",
+        "detail": "美光科技 (MU) 將於9月30日公布財報，其表現將是記憶體產業的重要指標。"
       }
     ]
   }
