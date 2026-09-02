@@ -47,7 +47,7 @@
       "dollarVolume": 17230885889.020203,
       "marketCap": 4745005743400,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "消費電子",
+      "theme": "消費性電子",
       "isNew": false,
       "rankChange": 2,
       "streak": 121
@@ -99,7 +99,7 @@
       "dollarVolume": 8071959788.611526,
       "marketCap": 2749647055774.2397,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電商/雲端服務",
+      "theme": "電子商務/雲端服務",
       "isNew": false,
       "rankChange": -1,
       "streak": 121
@@ -112,7 +112,7 @@
       "dollarVolume": 7827274268.428779,
       "marketCap": 1965897360000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "搜尋/雲端服務",
+      "theme": "搜尋引擎/雲端服務",
       "isNew": false,
       "rankChange": -1,
       "streak": 121
@@ -151,7 +151,7 @@
       "dollarVolume": 7099334020.830925,
       "marketCap": 1758782247596.6401,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網通晶片",
+      "theme": "半導體網路通訊",
       "isNew": false,
       "rankChange": -2,
       "streak": 121
@@ -164,7 +164,7 @@
       "dollarVolume": 7032462095.432947,
       "marketCap": 138071297000,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "PC/伺服器",
+      "theme": "電腦硬體",
       "isNew": false,
       "rankChange": 8,
       "streak": 7
@@ -177,7 +177,7 @@
       "dollarVolume": 6514216106.722618,
       "marketCap": 448764680000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "CPU/晶圓代工",
+      "theme": "CPU/半導體",
       "isNew": false,
       "rankChange": -1,
       "streak": 121
@@ -190,7 +190,7 @@
       "dollarVolume": 5418706906.370325,
       "marketCap": 1835129809999.9998,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "搜尋/雲端服務",
+      "theme": "搜尋引擎/雲端服務",
       "isNew": false,
       "rankChange": -4,
       "streak": 121
@@ -203,7 +203,7 @@
       "dollarVolume": 4618207687.006105,
       "marketCap": 184049172000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網通晶片",
+      "theme": "半導體網路通訊",
       "isNew": false,
       "rankChange": 0,
       "streak": 111
@@ -255,7 +255,7 @@
       "dollarVolume": 3618757733.0018854,
       "marketCap": 407068161720,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "資料庫/雲端軟體",
+      "theme": "企業軟體",
       "isNew": false,
       "rankChange": 20,
       "streak": 121
@@ -424,7 +424,7 @@
       "dollarVolume": 2338876224.245627,
       "marketCap": 842919744097.6,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售",
+      "theme": "零售百貨",
       "isNew": false,
       "rankChange": -13,
       "streak": 34
@@ -437,7 +437,7 @@
       "dollarVolume": 2298826838.8193455,
       "marketCap": 358160286513.24,
       "sector": "CONSTRUCTION MACHINERY & EQUIP",
-      "theme": "工業機械",
+      "theme": "重型機械",
       "isNew": false,
       "rankChange": 5,
       "streak": 2
@@ -450,7 +450,7 @@
       "dollarVolume": 2219272234.673321,
       "marketCap": 62919876925.979996,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "燃料電池",
+      "theme": "燃料電池/潔淨能源",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -528,7 +528,7 @@
       "dollarVolume": 1974447840.443719,
       "marketCap": 38832940035.58,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "高速傳輸晶片",
+      "theme": "半導體網路通訊",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -554,7 +554,7 @@
       "dollarVolume": 1865976849.8687878,
       "marketCap": 676615113018,
       "sector": "PETROLEUM REFINING",
-      "theme": "石油/天然氣",
+      "theme": "石油天然氣",
       "isNew": false,
       "rankChange": -17,
       "streak": 13
@@ -580,7 +580,7 @@
       "dollarVolume": 1825218440.3865433,
       "marketCap": 231362168771.24,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "類比晶片",
+      "theme": "類比IC",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -606,7 +606,7 @@
       "dollarVolume": 1794511261.3525212,
       "marketCap": 416986527377.7,
       "sector": "PETROLEUM REFINING",
-      "theme": "石油/天然氣",
+      "theme": "石油天然氣",
       "isNew": false,
       "rankChange": -9,
       "streak": 2
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-09-01T20:00:00.000Z",
-  "generatedAt": "2026-09-02T05:15:14.694Z",
+  "generatedAt": "2026-09-02T07:23:18.825Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
-      "theme": "石油/天然氣",
-      "reason": "全球能源需求預期增長以及地緣政治緊張局勢推升油價，帶動相關能源股上漲。",
+      "theme": "石油天然氣",
+      "reason": "全球能源需求回升以及地緣政治緊張局勢，持續推升油價，帶動能源股表現。",
       "symbols": [
         "XOM",
         "CVX"
@@ -667,17 +667,8 @@
       "avgChange": 2.3092979363910198
     },
     {
-      "theme": "生技製藥",
-      "reason": "特定藥物研發進展或市場需求預期，吸引資金流入具潛力的新藥開發公司。",
-      "symbols": [
-        "MRNA"
-      ],
-      "count": 1,
-      "avgChange": 9.925894256804908
-    },
-    {
       "theme": "電力公用事業",
-      "reason": "電力基礎設施投資增加及穩定股息吸引防禦性資金，推動公用事業股表現。",
+      "reason": "市場對電力基礎建設投資的預期增加，以及公用事業股的防禦性特質，吸引資金流入。",
       "symbols": [
         "PCG"
       ],
@@ -685,8 +676,17 @@
       "avgChange": 5.953278070836481
     },
     {
-      "theme": "燃料電池",
-      "reason": "市場對清潔能源解決方案的關注持續，燃料電池技術的應用前景受到期待。",
+      "theme": "生技製藥",
+      "reason": "特定藥物研發進展或臨床數據公布，為相關生技製藥公司帶來利好消息。",
+      "symbols": [
+        "MRNA"
+      ],
+      "count": 1,
+      "avgChange": 9.925894256804908
+    },
+    {
+      "theme": "燃料電池/潔淨能源",
+      "reason": "全球對潔淨能源轉型的重視，以及政府政策支持，使燃料電池和相關潔淨能源公司受到關注。",
       "symbols": [
         "BE"
       ],
@@ -694,8 +694,8 @@
       "avgChange": 3.553078041686856
     },
     {
-      "theme": "消費電子",
-      "reason": "新產品發布或市場對其銷售預期樂觀，帶動主要消費電子品牌股價上揚。",
+      "theme": "消費性電子",
+      "reason": "新產品發表或銷售數據優於預期，提振市場對消費性電子龍頭的信心。",
       "symbols": [
         "AAPL"
       ],
@@ -703,13 +703,13 @@
       "avgChange": 2.6132239229919434
     },
     {
-      "theme": "零售",
-      "reason": "消費者支出數據表現良好或公司財報優於預期，提振零售業信心。",
+      "theme": "減肥藥 GLP-1",
+      "reason": "GLP-1 藥物市場潛力巨大，相關藥廠的產品進展或市場擴張消息持續吸引投資者。",
       "symbols": [
-        "WMT"
+        "LLY"
       ],
       "count": 1,
-      "avgChange": 1.0012396300181148
+      "avgChange": 0.28269345482523855
     }
   ],
   "newEntrants": [
@@ -718,128 +718,128 @@
       "name": "Lam Research Corp",
       "theme": "半導體設備",
       "changePercent": -3.74473448538924,
-      "reason": "近期無明確個股消息，可能受半導體設備族群回檔影響下跌。"
+      "reason": "近期宣布提高季度股息27%，並將投資30億美元擴展全球實驗室以加速AI時代半導體研發。"
     },
     {
       "symbol": "HOOD",
       "name": "Robinhood Markets, Inc. Class A Common Stock",
       "theme": "金融科技",
       "changePercent": -1.2403396622459661,
-      "reason": "摩根士丹利上調評級至「加碼」，目標價上看150美元，預計上漲空間達43%。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "BE",
       "name": "Bloom Energy Corporation",
-      "theme": "燃料電池",
+      "theme": "燃料電池/潔淨能源",
       "changePercent": 3.553078041686856,
-      "reason": "近期無明確個股消息，可能受AI基礎設施對能源需求增加的題材帶動。"
+      "reason": "受惠於AI帶動的電力需求，推出Power Connect技術可縮短安裝時間，並上調2026年財測。"
     },
     {
       "symbol": "PCG",
       "name": "PG&E Corporation",
       "theme": "電力公用事業",
       "changePercent": 5.953278070836481,
-      "reason": "加州野火責任法案未獲通過後股價大跌，隨後出現穩定跡象。"
+      "reason": "加州野火責任法案未達預期，分析師下調評級與目標價，導致股價波動。"
     },
     {
       "symbol": "CRDO",
       "name": "Credo Technology Group Holding Ltd Ordinary Shares",
-      "theme": "高速傳輸晶片",
+      "theme": "半導體網路通訊",
       "changePercent": -8.647597152836111,
-      "reason": "最新財報營收翻倍成長，但毛利率下降導致盤後股價下跌。"
+      "reason": "第一季度財報營收與獲利優於預期，但毛利率壓力導致股價下跌。"
     },
     {
       "symbol": "MA",
       "name": "Mastercard Incorporated",
       "theme": "支付服務",
       "changePercent": -1.3931547063514829,
-      "reason": "近期無明確個股消息，可能受整體支付服務產業動態影響。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "GS",
       "name": "Goldman Sachs Group Inc.",
       "theme": "投資銀行",
       "changePercent": -2.275075543425299,
-      "reason": "近期無明確個股消息，可能受整體投資銀行產業動態影響。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "TXN",
       "name": "Texas Instruments Incorporated",
-      "theme": "類比晶片",
+      "theme": "類比IC",
       "changePercent": -2.9013836188724165,
-      "reason": "美債殖利率上升與類股回檔，拖累德州儀器股價走低。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "KLAC",
       "name": "KLA Corporation Common Stock",
       "theme": "半導體設備",
       "changePercent": -2.5990310629809077,
-      "reason": "近期無明確個股消息，可能受半導體設備族群回檔影響下跌。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "SKHY",
       "name": "SK hynix Inc. American Depositary Shares",
       "theme": "記憶體",
       "changePercent": -2.3089075221776714,
-      "reason": "近期無明確個股消息，可能受記憶體產業族群輪動帶動。"
+      "reason": "分析師看好其AI記憶體業務，預期股價有上漲潛力。"
     },
     {
       "symbol": "MDT",
       "name": "Medtronic plc",
       "theme": "醫療器材",
       "changePercent": 1.5333701047986767,
-      "reason": "第一季財報優於預期，心血管業務強勁成長並上調全年財測。"
+      "reason": "第一季度財報表現強勁，上調2027財年財測，並宣布策略性合作與投資。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股市場資金主要集中在科技股，尤其是記憶體和AI晶片相關個股，但整體呈現下跌趨勢，主要受全球債券殖利率走高、中東地緣政治緊張推升油價，以及市場對聯準會升息擔憂的影響。儘管如此，蘋果因領導層交接和新品發表會預期逆勢上漲，而特斯拉則受惠於馬斯克關於能源和Robotaxi的利好消息。生技製藥族群也因川普政府的藥價協議而逆勢上漲。",
+    "highlights": "本日美股成交重點聚焦於AI相關科技股與特定題材股。戴爾（DELL）因AI伺服器需求強勁，上修全年財測，盤後股價大漲，帶動市場對AI基礎建設的樂觀情緒。記憶體大廠SanDisk（SNDK）被納入MSCI世界指數，吸引被動資金流入，同時AI晶片股如Nvidia（NVDA）和AMD（AMD）雖有獲利了結賣壓，但長期需求仍受看好。此外，蘋果（AAPL）在CEO交接後，市場期待下週的iPhone發表會，而減肥藥GLP-1概念股禮來（LLY）則因新藥獲批及併購消息持續受到關注。",
     "eventsPast": [
       {
-        "title": "美股9月開門黑，科技股普遍疲軟",
-        "detail": "美股週二（9月1日）開盤後各主要指數齊跌，科技股普遍疲軟，那斯達克指數下跌近300點，主要受全球債券殖利率持續走高、美伊衝突推高油價導致通膨擔憂，以及聯準會可能收緊貨幣政策的影響。"
+        "title": "戴爾上修全年財測，AI伺服器需求強勁",
+        "detail": "戴爾科技（DELL）因AI伺服器需求激增，將全年營收預期上調250億美元，盤後股價大漲8%。"
       },
       {
-        "title": "戴爾受惠AI伺服器需求，財報亮眼",
-        "detail": "戴爾科技（DELL）盤後股價漲逾8%，因其第二季營收年增58%至創紀錄的470億美元，調整後每股盈餘7.04美元，均高於市場預期，並上調全年營收預期至1920億美元，主要受惠於AI伺服器需求強勁。"
+        "title": "蘋果新任CEO上任，預告新品發表",
+        "detail": "蘋果（AAPL）硬體工程高級副總裁John Ternus正式接替Tim Cook出任CEO，並預告下週將有「非同凡響」的產品發表。"
       },
       {
-        "title": "蘋果庫克卸任，新任CEO上任",
-        "detail": "8月31日是蒂姆·庫克擔任蘋果首席執行官的最後一天，現任蘋果硬體工程高級副總裁約翰·特努斯於9月1日接任CEO一職，庫克將轉任蘋果董事會執行主席。"
+        "title": "SanDisk納入MSCI世界指數",
+        "detail": "快閃記憶體模組供應商SanDisk（SNDK）自8月31日收盤後正式納入MSCI世界指數，吸引被動買盤。"
       },
       {
-        "title": "特斯拉推出簡配低價Model 3，並受能源與Robotaxi利好消息提振",
-        "detail": "特斯拉在中國香港和澳門市場推出配置簡化、售價更低的Model 3轎車版本。 此外，馬斯克透露特斯拉與SpaceX正加速建置太陽能產能，且Robotaxi獲內華達州核准部署，多重利好消息推動特斯拉股價反彈。"
+        "title": "禮來口服減肥藥獲FDA批准，並宣布併購",
+        "detail": "禮來（LLY）最新生產的GLP-1口服減肥藥Foundayo已獲美國FDA批准上市，同時公司計劃以最高28.8億美元收購Merida Biosciences Inc.，加碼自身免疫與過敏疾病領域。"
       },
       {
-        "title": "川普政府與生技公司達成藥價協議",
-        "detail": "美國總統川普於週一宣布與多家全球製藥公司及中小型生技公司達成一系列新的藥價協議，旨在降低美國消費者的醫療保健成本，多檔生技股響應降價。"
+        "title": "PG&E因加州野火法案受挫",
+        "detail": "加州公用事業業者太平洋電力瓦斯（PCG）因加州議會未能通過關鍵山火責任改革法案，股價單日暴跌逾20%。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "9/4",
-        "title": "美國8月非農就業報告",
-        "detail": "美國勞工統計局將公布8月非農就業報告，就業、薪資和失業率數據將成為市場判斷聯準會後續政策的重要依據。"
+        "date": "9/3",
+        "title": "特斯拉Cybercab發表會",
+        "detail": "特斯拉（TSLA）預計將舉行Cybercab（自動駕駛計程車）發表活動，市場對此寄予厚望。"
       },
       {
-        "date": "9/9",
-        "title": "蘋果秋季新品發表會",
-        "detail": "蘋果將於9月9日舉行秋季新品發表會，這將是新任CEO特努斯接任後的首場新品發表會，市場對新管理層的AI業務佈局保持高度關注。"
+        "date": "下週",
+        "title": "蘋果iPhone發表會",
+        "detail": "蘋果（AAPL）新任CEO John Ternus預告下週將有重磅發佈，市場預期將推出首款摺疊屏iPhone及iPhone 18 Pro/Pro Max。"
       },
       {
-        "date": "9/10",
-        "title": "美國8月生產者物價指數 (PPI)",
-        "detail": "美國將公布8月生產者物價指數，該數據將影響市場對通膨的預期，進而影響聯準會的貨幣政策決策。"
+        "date": "9/8-9/11",
+        "title": "高盛Communacopia暨科技大會",
+        "detail": "高盛將在舊金山舉辦科技大會，預計將討論AI算力需求、AI基礎設施周期等半導體相關議題，多家數字/AI晶片公司將參與。"
       },
       {
-        "date": "9/11",
-        "title": "美國8月消費者物價指數 (CPI)",
-        "detail": "美國將公布8月消費者物價指數，此為聯準會評估通膨壓力的關鍵數據，將影響9月利率決議。"
+        "date": "本週",
+        "title": "美國CPI、零售銷售、PPI數據",
+        "detail": "本週將公布消費者物價指數（CPI）、零售銷售、生產者價格與工業產出等重要宏觀數據，市場將檢視能源成本上升是否已擴散至整體通膨與消費支出。"
       },
       {
-        "date": "9/17",
-        "title": "聯準會 (FED) FOMC利率決議",
-        "detail": "聯準會將公布FOMC利率決議，本次也將同步發布利率點陣圖與經濟預測，市場對9月升息的預期升溫。"
+        "date": "本週",
+        "title": "美中領導人會晤",
+        "detail": "需留意美中領導人會晤等地緣政治事件對市場的影響。"
       }
     ]
   }
