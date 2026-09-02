@@ -125,7 +125,7 @@
       "dollarVolume": 8117498634.4418125,
       "marketCap": 1761922250527.3198,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體設備與設計",
+      "theme": "半導體設備",
       "isNew": false,
       "rankChange": 5,
       "streak": 120
@@ -164,7 +164,7 @@
       "dollarVolume": 5856587815.058858,
       "marketCap": 451488440000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體設備與設計",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": -1,
       "streak": 120
@@ -203,7 +203,7 @@
       "dollarVolume": 5008631708.764892,
       "marketCap": 185160168000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體設備與設計",
+      "theme": "半導體設備",
       "isNew": false,
       "rankChange": -8,
       "streak": 110
@@ -385,7 +385,7 @@
       "dollarVolume": 2830249641.236895,
       "marketCap": 363777131896.77,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體設備與設計",
+      "theme": "半導體設備",
       "isNew": false,
       "rankChange": -5,
       "streak": 85
@@ -476,7 +476,7 @@
       "dollarVolume": 2495172818.8859715,
       "marketCap": 341285220694.39996,
       "sector": "SERVICES-VIDEO TAPE RENTAL",
-      "theme": "影音串流",
+      "theme": "串流媒體",
       "isNew": false,
       "rankChange": -4,
       "streak": 5
@@ -528,7 +528,7 @@
       "dollarVolume": 2360661682.2972465,
       "marketCap": 98006327960.84999,
       "sector": "ROLLING DRAWING & EXTRUDING OF NONFERROUS METALS",
-      "theme": "航空航太材料",
+      "theme": "航太材料",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -580,7 +580,7 @@
       "dollarVolume": 2162947399.5097475,
       "marketCap": 45280036956.159996,
       "sector": "—",
-      "theme": "雲端軟體 SaaS",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": -18,
       "streak": 45
@@ -645,20 +645,30 @@
       "dollarVolume": 2100035573.4905875,
       "marketCap": 132828447682.26001,
       "sector": "GOLD AND SILVER ORES",
-      "theme": "貴金屬",
+      "theme": "黃金礦業",
       "isNew": true,
       "rankChange": null,
       "streak": 1
     }
   ],
   "asOf": "2026-08-31T20:00:00.000Z",
-  "generatedAt": "2026-09-01T09:53:16.677Z",
+  "generatedAt": "2026-09-02T02:09:53.596Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
+      "theme": "雲端軟體 SaaS",
+      "reason": "企業數位轉型趨勢持續，對雲端軟體服務的需求保持強勁，帶動相關個股表現。",
+      "symbols": [
+        "CRM",
+        "NOW"
+      ],
+      "count": 2,
+      "avgChange": 1.434082334928482
+    },
+    {
       "theme": "資安",
-      "reason": "網路安全威脅日益增加，企業及政府對資安解決方案的需求持續成長，帶動相關軟體服務股表現。",
+      "reason": "網路攻擊事件頻傳，企業及政府對資安防護的投入增加，推升資安軟體公司的營收預期。",
       "symbols": [
         "CRWD",
         "PANW"
@@ -668,7 +678,7 @@
     },
     {
       "theme": "石油與天然氣",
-      "reason": "全球能源需求穩定，加上地緣政治風險對油價的支撐，使得能源相關股票受到資金青睞。",
+      "reason": "國際油價波動及地緣政治風險，使得能源股受到資金關注。",
       "symbols": [
         "XOM",
         "CVX"
@@ -678,7 +688,7 @@
     },
     {
       "theme": "AI 晶片",
-      "reason": "人工智慧技術的快速發展持續推動對高效能運算晶片的需求，相關供應商受惠於市場對AI應用的熱情。",
+      "reason": "人工智慧技術快速發展，對高效能運算晶片的需求持續增長，相關供應商受惠。",
       "symbols": [
         "NVDA",
         "AMD"
@@ -687,32 +697,22 @@
       "avgChange": 1.2943577349452489
     },
     {
-      "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型趨勢不變，對雲端服務和軟體即服務（SaaS）的需求持續增長，支撐行業龍頭股價。",
+      "theme": "儲存裝置",
+      "reason": "數據量爆炸性增長，對儲存解決方案的需求不斷提升，帶動相關廠商營收。",
       "symbols": [
-        "CRM",
-        "NOW"
+        "SNDK"
       ],
-      "count": 2,
-      "avgChange": 1.434082334928482
+      "count": 1,
+      "avgChange": 5.5031044189147345
     },
     {
       "theme": "電動車",
-      "reason": "儘管市場競爭激烈，但電動車長期發展趨勢不變，技術創新和產能擴張仍是市場關注焦點。",
+      "reason": "全球電動車市場持續擴張，儘管競爭激烈，龍頭企業仍吸引投資者目光。",
       "symbols": [
         "TSLA"
       ],
       "count": 1,
       "avgChange": 5.505376344086018
-    },
-    {
-      "theme": "比特幣/加密",
-      "reason": "比特幣價格波動吸引市場關注，持有大量比特幣的上市公司股價隨之波動，反映市場對加密貨幣的熱度。",
-      "symbols": [
-        "MSTR"
-      ],
-      "count": 1,
-      "avgChange": 4.4222763333595125
     }
   ],
   "newEntrants": [
@@ -740,7 +740,7 @@
     {
       "symbol": "HWM",
       "name": "Howmet Aerospace Inc.",
-      "theme": "航空航太材料",
+      "theme": "航太材料",
       "changePercent": -7.513686992637354,
       "reason": "SpaceX宣布將自製渦輪葉片，引發市場對訂單流失的擔憂。"
     },
@@ -796,60 +796,40 @@
     {
       "symbol": "NEM",
       "name": "Newmont Corporation",
-      "theme": "貴金屬",
+      "theme": "黃金礦業",
       "changePercent": -1.500234411626818,
       "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於儲存裝置、AI晶片、電動車及記憶體等科技相關族群。其中，Sandisk (SNDK) 因其在AI應用中的儲存解決方案及與Kioxia在日本晶圓廠的310億美元投資計畫，帶動成交量與股價大幅上漲5.50%。電動車龍頭Tesla (TSLA) 受惠於即將發表的Cybercab無人計程車，股價同樣強勁上揚5.51%。AI晶片雙雄Nvidia (NVDA) 和AMD (AMD) 則持續受惠於AI需求的爆發性成長，顯示市場對AI相關硬體投資熱度不減。記憶體大廠Micron (MU) 也因AI相關高頻寬記憶體需求旺盛而受到關注。",
+    "highlights": "本日美股成交重點聚焦於AI相關題材，特別是儲存裝置和AI晶片領域。Sandisk (SNDK) 以驚人的漲幅和高成交金額領漲，主要受惠於AI對NAND快閃記憶體需求的飆升。Nvidia (NVDA) 和 AMD (AMD) 等AI晶片股也表現強勁，反映市場對AI基礎設施建設的持續樂觀。此外，電動車龍頭Tesla (TSLA) 也錄得顯著漲幅，顯示市場對其未來發展仍抱有期待。整體而言，資金流向具備AI成長潛力的科技股，尤其是硬體供應商，而部分大型科技股如微軟、蘋果、亞馬遜和Alphabet則呈現下跌，可能受到獲利了結或監管壓力的影響。",
     "eventsPast": [
       {
-        "title": "美伊衝突升溫推升油價",
-        "detail": "美國與伊朗再次互相發動攻擊，導致國際油價急升，美國原油突破每桶85美元，加劇市場對通膨及聯準會升息的擔憂。"
+        "title": "Sandisk (SNDK) 加入 MSCI 全球指數",
+        "detail": "記憶體儲存產品供應商 Sandisk Corporation (SNDK) 於 8 月 31 日收盤後被納入 MSCI 全球指數，預計將帶來被動買盤。"
       },
       {
-        "title": "聯準會主席暗示可能升息",
-        "detail": "聯準會主席華許在全球央行年會上強調通膨未明顯降溫，暗示可能重啟升息，市場預期9月升息機率從不到4成竄升至近6成。"
+        "title": "Nvidia (NVDA) 第二季財報亮眼",
+        "detail": "Nvidia 於 8 月 26 日公布的 2027 財年第二季財報顯示營收達 962 億美元，年增 106%，並預計 AI 熱潮將持續推動強勁需求。"
       },
       {
-        "title": "Sandisk宣布重大投資計畫",
-        "detail": "Sandisk (SNDK) 與Kioxia計劃在日本晶圓廠投資超過310億美元，以擴大記憶體生產，此消息帶動Sandisk股價上漲。"
+        "title": "AMD (AMD) 於沙烏地阿拉伯啟動主權 AI 基礎設施平台",
+        "detail": "AMD 於 8 月 31 日宣布與 Cisco 和 HUMAIN 合作，在沙烏地阿拉伯啟動一個使用 AMD Instinct GPU 和 EPYC CPU 的主權 AI 基礎設施平台，以擴展當地的 AI 容量。"
       },
       {
-        "title": "AI資安股估值泡沫化警訊",
-        "detail": "分析師警告，AI推升資安股成為市場新寵，但部分純資安公司股價已偏高，估值壓力明顯，巨頭如Microsoft切入資安領域也加劇競爭。"
+        "title": "Salesforce (CRM) 第二季財報優於預期並上調財測",
+        "detail": "Salesforce 於 8 月 26 日公布的 2027 財年第二季業績超出預期，並上調了全年營收和獲利預期，同時推出了與 Anthropic Claude AI 模型整合的新插件。"
       },
       {
-        "title": "Alphabet擬配股集資800億美元",
-        "detail": "Google母公司Alphabet (GOOGL, GOOG) 計劃配股集資800億美元，用於人工智能的開支，以滿足企業和消費者對AI解決方案和服務的強烈需求。"
+        "title": "亞馬遜 (AMZN) 面臨 FTC 廣告詐欺訴訟",
+        "detail": "美國聯邦貿易委員會 (FTC) 和 22 個州於 9 月 1 日對亞馬遜提起訴訟，指控其秘密操縱廣告拍賣，從廣告商那裡獲取了超過 200 億美元。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "9/3",
-        "title": "特斯拉Cybercab發表會",
-        "detail": "電動車大廠特斯拉（TSLA）旗下全自動駕駛計程車「特斯拉Cybercab」預計於9月3日在德州奧斯汀總部舉行發表會，市場高度期待此產品的問世。"
-      },
-      {
-        "date": "9/15-16",
-        "title": "FOMC會議",
-        "detail": "聯邦公開市場委員會（FOMC）將於9月15日至16日召開會議，市場關注其對利率政策的決議，特別是升息的可能性。"
-      },
-      {
-        "date": "9/30",
-        "title": "美光科技第四季度財報",
-        "detail": "美光科技（MU）預計於9月30日公布其2026財年第四季度財報，投資者將關注其記憶體定價和AI需求是否能轉化為可持續的收益。"
-      },
-      {
-        "date": "待定",
-        "title": "OpenAI與Anthropic IPO",
-        "detail": "AI新創公司OpenAI預計明年上市，Anthropic也已與承銷商進行初步會議，市場消息稱其可能追求高達2兆美元估值，將是資安投資版圖的關鍵力量。"
-      },
-      {
-        "date": "待定",
-        "title": "Intel參與投資者會議",
-        "detail": "Intel Corporation (INTC) 將參與即將舉行的投資者會議，市場將關注其在AI基礎設施和Agentic AI架構方面的最新進展。"
+        "date": "本週四",
+        "title": "Google 預計發布新 AI 模型",
+        "detail": "據報導，Google 的 AI 研究部門預計最快於本週三發布新的 Gemini 3.8 Flash 模型，該模型具有顯著增強的編碼能力。"
       }
     ]
   }
