@@ -125,7 +125,7 @@
       "dollarVolume": 7613798597.078675,
       "marketCap": 1978220160000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "雲端服務/AI",
+      "theme": "雲端/AI",
       "isNew": false,
       "rankChange": -1,
       "streak": 122
@@ -151,7 +151,7 @@
       "dollarVolume": 6787917300.321357,
       "marketCap": 389878880732.34,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "數據分析/AI",
+      "theme": "資料分析/AI",
       "isNew": false,
       "rankChange": 5,
       "streak": 122
@@ -164,7 +164,7 @@
       "dollarVolume": 6124000734.405456,
       "marketCap": 2750294234588.56,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電商/雲端服務",
+      "theme": "電商/雲端",
       "isNew": false,
       "rankChange": -5,
       "streak": 122
@@ -229,7 +229,7 @@
       "dollarVolume": 4336617831.010148,
       "marketCap": 1844802059999.9998,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "雲端服務/AI",
+      "theme": "雲端/AI",
       "isNew": false,
       "rankChange": -3,
       "streak": 122
@@ -242,7 +242,7 @@
       "dollarVolume": 3814756110.968715,
       "marketCap": 106004143999.99998,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端數據庫",
+      "theme": "雲端資料庫",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -268,7 +268,7 @@
       "dollarVolume": 3174344336.843077,
       "marketCap": 419828648250,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端數據庫",
+      "theme": "雲端資料庫",
       "isNew": false,
       "rankChange": -1,
       "streak": 122
@@ -294,7 +294,7 @@
       "dollarVolume": 3109443185.6343875,
       "marketCap": 68633468493.43,
       "sector": "COMPUTER & OFFICE EQUIPMENT",
-      "theme": "企業IT基礎設施",
+      "theme": "AI 伺服器",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -333,7 +333,7 @@
       "dollarVolume": 2810599596.4602613,
       "marketCap": 30194145395.8,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端數據庫",
+      "theme": "雲端資料庫",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -378,19 +378,6 @@
       "streak": 6
     },
     {
-      "symbol": "UCBG",
-      "name": "UCBG",
-      "price": 50.205,
-      "changePercent": 0.26962252846015183,
-      "dollarVolume": 2500878815.2128,
-      "marketCap": 0,
-      "sector": "—",
-      "theme": "區域銀行",
-      "isNew": true,
-      "rankChange": null,
-      "streak": 1
-    },
-    {
       "symbol": "MRNA",
       "name": "Moderna, Inc. Common Stock",
       "price": 150.81,
@@ -400,7 +387,7 @@
       "sector": "BIOLOGICAL PRODUCTS, (NO DIAGNOSTIC SUBSTANCES)",
       "theme": "生技製藥",
       "isNew": false,
-      "rankChange": -12,
+      "rankChange": -11,
       "streak": 11
     },
     {
@@ -413,7 +400,7 @@
       "sector": "ELECTRONIC & OTHER ELECTRICAL EQUIPMENT (NO COMPUTER EQUIP)",
       "theme": "電力基礎建設",
       "isNew": false,
-      "rankChange": 6,
+      "rankChange": 7,
       "streak": 4
     },
     {
@@ -426,7 +413,7 @@
       "sector": "COMMUNICATIONS EQUIPMENT, NEC",
       "theme": "光通訊",
       "isNew": false,
-      "rankChange": -11,
+      "rankChange": -10,
       "streak": 40
     },
     {
@@ -437,9 +424,9 @@
       "dollarVolume": 2206981496.1056843,
       "marketCap": 292458385623.36,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "投資銀行",
+      "theme": "金融服務",
       "isNew": false,
-      "rankChange": 10,
+      "rankChange": 11,
       "streak": 2
     },
     {
@@ -465,7 +452,7 @@
       "sector": "—",
       "theme": "雲端服務",
       "isNew": false,
-      "rankChange": 1,
+      "rankChange": 2,
       "streak": 47
     },
     {
@@ -478,7 +465,7 @@
       "sector": "COMPUTER STORAGE DEVICES",
       "theme": "儲存裝置",
       "isNew": false,
-      "rankChange": 3,
+      "rankChange": 4,
       "streak": 57
     },
     {
@@ -491,7 +478,7 @@
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
       "theme": "支付服務",
       "isNew": false,
-      "rankChange": -2,
+      "rankChange": -1,
       "streak": 15
     },
     {
@@ -504,7 +491,7 @@
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
       "theme": "雲端軟體 SaaS",
       "isNew": false,
-      "rankChange": -9,
+      "rankChange": -8,
       "streak": 6
     },
     {
@@ -528,9 +515,9 @@
       "dollarVolume": 1972991778.0226946,
       "marketCap": 364191221056.92,
       "sector": "CONSTRUCTION MACHINERY & EQUIP",
-      "theme": "重型機械",
+      "theme": "基礎建設",
       "isNew": false,
-      "rankChange": -7,
+      "rankChange": -6,
       "streak": 3
     },
     {
@@ -541,9 +528,9 @@
       "dollarVolume": 1945670920.774046,
       "marketCap": 63994901738.88,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "燃料電池",
+      "theme": "氫能源",
       "isNew": false,
-      "rankChange": -7,
+      "rankChange": -6,
       "streak": 2
     },
     {
@@ -554,9 +541,9 @@
       "dollarVolume": 1906170903.161228,
       "marketCap": 946899086382.9,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "大型銀行",
+      "theme": "金融服務",
       "isNew": false,
-      "rankChange": 3,
+      "rankChange": 4,
       "streak": 3
     },
     {
@@ -569,7 +556,7 @@
       "sector": "PETROLEUM REFINING",
       "theme": "石油天然氣",
       "isNew": false,
-      "rankChange": -1,
+      "rankChange": 0,
       "streak": 14
     },
     {
@@ -580,7 +567,7 @@
       "dollarVolume": 1838636410.4984066,
       "marketCap": 269952420724.72,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "大型銀行",
+      "theme": "金融服務",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -595,7 +582,7 @@
       "sector": "—",
       "theme": "記憶體",
       "isNew": false,
-      "rankChange": 3,
+      "rankChange": 4,
       "streak": 2
     },
     {
@@ -608,7 +595,7 @@
       "sector": "FINANCE SERVICES",
       "theme": "比特幣/加密",
       "isNew": false,
-      "rankChange": -20,
+      "rankChange": -19,
       "streak": 11
     },
     {
@@ -634,7 +621,7 @@
       "sector": "COMPUTER STORAGE DEVICES",
       "theme": "儲存裝置",
       "isNew": false,
-      "rankChange": -21,
+      "rankChange": -20,
       "streak": 120
     },
     {
@@ -647,181 +634,203 @@
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
       "theme": "金融科技",
       "isNew": false,
-      "rankChange": -18,
+      "rankChange": -17,
       "streak": 2
+    },
+    {
+      "symbol": "BAC",
+      "name": "Bank of America Corporation",
+      "price": 62.6,
+      "changePercent": 0.9840296822068066,
+      "dollarVolume": 1781867116.1590617,
+      "marketCap": 437746047649,
+      "sector": "NATIONAL COMMERCIAL BANKS",
+      "theme": "金融服務",
+      "isNew": true,
+      "rankChange": null,
+      "streak": 1
     }
   ],
   "asOf": "2026-09-02T20:00:00.000Z",
-  "generatedAt": "2026-09-03T05:11:55.045Z",
+  "generatedAt": "2026-09-03T07:26:47.627Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
-      "theme": "AI 晶片",
-      "reason": "市場持續看好AI技術發展對晶片需求帶來的長期增長潛力。",
+      "theme": "金融服務",
+      "reason": "在市場波動中，大型銀行和金融服務公司因其穩健的業務模式和潛在的利率環境變化而受到資金關注。",
       "symbols": [
-        "NVDA"
+        "GS",
+        "V",
+        "JPM",
+        "WFC",
+        "HOOD",
+        "BAC"
       ],
-      "count": 1,
-      "avgChange": 3.2054819720382626
+      "count": 6,
+      "avgChange": 1.4981565656075595
     },
     {
-      "theme": "記憶體",
-      "reason": "AI應用帶動高頻寬記憶體(HBM)需求，推升整體記憶體產業景氣復甦預期。",
+      "theme": "AI 晶片",
+      "reason": "AI 產業持續高速發展，帶動對高性能AI晶片的需求，相關供應商持續受市場追捧。",
       "symbols": [
+        "NVDA",
         "MU",
+        "INTC",
         "SKHY"
       ],
-      "count": 2,
-      "avgChange": 2.5188511500094863
+      "count": 4,
+      "avgChange": 2.3642691488280656
     },
     {
-      "theme": "雲端服務/AI",
-      "reason": "大型科技公司持續投入AI研發與雲端基礎設施建設，市場對其未來成長抱持樂觀態度。",
+      "theme": "AI 伺服器",
+      "reason": "AI應用普及推動企業對高效能伺服器硬體的需求，相關供應商受惠於訂單增長。",
       "symbols": [
+        "DELL",
+        "HPE"
+      ],
+      "count": 2,
+      "avgChange": 8.849464031730246
+    },
+    {
+      "theme": "雲端/AI",
+      "reason": "雲端服務和AI技術的深度融合，使得提供相關基礎設施和應用服務的公司持續獲得市場青睞。",
+      "symbols": [
+        "META",
         "GOOGL",
-        "GOOG"
+        "GOOG",
+        "NBIS"
       ],
-      "count": 2,
-      "avgChange": 0.5769445284090498
+      "count": 4,
+      "avgChange": 1.4769003284633206
     },
     {
-      "theme": "生技製藥",
-      "reason": "部分製藥公司在特定疾病領域的研發進展或市場表現獲得關注。",
+      "theme": "雲端資料庫",
+      "reason": "隨著企業數位轉型加速，對高效能、可擴展的雲端資料庫解決方案需求旺盛。",
       "symbols": [
-        "LLY",
-        "JNJ"
-      ],
-      "count": 2,
-      "avgChange": 0.7446260479038045
-    },
-    {
-      "theme": "大型銀行",
-      "reason": "在當前經濟環境下，大型銀行穩健的財報表現和股息政策吸引資金關注。",
-      "symbols": [
-        "JPM",
-        "WFC"
-      ],
-      "count": 2,
-      "avgChange": 1.4599186569877276
-    },
-    {
-      "theme": "儲存裝置",
-      "reason": "數據量的持續增長，對儲存解決方案的需求保持穩定。",
-      "symbols": [
-        "SNDK"
+        "ORCL"
       ],
       "count": 1,
-      "avgChange": 1.0755626695816953
+      "avgChange": 3.1347296914803335
+    },
+    {
+      "theme": "電力基礎建設",
+      "reason": "全球能源轉型和AI數據中心對電力需求的增長，使得電力基礎設施相關公司受到關注。",
+      "symbols": [
+        "GEV",
+        "BE"
+      ],
+      "count": 2,
+      "avgChange": 2.156964037375831
     }
   ],
   "newEntrants": [
     {
       "symbol": "SNOW",
       "name": "Snowflake Inc.",
-      "theme": "雲端數據庫",
+      "theme": "雲端資料庫",
       "changePercent": -4.365228267667303,
-      "reason": ""
+      "reason": "財報優於預期且上調全年財測，AI業務成長動能強勁。"
     },
     {
       "symbol": "HPE",
       "name": "Hewlett Packard Enterprise Company",
-      "theme": "企業IT基礎設施",
+      "theme": "AI 伺服器",
       "changePercent": 1.8871633575781421,
-      "reason": ""
+      "reason": "上修今明兩年財測，AI需求爆發帶動伺服器及網路設備業務成長。"
     },
     {
       "symbol": "MDB",
       "name": "MongoDB, Inc. Class A",
-      "theme": "雲端數據庫",
+      "theme": "雲端資料庫",
       "changePercent": -13.544137629257733,
-      "reason": ""
-    },
-    {
-      "symbol": "UCBG",
-      "name": "UCBG",
-      "theme": "區域銀行",
-      "changePercent": 0.26962252846015183,
-      "reason": ""
+      "reason": "第二季營收獲利超預期並上調全年財測，但第三季成長預期放緩導致股價下跌。"
     },
     {
       "symbol": "JNJ",
       "name": "Johnson & Johnson",
       "theme": "生技製藥",
       "changePercent": 1.4823555440834773,
-      "reason": ""
+      "reason": "瑞銀調升評級至「買入」且目標價上調，股價創歷史新高。"
     },
     {
       "symbol": "COST",
       "name": "Costco Wholesale Corp",
       "theme": "零售",
       "changePercent": -1.2213285671730731,
-      "reason": ""
+      "reason": "八月淨銷售額年增9.9%，第四季度及全年銷售額均有顯著增長。"
     },
     {
       "symbol": "WFC",
       "name": "Wells Fargo & Co.",
-      "theme": "大型銀行",
+      "theme": "金融服務",
       "changePercent": 2.5620404411764586,
-      "reason": ""
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "NFLX",
       "name": "NetFlix Inc",
       "theme": "串流媒體",
       "changePercent": 2.3759435713401826,
-      "reason": ""
+      "reason": "Wolfe Research上調目標價，且有億萬富翁大舉買入。"
+    },
+    {
+      "symbol": "BAC",
+      "name": "Bank of America Corporation",
+      "theme": "金融服務",
+      "changePercent": 0.9840296822068066,
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點集中在AI相關個股與族群，主要由戴爾（DELL）強勁的財報和上修全年財測所帶動，印證AI伺服器需求持續飆升，激勵了Nvidia（NVDA）等AI晶片股上漲。此外，Google（GOOGL）發佈新的AI模型消息也推動了雲端服務/AI族群的交易熱度。市場故事聚焦於AI基礎建設的擴張以及相關技術的進步，儘管整體市場在經歷連續下跌後有所反彈，但AI題材仍是資金追逐的主軸。",
+    "highlights": "本日美股成交重點聚焦於AI相關題材，特別是AI晶片和AI伺服器領域。Dell Technologies (DELL) 因其強勁的財報和對AI伺服器需求的樂觀預期，股價飆升近16%，帶動了Nvidia (NVDA) 等AI晶片股上漲，顯示市場對AI基礎設施的投資熱情持續高漲。此外，記憶體族群也因AI需求推動價格上漲而受到關注。",
     "eventsPast": [
       {
-        "title": "戴爾（DELL）財報與財測大好",
-        "detail": "戴爾公布2027財年第二季營收與獲利雙雙優於市場預期，並上修全年營收預測250億美元至1920億美元，主要受惠於AI伺服器訂單的強勁增長，過去12個月AI伺服器訂單已超過1300億美元。"
+        "title": "戴爾財報超預期，AI伺服器需求強勁",
+        "detail": "Dell Technologies (DELL) 公布2027財年第二季營收達469.7億美元，遠超市場預期，並大幅上調全年營收預測，主要受惠於AI伺服器需求的爆發性成長。"
       },
       {
-        "title": "Google 推出新 AI 模型",
-        "detail": "Alphabet (GOOGL-US) 旗下的 Google DeepMind 預計於本週三推出新的人工智慧模型 Gemini 3.8 Flash，旨在強化其在 AI 程式設計領域的競爭力。"
+        "title": "Nvidia擬收購Hugging Face，鞏固AI晶片地位",
+        "detail": "據悉Nvidia (NVDA) 本週即將達成以近140億美元收購AI新創公司Hugging Face的交易，此舉將進一步強化其在AI領域的領導地位。"
       },
       {
-        "title": "Nvidia 擬收購 Hugging Face",
-        "detail": "據悉 Nvidia (NVDA) 本週即將達成以近140億美元收購開源人工智慧領域公司 Hugging Face 的交易。"
+        "title": "Google將發佈Gemini 3.8 Flash AI模型",
+        "detail": "Google (GOOGL) 預計本週三發佈Gemini 3.8 Flash人工智能模型，旨在縮小其在AI程式設計能力上與競爭對手的差距。"
       },
       {
-        "title": "蘋果新任執行長上任並預告新品發表會",
-        "detail": "蘋果（AAPL）新任執行長 John Ternus 於週二（9/1）上任，並預告下週將舉行一場「精彩非凡」的大型產品發表會。"
+        "title": "韓國8月半導體出口暴增，AI需求為主要推力",
+        "detail": "韓國8月半導體出口年增209%至466.5億美元，創歷史新高，其中近一半的出口額來自AI基礎設施的強勁需求，顯示AI熱潮對記憶體和半導體產業的巨大影響。"
       },
       {
-        "title": "微軟調整業績結構並單獨披露 Azure 營收",
-        "detail": "微軟（MSFT）宣布調整業績結構，將原有三個運營分部合併為「智能體與基礎設施」和「設備與消費者」兩大分部，並將首次單獨披露 Azure 雲計算業務的季度營收。"
+        "title": "美國8月ADP就業人數增幅創今年新低",
+        "detail": "美國8月ADP民間就業人數僅增加3.8萬人，低於市場預期並創下今年1月以來最小增幅，顯示美國勞動市場正在放緩。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "9/17",
-        "title": "FOMC 利率決議與經濟預測",
-        "detail": "美國聯準會（Fed）將於台灣時間9月17日凌晨公布FOMC利率決議，並同步發布利率點陣圖與經濟預測，此將影響市場對未來利率走向的預期。"
+        "date": "9/7",
+        "title": "美國8月非農就業數據公布",
+        "detail": "美國勞工部將於9月7日公布8月非農就業數據，這將是聯準會評估9月是否升息的關鍵參考指標。"
+      },
+      {
+        "date": "9/15-16",
+        "title": "美國聯準會 (Fed) 利率會議",
+        "detail": "聯準會將召開利率會議，市場對是否升息仍存在不確定性，但有約65%的機率預期會升息。"
       },
       {
         "date": "本週四",
-        "title": "博通（AVGO）財報",
-        "detail": "博通（AVGO）預計將於本週四公布財報，市場關注其在AI晶片領域的表現。"
+        "title": "Fed理事華勒談話",
+        "detail": "Fed理事華勒將發表談話，市場將密切關注其對貨幣政策的看法。"
       },
       {
-        "date": "九月",
-        "title": "美光（MU）財報",
-        "detail": "美光（MU）預計將於九月公布財報，其記憶體產品在AI需求下的表現備受關注。"
+        "date": "下週",
+        "title": "Apple產品發表會",
+        "detail": "Apple (AAPL) 新任執行長John Ternus預告下週將舉行一場「精彩非凡」的大型產品發表會。"
       },
       {
-        "date": "九月",
-        "title": "Adobe（ADBE）財報",
-        "detail": "Adobe（ADBE）預計將於九月公布財報。"
-      },
-      {
-        "date": "九月",
-        "title": "甲骨文（ORCL）財報",
-        "detail": "甲骨文（ORCL）預計將於九月公布財報。"
+        "date": "2027年Q2-Q3",
+        "title": "穎崴擴產5成",
+        "detail": "測試介面廠穎崴 (6515) 因應AI晶片需求持續高漲，預計於2027年第二季至第三季再擴充約5成產能。"
       }
     ]
   }
