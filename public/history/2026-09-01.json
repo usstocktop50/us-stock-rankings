@@ -177,7 +177,7 @@
       "dollarVolume": 6514216106.722618,
       "marketCap": 448764680000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體製造",
+      "theme": "CPU/半導體",
       "isNew": false,
       "rankChange": -1,
       "streak": 121
@@ -255,7 +255,7 @@
       "dollarVolume": 3618757733.0018854,
       "marketCap": 407068161720,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體 SaaS",
+      "theme": "資料庫軟體",
       "isNew": false,
       "rankChange": 20,
       "streak": 121
@@ -411,7 +411,7 @@
       "dollarVolume": 2376246423.589362,
       "marketCap": 81838135521.34001,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "線上券商",
+      "theme": "金融科技",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -463,7 +463,7 @@
       "dollarVolume": 2195945298.5209947,
       "marketCap": 635071677672.98,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "支付服務",
+      "theme": "支付處理",
       "isNew": false,
       "rankChange": 0,
       "streak": 14
@@ -541,7 +541,7 @@
       "dollarVolume": 1931796275.8130987,
       "marketCap": 505245597226.5,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "支付服務",
+      "theme": "支付處理",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -567,7 +567,7 @@
       "dollarVolume": 1859654083.9452534,
       "marketCap": 291916806804.48,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "金融服務",
+      "theme": "投資銀行",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-09-01T20:00:00.000Z",
-  "generatedAt": "2026-09-02T09:27:02.090Z",
+  "generatedAt": "2026-09-03T02:05:33.112Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "石油天然氣",
-      "reason": "全球能源需求預期增長以及地緣政治緊張局勢，推升油價，帶動相關能源股上漲。",
+      "reason": "全球能源需求回升以及地緣政治緊張局勢，推動油價上漲，帶動能源股表現。",
       "symbols": [
         "XOM",
         "CVX"
@@ -668,7 +668,7 @@
     },
     {
       "theme": "生技製藥",
-      "reason": "特定藥物研發進展或市場需求預期，吸引資金流入，推動相關生技製藥公司股價上揚。",
+      "reason": "特定藥物研發進展或市場需求預期，吸引資金流入生技製藥領域。",
       "symbols": [
         "MRNA"
       ],
@@ -677,7 +677,7 @@
     },
     {
       "theme": "減肥藥 GLP-1",
-      "reason": "GLP-1 藥物市場潛力巨大，相關藥廠持續受市場關注，股價表現強勁。",
+      "reason": "GLP-1 藥物市場潛力巨大，相關藥廠持續受到市場關注。",
       "symbols": [
         "LLY"
       ],
@@ -686,7 +686,7 @@
     },
     {
       "theme": "公用事業",
-      "reason": "公用事業股通常被視為防禦性資產，在市場不確定性增加時受到青睞。",
+      "reason": "公用事業股因其穩定的現金流和股息，在市場波動時常被視為避險資產。",
       "symbols": [
         "PCG"
       ],
@@ -695,7 +695,7 @@
     },
     {
       "theme": "燃料電池",
-      "reason": "對清潔能源和替代能源技術的投資興趣持續，燃料電池相關公司受益於此趨勢。",
+      "reason": "對清潔能源和替代能源技術的需求增加，推動燃料電池相關公司受到關注。",
       "symbols": [
         "BE"
       ],
@@ -703,13 +703,13 @@
       "avgChange": 3.553078041686856
     },
     {
-      "theme": "零售百貨",
-      "reason": "消費數據或企業財報顯示零售業績良好，提振市場對零售百貨股的信心。",
+      "theme": "消費性電子",
+      "reason": "新產品發布或銷售預期樂觀，提振了消費性電子龍頭的股價。",
       "symbols": [
-        "WMT"
+        "AAPL"
       ],
       "count": 1,
-      "avgChange": 1.0012396300181148
+      "avgChange": 2.6132239229919434
     }
   ],
   "newEntrants": [
@@ -718,63 +718,63 @@
       "name": "Lam Research Corp",
       "theme": "半導體設備",
       "changePercent": -3.74473448538924,
-      "reason": "半導體設備板塊普遍拋售壓力，及宏觀經濟不確定性影響。"
+      "reason": "半導體設備股受獲利了結與宏觀不確定性影響下跌，但長期需求穩固。"
     },
     {
       "symbol": "HOOD",
       "name": "Robinhood Markets, Inc. Class A Common Stock",
-      "theme": "線上券商",
+      "theme": "金融科技",
       "changePercent": -1.2403396622459661,
-      "reason": "摩根士丹利上調評級至「加碼」，看好產品線擴張與用戶變現能力。"
+      "reason": "摩根士丹利調升評等與目標價，看好用戶變現能力及新產品線。"
     },
     {
       "symbol": "BE",
       "name": "Bloom Energy Corporation",
       "theme": "燃料電池",
       "changePercent": 3.553078041686856,
-      "reason": "美伊衝突升溫推升油價，市場關注能源安全與AI資料中心電力需求。"
+      "reason": "美伊衝突升溫推升油價，燃料電池受惠能源安全與AI資料中心電力需求。"
     },
     {
       "symbol": "PCG",
       "name": "PG&E Corporation",
       "theme": "公用事業",
       "changePercent": 5.953278070836481,
-      "reason": "股價在加州野火法案未提供責任保護後大幅下跌，隨後出現穩定反彈。"
+      "reason": "宣布啟動戰略審查並推遲20億美元資本支出，以應對野火責任框架風險。"
     },
     {
       "symbol": "CRDO",
       "name": "Credo Technology Group Holding Ltd Ordinary Shares",
       "theme": "半導體網路通訊",
       "changePercent": -8.647597152836111,
-      "reason": "財報營收超預期但毛利率下滑，且光通信業務加速推遲引發拋售。"
+      "reason": "市場預期財報亮眼，AI基礎設施對光學產品需求大增。"
     },
     {
       "symbol": "MA",
       "name": "Mastercard Incorporated",
-      "theme": "支付服務",
+      "theme": "支付處理",
       "changePercent": -1.3931547063514829,
       "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "GS",
       "name": "Goldman Sachs Group Inc.",
-      "theme": "金融服務",
+      "theme": "投資銀行",
       "changePercent": -2.275075543425299,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "投資人青睞大型銀行股，且投資銀行費用收入強勁增長。"
     },
     {
       "symbol": "TXN",
       "name": "Texas Instruments Incorporated",
       "theme": "類比IC",
       "changePercent": -2.9013836188724165,
-      "reason": "美債殖利率上升與類股回檔，拖累股價走低。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "KLAC",
       "name": "KLA Corporation Common Stock",
       "theme": "半導體設備",
       "changePercent": -2.5990310629809077,
-      "reason": "半導體設備板塊普遍拋售壓力，及總體經濟不確定性影響。"
+      "reason": "半導體設備股受獲利了結與宏觀不確定性影響下跌。"
     },
     {
       "symbol": "SKHY",
@@ -788,39 +788,33 @@
       "name": "Medtronic plc",
       "theme": "醫療器材",
       "changePercent": 1.5333701047986767,
-      "reason": "第一季財報營收與獲利皆優於預期，心血管業務強勁成長並上調財測。"
+      "reason": "第一季財報優於預期，心血管業務強勁成長並上調全年財測。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI相關產業的資金輪動與部分個股的重大消息。記憶體和AI晶片股雖然成交金額仍高，但市場對其短期供需失衡的獲利了結情緒濃厚，資金正從純粹的「故事股」轉向具備穩定現金流與明確產能規劃的企業，如Nvidia和Intel。同時，雲端服務巨頭如Microsoft、Amazon和Meta Platforms因其在AI基礎設施中的關鍵地位，正吸引資金流入。此外，Apple因執行長交接而受到關注，Tesla則因在中國市場推出低價車型而刺激成交量。",
+    "highlights": "本日美股成交重點聚焦於AI相關產業，資金主要流向記憶體、AI晶片及電腦硬體等領域。戴爾科技（DELL）因AI伺服器業務表現亮眼，大幅上調全年財測，成為市場焦點，股價應聲大漲。此外，記憶體族群（MU, SNDK）受惠於AI基礎建設擴張帶來的強勁需求，儘管盤中有所波動，但長期需求看好。AI晶片股（NVDA, AMD, AVGO）則面臨市場對估值、供應限制及競爭加劇的疑慮，部分個股呈現下跌。",
     "eventsPast": [
       {
-        "title": "特斯拉在中國市場推出簡配低價Model 3",
-        "detail": "特斯拉於9月1日在中國香港和澳門市場推出配置簡化、售價更低的Model 3轎車版本，刺激了成交量。"
+        "title": "戴爾科技上調全年財測，AI伺服器訂單激增",
+        "detail": "戴爾科技（DELL）公布第二季財報，營收和每股盈餘均超出預期，並將2027財年AI伺服器營收預期上調至740億美元，顯示AI需求強勁。"
       },
       {
-        "title": "蘋果執行長庫克卸任，新任執行長上任",
-        "detail": "8月31日是蒂姆·庫克擔任蘋果首席執行官的最後一天，現任蘋果硬體工程高級副總裁約翰·特努斯於9月1日接任。"
+        "title": "博通AI晶片業務展望樂觀，但近期財測低於預期",
+        "detail": "博通（AVGO）第三財季業績優於市場預期，AI半導體營收年增逾兩倍，執行長預計AI晶片營收未來兩年將連續翻倍，但本季營收展望低於分析師預估，導致股價盤後震盪。"
       },
       {
-        "title": "微軟Windows 11原生UI框架WinUI完成開源遷移",
-        "detail": "8月31日，微軟在GitHub上宣布，Windows 11原生UI框架WinUI已完成開源遷移，主線開發正式轉移至GitHub公開進行。"
+        "title": "燃料電池能源公司Q3業績不如預期",
+        "detail": "燃料電池能源公司（FCEL）第三季度調整後虧損擴大，營收年減29%，主因韓國交付量減少及美國海軍項目暫停，導致股價下跌。"
       },
       {
-        "title": "亞馬遜遭FTC起訴",
-        "detail": "美國聯邦貿易委員會（FTC）於9月1日起訴亞馬遜，指控其通過操縱定價和拍賣系統，秘密地、系統性地向廣告商超額收費。"
+        "title": "美伊衝突升溫，油價飆升影響市場情緒",
+        "detail": "9月1日美伊衝突急速升溫，導致油價暴衝逾2.8%，地緣政治風險重燃市場對通膨再加速的疑慮，對科技股估值形成壓力。"
       },
       {
-        "title": "Nvidia與聯發科深化合作",
-        "detail": "Nvidia已斥資35億美元認購聯發科發行的可轉換債券，並將共同開發面向消費級個人電腦的下一代Nvidia Spark系列晶片。"
+        "title": "中國記憶體廠商突破HBM3E技術",
+        "detail": "中國記憶體製造商CXMT已開始小規模生產HBM3E高帶寬記憶體，並計劃在2027年前擴大產能，可能加劇全球AI記憶體市場競爭。"
       }
     ],
-    "eventsUpcoming": [
-      {
-        "date": "未來幾天",
-        "title": "戴爾科技財報公告",
-        "detail": "考量近期xAI等客戶加單，法人預期AI訂單有機會再度上修，值得關注其財報表現。"
-      }
-    ]
+    "eventsUpcoming": []
   }
 }
