@@ -125,7 +125,7 @@
       "dollarVolume": 7613798597.078675,
       "marketCap": 1978220160000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "雲端/AI",
+      "theme": "搜尋引擎/AI",
       "isNew": false,
       "rankChange": -1,
       "streak": 122
@@ -151,7 +151,7 @@
       "dollarVolume": 6787917300.321357,
       "marketCap": 389878880732.34,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "資料分析/AI",
+      "theme": "大數據分析",
       "isNew": false,
       "rankChange": 5,
       "streak": 122
@@ -177,7 +177,7 @@
       "dollarVolume": 5507223746.494155,
       "marketCap": 454212200000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "CPU/AI 晶片",
       "isNew": false,
       "rankChange": 0,
       "streak": 122
@@ -190,7 +190,7 @@
       "dollarVolume": 5458649301.001734,
       "marketCap": 746139042696.52,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "AI 晶片",
+      "theme": "CPU/GPU",
       "isNew": false,
       "rankChange": -4,
       "streak": 122
@@ -203,7 +203,7 @@
       "dollarVolume": 5098978508.615822,
       "marketCap": 31050565516.52,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "資料中心互連",
+      "theme": "高速傳輸晶片",
       "isNew": false,
       "rankChange": 25,
       "streak": 2
@@ -229,7 +229,7 @@
       "dollarVolume": 4336617831.010148,
       "marketCap": 1844802059999.9998,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "雲端/AI",
+      "theme": "搜尋引擎/AI",
       "isNew": false,
       "rankChange": -3,
       "streak": 122
@@ -268,7 +268,7 @@
       "dollarVolume": 3174344336.843077,
       "marketCap": 419828648250,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端資料庫",
+      "theme": "企業軟體/雲端",
       "isNew": false,
       "rankChange": -1,
       "streak": 122
@@ -281,7 +281,7 @@
       "dollarVolume": 3139045982.9588046,
       "marketCap": 180628704000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "資料中心互連",
+      "theme": "資料中心晶片",
       "isNew": false,
       "rankChange": -6,
       "streak": 112
@@ -294,7 +294,7 @@
       "dollarVolume": 3109443185.6343875,
       "marketCap": 68633468493.43,
       "sector": "COMPUTER & OFFICE EQUIPMENT",
-      "theme": "AI 伺服器",
+      "theme": "企業伺服器",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -346,7 +346,7 @@
       "dollarVolume": 2672191517.3250246,
       "marketCap": 844272617553.9501,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售",
+      "theme": "零售百貨",
       "isNew": false,
       "rankChange": 6,
       "streak": 35
@@ -411,7 +411,7 @@
       "dollarVolume": 2416389369.852408,
       "marketCap": 78091026000,
       "sector": "COMMUNICATIONS EQUIPMENT, NEC",
-      "theme": "光通訊",
+      "theme": "光通訊元件",
       "isNew": false,
       "rankChange": -10,
       "streak": 40
@@ -502,7 +502,7 @@
       "dollarVolume": 2014173259.223473,
       "marketCap": 411761199937.92,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售",
+      "theme": "零售百貨",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -515,7 +515,7 @@
       "dollarVolume": 1972991778.0226946,
       "marketCap": 364191221056.92,
       "sector": "CONSTRUCTION MACHINERY & EQUIP",
-      "theme": "基礎建設",
+      "theme": "重型機械",
       "isNew": false,
       "rankChange": -6,
       "streak": 3
@@ -528,7 +528,7 @@
       "dollarVolume": 1945670920.774046,
       "marketCap": 63994901738.88,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "氫能源",
+      "theme": "燃料電池",
       "isNew": false,
       "rankChange": -6,
       "streak": 2
@@ -652,76 +652,71 @@
     }
   ],
   "asOf": "2026-09-02T20:00:00.000Z",
-  "generatedAt": "2026-09-03T07:26:47.627Z",
+  "generatedAt": "2026-09-03T09:31:23.190Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "金融服務",
-      "reason": "在市場波動中，大型銀行和金融服務公司因其穩健的業務模式和潛在的利率環境變化而受到資金關注。",
+      "reason": "市場對經濟前景的樂觀情緒以及潛在的降息預期，提振了金融股的表現。",
       "symbols": [
         "GS",
-        "V",
         "JPM",
         "WFC",
         "HOOD",
         "BAC"
       ],
-      "count": 6,
-      "avgChange": 1.4981565656075595
+      "count": 5,
+      "avgChange": 1.4902772124559633
     },
     {
       "theme": "AI 晶片",
-      "reason": "AI 產業持續高速發展，帶動對高性能AI晶片的需求，相關供應商持續受市場追捧。",
+      "reason": "AI 技術的持續發展和應用擴張，帶動了對高性能AI晶片的需求，市場對此類股票保持高度關注。",
       "symbols": [
         "NVDA",
+        "INTC"
+      ],
+      "count": 2,
+      "avgChange": 2.2096871476466453
+    },
+    {
+      "theme": "記憶體",
+      "reason": "AI和高效能運算對記憶體需求增加，加上產業庫存調整接近尾聲，記憶體價格回升預期支撐股價。",
+      "symbols": [
         "MU",
-        "INTC",
         "SKHY"
       ],
-      "count": 4,
-      "avgChange": 2.3642691488280656
+      "count": 2,
+      "avgChange": 2.5188511500094863
     },
     {
-      "theme": "AI 伺服器",
-      "reason": "AI應用普及推動企業對高效能伺服器硬體的需求，相關供應商受惠於訂單增長。",
+      "theme": "搜尋引擎/AI",
+      "reason": "大型科技公司在AI領域的持續投入和創新，使其在市場上保持競爭力。",
       "symbols": [
-        "DELL",
-        "HPE"
+        "GOOGL",
+        "GOOG"
       ],
       "count": 2,
-      "avgChange": 8.849464031730246
+      "avgChange": 0.5769445284090498
     },
     {
-      "theme": "雲端/AI",
-      "reason": "雲端服務和AI技術的深度融合，使得提供相關基礎設施和應用服務的公司持續獲得市場青睞。",
+      "theme": "生技製藥",
+      "reason": "醫療保健領域的穩定需求以及新藥研發的進展，為生技製藥公司帶來成長動能。",
       "symbols": [
-        "META",
-        "GOOGL",
-        "GOOG",
-        "NBIS"
+        "LLY",
+        "JNJ"
       ],
-      "count": 4,
-      "avgChange": 1.4769003284633206
+      "count": 2,
+      "avgChange": 0.7446260479038045
     },
     {
-      "theme": "雲端資料庫",
-      "reason": "隨著企業數位轉型加速，對高效能、可擴展的雲端資料庫解決方案需求旺盛。",
+      "theme": "儲存裝置",
+      "reason": "數據量的爆炸式增長持續推動對儲存解決方案的需求，相關公司受益於此趨勢。",
       "symbols": [
-        "ORCL"
+        "SNDK"
       ],
       "count": 1,
-      "avgChange": 3.1347296914803335
-    },
-    {
-      "theme": "電力基礎建設",
-      "reason": "全球能源轉型和AI數據中心對電力需求的增長，使得電力基礎設施相關公司受到關注。",
-      "symbols": [
-        "GEV",
-        "BE"
-      ],
-      "count": 2,
-      "avgChange": 2.156964037375831
+      "avgChange": 1.0755626695816953
     }
   ],
   "newEntrants": [
@@ -730,35 +725,35 @@
       "name": "Snowflake Inc.",
       "theme": "雲端資料庫",
       "changePercent": -4.365228267667303,
-      "reason": "財報優於預期且上調全年財測，AI業務成長動能強勁。"
+      "reason": "財報亮眼且上調財測，AI 數據雲業務持續成長，帶動股價上漲。"
     },
     {
       "symbol": "HPE",
       "name": "Hewlett Packard Enterprise Company",
-      "theme": "AI 伺服器",
+      "theme": "企業伺服器",
       "changePercent": 1.8871633575781421,
-      "reason": "上修今明兩年財測，AI需求爆發帶動伺服器及網路設備業務成長。"
+      "reason": "第三季財報優於預期，上調全年財測，AI 基礎設施業務動能強勁。"
     },
     {
       "symbol": "MDB",
       "name": "MongoDB, Inc. Class A",
       "theme": "雲端資料庫",
       "changePercent": -13.544137629257733,
-      "reason": "第二季營收獲利超預期並上調全年財測，但第三季成長預期放緩導致股價下跌。"
+      "reason": "第二季財報雖優於預期並上調財測，但 Atlas 營收成長未達投資人期待。"
     },
     {
       "symbol": "JNJ",
       "name": "Johnson & Johnson",
       "theme": "生技製藥",
       "changePercent": 1.4823555440834773,
-      "reason": "瑞銀調升評級至「買入」且目標價上調，股價創歷史新高。"
+      "reason": "UBS 調升評級至買進，看好其製藥產品線成長潛力。"
     },
     {
       "symbol": "COST",
       "name": "Costco Wholesale Corp",
-      "theme": "零售",
+      "theme": "零售百貨",
       "changePercent": -1.2213285671730731,
-      "reason": "八月淨銷售額年增9.9%，第四季度及全年銷售額均有顯著增長。"
+      "reason": "八月銷售額年增 9.9%，數位銷售成長強勁。"
     },
     {
       "symbol": "WFC",
@@ -772,14 +767,14 @@
       "name": "NetFlix Inc",
       "theme": "串流媒體",
       "changePercent": 2.3759435713401826,
-      "reason": "Wolfe Research上調目標價，且有億萬富翁大舉買入。"
+      "reason": "投資人關注其估值與廣告業務及訂閱增長潛力。"
     },
     {
       "symbol": "BAC",
       "name": "Bank of America Corporation",
       "theme": "金融服務",
       "changePercent": 0.9840296822068066,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "受惠於投資人轉向大型銀行股，以及對利率維持高檔的預期。"
     }
   ],
   "marketBriefing": {
