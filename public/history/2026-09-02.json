@@ -99,7 +99,7 @@
       "dollarVolume": 9821073512.84501,
       "marketCap": 1307310436560.6501,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "社群媒體/AI",
+      "theme": "社群媒體",
       "isNew": false,
       "rankChange": -1,
       "streak": 122
@@ -125,7 +125,7 @@
       "dollarVolume": 7613798597.078675,
       "marketCap": 1978220160000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "搜尋引擎/AI",
+      "theme": "搜尋引擎",
       "isNew": false,
       "rankChange": -1,
       "streak": 122
@@ -138,7 +138,7 @@
       "dollarVolume": 7009658200.929337,
       "marketCap": 1854808256060.9502,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "太空科技",
+      "theme": "太空",
       "isNew": false,
       "rankChange": -1,
       "streak": 57
@@ -164,7 +164,7 @@
       "dollarVolume": 6124000734.405456,
       "marketCap": 2750294234588.56,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電商/雲端",
+      "theme": "電商",
       "isNew": false,
       "rankChange": -5,
       "streak": 122
@@ -177,7 +177,7 @@
       "dollarVolume": 5507223746.494155,
       "marketCap": 454212200000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "CPU/AI 晶片",
+      "theme": "CPU 晶片",
       "isNew": false,
       "rankChange": 0,
       "streak": 122
@@ -190,7 +190,7 @@
       "dollarVolume": 5458649301.001734,
       "marketCap": 746139042696.52,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "CPU/GPU",
+      "theme": "AI 晶片",
       "isNew": false,
       "rankChange": -4,
       "streak": 122
@@ -203,7 +203,7 @@
       "dollarVolume": 5098978508.615822,
       "marketCap": 31050565516.52,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "高速傳輸晶片",
+      "theme": "資料中心互連",
       "isNew": false,
       "rankChange": 25,
       "streak": 2
@@ -229,7 +229,7 @@
       "dollarVolume": 4336617831.010148,
       "marketCap": 1844802059999.9998,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "搜尋引擎/AI",
+      "theme": "搜尋引擎",
       "isNew": false,
       "rankChange": -3,
       "streak": 122
@@ -242,7 +242,7 @@
       "dollarVolume": 3814756110.968715,
       "marketCap": 106004143999.99998,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端資料庫",
+      "theme": "雲端數據",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -268,7 +268,7 @@
       "dollarVolume": 3174344336.843077,
       "marketCap": 419828648250,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "企業軟體/雲端",
+      "theme": "雲端資料庫",
       "isNew": false,
       "rankChange": -1,
       "streak": 122
@@ -281,7 +281,7 @@
       "dollarVolume": 3139045982.9588046,
       "marketCap": 180628704000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "資料中心晶片",
+      "theme": "資料中心互連",
       "isNew": false,
       "rankChange": -6,
       "streak": 112
@@ -385,7 +385,7 @@
       "dollarVolume": 2490850182.254422,
       "marketCap": 60208764420.090004,
       "sector": "BIOLOGICAL PRODUCTS, (NO DIAGNOSTIC SUBSTANCES)",
-      "theme": "生技製藥",
+      "theme": "mRNA 疫苗",
       "isNew": false,
       "rankChange": -11,
       "streak": 11
@@ -411,7 +411,7 @@
       "dollarVolume": 2416389369.852408,
       "marketCap": 78091026000,
       "sector": "COMMUNICATIONS EQUIPMENT, NEC",
-      "theme": "光通訊元件",
+      "theme": "光通訊",
       "isNew": false,
       "rankChange": -10,
       "streak": 40
@@ -424,7 +424,7 @@
       "dollarVolume": 2206981496.1056843,
       "marketCap": 292458385623.36,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "金融服務",
+      "theme": "投資銀行",
       "isNew": false,
       "rankChange": 11,
       "streak": 2
@@ -541,7 +541,7 @@
       "dollarVolume": 1906170903.161228,
       "marketCap": 946899086382.9,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "金融服務",
+      "theme": "商業銀行",
       "isNew": false,
       "rankChange": 4,
       "streak": 3
@@ -567,7 +567,7 @@
       "dollarVolume": 1838636410.4984066,
       "marketCap": 269952420724.72,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "金融服務",
+      "theme": "商業銀行",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -632,7 +632,7 @@
       "dollarVolume": 1783353048.6230795,
       "marketCap": 84589528735.65999,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "金融科技",
+      "theme": "線上券商",
       "isNew": false,
       "rankChange": -17,
       "streak": 2
@@ -645,43 +645,29 @@
       "dollarVolume": 1781867116.1590617,
       "marketCap": 437746047649,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "金融服務",
+      "theme": "商業銀行",
       "isNew": true,
       "rankChange": null,
       "streak": 1
     }
   ],
   "asOf": "2026-09-02T20:00:00.000Z",
-  "generatedAt": "2026-09-03T09:31:23.190Z",
+  "generatedAt": "2026-09-04T02:06:08.000Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
-      "theme": "金融服務",
-      "reason": "市場對經濟前景的樂觀情緒以及潛在的降息預期，提振了金融股的表現。",
-      "symbols": [
-        "GS",
-        "JPM",
-        "WFC",
-        "HOOD",
-        "BAC"
-      ],
-      "count": 5,
-      "avgChange": 1.4902772124559633
-    },
-    {
       "theme": "AI 晶片",
-      "reason": "AI 技術的持續發展和應用擴張，帶動了對高性能AI晶片的需求，市場對此類股票保持高度關注。",
+      "reason": "AI 產業持續蓬勃發展，市場對高效能運算晶片的需求不斷增長，帶動相關供應鏈表現。",
       "symbols": [
-        "NVDA",
-        "INTC"
+        "NVDA"
       ],
-      "count": 2,
-      "avgChange": 2.2096871476466453
+      "count": 1,
+      "avgChange": 3.2054819720382626
     },
     {
       "theme": "記憶體",
-      "reason": "AI和高效能運算對記憶體需求增加，加上產業庫存調整接近尾聲，記憶體價格回升預期支撐股價。",
+      "reason": "AI 應用對高頻寬記憶體（HBM）需求強勁，加上整體記憶體市場復甦預期，推升相關個股。",
       "symbols": [
         "MU",
         "SKHY"
@@ -690,8 +676,19 @@
       "avgChange": 2.5188511500094863
     },
     {
-      "theme": "搜尋引擎/AI",
-      "reason": "大型科技公司在AI領域的持續投入和創新，使其在市場上保持競爭力。",
+      "theme": "商業銀行",
+      "reason": "市場對經濟前景的樂觀情緒以及聯準會利率政策預期，有利於銀行業的獲利表現。",
+      "symbols": [
+        "JPM",
+        "WFC",
+        "BAC"
+      ],
+      "count": 3,
+      "avgChange": 1.3012889987274205
+    },
+    {
+      "theme": "搜尋引擎",
+      "reason": "科技巨頭在AI領域的持續投入和產品創新，為其核心業務帶來成長動能。",
       "symbols": [
         "GOOGL",
         "GOOG"
@@ -700,65 +697,64 @@
       "avgChange": 0.5769445284090498
     },
     {
-      "theme": "生技製藥",
-      "reason": "醫療保健領域的穩定需求以及新藥研發的進展，為生技製藥公司帶來成長動能。",
+      "theme": "零售百貨",
+      "reason": "消費者支出數據表現穩健，以及企業營運效率提升，支撐零售業績。",
       "symbols": [
-        "LLY",
-        "JNJ"
-      ],
-      "count": 2,
-      "avgChange": 0.7446260479038045
-    },
-    {
-      "theme": "儲存裝置",
-      "reason": "數據量的爆炸式增長持續推動對儲存解決方案的需求，相關公司受益於此趨勢。",
-      "symbols": [
-        "SNDK"
+        "WMT"
       ],
       "count": 1,
-      "avgChange": 1.0755626695816953
+      "avgChange": 0.1604984894259835
+    },
+    {
+      "theme": "電力基礎建設",
+      "reason": "全球能源轉型及電網現代化需求，推動電力基礎設施相關產業發展。",
+      "symbols": [
+        "GEV"
+      ],
+      "count": 1,
+      "avgChange": 2.6053665431315687
     }
   ],
   "newEntrants": [
     {
       "symbol": "SNOW",
       "name": "Snowflake Inc.",
-      "theme": "雲端資料庫",
+      "theme": "雲端數據",
       "changePercent": -4.365228267667303,
-      "reason": "財報亮眼且上調財測，AI 數據雲業務持續成長，帶動股價上漲。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "HPE",
       "name": "Hewlett Packard Enterprise Company",
       "theme": "企業伺服器",
       "changePercent": 1.8871633575781421,
-      "reason": "第三季財報優於預期，上調全年財測，AI 基礎設施業務動能強勁。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "MDB",
       "name": "MongoDB, Inc. Class A",
       "theme": "雲端資料庫",
       "changePercent": -13.544137629257733,
-      "reason": "第二季財報雖優於預期並上調財測，但 Atlas 營收成長未達投資人期待。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "JNJ",
       "name": "Johnson & Johnson",
       "theme": "生技製藥",
       "changePercent": 1.4823555440834773,
-      "reason": "UBS 調升評級至買進，看好其製藥產品線成長潛力。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "COST",
       "name": "Costco Wholesale Corp",
       "theme": "零售百貨",
       "changePercent": -1.2213285671730731,
-      "reason": "八月銷售額年增 9.9%，數位銷售成長強勁。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "WFC",
       "name": "Wells Fargo & Co.",
-      "theme": "金融服務",
+      "theme": "商業銀行",
       "changePercent": 2.5620404411764586,
       "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
@@ -767,65 +763,65 @@
       "name": "NetFlix Inc",
       "theme": "串流媒體",
       "changePercent": 2.3759435713401826,
-      "reason": "投資人關注其估值與廣告業務及訂閱增長潛力。"
+      "reason": "第一季新增訂閱人數超預期，營收成長強勁。"
     },
     {
       "symbol": "BAC",
       "name": "Bank of America Corporation",
-      "theme": "金融服務",
+      "theme": "商業銀行",
       "changePercent": 0.9840296822068066,
-      "reason": "受惠於投資人轉向大型銀行股，以及對利率維持高檔的預期。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI相關題材，特別是AI晶片和AI伺服器領域。Dell Technologies (DELL) 因其強勁的財報和對AI伺服器需求的樂觀預期，股價飆升近16%，帶動了Nvidia (NVDA) 等AI晶片股上漲，顯示市場對AI基礎設施的投資熱情持續高漲。此外，記憶體族群也因AI需求推動價格上漲而受到關注。",
+    "highlights": "本日美股成交焦點集中在AI相關類股，Nvidia（NVDA）和Dell（DELL）在AI晶片和AI伺服器領域表現強勁，Nvidia的AI晶片營收年增221%，Dell的AI伺服器訂單和營收也創下歷史新高。此外，Palantir（PLTR）受惠於AI主權需求，營收大幅成長。市場資金主要追逐AI產業的爆發性成長，特別是硬體和軟體解決方案供應商。",
     "eventsPast": [
       {
-        "title": "戴爾財報超預期，AI伺服器需求強勁",
-        "detail": "Dell Technologies (DELL) 公布2027財年第二季營收達469.7億美元，遠超市場預期，並大幅上調全年營收預測，主要受惠於AI伺服器需求的爆發性成長。"
+        "title": "Nvidia 公布 2027 會計年度第二季財報",
+        "detail": "Nvidia 於 2026 年 8 月 26 日公布財報，營收達 962 億美元，年增 106%，其中資料中心營收年增 117%。"
       },
       {
-        "title": "Nvidia擬收購Hugging Face，鞏固AI晶片地位",
-        "detail": "據悉Nvidia (NVDA) 本週即將達成以近140億美元收購AI新創公司Hugging Face的交易，此舉將進一步強化其在AI領域的領導地位。"
+        "title": "Dell Technologies 公布 2027 會計年度第二季財報",
+        "detail": "Dell 於 2026 年 9 月 1 日公布財報，營收年增 58% 達 470 億美元，AI 伺服器訂單達 609 億美元，營收達 164 億美元，均創歷史新高，並將全年財測上修至 1,920 億美元。"
       },
       {
-        "title": "Google將發佈Gemini 3.8 Flash AI模型",
-        "detail": "Google (GOOGL) 預計本週三發佈Gemini 3.8 Flash人工智能模型，旨在縮小其在AI程式設計能力上與競爭對手的差距。"
+        "title": "Broadcom 公布 2026 會計年度第三季財報",
+        "detail": "Broadcom 於 2026 年 9 月 2 日公布財報，營收達 296 億美元，年增 86%，其中 AI 半導體營收年增 221% 達 167 億美元。"
       },
       {
-        "title": "韓國8月半導體出口暴增，AI需求為主要推力",
-        "detail": "韓國8月半導體出口年增209%至466.5億美元，創歷史新高，其中近一半的出口額來自AI基礎設施的強勁需求，顯示AI熱潮對記憶體和半導體產業的巨大影響。"
+        "title": "Palantir 公布 2026 年第二季財報",
+        "detail": "Palantir 於 2026 年 8 月 3 日公布財報，營收年增 93% 達 19.35 億美元，美國商業營收年增 149%，並上修全年營收預期。"
       },
       {
-        "title": "美國8月ADP就業人數增幅創今年新低",
-        "detail": "美國8月ADP民間就業人數僅增加3.8萬人，低於市場預期並創下今年1月以來最小增幅，顯示美國勞動市場正在放緩。"
+        "title": "SpaceX 公布 2026 年第二季財報",
+        "detail": "SpaceX 於 2026 年 8 月 4 日公布財報，營收年增 92% 達 78 億美元，並宣布以 600 億美元收購 Cursor 以加速 AI 企業機會。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "9/7",
-        "title": "美國8月非農就業數據公布",
-        "detail": "美國勞工部將於9月7日公布8月非農就業數據，這將是聯準會評估9月是否升息的關鍵參考指標。"
+        "date": "9/4",
+        "title": "美國 8 月非農就業人口新增數與失業率",
+        "detail": "此數據將提供美國勞動力市場狀況的最新資訊，可能影響聯準會未來的貨幣政策決策。"
       },
       {
-        "date": "9/15-16",
-        "title": "美國聯準會 (Fed) 利率會議",
-        "detail": "聯準會將召開利率會議，市場對是否升息仍存在不確定性，但有約65%的機率預期會升息。"
+        "date": "9/10",
+        "title": "美國 8 月生產者物價指數 (PPI)",
+        "detail": "PPI 是衡量生產者收到商品和服務價格變化的指標，可作為未來消費者物價指數的先行指標。"
       },
       {
-        "date": "本週四",
-        "title": "Fed理事華勒談話",
-        "detail": "Fed理事華勒將發表談話，市場將密切關注其對貨幣政策的看法。"
+        "date": "9/11",
+        "title": "美國 8 月消費者物價指數 (CPI)",
+        "detail": "CPI 是衡量消費者支付商品和服務價格變化的指標，是評估通膨壓力的關鍵數據。"
       },
       {
-        "date": "下週",
-        "title": "Apple產品發表會",
-        "detail": "Apple (AAPL) 新任執行長John Ternus預告下週將舉行一場「精彩非凡」的大型產品發表會。"
+        "date": "9/17",
+        "title": "聯準會 (FED) 利率決議與點陣圖/經濟預測",
+        "detail": "聯準會將公布最新的利率決議，並透過點陣圖和經濟預測，揭示其對未來利率路徑和經濟前景的看法。"
       },
       {
-        "date": "2027年Q2-Q3",
-        "title": "穎崴擴產5成",
-        "detail": "測試介面廠穎崴 (6515) 因應AI晶片需求持續高漲，預計於2027年第二季至第三季再擴充約5成產能。"
+        "date": "9/18",
+        "title": "季度結算四巫日",
+        "detail": "此為股指期貨、股指選擇權、個股期貨和個股選擇權同時到期的日子，通常會導致市場波動加劇。"
       }
     ]
   }
