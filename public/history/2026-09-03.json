@@ -60,7 +60,7 @@
       "dollarVolume": 18091553079.240345,
       "marketCap": 1973839728964.3,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "太空",
+      "theme": "太空科技",
       "isNew": false,
       "rankChange": 6,
       "streak": 58
@@ -138,7 +138,7 @@
       "dollarVolume": 8064499914.771137,
       "marketCap": 123552502000.00002,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端資料庫",
+      "theme": "雲端數據",
       "isNew": false,
       "rankChange": 8,
       "streak": 2
@@ -294,7 +294,7 @@
       "dollarVolume": 3667965128.666137,
       "marketCap": 72089639683.23999,
       "sector": "COMPUTER & OFFICE EQUIPMENT",
-      "theme": "伺服器/網路",
+      "theme": "PC/伺服器",
       "isNew": false,
       "rankChange": 0,
       "streak": 2
@@ -307,7 +307,7 @@
       "dollarVolume": 3594358056.560334,
       "marketCap": 69375916350.3,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "燃料電池",
+      "theme": "潔淨能源",
       "isNew": false,
       "rankChange": 17,
       "streak": 3
@@ -359,7 +359,7 @@
       "dollarVolume": 2766874104.7360053,
       "marketCap": 862814941985.1,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售",
+      "theme": "零售百貨",
       "isNew": false,
       "rankChange": -1,
       "streak": 36
@@ -502,7 +502,7 @@
       "dollarVolume": 2293888203.791395,
       "marketCap": 30853234117.219997,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "資料中心互連",
+      "theme": "AI 網路晶片",
       "isNew": false,
       "rankChange": -23,
       "streak": 3
@@ -580,7 +580,7 @@
       "dollarVolume": 2009356226.0372865,
       "marketCap": 410399720009.64,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售",
+      "theme": "零售百貨",
       "isNew": false,
       "rankChange": -6,
       "streak": 2
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-09-03T20:00:00.000Z",
-  "generatedAt": "2026-09-04T07:31:14.331Z",
+  "generatedAt": "2026-09-04T09:32:16.918Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型與AI應用需求持續推動雲端服務及軟體訂閱模式成長，市場對其未來獲利能力抱持樂觀。",
+      "reason": "企業數位轉型需求持續，加上AI整合應用前景看好，帶動雲端軟體服務商股價表現。",
       "symbols": [
         "MSFT",
         "SNOW",
@@ -674,7 +674,7 @@
     },
     {
       "theme": "比特幣/加密",
-      "reason": "比特幣價格波動與市場對加密貨幣ETF的預期，持續吸引資金流入相關概念股。",
+      "reason": "比特幣價格波動帶動相關概念股表現，市場對加密貨幣的接受度與應用前景持續關注。",
       "symbols": [
         "MSTR",
         "HOOD",
@@ -686,29 +686,27 @@
     },
     {
       "theme": "AI 晶片",
-      "reason": "全球對AI算力需求激增，推動AI晶片及其相關基礎設施供應商的股價上漲。",
+      "reason": "AI技術發展持續推動對高效能運算晶片的需求，市場預期相關公司將受惠於AI產業成長。",
       "symbols": [
         "NVDA",
-        "INTC",
-        "AMD"
+        "INTC"
       ],
-      "count": 3,
-      "avgChange": 1.1341220484025634
+      "count": 2,
+      "avgChange": 1.7996384176351294
     },
     {
-      "theme": "資安",
-      "reason": "網路攻擊事件頻傳，企業及政府對資安防護的投入增加，帶動資安軟體服務商的成長。",
+      "theme": "PC/伺服器",
+      "reason": "AI PC與伺服器市場需求增長，帶動相關硬體供應商的營收預期。",
       "symbols": [
-        "PLTR",
-        "CRWD",
-        "PANW"
+        "DELL",
+        "HPE"
       ],
-      "count": 3,
-      "avgChange": 4.814659642085524
+      "count": 2,
+      "avgChange": 4.9751812237723065
     },
     {
       "theme": "電動車",
-      "reason": "儘管市場競爭激烈，但電動車產業長期趨勢不變，特定利好消息或技術突破仍能提振股價。",
+      "reason": "儘管市場競爭激烈，但電動車長期發展趨勢不變，部分公司在技術創新或市場策略上取得進展。",
       "symbols": [
         "TSLA"
       ],
@@ -716,14 +714,14 @@
       "avgChange": 5.421416767037343
     },
     {
-      "theme": "PC/伺服器",
-      "reason": "AI PC與AI伺服器需求逐漸浮現，市場預期將帶動相關硬體設備供應商的營收增長。",
+      "theme": "資安",
+      "reason": "網路攻擊事件頻傳，企業與個人對資安防護的需求日益增加，資安解決方案供應商持續受到關注。",
       "symbols": [
-        "DELL",
-        "HPE"
+        "CRWD",
+        "PANW"
       ],
       "count": 2,
-      "avgChange": 4.9751812237723065
+      "avgChange": 3.365622178813406
     }
   ],
   "newEntrants": [
@@ -732,21 +730,21 @@
       "name": "Coinbase Global, Inc. Class A Common Stock",
       "theme": "比特幣/加密",
       "changePercent": 10.139460448102412,
-      "reason": "受惠於比特幣突破71,000美元，以及加密貨幣監管法案的樂觀預期。"
+      "reason": "Coinbase 提交 SEC 申請，尋求為美國投資者提供全天候股票永續合約，並受比特幣上漲帶動。"
     },
     {
       "symbol": "CRCL",
       "name": "Circle Internet Group, Inc.",
       "theme": "比特幣/加密",
       "changePercent": 16.45983754512636,
-      "reason": "比特幣價格上漲突破71,000美元，加上穩定幣監管法案的利好消息。"
+      "reason": "Circle 總裁在國會作證，推動 GENIUS 法案通過，且 Arc 主網將於 9 月 16 日上線。"
     },
     {
       "symbol": "CIEN",
       "name": "Ciena Corporation",
       "theme": "光通訊",
       "changePercent": -10.362548000903558,
-      "reason": "第三季財報優於預期，AI帶動光通訊設備需求強勁，但供應鏈仍是瓶頸。"
+      "reason": "Ciena 第三季財報優於預期，受惠於 AI 驅動的網路投資需求強勁。"
     },
     {
       "symbol": "ASML",
@@ -760,14 +758,14 @@
       "name": "UNITEDHEALTH GROUP INCORPORATED (Delaware)",
       "theme": "醫療保險",
       "changePercent": 0.3202722313966803,
-      "reason": "CMS宣布2027年聯邦醫療保險優惠計畫（Medicare Advantage）報銷費率調升。"
+      "reason": "UnitedHealth Group 公布優於預期的第二季財報並上調全年財測。"
     },
     {
       "symbol": "LRCX",
       "name": "Lam Research Corp",
       "theme": "半導體設備",
       "changePercent": 1.5052719200888014,
-      "reason": "宣布投資30億美元擴建AI晶片實驗室，並提高季度股息。"
+      "reason": "Lam Research 宣布將投資逾 30 億美元擴大全球研發實驗室網絡，並提高季度股息。"
     },
     {
       "symbol": "BRK.B",
@@ -778,54 +776,36 @@
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點集中在AI相關題材，特別是AI晶片、雲端軟體SaaS、PC/伺服器以及資安領域。戴爾（DELL）受惠於AI伺服器訂單爆量，財報與財測表現亮眼，股價狂飆，成為帶動PC/伺服器族群上漲的主要力量。Nvidia (NVDA) 則持續受惠於AI晶片需求，股價穩健上漲。雲端資料庫公司Snowflake (SNOW) 在財報公布後大漲，顯示其AI輔助編碼工具CoCo的快速滲透能力受到市場肯定。此外，Palantir (PLTR) 也在與普華永道擴大合作，推出AI原生併購IT平台的消息帶動下走強。整體而言，市場正在交易AI基礎設施建置和AI應用落地所帶來的成長故事。",
+    "highlights": "本日美股成交重點集中在AI晶片、電動車、記憶體、AI網路晶片、太空科技、雲端軟體 SaaS、PC/伺服器、社群媒體/AI、消費性電子和AI數據分析等題材。資金主要流向Nvidia Corp (NVDA) 和 Tesla, Inc. Common Stock (TSLA)，這兩家公司在各自領域的強勁表現帶動了整體成交量。市場目前主要在交易與AI技術發展、電動車產業前景以及雲端服務擴張相關的故事。",
     "eventsPast": [
       {
-        "title": "戴爾AI伺服器訂單爆量，財報與財測雙報喜",
-        "detail": "戴爾（Dell）公布最新財報，第二季營收年增58%，AI優化伺服器營收達164億美元，積壓訂單高達950億美元，並上修全年營收成長至69%，激勵股價單日狂飆15.81%。"
+        "title": "Broadcom Inc. 公布第三季財報",
+        "detail": "Broadcom Inc. (AVGO) 於2026年9月2日美股收盤後公布了2026財年第三季財報，營收年增86%至296億美元，非GAAP營運收入年增92%至201億美元，表現優於預期。"
       },
       {
-        "title": "微軟調整業績報告結構，Azure營收將單獨披露",
-        "detail": "微軟（MSFT）宣布將自2027財年起，按季度單獨披露Azure雲計算業務的具體營收，並將原有三個運營分部合併為「智能體與基礎設施」和「設備與消費者」兩大分部。"
+        "title": "Snowflake 公布第二季財報",
+        "detail": "Snowflake (SNOW) 於2026年9月2日公布了2027財年第二季財報，每股盈餘 (EPS) 為0.62美元，超出預期的0.45美元，營收年增35.1%至15.5億美元，也高於分析師預期。"
       },
       {
-        "title": "Snowflake第二財季業績超預期，AI產品線成亮點",
-        "detail": "雲數據平台Snowflake（SNOW）公布第二財季業績，產品收入同比增長37%至14.9億美元，並上調全年產品銷售指引，其AI輔助編碼工具CoCo的快速滲透能力受到市場關注。"
-      },
-      {
-        "title": "Palantir與普華永道擴大合作，推出AI原生併購IT平台",
-        "detail": "Palantir（PLTR）與普華永道美國分公司宣布擴大戰略合作，聯合推出業內首個AI原生併購IT平台，助力企業藉助數據與AI改造核心業務。"
-      },
-      {
-        "title": "SpaceX擴展AI基礎建設，股價強勢反彈",
-        "detail": "SpaceX（SPCX）股價上漲超過6%，因投資人對公司擴展能源與AI相關基礎建設的計畫重新燃起興趣，且公司計畫自行製造部分燃氣渦輪機零組件以因應AI資料中心電力需求。"
+        "title": "美國8月非農就業數據公布",
+        "detail": "美國勞工統計局於美東時間2026年9月4日公布8月非農就業報告，預計將新增5.8萬個就業崗位，失業率預計維持在4.1%。"
       }
     ],
     "eventsUpcoming": [
       {
         "date": "本週五",
         "title": "美國8月非農就業報告",
-        "detail": "市場將密切關注8月非農就業報告，以判斷美國就業市場的狀況。"
+        "detail": "美國勞工統計局將於美東時間9月4日公布8月非農就業報告，此數據將影響市場對聯準會9月升息決定的判斷。"
       },
       {
-        "date": "9/17",
-        "title": "聯準會(FED)利率決議&點陣圖/經濟預測",
-        "detail": "本次會議將發布最新利率點陣圖與季度經濟預測摘要(SEP)，新任聯準會主席凱文·華許(Kevin Warsh)的政策立場與態度值得關注。"
+        "date": "9/10-9/14",
+        "title": "美國8月CPI數據",
+        "detail": "美國勞工部通常在每月10日至14日之間公布上個月的消費者物價指數（CPI）數據，這將是評估通膨和聯準會未來貨幣政策的重要依據。"
       },
       {
-        "date": "每月10-14日",
-        "title": "美國CPI數據公布",
-        "detail": "美國CPI數據通常每月公布一次，由美國勞工部在每月10～14日間公布上個月的數據，將影響金融市場。"
-      },
-      {
-        "date": "9/9",
-        "title": "Apple新產品發表",
-        "detail": "預計Apple將在9月9日發表一個全新的產品類別，市場關注其在AI運算方面的佈局。"
-      },
-      {
-        "date": "10月",
-        "title": "NVIDIA RTX Spark設備開始出貨",
-        "detail": "NVIDIA RTX Spark設備將於今年10月開始出貨，其核心賣點是英偉達的N1X芯片。"
+        "date": "9/15-9/16",
+        "title": "聯準會利率決策會議",
+        "detail": "聯準會將召開利率決策會議，8月非農就業數據和CPI數據將影響其對利率政策的判斷。"
       }
     ]
   }
