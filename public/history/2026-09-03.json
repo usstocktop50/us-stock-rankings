@@ -138,7 +138,7 @@
       "dollarVolume": 8064499914.771137,
       "marketCap": 123552502000.00002,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端數據",
+      "theme": "雲端資料庫",
       "isNew": false,
       "rankChange": 8,
       "streak": 2
@@ -164,7 +164,7 @@
       "dollarVolume": 7098040306.841043,
       "marketCap": 2009672640000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "雲端軟體 SaaS",
+      "theme": "網路服務/AI",
       "isNew": false,
       "rankChange": -3,
       "streak": 123
@@ -203,7 +203,7 @@
       "dollarVolume": 6745079530.285579,
       "marketCap": 744669815158.7201,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "AI 晶片",
+      "theme": "CPU/GPU",
       "isNew": false,
       "rankChange": -1,
       "streak": 123
@@ -242,7 +242,7 @@
       "dollarVolume": 4358208204.268656,
       "marketCap": 1874095160000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "雲端軟體 SaaS",
+      "theme": "網路服務/AI",
       "isNew": false,
       "rankChange": -1,
       "streak": 123
@@ -281,7 +281,7 @@
       "dollarVolume": 3844495863.1570644,
       "marketCap": 443707752840,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體 SaaS",
+      "theme": "資料庫軟體",
       "isNew": false,
       "rankChange": -1,
       "streak": 123
@@ -294,7 +294,7 @@
       "dollarVolume": 3667965128.666137,
       "marketCap": 72089639683.23999,
       "sector": "COMPUTER & OFFICE EQUIPMENT",
-      "theme": "PC/伺服器",
+      "theme": "伺服器/儲存",
       "isNew": false,
       "rankChange": 0,
       "streak": 2
@@ -307,7 +307,7 @@
       "dollarVolume": 3594358056.560334,
       "marketCap": 69375916350.3,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "潔淨能源",
+      "theme": "燃料電池",
       "isNew": false,
       "rankChange": 17,
       "streak": 3
@@ -424,7 +424,7 @@
       "dollarVolume": 2472777233.023368,
       "marketCap": 24226552163.7,
       "sector": "FINANCE SERVICES",
-      "theme": "比特幣/加密",
+      "theme": "金融科技",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -502,7 +502,7 @@
       "dollarVolume": 2293888203.791395,
       "marketCap": 30853234117.219997,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "AI 網路晶片",
+      "theme": "高速傳輸晶片",
       "isNew": false,
       "rankChange": -23,
       "streak": 3
@@ -541,7 +541,7 @@
       "dollarVolume": 2211519051.600871,
       "marketCap": 46225931485.44,
       "sector": "—",
-      "theme": "雲端軟體 SaaS",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": -7,
       "streak": 48
@@ -619,7 +619,7 @@
       "dollarVolume": 1954267815.9200947,
       "marketCap": 715464906358.93,
       "sector": "FIRE, MARINE & CASUALTY INSURANCE",
-      "theme": "綜合保險",
+      "theme": "多元控股",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -652,41 +652,36 @@
     }
   ],
   "asOf": "2026-09-03T20:00:00.000Z",
-  "generatedAt": "2026-09-04T09:32:16.918Z",
+  "generatedAt": "2026-09-05T02:04:15.243Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型需求持續，加上AI整合應用前景看好，帶動雲端軟體服務商股價表現。",
+      "reason": "企業數位轉型需求持續，雲端服務與軟體訂閱模式穩定增長，帶動相關個股表現。",
       "symbols": [
         "MSFT",
         "SNOW",
-        "GOOGL",
-        "GOOG",
         "CRM",
         "ORCL",
-        "NOW",
-        "NBIS"
+        "NOW"
       ],
-      "count": 8,
-      "avgChange": 5.088541166283283
+      "count": 5,
+      "avgChange": 6.865210032278877
     },
     {
       "theme": "比特幣/加密",
-      "reason": "比特幣價格波動帶動相關概念股表現，市場對加密貨幣的接受度與應用前景持續關注。",
+      "reason": "比特幣價格波動帶動相關概念股表現，市場對加密貨幣的關注度仍高。",
       "symbols": [
         "MSTR",
-        "HOOD",
-        "COIN",
-        "CRCL"
+        "COIN"
       ],
-      "count": 4,
-      "avgChange": 15.18229589167262
+      "count": 2,
+      "avgChange": 13.848851906005908
     },
     {
       "theme": "AI 晶片",
-      "reason": "AI技術發展持續推動對高效能運算晶片的需求，市場預期相關公司將受惠於AI產業成長。",
+      "reason": "AI 應用需求持續爆發，市場對 AI 晶片及其相關基礎設施的投資熱情不減。",
       "symbols": [
         "NVDA",
         "INTC"
@@ -695,27 +690,28 @@
       "avgChange": 1.7996384176351294
     },
     {
-      "theme": "PC/伺服器",
-      "reason": "AI PC與伺服器市場需求增長，帶動相關硬體供應商的營收預期。",
+      "theme": "金融科技",
+      "reason": "數位支付與線上交易平台持續發展，吸引資金關注。",
       "symbols": [
-        "DELL",
-        "HPE"
+        "HOOD",
+        "CRCL"
       ],
       "count": 2,
-      "avgChange": 4.9751812237723065
+      "avgChange": 16.51573987733933
     },
     {
-      "theme": "電動車",
-      "reason": "儘管市場競爭激烈，但電動車長期發展趨勢不變，部分公司在技術創新或市場策略上取得進展。",
+      "theme": "網路服務/AI",
+      "reason": "大型科技公司在AI領域的持續投入和產品創新，推動其股價上漲。",
       "symbols": [
-        "TSLA"
+        "GOOGL",
+        "GOOG"
       ],
-      "count": 1,
-      "avgChange": 5.421416767037343
+      "count": 2,
+      "avgChange": 1.588905276042589
     },
     {
       "theme": "資安",
-      "reason": "網路攻擊事件頻傳，企業與個人對資安防護的需求日益增加，資安解決方案供應商持續受到關注。",
+      "reason": "網路攻擊事件頻傳，企業對資安防護需求日益增加，帶動資安軟體服務商的成長。",
       "symbols": [
         "CRWD",
         "PANW"
@@ -730,82 +726,100 @@
       "name": "Coinbase Global, Inc. Class A Common Stock",
       "theme": "比特幣/加密",
       "changePercent": 10.139460448102412,
-      "reason": "Coinbase 提交 SEC 申請，尋求為美國投資者提供全天候股票永續合約，並受比特幣上漲帶動。"
+      "reason": "受整體加密貨幣市場反彈，以及公司尋求SEC批准槓桿股票押注等消息帶動。"
     },
     {
       "symbol": "CRCL",
       "name": "Circle Internet Group, Inc.",
-      "theme": "比特幣/加密",
+      "theme": "金融科技",
       "changePercent": 16.45983754512636,
-      "reason": "Circle 總裁在國會作證，推動 GENIUS 法案通過，且 Arc 主網將於 9 月 16 日上線。"
+      "reason": "受加密貨幣市場反彈、穩定幣監管樂觀情緒，以及Arc主網即將上線等消息提振。"
     },
     {
       "symbol": "CIEN",
       "name": "Ciena Corporation",
       "theme": "光通訊",
       "changePercent": -10.362548000903558,
-      "reason": "Ciena 第三季財報優於預期，受惠於 AI 驅動的網路投資需求強勁。"
+      "reason": "財報優於預期，受AI帶動的光通訊需求強勁，並上調全年財測。"
     },
     {
       "symbol": "ASML",
       "name": "ASML Holding NV",
       "theme": "半導體設備",
       "changePercent": -2.1464661475361058,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "受半導體產業分析師看好記憶體晶片製造商，帶動相關設備股上漲。"
     },
     {
       "symbol": "UNH",
       "name": "UNITEDHEALTH GROUP INCORPORATED (Delaware)",
       "theme": "醫療保險",
       "changePercent": 0.3202722313966803,
-      "reason": "UnitedHealth Group 公布優於預期的第二季財報並上調全年財測。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "LRCX",
       "name": "Lam Research Corp",
       "theme": "半導體設備",
       "changePercent": 1.5052719200888014,
-      "reason": "Lam Research 宣布將投資逾 30 億美元擴大全球研發實驗室網絡，並提高季度股息。"
+      "reason": "宣布調升季度股息27%，並計劃投資逾30億美元擴展全球研發實驗室。"
     },
     {
       "symbol": "BRK.B",
       "name": "BERKSHIRE HATHAWAY Class B",
-      "theme": "綜合保險",
+      "theme": "多元控股",
       "changePercent": 0.572005383580078,
       "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點集中在AI晶片、電動車、記憶體、AI網路晶片、太空科技、雲端軟體 SaaS、PC/伺服器、社群媒體/AI、消費性電子和AI數據分析等題材。資金主要流向Nvidia Corp (NVDA) 和 Tesla, Inc. Common Stock (TSLA)，這兩家公司在各自領域的強勁表現帶動了整體成交量。市場目前主要在交易與AI技術發展、電動車產業前景以及雲端服務擴張相關的故事。",
+    "highlights": "本日美股成交重點聚焦於AI晶片、電動車、雲端軟體SaaS及比特幣/加密貨幣等題材。Nvidia (NVDA) 和Broadcom (AVGO) 等AI晶片股因財報優於預期及對AI業務的樂觀展望而吸引大量資金，顯示市場對AI算力需求的持續看好。特斯拉 (TSLA) 則受惠於其無人計程車Cybercab的發表，帶動股價上漲，同時也提振了馬斯克旗下SpaceX (SPCX) 的表現。此外，比特幣價格突破8萬美元大關，激勵相關加密貨幣概念股如MSTR和COIN全面噴出，顯示市場對降息預期和幣價上漲的樂觀情緒。",
     "eventsPast": [
       {
-        "title": "Broadcom Inc. 公布第三季財報",
-        "detail": "Broadcom Inc. (AVGO) 於2026年9月2日美股收盤後公布了2026財年第三季財報，營收年增86%至296億美元，非GAAP營運收入年增92%至201億美元，表現優於預期。"
+        "title": "博通 (AVGO) 財報優於預期，AI營收展望樂觀",
+        "detail": "博通公布2026會計年度第三季財報，表現優於市場預期，並上調AI收入指引，預計2027財年將翻倍，2028財年達2300億美元，儘管當季財測令人失望，但其AI業務的強勁增長仍受市場關注。"
       },
       {
-        "title": "Snowflake 公布第二季財報",
-        "detail": "Snowflake (SNOW) 於2026年9月2日公布了2027財年第二季財報，每股盈餘 (EPS) 為0.62美元，超出預期的0.45美元，營收年增35.1%至15.5億美元，也高於分析師預期。"
+        "title": "Snowflake (SNOW) 財報與財測雙優，盤後股價飆漲",
+        "detail": "Snowflake公布的財報與財測均優於市場預期，激勵盤後股價大漲，公司淨損收斂，營收年增35%，並預計全年產品收入將達約60.7億美元，顯示其AI動能強勁。"
       },
       {
-        "title": "美國8月非農就業數據公布",
-        "detail": "美國勞工統計局於美東時間2026年9月4日公布8月非農就業報告，預計將新增5.8萬個就業崗位，失業率預計維持在4.1%。"
+        "title": "特斯拉 (TSLA) 發表Cybercab量產版，SpaceX (SPCX) 市值重返2兆美元",
+        "detail": "特斯拉於德州奧斯汀正式發表Cybercab量產版，年產能目標訂為200萬輛，帶動特斯拉股價上漲，同時SpaceX市值也同步上漲，重返2兆美元關卡。"
+      },
+      {
+        "title": "比特幣衝破8萬美元大關，加密貨幣概念股全面噴出",
+        "detail": "比特幣價格強勢突破80,000美元大關，加上投資人重新評估短期利率環境，帶動資金大舉湧入加密貨幣相關類股，如MSTR和COIN股價大漲。"
+      },
+      {
+        "title": "美國8月非農就業數據大超預期，聯準會9月升息機率升溫",
+        "detail": "美國8月非農就業新增16.2萬人，遠高於市場預期，失業率維持在4.1%，顯示勞動市場仍具韌性，市場對聯準會9月升息的預期快速升高至約59%。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "本週五",
-        "title": "美國8月非農就業報告",
-        "detail": "美國勞工統計局將於美東時間9月4日公布8月非農就業報告，此數據將影響市場對聯準會9月升息決定的判斷。"
+        "date": "9/9",
+        "title": "蘋果 (AAPL) 秋季特別活動，預期發表可折疊iPhone",
+        "detail": "蘋果將於9月9日舉行秋季特別活動，市場預期iPhone新品將成為活動核心，特別是傳聞中的可折疊iPhone Ultra，可能為公司帶來新的營收增長點。"
       },
       {
-        "date": "9/10-9/14",
-        "title": "美國8月CPI數據",
-        "detail": "美國勞工部通常在每月10日至14日之間公布上個月的消費者物價指數（CPI）數據，這將是評估通膨和聯準會未來貨幣政策的重要依據。"
+        "date": "9/10",
+        "title": "美國8月生產者物價指數 (PPI) 公布",
+        "detail": "美國將於9月10日公布8月生產者物價指數，此數據將是聯準會評估通膨壓力的重要依據。"
+      },
+      {
+        "date": "9/11",
+        "title": "美國8月消費者物價指數 (CPI) 公布",
+        "detail": "美國將於9月11日公布8月消費者物價指數，此數據對聯準會9月利率決策具有關鍵影響，若通膨再次升溫，升息的可能性將進一步提高。"
       },
       {
         "date": "9/15-9/16",
-        "title": "聯準會利率決策會議",
-        "detail": "聯準會將召開利率決策會議，8月非農就業數據和CPI數據將影響其對利率政策的判斷。"
+        "title": "聯準會 (Fed) 利率決議與政策聲明",
+        "detail": "聯準會將於9月15日至16日舉行FOMC會議，並於9月16日公布利率決定與政策聲明，市場正權衡維持利率不變或升息25個基點的可能性。"
+      },
+      {
+        "date": "9/18",
+        "title": "美股季度結算四巫日",
+        "detail": "9月18日為美股第三季度的衍生性金融商品集中結算日，本次四巫日緊跟在聯準會利率決議隔天登場，技術性調倉效應可能放大。"
       }
     ]
   }
