@@ -73,7 +73,7 @@
       "dollarVolume": 11726914365.027575,
       "marketCap": 1702714164963.21,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體設備與設計",
+      "theme": "AI 晶片",
       "isNew": false,
       "rankChange": -2,
       "streak": 124
@@ -86,7 +86,7 @@
       "dollarVolume": 9790620980.831238,
       "marketCap": 1360057110495.93,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "社群媒體/AI",
+      "theme": "社群媒體",
       "isNew": false,
       "rankChange": 2,
       "streak": 124
@@ -112,7 +112,7 @@
       "dollarVolume": 9256204288.408207,
       "marketCap": 483215200000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體製造",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": 3,
       "streak": 124
@@ -138,7 +138,7 @@
       "dollarVolume": 7929858272.802224,
       "marketCap": 2788369921497.7197,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電商/雲端",
+      "theme": "電商",
       "isNew": false,
       "rankChange": 3,
       "streak": 124
@@ -151,7 +151,7 @@
       "dollarVolume": 7860196629.67557,
       "marketCap": 1986083280000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "搜尋引擎/AI",
+      "theme": "網路服務",
       "isNew": false,
       "rankChange": 1,
       "streak": 124
@@ -164,7 +164,7 @@
       "dollarVolume": 7319482224.976576,
       "marketCap": 1950244342862.7498,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "太空科技",
+      "theme": "太空",
       "isNew": false,
       "rankChange": -8,
       "streak": 59
@@ -203,7 +203,7 @@
       "dollarVolume": 4912492440.08867,
       "marketCap": 401083354644.57,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "大數據/AI 軟體",
+      "theme": "資料分析軟體",
       "isNew": false,
       "rankChange": -1,
       "streak": 124
@@ -216,7 +216,7 @@
       "dollarVolume": 4660447761.247889,
       "marketCap": 196030995000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體設備與設計",
+      "theme": "網路基礎設施晶片",
       "isNew": false,
       "rankChange": 4,
       "streak": 114
@@ -229,7 +229,7 @@
       "dollarVolume": 4264587582.4864097,
       "marketCap": 1853258370000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "搜尋引擎/AI",
+      "theme": "網路服務",
       "isNew": false,
       "rankChange": 1,
       "streak": 124
@@ -242,7 +242,7 @@
       "dollarVolume": 4189795727.0700674,
       "marketCap": 457361185380,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體 SaaS",
+      "theme": "企業軟體",
       "isNew": false,
       "rankChange": 3,
       "streak": 124
@@ -255,7 +255,7 @@
       "dollarVolume": 4089542098.94581,
       "marketCap": 74477129983.02,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "燃料電池/潔淨能源",
+      "theme": "燃料電池",
       "isNew": false,
       "rankChange": 4,
       "streak": 4
@@ -385,7 +385,7 @@
       "dollarVolume": 2733507134.3536468,
       "marketCap": 360856693306.52997,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體設備與設計",
+      "theme": "半導體設備",
       "isNew": false,
       "rankChange": 1,
       "streak": 89
@@ -424,7 +424,7 @@
       "dollarVolume": 2590483365.4816403,
       "marketCap": 655726600261.2,
       "sector": "PETROLEUM REFINING",
-      "theme": "石油與天然氣",
+      "theme": "石油天然氣",
       "isNew": false,
       "rankChange": 8,
       "streak": 16
@@ -437,7 +437,7 @@
       "dollarVolume": 2554660635.764335,
       "marketCap": 384968905650,
       "sector": "SPECIAL INDUSTRY MACHINERY, NEC",
-      "theme": "半導體設備與設計",
+      "theme": "半導體設備",
       "isNew": false,
       "rankChange": 10,
       "streak": 2
@@ -463,7 +463,7 @@
       "dollarVolume": 2353059076.2760673,
       "marketCap": 242495082924.8,
       "sector": "OPTICAL INSTRUMENTS & LENSES",
-      "theme": "半導體設備與設計",
+      "theme": "半導體設備",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -502,7 +502,7 @@
       "dollarVolume": 2201821767.6097794,
       "marketCap": 665626683189.12,
       "sector": "—",
-      "theme": "半導體設備與設計",
+      "theme": "半導體設備",
       "isNew": false,
       "rankChange": -2,
       "streak": 2
@@ -554,7 +554,7 @@
       "dollarVolume": 2040762647.864219,
       "marketCap": 53849776281.6,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "AI 晶片",
+      "theme": "AI 基礎設施",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -593,7 +593,7 @@
       "dollarVolume": 1828481171.443993,
       "marketCap": 41004774218.4,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體 SaaS",
+      "theme": "雲端運算",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -606,7 +606,7 @@
       "dollarVolume": 1821187876.0650756,
       "marketCap": 32058958653.26,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體設備與設計",
+      "theme": "資料中心互連",
       "isNew": false,
       "rankChange": -8,
       "streak": 4
@@ -632,7 +632,7 @@
       "dollarVolume": 1777840624.538717,
       "marketCap": 105937725000,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體 SaaS",
+      "theme": "創意軟體",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -652,43 +652,47 @@
     }
   ],
   "asOf": "2026-09-04T20:00:00.000Z",
-  "generatedAt": "2026-09-08T02:05:05.450Z",
+  "generatedAt": "2026-09-08T06:44:01.068Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
-      "theme": "半導體設備與設計",
-      "reason": "AI 晶片需求持續強勁，帶動半導體設備與設計公司訂單增長，市場對其未來營收預期樂觀。",
+      "theme": "AI 晶片",
+      "reason": "市場對AI運算需求持續增長，帶動相關晶片設計與製造商的股價表現。",
       "symbols": [
+        "NVDA",
         "AVGO",
-        "MRVL",
+        "AMD",
+        "CBRS"
+      ],
+      "count": 4,
+      "avgChange": 4.00814858487659
+    },
+    {
+      "theme": "半導體設備",
+      "reason": "全球半導體產業擴張，資本支出增加，推動半導體設備供應商的營收成長。",
+      "symbols": [
         "AMAT",
         "LRCX",
         "KLAC",
-        "ASML",
-        "CRDO"
+        "ASML"
       ],
-      "count": 7,
-      "avgChange": 4.582986935083301
+      "count": 4,
+      "avgChange": 5.231981187579477
     },
     {
-      "theme": "AI 晶片",
-      "reason": "全球對人工智慧技術的投資不斷增加，推動了對高性能AI晶片的需求，相關公司持續受益。",
+      "theme": "記憶體",
+      "reason": "記憶體市場需求回溫，特別是HBM等高階記憶體在AI應用中的需求強勁。",
       "symbols": [
         "MU",
-        "NVDA",
-        "AMD",
-        "INTC",
-        "CBRS",
-        "SKHY",
-        "ALAB"
+        "SKHY"
       ],
-      "count": 7,
-      "avgChange": 6.331408125931548
+      "count": 2,
+      "avgChange": 7.11798817969045
     },
     {
       "theme": "儲存裝置",
-      "reason": "AI 數據中心和邊緣運算的發展，對高效能儲存裝置的需求激增，相關廠商營收看漲。",
+      "reason": "數據中心擴建和企業級儲存需求增加，利好硬碟和固態硬碟製造商。",
       "symbols": [
         "SNDK",
         "WDC",
@@ -698,32 +702,24 @@
       "avgChange": 8.03525660223548
     },
     {
-      "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型趨勢不減，對雲端軟體服務的需求持續增長，推動相關SaaS公司業績。",
+      "theme": "AI 基礎設施",
+      "reason": "AI技術的快速發展需要更強大的基礎設施支援，相關零組件和服務供應商受惠。",
       "symbols": [
-        "ORCL",
-        "CRWV"
+        "MRVL",
+        "ALAB",
+        "CRDO"
       ],
-      "count": 2,
-      "avgChange": 4.3767827938878385
+      "count": 3,
+      "avgChange": 6.899659753732525
     },
     {
-      "theme": "燃料電池/潔淨能源",
-      "reason": "全球對潔淨能源解決方案的關注度提高，燃料電池技術被視為未來能源轉型的關鍵之一。",
+      "theme": "燃料電池",
+      "reason": "全球對清潔能源解決方案的關注度提升，燃料電池技術被視為潛力股。",
       "symbols": [
         "BE"
       ],
       "count": 1,
       "avgChange": 7.35300360857567
-    },
-    {
-      "theme": "晶圓代工",
-      "reason": "全球晶片需求旺盛，晶圓代工廠產能利用率高，訂單穩定，為其帶來良好營收。",
-      "symbols": [
-        "TSM"
-      ],
-      "count": 1,
-      "avgChange": 2.853648593558916
     }
   ],
   "newEntrants": [
@@ -732,49 +728,49 @@
       "name": "lululemon athletica inc.",
       "theme": "運動服飾",
       "changePercent": -17.377022255071033,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "財測下修、營收未達預期，加上創辦人離婚消息，導致股價大跌."
     },
     {
       "symbol": "CBRS",
       "name": "Cerebras Systems Inc. Class A Common Stock",
       "theme": "AI 晶片",
       "changePercent": 10.297206469229161,
-      "reason": "AI資料中心擴張與新AI加速器硬體計畫，加上機構投資者買入帶動。"
+      "reason": "Cerebras Systems擴大全球AI基礎設施佈局，並與Compute Nordic Finland合作建立新AI資料中心."
     },
     {
       "symbol": "KLAC",
       "name": "KLA Corporation Common Stock",
-      "theme": "半導體設備與設計",
+      "theme": "半導體設備",
       "changePercent": 7.320457962299061,
-      "reason": "近期分析師上調銷售預期與EPS預期，顯示市場樂觀情緒。"
+      "reason": "受惠於AI基礎設施建置，KLA的製程控制解決方案需求增加，推動營收獲利成長."
     },
     {
       "symbol": "SMCI",
       "name": "Super Micro Computer, Inc. Common Stock",
       "theme": "AI 伺服器",
       "changePercent": 4.54185371006075,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "第四季度財報亮眼，營收和EPS超預期，並獲得大量新訂單，推動股價上漲."
     },
     {
       "symbol": "ALAB",
       "name": "Astera Labs, Inc. Common Stock",
-      "theme": "AI 晶片",
+      "theme": "AI 基礎設施",
       "changePercent": 9.7517855880065,
-      "reason": "機構投資者大量買入，推動股價上漲。"
+      "reason": "第二季度營收創紀錄，AI結構和訊號調節業務表現強勁，並將參與Citi全球TMT會議."
     },
     {
       "symbol": "CRWV",
       "name": "CoreWeave, Inc. Class A Common Stock",
-      "theme": "雲端軟體 SaaS",
+      "theme": "雲端運算",
       "changePercent": 5.676442762535474,
-      "reason": "分析師普遍看好，平均目標價遠高於現價。"
+      "reason": "CoreWeave與OpenAI簽訂AI基礎設施大單，並收購AI開發平台Weights & Biases，推動IPO."
     },
     {
       "symbol": "ADBE",
       "name": "Adobe Inc.",
-      "theme": "雲端軟體 SaaS",
+      "theme": "創意軟體",
       "changePercent": -6.733158355205602,
-      "reason": "因美國司法部計畫提起反壟斷訴訟，阻止其收購Figma，導致股價下跌。"
+      "reason": "宣布新任CEO人選，儘管財報表現良好，但領導層變動仍引發市場對未來不確定性的擔憂."
     }
   ],
   "marketBriefing": {
