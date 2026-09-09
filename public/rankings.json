@@ -125,7 +125,7 @@
       "dollarVolume": 11217041129.253706,
       "marketCap": 1753453757774.8801,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體網路通訊",
+      "theme": "AI 晶片",
       "isNew": false,
       "rankChange": -4,
       "streak": 125
@@ -151,7 +151,7 @@
       "dollarVolume": 7726762651.122782,
       "marketCap": 1985496480000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "AI/雲端服務",
+      "theme": "AI/雲端",
       "isNew": false,
       "rankChange": 0,
       "streak": 125
@@ -177,7 +177,7 @@
       "dollarVolume": 7546641454.405498,
       "marketCap": 2771758998596.8403,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電商/雲端服務",
+      "theme": "電商/雲端",
       "isNew": false,
       "rankChange": -3,
       "streak": 125
@@ -255,7 +255,7 @@
       "dollarVolume": 4729644241.980542,
       "marketCap": 1853645260000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "AI/雲端服務",
+      "theme": "AI/雲端",
       "isNew": false,
       "rankChange": -2,
       "streak": 125
@@ -268,7 +268,7 @@
       "dollarVolume": 4683493766.124836,
       "marketCap": 197662029000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體網路通訊",
+      "theme": "資料中心晶片",
       "isNew": false,
       "rankChange": -4,
       "streak": 115
@@ -346,7 +346,7 @@
       "dollarVolume": 3521830273.793685,
       "marketCap": 173443538923.2,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "PC/伺服器",
+      "theme": "伺服器/PC",
       "isNew": false,
       "rankChange": -13,
       "streak": 11
@@ -424,7 +424,7 @@
       "dollarVolume": 2777692687.1968813,
       "marketCap": 92636885538.99,
       "sector": "ROLLING DRAWING & EXTRUDING OF NONFERROUS METALS",
-      "theme": "航空航太材料",
+      "theme": "航太材料",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -515,7 +515,7 @@
       "dollarVolume": 2403553922.0571733,
       "marketCap": 841373788858.0499,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售",
+      "theme": "零售百貨",
       "isNew": false,
       "rankChange": -2,
       "streak": 38
@@ -554,7 +554,7 @@
       "dollarVolume": 2300140308.2322025,
       "marketCap": 142956007412.76,
       "sector": "DRAWING & INSULATING OF NONFERROUS WIRE",
-      "theme": "特種玻璃/光纖",
+      "theme": "光纖通訊",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -606,7 +606,7 @@
       "dollarVolume": 2038938001.0373092,
       "marketCap": 403645537824.72,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售",
+      "theme": "零售百貨",
       "isNew": false,
       "rankChange": -3,
       "streak": 4
@@ -632,7 +632,7 @@
       "dollarVolume": 2010792520.8684,
       "marketCap": 378073402704.72003,
       "sector": "CONSTRUCTION MACHINERY & EQUIP",
-      "theme": "重型機械",
+      "theme": "工業機械",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -652,23 +652,24 @@
     }
   ],
   "asOf": "2026-09-08T20:00:00.000Z",
-  "generatedAt": "2026-09-09T07:40:22.403Z",
+  "generatedAt": "2026-09-09T09:32:08.756Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "AI 晶片",
-      "reason": "市場持續看好AI技術發展對晶片需求帶來的龐大商機，相關供應鏈表現強勁。",
+      "reason": "市場對AI運算需求持續增長，帶動相關晶片設計與製造商股價表現強勁。",
       "symbols": [
         "INTC",
-        "AMD"
+        "AMD",
+        "AVGO"
       ],
-      "count": 2,
-      "avgChange": 7.474358052987721
+      "count": 3,
+      "avgChange": 5.976213461814297
     },
     {
       "theme": "半導體設備",
-      "reason": "隨著半導體產業景氣復甦及AI晶片需求增長，上游設備供應商訂單能見度提升。",
+      "reason": "全球半導體產業擴張，資本支出增加，設備供應商訂單能見度高。",
       "symbols": [
         "AMAT",
         "LRCX",
@@ -680,7 +681,7 @@
     },
     {
       "theme": "儲存裝置",
-      "reason": "AI應用對數據儲存需求增加，帶動儲存裝置產業前景樂觀。",
+      "reason": "AI與資料中心需求推動儲存解決方案升級，相關廠商受惠。",
       "symbols": [
         "STX",
         "WDC"
@@ -689,8 +690,18 @@
       "avgChange": 4.296420735546217
     },
     {
+      "theme": "光通訊",
+      "reason": "AI與高速網路發展對光通訊基礎設施需求提升，相關元件供應商表現亮眼。",
+      "symbols": [
+        "LITE",
+        "GLW"
+      ],
+      "count": 2,
+      "avgChange": 9.297755164485801
+    },
+    {
       "theme": "記憶體",
-      "reason": "HBM等高頻寬記憶體在AI伺服器中的應用日益普及，推動記憶體價格上漲。",
+      "reason": "記憶體市場景氣復甦，HBM等高階產品需求旺盛，推動相關廠商股價上漲。",
       "symbols": [
         "SKHY"
       ],
@@ -698,22 +709,13 @@
       "avgChange": 4.830508474576278
     },
     {
-      "theme": "AI 雲端基礎設施",
-      "reason": "AI模型訓練和推論需要強大的雲端運算能力，相關基礎設施服務商受惠。",
+      "theme": "比特幣/加密",
+      "reason": "加密貨幣市場波動，但部分投資者對區塊鏈技術和比特幣相關公司仍抱持信心。",
       "symbols": [
-        "CRWV"
+        "IREN"
       ],
       "count": 1,
-      "avgChange": 11.716651745747537
-    },
-    {
-      "theme": "氫能源",
-      "reason": "全球對清潔能源轉型的關注，使氫能源技術和應用獲得更多投資。",
-      "symbols": [
-        "BE"
-      ],
-      "count": 1,
-      "avgChange": 9.629453869577262
+      "avgChange": 5.0358102059086844
     }
   ],
   "newEntrants": [
@@ -722,42 +724,42 @@
       "name": "Qualcomm Inc",
       "theme": "手機晶片",
       "changePercent": 3.1705582553040146,
-      "reason": "與Amazon Web Services合作開發AI晶片和光學連接，並推出AI PC新平台Horizon Ultra。"
+      "reason": "與亞馬遜達成AI晶片協議，推動資料中心業務，分析師上調評級。"
     },
     {
       "symbol": "HWM",
       "name": "Howmet Aerospace Inc.",
-      "theme": "航空航太材料",
+      "theme": "航太材料",
       "changePercent": -10.69927103020017,
-      "reason": "SpaceX宣布將自行生產渦輪葉片，引發對其需求前景的擔憂。"
+      "reason": "儘管SpaceX自製零件引發擔憂，但財報強勁且分析師認為股價超跌。"
     },
     {
       "symbol": "AMGN",
       "name": "Amgen Inc",
       "theme": "生技製藥",
       "changePercent": -10.077076138416851,
-      "reason": "諾華心血管藥物試驗失敗，引發市場對Amgen同類藥物前景的擔憂。"
+      "reason": "諾華心臟病藥物試驗受挫，導致股價下跌，BMO下調評級。"
     },
     {
       "symbol": "COHR",
       "name": "Coherent Corp.",
       "theme": "光學元件",
       "changePercent": 7.10281700134818,
-      "reason": "受同業Ciena財報利好及AI資料中心需求強勁，分析師上調目標價。"
+      "reason": "受惠於AI資料中心光學元件需求，推出新平台並獲分析師看好。"
     },
     {
       "symbol": "IREN",
       "name": "IREN Limited Ordinary Shares",
       "theme": "比特幣/加密",
       "changePercent": 5.0358102059086844,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "從比特幣挖礦轉向AI雲端基礎設施，簽訂新客戶合約。"
     },
     {
       "symbol": "GLW",
       "name": "Corning Incorporated",
-      "theme": "特種玻璃/光纖",
+      "theme": "光纖通訊",
       "changePercent": 7.556707712248863,
-      "reason": "與Verizon簽署數十億美元光纖供應協議，並推出「玻璃橋」技術。"
+      "reason": "與Verizon簽訂數十億美元光纖供應協議，受惠AI基礎設施需求。"
     },
     {
       "symbol": "BRK.B",
@@ -771,14 +773,14 @@
       "name": "Johnson & Johnson",
       "theme": "生技製藥",
       "changePercent": -2.2199614867565356,
-      "reason": "在2026年精神醫學大會上公布精神疾病藥物臨床數據，並有新藥獲批。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "CAT",
       "name": "Caterpillar Inc.",
-      "theme": "重型機械",
+      "theme": "工業機械",
       "changePercent": 1.0492173870309807,
-      "reason": "受惠於資料中心對發電設備的需求增長。"
+      "reason": "受惠於強勁財報、訂單積壓和AI基礎設施擴張。"
     },
     {
       "symbol": "JPM",
@@ -789,54 +791,54 @@
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股市場資金主要集中在AI晶片、記憶體、儲存裝置、光通訊和氫能源等族群。AI晶片領域，Intel (INTC) 和 AMD (AMD) 受惠於與 ASML 的先進製程合作以及 AI 伺服器需求，股價表現強勁。記憶體和儲存裝置族群則因報價回穩、庫存吃緊以及 AI 伺服器對高頻寬記憶體 (HBM) 的需求激增而走強。光通訊概念股 Lumentum (LITE) 則受惠於與 Verizon 的光纖大單，帶動整體族群上漲。氫能源股 Bloom Energy (BE) 則受惠於大灣區氫能應用試點計畫的利多消息。",
+    "highlights": "本日美股成交重點聚焦於AI晶片、記憶體、儲存裝置及光通訊等半導體相關題材族群。資金主要流向Intel (INTC) 和 AMD (AMD) 等AI晶片股，受惠於產業對AI算力需求的持續增長以及Intel與ASML在High-NA EUV技術上的合作消息。此外，市場也重新定價記憶體和半導體設備股，因供應鏈普遍預期需求將持續到2027年甚至2030年，而供給則難以跟上。Tesla (TSLA) 在電動車領域表現強勁，而Apple (AAPL) 則因即將舉行的秋季發表會引發市場關注，特別是其首款折疊iPhone的傳聞。",
     "eventsPast": [
       {
+        "title": "美國8月非農就業數據強勁",
+        "detail": "美國勞動統計局於9月4日公布的8月非農就業數據顯示，新增職位達16.2萬個，遠高於市場預期的5.6萬個，此一強勁表現重新點燃市場對聯準會升息的預期。"
+      },
+      {
         "title": "Intel與ASML合作加速High-NA EUV技術產業化",
-        "detail": "Intel (INTC) 代工與 ASML 合作，加速 High-NA EUV（高數值孔徑極紫外光刻）技術的產業化準備進程。"
+        "detail": "Intel (INTC) 代工部門與ASML合作，旨在加速High-NA EUV（高數值孔徑極紫外光刻）技術的產業化準備進程，這對AI晶片製造至關重要。"
       },
       {
-        "title": "台積電與ASML合作推動12吋High-NA EUV光罩",
-        "detail": "台積電 (TSM) 與 ASML 共同宣布啟動一項倡議，旨在引領行業向 High-NA EUV 的大尺寸光掩模過渡，目標在 2031 年前建成 12 吋掩模中試生產線。"
+        "title": "Intel PC CPU預計10月上旬再漲價10%",
+        "detail": "供應鏈消息指出，因應整體成本飆升，Intel (INTC) 的PC CPU在過去一年已陸續漲價，並暫定於10月上旬再漲10%。"
       },
       {
-        "title": "記憶體族群報價回穩，8月營收創高",
-        "detail": "記憶體族群因報價回穩、庫存吃緊，DRAM 與 NAND Flash 合約價傳出漲勢加溫，台廠 8 月營收再掀破紀錄潮，旺宏、威剛、鈺創單月營收同步改寫歷史新高。"
+        "title": "Meta自研AI晶片「Iris」9月投產",
+        "detail": "社群媒體巨擘Meta Platforms (META) 計劃自9月起量產代號為「Iris」的自研AI晶片，並將其納入其AI訓練與推理加速器計畫，以降低對Nvidia和AMD晶片的依賴。"
       },
       {
-        "title": "南韓記憶體大廠庫存降至不足10天",
-        "detail": "南韓券商報告指出，三星電子與 SK 海力士這兩大全球記憶體龍頭廠，截至今年第 3 季的庫存天數已雙雙降至 10 天以下，可能意味著供給數量已經徹底吃緊。"
-      },
-      {
-        "title": "康寧與Verizon簽署數十億美元光纖供應協議",
-        "detail": "玻璃與光學材料大廠康寧 (Corning Incorporated) 宣布與美國電信巨擘 Verizon Communication Inc. 簽署高密度光纖供應協議，為期多年、總價值約數十億美元，帶動美股光通訊巨頭聞訊大漲。"
+        "title": "Apple與日本鎧俠簽署NAND閃存長期供應協議",
+        "detail": "據報導，Apple (AAPL) 已與日本鎧俠（Kioxia）簽署了一項NAND閃存的長期供應協議，此舉可能對記憶體市場產生影響。"
       }
     ],
     "eventsUpcoming": [
       {
         "date": "9/10",
-        "title": "蘋果秋季發表會",
-        "detail": "蘋果 (AAPL) 將於美國西岸時間 9 月 9 日上午 10 點（台灣時間 9 月 10 日凌晨 1 點）舉行秋季發表會，預期將揭曉 iPhone 18 Pro 系列以及傳聞已久的摺疊 iPhone Ultra 等新品。"
+        "title": "Apple秋季發表會",
+        "detail": "Apple (AAPL) 將於台灣時間9月10日凌晨1點舉行秋季特別活動，預期將揭曉iPhone 18 Pro系列以及傳聞已久的摺疊iPhone Ultra等新品。"
       },
       {
-        "date": "9/10",
-        "title": "美國8月生產者物價指數 (PPI)",
-        "detail": "美國將公布 8 月生產者物價指數 (PPI)，此數據將影響市場對聯準會 (Fed) 利率決策的預期。"
+        "date": "9/10 晚上8:30 (台灣時間)",
+        "title": "美國8月生產者物價指數 (PPI) 公布",
+        "detail": "美國勞工統計局將於台灣時間9月10日晚上8:30公布8月份生產者物價指數（PPI），此數據將是聯準會9月會議前的重要通膨指標。"
       },
       {
-        "date": "9/11",
-        "title": "美國8月消費者物價指數 (CPI)",
-        "detail": "美國將公布 8 月消費者物價指數 (CPI)，此數據將成為聯準會 (Fed) 9 月利率決策的關鍵指標。"
+        "date": "9/11 晚上8:30 (台灣時間)",
+        "title": "美國8月消費者物價指數 (CPI) 公布",
+        "detail": "美國勞工統計局將於台灣時間9月11日晚上8:30公布8月份消費者物價指數（CPI），這項數據對聯準會9月利率決策至關重要。"
       },
       {
         "date": "9/15-9/16",
-        "title": "聯準會 (Fed) 利率決議",
-        "detail": "聯準會 (Fed) 將舉行公開市場委員會 (FOMC) 會議，市場對 9 月升息的預期升高，將密切關注其利率決策與經濟預測。"
+        "title": "聯邦公開市場委員會 (FOMC) 會議",
+        "detail": "聯準會將於9月15日至16日舉行FOMC會議，並於9月16日美東時間14:00公布利率決議，市場正密切關注是否會升息。"
       },
       {
-        "date": "9/18",
-        "title": "季度結算四巫日",
-        "detail": "美股將迎來季度結算四巫日，可能導致市場波動加劇。"
+        "date": "本週四",
+        "title": "Micron Technology財報",
+        "detail": "記憶體大廠Micron Technology (MU) 的財報將於本週四公布，市場預期其營收將驗證AI浪潮對記憶體需求的推升作用。"
       }
     ]
   }
