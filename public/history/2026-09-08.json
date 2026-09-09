@@ -125,7 +125,7 @@
       "dollarVolume": 11217041129.253706,
       "marketCap": 1753453757774.8801,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "AI 晶片",
+      "theme": "半導體網路通訊",
       "isNew": false,
       "rankChange": -4,
       "streak": 125
@@ -151,7 +151,7 @@
       "dollarVolume": 7726762651.122782,
       "marketCap": 1985496480000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "AI/雲端",
+      "theme": "AI/雲端服務",
       "isNew": false,
       "rankChange": 0,
       "streak": 125
@@ -177,7 +177,7 @@
       "dollarVolume": 7546641454.405498,
       "marketCap": 2771758998596.8403,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電商/雲端",
+      "theme": "電商/雲端服務",
       "isNew": false,
       "rankChange": -3,
       "streak": 125
@@ -203,7 +203,7 @@
       "dollarVolume": 6520120302.861612,
       "marketCap": 53523145661.44,
       "sector": "—",
-      "theme": "AI/雲端",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": 8,
       "streak": 50
@@ -242,7 +242,7 @@
       "dollarVolume": 5112594310.7489805,
       "marketCap": 45809160812.7,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "AI 雲端服務",
+      "theme": "AI 雲端基礎設施",
       "isNew": false,
       "rankChange": 27,
       "streak": 2
@@ -255,7 +255,7 @@
       "dollarVolume": 4729644241.980542,
       "marketCap": 1853645260000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "AI/雲端",
+      "theme": "AI/雲端服務",
       "isNew": false,
       "rankChange": -2,
       "streak": 125
@@ -268,7 +268,7 @@
       "dollarVolume": 4683493766.124836,
       "marketCap": 197662029000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "資料中心晶片",
+      "theme": "半導體網路通訊",
       "isNew": false,
       "rankChange": -4,
       "streak": 115
@@ -333,7 +333,7 @@
       "dollarVolume": 4213839677.679936,
       "marketCap": 391811479928.7,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "AI 數據分析",
+      "theme": "大數據/AI",
       "isNew": false,
       "rankChange": -10,
       "streak": 125
@@ -346,7 +346,7 @@
       "dollarVolume": 3521830273.793685,
       "marketCap": 173443538923.2,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "伺服器/PC",
+      "theme": "PC/伺服器",
       "isNew": false,
       "rankChange": -13,
       "streak": 11
@@ -515,7 +515,7 @@
       "dollarVolume": 2403553922.0571733,
       "marketCap": 841373788858.0499,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售百貨",
+      "theme": "零售",
       "isNew": false,
       "rankChange": -2,
       "streak": 38
@@ -554,7 +554,7 @@
       "dollarVolume": 2300140308.2322025,
       "marketCap": 142956007412.76,
       "sector": "DRAWING & INSULATING OF NONFERROUS WIRE",
-      "theme": "特用玻璃",
+      "theme": "特種玻璃/光纖",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -606,7 +606,7 @@
       "dollarVolume": 2038938001.0373092,
       "marketCap": 403645537824.72,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售百貨",
+      "theme": "零售",
       "isNew": false,
       "rankChange": -3,
       "streak": 4
@@ -652,24 +652,23 @@
     }
   ],
   "asOf": "2026-09-08T20:00:00.000Z",
-  "generatedAt": "2026-09-09T05:23:02.956Z",
+  "generatedAt": "2026-09-09T07:40:22.403Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "AI 晶片",
-      "reason": "市場對AI晶片需求持續強勁，相關供應鏈公司受惠於AI技術的快速發展與應用擴張。",
+      "reason": "市場持續看好AI技術發展對晶片需求帶來的龐大商機，相關供應鏈表現強勁。",
       "symbols": [
         "INTC",
-        "AMD",
-        "AVGO"
+        "AMD"
       ],
-      "count": 3,
-      "avgChange": 5.976213461814297
+      "count": 2,
+      "avgChange": 7.474358052987721
     },
     {
       "theme": "半導體設備",
-      "reason": "隨著半導體產業景氣復甦，晶圓廠擴產需求增加，帶動半導體設備供應商訂單成長。",
+      "reason": "隨著半導體產業景氣復甦及AI晶片需求增長，上游設備供應商訂單能見度提升。",
       "symbols": [
         "AMAT",
         "LRCX",
@@ -681,7 +680,7 @@
     },
     {
       "theme": "儲存裝置",
-      "reason": "AI與資料中心需求激增，帶動資料儲存解決方案的需求，相關廠商營收看漲。",
+      "reason": "AI應用對數據儲存需求增加，帶動儲存裝置產業前景樂觀。",
       "symbols": [
         "STX",
         "WDC"
@@ -690,31 +689,31 @@
       "avgChange": 4.296420735546217
     },
     {
-      "theme": "比特幣/加密",
-      "reason": "加密貨幣市場波動，但比特幣相關概念股仍受部分資金追捧。",
+      "theme": "記憶體",
+      "reason": "HBM等高頻寬記憶體在AI伺服器中的應用日益普及，推動記憶體價格上漲。",
       "symbols": [
-        "IREN"
+        "SKHY"
       ],
       "count": 1,
-      "avgChange": 5.0358102059086844
+      "avgChange": 4.830508474576278
+    },
+    {
+      "theme": "AI 雲端基礎設施",
+      "reason": "AI模型訓練和推論需要強大的雲端運算能力，相關基礎設施服務商受惠。",
+      "symbols": [
+        "CRWV"
+      ],
+      "count": 1,
+      "avgChange": 11.716651745747537
     },
     {
       "theme": "氫能源",
-      "reason": "全球對清潔能源的關注日益提高，氫能源技術被視為未來能源轉型的關鍵。",
+      "reason": "全球對清潔能源轉型的關注，使氫能源技術和應用獲得更多投資。",
       "symbols": [
         "BE"
       ],
       "count": 1,
       "avgChange": 9.629453869577262
-    },
-    {
-      "theme": "光通訊",
-      "reason": "AI數據傳輸量大增，對高速光通訊元件的需求持續成長。",
-      "symbols": [
-        "LITE"
-      ],
-      "count": 1,
-      "avgChange": 11.038802616722739
     }
   ],
   "newEntrants": [
@@ -723,42 +722,42 @@
       "name": "Qualcomm Inc",
       "theme": "手機晶片",
       "changePercent": 3.1705582553040146,
-      "reason": "與亞馬遜達成AI資料中心晶片合作協議，並獲亞馬遜高達40億美元股權認購權。"
+      "reason": "與Amazon Web Services合作開發AI晶片和光學連接，並推出AI PC新平台Horizon Ultra。"
     },
     {
       "symbol": "HWM",
       "name": "Howmet Aerospace Inc.",
       "theme": "航空航太材料",
       "changePercent": -10.69927103020017,
-      "reason": "SpaceX宣布將自行生產渦輪機零件，引發市場對其訂單流失的擔憂。"
+      "reason": "SpaceX宣布將自行生產渦輪葉片，引發對其需求前景的擔憂。"
     },
     {
       "symbol": "AMGN",
       "name": "Amgen Inc",
       "theme": "生技製藥",
       "changePercent": -10.077076138416851,
-      "reason": "諾華心臟病藥物臨床試驗失利，影響心臟治療領域，Amgen股價受拖累。"
+      "reason": "諾華心血管藥物試驗失敗，引發市場對Amgen同類藥物前景的擔憂。"
     },
     {
       "symbol": "COHR",
       "name": "Coherent Corp.",
       "theme": "光學元件",
       "changePercent": 7.10281700134818,
-      "reason": "推出PhotonLink平台，強化AI資料中心光學解決方案，並在ECOC 2026展示領先技術。"
+      "reason": "受同業Ciena財報利好及AI資料中心需求強勁，分析師上調目標價。"
     },
     {
       "symbol": "IREN",
       "name": "IREN Limited Ordinary Shares",
       "theme": "比特幣/加密",
       "changePercent": 5.0358102059086844,
-      "reason": "德州2GW Sweetwater Hub獲條件性納入電網，且AI工廠獲24億美元融資。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "GLW",
       "name": "Corning Incorporated",
-      "theme": "特用玻璃",
+      "theme": "特種玻璃/光纖",
       "changePercent": 7.556707712248863,
-      "reason": "與Verizon簽訂數十億美元光纖供應協議，並與NVIDIA合作擴展AI基礎設施製造。"
+      "reason": "與Verizon簽署數十億美元光纖供應協議，並推出「玻璃橋」技術。"
     },
     {
       "symbol": "BRK.B",
@@ -772,14 +771,14 @@
       "name": "Johnson & Johnson",
       "theme": "生技製藥",
       "changePercent": -2.2199614867565356,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "在2026年精神醫學大會上公布精神疾病藥物臨床數據，並有新藥獲批。"
     },
     {
       "symbol": "CAT",
       "name": "Caterpillar Inc.",
       "theme": "重型機械",
       "changePercent": 1.0492173870309807,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "受惠於資料中心對發電設備的需求增長。"
     },
     {
       "symbol": "JPM",
