@@ -21,7 +21,7 @@
       "dollarVolume": 23340284176.698734,
       "marketCap": 1441470455048.2102,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "社群媒體/廣告",
+      "theme": "社群媒體/AI",
       "isNew": false,
       "rankChange": 6,
       "streak": 126
@@ -112,7 +112,7 @@
       "dollarVolume": 10946465115.381865,
       "marketCap": 1940254199999.9998,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "雲端/搜尋引擎",
+      "theme": "雲端/AI",
       "isNew": false,
       "rankChange": 3,
       "streak": 126
@@ -125,7 +125,7 @@
       "dollarVolume": 10209397557.763313,
       "marketCap": 535874560000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "CPU/PC",
+      "theme": "半導體製造",
       "isNew": false,
       "rankChange": -5,
       "streak": 126
@@ -138,7 +138,7 @@
       "dollarVolume": 9420381101.279732,
       "marketCap": 1733567072547.24,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體基礎設施",
+      "theme": "半導體網路",
       "isNew": false,
       "rankChange": -1,
       "streak": 126
@@ -177,7 +177,7 @@
       "dollarVolume": 6337143933.353163,
       "marketCap": 1814956260000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "雲端/搜尋引擎",
+      "theme": "雲端/AI",
       "isNew": false,
       "rankChange": 6,
       "streak": 126
@@ -203,7 +203,7 @@
       "dollarVolume": 4832333389.987564,
       "marketCap": 206080269000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "資料中心互連",
+      "theme": "半導體網路",
       "isNew": false,
       "rankChange": 5,
       "streak": 116
@@ -229,7 +229,7 @@
       "dollarVolume": 4457915364.296542,
       "marketCap": 465570527730,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "企業軟體",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": -1,
       "streak": 126
@@ -242,7 +242,7 @@
       "dollarVolume": 3983330807.8565893,
       "marketCap": 173888615810,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "PC/伺服器",
+      "theme": "電子電腦",
       "isNew": false,
       "rankChange": 8,
       "streak": 12
@@ -255,7 +255,7 @@
       "dollarVolume": 3462916363.3762727,
       "marketCap": 390039930665.37,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "大數據分析",
+      "theme": "資料分析/AI",
       "isNew": false,
       "rankChange": 6,
       "streak": 126
@@ -359,7 +359,7 @@
       "dollarVolume": 2613854752.7535553,
       "marketCap": 185261263664.4,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "行動晶片",
+      "theme": "手機晶片",
       "isNew": false,
       "rankChange": -5,
       "streak": 2
@@ -424,7 +424,7 @@
       "dollarVolume": 2190444868.6362476,
       "marketCap": 91143853375.52,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "線上券商",
+      "theme": "券商",
       "isNew": false,
       "rankChange": -5,
       "streak": 6
@@ -489,7 +489,7 @@
       "dollarVolume": 1865452469.6052227,
       "marketCap": 400283968490.4,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售量販",
+      "theme": "零售",
       "isNew": false,
       "rankChange": 9,
       "streak": 5
@@ -502,7 +502,7 @@
       "dollarVolume": 1847377994.817045,
       "marketCap": 153252186596.57,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "電商平台",
+      "theme": "電商軟體",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -567,7 +567,7 @@
       "dollarVolume": 1744098976.7986662,
       "marketCap": 78187675483.09999,
       "sector": "COMPUTER & OFFICE EQUIPMENT",
-      "theme": "企業IT基礎設施",
+      "theme": "企業IT服務",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -645,20 +645,20 @@
       "dollarVolume": 1647995063.0059166,
       "marketCap": 626073962648.66,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "支付服務",
+      "theme": "支付處理",
       "isNew": true,
       "rankChange": null,
       "streak": 1
     }
   ],
   "asOf": "2026-09-09T20:00:00.000Z",
-  "generatedAt": "2026-09-10T07:35:35.847Z",
+  "generatedAt": "2026-09-10T09:32:39.416Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "記憶體",
-      "reason": "AI應用對高頻寬記憶體(HBM)需求強勁，帶動整體記憶體產業景氣復甦。",
+      "reason": "AI 應用對高頻寬記憶體（HBM）的需求持續增長，帶動整體記憶體市場復甦與價格上漲。",
       "symbols": [
         "MU",
         "SKHY"
@@ -667,17 +667,8 @@
       "avgChange": 4.8997988897987526
     },
     {
-      "theme": "AI 晶片",
-      "reason": "人工智慧持續發展，市場對AI晶片的需求維持高檔，帶動相關供應商表現。",
-      "symbols": [
-        "AMD"
-      ],
-      "count": 1,
-      "avgChange": 3.0361450547712296
-    },
-    {
       "theme": "石油與天然氣",
-      "reason": "全球能源需求穩定，加上地緣政治因素影響，油價維持高檔，利好能源股。",
+      "reason": "全球能源需求預期上升以及地緣政治緊張局勢，支撐油價走高，利好能源股表現。",
       "symbols": [
         "XOM",
         "CVX"
@@ -686,8 +677,26 @@
       "avgChange": 2.0667140205850063
     },
     {
+      "theme": "AI 晶片",
+      "reason": "市場持續看好人工智慧領域的發展潛力，相關晶片供應商受惠於強勁的需求。",
+      "symbols": [
+        "AMD"
+      ],
+      "count": 1,
+      "avgChange": 3.0361450547712296
+    },
+    {
+      "theme": "半導體網路",
+      "reason": "資料中心和網路基礎設施升級需求旺盛，推動相關半導體解決方案供應商的成長。",
+      "symbols": [
+        "MRVL"
+      ],
+      "count": 1,
+      "avgChange": 4.258905993522911
+    },
+    {
       "theme": "銀行",
-      "reason": "市場對經濟軟著陸的預期升溫，有助於銀行業的資產品質與獲利展望。",
+      "reason": "市場對經濟軟著陸的預期以及聯準會利率政策的觀望，使得銀行股表現相對穩健。",
       "symbols": [
         "BAC",
         "JPM"
@@ -696,22 +705,13 @@
       "avgChange": 0.3941213926117042
     },
     {
-      "theme": "資料中心互連",
-      "reason": "AI與雲端運算發展推動資料中心擴建，對高速網路互連解決方案需求增加。",
+      "theme": "減肥藥 GLP-1",
+      "reason": "GLP-1 藥物在減重和糖尿病治療領域展現巨大市場潛力，持續吸引資金關注。",
       "symbols": [
-        "MRVL"
+        "LLY"
       ],
       "count": 1,
-      "avgChange": 4.258905993522911
-    },
-    {
-      "theme": "企業IT基礎設施",
-      "reason": "企業數位轉型持續投入IT基礎設施升級，帶動相關硬體與服務需求。",
-      "symbols": [
-        "HPE"
-      ],
-      "count": 1,
-      "avgChange": 5.122255934320894
+      "avgChange": 0.026692528761195693
     }
   ],
   "newEntrants": [
@@ -720,63 +720,63 @@
       "name": "Vertiv Holdings Co Class A Common Stock",
       "theme": "資料中心基礎設施",
       "changePercent": -9.606986899563319,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "AI資料中心需求強勁，Vertiv收購UtilityInnovation Group以強化微電網與電力架構。"
     },
     {
       "symbol": "BAC",
       "name": "Bank of America Corporation",
       "theme": "銀行",
       "changePercent": 0.4487898701715036,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "受惠於有利的估值和強勁的營運表現，以及Jefferies選為首選股。"
     },
     {
       "symbol": "BKNG",
       "name": "Booking Holdings Inc. Common Stock",
       "theme": "線上旅遊",
       "changePercent": -3.8103161397670573,
-      "reason": "近期旅遊類股受關注，可能帶動股價波動。"
+      "reason": "歐盟反壟斷否決收購ETraveli，加上地緣政治影響，股價下跌。"
     },
     {
       "symbol": "SHOP",
       "name": "Shopify Inc. Class A subordinate voting shares",
-      "theme": "電商平台",
+      "theme": "電商軟體",
       "changePercent": -5.451155853840409,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "收購Tailwind Labs強化電商生態系，Piper Sandler調升目標價。"
     },
     {
       "symbol": "CVX",
       "name": "Chevron Corporation",
       "theme": "石油與天然氣",
       "changePercent": 1.9113441372735895,
-      "reason": "雪佛龍執行長對波斯灣風險的評論，影響油氣股表現。"
+      "reason": "油價飆升、委內瑞拉增產計畫，以及管理層的積極評論提振股價。"
     },
     {
       "symbol": "HPE",
       "name": "Hewlett Packard Enterprise Company",
-      "theme": "企業IT基礎設施",
+      "theme": "企業IT服務",
       "changePercent": 5.122255934320894,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "AI伺服器需求強勁，營收積壓飆升，Juniper Networks收購案受關注。"
     },
     {
       "symbol": "RKLB",
       "name": "Rocket Lab Corporation Common Stock",
       "theme": "太空",
       "changePercent": -4.25079702444209,
-      "reason": "近期股價飆升，零售傳聞大幅增加。"
+      "reason": "推出新型高效能太陽能電池，減少對稀有礦物依賴，獲ARK Invest增持。"
     },
     {
       "symbol": "GS",
       "name": "Goldman Sachs Group Inc.",
       "theme": "投資銀行",
       "changePercent": -0.7476869941053322,
-      "reason": "高盛對聯準會降息預期發表看法，影響市場情緒。"
+      "reason": "擴大財富管理、投資AI，但中東緊張局勢與油價波動帶來壓力。"
     },
     {
       "symbol": "V",
       "name": "VISA Inc.",
-      "theme": "支付服務",
+      "theme": "支付處理",
       "changePercent": -0.3390842013888889,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "Visa執行長表示支付成長加速，並推出增強型A2A Protect防詐欺解決方案。"
     }
   ],
   "marketBriefing": {
