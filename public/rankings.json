@@ -164,7 +164,7 @@
       "dollarVolume": 7804303623.454838,
       "marketCap": 1951696800000.0002,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "網路服務",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": -4,
       "streak": 127
@@ -177,7 +177,7 @@
       "dollarVolume": 6420060480.935867,
       "marketCap": 2716964525651.08,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電商與雲端服務",
+      "theme": "電子商務",
       "isNew": false,
       "rankChange": -2,
       "streak": 127
@@ -190,7 +190,7 @@
       "dollarVolume": 5405201518.959513,
       "marketCap": 1826065530000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "網路服務",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": -1,
       "streak": 127
@@ -294,7 +294,7 @@
       "dollarVolume": 3025400631.2166796,
       "marketCap": 76132373667.54001,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "清潔能源",
+      "theme": "燃料電池",
       "isNew": false,
       "rankChange": -2,
       "streak": 7
@@ -333,7 +333,7 @@
       "dollarVolume": 2765361649.963961,
       "marketCap": 185765375946.47998,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "行動通訊晶片",
+      "theme": "手機晶片",
       "isNew": false,
       "rankChange": 2,
       "streak": 3
@@ -346,7 +346,7 @@
       "dollarVolume": 2745657463.4262795,
       "marketCap": 679411213150.7999,
       "sector": "PETROLEUM REFINING",
-      "theme": "石油與天然氣",
+      "theme": "石油天然氣",
       "isNew": false,
       "rankChange": 7,
       "streak": 19
@@ -463,7 +463,7 @@
       "dollarVolume": 2054016969.8025293,
       "marketCap": 420365096256.24,
       "sector": "PETROLEUM REFINING",
-      "theme": "石油與天然氣",
+      "theme": "石油天然氣",
       "isNew": false,
       "rankChange": 6,
       "streak": 2
@@ -476,7 +476,7 @@
       "dollarVolume": 1935422095.7688842,
       "marketCap": 296927866736.16,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "金融服務",
+      "theme": "投資銀行",
       "isNew": false,
       "rankChange": 10,
       "streak": 2
@@ -502,7 +502,7 @@
       "dollarVolume": 1890155680.9305727,
       "marketCap": 89602124419.22,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "金融科技",
+      "theme": "線上券商",
       "isNew": false,
       "rankChange": -6,
       "streak": 7
@@ -541,7 +541,7 @@
       "dollarVolume": 1835478421.2819226,
       "marketCap": 437466337714.4,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "銀行",
+      "theme": "商業銀行",
       "isNew": false,
       "rankChange": -11,
       "streak": 2
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-09-10T20:00:00.000Z",
-  "generatedAt": "2026-09-11T07:37:53.539Z",
+  "generatedAt": "2026-09-11T09:30:37.872Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
-      "theme": "網路服務",
-      "reason": "網路巨頭在廣告和雲端業務持續展現成長動能，市場對其未來獲利前景保持樂觀。",
+      "theme": "雲端服務",
+      "reason": "雲端服務巨頭持續受惠於企業數位轉型及AI應用需求增長，市場對其未來成長性抱持樂觀態度。",
       "symbols": [
         "GOOGL",
         "GOOG"
@@ -667,17 +667,28 @@
       "avgChange": 0.6009216049236606
     },
     {
-      "theme": "石油與天然氣",
-      "reason": "全球能源需求預期穩健，加上地緣政治因素，支撐油價表現，帶動能源股上漲。",
+      "theme": "石油天然氣",
+      "reason": "地緣政治緊張局勢和全球能源需求預期，使得油價維持高檔，帶動能源股表現。",
       "symbols": [
-        "XOM"
+        "XOM",
+        "CVX"
       ],
-      "count": 1,
-      "avgChange": 0.6089021494245875
+      "count": 2,
+      "avgChange": 0.05890596456777025
+    },
+    {
+      "theme": "比特幣/加密",
+      "reason": "加密貨幣市場波動性大，但部分投資者仍看好其長期發展潛力，相關概念股隨之受到關注。",
+      "symbols": [
+        "MSTR",
+        "IREN"
+      ],
+      "count": 2,
+      "avgChange": -3.466455746346825
     },
     {
       "theme": "消費性電子",
-      "reason": "市場預期新產品週期將刺激需求，投資者對主要消費性電子品牌前景看好。",
+      "reason": "市場預期新產品發表或銷售表現良好，提振了消費性電子龍頭的股價。",
       "symbols": [
         "AAPL"
       ],
@@ -685,17 +696,8 @@
       "avgChange": 3.5612354918500726
     },
     {
-      "theme": "叫車服務",
-      "reason": "隨著全球經濟活動復甦，叫車服務需求增加，推動營收成長。",
-      "symbols": [
-        "UBER"
-      ],
-      "count": 1,
-      "avgChange": 2.082160945413624
-    },
-    {
       "theme": "太空科技",
-      "reason": "太空產業持續受到創新和政府投資的關注，相關公司表現活躍。",
+      "reason": "太空探索與商業化進程加速，相關技術與服務供應商持續吸引市場目光。",
       "symbols": [
         "SPCX"
       ],
@@ -703,13 +705,14 @@
       "avgChange": 0.42697390715011546
     },
     {
-      "theme": "資安",
-      "reason": "企業對網路安全的需求日益增加，資安解決方案供應商持續獲得市場青睞。",
+      "theme": "雲端軟體 SaaS",
+      "reason": "企業對效率提升和數位化工具的需求不減，SaaS服務提供商的訂閱模式帶來穩定營收成長。",
       "symbols": [
-        "PANW"
+        "MSFT",
+        "NOW"
       ],
-      "count": 1,
-      "avgChange": 1.0116383169203182
+      "count": 2,
+      "avgChange": 0.10322325634216023
     }
   ],
   "newEntrants": [
@@ -718,21 +721,21 @@
       "name": "Adobe Inc.",
       "theme": "雲端軟體 SaaS",
       "changePercent": -2.3660048654163073,
-      "reason": "第三季財報營收獲利皆優於預期，並上修全年財測，但第四季營收指引略低預期，引發市場對AI影響的擔憂，導致股價下跌。"
+      "reason": "第三季財報營收創新高，但第四季財測保守，引發股價下跌。"
     },
     {
       "symbol": "UBER",
       "name": "Uber Technologies, Inc.",
       "theme": "叫車服務",
       "changePercent": 2.082160945413624,
-      "reason": "公司宣布裁員以精簡組織、降低成本，並將資金投入自動駕駛業務，營運長買進自家股票展現信心。"
+      "reason": "營運長買進自家股票，加上裁員與自動駕駛佈局，提振市場信心。"
     },
     {
       "symbol": "NOW",
       "name": "SERVICENOW, INC.",
       "theme": "雲端軟體 SaaS",
       "changePercent": 0.04576309968726554,
-      "reason": "高盛科技大會上闡述AI、資安營運及工作流程自動化策略，AI營收九個月成長九倍。"
+      "reason": "推出AI控制塔產品，提升AI安全治理與企業回報，並上調營收目標。"
     },
     {
       "symbol": "WMT",
@@ -746,14 +749,14 @@
       "name": "Coherent Corp.",
       "theme": "光學元件",
       "changePercent": -3.397258468432846,
-      "reason": "受惠AI資料中心散熱需求，AI半導體客戶打樣其高導熱碳化矽基板，獲外資調升目標價。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "PANW",
       "name": "Palo Alto Networks, Inc. Common Stock",
       "theme": "資安",
       "changePercent": 1.0116383169203182,
-      "reason": "第四季財報營收獲利超預期，但2027財年指引顯示NGS ARR成長率將放緩，導致股價下跌。"
+      "reason": "第四季財報收入強勁增長，但虧損擴大，分析師上調目標價。"
     },
     {
       "symbol": "IREN",
@@ -764,54 +767,49 @@
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI晶片、記憶體及消費性電子等題材。儘管大盤普遍走跌，但受惠於新產品發表及AI應用前景，部分個股逆勢上揚。資金流向顯示市場對具備明確AI變現能力的公司給予獎勵，同時也密切關注其資本密集度。記憶體族群因AI需求帶動供應短缺及價格上漲，成為主要增長動力。蘋果則受惠於摺疊iPhone Duo的發表，市場對其新產品週期轉趨樂觀。",
+    "highlights": "本日美股成交重點顯示，儘管大盤整體走弱，但資金明顯集中於科技類股，尤其是AI相關產業。機構投資者和對沖基金是主要買家，連續第二週淨買入美股，特別偏好科技類股的單股表現。市場主要交易的故事是AI技術的持續發展與商業化潛力，例如Meta推出AI智能體Muse後股價大漲，以及對記憶體晶片和AI基礎設施需求的樂觀預期，推動相關個股逆勢上揚。然而，油價突破每桶100美元引發的通膨和升息擔憂，對整體市場，特別是高估值科技股造成壓力，導致半導體板塊內部出現資金分化，記憶體和AI加速股表現強勢，而半導體設備和晶圓代工族群則承壓。",
     "eventsPast": [
       {
-        "title": "蘋果發表摺疊iPhone Duo",
-        "detail": "蘋果於9月10日凌晨發表首款摺疊手機iPhone Duo，市場對其新產品週期轉趨樂觀，帶動股價逆勢上漲3.56%。"
+        "title": "Meta推出AI智能體Muse",
+        "detail": "Meta Platforms (META) 股價大漲6.55%，因其正式推出個人AI智能體Muse，該產品具備全天候運行、夜間反思與主動規劃能力，市場對其商業化潛力給予高度正面評價。"
       },
       {
-        "title": "Meta AI助理Muse使用量超預期",
-        "detail": "Meta Platforms股價大漲6.5%，因其新推出的AI助理Muse初步成功，使用量遠超預期，顯示AI應用變現潛力。"
+        "title": "蘋果發表會推出新款iPhone與摺疊手機",
+        "detail": "蘋果 (AAPL) 於台灣時間9月10日凌晨發表iPhone 18 Pro系列、Apple Watch Series 12、Apple Watch Ultra 4與AirPods 5，並推出首款摺疊手機iPhone Duo，儘管新機全面漲價，但分析師普遍持正面看法。"
       },
       {
-        "title": "甲骨文財報優於預期，雲端基礎設施營收翻倍",
-        "detail": "甲骨文公布2027會計年度第一季財報，業績優於市場預期，雲端基礎設施營收翻倍，盤後股價上漲逾4%。"
+        "title": "記憶體晶片需求強勁，美光、SK海力士上漲",
+        "detail": "Susquehanna分析師指出，AI數據中心投資重塑半導體行業增長結構，記憶體晶片是主要驅動力，預計今年全球半導體行業營收將大幅增長至1.5兆美元。美光科技 (MU) 上漲2.75%，SK海力士 (SKHY.O) 股價創歷史新高，上漲7.05%。"
       },
       {
-        "title": "8月PPI年增率升至5.4%，油價突破100美元",
-        "detail": "美國8月生產者物價指數（PPI）年增率升至5.4%，高於預期，加上國際油價突破每桶100美元，加劇市場對通膨和聯準會升息的擔憂。"
+        "title": "AMD財務長看好AI市場潛力",
+        "detail": "超微半導體 (AMD) 股價延續漲勢，此前公司財務長Jean Hu表示，AMD的整體潛在市場 (TAM) 到2030年可能達到約2兆美元。"
       },
       {
-        "title": "SpaceX簽下AI託管大單",
-        "detail": "SpaceX與客戶簽下每月約11.1億美元的AI託管合約，目標年底達成年化1,000億美元營收，並大舉擴張資料中心與搶購Nvidia晶片。"
+        "title": "油價突破100美元，引發通膨擔憂",
+        "detail": "布蘭特原油價格突破每桶100美元，因伊朗戰爭導致荷莫茲海峽和紅海的供應路線受到干擾，加劇了通膨擔憂，並強化市場對聯準會升息的預期。"
       }
     ],
     "eventsUpcoming": [
       {
         "date": "9/11",
-        "title": "美國8月消費者物價指數（CPI）公布",
-        "detail": "美國8月CPI數據將於今晚公布，此為聯準會9月會議前最後一份通膨報告，將直接影響聯準會是否升息的決策。"
+        "title": "美國8月消費物價指數 (CPI) 公布",
+        "detail": "市場將密切關注美國8月CPI數據，以判斷通膨情勢，這將影響聯準會未來的利率決策。"
       },
       {
-        "date": "9/15-9/16",
-        "title": "聯準會（Fed）利率決議",
-        "detail": "聯準會將召開議息會議並公布最新利率決議，市場對9月升息的預期升高，但仍存在分歧。"
+        "date": "9/16",
+        "title": "聯準會 (Fed) 議息結果",
+        "detail": "聯準會將公布議息結果，市場預期本月可能升息25個基點，其決策將對美股走勢產生重要影響。"
       },
       {
-        "date": "9/18",
-        "title": "季度結算四巫日",
-        "detail": "美股第三季度衍生性金融商品集中結算日，本次緊跟在聯準會利率決議後，技術性調倉效應可能放大。"
+        "date": "10月中",
+        "title": "美股第三季財報季開始",
+        "detail": "美股第三季財報公布期將於10月中開始，屆時將有更多企業公布業績，提供市場新的方向。"
       },
       {
-        "date": "10月上旬",
-        "title": "Intel CPU再次漲價",
-        "detail": "據供應鏈消息，Intel因成本飆升，暫定10月上旬再次調漲個人電腦CPU價格超過10%。"
-      },
-      {
-        "date": "本月底",
-        "title": "SpaceX Starship第14次測試飛行",
-        "detail": "SpaceX的Starship火箭預計本月底進行第14次測試飛行，商業飛行最快可能在今年開始。"
+        "date": "2027年下半年",
+        "title": "台積電1.4奈米廠量產",
+        "detail": "台積電 (TSM) 位於中部科學園區的擴建二期1.4奈米建廠全面加速，第一座廠預計明年4月試機，2027年下半年開始量產，早於原訂的2028年。"
       }
     ]
   }
