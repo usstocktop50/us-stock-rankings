@@ -60,7 +60,7 @@
       "dollarVolume": 17945199662.169697,
       "marketCap": 1944971630884.7502,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "太空",
+      "theme": "太空科技",
       "isNew": false,
       "rankChange": 2,
       "streak": 61
@@ -125,7 +125,7 @@
       "dollarVolume": 10209397557.763313,
       "marketCap": 535874560000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體製造",
+      "theme": "CPU/半導體",
       "isNew": false,
       "rankChange": -5,
       "streak": 126
@@ -138,7 +138,7 @@
       "dollarVolume": 9420381101.279732,
       "marketCap": 1733567072547.24,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體網路",
+      "theme": "AI 網路晶片",
       "isNew": false,
       "rankChange": -1,
       "streak": 126
@@ -203,7 +203,7 @@
       "dollarVolume": 4832333389.987564,
       "marketCap": 206080269000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體網路",
+      "theme": "AI 網路晶片",
       "isNew": false,
       "rankChange": 5,
       "streak": 116
@@ -242,7 +242,7 @@
       "dollarVolume": 3983330807.8565893,
       "marketCap": 173888615810,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "電子電腦",
+      "theme": "伺服器/PC",
       "isNew": false,
       "rankChange": 8,
       "streak": 12
@@ -268,7 +268,7 @@
       "dollarVolume": 3322802708.461075,
       "marketCap": 79310323730.87999,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "燃料電池",
+      "theme": "氫能源",
       "isNew": false,
       "rankChange": -8,
       "streak": 6
@@ -424,7 +424,7 @@
       "dollarVolume": 2190444868.6362476,
       "marketCap": 91143853375.52,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "券商",
+      "theme": "金融科技",
       "isNew": false,
       "rankChange": -5,
       "streak": 6
@@ -567,7 +567,7 @@
       "dollarVolume": 1744098976.7986662,
       "marketCap": 78187675483.09999,
       "sector": "COMPUTER & OFFICE EQUIPMENT",
-      "theme": "企業IT服務",
+      "theme": "伺服器/PC",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -593,7 +593,7 @@
       "dollarVolume": 1715365073.7757952,
       "marketCap": 37737964899.74,
       "sector": "GUIDED MISSILES & SPACE VEHICLES & PARTS",
-      "theme": "太空",
+      "theme": "太空科技",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -645,20 +645,20 @@
       "dollarVolume": 1647995063.0059166,
       "marketCap": 626073962648.66,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "支付處理",
+      "theme": "支付服務",
       "isNew": true,
       "rankChange": null,
       "streak": 1
     }
   ],
   "asOf": "2026-09-09T20:00:00.000Z",
-  "generatedAt": "2026-09-10T09:32:39.416Z",
+  "generatedAt": "2026-09-11T02:05:15.118Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "記憶體",
-      "reason": "AI 應用對高頻寬記憶體（HBM）的需求持續增長，帶動整體記憶體市場復甦與價格上漲。",
+      "reason": "市場對記憶體需求復甦與價格上漲預期持續，特別是HBM等高階產品。",
       "symbols": [
         "MU",
         "SKHY"
@@ -667,8 +667,35 @@
       "avgChange": 4.8997988897987526
     },
     {
+      "theme": "AI 網路晶片",
+      "reason": "AI運算對網路頻寬與資料傳輸效率要求提升，帶動相關晶片需求。",
+      "symbols": [
+        "MRVL"
+      ],
+      "count": 1,
+      "avgChange": 4.258905993522911
+    },
+    {
+      "theme": "AI 晶片",
+      "reason": "AI技術發展持續推動對高效能運算晶片的需求，市場對未來成長仍抱持樂觀。",
+      "symbols": [
+        "AMD"
+      ],
+      "count": 1,
+      "avgChange": 3.0361450547712296
+    },
+    {
+      "theme": "社群媒體/AI",
+      "reason": "社群媒體巨頭積極投入AI技術應用，提升用戶體驗與廣告效益，市場給予正面評價。",
+      "symbols": [
+        "META"
+      ],
+      "count": 1,
+      "avgChange": 6.554410901740894
+    },
+    {
       "theme": "石油與天然氣",
-      "reason": "全球能源需求預期上升以及地緣政治緊張局勢，支撐油價走高，利好能源股表現。",
+      "reason": "全球能源需求穩定，加上地緣政治因素影響，油價維持高檔，利好能源股。",
       "symbols": [
         "XOM",
         "CVX"
@@ -677,41 +704,13 @@
       "avgChange": 2.0667140205850063
     },
     {
-      "theme": "AI 晶片",
-      "reason": "市場持續看好人工智慧領域的發展潛力，相關晶片供應商受惠於強勁的需求。",
+      "theme": "伺服器/PC",
+      "reason": "企業對IT基礎設施升級需求，以及AI伺服器相關訂單的增長，推動伺服器供應商表現。",
       "symbols": [
-        "AMD"
+        "HPE"
       ],
       "count": 1,
-      "avgChange": 3.0361450547712296
-    },
-    {
-      "theme": "半導體網路",
-      "reason": "資料中心和網路基礎設施升級需求旺盛，推動相關半導體解決方案供應商的成長。",
-      "symbols": [
-        "MRVL"
-      ],
-      "count": 1,
-      "avgChange": 4.258905993522911
-    },
-    {
-      "theme": "銀行",
-      "reason": "市場對經濟軟著陸的預期以及聯準會利率政策的觀望，使得銀行股表現相對穩健。",
-      "symbols": [
-        "BAC",
-        "JPM"
-      ],
-      "count": 2,
-      "avgChange": 0.3941213926117042
-    },
-    {
-      "theme": "減肥藥 GLP-1",
-      "reason": "GLP-1 藥物在減重和糖尿病治療領域展現巨大市場潛力，持續吸引資金關注。",
-      "symbols": [
-        "LLY"
-      ],
-      "count": 1,
-      "avgChange": 0.026692528761195693
+      "avgChange": 5.122255934320894
     }
   ],
   "newEntrants": [
@@ -720,114 +719,114 @@
       "name": "Vertiv Holdings Co Class A Common Stock",
       "theme": "資料中心基礎設施",
       "changePercent": -9.606986899563319,
-      "reason": "AI資料中心需求強勁，Vertiv收購UtilityInnovation Group以強化微電網與電力架構。"
+      "reason": "Vertiv宣布收購UtilityInnovation Group，加速AI資料中心供電時間，並公布季度股息。"
     },
     {
       "symbol": "BAC",
       "name": "Bank of America Corporation",
       "theme": "銀行",
       "changePercent": 0.4487898701715036,
-      "reason": "受惠於有利的估值和強勁的營運表現，以及Jefferies選為首選股。"
+      "reason": "高盛維持買入評級，CEO表示消費者支出健康，並宣布贖回20億美元高級票據。"
     },
     {
       "symbol": "BKNG",
       "name": "Booking Holdings Inc. Common Stock",
       "theme": "線上旅遊",
       "changePercent": -3.8103161397670573,
-      "reason": "歐盟反壟斷否決收購ETraveli，加上地緣政治影響，股價下跌。"
+      "reason": "受油價上漲和升息預期影響，旅遊股承壓，Booking Holdings股價下跌。"
     },
     {
       "symbol": "SHOP",
       "name": "Shopify Inc. Class A subordinate voting shares",
       "theme": "電商軟體",
       "changePercent": -5.451155853840409,
-      "reason": "收購Tailwind Labs強化電商生態系，Piper Sandler調升目標價。"
+      "reason": "Shopify宣布增加30億美元的股票回購授權，總額達50億美元。"
     },
     {
       "symbol": "CVX",
       "name": "Chevron Corporation",
       "theme": "石油與天然氣",
       "changePercent": 1.9113441372735895,
-      "reason": "油價飆升、委內瑞拉增產計畫，以及管理層的積極評論提振股價。"
+      "reason": "油價飆升，Chevron計劃將委內瑞拉石油鑽機數量翻倍，並強調成本效益。"
     },
     {
       "symbol": "HPE",
       "name": "Hewlett Packard Enterprise Company",
-      "theme": "企業IT服務",
+      "theme": "伺服器/PC",
       "changePercent": 5.122255934320894,
-      "reason": "AI伺服器需求強勁，營收積壓飆升，Juniper Networks收購案受關注。"
+      "reason": "HPE公布2026財年第三季度業績，並宣布與Oracle深化合作加速AI基礎設施。"
     },
     {
       "symbol": "RKLB",
       "name": "Rocket Lab Corporation Common Stock",
-      "theme": "太空",
+      "theme": "太空科技",
       "changePercent": -4.25079702444209,
-      "reason": "推出新型高效能太陽能電池，減少對稀有礦物依賴，獲ARK Invest增持。"
+      "reason": "Rocket Lab推出高效太陽能電池IMM Apex，可降低對關鍵礦物的依賴。"
     },
     {
       "symbol": "GS",
       "name": "Goldman Sachs Group Inc.",
       "theme": "投資銀行",
       "changePercent": -0.7476869941053322,
-      "reason": "擴大財富管理、投資AI，但中東緊張局勢與油價波動帶來壓力。"
+      "reason": "高盛宣布高層人事變動，並擴大加拿大財富管理業務。"
     },
     {
       "symbol": "V",
       "name": "VISA Inc.",
-      "theme": "支付處理",
+      "theme": "支付服務",
       "changePercent": -0.3390842013888889,
-      "reason": "Visa執行長表示支付成長加速，並推出增強型A2A Protect防詐欺解決方案。"
+      "reason": "Visa推出增強型A2A Protect解決方案，利用AI幫助金融機構防範詐欺。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點集中在記憶體和AI晶片兩大題材。記憶體族群在美光（MU）和SK海力士（SKHY）的帶動下表現強勁，主要受惠於蘋果推出可折疊iPhone引發的記憶體需求缺口，以及機構資金對記憶體稀缺性的重新定價。AI晶片方面，儘管輝達（NVDA）股價小幅下跌，但AMD因與沙烏地阿拉伯合作建立AI基礎設施而上漲，顯示市場對AI基礎建設的長期投資故事仍抱持樂觀態度。此外，亞馬遜（AMZN）與高通（QCOM）在AI資料中心客製化晶片的合作也為AI基礎建設題材增添動能。",
+    "highlights": "本日美股成交重點聚焦於AI相關硬體與記憶體族群，資金主要流向半導體供應商，而非軟體服務商，顯示市場對AI基礎設施的需求持續強勁。美光科技（MU）和SK海力士（SKHY）等記憶體股因DRAM和NAND價格上漲而表現突出，而Meta Platforms（META）則因其AI代理產品Muse的初步成功而受到市場追捧。整體而言，儘管大盤受升息疑慮和油價上漲影響而普遍下跌，AI硬體相關個股仍展現出較強的抗跌性。",
     "eventsPast": [
       {
-        "title": "記憶體族群強勢上漲",
-        "detail": "美光（MU）和SK海力士（SKHY）股價分別上漲2.75%和7.05%，主要受高盛轉多記憶體產業以及蘋果推出可折疊iPhone帶動的需求增長。"
+        "title": "Meta AI代理Muse表現亮眼",
+        "detail": "Meta Platforms（META）推出的AI代理產品Muse初步市場反應良好，帶動摩根大通將其投資評等調升至「加碼」。"
       },
       {
-        "title": "AMD與中東合作建置AI基礎設施",
-        "detail": "AMD（AMD）上漲3.04%，因其Instinct MI355X GPU搭配EPYC CPU的完整方案正式上線沙烏地阿拉伯的AI基礎設施，直接切入輝達主導的資料中心生態。"
+        "title": "英特爾力挺新創挑戰HBM市場",
+        "detail": "英特爾（INTC）投資的晶片新創公司Kepler Computing揭露新型記憶體技術，有望緩解HBM供應瓶頸，對美光等記憶體廠商股價造成壓力。"
       },
       {
-        "title": "亞馬遜與高通合作開發AI資料中心晶片",
-        "detail": "亞馬遜（AMZN）與高通（QCOM）宣布展開多世代策略合作，共同開發用於AI資料中心的客製化晶片、系統連接方案及高速光互連技術，預計為高通帶來最高600億美元的採購承諾。"
+        "title": "高通與亞馬遜合作布局AI基礎建設",
+        "detail": "高通（QCOM）宣布與亞馬遜（AMZN）合作開發下一代AI資料中心基礎建設，將為大型AI資料中心提供客製化晶片。"
       },
       {
-        "title": "美股大盤受升息擔憂承壓",
-        "detail": "美股三大指數連續數日下跌，因中東衝突升級推動布蘭特原油突破100美元/桶，加劇市場對通膨持續性的擔憂，同時美國10年期公債殖利率升至高位，投資人等待CPI數據判斷聯準會9月會議是否升息。"
+        "title": "美國8月生產者物價指數（PPI）年增率超預期",
+        "detail": "美國8月PPI年增率達5.4%，高於市場預期，加劇了聯準會9月升息的預期。"
       },
       {
-        "title": "蘋果發表會登場",
-        "detail": "蘋果（AAPL）於9月10日凌晨舉行秋季發表會，市場關注新品規格及新技術能否創造更多使用情境與換機需求。"
+        "title": "英偉達AI加速器設計調整與反壟斷調查",
+        "detail": "英偉達（NVDA）考慮將下一代Rubin Ultra AI加速器的高頻寬記憶體（HBM）方案從12層堆疊調整為8層，同時美國司法部正在調查其與AI晶片製造商Groq的交易是否涉及反壟斷。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "9/10",
-        "title": "美國生產者物價指數 (PPI) 公布",
-        "detail": "市場將密切關注8月PPI數據，以判斷通膨是否持續升溫，這將影響聯準會（Fed）對9月升息的決策。"
-      },
-      {
         "date": "9/11",
-        "title": "美國消費者物價指數 (CPI) 公布",
-        "detail": "8月CPI數據將是聯準會9月FOMC會議前最重要的通膨指標，對市場升息預期有關鍵影響。"
+        "title": "美國8月消費者物價指數（CPI）",
+        "detail": "美國勞工統計局將公布8月CPI，此為聯準會9月利率會議前最後一份重要通膨報告，可能影響市場對9月是否升息的判斷。"
       },
       {
-        "date": "9/17",
-        "title": "聯準會 (Fed) FOMC 會議決議",
-        "detail": "美國聯準會將公布9月FOMC會議決議，市場高度關注是否會升息，以及對未來貨幣政策的展望，這將牽動利差、匯率及AI資本支出的融資環境。"
+        "date": "9/15-9/16",
+        "title": "聯準會（Fed）利率決議與點陣圖",
+        "detail": "聯準會將召開聯邦公開市場委員會（FOMC）會議，公布利率決議和經濟預測，市場高度關注是否會重啟升息。"
+      },
+      {
+        "date": "9/18",
+        "title": "季度結算四巫日",
+        "detail": "美股2026年第三季度的衍生性金融商品集中結算日，由於緊跟在聯準會利率決議後，技術性調倉效應可能放大。"
       },
       {
         "date": "9月底",
-        "title": "美光（MU）Q4財季財報",
-        "detail": "市場將聚焦美光即將發布的Q4財報，以評估記憶體需求缺口的持續時間及公司未來的獲利能力。"
+        "title": "美光科技（MU）財報",
+        "detail": "美光科技（MU）將公布財報，市場預期DRAM和NAND價格上漲有望帶來利多。"
       },
       {
-        "date": "本週",
-        "title": "AI基礎建設相關公司財報",
-        "detail": "本週有多家公司將公布財報，投資人可關注其中與AI基礎建設相關的公司，以了解AI浪潮對其營收和獲利的實際影響。"
+        "date": "本週四",
+        "title": "美國8月PPI與上週初領失業金人數",
+        "detail": "美國將公布8月生產者物價指數（PPI）和上週初領失業金人數，這些數據將影響市場對通膨和勞動市場的評估。"
       }
     ]
   }
