@@ -73,7 +73,7 @@
       "dollarVolume": 11820039399.395107,
       "marketCap": 1993216945483.4502,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "太空科技",
+      "theme": "太空",
       "isNew": false,
       "rankChange": -2,
       "streak": 63
@@ -86,7 +86,7 @@
       "dollarVolume": 11021433118.772242,
       "marketCap": 1428989427687.27,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "社群媒體/廣告",
+      "theme": "社群媒體",
       "isNew": false,
       "rankChange": -1,
       "streak": 128
@@ -151,7 +151,7 @@
       "dollarVolume": 8071617261.038805,
       "marketCap": 184297567235.59998,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "PC/伺服器",
+      "theme": "伺服器/PC",
       "isNew": false,
       "rankChange": 10,
       "streak": 14
@@ -281,7 +281,7 @@
       "dollarVolume": 3040856642.072505,
       "marketCap": 29171264446.800003,
       "sector": "CANNED, FROZEN & PRESERVD FRUIT, VEG & FOOD SPECIALTIES",
-      "theme": "食品飲料",
+      "theme": "消費必需品",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -372,7 +372,7 @@
       "dollarVolume": 2560895901.2484584,
       "marketCap": 49280885510.4,
       "sector": "—",
-      "theme": "雲端服務",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": -5,
       "streak": 53
@@ -398,7 +398,7 @@
       "dollarVolume": 2383235673.903676,
       "marketCap": 82422288128.11,
       "sector": "COMPUTER & OFFICE EQUIPMENT",
-      "theme": "PC/伺服器",
+      "theme": "伺服器/PC",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -463,7 +463,7 @@
       "dollarVolume": 2110271066.8179054,
       "marketCap": 191111066604.37,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "手機晶片",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": -10,
       "streak": 4
@@ -528,7 +528,7 @@
       "dollarVolume": 1834993734.6303391,
       "marketCap": 26344311898.4,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "PC/伺服器",
+      "theme": "伺服器/PC",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -541,7 +541,7 @@
       "dollarVolume": 1825896233.8033185,
       "marketCap": 718618905119.57,
       "sector": "FIRE, MARINE & CASUALTY INSURANCE",
-      "theme": "多元控股",
+      "theme": "綜合金融",
       "isNew": false,
       "rankChange": -4,
       "streak": 4
@@ -567,7 +567,7 @@
       "dollarVolume": 1814686388.3974419,
       "marketCap": 146390283872.07,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "叫車/外送平台",
+      "theme": "叫車服務",
       "isNew": false,
       "rankChange": -14,
       "streak": 2
@@ -606,7 +606,7 @@
       "dollarVolume": 1668535360.8109257,
       "marketCap": 337414606764.24005,
       "sector": "SOAP, DETERGENTS, CLEANG PREPARATIONS, PERFUMES, COSMETICS",
-      "theme": "民生消費",
+      "theme": "消費必需品",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -645,20 +645,35 @@
       "dollarVolume": 1591269999.7653148,
       "marketCap": 40834991693.1,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端服務",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": -19,
       "streak": 5
     }
   ],
   "asOf": "2026-09-11T20:00:00.000Z",
-  "generatedAt": "2026-09-12T05:13:20.590Z",
+  "generatedAt": "2026-09-12T07:27:37.780Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
-      "theme": "PC/伺服器",
-      "reason": "AI 伺服器需求持續增長，帶動相關硬體供應商股價表現強勁。",
+      "theme": "雲端軟體 SaaS",
+      "reason": "企業數位轉型與AI應用需求持續推動雲端服務及軟體解決方案的增長。",
+      "symbols": [
+        "GOOGL",
+        "MSFT",
+        "AMZN",
+        "GOOG",
+        "ADBE",
+        "PLTR",
+        "CRM"
+      ],
+      "count": 7,
+      "avgChange": 1.4327605105417722
+    },
+    {
+      "theme": "伺服器/PC",
+      "reason": "AI伺服器需求強勁以及PC市場復甦預期，帶動相關硬體供應商表現。",
       "symbols": [
         "DELL",
         "HPE",
@@ -668,26 +683,8 @@
       "avgChange": 10.564402710739126
     },
     {
-      "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型趨勢不變，雲端軟體服務需求穩定增長，尤其在 AI 整合應用方面。",
-      "symbols": [
-        "AAPL",
-        "META",
-        "GOOGL",
-        "MSFT",
-        "AMZN",
-        "GOOG",
-        "ADBE",
-        "PLTR",
-        "CRM",
-        "NFLX"
-      ],
-      "count": 10,
-      "avgChange": 1.4169880736225418
-    },
-    {
       "theme": "半導體",
-      "reason": "AI 晶片需求持續推動半導體產業發展，相關供應鏈表現活躍。",
+      "reason": "AI晶片需求持續旺盛，帶動相關半導體設計與製造公司股價上漲。",
       "symbols": [
         "AMD",
         "INTC",
@@ -700,7 +697,7 @@
     },
     {
       "theme": "比特幣/加密",
-      "reason": "加密貨幣市場波動帶動相關概念股表現，投資人對數位資產的興趣不減。",
+      "reason": "比特幣價格波動及市場對加密貨幣相關投資的興趣，影響相關概念股表現。",
       "symbols": [
         "MSTR",
         "BMNR"
@@ -709,59 +706,59 @@
       "avgChange": 2.652181571327922
     },
     {
+      "theme": "消費性電子",
+      "reason": "市場對新產品發布和消費電子需求復甦的預期，推動相關公司股價上漲。",
+      "symbols": [
+        "AAPL"
+      ],
+      "count": 1,
+      "avgChange": 1.7454144593808336
+    },
+    {
       "theme": "生技製藥",
-      "reason": "新藥研發進展或特定疾病治療需求，持續吸引資金關注生技製藥板塊。",
+      "reason": "特定藥物研發進展或市場需求預期，帶動生技製藥類股表現。",
       "symbols": [
         "MRNA"
       ],
       "count": 1,
       "avgChange": 5.379885814668419
-    },
-    {
-      "theme": "氫能源",
-      "reason": "全球對清潔能源的追求，使氫能源技術及相關公司受到市場關注。",
-      "symbols": [
-        "BE"
-      ],
-      "count": 1,
-      "avgChange": 6.677240899067659
     }
   ],
   "newEntrants": [
     {
       "symbol": "KHC",
       "name": "The Kraft Heinz Company Common Stock",
-      "theme": "食品飲料",
+      "theme": "消費必需品",
       "changePercent": 0.8610086100861043,
-      "reason": "品牌再投資計畫初見成效，市場份額從21%提升至35%。"
+      "reason": "公司宣布將股票上市地點轉至紐約證券交易所，並與Jell-O、Tower 28合作推出聯名彩妝系列。"
     },
     {
       "symbol": "HPE",
       "name": "Hewlett Packard Enterprise Company",
-      "theme": "PC/伺服器",
+      "theme": "伺服器/PC",
       "changePercent": 12.441144512857669,
-      "reason": "受惠於AI基礎建設題材、強勁財報、上修財測及與Oracle擴大合作。"
+      "reason": "受惠於AI基礎設施支出預期增強，Oracle資本支出展望提升，AI伺服器需求旺盛。"
     },
     {
       "symbol": "MRNA",
       "name": "Moderna, Inc. Common Stock",
       "theme": "生技製藥",
       "changePercent": 5.379885814668419,
-      "reason": "癌症療法三期臨床試驗成功，FDA高層人事定案強化創新期待。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "JPM",
       "name": "JPMorgan Chase & Co.",
       "theme": "銀行",
       "changePercent": 0.7551759248783844,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "摩根大通停止向對沖基金Situational Awareness提供貸款，引發市場關注。"
     },
     {
       "symbol": "SMCI",
       "name": "Super Micro Computer, Inc. Common Stock",
-      "theme": "PC/伺服器",
+      "theme": "伺服器/PC",
       "changePercent": 7.276618512573566,
-      "reason": "AI伺服器需求強勁，受惠於AI基礎設施建置。"
+      "reason": "公司在多個科技會議上強調AI成長動能，並完成內部調查強化出口合規計畫。"
     },
     {
       "symbol": "NFLX",
@@ -773,7 +770,7 @@
     {
       "symbol": "PG",
       "name": "Procter & Gamble Company",
-      "theme": "民生消費",
+      "theme": "消費必需品",
       "changePercent": 1.6087291040078417,
       "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
@@ -782,7 +779,7 @@
       "name": "BitMine Immersion Technologies, Inc.",
       "theme": "比特幣/加密",
       "changePercent": 3.42975206611571,
-      "reason": "宣布ETH持有量達593萬枚，總資產達157億美元，連續66週增持ETH。"
+      "reason": "受美國數位資產監管立法樂觀情緒及以太坊價格上漲帶動。"
     }
   ],
   "marketBriefing": {
