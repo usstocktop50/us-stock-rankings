@@ -190,7 +190,7 @@
       "dollarVolume": 6059637723.772227,
       "marketCap": 437806735440,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "企業軟體",
+      "theme": "資料庫/雲端軟體",
       "isNew": false,
       "rankChange": -10,
       "streak": 129
@@ -229,7 +229,7 @@
       "dollarVolume": 4998745638.54158,
       "marketCap": 398736627048.99,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "大數據/AI 軟體",
+      "theme": "資料分析/AI 軟體",
       "isNew": false,
       "rankChange": 10,
       "streak": 129
@@ -281,7 +281,7 @@
       "dollarVolume": 4170976291.221887,
       "marketCap": 74902191000,
       "sector": "COMMUNICATIONS EQUIPMENT, NEC",
-      "theme": "光通訊",
+      "theme": "光學通訊",
       "isNew": false,
       "rankChange": -1,
       "streak": 47
@@ -476,7 +476,7 @@
       "dollarVolume": 2600784381.00292,
       "marketCap": 123695364331.59999,
       "sector": "DRAWING & INSULATING OF NONFERROUS WIRE",
-      "theme": "特用玻璃",
+      "theme": "特種玻璃/材料",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -567,7 +567,7 @@
       "dollarVolume": 2431259829.3994064,
       "marketCap": 1071527919948.2,
       "sector": "PHARMACEUTICAL PREPARATIONS",
-      "theme": "生技製藥",
+      "theme": "減肥藥 GLP-1",
       "isNew": false,
       "rankChange": -7,
       "streak": 81
@@ -593,7 +593,7 @@
       "dollarVolume": 2314933668.9626117,
       "marketCap": 678794426356.8,
       "sector": "PETROLEUM REFINING",
-      "theme": "石油天然氣",
+      "theme": "石油與天然氣",
       "isNew": false,
       "rankChange": -6,
       "streak": 21
@@ -606,7 +606,7 @@
       "dollarVolume": 2218649385.692129,
       "marketCap": 38077172836.200005,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體 SaaS",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": 3,
       "streak": 6
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-09-14T20:00:00.000Z",
-  "generatedAt": "2026-09-15T05:30:30.246Z",
+  "generatedAt": "2026-09-15T08:16:33.565Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "資安",
-      "reason": "網路安全威脅日益增加，企業對資安解決方案的需求持續成長，帶動相關軟體服務股表現。",
+      "reason": "網路安全威脅日益增加，企業對資安解決方案的需求持續成長，推動相關軟體服務股價上漲。",
       "symbols": [
         "CRWD",
         "PANW"
@@ -668,7 +668,7 @@
     },
     {
       "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型趨勢不變，雲端軟體服務持續受青睞，尤其在效率提升和成本優化方面。",
+      "reason": "企業數位轉型趨勢不變，對雲端軟體服務的需求持續旺盛，帶動相關SaaS公司表現。",
       "symbols": [
         "MSFT",
         "CRM",
@@ -678,18 +678,8 @@
       "avgChange": 4.703333508619047
     },
     {
-      "theme": "比特幣/加密",
-      "reason": "比特幣價格波動與市場情緒影響，相關加密貨幣概念股受資金追捧。",
-      "symbols": [
-        "MSTR",
-        "COIN"
-      ],
-      "count": 2,
-      "avgChange": 6.897999887792009
-    },
-    {
       "theme": "雲端/AI 軟體",
-      "reason": "AI 技術的快速發展持續推動雲端服務和AI應用軟體的需求，市場對其未來成長潛力抱持樂觀。",
+      "reason": "大型科技公司持續投入AI研發與雲端服務擴張，市場看好其未來成長潛力。",
       "symbols": [
         "GOOGL",
         "GOOG"
@@ -698,8 +688,18 @@
       "avgChange": 3.1378562230280815
     },
     {
+      "theme": "比特幣/加密",
+      "reason": "加密貨幣市場情緒回暖，比特幣價格波動帶動相關概念股上漲。",
+      "symbols": [
+        "MSTR",
+        "COIN"
+      ],
+      "count": 2,
+      "avgChange": 6.897999887792009
+    },
+    {
       "theme": "社群媒體/廣告",
-      "reason": "數位廣告市場復甦及社群平台用戶數穩定增長，帶動相關公司營收預期。",
+      "reason": "數位廣告市場復甦，社群媒體平台營收預期改善，吸引資金關注。",
       "symbols": [
         "META"
       ],
@@ -707,8 +707,8 @@
       "avgChange": 2.7112942302053993
     },
     {
-      "theme": "生技製藥",
-      "reason": "新藥研發進展或市場對特定疾病治療需求的預期，推動大型製藥公司股價上漲。",
+      "theme": "減肥藥 GLP-1",
+      "reason": "GLP-1藥物市場前景廣闊，相關製藥公司持續受市場追捧。",
       "symbols": [
         "LLY"
       ],
@@ -748,7 +748,7 @@
     {
       "symbol": "GLW",
       "name": "Corning Incorporated",
-      "theme": "特用玻璃",
+      "theme": "特種玻璃/材料",
       "changePercent": -13.701923076923084,
       "reason": "公司宣布達成最高20億美元的股權配售協議，引發稀釋擔憂。"
     },
@@ -803,54 +803,39 @@
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI晶片、記憶體及雲端軟體等科技巨頭，資金流向反映市場對AI發展的樂觀與擔憂並存。Nvidia、Micron等AI相關個股雖成交量大，但普遍下跌，顯示投資者在追逐AI熱潮的同時，也對其估值和未來走向保持謹慎。Apple則因新產品發表而受到關注，股價小幅上漲。此外，資安和雲端軟體SaaS族群因AI風險升溫及企業對數位轉型的持續需求而獲得資金青睞，部分個股漲幅顯著。",
+    "highlights": "本日美股市場的成交重點聚焦於AI相關板塊的劇烈波動。由於AI龍頭企業高管呼籲放緩模型迭代，市場重新評估AI資本支出預期，導致半導體類股普遍重挫，Nvidia、AMD、Intel等AI晶片股跌幅顯著，記憶體股如Micron和Sandisk也受到壓力。與此同時，對AI發展減速的擔憂反而推動了部分軟體類股走強，例如雲端軟體SaaS相關個股。此外，美國聯準會本週的利率決策會議以及10年期美債收益率突破5%加劇了市場對加息的預期，打壓了整體風險偏好。",
     "eventsPast": [
       {
-        "title": "蘋果發表iPhone 18 Pro系列與首款摺疊機iPhone Duo",
-        "detail": "蘋果於9月10日凌晨舉辦秋季發表會，推出iPhone 18 Pro系列及首款摺疊機iPhone Duo，並於9月12日開始預購，市場對此反應不一，發表會前股價已連續數日走弱。"
+        "title": "AI龍頭企業呼籲放緩模型迭代",
+        "detail": "上週末，Anthropic執行長Dario Amodei呼籲AI企業放緩模型能力推進速度，引發市場對AI資本支出預期的重新評估，導致AI晶片股普遍下跌。"
       },
       {
-        "title": "美國8月CPI數據公布，核心CPI月增超預期",
-        "detail": "美國勞工統計局於9月11日公布8月消費者物價指數（CPI），核心CPI月增0.3%，高於市場預期的0.2%，導致聯準會9月升息機率快速攀升。"
+        "title": "美債10年期收益率突破5%",
+        "detail": "在聯準會會議前夕，基準10年期美債收益率盤中短暫突破5%，加劇了投資者對加息的緊張情緒，打壓了風險偏好。"
       },
       {
-        "title": "美國8月非農就業數據大幅優於預期",
-        "detail": "美國勞工統計局於9月4日公布8月非農就業新增16.2萬人，遠高於市場預期，失業率維持在4.1%，顯示勞動市場仍具韌性，但同時也加劇了市場對聯準會升息的擔憂。"
+        "title": "SpaceX在納斯達克100指數權重提升",
+        "detail": "SpaceX (SPCX.O) 在納斯達克100指數調整後將提升權重。"
       },
       {
-        "title": "資安與企業軟體股因AI風險升溫而大漲",
-        "detail": "由於市場對AI可能帶來的風險擔憂升溫，部分行業領袖呼籲放慢AI開發節奏，資金轉向網絡安全及相關企業軟件板塊，CrowdStrike和Palo Alto Networks等資安股大漲。"
+        "title": "台積電2奈米及3奈米產能擴增",
+        "detail": "台積電(TSM.N)披露，2奈米月產能將從今年底的9萬片增至明年中的11萬片，增幅約22%；3奈米月產能則將從今年底的逾18萬片增至明年中的21萬片，增幅逾16%。"
       },
       {
-        "title": "SpaceX與Nvidia深化太空運算合作",
-        "detail": "馬斯克表示SpaceX預計在2027年於太空中發射Nvidia的AI電腦，顯示兩家公司在太空運算領域的深度合作意願，SpaceX財務長也透露公司運算設備獨家使用Nvidia晶片。"
+        "title": "蘋果iPhone Duo有望推動摺疊手機主流化",
+        "detail": "古爾曼發文稱，蘋果(AAPL.O)iPhone Duo有望推動摺疊手機走向主流，並預計蘋果未來將進一步擴充該產品線，推出更大螢幕的iPhone Duo Max。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "9/15-9/16",
-        "title": "聯準會FOMC利率決策會議",
-        "detail": "聯準會將召開9月FOMC會議，公布貨幣政策聲明、最新經濟預測摘要及點陣圖，市場普遍預期升息機率高，其決策將直接影響市場對後續利率走勢的判斷。"
+        "date": "本週三 (9/16)",
+        "title": "美國聯準會FOMC會議結果與主席記者會",
+        "detail": "聯準會將公布最新的政策決定，市場普遍預期將升息一碼，並關注經濟預測摘要（SEP）和「點陣圖」以了解未來利率路徑。"
       },
       {
-        "date": "9/16",
-        "title": "美國8月零售銷售數據公布",
-        "detail": "美國將公布8月零售銷售數據，此數據反映美國零售與餐飲服務企業的名目銷售額，是觀察商品消費及部分服務消費變化的重要指標，可能影響市場對聯準會政策的預期。"
-      },
-      {
-        "date": "9/16",
-        "title": "Lennar（LEN）公布財報",
-        "detail": "美國大型住宅建商Lennar將公布2026財年第三季業績，市場將關注其新訂單、房屋交付量及毛利率等數據，以評估美國住房市場的景氣狀況。"
-      },
-      {
-        "date": "9/17",
-        "title": "美國8月新屋開工、建築許可及9月費城聯儲製造業指數公布",
-        "detail": "美國將公布8月新屋開工、建築許可及9月費城聯儲製造業指數，這些數據將提供對住宅建設前景和製造業營運狀況的參考。"
-      },
-      {
-        "date": "9/18",
-        "title": "季度結算四巫日",
-        "detail": "美股將迎來2026年第三季度的衍生性金融商品集中結算日，由於緊跟在聯準會利率決議之後，技術性調倉效應可能放大。"
+        "date": "本週三 (9/16)",
+        "title": "聯準會經濟預測摘要（SEP）與「點陣圖」",
+        "detail": "除了利率決議，聯準會也將發布新的經濟預測摘要和更新的點陣圖，這將對市場對未來利率和通膨的預期產生重要影響。"
       }
     ]
   }
