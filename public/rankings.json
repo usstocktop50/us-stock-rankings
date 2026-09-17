@@ -47,7 +47,7 @@
       "dollarVolume": 12179149035.667921,
       "marketCap": 509696200000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "半導體製造",
       "isNew": false,
       "rankChange": 8,
       "streak": 131
@@ -60,7 +60,7 @@
       "dollarVolume": 11978416885.419432,
       "marketCap": 4851251373800,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "消費電子",
+      "theme": "消費性電子",
       "isNew": false,
       "rankChange": 2,
       "streak": 131
@@ -151,7 +151,7 @@
       "dollarVolume": 7877024465.418262,
       "marketCap": 1620695075466.15,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "半導體基礎設施",
       "isNew": false,
       "rankChange": -1,
       "streak": 131
@@ -242,7 +242,7 @@
       "dollarVolume": 3762342038.6514487,
       "marketCap": 201432699000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "資料中心晶片",
       "isNew": false,
       "rankChange": 9,
       "streak": 121
@@ -268,7 +268,7 @@
       "dollarVolume": 3617319934.593846,
       "marketCap": 401106361777.86,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "大數據/AI 軟體",
+      "theme": "數據分析軟體",
       "isNew": false,
       "rankChange": -6,
       "streak": 131
@@ -359,7 +359,7 @@
       "dollarVolume": 2915456852.388548,
       "marketCap": 404880130333.5,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "銀行",
+      "theme": "商業銀行",
       "isNew": false,
       "rankChange": -3,
       "streak": 6
@@ -372,7 +372,7 @@
       "dollarVolume": 2905401691.9645524,
       "marketCap": 927494327159.4,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "銀行",
+      "theme": "商業銀行",
       "isNew": false,
       "rankChange": -13,
       "streak": 4
@@ -463,7 +463,7 @@
       "dollarVolume": 2607287001.1951313,
       "marketCap": 159623129239.2,
       "sector": "AIRCRAFT",
-      "theme": "航空航太",
+      "theme": "航空製造",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -619,7 +619,7 @@
       "dollarVolume": 1884347297.7296944,
       "marketCap": 396354746286.96,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售",
+      "theme": "零售百貨",
       "isNew": false,
       "rankChange": 0,
       "streak": 2
@@ -645,31 +645,49 @@
       "dollarVolume": 1816700822.4734914,
       "marketCap": 194125237957.64,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "無線通訊晶片",
+      "theme": "行動通訊晶片",
       "isNew": false,
       "rankChange": -20,
       "streak": 7
     }
   ],
   "asOf": "2026-09-16T20:00:00.000Z",
-  "generatedAt": "2026-09-17T07:59:36.800Z",
+  "generatedAt": "2026-09-17T09:58:08.130Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
-      "theme": "半導體",
-      "reason": "AI 發展持續推動半導體需求，市場對相關晶片及設備前景樂觀。",
+      "theme": "光通訊",
+      "reason": "隨著資料中心和AI基礎設施對高速傳輸的需求增加，光通訊技術的重要性日益凸顯，帶動相關個股表現。",
       "symbols": [
-        "INTC",
-        "AVGO",
-        "MRVL"
+        "LITE",
+        "COHR"
       ],
-      "count": 3,
-      "avgChange": 2.569616344021591
+      "count": 2,
+      "avgChange": 8.253115411692344
+    },
+    {
+      "theme": "電力基礎建設",
+      "reason": "全球能源轉型和電網現代化需求，加上AI資料中心對電力消耗的增加，推動電力基礎設施相關企業的成長。",
+      "symbols": [
+        "GEV",
+        "BE"
+      ],
+      "count": 2,
+      "avgChange": 4.451691991545292
+    },
+    {
+      "theme": "PC/伺服器",
+      "reason": "AI PC概念的興起以及企業對AI伺服器需求的增加，預期將帶動相關硬體設備的出貨量。",
+      "symbols": [
+        "DELL"
+      ],
+      "count": 1,
+      "avgChange": 3.6393074644440713
     },
     {
       "theme": "AI 晶片",
-      "reason": "人工智慧技術的快速進展，持續帶動對高效能運算晶片的需求。",
+      "reason": "AI技術的快速發展持續推動對高效能AI晶片的需求，市場對相關供應商的未來展望保持樂觀。",
       "symbols": [
         "NVDA",
         "AMD"
@@ -678,27 +696,8 @@
       "avgChange": 1.2307780220919278
     },
     {
-      "theme": "儲存裝置",
-      "reason": "隨著數據量爆炸性增長，對高效能、大容量儲存解決方案的需求日益增加。",
-      "symbols": [
-        "WDC",
-        "STX"
-      ],
-      "count": 2,
-      "avgChange": 1.3446489909720185
-    },
-    {
-      "theme": "PC/伺服器",
-      "reason": "企業對IT基礎設施升級和AI相關硬體投資增加，帶動PC和伺服器需求。",
-      "symbols": [
-        "DELL"
-      ],
-      "count": 1,
-      "avgChange": 3.6393074644440713
-    },
-    {
       "theme": "太空科技",
-      "reason": "太空探索和商業化進程加速，相關技術和服務受到市場關注。",
+      "reason": "太空探索和衛星通訊領域的商業化進程加速，吸引投資者關注具備創新技術和成長潛力的太空科技公司。",
       "symbols": [
         "SPCX"
       ],
@@ -706,13 +705,13 @@
       "avgChange": 5.150184681859353
     },
     {
-      "theme": "光通訊",
-      "reason": "5G、數據中心和AI網路基礎設施的建設，推動光通訊元件需求增長。",
+      "theme": "晶圓代工",
+      "reason": "全球半導體需求持續增長，先進製程技術的領導者在供應鏈中扮演關鍵角色，訂單能見度高。",
       "symbols": [
-        "LITE"
+        "TSM"
       ],
       "count": 1,
-      "avgChange": 9.588061409363966
+      "avgChange": 0.9595166163142059
     }
   ],
   "newEntrants": [
@@ -721,14 +720,14 @@
       "name": "GE Vernova Inc.",
       "theme": "電力基礎建設",
       "changePercent": 4.789252500538065,
-      "reason": "執行長表示訂單儲備將提前突破2000億美元，且獲多家機構重申買進評級。"
+      "reason": "公司預計2027年初訂單積壓將超過2000億美元，並強調需求可見度強勁。"
     },
     {
       "symbol": "FANG",
       "name": "Diamondback Energy, Inc.",
       "theme": "石油與天然氣",
       "changePercent": -8.029783713509048,
-      "reason": "近期油價上漲帶動能源股，但股價逆勢下跌，可能受獲利了結影響。"
+      "reason": "油價下跌導致能源股普遍下跌，Diamondback Energy領跌。"
     },
     {
       "symbol": "V",
@@ -740,54 +739,54 @@
     {
       "symbol": "BA",
       "name": "Boeing Company",
-      "theme": "航空航太",
+      "theme": "航空製造",
       "changePercent": -3.6863942009633224,
-      "reason": "獲美國海軍大訂單及大韓航空採購，但股價受獲利了結與宏觀環境壓力影響。"
+      "reason": "波音執行長表示737生產穩定所需時間超出預期，導致股價下跌。"
     },
     {
       "symbol": "COHR",
       "name": "Coherent Corp.",
       "theme": "光學元件",
       "changePercent": 6.918169414020721,
-      "reason": "受惠於AI資料中心對光學互連需求，多家法人給予正面評價。"
+      "reason": "受惠於AI數據中心光學元件需求強勁，以及第四季財報表現亮眼。"
     },
     {
       "symbol": "CAT",
       "name": "Caterpillar Inc.",
       "theme": "重型機械",
       "changePercent": -0.10465324042166785,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "分析師上調評級，且數據中心對發電設備需求增長。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI晶片、半導體、PC/伺服器、太空科技及光通訊等題材族群。資金主要流向Nvidia (NVDA) 和AMD等AI晶片領導者，以及Intel (INTC) 和Dell (DELL) 等半導體及PC/伺服器相關個股，顯示市場對AI基礎設施建設的強勁需求和對科技硬體產業的樂觀預期。此外，SpaceX (SPCX) 在太空科技領域的亮眼表現也吸引了大量資金，而光通訊Lumentum (LITE) 的大漲則可能反映了市場對5G和數據中心基礎設施升級的期待。",
+    "highlights": "本日美股成交重點聚焦於AI相關題材，儘管聯準會升息對大盤造成壓力，但半導體和AI算力相關個股逆勢走強，顯示市場資金仍看好AI的長期需求。光通訊和太空科技族群也因AI資料中心需求及星艦發射計畫而表現亮眼，市場正在交易AI基礎建設的持續成長故事。",
     "eventsPast": [
       {
-        "title": "聯準會升息一碼，鷹派立場抑制行情",
-        "detail": "聯準會於2026年9月16日宣布升息一碼（0.25個百分點），為2023年以來首次升息，並暗示年內可能再次升息，此鷹派立場引發市場對高利率維持更久的擔憂，導致美股主要指數普遍承壓。"
+        "title": "Fed升息25個基點，半導體族群逆勢上漲",
+        "detail": "聯準會升息25個基點，導致道瓊指數重挫，但半導體類股如Intel、AMD、Nvidia等在AI算力需求支撐下逆勢走強，顯示資金集中押注AI主線。"
       },
       {
-        "title": "Intel CEO表示AI引發CPU需求龐大，產能僅滿足50%客戶",
-        "detail": "Intel (INTC) CEO陳立武日前表示，代理式AI引發的龐大CPU需求下，目前產能僅能滿足50%客戶的需求，同時18A節點已進入量產，明年Q1 14A也將投入生產，其18A先進製程的Panther Lake處理器晶片良率已達80%，定位為新一代AI PC晶片。"
+        "title": "Anthropic卡位超大型資料中心園區，推論算力需求不減",
+        "detail": "Anthropic宣布在澳洲卡位2.16GW的超大型資料中心園區，主要用於AI推論，這表明即使前沿模型訓練可能放慢，對推論算力的投資需求依然強勁。"
       },
       {
-        "title": "Dell Technologies 第二季財報表現強勁，AI伺服器訂單創新高",
-        "detail": "Dell Technologies (DELL) 於2026年9月1日公布2027財年第二季財報，營收達470億美元，年增58%，稀釋後每股盈餘(EPS)為6.34美元，年增273%。AI伺服器訂單金額達609億美元，創歷史新高，營收達164億美元，積壓訂單達950億美元。"
+        "title": "Lumentum股價飆漲，帶動光通訊族群",
+        "detail": "美國光通訊大廠Lumentum股價飆漲11.04%，刷新3個月新高，主要受惠於AI資料中心對高速資料傳輸的龐大需求，激勵光通訊板塊整體表現。"
       },
       {
-        "title": "NVIDIA 第二季財報亮眼，AI業務持續強勁成長",
-        "detail": "NVIDIA (NVDA) 於2026年8月26日公布2027財年第二季財報，營收達962億美元，年增106%。數據中心業務營收達890億美元，年增117%。公司表示AI已達到轉折點，需求正在加速。"
+        "title": "SpaceX星艦第14次飛行任務計畫於9月22日發射",
+        "detail": "SpaceX宣布星艦第14次飛行任務計畫於9月22日發射，將首次嘗試進入地球軌道並部署V3星鏈衛星，此為星艦項目首次執行商業收入任務，帶動SPCX股價上漲。"
       },
       {
-        "title": "SpaceX 第二季財報營收大幅成長，AI企業機會加速",
-        "detail": "SpaceX (SPCX) 於2026年8月4日公布2026年第二季財報，營收達78億美元，年增92%。公司完成了兩次Starship V3飛行測試，並宣布以600億美元收購Cursor以加速AI企業機會，同時推出了最強大的AI模型Grok 4.5。"
+        "title": "美光推出全球首款512GB DDR5記憶體模組",
+        "detail": "美光推出全球首款512GB DDR5記憶體模組，積極與AMD、Intel等客戶合作，瞄準下世代伺服器平台，預計2027下半年量產，顯示記憶體廠商持續布局高階產品以搶攻伺服器市場商機。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "9/18",
-        "title": "季度結算四巫日",
-        "detail": "2026年9月18日為季度結算四巫日，屆時股指期貨、股指選擇權、個股期貨和個股選擇權將同時到期，可能導致市場波動加劇。"
+        "date": "9/22",
+        "title": "SpaceX星艦第14次飛行任務",
+        "detail": "SpaceX計畫於9月22日發射星艦進行第14次飛行任務，將首次嘗試進入地球軌道並部署V3星鏈衛星，此為星艦項目首次執行商業收入任務。"
       }
     ]
   }
