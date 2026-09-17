@@ -164,7 +164,7 @@
       "dollarVolume": 7412306300.733363,
       "marketCap": 177680360468.52,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "電腦硬體",
+      "theme": "PC/伺服器",
       "isNew": false,
       "rankChange": 1,
       "streak": 17
@@ -255,7 +255,7 @@
       "dollarVolume": 3631123318.35023,
       "marketCap": 79528273966.92,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "燃料電池",
+      "theme": "氫能源",
       "isNew": false,
       "rankChange": 9,
       "streak": 11
@@ -268,7 +268,7 @@
       "dollarVolume": 3617319934.593846,
       "marketCap": 401106361777.86,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "數據分析軟體",
+      "theme": "大數據/AI 軟體",
       "isNew": false,
       "rankChange": -6,
       "streak": 131
@@ -437,7 +437,7 @@
       "dollarVolume": 2675013053.828628,
       "marketCap": 632106521585.42,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "支付服務",
+      "theme": "支付處理",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -463,7 +463,7 @@
       "dollarVolume": 2607287001.1951313,
       "marketCap": 159623129239.2,
       "sector": "AIRCRAFT",
-      "theme": "航空製造",
+      "theme": "航空航太",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -619,7 +619,7 @@
       "dollarVolume": 1884347297.7296944,
       "marketCap": 396354746286.96,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售百貨",
+      "theme": "零售",
       "isNew": false,
       "rankChange": 0,
       "streak": 2
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-09-16T20:00:00.000Z",
-  "generatedAt": "2026-09-17T05:31:42.059Z",
+  "generatedAt": "2026-09-17T07:59:36.800Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "半導體",
-      "reason": "全球對AI晶片和高效能運算的需求持續增長，帶動相關半導體供應鏈表現強勁。",
+      "reason": "AI 發展持續推動半導體需求，市場對相關晶片及設備前景樂觀。",
       "symbols": [
         "INTC",
         "AVGO",
@@ -668,18 +668,8 @@
       "avgChange": 2.569616344021591
     },
     {
-      "theme": "儲存裝置",
-      "reason": "隨著數據中心和個人設備對儲存容量的需求增加，儲存裝置產業持續受到關注。",
-      "symbols": [
-        "WDC",
-        "STX"
-      ],
-      "count": 2,
-      "avgChange": 1.3446489909720185
-    },
-    {
       "theme": "AI 晶片",
-      "reason": "AI技術的快速發展持續推動對高效能AI晶片的需求，相關領導廠商表現突出。",
+      "reason": "人工智慧技術的快速進展，持續帶動對高效能運算晶片的需求。",
       "symbols": [
         "NVDA",
         "AMD"
@@ -688,31 +678,41 @@
       "avgChange": 1.2307780220919278
     },
     {
-      "theme": "電力基礎建設",
-      "reason": "全球能源轉型和電網現代化需求，使得電力基礎建設相關企業受到市場青睞。",
+      "theme": "儲存裝置",
+      "reason": "隨著數據量爆炸性增長，對高效能、大容量儲存解決方案的需求日益增加。",
       "symbols": [
-        "GEV"
+        "WDC",
+        "STX"
       ],
-      "count": 1,
-      "avgChange": 4.789252500538065
+      "count": 2,
+      "avgChange": 1.3446489909720185
     },
     {
-      "theme": "光通訊",
-      "reason": "5G、數據中心和AI應用對高速傳輸的需求，推動光通訊產業的發展。",
+      "theme": "PC/伺服器",
+      "reason": "企業對IT基礎設施升級和AI相關硬體投資增加，帶動PC和伺服器需求。",
       "symbols": [
-        "LITE"
+        "DELL"
       ],
       "count": 1,
-      "avgChange": 9.588061409363966
+      "avgChange": 3.6393074644440713
     },
     {
       "theme": "太空科技",
-      "reason": "商業太空探索和衛星通訊領域的進展，吸引了投資者的目光。",
+      "reason": "太空探索和商業化進程加速，相關技術和服務受到市場關注。",
       "symbols": [
         "SPCX"
       ],
       "count": 1,
       "avgChange": 5.150184681859353
+    },
+    {
+      "theme": "光通訊",
+      "reason": "5G、數據中心和AI網路基礎設施的建設，推動光通訊元件需求增長。",
+      "symbols": [
+        "LITE"
+      ],
+      "count": 1,
+      "avgChange": 9.588061409363966
     }
   ],
   "newEntrants": [
@@ -721,35 +721,35 @@
       "name": "GE Vernova Inc.",
       "theme": "電力基礎建設",
       "changePercent": 4.789252500538065,
-      "reason": "Bernstein調升評等與日本風電新訂單，CEO稱訂單儲備將破2000億美元。"
+      "reason": "執行長表示訂單儲備將提前突破2000億美元，且獲多家機構重申買進評級。"
     },
     {
       "symbol": "FANG",
       "name": "Diamondback Energy, Inc.",
       "theme": "石油與天然氣",
       "changePercent": -8.029783713509048,
-      "reason": "油價下跌及聯準會利率決策觀望，導致能源股獲利了結。"
+      "reason": "近期油價上漲帶動能源股，但股價逆勢下跌，可能受獲利了結影響。"
     },
     {
       "symbol": "V",
       "name": "VISA Inc.",
-      "theme": "支付服務",
+      "theme": "支付處理",
       "changePercent": -1.248602310846067,
       "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "BA",
       "name": "Boeing Company",
-      "theme": "航空製造",
+      "theme": "航空航太",
       "changePercent": -3.6863942009633224,
-      "reason": "獲美國海軍無人機合約與大韓航空大訂單，但股價受獲利了結壓力下跌。"
+      "reason": "獲美國海軍大訂單及大韓航空採購，但股價受獲利了結與宏觀環境壓力影響。"
     },
     {
       "symbol": "COHR",
       "name": "Coherent Corp.",
       "theme": "光學元件",
       "changePercent": 6.918169414020721,
-      "reason": "受惠AI資料中心光通訊需求，Ciena樂觀財測帶動族群上漲。"
+      "reason": "受惠於AI資料中心對光學互連需求，多家法人給予正面評價。"
     },
     {
       "symbol": "CAT",
@@ -760,50 +760,34 @@
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於科技股，特別是AI晶片、半導體和太空科技等題材。Nvidia (NVDA) 和 AMD (AMD) 等AI晶片股因市場對AI基礎設施需求的樂觀預期而受到資金追捧，Nvidia以207億美元的成交額領跑。太空科技股 SpaceX (SPCX) 則因其首次公開財報前的市場關注，以及可能帶來的巨額股票解禁潮而交易熱絡。此外，Intel (INTC) 和 Lumentum (LITE) 等半導體及光通訊相關個股也因產業利好消息而有顯著漲幅，顯示市場對科技創新和基礎建設的投資熱情不減。",
+    "highlights": "本日美股成交重點聚焦於AI晶片、半導體、PC/伺服器、太空科技及光通訊等題材族群。資金主要流向Nvidia (NVDA) 和AMD等AI晶片領導者，以及Intel (INTC) 和Dell (DELL) 等半導體及PC/伺服器相關個股，顯示市場對AI基礎設施建設的強勁需求和對科技硬體產業的樂觀預期。此外，SpaceX (SPCX) 在太空科技領域的亮眼表現也吸引了大量資金，而光通訊Lumentum (LITE) 的大漲則可能反映了市場對5G和數據中心基礎設施升級的期待。",
     "eventsPast": [
       {
-        "title": "Intel 第二季財報表現亮眼",
-        "detail": "Intel (INTC) 於 7 月 23 日公布的 2026 財年第二季財報顯示，營收年增 25.4% 達 161 億美元，並實現營業利益轉虧為盈，顯示其業務復甦動能強勁。"
+        "title": "聯準會升息一碼，鷹派立場抑制行情",
+        "detail": "聯準會於2026年9月16日宣布升息一碼（0.25個百分點），為2023年以來首次升息，並暗示年內可能再次升息，此鷹派立場引發市場對高利率維持更久的擔憂，導致美股主要指數普遍承壓。"
       },
       {
-        "title": "SpaceX 首份財報公布與巨額股票解禁",
-        "detail": "SpaceX (SPCX) 於 8 月 4 日盤後公布了其上市後的首份財報，市場高度關注其 Starlink 衛星網路業務、Falcon 9 火箭發射業務以及 AI 基礎設施佈局。 此外，財報公布後兩天，約 9.115 億股內部人持股的鎖定期解除，可能帶來約 1,000 億美元的潛在賣壓。"
+        "title": "Intel CEO表示AI引發CPU需求龐大，產能僅滿足50%客戶",
+        "detail": "Intel (INTC) CEO陳立武日前表示，代理式AI引發的龐大CPU需求下，目前產能僅能滿足50%客戶的需求，同時18A節點已進入量產，明年Q1 14A也將投入生產，其18A先進製程的Panther Lake處理器晶片良率已達80%，定位為新一代AI PC晶片。"
       },
       {
-        "title": "Lumentum Holdings 第四季財報優於預期",
-        "detail": "Lumentum Holdings (LITE) 於 8 月 11 日公布的 2026 財年第四季財報顯示，營收達 10.1 億美元，年增 109%，連續第八季營收成長，且 EPS 優於指引高標，並上修 2027 財年第一季營收指引。"
+        "title": "Dell Technologies 第二季財報表現強勁，AI伺服器訂單創新高",
+        "detail": "Dell Technologies (DELL) 於2026年9月1日公布2027財年第二季財報，營收達470億美元，年增58%，稀釋後每股盈餘(EPS)為6.34美元，年增273%。AI伺服器訂單金額達609億美元，創歷史新高，營收達164億美元，積壓訂單達950億美元。"
       },
       {
-        "title": "SanDisk 2026 財年第四季財報預期樂觀",
-        "detail": "SanDisk (SNDK) 預計於 8 月 5 日公布 2026 財年第四季財報，市場預期其營收將年增 341.49% 達 83.93 億美元，EPS 預計將轉虧為盈。"
+        "title": "NVIDIA 第二季財報亮眼，AI業務持續強勁成長",
+        "detail": "NVIDIA (NVDA) 於2026年8月26日公布2027財年第二季財報，營收達962億美元，年增106%。數據中心業務營收達890億美元，年增117%。公司表示AI已達到轉折點，需求正在加速。"
+      },
+      {
+        "title": "SpaceX 第二季財報營收大幅成長，AI企業機會加速",
+        "detail": "SpaceX (SPCX) 於2026年8月4日公布2026年第二季財報，營收達78億美元，年增92%。公司完成了兩次Starship V3飛行測試，並宣布以600億美元收購Cursor以加速AI企業機會，同時推出了最強大的AI模型Grok 4.5。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "9/16",
-        "title": "美國 8 月零售銷售數據公布",
-        "detail": "美國商務部將於美東時間 9 月 16 日上午 8:30 公布 8 月零售銷售數據，此數據將反映美國消費端韌性，並可能影響市場對聯準會政策路徑的判斷。"
-      },
-      {
-        "date": "9/17",
-        "title": "聯準會 FOMC 會議結果與經濟預測",
-        "detail": "聯準會將於美東時間 9 月 16 日下午 2:00 發布貨幣政策聲明與最新經濟預測摘要，並於下午 2:30 舉行記者會。 此次會議將涵蓋經濟成長、失業率、通膨與聯邦基金利率，市場高度關注其對未來利率走勢的判斷。"
-      },
-      {
         "date": "9/18",
-        "title": "美股三巫日",
-        "detail": "2026 年 9 月 18 日為美股三季度「三巫日」，股指期貨、股指期權和個股期權三類衍生品合約將同時到期，通常伴隨成交量放大和市場波動加劇。"
-      },
-      {
-        "date": "9/30",
-        "title": "Micron Technology (MU) 財報公布",
-        "detail": "Micron Technology (MU) 預計於 9 月 30 日公布財報，投資人將關注其在 AI 伺服器需求結構性成長下的表現。"
-      },
-      {
-        "date": "10/28",
-        "title": "Meta Platforms (META) 第三季財報公布",
-        "detail": "Meta Platforms (META) 預計於 10 月 28 日公布 2026 財年第三季財報，市場將關注其 AI 基礎設施的資本支出、廣告業務表現以及對新一年的發展預期指引。"
+        "title": "季度結算四巫日",
+        "detail": "2026年9月18日為季度結算四巫日，屆時股指期貨、股指選擇權、個股期貨和個股選擇權將同時到期，可能導致市場波動加劇。"
       }
     ]
   }
