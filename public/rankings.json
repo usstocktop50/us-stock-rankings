@@ -34,7 +34,7 @@
       "dollarVolume": 16324684047.865301,
       "marketCap": 548787200000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體製造",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": 1,
       "streak": 132
@@ -86,7 +86,7 @@
       "dollarVolume": 12986566286.34095,
       "marketCap": 2040671353285.45,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "太空科技",
+      "theme": "太空",
       "isNew": false,
       "rankChange": -4,
       "streak": 67
@@ -138,7 +138,7 @@
       "dollarVolume": 8487500782.603717,
       "marketCap": 1657881652114.5,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體製造",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": 1,
       "streak": 132
@@ -151,7 +151,7 @@
       "dollarVolume": 7646023333.952509,
       "marketCap": 2709414106150.68,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電子商務",
+      "theme": "電商",
       "isNew": false,
       "rankChange": -2,
       "streak": 132
@@ -242,7 +242,7 @@
       "dollarVolume": 5080438205.465125,
       "marketCap": 211122444000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體製造",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": 0,
       "streak": 122
@@ -255,7 +255,7 @@
       "dollarVolume": 4464415565.302619,
       "marketCap": 80156817000,
       "sector": "COMMUNICATIONS EQUIPMENT, NEC",
-      "theme": "光通訊設備",
+      "theme": "光通訊",
       "isNew": false,
       "rankChange": -5,
       "streak": 50
@@ -359,7 +359,7 @@
       "dollarVolume": 3063325384.3988314,
       "marketCap": 716971503981.2,
       "sector": "FIRE, MARINE & CASUALTY INSURANCE",
-      "theme": "綜合保險",
+      "theme": "金融保險",
       "isNew": false,
       "rankChange": 5,
       "streak": 3
@@ -450,7 +450,7 @@
       "dollarVolume": 2761872494.290548,
       "marketCap": 243412033319.52002,
       "sector": "MEASURING & CONTROLLING DEVICES, NEC",
-      "theme": "醫療儀器",
+      "theme": "醫療設備",
       "isNew": false,
       "rankChange": 14,
       "streak": 3
@@ -463,7 +463,7 @@
       "dollarVolume": 2506399985.7307205,
       "marketCap": 26508553244.4,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "AI 伺服器",
+      "theme": "伺服器",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -515,7 +515,7 @@
       "dollarVolume": 2345573210.5863976,
       "marketCap": 155702893940,
       "sector": "AIRCRAFT",
-      "theme": "航空製造",
+      "theme": "航空",
       "isNew": false,
       "rankChange": -4,
       "streak": 2
@@ -528,7 +528,7 @@
       "dollarVolume": 2336568441.0520062,
       "marketCap": 198189643231.91,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "無線通訊晶片",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": 9,
       "streak": 8
@@ -606,7 +606,7 @@
       "dollarVolume": 2072363109.120145,
       "marketCap": 396439007259.72,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售百貨",
+      "theme": "零售",
       "isNew": false,
       "rankChange": 1,
       "streak": 3
@@ -619,7 +619,7 @@
       "dollarVolume": 2051007335.6743762,
       "marketCap": 847244761076.39,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售百貨",
+      "theme": "零售",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -645,31 +645,32 @@
       "dollarVolume": 1954643385.2511625,
       "marketCap": 57962428171.08,
       "sector": "OPTICAL INSTRUMENTS & LENSES",
-      "theme": "光學元件",
+      "theme": "光通訊",
       "isNew": false,
       "rankChange": -9,
       "streak": 2
     }
   ],
   "asOf": "2026-09-17T20:00:00.000Z",
-  "generatedAt": "2026-09-18T07:40:25.588Z",
+  "generatedAt": "2026-09-18T09:30:43.543Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
-      "theme": "半導體製造",
-      "reason": "AI 晶片需求持續強勁，帶動相關半導體製造商股價上揚。",
+      "theme": "半導體",
+      "reason": "AI 應用需求持續增長，帶動半導體產業鏈的強勁表現，市場對其未來前景保持樂觀。",
       "symbols": [
         "INTC",
         "AVGO",
-        "MRVL"
+        "MRVL",
+        "QCOM"
       ],
-      "count": 3,
-      "avgChange": 4.924788971517596
+      "count": 4,
+      "avgChange": 4.217017394078578
     },
     {
       "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型與雲端服務需求增長，推動相關軟體公司表現。",
+      "reason": "企業數位轉型趨勢不變，雲端服務和軟體解決方案的需求持續旺盛，推動相關公司股價上漲。",
       "symbols": [
         "MSFT",
         "PLTR",
@@ -679,8 +680,20 @@
       "avgChange": 2.599766519171418
     },
     {
+      "theme": "金融服務",
+      "reason": "市場對經濟前景的信心增強，以及潛在的利率政策變化預期，提振了金融股的表現。",
+      "symbols": [
+        "GS",
+        "HOOD",
+        "JPM",
+        "BAC"
+      ],
+      "count": 4,
+      "avgChange": 1.7988523097954927
+    },
+    {
       "theme": "記憶體",
-      "reason": "記憶體市場景氣復甦，HBM 等高階產品需求旺盛，帶動相關廠商股價上漲。",
+      "reason": "HBM 和 DDR5 等高階記憶體需求受 AI 發展帶動，市場預期記憶體價格將持續回升。",
       "symbols": [
         "MU",
         "SKHY"
@@ -690,7 +703,7 @@
     },
     {
       "theme": "AI 晶片",
-      "reason": "人工智慧應用持續擴展，市場對高效能 AI 晶片的需求居高不下。",
+      "reason": "AI 算力需求爆發式增長，推動 AI 晶片領導廠商股價持續走高。",
       "symbols": [
         "NVDA",
         "AMD"
@@ -699,24 +712,15 @@
       "avgChange": 4.451134448511388
     },
     {
-      "theme": "比特幣/加密",
-      "reason": "加密貨幣市場情緒回暖，帶動相關概念股表現。",
+      "theme": "儲存裝置",
+      "reason": "隨著數據量的爆炸性增長，對高效能儲存解決方案的需求增加，相關公司受惠。",
       "symbols": [
-        "MSTR",
-        "IREN"
+        "SNDK",
+        "STX",
+        "WDC"
       ],
-      "count": 2,
-      "avgChange": 3.4142100262866233
-    },
-    {
-      "theme": "生技製藥",
-      "reason": "特定藥物研發進展或市場預期，推動生技製藥公司股價上漲。",
-      "symbols": [
-        "MRNA",
-        "LLY"
-      ],
-      "count": 2,
-      "avgChange": 4.917281514277475
+      "count": 3,
+      "avgChange": 3.4713557171016043
     }
   ],
   "newEntrants": [
@@ -725,83 +729,93 @@
       "name": "CoreWeave, Inc. Class A Common Stock",
       "theme": "雲端軟體 SaaS",
       "changePercent": -4.163167366526693,
-      "reason": "宣布發行30億美元可轉換優先債券及3500萬股A類普通股，引發稀釋擔憂。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "MRNA",
       "name": "Moderna, Inc. Common Stock",
       "theme": "生技製藥",
       "changePercent": 8.549649773382768,
-      "reason": "Moderna宣布更新的COVID-19疫苗獲FDA批准，並將參加多個投資者會議。"
+      "reason": "FDA 諮詢委員會一致推薦 Moderna 的 mRNA 流感疫苗，有望成首個上市產品。"
     },
     {
       "symbol": "SMCI",
       "name": "Super Micro Computer, Inc. Common Stock",
-      "theme": "AI 伺服器",
+      "theme": "伺服器",
       "changePercent": 9.49796472184532,
-      "reason": "財報優於預期，AI伺服器需求強勁，並預計2027財年營收達650-720億美元。"
+      "reason": "公司上修毛利率預期，並傳出與 SpaceX 合作建置 AI 資料中心。"
     },
     {
       "symbol": "LLY",
       "name": "Eli Lilly & Co.",
       "theme": "生技製藥",
       "changePercent": 1.2849132551721818,
-      "reason": "將於EASD 2026會議公布心臟代謝藥物組合新數據，包含減肥藥物。"
+      "reason": "第四季財報調整後每股盈餘及2026年營收預期均超市場預期。"
     },
     {
       "symbol": "WMT",
       "name": "Walmart Inc. Common Stock",
-      "theme": "零售百貨",
+      "theme": "零售",
       "changePercent": -0.660465116279064,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "多家金融機構重申「買入」評級並上調目標價，機構投資者增持。"
     },
     {
       "symbol": "IREN",
       "name": "IREN Limited Ordinary Shares",
       "theme": "比特幣/加密",
       "changePercent": 2.017832003754105,
-      "reason": "宣布其2GW Sweetwater Hub被納入ERCOT Batch Zero，並完成Mirantis收購案。"
+      "reason": "與多家頂級 AI 開發商達成28億美元協議，並上調年度經常性收入目標。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點集中在科技巨頭，尤其是與AI、記憶體和半導體製造相關的股票。資金主要流向這些具備創新技術和強勁市場需求的族群，由Nvidia執行長黃仁勳對AI晶片銷售前景的樂觀預期，以及美光科技在記憶體技術上的突破帶動了市場情緒。投資人正在交易AI基礎設施持續擴張、新技術應用落地以及相關供應鏈公司受惠的故事。",
+    "highlights": "本日美股成交重點聚焦於半導體、記憶體及AI晶片等科技硬體族群，資金主要受聯準會升息決議及AI發展前景帶動。聯準會升息一碼，市場解讀為對抗通膨的決心，但同時也引發對未來利率路徑的關注。輝達執行長黃仁勳預期明年晶片銷量翻倍，強化了市場對AI投資熱潮延續的信心，帶動相關個股如Nvidia、AMD、Intel、Micron、Sandisk等大漲。此外，CoreWeave宣布上線輝達超級叢集，也推動雲端算力相關個股表現。",
     "eventsPast": [
       {
-        "title": "美光科技推出全球首款超高密度伺服器模組",
-        "detail": "美光科技於9月15日宣布推出全球首款512GB DDR5伺服器模組，運行速度高達9200 MT/s，並擴大全球產能以滿足AI資料中心的需求。"
+        "title": "聯準會升息一碼",
+        "detail": "美國聯準會於2026年9月16日宣布升息一碼，將基準利率上調至3.75%至4%區間，為2023年以來首度升息，符合市場預期。"
       },
       {
-        "title": "Nvidia執行長預期AI晶片銷售將翻倍",
-        "detail": "Nvidia執行長黃仁勳於9月17日在蘇格蘭的AI峰會上表示，預計明年AI晶片銷量將比今年翻倍，因AI需求持續強勁。"
+        "title": "輝達執行長黃仁勳預期明年晶片銷量翻倍",
+        "detail": "輝達執行長黃仁勳於9月17日表示，輝達明年的晶片銷售量將是今年的兩倍，顯示AI投資熱潮將持續。"
       },
       {
-        "title": "CoreWeave持續以更高價格簽訂新運算容量合約",
-        "detail": "CoreWeave於9月17日宣布，自6月30日以來持續以更高價格簽訂新的運算容量合約，第三季度已簽署約3至6個月的短期客戶合約，定價約為每兆瓦4000萬美元。"
+        "title": "CoreWeave上線輝達Vera Rubin超級叢集",
+        "detail": "CoreWeave於9月15日宣布上線輝達最新一代GPU架構Vera Rubin NVL72多機架叢集，此為AI雲端算力規模化的里程碑。"
       },
       {
-        "title": "蘋果發表首款摺疊iPhone及iPhone 18 Pro",
-        "detail": "蘋果於9月17日發表了首款摺疊iPhone「iPhone Duo」以及iPhone 18 Pro，並由新任CEO John Ternus主持發表會。"
+        "title": "OpenAI洽談新募資估值衝上1.2兆美元",
+        "detail": "OpenAI近期與大型投資人討論新一輪募資，預計將使該公司估值提高至約1.2兆美元，反映市場對AI領域的持續看好。"
       },
       {
-        "title": "Meta Platforms達成170億美元社群媒體成癮訴訟和解",
-        "detail": "Meta Platforms同意支付最高170億美元，以和解關於其社群媒體平台導致兒童和青少年成癮的指控。"
+        "title": "SEC為「代幣化股票」發布創新豁免",
+        "detail": "美國證管會（SEC）於9月17日發布命令，為「代幣化股票」提出為期五年的「創新豁免」，允許特定平台在區塊鏈上發行「數位版的美國股票」，讓美股離全天候交易更近一步。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "9/28",
-        "title": "SpaceX Starship首次軌道飛行",
-        "detail": "SpaceX已將其Starship的首次軌道飛行目標日期推遲至9月28日，此次任務將部署26顆Starlink衛星。"
+        "date": "本週五",
+        "title": "美國將發布工業生產和領先指標",
+        "detail": "美國將於本週五公布最新的工業生產指數及領先經濟指標（LEI），這些數據將提供製造業健康狀況及經濟增長動能的參考依據。"
       },
       {
-        "date": "9/30",
-        "title": "美光科技公布2026財年第四季度財報",
-        "detail": "美光科技預計將於9月30日公布其2026財年第四季度財報。"
+        "date": "未來幾天",
+        "title": "科技巨頭財報季",
+        "detail": "月底將陸續公布財報的科技巨頭，包括Alphabet、Meta Platforms、亞馬遜、微軟、蘋果及輝達，其財報表現將是市場關注焦點。"
       },
       {
-        "date": "10/6-10/7",
-        "title": "Amazon Prime Big Deal Days",
-        "detail": "亞馬遜將於10月6日至7日舉行Prime Big Deal Days活動。"
+        "date": "未來幾天",
+        "title": "聯準會官員演講",
+        "detail": "聯準會官員米歇爾·鮑曼將於本週五在倫敦發表演講，主題為「壓力測試」，可能揭示金融體系的穩定性及其面臨的挑戰。"
+      },
+      {
+        "date": "未來幾天",
+        "title": "貝克休斯油氣鑽井數量報告",
+        "detail": "貝克休斯油氣鑽井數量報告將更新北美活躍石油和天然氣鑽井平台的變化情況。"
+      },
+      {
+        "date": "未來幾天",
+        "title": "Anthropic IPO",
+        "detail": "據路透報導，Anthropic最快預定10月中旬開始推銷首次公開發行(IPO)，擬於11月美國期中選舉前幾天完成上市。"
       }
     ]
   }
