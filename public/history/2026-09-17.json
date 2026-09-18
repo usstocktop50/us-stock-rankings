@@ -99,7 +99,7 @@
       "dollarVolume": 12311563959.891935,
       "marketCap": 4918238660000,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "消費電子",
+      "theme": "消費性電子",
       "isNew": false,
       "rankChange": -3,
       "streak": 132
@@ -151,7 +151,7 @@
       "dollarVolume": 7646023333.952509,
       "marketCap": 2709414106150.68,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電商與雲端服務",
+      "theme": "電子商務",
       "isNew": false,
       "rankChange": -2,
       "streak": 132
@@ -164,7 +164,7 @@
       "dollarVolume": 6668812491.871511,
       "marketCap": 2038132440000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "雲端軟體 SaaS",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": 1,
       "streak": 132
@@ -216,7 +216,7 @@
       "dollarVolume": 5331715060.405967,
       "marketCap": 2231532303240,
       "sector": "—",
-      "theme": "半導體製造",
+      "theme": "晶圓代工",
       "isNew": false,
       "rankChange": 1,
       "streak": 132
@@ -229,7 +229,7 @@
       "dollarVolume": 5250324254.4614935,
       "marketCap": 1899519360000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "雲端軟體 SaaS",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": -1,
       "streak": 132
@@ -255,7 +255,7 @@
       "dollarVolume": 4464415565.302619,
       "marketCap": 80156817000,
       "sector": "COMMUNICATIONS EQUIPMENT, NEC",
-      "theme": "光通訊",
+      "theme": "光通訊設備",
       "isNew": false,
       "rankChange": -5,
       "streak": 50
@@ -281,7 +281,7 @@
       "dollarVolume": 4185837838.0864778,
       "marketCap": 405477717102.96,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "大數據分析",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": -1,
       "streak": 132
@@ -320,7 +320,7 @@
       "dollarVolume": 3993302418.4714384,
       "marketCap": 82691497662.95999,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "清潔能源",
+      "theme": "潔淨能源",
       "isNew": false,
       "rankChange": -5,
       "streak": 12
@@ -359,7 +359,7 @@
       "dollarVolume": 3063325384.3988314,
       "marketCap": 716971503981.2,
       "sector": "FIRE, MARINE & CASUALTY INSURANCE",
-      "theme": "多元控股",
+      "theme": "綜合保險",
       "isNew": false,
       "rankChange": 5,
       "streak": 3
@@ -489,7 +489,7 @@
       "dollarVolume": 2371112461.6303844,
       "marketCap": 86819105995.54001,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "金融科技",
+      "theme": "金融服務",
       "isNew": false,
       "rankChange": -16,
       "streak": 3
@@ -515,7 +515,7 @@
       "dollarVolume": 2345573210.5863976,
       "marketCap": 155702893940,
       "sector": "AIRCRAFT",
-      "theme": "航空航太",
+      "theme": "航空製造",
       "isNew": false,
       "rankChange": -4,
       "streak": 2
@@ -567,7 +567,7 @@
       "dollarVolume": 2181305161.014792,
       "marketCap": 1084857535988.6001,
       "sector": "PHARMACEUTICAL PREPARATIONS",
-      "theme": "減肥藥 GLP-1",
+      "theme": "生技製藥",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -606,7 +606,7 @@
       "dollarVolume": 2072363109.120145,
       "marketCap": 396439007259.72,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售",
+      "theme": "零售百貨",
       "isNew": false,
       "rankChange": 1,
       "streak": 3
@@ -619,7 +619,7 @@
       "dollarVolume": 2051007335.6743762,
       "marketCap": 847244761076.39,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售",
+      "theme": "零售百貨",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -645,55 +645,42 @@
       "dollarVolume": 1954643385.2511625,
       "marketCap": 57962428171.08,
       "sector": "OPTICAL INSTRUMENTS & LENSES",
-      "theme": "光通訊",
+      "theme": "光學元件",
       "isNew": false,
       "rankChange": -9,
       "streak": 2
     }
   ],
   "asOf": "2026-09-17T20:00:00.000Z",
-  "generatedAt": "2026-09-18T05:28:08.213Z",
+  "generatedAt": "2026-09-18T07:40:25.588Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "半導體製造",
-      "reason": "全球對半導體的需求持續增長，特別是在AI和高效能運算領域，帶動相關製造商股價上揚。",
+      "reason": "AI 晶片需求持續強勁，帶動相關半導體製造商股價上揚。",
       "symbols": [
         "INTC",
         "AVGO",
-        "TSM",
         "MRVL"
       ],
-      "count": 4,
-      "avgChange": 4.444094457739027
+      "count": 3,
+      "avgChange": 4.924788971517596
     },
     {
       "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型趨勢不變，雲端服務和軟體即服務（SaaS）解決方案持續受到市場青睞。",
+      "reason": "企業數位轉型與雲端服務需求增長，推動相關軟體公司表現。",
       "symbols": [
         "MSFT",
-        "GOOGL",
-        "NBIS",
-        "ORCL",
-        "GOOG"
+        "PLTR",
+        "ORCL"
       ],
-      "count": 5,
-      "avgChange": 2.6800714632648157
-    },
-    {
-      "theme": "AI 晶片",
-      "reason": "人工智慧技術的快速發展，對AI晶片的需求激增，推動相關供應商股價表現強勁。",
-      "symbols": [
-        "NVDA",
-        "AMD"
-      ],
-      "count": 2,
-      "avgChange": 4.451134448511388
+      "count": 3,
+      "avgChange": 2.599766519171418
     },
     {
       "theme": "記憶體",
-      "reason": "記憶體市場需求回溫，加上AI應用對高頻寬記憶體（HBM）的需求，帶動記憶體廠商股價上漲。",
+      "reason": "記憶體市場景氣復甦，HBM 等高階產品需求旺盛，帶動相關廠商股價上漲。",
       "symbols": [
         "MU",
         "SKHY"
@@ -702,25 +689,34 @@
       "avgChange": 5.071171582592143
     },
     {
-      "theme": "儲存裝置",
-      "reason": "資料中心和個人裝置對儲存容量的需求不斷增加，推動儲存裝置相關企業股價表現。",
+      "theme": "AI 晶片",
+      "reason": "人工智慧應用持續擴展，市場對高效能 AI 晶片的需求居高不下。",
       "symbols": [
-        "SNDK",
-        "STX",
-        "WDC"
+        "NVDA",
+        "AMD"
       ],
-      "count": 3,
-      "avgChange": 3.4713557171016043
+      "count": 2,
+      "avgChange": 4.451134448511388
     },
     {
       "theme": "比特幣/加密",
-      "reason": "加密貨幣市場情緒好轉，比特幣價格波動帶動相關概念股表現。",
+      "reason": "加密貨幣市場情緒回暖，帶動相關概念股表現。",
       "symbols": [
         "MSTR",
         "IREN"
       ],
       "count": 2,
       "avgChange": 3.4142100262866233
+    },
+    {
+      "theme": "生技製藥",
+      "reason": "特定藥物研發進展或市場預期，推動生技製藥公司股價上漲。",
+      "symbols": [
+        "MRNA",
+        "LLY"
+      ],
+      "count": 2,
+      "avgChange": 4.917281514277475
     }
   ],
   "newEntrants": [
@@ -748,14 +744,14 @@
     {
       "symbol": "LLY",
       "name": "Eli Lilly & Co.",
-      "theme": "減肥藥 GLP-1",
+      "theme": "生技製藥",
       "changePercent": 1.2849132551721818,
       "reason": "將於EASD 2026會議公布心臟代謝藥物組合新數據，包含減肥藥物。"
     },
     {
       "symbol": "WMT",
       "name": "Walmart Inc. Common Stock",
-      "theme": "零售",
+      "theme": "零售百貨",
       "changePercent": -0.660465116279064,
       "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
@@ -767,5 +763,46 @@
       "reason": "宣布其2GW Sweetwater Hub被納入ERCOT Batch Zero，並完成Mirantis收購案。"
     }
   ],
-  "marketBriefing": null
+  "marketBriefing": {
+    "highlights": "本日美股成交重點集中在科技巨頭，尤其是與AI、記憶體和半導體製造相關的股票。資金主要流向這些具備創新技術和強勁市場需求的族群，由Nvidia執行長黃仁勳對AI晶片銷售前景的樂觀預期，以及美光科技在記憶體技術上的突破帶動了市場情緒。投資人正在交易AI基礎設施持續擴張、新技術應用落地以及相關供應鏈公司受惠的故事。",
+    "eventsPast": [
+      {
+        "title": "美光科技推出全球首款超高密度伺服器模組",
+        "detail": "美光科技於9月15日宣布推出全球首款512GB DDR5伺服器模組，運行速度高達9200 MT/s，並擴大全球產能以滿足AI資料中心的需求。"
+      },
+      {
+        "title": "Nvidia執行長預期AI晶片銷售將翻倍",
+        "detail": "Nvidia執行長黃仁勳於9月17日在蘇格蘭的AI峰會上表示，預計明年AI晶片銷量將比今年翻倍，因AI需求持續強勁。"
+      },
+      {
+        "title": "CoreWeave持續以更高價格簽訂新運算容量合約",
+        "detail": "CoreWeave於9月17日宣布，自6月30日以來持續以更高價格簽訂新的運算容量合約，第三季度已簽署約3至6個月的短期客戶合約，定價約為每兆瓦4000萬美元。"
+      },
+      {
+        "title": "蘋果發表首款摺疊iPhone及iPhone 18 Pro",
+        "detail": "蘋果於9月17日發表了首款摺疊iPhone「iPhone Duo」以及iPhone 18 Pro，並由新任CEO John Ternus主持發表會。"
+      },
+      {
+        "title": "Meta Platforms達成170億美元社群媒體成癮訴訟和解",
+        "detail": "Meta Platforms同意支付最高170億美元，以和解關於其社群媒體平台導致兒童和青少年成癮的指控。"
+      }
+    ],
+    "eventsUpcoming": [
+      {
+        "date": "9/28",
+        "title": "SpaceX Starship首次軌道飛行",
+        "detail": "SpaceX已將其Starship的首次軌道飛行目標日期推遲至9月28日，此次任務將部署26顆Starlink衛星。"
+      },
+      {
+        "date": "9/30",
+        "title": "美光科技公布2026財年第四季度財報",
+        "detail": "美光科技預計將於9月30日公布其2026財年第四季度財報。"
+      },
+      {
+        "date": "10/6-10/7",
+        "title": "Amazon Prime Big Deal Days",
+        "detail": "亞馬遜將於10月6日至7日舉行Prime Big Deal Days活動。"
+      }
+    ]
+  }
 }
