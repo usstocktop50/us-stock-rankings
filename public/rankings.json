@@ -47,7 +47,7 @@
       "dollarVolume": 12179149035.667921,
       "marketCap": 509696200000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體製造",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": 8,
       "streak": 131
@@ -60,7 +60,7 @@
       "dollarVolume": 11978416885.419432,
       "marketCap": 4851251373800,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "消費性電子",
+      "theme": "消費電子",
       "isNew": false,
       "rankChange": 2,
       "streak": 131
@@ -125,7 +125,7 @@
       "dollarVolume": 8265307272.133515,
       "marketCap": 2653001686169.12,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電子商務",
+      "theme": "電商與雲端",
       "isNew": false,
       "rankChange": -2,
       "streak": 131
@@ -151,7 +151,7 @@
       "dollarVolume": 7877024465.418262,
       "marketCap": 1620695075466.15,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體基礎設施",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": -1,
       "streak": 131
@@ -164,7 +164,7 @@
       "dollarVolume": 7412306300.733363,
       "marketCap": 177680360468.52,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "PC/伺服器",
+      "theme": "PC與伺服器",
       "isNew": false,
       "rankChange": 1,
       "streak": 17
@@ -203,7 +203,7 @@
       "dollarVolume": 4926946249.28959,
       "marketCap": 432878045760,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體 SaaS",
+      "theme": "企業軟體",
       "isNew": false,
       "rankChange": 2,
       "streak": 131
@@ -255,7 +255,7 @@
       "dollarVolume": 3631123318.35023,
       "marketCap": 79528273966.92,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "氫能源",
+      "theme": "潔淨能源",
       "isNew": false,
       "rankChange": 9,
       "streak": 11
@@ -268,7 +268,7 @@
       "dollarVolume": 3617319934.593846,
       "marketCap": 401106361777.86,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "數據分析軟體",
+      "theme": "大數據分析",
       "isNew": false,
       "rankChange": -6,
       "streak": 131
@@ -359,7 +359,7 @@
       "dollarVolume": 2915456852.388548,
       "marketCap": 404880130333.5,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "商業銀行",
+      "theme": "銀行",
       "isNew": false,
       "rankChange": -3,
       "streak": 6
@@ -372,7 +372,7 @@
       "dollarVolume": 2905401691.9645524,
       "marketCap": 927494327159.4,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "商業銀行",
+      "theme": "銀行",
       "isNew": false,
       "rankChange": -13,
       "streak": 4
@@ -437,7 +437,7 @@
       "dollarVolume": 2675013053.828628,
       "marketCap": 632106521585.42,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "支付處理",
+      "theme": "支付服務",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -463,7 +463,7 @@
       "dollarVolume": 2607287001.1951313,
       "marketCap": 159623129239.2,
       "sector": "AIRCRAFT",
-      "theme": "航空製造",
+      "theme": "航空航太",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -645,59 +645,47 @@
       "dollarVolume": 1816700822.4734914,
       "marketCap": 194125237957.64,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "行動通訊晶片",
+      "theme": "通訊晶片",
       "isNew": false,
       "rankChange": -20,
       "streak": 7
     }
   ],
   "asOf": "2026-09-16T20:00:00.000Z",
-  "generatedAt": "2026-09-17T09:58:08.130Z",
+  "generatedAt": "2026-09-18T02:07:10.742Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
-      "theme": "光通訊",
-      "reason": "隨著資料中心和AI基礎設施對高速傳輸的需求增加，光通訊技術的重要性日益凸顯，帶動相關個股表現。",
-      "symbols": [
-        "LITE",
-        "COHR"
-      ],
-      "count": 2,
-      "avgChange": 8.253115411692344
-    },
-    {
       "theme": "電力基礎建設",
-      "reason": "全球能源轉型和電網現代化需求，加上AI資料中心對電力消耗的增加，推動電力基礎設施相關企業的成長。",
+      "reason": "全球能源轉型與電網現代化需求持續增長，帶動相關設備與服務供應商的投資熱潮。",
       "symbols": [
-        "GEV",
-        "BE"
-      ],
-      "count": 2,
-      "avgChange": 4.451691991545292
-    },
-    {
-      "theme": "PC/伺服器",
-      "reason": "AI PC概念的興起以及企業對AI伺服器需求的增加，預期將帶動相關硬體設備的出貨量。",
-      "symbols": [
-        "DELL"
+        "GEV"
       ],
       "count": 1,
-      "avgChange": 3.6393074644440713
+      "avgChange": 4.789252500538065
     },
     {
-      "theme": "AI 晶片",
-      "reason": "AI技術的快速發展持續推動對高效能AI晶片的需求，市場對相關供應商的未來展望保持樂觀。",
+      "theme": "光通訊",
+      "reason": "AI與資料中心對高速傳輸的需求激增，推動光通訊技術及相關元件的發展。",
       "symbols": [
-        "NVDA",
-        "AMD"
+        "LITE"
       ],
-      "count": 2,
-      "avgChange": 1.2307780220919278
+      "count": 1,
+      "avgChange": 9.588061409363966
+    },
+    {
+      "theme": "光學元件",
+      "reason": "先進製造、AR/VR及感測技術的應用擴大，提升對精密光學元件的需求。",
+      "symbols": [
+        "COHR"
+      ],
+      "count": 1,
+      "avgChange": 6.918169414020721
     },
     {
       "theme": "太空科技",
-      "reason": "太空探索和衛星通訊領域的商業化進程加速，吸引投資者關注具備創新技術和成長潛力的太空科技公司。",
+      "reason": "商業太空探索、衛星通訊及國防應用領域的發展，持續吸引市場關注。",
       "symbols": [
         "SPCX"
       ],
@@ -705,13 +693,22 @@
       "avgChange": 5.150184681859353
     },
     {
-      "theme": "晶圓代工",
-      "reason": "全球半導體需求持續增長，先進製程技術的領導者在供應鏈中扮演關鍵角色，訂單能見度高。",
+      "theme": "PC與伺服器",
+      "reason": "企業IT支出回升以及AI PC概念的推動，為相關硬體製造商帶來成長動能。",
       "symbols": [
-        "TSM"
+        "DELL"
       ],
       "count": 1,
-      "avgChange": 0.9595166163142059
+      "avgChange": 3.6393074644440713
+    },
+    {
+      "theme": "潔淨能源",
+      "reason": "各國政府對綠色能源政策的支持以及技術創新，使潔淨能源產業前景看好。",
+      "symbols": [
+        "BE"
+      ],
+      "count": 1,
+      "avgChange": 4.114131482552519
     }
   ],
   "newEntrants": [
@@ -720,73 +717,93 @@
       "name": "GE Vernova Inc.",
       "theme": "電力基礎建設",
       "changePercent": 4.789252500538065,
-      "reason": "公司預計2027年初訂單積壓將超過2000億美元，並強調需求可見度強勁。"
+      "reason": "CEO預期2027年訂單將達2000億美元，且AI與核能需求發酵帶動。"
     },
     {
       "symbol": "FANG",
       "name": "Diamondback Energy, Inc.",
       "theme": "石油與天然氣",
       "changePercent": -8.029783713509048,
-      "reason": "油價下跌導致能源股普遍下跌，Diamondback Energy領跌。"
+      "reason": "IEA下修全球石油需求預測，加上通膨與內部人士賣股，導致股價下跌。"
     },
     {
       "symbol": "V",
       "name": "VISA Inc.",
-      "theme": "支付處理",
+      "theme": "支付服務",
       "changePercent": -1.248602310846067,
       "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "BA",
       "name": "Boeing Company",
-      "theme": "航空製造",
+      "theme": "航空航太",
       "changePercent": -3.6863942009633224,
-      "reason": "波音執行長表示737生產穩定所需時間超出預期，導致股價下跌。"
+      "reason": "獲美國海軍與大韓航空大訂單，但防務利多消化與獲利了結使股價回落。"
     },
     {
       "symbol": "COHR",
       "name": "Coherent Corp.",
       "theme": "光學元件",
       "changePercent": 6.918169414020721,
-      "reason": "受惠於AI數據中心光學元件需求強勁，以及第四季財報表現亮眼。"
+      "reason": "光通訊與AI題材持續發酵，且光學族群反彈帶動股價上漲。"
     },
     {
       "symbol": "CAT",
       "name": "Caterpillar Inc.",
       "theme": "重型機械",
       "changePercent": -0.10465324042166785,
-      "reason": "分析師上調評級，且數據中心對發電設備需求增長。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI相關題材，儘管聯準會升息對大盤造成壓力，但半導體和AI算力相關個股逆勢走強，顯示市場資金仍看好AI的長期需求。光通訊和太空科技族群也因AI資料中心需求及星艦發射計畫而表現亮眼，市場正在交易AI基礎建設的持續成長故事。",
+    "highlights": "本日美股成交重點聚焦於AI相關題材，特別是AI晶片與光通訊領域。Nvidia (NVDA) 和AMD (AMD) 等AI晶片股表現強勁，顯示市場對AI基礎設施的需求持續旺盛。光通訊大廠Lumentum (LITE) 更是受惠於AI資料中心對高速光連結設備的需求，股價大幅上漲，成為當日焦點。此外，Intel (INTC) 和Dell (DELL) 等PC與伺服器相關個股也因AI帶動的伺服器需求而有不錯的表現，顯示資金正持續湧入AI生態鏈中具有實體訂單和產能擴充潛力的公司。",
     "eventsPast": [
       {
-        "title": "Fed升息25個基點，半導體族群逆勢上漲",
-        "detail": "聯準會升息25個基點，導致道瓊指數重挫，但半導體類股如Intel、AMD、Nvidia等在AI算力需求支撐下逆勢走強，顯示資金集中押注AI主線。"
+        "title": "美國8月非農就業職位超預期",
+        "detail": "美國勞工部於9月4日公布的8月非農就業職位增加16.2萬個，遠超市場預期，增強了聯準會9月升息的理據。"
       },
       {
-        "title": "Anthropic卡位超大型資料中心園區，推論算力需求不減",
-        "detail": "Anthropic宣布在澳洲卡位2.16GW的超大型資料中心園區，主要用於AI推論，這表明即使前沿模型訓練可能放慢，對推論算力的投資需求依然強勁。"
+        "title": "美國8月CPI月增0.4%，年增3.4%",
+        "detail": "美國勞工部於9月11日公布的8月CPI數據顯示，月增0.4%，年增3.4%，核心CPI月增0.3%，年增2.4%，整體符合市場預期，但核心月增率高於預期，顯示物價漲勢加快。"
       },
       {
-        "title": "Lumentum股價飆漲，帶動光通訊族群",
-        "detail": "美國光通訊大廠Lumentum股價飆漲11.04%，刷新3個月新高，主要受惠於AI資料中心對高速資料傳輸的龐大需求，激勵光通訊板塊整體表現。"
+        "title": "Lumentum獲NVIDIA策略性入股與採購承諾",
+        "detail": "Lumentum在2026年3月獲得NVIDIA以每股695.31美元認購特別股，總額20億美元，並附帶至少到2029年的多年期磷化銦雷射採購承諾，使其成為NVIDIA資料中心光學供應鏈中的要角。"
       },
       {
-        "title": "SpaceX星艦第14次飛行任務計畫於9月22日發射",
-        "detail": "SpaceX宣布星艦第14次飛行任務計畫於9月22日發射，將首次嘗試進入地球軌道並部署V3星鏈衛星，此為星艦項目首次執行商業收入任務，帶動SPCX股價上漲。"
+        "title": "光通訊族群受AI需求帶動飆升",
+        "detail": "受惠於生成式AI模型持續推升數據中心高速傳輸需求，Lumentum和Coherent Corp.等光通訊大廠股價近期飆升，Lumentum在9月9日大漲11.04%，創逾3個月新高。"
       },
       {
-        "title": "美光推出全球首款512GB DDR5記憶體模組",
-        "detail": "美光推出全球首款512GB DDR5記憶體模組，積極與AMD、Intel等客戶合作，瞄準下世代伺服器平台，預計2027下半年量產，顯示記憶體廠商持續布局高階產品以搶攻伺服器市場商機。"
+        "title": "Lumentum財報優於預期，上修財測",
+        "detail": "Lumentum於2026年6月27日公布的2026財年第四季財報顯示，淨營收達10.1億美元，並預計2027財年第一季營收將介於12.25億至12.75億美元，優於市場預期。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "9/22",
-        "title": "SpaceX星艦第14次飛行任務",
-        "detail": "SpaceX計畫於9月22日發射星艦進行第14次飛行任務，將首次嘗試進入地球軌道並部署V3星鏈衛星，此為星艦項目首次執行商業收入任務。"
+        "date": "本月底",
+        "title": "美光科技 (MU) 財報公布",
+        "detail": "美光科技預計於本月底公布財報，其數據中心需求完成供應比率不到一半，市場將關注其財測是否能維持未完成訂單量，以反映基礎建設需求。"
+      },
+      {
+        "date": "2026/11/3",
+        "title": "Lumentum Holdings (LITE) 財報公布",
+        "detail": "Lumentum Holdings預計於2026年11月3日公布下一季（2027財年第一季）財報。"
+      },
+      {
+        "date": "每月第一個星期五",
+        "title": "美國非農就業數據公布",
+        "detail": "美國勞工部勞動統計局通常於每月第一個星期五發布前一個月的就業市場統計結果，包含非農就業人數及失業率等，為衡量美國勞動市場狀況的重要報告。"
+      },
+      {
+        "date": "每月10-14日",
+        "title": "美國CPI數據公布",
+        "detail": "美國CPI數據通常在每個月的10到14日之間公布上個月的數據，由美國勞工部發布，將影響市場對聯準會利率決策的預期。"
+      },
+      {
+        "date": "未來幾天",
+        "title": "聯準會會議",
+        "detail": "美國8月非農就業數據超預期，增強了聯準會9月加息的理據。市場對聯準會9月會議加息的預期再度升溫，最終取決於8月消費物價指數。"
       }
     ]
   }
