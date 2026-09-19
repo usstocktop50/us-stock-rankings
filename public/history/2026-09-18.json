@@ -73,7 +73,7 @@
       "dollarVolume": 19621203177.460785,
       "marketCap": 78235298917.98,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "再生能源",
+      "theme": "氫能源",
       "isNew": false,
       "rankChange": 19,
       "streak": 13
@@ -229,7 +229,7 @@
       "dollarVolume": 9733478989.458338,
       "marketCap": 186647572440.12,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "無線通訊晶片",
+      "theme": "行動通訊晶片",
       "isNew": false,
       "rankChange": 23,
       "streak": 9
@@ -320,7 +320,7 @@
       "dollarVolume": 6943389931.904479,
       "marketCap": 408698715763.56,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "數據分析軟體",
+      "theme": "大數據分析",
       "isNew": false,
       "rankChange": -3,
       "streak": 133
@@ -346,7 +346,7 @@
       "dollarVolume": 6387116714.573141,
       "marketCap": 929487966805.65,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "金融銀行",
+      "theme": "銀行",
       "isNew": false,
       "rankChange": 16,
       "streak": 6
@@ -476,7 +476,7 @@
       "dollarVolume": 5343486968.677383,
       "marketCap": 37333800698.4,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體 SaaS",
+      "theme": "雲端基礎設施",
       "isNew": false,
       "rankChange": -22,
       "streak": 2
@@ -515,7 +515,7 @@
       "dollarVolume": 5068050616.7166815,
       "marketCap": 243508362995.03998,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "類比晶片",
+      "theme": "半導體",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -541,7 +541,7 @@
       "dollarVolume": 4845718317.582671,
       "marketCap": 846768736301.93,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售百貨",
+      "theme": "零售",
       "isNew": false,
       "rankChange": 6,
       "streak": 2
@@ -554,7 +554,7 @@
       "dollarVolume": 4677466042.184589,
       "marketCap": 49059225771.52,
       "sector": "—",
-      "theme": "雲端服務",
+      "theme": "雲端基礎設施",
       "isNew": false,
       "rankChange": -29,
       "streak": 58
@@ -580,7 +580,7 @@
       "dollarVolume": 4633505493.756227,
       "marketCap": 94733314637.87999,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "金融交易平台",
+      "theme": "金融科技",
       "isNew": false,
       "rankChange": -7,
       "streak": 4
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-09-18T20:00:00.000Z",
-  "generatedAt": "2026-09-19T05:10:03.533Z",
+  "generatedAt": "2026-09-19T07:34:30.055Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "儲存裝置",
-      "reason": "隨著數據量的爆炸性增長，市場對高效能儲存解決方案的需求持續強勁，帶動相關公司股價上漲。",
+      "reason": "隨著資料量持續增長，市場對高效能儲存解決方案的需求強勁，帶動相關個股表現。",
       "symbols": [
         "SNDK",
         "P",
@@ -670,7 +670,7 @@
     },
     {
       "theme": "比特幣/加密",
-      "reason": "加密貨幣市場波動性大，但近期比特幣價格上漲帶動相關概念股受到資金追捧。",
+      "reason": "加密貨幣市場的波動性吸引了投機資金，相關概念股受情緒影響而大幅上漲。",
       "symbols": [
         "MSTR",
         "COIN"
@@ -680,7 +680,7 @@
     },
     {
       "theme": "半導體設備",
-      "reason": "全球半導體產業持續擴張，晶圓廠投資增加，帶動半導體設備供應商的營收成長預期。",
+      "reason": "全球半導體產業擴張，資本支出增加，帶動設備供應商的訂單與營收成長。",
       "symbols": [
         "AMAT",
         "LRCX",
@@ -691,7 +691,7 @@
     },
     {
       "theme": "AI 晶片",
-      "reason": "人工智慧技術的快速發展，對高效能AI晶片的需求持續旺盛，推動相關晶片設計公司股價表現。",
+      "reason": "人工智慧技術持續發展，對高效能運算晶片的需求不斷攀升，相關領導廠商表現強勁。",
       "symbols": [
         "NVDA",
         "AMD"
@@ -701,7 +701,7 @@
     },
     {
       "theme": "記憶體",
-      "reason": "記憶體市場需求回溫，加上供應商庫存去化，市場預期價格將逐步上漲，帶動相關個股表現。",
+      "reason": "記憶體市場景氣回溫，需求復甦，有助於相關廠商的營收與獲利改善。",
       "symbols": [
         "MU",
         "SKHY"
@@ -710,16 +710,15 @@
       "avgChange": 3.191387060268686
     },
     {
-      "theme": "雲端服務",
-      "reason": "雲端運算作為企業數位轉型的核心，其服務需求持續增長，支撐相關公司的營收與獲利。",
+      "theme": "半導體",
+      "reason": "半導體產業整體需求穩健，特別是特定應用領域的晶片需求持續增長。",
       "symbols": [
-        "GOOGL",
-        "AMZN",
-        "GOOG",
-        "NBIS"
+        "AVGO",
+        "MRVL",
+        "TXN"
       ],
-      "count": 4,
-      "avgChange": 1.099475596698805
+      "count": 3,
+      "avgChange": 2.5703260772205696
     }
   ],
   "newEntrants": [
@@ -728,28 +727,28 @@
       "name": "Chevron Corporation",
       "theme": "石油天然氣",
       "changePercent": -0.9736730160230668,
-      "reason": "高盛上調目標價，並宣布擴大委內瑞拉業務，投資逾70億美元。"
+      "reason": "獲委內瑞拉擴大營運協議，高盛上調目標價，但油價前景存疑。"
     },
     {
       "symbol": "ILMN",
       "name": "Illumina Inc",
       "theme": "基因定序",
       "changePercent": -2.267721673872258,
-      "reason": "UBS和Argus上調評級與目標價，並將重新納入S&P 500指數。"
+      "reason": "UBS上調評級至買進，Argus上調目標價，並將重新納入S&P 500指數。"
     },
     {
       "symbol": "P",
       "name": "Everpure, Inc.",
       "theme": "儲存裝置",
       "changePercent": 0.14424463890759276,
-      "reason": "Needham分析師給予買入評級與目標價，並將舉辦分析師日。"
+      "reason": "Needham給予研究報告，並將於9月8日加入S&P 500指數。"
     },
     {
       "symbol": "V",
       "name": "VISA Inc.",
       "theme": "金融支付",
       "changePercent": -0.44332711594085,
-      "reason": "Visa宣布穩定幣結算量成長15倍，並拓展AI支付和車隊服務。"
+      "reason": "拓展穩定幣和AI支付業務，與MoneyGram合作推出穩定幣Visa卡。"
     },
     {
       "symbol": "XOM",
@@ -761,38 +760,69 @@
     {
       "symbol": "TXN",
       "name": "Texas Instruments Incorporated",
-      "theme": "類比晶片",
+      "theme": "半導體",
       "changePercent": 3.292786859843496,
-      "reason": "德州儀器宣布調升季度股息7%至每股1.52美元。"
+      "reason": "宣布將季度現金股利調高7%，連續21年增加股利。"
     },
     {
       "symbol": "MRK",
       "name": "Merck & Co., Inc.",
       "theme": "生技製藥",
       "changePercent": -0.19028202514441123,
-      "reason": "Keytruda聯合療法獲歐盟正面意見，與Moderna合作的癌症疫苗數據積極。"
+      "reason": "第二季財報優於預期，mRNA癌症疫苗進展良好，分析師多持買進評級。"
     },
     {
       "symbol": "CSCO",
       "name": "Cisco Systems, Inc. Common Stock (DE)",
       "theme": "網路設備",
       "changePercent": -0.6621915820028935,
-      "reason": "Cisco與NVIDIA和Supermicro合作擴展AI工廠，並推出Splunk新功能。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "JNJ",
       "name": "Johnson & Johnson",
       "theme": "生技製藥",
       "changePercent": -0.08511583154467403,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "考慮出售骨科部門，並獲得多發性骨髓瘤藥物Tecvayli的歐盟積極意見。"
     },
     {
       "symbol": "COIN",
       "name": "Coinbase Global, Inc. Class A Common Stock",
       "theme": "比特幣/加密",
       "changePercent": 11.657182272805656,
-      "reason": "華爾街多家機構上調目標價，且加密貨幣市場情緒樂觀。"
+      "reason": "比特幣價格上漲帶動加密貨幣相關股票走高。"
     }
   ],
-  "marketBriefing": null
+  "marketBriefing": {
+    "highlights": "本日美股成交重點集中在半導體相關族群，特別是記憶體、AI晶片和半導體設備股，顯示市場資金在聯準會升息後重新定價，並持續看好AI產業的長期發展。儘管聯準會升息一碼，但市場解讀為利空出盡，加上Intel執行長陳立武對記憶體供應吃緊的預期，帶動相關個股強勁反彈。SpaceX以高成交金額位居榜首，但股價下跌，而加密貨幣概念股因比特幣上漲而表現亮眼。",
+    "eventsPast": [
+      {
+        "title": "聯準會升息一碼，市場解讀為利空出盡",
+        "detail": "美國聯準會於9月16日一致決議升息一碼，將聯邦資金利率目標區間調高至3.75%至4%，為三年來首次升息，但市場情緒反而改善，科技股普遍反彈。"
+      },
+      {
+        "title": "Intel執行長預警記憶體供應吃緊將惡化",
+        "detail": "Intel執行長陳立武公開表示，記憶體供應瓶頸明年可能進一步惡化，且價格已較前一年飆漲5到7倍，此言論點燃了整個半導體族群的漲勢。"
+      },
+      {
+        "title": "Sandisk受惠於低估值與AI需求題材股價飆漲",
+        "detail": "Sandisk Corporation (SNDK) 因被列入「估值最具吸引力」科技股名單，且持續受惠於雲端與AI需求，股價強勢上攻，單日上漲逾10%。"
+      },
+      {
+        "title": "比特幣突破8萬美元，帶動加密貨幣概念股上漲",
+        "detail": "比特幣價格突破8萬美元，激勵加密貨幣概念股如Coinbase (COIN) 和Strategy (MSTR) 大幅上漲。"
+      },
+      {
+        "title": "半導體設備股強勢反彈",
+        "detail": "應用材料 (AMAT)、科林研發 (LRCX) 等半導體設備股在聯準會升息後重新定價，強勢反彈，應用材料單日收漲6.51%。"
+      }
+    ],
+    "eventsUpcoming": [
+      {
+        "date": "9/28",
+        "title": "SpaceX星艦第14次試飛",
+        "detail": "SpaceX的「星艦」（Starship）第14次試飛日期已從9月22日延至9月28日，仍需獲得監管批准。"
+      }
+    ]
+  }
 }
