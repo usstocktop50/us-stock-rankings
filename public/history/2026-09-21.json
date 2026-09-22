@@ -177,7 +177,7 @@
       "dollarVolume": 7154160918.800863,
       "marketCap": 77329662071.2,
       "sector": "CABLE & OTHER PAY TELEVISION SERVICES",
-      "theme": "串流媒體",
+      "theme": "媒體娛樂",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -242,7 +242,7 @@
       "dollarVolume": 4457319176.155132,
       "marketCap": 181471867388.27997,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "PC/伺服器",
+      "theme": "電腦硬體",
       "isNew": false,
       "rankChange": 7,
       "streak": 20
@@ -294,7 +294,7 @@
       "dollarVolume": 4049488792.055172,
       "marketCap": 51091472486.4,
       "sector": "—",
-      "theme": "雲端軟體",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": 20,
       "streak": 59
@@ -320,7 +320,7 @@
       "dollarVolume": 3977469913.849612,
       "marketCap": 80373567449.94,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "燃料電池",
+      "theme": "潔淨能源",
       "isNew": false,
       "rankChange": -19,
       "streak": 14
@@ -331,7 +331,7 @@
       "price": 188.86,
       "changePercent": 0.7253333333333406,
       "dollarVolume": 3850558335.1420083,
-      "marketCap": 1340631947142.6,
+      "marketCap": 1342937189300,
       "sector": "—",
       "theme": "記憶體",
       "isNew": false,
@@ -372,7 +372,7 @@
       "dollarVolume": 3520575088.4076986,
       "marketCap": 203986934475.83,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "手機晶片",
+      "theme": "手機晶片/物聯網",
       "isNew": false,
       "rankChange": -11,
       "streak": 10
@@ -424,7 +424,7 @@
       "dollarVolume": 3389572736.828571,
       "marketCap": 39201408476.700005,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": 4,
       "streak": 3
@@ -437,7 +437,7 @@
       "dollarVolume": 3327188947.4300704,
       "marketCap": 449206220160,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "資料庫軟體",
+      "theme": "企業軟體",
       "isNew": false,
       "rankChange": -1,
       "streak": 134
@@ -580,7 +580,7 @@
       "dollarVolume": 2427652662.0525236,
       "marketCap": 706847731173.61,
       "sector": "FIRE, MARINE & CASUALTY INSURANCE",
-      "theme": "多元控股",
+      "theme": "綜合保險",
       "isNew": false,
       "rankChange": -17,
       "streak": 5
@@ -606,7 +606,7 @@
       "dollarVolume": 2257841838.4520454,
       "marketCap": 935787868087.8,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "銀行",
+      "theme": "商業銀行",
       "isNew": false,
       "rankChange": -20,
       "streak": 7
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-09-21T20:00:00.000Z",
-  "generatedAt": "2026-09-22T08:01:15.680Z",
+  "generatedAt": "2026-09-22T09:47:41.555Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "AI 晶片",
-      "reason": "市場持續看好AI技術發展帶動的晶片需求，相關公司營收與獲利預期強勁。",
+      "reason": "AI技術的快速發展持續推動對高效能晶片的需求，市場預期相關公司業績將持續增長。",
       "symbols": [
         "AMD",
         "NVDA",
@@ -671,7 +671,7 @@
     },
     {
       "theme": "比特幣/加密",
-      "reason": "比特幣價格波動與市場對加密貨幣生態系統的興趣，帶動相關概念股表現。",
+      "reason": "比特幣價格波動帶動相關加密貨幣概念股的交易熱度，市場對其未來發展抱有期待。",
       "symbols": [
         "MSTR",
         "COIN"
@@ -680,8 +680,18 @@
       "avgChange": 6.486548361548369
     },
     {
+      "theme": "記憶體",
+      "reason": "AI應用對高頻寬記憶體（HBM）的需求激增，帶動整體記憶體產業景氣復甦。",
+      "symbols": [
+        "MU",
+        "SKHY"
+      ],
+      "count": 2,
+      "avgChange": 1.7487662925772867
+    },
+    {
       "theme": "半導體設備",
-      "reason": "半導體產業擴張及技術升級，推動設備供應商訂單增加。",
+      "reason": "全球半導體產業擴張，晶圓廠投資增加，帶動半導體設備供應商的訂單成長。",
       "symbols": [
         "AMAT",
         "LRCX",
@@ -691,57 +701,47 @@
       "avgChange": 3.7372990303130713
     },
     {
-      "theme": "記憶體",
-      "reason": "記憶體市場需求復甦，尤其HBM等高階產品在AI應用帶動下前景看好。",
+      "theme": "搜尋引擎/AI",
+      "reason": "大型科技公司持續投入AI研發與應用，市場看好其在AI領域的領先地位與商業化潛力。",
       "symbols": [
-        "MU",
-        "SKHY"
+        "GOOGL",
+        "GOOG"
       ],
       "count": 2,
-      "avgChange": 1.7487662925772867
+      "avgChange": 1.7145708566652038
     },
     {
-      "theme": "串流媒體",
-      "reason": "串流媒體平台用戶增長及內容策略調整，吸引投資者關注。",
+      "theme": "生技製藥",
+      "reason": "特定藥物研發進展或市場需求增長，吸引資金流入相關製藥公司。",
       "symbols": [
-        "WBD",
-        "NFLX"
+        "MRNA",
+        "LLY"
       ],
       "count": 2,
-      "avgChange": 6.489150509930538
-    },
-    {
-      "theme": "雲端軟體",
-      "reason": "企業數位轉型趨勢不變，雲端服務及軟體解決方案持續受青睞。",
-      "symbols": [
-        "NBIS",
-        "CRWV"
-      ],
-      "count": 2,
-      "avgChange": 4.572446784373981
+      "avgChange": 6.6534486869547536
     }
   ],
   "newEntrants": [
     {
       "symbol": "WBD",
       "name": "Warner Bros. Discovery, Inc. Series A Common Stock",
-      "theme": "串流媒體",
+      "theme": "媒體娛樂",
       "changePercent": 10.79136690647482,
-      "reason": "與Paramount Skydance併購案和解談判進展，並加碼加州投資激勵買盤。"
+      "reason": "Paramount Skydance與多州達成反壟斷和解，收購華納兄弟探索公司交易將完成。"
     },
     {
       "symbol": "ARM",
       "name": "Arm Holdings plc American Depositary Shares",
       "theme": "IP 設計",
       "changePercent": 17.15830339973149,
-      "reason": "2026財年營收及稅前利潤增長超預期，AI數據中心需求潛力獲看好。"
+      "reason": "執行長Rene Haas表示對AI晶片需求信心增強，目標達20億美元營收。"
     },
     {
       "symbol": "MRNA",
       "name": "Moderna, Inc. Common Stock",
       "theme": "生技製藥",
       "changePercent": 12.26954037912231,
-      "reason": "股價創52週新高，市場對其生物科技突破與新冠疫苗研發有信心。"
+      "reason": "Moderna與默沙東合作的mRNA癌症疫苗三期臨床數據積極。"
     },
     {
       "symbol": "GEV",
@@ -755,14 +755,14 @@
       "name": "Coherent Corp.",
       "theme": "光學元件",
       "changePercent": 1.3108142172926545,
-      "reason": "推出PhotonLink平台瞄準AI數據中心，光通訊展覽展示新技術獲法人看好。"
+      "reason": "推出PhotonLink整合光學平台，瞄準AI資料中心基礎設施。"
     },
     {
       "symbol": "SHOP",
       "name": "Shopify Inc. Class A subordinate voting shares",
       "theme": "電商軟體",
       "changePercent": 7.330739299610885,
-      "reason": "與Meta合作，其AI助理Muse將整合Shop Pay支付服務。"
+      "reason": "與Meta Platforms的Muse AI代理合作，將Shop Pay整合至AI結帳。"
     },
     {
       "symbol": "UNH",
@@ -773,54 +773,49 @@
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI相關科技股的強勁表現，特別是AI晶片、記憶體和雲端軟體SaaS等族群。Meta Platforms受惠於其AI助手Muse的推出以及資料中心投資題材，股價飆升逾11%。同時，AMD也因AI晶片需求旺盛，市值突破萬億美元大關。整體市場資金流向顯示，儘管聯準會升息和地緣政治因素帶來不確定性，但投資人對AI產業的長期成長動能仍抱持樂觀態度，並將資金集中於具備創新能力和估值吸引力的科技巨頭。",
+    "highlights": "本日美股成交重點聚焦於AI相關個股與族群的強勁表現。Meta Platforms (META) 由於其個人AI代理「Muse」的成功推出，股價大漲超過11%，並帶動了整體AI晶片股的買氣。AMD (Advanced Micro Devices) 受此利多影響，市值首次突破1兆美元，Intel (INTC) 和Nvidia (NVDA) 等AI晶片股也同步上漲。記憶體族群的Micron (MU) 和Sandisk (SNDK) 亦受惠於AI需求帶動的記憶體上行週期，表現不俗。整體市場故事圍繞著AI技術的快速發展及其對硬體需求的強勁拉動。",
     "eventsPast": [
       {
-        "title": "Meta Platforms AI助手Muse推出，股價大漲",
-        "detail": "Meta Platforms（META）受惠於其AI助手Muse的成功推出，以及持續擴張資料中心與雲端基礎建設的布局，股價單日飆漲11.34%，創下近一年半以來最大單日漲幅。"
+        "title": "Meta Platforms (META) 推出個人AI代理「Muse」",
+        "detail": "Meta Platforms (META) 推出的個人AI代理「Muse」在美國iPhone App Store下載量居冠，引發市場對CPU需求的樂觀預期，帶動Meta股價大漲。"
       },
       {
-        "title": "AMD市值突破萬億美元",
-        "detail": "Advanced Micro Devices（AMD）受惠於AI晶片需求的強勁增長，股價上漲9.95%，市值首次突破萬億美元大關。"
+        "title": "AMD (Advanced Micro Devices) 市值突破1兆美元",
+        "detail": "受Meta AI代理Muse的成功影響，AMD股價大漲近10%，市值首次突破1兆美元，成為第14家達到此里程碑的美國企業。"
       },
       {
-        "title": "SEC批准「Innovation Exemption」激勵加密概念股",
-        "detail": "美國證券交易委員會（SEC）批准一項臨時「Innovation Exemption」，允許特定平台與流動性提供者促進「tokenized U.S.-listed stocks」交易，帶動比特幣/加密族群走強，MSTR股價飆漲逾10%。"
+        "title": "Intel (INTC) 與SK Hynix洽談美國記憶體代工合作",
+        "detail": "路透社報導Intel正與SK Hynix商談在美國生產記憶體晶片，可能租用Intel俄亥俄州廠房或成立合資企業，此消息激勵Intel股價上漲。"
       },
       {
-        "title": "Sandisk被列入「估值最具吸引力」科技股名單",
-        "detail": "Sandisk Corporation（SNDK）被Seeking Alpha列入「估值最具吸引力」科技股名單，並獲得A+ Valuation Grade，顯示其相對基本面而言屬於被低估區間，推升股價上漲。"
+        "title": "SanDisk (SNDK) 納入標普100指數",
+        "detail": "SanDisk Corporation (SNDK) 因被納入標普100指數，於9月21日開盤前生效，帶動股價上漲。"
       },
       {
-        "title": "Nvidia CEO黃仁勳預期晶片銷售將翻倍",
-        "detail": "Nvidia（NVDA）執行長黃仁勳表示，預計明年晶片銷售量將是今年的兩倍，暗示公司營收成長將超越先前預期，進一步鞏固其在AI晶片市場的領導地位。"
+        "title": "聯準會重啟升息",
+        "detail": "聯準會上週重啟升息，將聯邦基金利率目標區間上調25個基點至3.75%-4.00%，市場預期下月再次升息機率達50%。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "9/30",
-        "title": "Micron Technology公布第四財季財報",
-        "detail": "記憶體大廠美光科技（MU）將於9月30日公布其第四財季財報，市場預期將有強勁表現，並持續關注其對AI記憶體需求的展望。"
+        "date": "9/23",
+        "title": "Meta Connect 2026開發者大會",
+        "detail": "Meta Platforms (META) 將於9月23日舉辦為期兩天的開發者大會，預計將公布人工智慧、AI眼鏡、虛擬與混合實境等最新進展，市場預期將強調AI策略與產品路線圖。"
       },
       {
         "date": "本週",
         "title": "聯準會官員談話",
-        "detail": "本週多位聯準會官員將公開發表談話，市場將藉此觀察決策官員對通膨、利率及經濟前景的最新看法。"
+        "detail": "本週至少有10名聯準會官員將發表談話，市場將密切關注其對未來利率政策的看法。"
       },
       {
-        "date": "本週二",
-        "title": "ADP每週就業人數",
-        "detail": "本週二將公布ADP每週就業人數，此數據為評估美國就業市場健康狀況的重要指標。"
+        "date": "本月下旬",
+        "title": "Micron Technology (MU) 第四財季財報",
+        "detail": "Micron Technology (MU) 將於本月下旬公布第四財季財報，市場預期將公布強勁的財務業績，並關注其對AI記憶體領域的押注。"
       },
       {
-        "date": "本週四",
-        "title": "初領失業救濟金人數",
-        "detail": "本週四將公布初領失業救濟金人數，此數據可反映勞動力市場的即時變化。"
-      },
-      {
-        "date": "本週五",
-        "title": "密西根大學消費者信心終值",
-        "detail": "本週五將公布密西根大學消費者信心指數終值，此數據能反映消費者對經濟前景的看法，影響消費支出。"
+        "date": "9/30",
+        "title": "美國8月PCE個人消費支出物價指數",
+        "detail": "美國將於9月30日公布8月PCE個人消費支出物價指數，此數據為聯準會衡量通膨的重要指標。"
       }
     ]
   }
