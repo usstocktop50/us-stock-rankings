@@ -8,7 +8,7 @@
       "dollarVolume": 35415275694.04734,
       "marketCap": 1634540481653.705,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "AI/元宇宙",
+      "theme": "社群媒體/AI",
       "isNew": false,
       "rankChange": 9,
       "streak": 134
@@ -60,7 +60,7 @@
       "dollarVolume": 23171395666.827217,
       "marketCap": 614258320000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體製造",
+      "theme": "AI 晶片",
       "isNew": false,
       "rankChange": 3,
       "streak": 134
@@ -86,7 +86,7 @@
       "dollarVolume": 13932149577.051851,
       "marketCap": 3724727873740.5103,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體 SaaS",
+      "theme": "雲端軟體/AI",
       "isNew": false,
       "rankChange": 0,
       "streak": 134
@@ -138,7 +138,7 @@
       "dollarVolume": 11061932415.33607,
       "marketCap": 2787722742683.4,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "雲端/電商",
+      "theme": "電商/雲端",
       "isNew": false,
       "rankChange": 4,
       "streak": 134
@@ -151,7 +151,7 @@
       "dollarVolume": 10805808123.515533,
       "marketCap": 2082963960000.0002,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "AI/雲端",
+      "theme": "搜尋引擎/AI",
       "isNew": false,
       "rankChange": 0,
       "streak": 134
@@ -164,7 +164,7 @@
       "dollarVolume": 9552546112.709454,
       "marketCap": 1731204606840.9001,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體網路",
+      "theme": "AI 晶片",
       "isNew": false,
       "rankChange": 0,
       "streak": 134
@@ -177,7 +177,7 @@
       "dollarVolume": 7154160918.800863,
       "marketCap": 77329662071.2,
       "sector": "CABLE & OTHER PAY TELEVISION SERVICES",
-      "theme": "媒體娛樂",
+      "theme": "串流媒體",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -203,7 +203,7 @@
       "dollarVolume": 6405148772.773051,
       "marketCap": 1939258490000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "AI/雲端",
+      "theme": "搜尋引擎/AI",
       "isNew": false,
       "rankChange": 0,
       "streak": 134
@@ -216,7 +216,7 @@
       "dollarVolume": 5466609924.673165,
       "marketCap": 225696522000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體網路",
+      "theme": "AI 晶片",
       "isNew": false,
       "rankChange": 17,
       "streak": 124
@@ -242,7 +242,7 @@
       "dollarVolume": 4457319176.155132,
       "marketCap": 181471867388.27997,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "電子電腦",
+      "theme": "PC/伺服器",
       "isNew": false,
       "rankChange": 7,
       "streak": 20
@@ -294,7 +294,7 @@
       "dollarVolume": 4049488792.055172,
       "marketCap": 51091472486.4,
       "sector": "—",
-      "theme": "雲端軟體 SaaS",
+      "theme": "雲端軟體",
       "isNew": false,
       "rankChange": 20,
       "streak": 59
@@ -320,7 +320,7 @@
       "dollarVolume": 3977469913.849612,
       "marketCap": 80373567449.94,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "清潔能源",
+      "theme": "燃料電池",
       "isNew": false,
       "rankChange": -19,
       "streak": 14
@@ -372,7 +372,7 @@
       "dollarVolume": 3520575088.4076986,
       "marketCap": 203986934475.83,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "行動晶片",
+      "theme": "手機晶片",
       "isNew": false,
       "rankChange": -11,
       "streak": 10
@@ -424,7 +424,7 @@
       "dollarVolume": 3389572736.828571,
       "marketCap": 39201408476.700005,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體 SaaS",
+      "theme": "雲端軟體",
       "isNew": false,
       "rankChange": 4,
       "streak": 3
@@ -437,7 +437,7 @@
       "dollarVolume": 3327188947.4300704,
       "marketCap": 449206220160,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體 SaaS",
+      "theme": "資料庫軟體",
       "isNew": false,
       "rankChange": -1,
       "streak": 134
@@ -476,7 +476,7 @@
       "dollarVolume": 2884156519.82226,
       "marketCap": 1096577431447.8501,
       "sector": "PHARMACEUTICAL PREPARATIONS",
-      "theme": "生技製藥",
+      "theme": "減肥藥 GLP-1",
       "isNew": false,
       "rankChange": 1,
       "streak": 3
@@ -580,7 +580,7 @@
       "dollarVolume": 2427652662.0525236,
       "marketCap": 706847731173.61,
       "sector": "FIRE, MARINE & CASUALTY INSURANCE",
-      "theme": "多元金融",
+      "theme": "多元控股",
       "isNew": false,
       "rankChange": -17,
       "streak": 5
@@ -652,45 +652,26 @@
     }
   ],
   "asOf": "2026-09-21T20:00:00.000Z",
-  "generatedAt": "2026-09-22T05:34:09.298Z",
+  "generatedAt": "2026-09-22T08:01:15.680Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "AI 晶片",
-      "reason": "AI技術的快速發展持續推動對高效能運算晶片的需求，相關公司業績展望樂觀。",
+      "reason": "市場持續看好AI技術發展帶動的晶片需求，相關公司營收與獲利預期強勁。",
       "symbols": [
         "AMD",
-        "NVDA"
+        "NVDA",
+        "INTC",
+        "AVGO",
+        "MRVL"
       ],
-      "count": 2,
-      "avgChange": 6.124316189742749
-    },
-    {
-      "theme": "生技製藥",
-      "reason": "新藥研發進展或市場對特定疾病治療需求增加，帶動相關藥廠股價上漲。",
-      "symbols": [
-        "MRNA",
-        "LLY"
-      ],
-      "count": 2,
-      "avgChange": 6.6534486869547536
-    },
-    {
-      "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型趨勢不減，對雲端服務及軟體解決方案的需求持續增長。",
-      "symbols": [
-        "MSFT",
-        "NBIS",
-        "CRWV",
-        "ORCL"
-      ],
-      "count": 4,
-      "avgChange": 2.843551959606335
+      "count": 5,
+      "avgChange": 6.234540984646128
     },
     {
       "theme": "比特幣/加密",
-      "reason": "加密貨幣市場情緒回暖，帶動相關概念股表現強勁。",
+      "reason": "比特幣價格波動與市場對加密貨幣生態系統的興趣，帶動相關概念股表現。",
       "symbols": [
         "MSTR",
         "COIN"
@@ -700,7 +681,7 @@
     },
     {
       "theme": "半導體設備",
-      "reason": "全球半導體產業擴張，晶圓廠投資增加，設備供應商訂單能見度高。",
+      "reason": "半導體產業擴張及技術升級，推動設備供應商訂單增加。",
       "symbols": [
         "AMAT",
         "LRCX",
@@ -710,37 +691,57 @@
       "avgChange": 3.7372990303130713
     },
     {
-      "theme": "儲存裝置",
-      "reason": "數據中心擴建及AI應用對儲存容量需求提升，帶動儲存裝置供應商表現。",
+      "theme": "記憶體",
+      "reason": "記憶體市場需求復甦，尤其HBM等高階產品在AI應用帶動下前景看好。",
       "symbols": [
-        "STX",
-        "WDC"
+        "MU",
+        "SKHY"
       ],
       "count": 2,
-      "avgChange": 1.8506136610597654
+      "avgChange": 1.7487662925772867
+    },
+    {
+      "theme": "串流媒體",
+      "reason": "串流媒體平台用戶增長及內容策略調整，吸引投資者關注。",
+      "symbols": [
+        "WBD",
+        "NFLX"
+      ],
+      "count": 2,
+      "avgChange": 6.489150509930538
+    },
+    {
+      "theme": "雲端軟體",
+      "reason": "企業數位轉型趨勢不變，雲端服務及軟體解決方案持續受青睞。",
+      "symbols": [
+        "NBIS",
+        "CRWV"
+      ],
+      "count": 2,
+      "avgChange": 4.572446784373981
     }
   ],
   "newEntrants": [
     {
       "symbol": "WBD",
       "name": "Warner Bros. Discovery, Inc. Series A Common Stock",
-      "theme": "媒體娛樂",
+      "theme": "串流媒體",
       "changePercent": 10.79136690647482,
-      "reason": "Paramount與多州達成和解，為其收購Warner Bros. Discovery掃清反壟斷障礙。"
+      "reason": "與Paramount Skydance併購案和解談判進展，並加碼加州投資激勵買盤。"
     },
     {
       "symbol": "ARM",
       "name": "Arm Holdings plc American Depositary Shares",
       "theme": "IP 設計",
       "changePercent": 17.15830339973149,
-      "reason": "CEO表示對AI晶片需求達20億美元目標更有信心，激勵股價。"
+      "reason": "2026財年營收及稅前利潤增長超預期，AI數據中心需求潛力獲看好。"
     },
     {
       "symbol": "MRNA",
       "name": "Moderna, Inc. Common Stock",
       "theme": "生技製藥",
       "changePercent": 12.26954037912231,
-      "reason": "Moderna與默沙東合作的mRNA癌症疫苗三期臨床數據樂觀。"
+      "reason": "股價創52週新高，市場對其生物科技突破與新冠疫苗研發有信心。"
     },
     {
       "symbol": "GEV",
@@ -754,14 +755,14 @@
       "name": "Coherent Corp.",
       "theme": "光學元件",
       "changePercent": 1.3108142172926545,
-      "reason": "推出PhotonLink整合光學平台，搶攻AI資料中心市場。"
+      "reason": "推出PhotonLink平台瞄準AI數據中心，光通訊展覽展示新技術獲法人看好。"
     },
     {
       "symbol": "SHOP",
       "name": "Shopify Inc. Class A subordinate voting shares",
       "theme": "電商軟體",
       "changePercent": 7.330739299610885,
-      "reason": "與Meta Platforms的Muse AI代理合作，強化AI購物體驗。"
+      "reason": "與Meta合作，其AI助理Muse將整合Shop Pay支付服務。"
     },
     {
       "symbol": "UNH",
