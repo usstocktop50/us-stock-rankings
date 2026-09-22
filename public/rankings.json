@@ -73,7 +73,7 @@
       "dollarVolume": 19621203177.460785,
       "marketCap": 78235298917.98,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "潔淨能源",
+      "theme": "氫能源",
       "isNew": false,
       "rankChange": 19,
       "streak": 13
@@ -190,7 +190,7 @@
       "dollarVolume": 13252277745.198706,
       "marketCap": 2736595616352.12,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電商與雲端",
+      "theme": "電子商務",
       "isNew": false,
       "rankChange": -3,
       "streak": 133
@@ -216,7 +216,7 @@
       "dollarVolume": 9915830076.12133,
       "marketCap": 413943839615.74,
       "sector": "PETROLEUM REFINING",
-      "theme": "石油與天然氣",
+      "theme": "石油天然氣",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -229,7 +229,7 @@
       "dollarVolume": 9733478989.458338,
       "marketCap": 186647572440.12,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "通訊晶片",
+      "theme": "無線通訊晶片",
       "isNew": false,
       "rankChange": 23,
       "streak": 9
@@ -307,7 +307,7 @@
       "dollarVolume": 7215931259.713158,
       "marketCap": 627607664073.26,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "金融支付",
+      "theme": "支付服務",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -385,7 +385,7 @@
       "dollarVolume": 6145735545.630501,
       "marketCap": 672462081938.4,
       "sector": "PETROLEUM REFINING",
-      "theme": "石油與天然氣",
+      "theme": "石油天然氣",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -565,7 +565,7 @@
       "price": 237.65,
       "changePercent": -3.2763532763532695,
       "dollarVolume": 4646435928.185071,
-      "marketCap": 243338115201.30002,
+      "marketCap": 243859756238.35,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
       "theme": "資安",
       "isNew": false,
@@ -652,25 +652,13 @@
     }
   ],
   "asOf": "2026-09-18T20:00:00.000Z",
-  "generatedAt": "2026-09-19T09:15:14.648Z",
+  "generatedAt": "2026-09-22T02:03:44.787Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
-      "theme": "儲存裝置",
-      "reason": "隨著數據量的爆炸性增長，市場對高效能和高容量儲存解決方案的需求持續強勁，帶動相關個股表現。",
-      "symbols": [
-        "SNDK",
-        "P",
-        "WDC",
-        "STX"
-      ],
-      "count": 4,
-      "avgChange": 5.5478558917494905
-    },
-    {
       "theme": "比特幣/加密",
-      "reason": "加密貨幣市場波動性大，但近期比特幣價格上漲及相關利好消息，吸引資金流入加密貨幣概念股。",
+      "reason": "比特幣價格近期波動劇烈，相關概念股受到市場資金追捧。",
       "symbols": [
         "MSTR",
         "COIN"
@@ -679,8 +667,20 @@
       "avgChange": 14.021407771563503
     },
     {
+      "theme": "儲存裝置",
+      "reason": "市場預期記憶體與儲存需求回溫，帶動相關供應商股價上漲。",
+      "symbols": [
+        "SNDK",
+        "WDC",
+        "STX",
+        "P"
+      ],
+      "count": 4,
+      "avgChange": 5.5478558917494905
+    },
+    {
       "theme": "半導體設備",
-      "reason": "全球半導體產業持續擴張，晶圓廠投資增加，帶動半導體設備供應商的訂單與營收成長。",
+      "reason": "全球半導體產業景氣復甦，資本支出增加，利好設備供應商。",
       "symbols": [
         "AMAT",
         "LRCX",
@@ -691,7 +691,7 @@
     },
     {
       "theme": "AI 晶片",
-      "reason": "人工智慧技術的快速發展，對高性能AI晶片的需求激增，相關供應商持續受市場追捧。",
+      "reason": "人工智慧應用持續擴張，對高性能AI晶片的需求強勁。",
       "symbols": [
         "NVDA",
         "AMD"
@@ -701,7 +701,7 @@
     },
     {
       "theme": "記憶體",
-      "reason": "記憶體市場需求回溫，加上供應商庫存去化良好，有助於產品價格穩定及獲利改善。",
+      "reason": "記憶體市場供需改善，價格預期上漲，帶動相關廠商表現。",
       "symbols": [
         "MU",
         "SKHY"
@@ -711,7 +711,7 @@
     },
     {
       "theme": "半導體",
-      "reason": "半導體產業整體景氣復甦，加上新技術應用帶動需求，使相關晶片製造商表現亮眼。",
+      "reason": "半導體產業整體展望樂觀，多數公司受惠於技術創新與需求增長。",
       "symbols": [
         "AVGO",
         "MRVL",
@@ -725,35 +725,35 @@
     {
       "symbol": "CVX",
       "name": "Chevron Corporation",
-      "theme": "石油與天然氣",
+      "theme": "石油天然氣",
       "changePercent": -0.9736730160230668,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "計劃五年內將委內瑞拉石油鑽機數量增加一倍，並強調全球液化天然氣需求增長。"
     },
     {
       "symbol": "ILMN",
       "name": "Illumina Inc",
       "theme": "基因定序",
       "changePercent": -2.267721673872258,
-      "reason": "華爾街分析師上調評級與目標價，加上將重新納入S&P 500指數。"
+      "reason": "因納入標普500指數，以及強勁的財報和財測上調，帶動股價上漲。"
     },
     {
       "symbol": "P",
       "name": "Everpure, Inc.",
       "theme": "儲存裝置",
       "changePercent": 0.14424463890759276,
-      "reason": "Needham研究報告首次涵蓋，並將加入S&P 500指數。"
+      "reason": "被納入標普500指數，並將舉辦2026年分析師會議。"
     },
     {
       "symbol": "V",
       "name": "VISA Inc.",
-      "theme": "金融支付",
+      "theme": "支付服務",
       "changePercent": -0.44332711594085,
-      "reason": "Visa擴展穩定幣、AI支付及車隊服務，獲分析師看好。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "XOM",
       "name": "ExxonMobil Holdings Corporation",
-      "theme": "石油與天然氣",
+      "theme": "石油天然氣",
       "changePercent": 0.1653702456054277,
       "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
@@ -762,35 +762,35 @@
       "name": "Texas Instruments Incorporated",
       "theme": "半導體",
       "changePercent": 3.292786859843496,
-      "reason": "德州儀器宣布調高季度現金股息7%，連續23年增加。"
+      "reason": "宣布將季度股息提高7%，並受工業、汽車和數據中心市場強勁需求支撐。"
     },
     {
       "symbol": "MRK",
       "name": "Merck & Co., Inc.",
       "theme": "生技製藥",
       "changePercent": -0.19028202514441123,
-      "reason": "默克與Moderna合作的mRNA癌症疫苗後期試驗數據積極。"
+      "reason": "Keytruda藥物在歐洲獲推薦批准，日本也批准皮下注射劑型。"
     },
     {
       "symbol": "CSCO",
       "name": "Cisco Systems, Inc. Common Stock (DE)",
       "theme": "網路設備",
       "changePercent": -0.6621915820028935,
-      "reason": "思科擴展AI工廠與NVIDIA合作，強化AI基礎設施。"
+      "reason": "受惠於人工智慧基礎設施建置需求，以及其在網路領域的領導地位。"
     },
     {
       "symbol": "JNJ",
       "name": "Johnson & Johnson",
       "theme": "生技製藥",
       "changePercent": -0.08511583154467403,
-      "reason": "嬌生推出針對罕見疾病的新療法，並調整340B藥品定價計畫。"
+      "reason": "Caplyta藥物在躁鬱症後期試驗成功，並可能出售骨科部門。"
     },
     {
       "symbol": "COIN",
       "name": "Coinbase Global, Inc. Class A Common Stock",
       "theme": "比特幣/加密",
       "changePercent": 11.657182272805656,
-      "reason": "比特幣價格上漲帶動加密貨幣相關股票走高。"
+      "reason": "比特幣ETF申請中被指定為監控共享協議合作夥伴，帶動股價飆升。"
     }
   ],
   "marketBriefing": {
