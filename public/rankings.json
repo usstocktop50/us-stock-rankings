@@ -8,7 +8,7 @@
       "dollarVolume": 35415275694.04734,
       "marketCap": 1634540481653.705,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "社群媒體/AI",
+      "theme": "AI/元宇宙",
       "isNew": false,
       "rankChange": 9,
       "streak": 134
@@ -60,7 +60,7 @@
       "dollarVolume": 23171395666.827217,
       "marketCap": 614258320000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "AI 晶片",
+      "theme": "半導體製造",
       "isNew": false,
       "rankChange": 3,
       "streak": 134
@@ -86,7 +86,7 @@
       "dollarVolume": 13932149577.051851,
       "marketCap": 3724727873740.5103,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體/AI",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": 0,
       "streak": 134
@@ -151,7 +151,7 @@
       "dollarVolume": 10805808123.515533,
       "marketCap": 2082963960000.0002,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "搜尋引擎/AI",
+      "theme": "AI/雲端",
       "isNew": false,
       "rankChange": 0,
       "streak": 134
@@ -164,7 +164,7 @@
       "dollarVolume": 9552546112.709454,
       "marketCap": 1731204606840.9001,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "AI 晶片",
+      "theme": "半導體網路",
       "isNew": false,
       "rankChange": 0,
       "streak": 134
@@ -203,7 +203,7 @@
       "dollarVolume": 6405148772.773051,
       "marketCap": 1939258490000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "搜尋引擎/AI",
+      "theme": "AI/雲端",
       "isNew": false,
       "rankChange": 0,
       "streak": 134
@@ -216,7 +216,7 @@
       "dollarVolume": 5466609924.673165,
       "marketCap": 225696522000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "AI 晶片",
+      "theme": "半導體網路",
       "isNew": false,
       "rankChange": 17,
       "streak": 124
@@ -294,7 +294,7 @@
       "dollarVolume": 4049488792.055172,
       "marketCap": 51091472486.4,
       "sector": "—",
-      "theme": "雲端服務",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": 20,
       "streak": 59
@@ -320,7 +320,7 @@
       "dollarVolume": 3977469913.849612,
       "marketCap": 80373567449.94,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "潔淨能源",
+      "theme": "清潔能源",
       "isNew": false,
       "rankChange": -19,
       "streak": 14
@@ -372,7 +372,7 @@
       "dollarVolume": 3520575088.4076986,
       "marketCap": 203986934475.83,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "手機晶片/物聯網",
+      "theme": "手機晶片",
       "isNew": false,
       "rankChange": -11,
       "streak": 10
@@ -424,7 +424,7 @@
       "dollarVolume": 3389572736.828571,
       "marketCap": 39201408476.700005,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端服務",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": 4,
       "streak": 3
@@ -437,7 +437,7 @@
       "dollarVolume": 3327188947.4300704,
       "marketCap": 449206220160,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "企業軟體",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": -1,
       "streak": 134
@@ -476,7 +476,7 @@
       "dollarVolume": 2884156519.82226,
       "marketCap": 1096577431447.8501,
       "sector": "PHARMACEUTICAL PREPARATIONS",
-      "theme": "減肥藥 GLP-1",
+      "theme": "生技製藥",
       "isNew": false,
       "rankChange": 1,
       "streak": 3
@@ -606,7 +606,7 @@
       "dollarVolume": 2257841838.4520454,
       "marketCap": 935787868087.8,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "商業銀行",
+      "theme": "銀行",
       "isNew": false,
       "rankChange": -20,
       "streak": 7
@@ -652,46 +652,27 @@
     }
   ],
   "asOf": "2026-09-21T20:00:00.000Z",
-  "generatedAt": "2026-09-22T09:47:41.555Z",
+  "generatedAt": "2026-09-23T02:05:24.148Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
-      "theme": "AI 晶片",
-      "reason": "AI技術的快速發展持續推動對高效能晶片的需求，市場預期相關公司業績將持續增長。",
+      "theme": "雲端軟體 SaaS",
+      "reason": "企業數位轉型需求持續，加上AI整合應用，推動雲端軟體服務商的成長潛力。",
       "symbols": [
-        "AMD",
-        "NVDA",
-        "INTC",
-        "AVGO",
-        "MRVL"
+        "MSFT",
+        "NBIS",
+        "CRWV",
+        "ORCL",
+        "CRWD",
+        "SHOP"
       ],
-      "count": 5,
-      "avgChange": 6.234540984646128
-    },
-    {
-      "theme": "比特幣/加密",
-      "reason": "比特幣價格波動帶動相關加密貨幣概念股的交易熱度，市場對其未來發展抱有期待。",
-      "symbols": [
-        "MSTR",
-        "COIN"
-      ],
-      "count": 2,
-      "avgChange": 6.486548361548369
-    },
-    {
-      "theme": "記憶體",
-      "reason": "AI應用對高頻寬記憶體（HBM）的需求激增，帶動整體記憶體產業景氣復甦。",
-      "symbols": [
-        "MU",
-        "SKHY"
-      ],
-      "count": 2,
-      "avgChange": 1.7487662925772867
+      "count": 6,
+      "avgChange": 3.9380255889994444
     },
     {
       "theme": "半導體設備",
-      "reason": "全球半導體產業擴張，晶圓廠投資增加，帶動半導體設備供應商的訂單成長。",
+      "reason": "全球半導體產業擴張，晶圓廠投資增加，帶動設備需求持續強勁。",
       "symbols": [
         "AMAT",
         "LRCX",
@@ -701,24 +682,44 @@
       "avgChange": 3.7372990303130713
     },
     {
-      "theme": "搜尋引擎/AI",
-      "reason": "大型科技公司持續投入AI研發與應用，市場看好其在AI領域的領先地位與商業化潛力。",
+      "theme": "AI 晶片",
+      "reason": "人工智慧應用快速發展，對高效能運算晶片的需求持續爆發性成長。",
       "symbols": [
-        "GOOGL",
-        "GOOG"
+        "AMD",
+        "NVDA"
       ],
       "count": 2,
-      "avgChange": 1.7145708566652038
+      "avgChange": 6.124316189742749
     },
     {
       "theme": "生技製藥",
-      "reason": "特定藥物研發進展或市場需求增長，吸引資金流入相關製藥公司。",
+      "reason": "新藥研發進展與市場對特定疾病治療需求增加，推動相關藥廠股價上漲。",
       "symbols": [
         "MRNA",
         "LLY"
       ],
       "count": 2,
       "avgChange": 6.6534486869547536
+    },
+    {
+      "theme": "比特幣/加密",
+      "reason": "加密貨幣市場波動，比特幣價格上漲帶動相關概念股表現。",
+      "symbols": [
+        "MSTR",
+        "COIN"
+      ],
+      "count": 2,
+      "avgChange": 6.486548361548369
+    },
+    {
+      "theme": "記憶體",
+      "reason": "記憶體市場需求回溫，特別是HBM等高階產品需求增加，推動相關廠商股價。",
+      "symbols": [
+        "MU",
+        "SKHY"
+      ],
+      "count": 2,
+      "avgChange": 1.7487662925772867
     }
   ],
   "newEntrants": [
@@ -727,42 +728,42 @@
       "name": "Warner Bros. Discovery, Inc. Series A Common Stock",
       "theme": "媒體娛樂",
       "changePercent": 10.79136690647482,
-      "reason": "Paramount Skydance與多州達成反壟斷和解，收購華納兄弟探索公司交易將完成。"
+      "reason": "派拉蒙與加州檢察長討論和解，掃清合併障礙，帶動股價上漲。"
     },
     {
       "symbol": "ARM",
       "name": "Arm Holdings plc American Depositary Shares",
       "theme": "IP 設計",
       "changePercent": 17.15830339973149,
-      "reason": "執行長Rene Haas表示對AI晶片需求信心增強，目標達20億美元營收。"
+      "reason": "CEO表示對AI晶片需求達20億美元更有信心，市場看好AI數據中心業務。"
     },
     {
       "symbol": "MRNA",
       "name": "Moderna, Inc. Common Stock",
       "theme": "生技製藥",
       "changePercent": 12.26954037912231,
-      "reason": "Moderna與默沙東合作的mRNA癌症疫苗三期臨床數據積極。"
+      "reason": "公司宣布癌症疫苗三期臨床數據將發表，市場預期升溫。"
     },
     {
       "symbol": "GEV",
       "name": "GE Vernova Inc.",
       "theme": "電力基礎建設",
       "changePercent": 0.6263758467771938,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "積壓訂單預計提前破2000億美元，AI與核能需求帶動。"
     },
     {
       "symbol": "COHR",
       "name": "Coherent Corp.",
       "theme": "光學元件",
       "changePercent": 1.3108142172926545,
-      "reason": "推出PhotonLink整合光學平台，瞄準AI資料中心基礎設施。"
+      "reason": "受惠於光通訊與AI硬體需求，推出新光互連方案。"
     },
     {
       "symbol": "SHOP",
       "name": "Shopify Inc. Class A subordinate voting shares",
       "theme": "電商軟體",
       "changePercent": 7.330739299610885,
-      "reason": "與Meta Platforms的Muse AI代理合作，將Shop Pay整合至AI結帳。"
+      "reason": "聯手Meta推AI支付，並受惠科技股反彈與AI功能整合。"
     },
     {
       "symbol": "UNH",
@@ -773,49 +774,54 @@
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI相關個股與族群的強勁表現。Meta Platforms (META) 由於其個人AI代理「Muse」的成功推出，股價大漲超過11%，並帶動了整體AI晶片股的買氣。AMD (Advanced Micro Devices) 受此利多影響，市值首次突破1兆美元，Intel (INTC) 和Nvidia (NVDA) 等AI晶片股也同步上漲。記憶體族群的Micron (MU) 和Sandisk (SNDK) 亦受惠於AI需求帶動的記憶體上行週期，表現不俗。整體市場故事圍繞著AI技術的快速發展及其對硬體需求的強勁拉動。",
+    "highlights": "本日美股成交重點聚焦於AI相關題材與併購消息。Meta Platforms (META) 因其AI助理Muse的成功推出，帶動了市場對AI商業化變現的強勁預期，同時也點燃了對CPU晶片需求的樂觀情緒，使得Intel (INTC) 和AMD (AMD) 等AI晶片股大漲。此外，記憶體族群如Micron Technology (MU) 也因市場對AI晶片需求的看好而表現強勁。華納兄弟探索 (WBD) 則受惠於其與Paramount Skydance (PSKY) 併購案的和解進展，推升股價大幅上揚。比特幣/加密貨幣族群則因MicroStrategy (MSTR) 大舉買進比特幣而受到資金追捧。",
     "eventsPast": [
       {
-        "title": "Meta Platforms (META) 推出個人AI代理「Muse」",
-        "detail": "Meta Platforms (META) 推出的個人AI代理「Muse」在美國iPhone App Store下載量居冠，引發市場對CPU需求的樂觀預期，帶動Meta股價大漲。"
+        "title": "Meta AI助理Muse成功推出",
+        "detail": "Meta Platforms (META) 的個人AI助理Muse上線後下載量和日活用戶數表現亮眼，超越ChatGPT同期數據，激勵股價大漲。"
       },
       {
-        "title": "AMD (Advanced Micro Devices) 市值突破1兆美元",
-        "detail": "受Meta AI代理Muse的成功影響，AMD股價大漲近10%，市值首次突破1兆美元，成為第14家達到此里程碑的美國企業。"
+        "title": "Intel與SK海力士洽談美國記憶體代工",
+        "detail": "市場傳出Intel (INTC) 可能與SK海力士合作，在美國興建NAND快閃記憶體晶片廠，提振Intel股價。"
       },
       {
-        "title": "Intel (INTC) 與SK Hynix洽談美國記憶體代工合作",
-        "detail": "路透社報導Intel正與SK Hynix商談在美國生產記憶體晶片，可能租用Intel俄亥俄州廠房或成立合資企業，此消息激勵Intel股價上漲。"
+        "title": "華納兄弟探索併購案和解進展",
+        "detail": "Warner Bros. Discovery (WBD) 與Paramount Skydance (PSKY) 的千億美元併購案傳出與加州檢察總長達成和解，有望加速交易完成。"
       },
       {
-        "title": "SanDisk (SNDK) 納入標普100指數",
-        "detail": "SanDisk Corporation (SNDK) 因被納入標普100指數，於9月21日開盤前生效，帶動股價上漲。"
+        "title": "MicroStrategy大舉買進比特幣",
+        "detail": "MicroStrategy (MSTR) 宣布在過去一週內買進950顆比特幣，總金額達7570萬美元，帶動比特幣/加密貨幣概念股上漲。"
       },
       {
-        "title": "聯準會重啟升息",
-        "detail": "聯準會上週重啟升息，將聯邦基金利率目標區間上調25個基點至3.75%-4.00%，市場預期下月再次升息機率達50%。"
+        "title": "聯準會升息一碼",
+        "detail": "美國聯準會 (Fed) 在9月16日將指標利率目標區間上調一碼至3.75%～4.00%，為三年多來首次升息。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "9/23",
+        "date": "9/23-9/24",
         "title": "Meta Connect 2026開發者大會",
-        "detail": "Meta Platforms (META) 將於9月23日舉辦為期兩天的開發者大會，預計將公布人工智慧、AI眼鏡、虛擬與混合實境等最新進展，市場預期將強調AI策略與產品路線圖。"
-      },
-      {
-        "date": "本週",
-        "title": "聯準會官員談話",
-        "detail": "本週至少有10名聯準會官員將發表談話，市場將密切關注其對未來利率政策的看法。"
-      },
-      {
-        "date": "本月下旬",
-        "title": "Micron Technology (MU) 第四財季財報",
-        "detail": "Micron Technology (MU) 將於本月下旬公布第四財季財報，市場預期將公布強勁的財務業績，並關注其對AI記憶體領域的押注。"
+        "detail": "Meta Platforms (META) 將舉辦為期兩天的開發者大會，預計將公布人工智慧、AI眼鏡、虛擬與混合實境等領域的最新進展。"
       },
       {
         "date": "9/30",
-        "title": "美國8月PCE個人消費支出物價指數",
-        "detail": "美國將於9月30日公布8月PCE個人消費支出物價指數，此數據為聯準會衡量通膨的重要指標。"
+        "title": "美光科技第四季財報",
+        "detail": "Micron Technology (MU) 將公布第四季財報，市場預期其營收將有顯著成長，但成長幅度可能較前幾季溫和。"
+      },
+      {
+        "date": "本週四",
+        "title": "川習會",
+        "detail": "市場預期美國總統川普與中國最高領導人將舉行會談，可能討論延長貿易休兵並協商AI管制。"
+      },
+      {
+        "date": "未來幾天",
+        "title": "聯準會官員談話",
+        "detail": "本週至少有10名聯準會官員將發表談話，市場將密切關注其對通膨和利率前景的看法。"
+      },
+      {
+        "date": "2027年下半年",
+        "title": "Intel 14A風險試產",
+        "detail": "Intel (INTC) 預計在2027年下半年啟動Intel 14A的風險試產計劃。"
       }
     ]
   }
