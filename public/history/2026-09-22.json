@@ -86,7 +86,7 @@
       "dollarVolume": 13271681176.608082,
       "marketCap": 624749840000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "CPU/PC",
       "isNew": false,
       "rankChange": -2,
       "streak": 135
@@ -112,7 +112,7 @@
       "dollarVolume": 10728272096.289896,
       "marketCap": 2750294234588.56,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電子商務/雲端服務",
+      "theme": "電商/雲端服務",
       "isNew": false,
       "rankChange": 2,
       "streak": 135
@@ -138,7 +138,7 @@
       "dollarVolume": 10583662474.257065,
       "marketCap": 2060606880000.0002,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "網路搜尋/雲端服務",
+      "theme": "搜尋引擎/雲端服務",
       "isNew": false,
       "rankChange": 1,
       "streak": 135
@@ -164,7 +164,7 @@
       "dollarVolume": 7479132060.743349,
       "marketCap": 1740179030987.1,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "網通晶片",
       "isNew": false,
       "rankChange": 0,
       "streak": 135
@@ -177,7 +177,7 @@
       "dollarVolume": 7075895619.604744,
       "marketCap": 1920135070000.0002,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "網路搜尋/雲端服務",
+      "theme": "搜尋引擎/雲端服務",
       "isNew": false,
       "rankChange": 2,
       "streak": 135
@@ -190,7 +190,7 @@
       "dollarVolume": 5434428023.143974,
       "marketCap": 173147585556.96,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "電腦硬體",
+      "theme": "PC/伺服器",
       "isNew": false,
       "rankChange": 4,
       "streak": 21
@@ -203,7 +203,7 @@
       "dollarVolume": 5224874466.885096,
       "marketCap": 230063484000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "網通晶片",
       "isNew": false,
       "rankChange": 1,
       "streak": 125
@@ -333,7 +333,7 @@
       "dollarVolume": 3770293469.4865427,
       "marketCap": 178556845783.80002,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "電子商務軟體",
+      "theme": "電商軟體 SaaS",
       "isNew": false,
       "rankChange": 22,
       "streak": 2
@@ -463,7 +463,7 @@
       "dollarVolume": 2862912352.205775,
       "marketCap": 1101519556039.1,
       "sector": "PHARMACEUTICAL PREPARATIONS",
-      "theme": "生技製藥",
+      "theme": "減肥藥 GLP-1",
       "isNew": false,
       "rankChange": 1,
       "streak": 4
@@ -528,7 +528,7 @@
       "dollarVolume": 2435724818.1592593,
       "marketCap": 355883842832,
       "sector": "—",
-      "theme": "半導體 IP",
+      "theme": "IP 設計",
       "isNew": false,
       "rankChange": -19,
       "streak": 2
@@ -606,7 +606,7 @@
       "dollarVolume": 2265450701.126072,
       "marketCap": 208229879516.67,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "無線通訊晶片",
+      "theme": "手機晶片",
       "isNew": false,
       "rankChange": -18,
       "streak": 11
@@ -632,7 +632,7 @@
       "dollarVolume": 2246884486.989738,
       "marketCap": 247864554457.26,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "類比IC",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -652,13 +652,23 @@
     }
   ],
   "asOf": "2026-09-22T20:00:00.000Z",
-  "generatedAt": "2026-09-23T05:21:41.351Z",
+  "generatedAt": "2026-09-23T08:03:49.923Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
+      "theme": "記憶體",
+      "reason": "AI 應用對高頻寬記憶體（HBM）的需求持續增長，帶動整體記憶體產業景氣復甦。",
+      "symbols": [
+        "MU",
+        "SKHY"
+      ],
+      "count": 2,
+      "avgChange": 4.223594677175927
+    },
+    {
       "theme": "儲存裝置",
-      "reason": "隨著AI應用對資料儲存需求增加，相關儲存裝置供應商受到市場關注。",
+      "reason": "隨著數據中心和個人儲存需求增加，儲存裝置廠商受惠於市場需求回溫。",
       "symbols": [
         "SNDK",
         "STX",
@@ -668,18 +678,8 @@
       "avgChange": 5.109065827070627
     },
     {
-      "theme": "記憶體",
-      "reason": "AI伺服器與HBM需求持續增長，帶動記憶體產業景氣復甦。",
-      "symbols": [
-        "MU",
-        "SKHY"
-      ],
-      "count": 2,
-      "avgChange": 4.223594677175927
-    },
-    {
       "theme": "半導體設備",
-      "reason": "全球半導體產業擴張，資本支出增加，利好半導體設備製造商。",
+      "reason": "全球半導體產業擴張，晶圓廠持續投資先進製程，推升設備需求。",
       "symbols": [
         "LRCX",
         "AMAT"
@@ -689,7 +689,7 @@
     },
     {
       "theme": "AI 晶片",
-      "reason": "AI技術快速發展，對高效能AI晶片的需求持續旺盛。",
+      "reason": "人工智慧技術的快速發展，持續推動對高效能 AI 晶片的需求。",
       "symbols": [
         "NVDA",
         "AMD"
@@ -699,7 +699,7 @@
     },
     {
       "theme": "生技製藥",
-      "reason": "特定藥物研發進展或市場需求預期，推動相關製藥公司股價上漲。",
+      "reason": "特定藥物研發進展或市場需求預期，帶動相關生技製藥公司股價上漲。",
       "symbols": [
         "MRNA",
         "LLY"
@@ -708,14 +708,13 @@
       "avgChange": 3.0066546029418717
     },
     {
-      "theme": "雲端服務",
-      "reason": "企業數位轉型趨勢不變，雲端服務需求持續增長，帶動相關公司表現。",
+      "theme": "電商軟體 SaaS",
+      "reason": "電子商務持續成長，提供電商平台解決方案的軟體服務公司表現亮眼。",
       "symbols": [
-        "NBIS",
-        "CRWV"
+        "SHOP"
       ],
-      "count": 2,
-      "avgChange": 1.4914734959149425
+      "count": 1,
+      "avgChange": 7.120069605568462
     }
   ],
   "newEntrants": [
@@ -724,88 +723,83 @@
       "name": "Palo Alto Networks, Inc. Common Stock",
       "theme": "資安",
       "changePercent": 0.7558639982784598,
-      "reason": "AI安全需求升溫，Palo Alto Networks第四季財報及財測優於預期。"
+      "reason": "AI資安需求激增，新AI防禦服務推出，財報與財測優於預期。"
     },
     {
       "symbol": "VLO",
       "name": "Valero Energy Corporation",
       "theme": "石油煉製",
       "changePercent": -4.101507869911256,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動，但有分析師下調評級。"
+      "reason": "煉油利潤強勁，但分析師下調評級且油價下跌導致獲利了結。"
     },
     {
       "symbol": "BAC",
       "name": "Bank of America Corporation",
       "theme": "銀行",
       "changePercent": -3.0365769496204247,
-      "reason": "執行長下調投行收入指引且聯準會升息，引發投資者擔憂。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "BKNG",
       "name": "Booking Holdings Inc. Common Stock",
       "theme": "線上旅遊",
       "changePercent": -2.5516259197721403,
-      "reason": "歐盟法院維持對收購ETraveli的禁令，且AI代理威脅線上旅遊業。"
+      "reason": "歐盟法院維持對eTraveli收購案的禁令，加上油價上漲影響旅遊業。"
     },
     {
       "symbol": "AZO",
       "name": "AutoZone, Inc.",
       "theme": "汽車零售",
       "changePercent": 3.263355034335148,
-      "reason": "第四季度EPS優於預期，但營收不及預期，市場反應分歧。"
+      "reason": "第四季度財報EPS優於預期，但營收與同店銷售未達標。"
     },
     {
       "symbol": "TXN",
       "name": "Texas Instruments Incorporated",
-      "theme": "半導體",
+      "theme": "類比IC",
       "changePercent": 0.1993576254291802,
-      "reason": "受惠於AI電力架構升級帶動功率半導體需求，國際大廠接力漲價。"
+      "reason": "受惠於AI基礎設施需求升溫，資料中心電源管理收入年增逾90%。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI相關晶片股、記憶體及儲存裝置類股。受Meta Platforms推出AI助理Muse的熱烈反應影響，市場對AI投資報酬的看好推升了相關晶片需求，帶動Nvidia、AMD、Intel等AI晶片股上漲，其中AMD市值更首度突破1兆美元大關。同時，記憶體與儲存裝置類股也受惠於AI需求，Micron Technology和Sandisk股價大漲。然而，Meta的Muse也引發市場對AI代理可能衝擊既有網路平台商業模式的疑慮，導致部分消費服務與平台股走弱，例如Amazon已禁止Muse在其平台購物。",
+    "highlights": "本日美股成交焦點集中在記憶體、儲存裝置和AI晶片等半導體相關族群，主要受惠於AI需求持續強勁，以及分析師對相關個股的樂觀評價。其中，Sandisk因獲得買進評級及高目標價而大漲，美光科技也因財報預期亮眼而表現強勢，顯示市場對AI基礎設施的需求故事持續追捧。部分消費性電子和雲端服務個股則呈現下跌，可能與市場對Meta AI助理Muse的競爭疑慮有關。",
     "eventsPast": [
       {
-        "title": "AMD市值首度突破1兆美元",
-        "detail": "受AI浪潮推動，AMD股價連續五天大漲，市值首次突破1兆美元，成為少數達到此里程碑的晶片製造商之一。"
+        "title": "Sandisk獲分析師喊買，目標價上看2400美元",
+        "detail": "Rosenblatt證券首次將Sandisk納入追蹤，給予「買進」評級，並將目標價設定為2400美元，主因其NAND型快閃記憶體產品對AI模型變得益發關鍵。"
       },
       {
-        "title": "Meta AI助理Muse引爆晶片股漲勢",
-        "detail": "Meta Platforms推出的AI助理Muse受到市場歡迎，市場預期AI服務對CPU的需求將大幅增加，帶動Intel、AMD等晶片股上漲。"
+        "title": "美光科技財報預期亮眼，股價領漲",
+        "detail": "美光科技股價連續第四個交易日上漲，市場分析師預計其第四季EPS將年增937%，營收年增349%，顯示對記憶體需求的強勁預期。"
       },
       {
-        "title": "Sandisk獲Rosenblatt喊進，股價大漲",
-        "detail": "記憶體指標股Sandisk因外資Rosenblatt看好其記憶體對AI模型的重要性，股價大漲近7%。"
+        "title": "聯準會升息一碼，暗示年底前可能再升息",
+        "detail": "聯邦公開市場委員會（FOMC）全票通過升息一碼（25個基點），將利率區間上調至3.75%–4%，並暗示年底前至少還會再升息一次。"
       },
       {
-        "title": "蘋果市值突破5兆美元",
-        "detail": "蘋果股價在近日交易中創下歷史新高，市值突破5兆美元大關，主要受iPhone 18 Pro系列強勁需求帶動。"
+        "title": "Meta AI助理Muse引發市場競爭疑慮",
+        "detail": "Meta Platforms的AI助理Muse取得成功，帶動AI相關晶片股走高，但也引發部分人士擔心Muse可能與零售商、網路券商及其他消費類企業形成競爭，導致部分科技股下跌。"
       },
       {
-        "title": "雲端服務商股價上揚",
-        "detail": "美股雲端計算服務商股價上揚，Nebius漲超5%，CoreWeave漲近3%，主要因雲廠商收入與積壓訂單同步加速，需求持續跑贏供給。"
+        "title": "美國總統川普表示將對半導體和藥品進口徵收關稅",
+        "detail": "美國總統川普表示計劃對半導體和藥品進口徵收25%的關稅和類似稅收，並希望為相關製造商提供時間在美國建立工廠以避免關稅。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "10/14",
-        "title": "美國CPI報告公布",
-        "detail": "美國勞工統計局將公布2026年9月的消費者物價指數（CPI）數據，此數據將影響市場對通膨和利率的預期。"
+        "date": "本週三 (9/23)",
+        "title": "美國多項經濟數據公布",
+        "detail": "美國將公布抵押貸款申請資料、PMI綜合採購經理人指數以及亞特蘭大聯邦儲備銀行的企業通脹預期調查結果，這些數據將影響投資者對未來市場走向的預期。"
       },
       {
-        "date": "10/28",
-        "title": "聯準會FOMC會議",
-        "detail": "聯邦公開市場委員會（FOMC）將召開會議並公布最新的利率決策與政策聲明，對全球資產定價具有重要影響。"
+        "date": "9/24",
+        "title": "川習二會",
+        "detail": "美國總統川普與中國國家主席習近平預計將在華盛頓特區舉行峰會，討論人工智慧(AI)、伊朗戰爭、關稅、稀土金屬等相關議題。"
       },
       {
-        "date": "本週四",
-        "title": "美中峰會",
-        "detail": "美國總統川普與中國國家主席習近平將舉行峰會，預計將討論AI監管、貿易休戰協議及關鍵礦產等經濟議題。"
-      },
-      {
-        "date": "未來幾天",
-        "title": "Amazon Web Services與NATO合作進展",
-        "detail": "Amazon Web Services首度獲準處理NATO RESTRICTED工作負載，此舉將加速各國在安全技術上的合作，未來幾天將對兩者關係產生深遠影響。"
+        "date": "9/30",
+        "title": "美光科技（MU）公布2026會計年度第四季財報",
+        "detail": "市場對美光科技的財報抱持高度期待，預計將公布亮眼的EPS和營收成長。"
       }
     ]
   }
