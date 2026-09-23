@@ -47,7 +47,7 @@
       "dollarVolume": 20937353635.038494,
       "marketCap": 1624286634086.855,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "社群媒體/元宇宙",
+      "theme": "社群媒體/廣告",
       "isNew": false,
       "rankChange": -3,
       "streak": 135
@@ -86,7 +86,7 @@
       "dollarVolume": 13271681176.608082,
       "marketCap": 624749840000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "CPU/PC",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": -2,
       "streak": 135
@@ -112,7 +112,7 @@
       "dollarVolume": 10728272096.289896,
       "marketCap": 2750294234588.56,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電商/雲端服務",
+      "theme": "電子商務/雲端",
       "isNew": false,
       "rankChange": 2,
       "streak": 135
@@ -138,7 +138,7 @@
       "dollarVolume": 10583662474.257065,
       "marketCap": 2060606880000.0002,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "搜尋引擎/雲端服務",
+      "theme": "搜尋引擎/雲端",
       "isNew": false,
       "rankChange": 1,
       "streak": 135
@@ -164,7 +164,7 @@
       "dollarVolume": 7479132060.743349,
       "marketCap": 1740179030987.1,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網通晶片",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": 0,
       "streak": 135
@@ -177,7 +177,7 @@
       "dollarVolume": 7075895619.604744,
       "marketCap": 1920135070000.0002,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "搜尋引擎/雲端服務",
+      "theme": "搜尋引擎/雲端",
       "isNew": false,
       "rankChange": 2,
       "streak": 135
@@ -190,7 +190,7 @@
       "dollarVolume": 5434428023.143974,
       "marketCap": 173147585556.96,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "PC/伺服器",
+      "theme": "電子電腦",
       "isNew": false,
       "rankChange": 4,
       "streak": 21
@@ -203,7 +203,7 @@
       "dollarVolume": 5224874466.885096,
       "marketCap": 230063484000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網通晶片",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": 1,
       "streak": 125
@@ -242,7 +242,7 @@
       "dollarVolume": 4693539592.783228,
       "marketCap": 451141411199.99994,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "企業軟體",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": 15,
       "streak": 135
@@ -333,7 +333,7 @@
       "dollarVolume": 3770293469.4865427,
       "marketCap": 178556845783.80002,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "電商軟體 SaaS",
+      "theme": "電子商務軟體",
       "isNew": false,
       "rankChange": 22,
       "streak": 2
@@ -528,7 +528,7 @@
       "dollarVolume": 2435724818.1592593,
       "marketCap": 355883842832,
       "sector": "—",
-      "theme": "IP 設計",
+      "theme": "半導體 IP",
       "isNew": false,
       "rankChange": -19,
       "streak": 2
@@ -606,7 +606,7 @@
       "dollarVolume": 2265450701.126072,
       "marketCap": 208229879516.67,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "手機晶片",
+      "theme": "無線通訊晶片",
       "isNew": false,
       "rankChange": -18,
       "streak": 11
@@ -632,7 +632,7 @@
       "dollarVolume": 2246884486.989738,
       "marketCap": 247864554457.26,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "類比IC",
+      "theme": "半導體",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -652,23 +652,13 @@
     }
   ],
   "asOf": "2026-09-22T20:00:00.000Z",
-  "generatedAt": "2026-09-23T08:03:49.923Z",
+  "generatedAt": "2026-09-23T09:55:21.431Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
-      "theme": "記憶體",
-      "reason": "AI 應用對高頻寬記憶體（HBM）的需求持續增長，帶動整體記憶體產業景氣復甦。",
-      "symbols": [
-        "MU",
-        "SKHY"
-      ],
-      "count": 2,
-      "avgChange": 4.223594677175927
-    },
-    {
       "theme": "儲存裝置",
-      "reason": "隨著數據中心和個人儲存需求增加，儲存裝置廠商受惠於市場需求回溫。",
+      "reason": "隨著AI應用對資料儲存需求增加，相關儲存裝置供應商受到市場關注。",
       "symbols": [
         "SNDK",
         "STX",
@@ -678,8 +668,30 @@
       "avgChange": 5.109065827070627
     },
     {
+      "theme": "記憶體",
+      "reason": "AI發展帶動高頻寬記憶體（HBM）需求，記憶體產業景氣復甦。",
+      "symbols": [
+        "MU",
+        "SKHY"
+      ],
+      "count": 2,
+      "avgChange": 4.223594677175927
+    },
+    {
+      "theme": "半導體",
+      "reason": "半導體產業受惠於AI晶片需求與整體科技股回溫，市場前景看好。",
+      "symbols": [
+        "INTC",
+        "MRVL",
+        "AVGO",
+        "TXN"
+      ],
+      "count": 4,
+      "avgChange": 1.0901574530252516
+    },
+    {
       "theme": "半導體設備",
-      "reason": "全球半導體產業擴張，晶圓廠持續投資先進製程，推升設備需求。",
+      "reason": "半導體產業擴張帶動設備需求，相關供應商訂單能見度高。",
       "symbols": [
         "LRCX",
         "AMAT"
@@ -689,7 +701,7 @@
     },
     {
       "theme": "AI 晶片",
-      "reason": "人工智慧技術的快速發展，持續推動對高效能 AI 晶片的需求。",
+      "reason": "AI技術持續發展，對高效能AI晶片的需求不斷增長，推動相關公司股價。",
       "symbols": [
         "NVDA",
         "AMD"
@@ -699,22 +711,12 @@
     },
     {
       "theme": "生技製藥",
-      "reason": "特定藥物研發進展或市場需求預期，帶動相關生技製藥公司股價上漲。",
+      "reason": "特定藥物研發進展或市場需求增長，帶動相關生技製藥公司表現。",
       "symbols": [
-        "MRNA",
-        "LLY"
-      ],
-      "count": 2,
-      "avgChange": 3.0066546029418717
-    },
-    {
-      "theme": "電商軟體 SaaS",
-      "reason": "電子商務持續成長，提供電商平台解決方案的軟體服務公司表現亮眼。",
-      "symbols": [
-        "SHOP"
+        "MRNA"
       ],
       "count": 1,
-      "avgChange": 7.120069605568462
+      "avgChange": 5.562622874985547
     }
   ],
   "newEntrants": [
@@ -723,14 +725,14 @@
       "name": "Palo Alto Networks, Inc. Common Stock",
       "theme": "資安",
       "changePercent": 0.7558639982784598,
-      "reason": "AI資安需求激增，新AI防禦服務推出，財報與財測優於預期。"
+      "reason": "Palo Alto Networks推出AI資安服務，利用AI模型持續偵測漏洞。"
     },
     {
       "symbol": "VLO",
       "name": "Valero Energy Corporation",
       "theme": "石油煉製",
       "changePercent": -4.101507869911256,
-      "reason": "煉油利潤強勁，但分析師下調評級且油價下跌導致獲利了結。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "BAC",
@@ -744,21 +746,21 @@
       "name": "Booking Holdings Inc. Common Stock",
       "theme": "線上旅遊",
       "changePercent": -2.5516259197721403,
-      "reason": "歐盟法院維持對eTraveli收購案的禁令，加上油價上漲影響旅遊業。"
+      "reason": "歐盟法院維持對其收購eTraveli的禁令，加上油價上漲和升息擔憂。"
     },
     {
       "symbol": "AZO",
       "name": "AutoZone, Inc.",
       "theme": "汽車零售",
       "changePercent": 3.263355034335148,
-      "reason": "第四季度財報EPS優於預期，但營收與同店銷售未達標。"
+      "reason": "第四季財報EPS優於預期，但營收和同店銷售未達標。"
     },
     {
       "symbol": "TXN",
       "name": "Texas Instruments Incorporated",
-      "theme": "類比IC",
+      "theme": "半導體",
       "changePercent": 0.1993576254291802,
-      "reason": "受惠於AI基礎設施需求升溫，資料中心電源管理收入年增逾90%。"
+      "reason": "宣布將季度現金股息提高7%，連續23年增加。"
     }
   ],
   "marketBriefing": {
