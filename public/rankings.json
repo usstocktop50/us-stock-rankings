@@ -47,7 +47,7 @@
       "dollarVolume": 20937353635.038494,
       "marketCap": 1624286634086.855,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "社群媒體/廣告",
+      "theme": "社群媒體",
       "isNew": false,
       "rankChange": -3,
       "streak": 135
@@ -112,7 +112,7 @@
       "dollarVolume": 10728272096.289896,
       "marketCap": 2750294234588.56,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電子商務/雲端",
+      "theme": "電子商務",
       "isNew": false,
       "rankChange": 2,
       "streak": 135
@@ -138,7 +138,7 @@
       "dollarVolume": 10583662474.257065,
       "marketCap": 2060606880000.0002,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "搜尋引擎/雲端",
+      "theme": "網路服務",
       "isNew": false,
       "rankChange": 1,
       "streak": 135
@@ -177,7 +177,7 @@
       "dollarVolume": 7075895619.604744,
       "marketCap": 1920135070000.0002,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "搜尋引擎/雲端",
+      "theme": "網路服務",
       "isNew": false,
       "rankChange": 2,
       "streak": 135
@@ -190,7 +190,7 @@
       "dollarVolume": 5434428023.143974,
       "marketCap": 173147585556.96,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "電子電腦",
+      "theme": "電腦硬體",
       "isNew": false,
       "rankChange": 4,
       "streak": 21
@@ -281,7 +281,7 @@
       "dollarVolume": 4052496801.0854316,
       "marketCap": 425608958731.71,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "大數據/AI 軟體",
+      "theme": "大數據分析",
       "isNew": false,
       "rankChange": 2,
       "streak": 135
@@ -437,7 +437,7 @@
       "dollarVolume": 2937527375.7114205,
       "marketCap": 81445646989.37999,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "燃料電池",
+      "theme": "潔淨能源",
       "isNew": false,
       "rankChange": -9,
       "streak": 15
@@ -463,7 +463,7 @@
       "dollarVolume": 2862912352.205775,
       "marketCap": 1101519556039.1,
       "sector": "PHARMACEUTICAL PREPARATIONS",
-      "theme": "減肥藥 GLP-1",
+      "theme": "生技製藥",
       "isNew": false,
       "rankChange": 1,
       "streak": 4
@@ -528,7 +528,7 @@
       "dollarVolume": 2435724818.1592593,
       "marketCap": 355883842832,
       "sector": "—",
-      "theme": "半導體 IP",
+      "theme": "IP 設計",
       "isNew": false,
       "rankChange": -19,
       "streak": 2
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-09-22T20:00:00.000Z",
-  "generatedAt": "2026-09-23T09:55:21.431Z",
+  "generatedAt": "2026-09-24T02:05:27.818Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "儲存裝置",
-      "reason": "隨著AI應用對資料儲存需求增加，相關儲存裝置供應商受到市場關注。",
+      "reason": "AI 發展帶動資料儲存需求激增，市場預期相關供應商將受惠於新技術應用。",
       "symbols": [
         "SNDK",
         "STX",
@@ -669,7 +669,7 @@
     },
     {
       "theme": "記憶體",
-      "reason": "AI發展帶動高頻寬記憶體（HBM）需求，記憶體產業景氣復甦。",
+      "reason": "AI 伺服器對高頻寬記憶體（HBM）的需求持續增長，推動整體記憶體市場復甦。",
       "symbols": [
         "MU",
         "SKHY"
@@ -678,20 +678,8 @@
       "avgChange": 4.223594677175927
     },
     {
-      "theme": "半導體",
-      "reason": "半導體產業受惠於AI晶片需求與整體科技股回溫，市場前景看好。",
-      "symbols": [
-        "INTC",
-        "MRVL",
-        "AVGO",
-        "TXN"
-      ],
-      "count": 4,
-      "avgChange": 1.0901574530252516
-    },
-    {
       "theme": "半導體設備",
-      "reason": "半導體產業擴張帶動設備需求，相關供應商訂單能見度高。",
+      "reason": "全球晶圓廠擴建及技術升級，對半導體製造設備的需求保持強勁。",
       "symbols": [
         "LRCX",
         "AMAT"
@@ -700,8 +688,18 @@
       "avgChange": 2.32107286820178
     },
     {
+      "theme": "生技製藥",
+      "reason": "特定藥物研發進展或市場需求預期，吸引資金流入生技製藥板塊。",
+      "symbols": [
+        "MRNA",
+        "LLY"
+      ],
+      "count": 2,
+      "avgChange": 3.0066546029418717
+    },
+    {
       "theme": "AI 晶片",
-      "reason": "AI技術持續發展，對高效能AI晶片的需求不斷增長，推動相關公司股價。",
+      "reason": "AI 技術持續快速發展，對高效能運算晶片的需求不斷攀升。",
       "symbols": [
         "NVDA",
         "AMD"
@@ -710,13 +708,15 @@
       "avgChange": 0.9978104150801331
     },
     {
-      "theme": "生技製藥",
-      "reason": "特定藥物研發進展或市場需求增長，帶動相關生技製藥公司表現。",
+      "theme": "雲端服務",
+      "reason": "企業數位轉型加速，對雲端基礎設施和服務的需求持續增長。",
       "symbols": [
-        "MRNA"
+        "SPCX",
+        "NBIS",
+        "CRWV"
       ],
-      "count": 1,
-      "avgChange": 5.562622874985547
+      "count": 3,
+      "avgChange": 1.6243233469638205
     }
   ],
   "newEntrants": [
@@ -725,7 +725,7 @@
       "name": "Palo Alto Networks, Inc. Common Stock",
       "theme": "資安",
       "changePercent": 0.7558639982784598,
-      "reason": "Palo Alto Networks推出AI資安服務，利用AI模型持續偵測漏洞。"
+      "reason": "推出AI資安服務，強化企業平台化策略。"
     },
     {
       "symbol": "VLO",
@@ -746,62 +746,72 @@
       "name": "Booking Holdings Inc. Common Stock",
       "theme": "線上旅遊",
       "changePercent": -2.5516259197721403,
-      "reason": "歐盟法院維持對其收購eTraveli的禁令，加上油價上漲和升息擔憂。"
+      "reason": "受AI旅遊工具競爭與歐盟反壟斷裁決影響。"
     },
     {
       "symbol": "AZO",
       "name": "AutoZone, Inc.",
       "theme": "汽車零售",
       "changePercent": 3.263355034335148,
-      "reason": "第四季財報EPS優於預期，但營收和同店銷售未達標。"
+      "reason": "第四季財報獲利超預期，但營收未達標。"
     },
     {
       "symbol": "TXN",
       "name": "Texas Instruments Incorporated",
       "theme": "半導體",
       "changePercent": 0.1993576254291802,
-      "reason": "宣布將季度現金股息提高7%，連續23年增加。"
+      "reason": "受惠類比半導體、AI基礎設施與機器人需求。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交焦點集中在記憶體、儲存裝置和AI晶片等半導體相關族群，主要受惠於AI需求持續強勁，以及分析師對相關個股的樂觀評價。其中，Sandisk因獲得買進評級及高目標價而大漲，美光科技也因財報預期亮眼而表現強勢，顯示市場對AI基礎設施的需求故事持續追捧。部分消費性電子和雲端服務個股則呈現下跌，可能與市場對Meta AI助理Muse的競爭疑慮有關。",
+    "highlights": "本日美股成交重點聚焦於AI相關題材，尤其是記憶體和儲存裝置類股表現強勁。資金集中在這些族群，主要受惠於市場對AI發展的樂觀預期，特別是Nvidia執行長黃仁勳對記憶體市場供不應求的喊話，以及AI股神Aschenbrenner可能重返AI押注的傳聞，帶動了相關個股如SNDK和MU的成交量。此外，大型科技公司如微軟和亞馬遜也因企業加速部署生成式AI和雲端服務而持續受惠。",
     "eventsPast": [
       {
-        "title": "Sandisk獲分析師喊買，目標價上看2400美元",
-        "detail": "Rosenblatt證券首次將Sandisk納入追蹤，給予「買進」評級，並將目標價設定為2400美元，主因其NAND型快閃記憶體產品對AI模型變得益發關鍵。"
+        "title": "SanDisk暴漲11%，記憶體和晶片股短期選擇權爆巨量",
+        "detail": "美股AI與半導體類股出現近億美元短天期看漲期權交易，市場猜測「AI股神」Aschenbrenner重返AI押注，帶動SanDisk、美光、英特爾等股價上漲。"
       },
       {
-        "title": "美光科技財報預期亮眼，股價領漲",
-        "detail": "美光科技股價連續第四個交易日上漲，市場分析師預計其第四季EPS將年增937%，營收年增349%，顯示對記憶體需求的強勁預期。"
+        "title": "美光科技預期獲利與營收超乎預期",
+        "detail": "美光科技預測季度利潤和收入遠高於華爾街預期，其股價飆升，市值一度超越Meta和Tesla。"
       },
       {
-        "title": "聯準會升息一碼，暗示年底前可能再升息",
-        "detail": "聯邦公開市場委員會（FOMC）全票通過升息一碼（25個基點），將利率區間上調至3.75%–4%，並暗示年底前至少還會再升息一次。"
+        "title": "記憶體與儲存類股回神",
+        "detail": "美光、SK海力士、Sandisk等記憶體與儲存類股在經歷拉回後強勁反彈，投資人預期半導體業者財報將優於預期並調高財測。"
       },
       {
-        "title": "Meta AI助理Muse引發市場競爭疑慮",
-        "detail": "Meta Platforms的AI助理Muse取得成功，帶動AI相關晶片股走高，但也引發部分人士擔心Muse可能與零售商、網路券商及其他消費類企業形成競爭，導致部分科技股下跌。"
+        "title": "戴爾(DELL)獲利狂飆400%",
+        "detail": "戴爾（DELL）因AI概念股受到價值型投資者青睞，獲利表現亮眼。"
       },
       {
-        "title": "美國總統川普表示將對半導體和藥品進口徵收關稅",
-        "detail": "美國總統川普表示計劃對半導體和藥品進口徵收25%的關稅和類似稅收，並希望為相關製造商提供時間在美國建立工廠以避免關稅。"
+        "title": "高通財測不如預期，股價盤後重挫",
+        "detail": "高通（QCOM）公布最新財報，營收和EPS高於預期，但因全球記憶體短缺影響財測，導致盤後股價重挫。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "本週三 (9/23)",
-        "title": "美國多項經濟數據公布",
-        "detail": "美國將公布抵押貸款申請資料、PMI綜合採購經理人指數以及亞特蘭大聯邦儲備銀行的企業通脹預期調查結果，這些數據將影響投資者對未來市場走向的預期。"
+        "date": "9/26",
+        "title": "美國個人消費支出物價指數 (PCE)",
+        "detail": "PCE是聯準會偏好的通膨指標，其數據將影響市場對未來利率政策的預期。"
       },
       {
-        "date": "9/24",
-        "title": "川習二會",
-        "detail": "美國總統川普與中國國家主席習近平預計將在華盛頓特區舉行峰會，討論人工智慧(AI)、伊朗戰爭、關稅、稀土金屬等相關議題。"
+        "date": "本週四",
+        "title": "美國初請失業金人數",
+        "detail": "此數據反映勞動市場狀況，是聯準會評估經濟健康狀況的重要指標之一。"
       },
       {
-        "date": "9/30",
-        "title": "美光科技（MU）公布2026會計年度第四季財報",
-        "detail": "市場對美光科技的財報抱持高度期待，預計將公布亮眼的EPS和營收成長。"
+        "date": "本週五",
+        "title": "美國密西根大學消費者信心指數",
+        "detail": "此數據衡量消費者對經濟前景的看法，可能影響消費支出。"
+      },
+      {
+        "date": "10/10",
+        "title": "美國生產者物價指數 (PPI)",
+        "detail": "PPI是衡量生產者端物價變化的指標，可作為預測未來消費者物價指數 (CPI) 的參考。"
+      },
+      {
+        "date": "10/11",
+        "title": "美國消費者物價指數 (CPI)",
+        "detail": "CPI是衡量通膨的關鍵指標，對聯準會的貨幣政策決策具有重大影響。"
       }
     ]
   }
