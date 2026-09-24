@@ -86,7 +86,7 @@
       "dollarVolume": 11041356495.813484,
       "marketCap": 2688704384092.44,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電子商務",
+      "theme": "電商",
       "isNew": false,
       "rankChange": 2,
       "streak": 136
@@ -190,7 +190,7 @@
       "dollarVolume": 6705376251.579757,
       "marketCap": 441253809368.91,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "大數據分析",
+      "theme": "數據分析軟體",
       "isNew": false,
       "rankChange": 7,
       "streak": 136
@@ -203,7 +203,7 @@
       "dollarVolume": 4568006207.612011,
       "marketCap": 173434629758.04,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "電子電腦",
+      "theme": "電腦硬體",
       "isNew": false,
       "rankChange": -1,
       "streak": 22
@@ -281,7 +281,7 @@
       "dollarVolume": 3415967700.2057443,
       "marketCap": 77229233938.64,
       "sector": "CABLE & OTHER PAY TELEVISION SERVICES",
-      "theme": "影音串流",
+      "theme": "媒體娛樂",
       "isNew": false,
       "rankChange": 8,
       "streak": 3
@@ -294,7 +294,7 @@
       "dollarVolume": 3310073637.5444493,
       "marketCap": 437111276160,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體 SaaS",
+      "theme": "資料庫軟體",
       "isNew": false,
       "rankChange": -4,
       "streak": 136
@@ -359,7 +359,7 @@
       "dollarVolume": 2968865003.3018928,
       "marketCap": 172030468585.80002,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "電子商務軟體",
+      "theme": "電商軟體",
       "isNew": false,
       "rankChange": -2,
       "streak": 3
@@ -515,7 +515,7 @@
       "dollarVolume": 2375081307.379021,
       "marketCap": 97010329711.8,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "證券經紀",
+      "theme": "券商",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -541,7 +541,7 @@
       "dollarVolume": 2348971342.3079925,
       "marketCap": 300482582958.08,
       "sector": "SERVICES-VIDEO TAPE RENTAL",
-      "theme": "影音串流",
+      "theme": "串流媒體",
       "isNew": false,
       "rankChange": -2,
       "streak": 9
@@ -554,7 +554,7 @@
       "dollarVolume": 2307102998.5373764,
       "marketCap": 355200272425.6,
       "sector": "—",
-      "theme": "半導體IP",
+      "theme": "晶片設計",
       "isNew": false,
       "rankChange": -2,
       "streak": 3
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-09-23T20:00:00.000Z",
-  "generatedAt": "2026-09-24T05:33:25.770Z",
+  "generatedAt": "2026-09-24T07:53:18.596Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "資安",
-      "reason": "隨著網路攻擊日益頻繁，企業對於網路安全解決方案的需求持續增長，帶動資安類股表現強勁。",
+      "reason": "網路安全威脅日益增加，企業對資安解決方案的需求持續成長，帶動相關軟體服務股表現。",
       "symbols": [
         "CRWD",
         "PANW"
@@ -668,19 +668,18 @@
     },
     {
       "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型趨勢不變，雲端軟體服務持續受到青睞，相關公司業績展望良好。",
+      "reason": "企業數位轉型趨勢不變，對雲端軟體服務的需求持續支撐相關個股表現。",
       "symbols": [
         "MSFT",
-        "PLTR",
         "CRM",
         "CRWV"
       ],
-      "count": 4,
-      "avgChange": 1.5501494601769699
+      "count": 3,
+      "avgChange": 0.8415744897067454
     },
     {
       "theme": "量子運算",
-      "reason": "量子運算技術被視為下一代科技突破的關鍵領域，儘管仍處於早期階段，但市場對其潛力抱持高度期待。",
+      "reason": "量子運算技術被視為下一代運算突破口，儘管仍處於早期階段，但市場對其未來潛力抱有期待。",
       "symbols": [
         "IONQ"
       ],
@@ -688,8 +687,17 @@
       "avgChange": 4.418262150220905
     },
     {
+      "theme": "數據分析軟體",
+      "reason": "企業對數據分析和決策支援工具的需求不斷增加，推動相關軟體公司成長。",
+      "symbols": [
+        "PLTR"
+      ],
+      "count": 1,
+      "avgChange": 3.6758743715876436
+    },
+    {
       "theme": "儲存裝置",
-      "reason": "AI與大數據應用推動資料儲存需求增長，儲存裝置相關廠商受惠於市場對高效能儲存解決方案的需求。",
+      "reason": "數據量的爆炸性成長持續推動對高效能儲存解決方案的需求。",
       "symbols": [
         "STX",
         "WDC"
@@ -698,22 +706,13 @@
       "avgChange": 1.1967771332632482
     },
     {
-      "theme": "電動車",
-      "reason": "儘管市場競爭激烈，但電動車長期發展趨勢不變，部分指標性公司仍能吸引資金關注。",
+      "theme": "社群媒體",
+      "reason": "社群媒體平台持續透過廣告和新功能拓展營收來源，吸引資金關注。",
       "symbols": [
-        "TSLA"
+        "META"
       ],
       "count": 1,
-      "avgChange": 0.321984692531018
-    },
-    {
-      "theme": "半導體設備",
-      "reason": "半導體產業長期擴張趨勢不變，晶圓廠投資持續，帶動半導體設備供應商的訂單需求。",
-      "symbols": [
-        "AMAT"
-      ],
-      "count": 1,
-      "avgChange": 0.40638360919443256
+      "avgChange": 1.0188774021002036
     }
   ],
   "newEntrants": [
@@ -722,57 +721,93 @@
       "name": "McDonald's Corporation",
       "theme": "速食餐飲",
       "changePercent": -4.805272618334333,
-      "reason": "麥當勞宣布85億美元特許經營商支援計畫，但短期現金流引發市場擔憂。"
+      "reason": "宣布85億美元特許經營商支援計畫，但投資者擔憂短期效益導致股價下跌。"
     },
     {
       "symbol": "IONQ",
       "name": "IonQ, Inc.",
       "theme": "量子運算",
       "changePercent": 4.418262150220905,
-      "reason": "IonQ宣布量子錯誤修正技術突破，並與NVIDIA合作，推動股價上漲。"
+      "reason": "量子錯誤修正技術突破，並與NVIDIA合作，推動股價上漲。"
     },
     {
       "symbol": "WMT",
       "name": "Walmart Inc. Common Stock",
       "theme": "零售百貨",
       "changePercent": 0.3723211042499061,
-      "reason": "沃爾瑪領導層將參與投資者活動，並持續投資電商與AI。"
+      "reason": "受惠於零售媒體、全通路營運及AI動能，股價上漲。"
     },
     {
       "symbol": "HOOD",
       "name": "Robinhood Markets, Inc. Class A Common Stock",
-      "theme": "證券經紀",
+      "theme": "券商",
       "changePercent": -1.2474849094567382,
-      "reason": "Robinhood宣布與OG.com合作推出預測市場平台，並公布8月營運數據。"
+      "reason": "分析師看好其預測市場業務及加密貨幣市場回升。"
     },
     {
       "symbol": "CAT",
       "name": "Caterpillar Inc.",
       "theme": "重型機械",
       "changePercent": 0.49628098662145165,
-      "reason": "Caterpillar擴展與Luck Stone的自動駕駛運輸合作，並推進AI工業創新。"
+      "reason": "擴大自動化運輸合作夥伴關係，且AI資料中心需求推動能源部門成長。"
     },
     {
       "symbol": "ASML",
       "name": "ASML Holding NV",
       "theme": "半導體設備",
       "changePercent": -0.18822587104526523,
-      "reason": "ASML持續進行庫藏股計畫，並與Intel、Samsung擴大合作。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "APP",
       "name": "Applovin Corporation Class A Common Stock",
       "theme": "廣告科技",
       "changePercent": -4.100629696103191,
-      "reason": "AppLovin因AI模型強度遭證券詐欺訴訟，股價受壓。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "ABNB",
       "name": "Airbnb, Inc. Class A Common Stock",
       "theme": "線上旅遊",
       "changePercent": -7.5582473271120385,
-      "reason": "Airbnb執行長表示AI是公司成長關鍵，但近期無明確個股消息。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     }
   ],
-  "marketBriefing": null
+  "marketBriefing": {
+    "highlights": "本日美股成交重點集中在AI相關題材，尤其記憶體和半導體族群表現強勁，那斯達克指數連續兩日創歷史新高。資金主要流向受惠於AI需求爆炸的硬體與晶片公司，例如美光 (MU) 和SanDisk (SNDK) 因NAND快閃記憶體在AI基礎設施中的關鍵性而大漲。此外，Meta (META) 推出AI助理Muse也點燃市場對AI應用的熱情，但同時引發對AI代理對現有平台商業模式衝擊的擔憂。資安族群 (CRWD, PANW) 也因AI帶來的網路攻擊增加而需求升溫，顯示市場正在交易AI技術發展帶來的硬體升級與安全防護需求的故事。",
+    "eventsPast": [
+      {
+        "title": "記憶體與半導體股飆漲",
+        "detail": "美光 (MU) 大漲5%，SanDisk (SNDK) 狂飆近7%，費城半導體指數勁揚2.06%，創7月10日以來收盤新高，主要受AI需求推動。"
+      },
+      {
+        "title": "Meta AI助理Muse引發市場關注",
+        "detail": "Meta Platforms (META) 推出的AI助理Muse登上蘋果應用商店榜首，點燃市場對AI投資熱潮，但也引發AI代理可能對現有網路平台商業模式造成競爭壓力的擔憂，亞馬遜 (AMZN) 已禁止Muse透過其平台購物。"
+      },
+      {
+        "title": "量子運算技術突破",
+        "detail": "IonQ (IONQ) 宣布在量子糾錯領域取得重大突破，其系統能利用單一標準CPU偵測並修正錯誤，並將其Superion 256量子電腦安裝在輝達 (NVDA) 的加速量子研究中心。"
+      },
+      {
+        "title": "資安需求因AI威脅升溫",
+        "detail": "CrowdStrike (CRWD) 和Palo Alto Networks (PANW) 等資安概念股因網路安全威脅日益嚴重，市場對防護軟體的需求急速升溫而走強。"
+      },
+      {
+        "title": "特斯拉進軍越南市場",
+        "detail": "特斯拉 (TSLA) 本月在越南註冊成立特斯拉越南公司，正式進軍東南亞最大電動車市場，但面臨當地企業VinFast的強大競爭。"
+      }
+    ],
+    "eventsUpcoming": [
+      {
+        "date": "10/1",
+        "title": "特斯拉Roadster跑車發表",
+        "detail": "特斯拉 (TSLA) 將於10月1日發布其新款跑車Roadster，並公布正式售價、具體規格及生產目標。"
+      },
+      {
+        "date": "本週四",
+        "title": "聯準會官員發言",
+        "detail": "多位聯準會官員預計在週四陸續發表談話，市場緊盯其對未來貨幣政策的態度。"
+      }
+    ]
+  }
 }
