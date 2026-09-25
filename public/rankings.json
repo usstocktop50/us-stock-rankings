@@ -112,7 +112,7 @@
       "dollarVolume": 10382794648.565327,
       "marketCap": 618394400000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "CPU",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": -2,
       "streak": 136
@@ -164,7 +164,7 @@
       "dollarVolume": 8324881960.078022,
       "marketCap": 1694590865776.35,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網通晶片",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": 0,
       "streak": 136
@@ -190,7 +190,7 @@
       "dollarVolume": 6705376251.579757,
       "marketCap": 441253809368.91,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "大數據分析",
+      "theme": "數據分析",
       "isNew": false,
       "rankChange": 7,
       "streak": 136
@@ -203,7 +203,7 @@
       "dollarVolume": 4568006207.612011,
       "marketCap": 173434629758.04,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "PC/伺服器",
+      "theme": "電子電腦",
       "isNew": false,
       "rankChange": -1,
       "streak": 22
@@ -229,7 +229,7 @@
       "dollarVolume": 3957909084.6650095,
       "marketCap": 168645129667.91998,
       "sector": "RETAIL-EATING PLACES",
-      "theme": "速食餐飲",
+      "theme": "餐飲",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -242,7 +242,7 @@
       "dollarVolume": 3558102213.5336094,
       "marketCap": 228783209999.99997,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網通晶片",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": -3,
       "streak": 126
@@ -281,7 +281,7 @@
       "dollarVolume": 3415967700.2057443,
       "marketCap": 77229233938.64,
       "sector": "CABLE & OTHER PAY TELEVISION SERVICES",
-      "theme": "媒體娛樂",
+      "theme": "影音串流",
       "isNew": false,
       "rankChange": 8,
       "streak": 3
@@ -411,7 +411,7 @@
       "dollarVolume": 2745023751.4037995,
       "marketCap": 714113192604.37,
       "sector": "FIRE, MARINE & CASUALTY INSURANCE",
-      "theme": "綜合金融",
+      "theme": "金融保險",
       "isNew": false,
       "rankChange": 10,
       "streak": 7
@@ -502,7 +502,7 @@
       "dollarVolume": 2393726106.0296154,
       "marketCap": 897217586398.35,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "銀行",
+      "theme": "金融銀行",
       "isNew": false,
       "rankChange": -15,
       "streak": 9
@@ -515,7 +515,7 @@
       "dollarVolume": 2375081307.379021,
       "marketCap": 97010329711.8,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "線上券商",
+      "theme": "金融科技",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -541,7 +541,7 @@
       "dollarVolume": 2348971342.3079925,
       "marketCap": 300482582958.08,
       "sector": "SERVICES-VIDEO TAPE RENTAL",
-      "theme": "串流媒體",
+      "theme": "影音串流",
       "isNew": false,
       "rankChange": -2,
       "streak": 9
@@ -554,7 +554,7 @@
       "dollarVolume": 2307102998.5373764,
       "marketCap": 355200272425.6,
       "sector": "—",
-      "theme": "IC 設計",
+      "theme": "半導體IP",
       "isNew": false,
       "rankChange": -2,
       "streak": 3
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-09-23T20:00:00.000Z",
-  "generatedAt": "2026-09-24T09:51:37.155Z",
+  "generatedAt": "2026-09-25T02:05:06.179Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型趨勢不變，雲端服務與軟體訂閱模式持續受到市場青睞，尤其在AI應用整合下，成長潛力巨大。",
+      "reason": "企業數位轉型需求持續推動雲端軟體服務的增長，相關公司業績表現穩健。",
       "symbols": [
         "MSFT",
         "PLTR",
@@ -670,7 +670,7 @@
     },
     {
       "theme": "資安",
-      "reason": "隨著網路攻擊日益頻繁且複雜，企業和政府對網路安全解決方案的需求持續增長，資安產業前景看好。",
+      "reason": "網路攻擊事件頻傳，企業對資安防護需求日益增加，帶動資安概念股表現強勁。",
       "symbols": [
         "CRWD",
         "PANW"
@@ -680,7 +680,7 @@
     },
     {
       "theme": "儲存裝置",
-      "reason": "AI、大數據和雲端運算的發展，對高效能儲存裝置的需求不斷提升，推動相關產業成長。",
+      "reason": "數據量的爆炸性增長持續推動對高效能儲存解決方案的需求。",
       "symbols": [
         "STX",
         "WDC"
@@ -689,8 +689,17 @@
       "avgChange": 1.1967771332632482
     },
     {
+      "theme": "半導體設備",
+      "reason": "全球半導體產業擴張，資本支出增加，帶動設備供應商訂單成長。",
+      "symbols": [
+        "AMAT"
+      ],
+      "count": 1,
+      "avgChange": 0.40638360919443256
+    },
+    {
       "theme": "量子運算",
-      "reason": "量子運算作為下一代突破性技術，儘管仍處於早期發展階段，但其潛在應用前景吸引了投資者的關注。",
+      "reason": "量子運算技術的潛力吸引市場關注，相關概念股持續獲得資金青睞。",
       "symbols": [
         "IONQ"
       ],
@@ -699,37 +708,28 @@
     },
     {
       "theme": "電動車",
-      "reason": "全球對電動車的需求持續增長，儘管市場競爭激烈，但龍頭企業仍展現韌性。",
+      "reason": "儘管市場競爭激烈，部分電動車相關公司仍展現韌性。",
       "symbols": [
         "TSLA"
       ],
       "count": 1,
       "avgChange": 0.321984692531018
-    },
-    {
-      "theme": "社群媒體",
-      "reason": "社群媒體平台持續創新，透過廣告收入和新功能吸引用戶，保持其市場影響力。",
-      "symbols": [
-        "META"
-      ],
-      "count": 1,
-      "avgChange": 1.0188774021002036
     }
   ],
   "newEntrants": [
     {
       "symbol": "MCD",
       "name": "McDonald's Corporation",
-      "theme": "速食餐飲",
+      "theme": "餐飲",
       "changePercent": -4.805272618334333,
-      "reason": "投資人對麥當勞成長計畫與資本支出抱持謹慎態度，導致股價下跌。"
+      "reason": "投資人對公司新成長計畫「McDonald's > NEXT」的資本支出與成本壓力反應謹慎，導致股價下跌。"
     },
     {
       "symbol": "IONQ",
       "name": "IonQ, Inc.",
       "theme": "量子運算",
       "changePercent": 4.418262150220905,
-      "reason": "IonQ宣布量子運算技術突破並與輝達合作，激勵股價大漲。"
+      "reason": "宣布量子運算技術突破，能以單一CPU偵測修正錯誤，並與輝達合作推升股價。"
     },
     {
       "symbol": "WMT",
@@ -741,9 +741,9 @@
     {
       "symbol": "HOOD",
       "name": "Robinhood Markets, Inc. Class A Common Stock",
-      "theme": "線上券商",
+      "theme": "金融科技",
       "changePercent": -1.2474849094567382,
-      "reason": "Robinhood平台使用量成長、庫藏股計畫及與Crypto.com合作等利多消息推升。"
+      "reason": "平台使用量成長、用戶黏著度提升，加上與Crypto.com合作及受邀參與SEC會議等利多消息。"
     },
     {
       "symbol": "CAT",
@@ -757,21 +757,21 @@
       "name": "ASML Holding NV",
       "theme": "半導體設備",
       "changePercent": -0.18822587104526523,
-      "reason": "ASML擬發放員工股票獎勵以留住人才，並有分析師維持買入評級。"
+      "reason": "高盛看好AI智能體革命將至，美股迎新一輪突破，帶動半導體設備股。"
     },
     {
       "symbol": "APP",
       "name": "Applovin Corporation Class A Common Stock",
       "theme": "廣告科技",
       "changePercent": -4.100629696103191,
-      "reason": "近期股價波動較大，無明確單一催化劑，可能受市場情緒影響。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "ABNB",
       "name": "Airbnb, Inc. Class A Common Stock",
       "theme": "線上旅遊",
       "changePercent": -7.5582473271120385,
-      "reason": "受非必需消費品類股疲軟及線上旅遊同業拋售潮拖累，股價爆量下跌。"
+      "reason": "受非必需消費品類股疲軟及線上旅遊同業拋售潮拖累，股價爆量跳水。"
     }
   ],
   "marketBriefing": {
