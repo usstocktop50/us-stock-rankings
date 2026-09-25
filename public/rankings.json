@@ -333,7 +333,7 @@
       "dollarVolume": 2996675538.726908,
       "marketCap": 41358105419.7,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體 SaaS",
+      "theme": "雲端基礎設施",
       "isNew": false,
       "rankChange": 5,
       "streak": 6
@@ -346,7 +346,7 @@
       "dollarVolume": 2990232114.8267136,
       "marketCap": 327195247338.39996,
       "sector": "—",
-      "theme": "IP 設計",
+      "theme": "IC 設計",
       "isNew": false,
       "rankChange": 16,
       "streak": 4
@@ -450,7 +450,7 @@
       "dollarVolume": 2344399831.6241217,
       "marketCap": 899955518179.2,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "金融服務",
+      "theme": "銀行",
       "isNew": false,
       "rankChange": 4,
       "streak": 10
@@ -463,7 +463,7 @@
       "dollarVolume": 2299250062.0295024,
       "marketCap": 391803690890.95,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "金融服務",
+      "theme": "銀行",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -515,7 +515,7 @@
       "dollarVolume": 2066659971.2838466,
       "marketCap": 291504954924.68,
       "sector": "RETAIL-LUMBER & OTHER BUILDING MATERIALS DEALERS",
-      "theme": "居家修繕",
+      "theme": "居家修繕零售",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -619,7 +619,7 @@
       "dollarVolume": 1814322341.7368145,
       "marketCap": 95523944871.87999,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "金融科技",
+      "theme": "金融服務",
       "isNew": false,
       "rankChange": -8,
       "streak": 2
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-09-24T20:00:00.000Z",
-  "generatedAt": "2026-09-25T05:34:55.899Z",
+  "generatedAt": "2026-09-25T08:10:31.542Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "太空",
-      "reason": "太空探索與商業化持續吸引投資者關注，相關企業在技術創新和發射任務上有所進展。",
+      "reason": "太空探索與商業化持續吸引投資者關注，相關公司在技術創新和發射服務方面取得進展。",
       "symbols": [
         "SPCX",
         "RKLB"
@@ -677,14 +677,14 @@
       "avgChange": 1.2719840040285355
     },
     {
-      "theme": "金融服務",
-      "reason": "在市場波動中，大型金融機構展現出相對穩健的營運表現。",
+      "theme": "雲端基礎設施",
+      "reason": "隨著企業對雲端服務和AI運算能力的需求增加，提供相關基礎設施的公司受到市場青睞。",
       "symbols": [
-        "JPM",
-        "BAC"
+        "NBIS",
+        "CRWV"
       ],
       "count": 2,
-      "avgChange": 0.17936474429786675
+      "avgChange": 5.580712090633491
     },
     {
       "theme": "石油天然氣",
@@ -698,7 +698,7 @@
     },
     {
       "theme": "AI 晶片",
-      "reason": "AI技術的快速發展持續推動對高性能晶片的需求，儘管市場存在短期波動，但長期趨勢仍受看好。",
+      "reason": "AI技術的快速發展持續推動對高效能AI晶片的需求，儘管市場波動，相關領先企業仍具吸引力。",
       "symbols": [
         "AMD"
       ],
@@ -706,13 +706,13 @@
       "avgChange": 2.3836253884577174
     },
     {
-      "theme": "記憶體",
-      "reason": "記憶體市場需求回溫，尤其是在AI伺服器和新一代電子產品的帶動下，產業前景看好。",
+      "theme": "量子運算",
+      "reason": "量子運算作為前瞻性技術，其潛在突破和應用前景吸引了風險資金的關注。",
       "symbols": [
-        "MU"
+        "IONQ"
       ],
       "count": 1,
-      "avgChange": 0.8069933201477648
+      "avgChange": 5.735778091208269
     }
   ],
   "newEntrants": [
@@ -721,114 +721,114 @@
       "name": "Cisco Systems, Inc. Common Stock (DE)",
       "theme": "網路設備",
       "changePercent": 0.5073757399229465,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "思科因AI基礎設施策略、量子網路合作及新訂單而受關注，但分析師下調目標價帶來壓力。"
     },
     {
       "symbol": "COST",
       "name": "Costco Wholesale Corp",
       "theme": "零售百貨",
       "changePercent": -0.9085884823698493,
-      "reason": "受惠於第四季度財報亮眼，淨銷售額和會員數皆有成長。"
+      "reason": "Costco第四季財報優於預期，受惠於油價上漲帶動的加油站人潮與會員制模式。"
     },
     {
       "symbol": "BAC",
       "name": "Bank of America Corporation",
-      "theme": "金融服務",
+      "theme": "銀行",
       "changePercent": 0.0535714285714306,
-      "reason": "宣布將增聘1,000名學徒並投資1.5億美元於勞動力發展。"
+      "reason": "美國銀行宣布未來兩年將增聘1,000名學徒並投資1.5億美元於勞動力發展計畫。"
     },
     {
       "symbol": "GS",
       "name": "Goldman Sachs Group Inc.",
       "theme": "金融服務",
       "changePercent": -1.3958306634200575,
-      "reason": "據報導，高盛今年透過借貸給對沖基金Situational Awareness賺取逾2億美元費用。"
+      "reason": "高盛因向對沖基金Situational Awareness提供貸款，賺取逾2億美元費用而受關注。"
     },
     {
       "symbol": "HD",
       "name": "Home Depot, Inc.",
-      "theme": "居家修繕",
+      "theme": "居家修繕零售",
       "changePercent": -1.5300620113238137,
-      "reason": "近期收到約7.3億美元的關稅退稅，並用於抵銷成本。"
+      "reason": "家得寶股價下跌，因市場擔憂房市疲軟、家庭預算緊縮及大額消費放緩。"
     },
     {
       "symbol": "XOM",
       "name": "ExxonMobil Holdings Corporation",
       "theme": "石油天然氣",
       "changePercent": 0.5644110897475635,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "艾克森美孚近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "CVX",
       "name": "Chevron Corporation",
       "theme": "石油天然氣",
       "changePercent": 0.06812320568342893,
-      "reason": "宣布明年將增加逾50%的勘探支出，目標是20口新勘探井。"
+      "reason": "雪佛龍計劃明年將勘探支出提高50%以上，並在希臘和埃及有新項目。"
     },
     {
       "symbol": "BA",
       "name": "Boeing Company",
       "theme": "航空航太",
       "changePercent": -1.5655479417796203,
-      "reason": "獲得土耳其航空多達150架737 MAX飛機的訂單。"
+      "reason": "波音獲得土耳其航空和孟加拉航空的飛機訂單，但生產挑戰與中國訂單希望消退帶來壓力。"
     },
     {
       "symbol": "RKLB",
       "name": "Rocket Lab Corporation Common Stock",
       "theme": "太空",
       "changePercent": 4.693500213340915,
-      "reason": "Iridium股東批准了Rocket Lab的合併協議，預計2027年中完成。"
+      "reason": "Rocket Lab因Iridium收購案獲股東批准、贏得太空軍合約及ARK Invest增持而上漲。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI相關題材，Meta Platforms受惠於AI助理Muse的成功推出，股價大漲，帶動社群媒體/AI族群表現亮眼。記憶體類股如美光（MU）和Sandisk（SNDK）也因市場對AI的樂觀預期而受到資金追捧，儘管對記憶體供需看法分歧，仍有分析師看好其未來表現。此外，雲端基礎設施服務商Nebius Group（NBIS）因宣布調漲GPU服務價格，股價也大幅上漲，顯示AI算力需求持續強勁。",
+    "highlights": "本日美股成交重點聚焦於AI相關題材，資金主要流向AI晶片、記憶體及雲端基礎設施等領域。Meta Platforms (META) 因其AI助理Muse的廣受歡迎，帶動了市場對AI投資報酬的看好，並推升相關晶片需求。此外，量子運算領域也因IonQ (IONQ) 的技術突破與Nvidia (NVDA) 的合作而受到關注。整體市場在公債殖利率高升與油價波動的宏觀壓力下，仍展現出對科技股尤其是AI相關題材的強勁信心。",
     "eventsPast": [
       {
-        "title": "Meta推出AI助理Muse，股價大漲",
-        "detail": "Meta Platforms（META）成功推出AI助理Muse，並在Connect大會上發布AI遊戲創作工具，激勵股價上漲4.50%。"
+        "title": "IonQ量子運算技術突破與Nvidia合作",
+        "detail": "IonQ宣布其量子運算領域取得突破，並與AI晶片大廠Nvidia展開新的合作，將Superion 256量子電腦安裝在Nvidia的加速量子研究中心。"
       },
       {
-        "title": "Nebius Group宣布調漲GPU服務價格",
-        "detail": "雲端基礎設施服務商Nebius Group（NBIS）宣布將於10月1日起調漲Nvidia GPU和AMD EPYC Genoa CPU服務價格，帶動股價上漲7.44%。"
+        "title": "Meta AI助理Muse廣受歡迎",
+        "detail": "Meta Platforms (META) 推出的AI助理Muse市場反應熱烈，市場看好AI投資報酬，進一步推升了AI相關晶片的需求。"
       },
       {
-        "title": "美光科技將公布第四季財報",
-        "detail": "美光科技（MU）預計於9月30日公布2026財年第四季財報，市場對其業績表現高度關注。"
+        "title": "美國5年期公債殖利率升破5%",
+        "detail": "美國5年期公債殖利率在週三(23日)升破5%，創2007年以來首見，反映市場對聯準會(Fed)持續升息的押注。"
       },
       {
-        "title": "中國調查博通交換器使用情況",
-        "detail": "中國政府正在調查國有數據中心使用博通（AVGO）交換器的情況，旨在降低對外國AI基礎設施的依賴，可能影響博通在中國的業務。"
+        "title": "台積電傳調漲晶圓代工價",
+        "detail": "台積電傳出將自2027年1月起調漲晶圓代工價3%至6%，可能導致蘋果iPhone新機成本增加。"
       },
       {
-        "title": "甲骨文因AI投資裁員並面臨債務擔憂",
-        "detail": "甲骨文（ORCL）近期對雲端基礎架構部門進行裁員，以應對AI基礎設施擴張帶來的巨額資本支出，同時市場對其為AI投資大舉發債的信用風險表示擔憂。"
+        "title": "Oracle資料中心建設延誤",
+        "detail": "彭博新聞報導Oracle (ORCL) 正援引不可抗力條款，以免對新墨西哥州資料中心建設項目延誤的懲罰，導致其股價重挫。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "9/30",
-        "title": "美光科技（MU）公布財報",
-        "detail": "美光科技將公布2026財年第四季財報，預計將對記憶體市場產生影響。"
+        "date": "本月28日",
+        "title": "SpaceX星艦第14次試射",
+        "detail": "SpaceX (SPCX) 將進行第14次星艦試射，首次實現繞地軌道飛行，並同步部署第三代星鏈衛星。"
       },
       {
-        "date": "9/30",
-        "title": "美國8月PCE個人消費支出物價指數與第二季GDP第三次估值",
-        "detail": "美國將公布8月個人所得與消費支出、PCE物價指數，以及第二季GDP第三次估值，這些數據將影響市場對利率路徑的評估。"
+        "date": "未來幾天",
+        "title": "美國上周初領失業金人數",
+        "detail": "美國將公布上周初領失業金人數，此數據將提供勞動市場狀況的線索。"
       },
       {
-        "date": "本週",
-        "title": "聯準會（FED）利率決議與經濟預測",
-        "detail": "聯準會將公布利率決議及點陣圖/經濟預測，市場預期升息機率高，將影響整體市場走勢。"
+        "date": "未來幾天",
+        "title": "美國新屋銷售",
+        "detail": "美國將公布新屋銷售數據，此數據將反映房市的健康狀況。"
       },
       {
-        "date": "本週",
-        "title": "美國ISM製造業與服務業PMI數據",
-        "detail": "美國9月ISM製造業及服務業PMI數據將公布，預計將顯示經濟活動的強勁程度，並影響通膨預期。"
+        "date": "未來幾天",
+        "title": "美中元首「川習會」",
+        "detail": "投資人正在觀察週四即將舉行的美中元首「川習會」，關注雙方是否延長目前的協議。"
       },
       {
-        "date": "本週",
-        "title": "AI晶片與記憶體市場供需論戰",
-        "detail": "市場對AI晶片與記憶體供需看法分歧，部分分析師看好AI需求持續帶動漲價，但也有觀點認為中國產能擴張可能緩解缺貨，相關討論將持續影響類股表現。"
+        "date": "未來幾天",
+        "title": "聯準會官員談話",
+        "detail": "聯準會官員將持續發表談話，市場將從中尋找貨幣政策下一步的線索，評估利率走向對科技股與整體股市的潛在衝擊。"
       }
     ]
   }
