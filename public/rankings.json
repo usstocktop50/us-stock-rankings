@@ -112,7 +112,7 @@
       "dollarVolume": 8327609370.795237,
       "marketCap": 4902476945600,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "消費電子",
+      "theme": "消費性電子",
       "isNew": false,
       "rankChange": -1,
       "streak": 137
@@ -216,7 +216,7 @@
       "dollarVolume": 4716895698.4102335,
       "marketCap": 78535716810.9,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "清潔能源",
+      "theme": "潔淨能源",
       "isNew": false,
       "rankChange": 28,
       "streak": 17
@@ -450,7 +450,7 @@
       "dollarVolume": 2344399831.6241217,
       "marketCap": 899955518179.2,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "金融銀行",
+      "theme": "銀行",
       "isNew": false,
       "rankChange": 4,
       "streak": 10
@@ -463,7 +463,7 @@
       "dollarVolume": 2299250062.0295024,
       "marketCap": 391803690890.95,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "金融銀行",
+      "theme": "銀行",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -502,7 +502,7 @@
       "dollarVolume": 2170560866.9769382,
       "marketCap": 268835649292.31998,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "金融投行",
+      "theme": "金融服務",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -515,7 +515,7 @@
       "dollarVolume": 2066659971.2838466,
       "marketCap": 291504954924.68,
       "sector": "RETAIL-LUMBER & OTHER BUILDING MATERIALS DEALERS",
-      "theme": "居家修繕零售",
+      "theme": "零售百貨",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -541,7 +541,7 @@
       "dollarVolume": 2023945991.2180228,
       "marketCap": 301998470428.16,
       "sector": "SERVICES-VIDEO TAPE RENTAL",
-      "theme": "影音串流",
+      "theme": "串流媒體",
       "isNew": false,
       "rankChange": 0,
       "streak": 10
@@ -619,7 +619,7 @@
       "dollarVolume": 1814322341.7368145,
       "marketCap": 95523944871.87999,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "金融科技",
+      "theme": "金融服務",
       "isNew": false,
       "rankChange": -8,
       "streak": 2
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-09-24T20:00:00.000Z",
-  "generatedAt": "2026-09-25T10:10:06.920Z",
+  "generatedAt": "2026-09-26T02:06:16.431Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型趨勢持續，AI 技術整合推動雲端服務需求增長，帶動相關軟體公司表現。",
+      "reason": "企業數位轉型及AI應用需求持續推動雲端服務市場增長，相關軟體公司表現亮眼。",
       "symbols": [
         "NBIS",
         "CRWV",
@@ -669,7 +669,7 @@
     },
     {
       "theme": "搜尋引擎/AI",
-      "reason": "大型科技公司持續投入AI研發，市場對其AI產品商業化前景抱持樂觀態度。",
+      "reason": "大型科技公司在AI領域的持續投入與創新，帶動其股價表現。",
       "symbols": [
         "GOOGL",
         "GOOG"
@@ -679,39 +679,40 @@
     },
     {
       "theme": "太空科技",
-      "reason": "商業太空產業持續發展，衛星發射與太空探索相關公司受到市場關注。",
+      "reason": "商業太空發射與衛星服務需求增加，相關公司受到市場關注。",
       "symbols": [
+        "SPCX",
         "RKLB"
       ],
+      "count": 2,
+      "avgChange": 2.2355341454949342
+    },
+    {
+      "theme": "AI 晶片",
+      "reason": "AI運算需求持續爆發，對高效能AI晶片的需求維持高檔。",
+      "symbols": [
+        "AMD"
+      ],
       "count": 1,
-      "avgChange": 4.693500213340915
+      "avgChange": 2.3836253884577174
+    },
+    {
+      "theme": "生技製藥",
+      "reason": "新藥研發進展或市場對特定疾病治療需求預期，推動生技製藥股上漲。",
+      "symbols": [
+        "MRNA"
+      ],
+      "count": 1,
+      "avgChange": 6.979298226346701
     },
     {
       "theme": "量子運算",
-      "reason": "量子技術被視為下一代運算突破，相關概念股因技術進展或合作消息而受追捧。",
+      "reason": "量子技術被視為下一代運算突破，相關概念股吸引資金關注。",
       "symbols": [
         "IONQ"
       ],
       "count": 1,
       "avgChange": 5.735778091208269
-    },
-    {
-      "theme": "社群媒體/AI",
-      "reason": "社群媒體巨頭積極佈局AI領域，其廣告業務與新技術應用前景受到市場期待。",
-      "symbols": [
-        "META"
-      ],
-      "count": 1,
-      "avgChange": 4.500739147963984
-    },
-    {
-      "theme": "記憶體",
-      "reason": "記憶體市場需求回溫，特別是AI應用帶動HBM等高階記憶體需求，推升相關廠商股價。",
-      "symbols": [
-        "MU"
-      ],
-      "count": 1,
-      "avgChange": 0.8069933201477648
     }
   ],
   "newEntrants": [
@@ -720,35 +721,35 @@
       "name": "Cisco Systems, Inc. Common Stock (DE)",
       "theme": "網路設備",
       "changePercent": 0.5073757399229465,
-      "reason": "Cisco推出Splunk AI功能，深化AI網路、可觀測性及量子網路研究。"
+      "reason": "思科擴大與NVIDIA合作，將Splunk AI引入地端客戶，並推出AgenticOps解決方案。"
     },
     {
       "symbol": "COST",
       "name": "Costco Wholesale Corp",
       "theme": "零售百貨",
       "changePercent": -0.9085884823698493,
-      "reason": "Costco第四季營收和獲利超出預期，受惠於關稅退款及會員數成長。"
+      "reason": "Costco第四季度財報優於預期，營收成長11.2%，並收到1.84億美元關稅退款。"
     },
     {
       "symbol": "BAC",
       "name": "Bank of America Corporation",
-      "theme": "金融銀行",
+      "theme": "銀行",
       "changePercent": 0.0535714285714306,
-      "reason": "美國銀行發行債券，並宣布未來兩年將增聘1,000名學徒，投資1.5億美元於勞動力發展。"
+      "reason": "美國銀行警告債券市場波動加劇可能引發去槓桿化風險。"
     },
     {
       "symbol": "GS",
       "name": "Goldman Sachs Group Inc.",
-      "theme": "金融投行",
+      "theme": "金融服務",
       "changePercent": -1.3958306634200575,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "高盛報告2026年與AI相關的債務發行額超過5000億美元。"
     },
     {
       "symbol": "HD",
       "name": "Home Depot, Inc.",
-      "theme": "居家修繕零售",
+      "theme": "零售百貨",
       "changePercent": -1.5300620113238137,
-      "reason": "家得寶第二季財報優於預期，並宣布派發股息。"
+      "reason": "家得寶收到7.3億美元關稅退款，用於抵消燃料與產品成本。"
     },
     {
       "symbol": "XOM",
@@ -762,72 +763,67 @@
       "name": "Chevron Corporation",
       "theme": "石油天然氣",
       "changePercent": 0.06812320568342893,
-      "reason": "雪佛龍宣布明年將增加50%以上的勘探支出，目標是20口新勘探井。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "BA",
       "name": "Boeing Company",
       "theme": "航空航太",
       "changePercent": -1.5655479417796203,
-      "reason": "波音公司獲得土耳其航空和孟加拉航空的大量新訂單。"
+      "reason": "波音公司獲得以色列空軍86億美元F-15IA戰機合約，並有其他飛機訂單。"
     },
     {
       "symbol": "RKLB",
       "name": "Rocket Lab Corporation Common Stock",
       "theme": "太空科技",
       "changePercent": 4.693500213340915,
-      "reason": "Rocket Lab獲得太空軍合約，並完成Iridium收購案的融資。"
+      "reason": "Rocket Lab收購Iridium獲股東批准，並獲得美國太空軍NITE-STAR合約。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點集中在AI相關題材，包括社群媒體/AI、AI晶片、雲端軟體SaaS和記憶體族群。Meta Platforms受惠於其年度Connect大會上發表的AI眼鏡與個人AI代理Muse，推升股價上漲。同時，記憶體族群雖然面臨多空論戰，但AI需求仍被視為主要驅動力。此外，Tesla的電動卡車Semi開始量產交付，也吸引了市場關注。",
+    "highlights": "本日美股成交重點聚焦於AI相關題材，其中Meta Platforms (META) 受惠於AI智能體Muse的火爆表現及AI硬體設備的推出，成交金額居冠。記憶體大廠美光 (MU) 則受惠於AI基礎設施對高頻寬記憶體的需求，以及市場對其即將公布的財報抱持樂觀態度，成交量亦居前。此外，雲端軟體SaaS族群中的Nebius Group (NBIS) 因AI需求強勁，宣布調漲GPU服務價格，股價大幅上漲。整體而言，市場資金持續追逐AI領域的創新與成長潛力。",
     "eventsPast": [
       {
-        "title": "Meta發表AI眼鏡與AI代理Muse",
-        "detail": "Meta Platforms在年度Connect大會上推出多款穿戴裝置，包括純音訊AI眼鏡和個人AI代理Muse，並預期Muse將發展成「個人超級智慧」，吸引數十億人使用。"
+        "title": "Meta AI智能體Muse表現火爆，面臨算力擴容壓力",
+        "detail": "Meta旗下AI智能體Muse日活11天增長10倍至約70萬，但實際資源消耗約為內部測試的10倍，算力擴容壓力正在浮現。"
       },
       {
-        "title": "Tesla Semi電動卡車開始量產交付",
-        "detail": "Tesla在內華達州的工廠正式推出Semi電動卡車，並開始向客戶交付，擴大了其在商用貨運領域的市場。"
+        "title": "Meta推出AI眼鏡等硬體設備",
+        "detail": "Meta Platforms執行長祖克柏宣布，將以Muse AI助理為核心，並在2026年底前推出超過一百款AI眼鏡。"
       },
       {
-        "title": "記憶體市場多空論戰",
-        "detail": "儘管中國記憶體廠持續擴產，宏碁董事長陳俊聖認為記憶體缺貨情況可望舒緩，但群聯執行長潘健成則認為AI需求將使記憶體供應持續吃緊至2029年甚至更久，市場對記憶體供需看法分歧。"
+        "title": "美光科技受惠AI晶片熱潮，股價強勢",
+        "detail": "美光科技(MU)受惠於半導體與AI相關個股成為市場資金焦點，且其記憶體與儲存晶片廣泛應用於AI與雲端相關領域。"
       },
       {
-        "title": "Oracle資料中心專案延遲疑慮",
-        "detail": "Oracle因新墨西哥州資料中心「Project Jupiter」的電力供應可能延遲，向開發商發出「不可抗力」通知，引發投資人對其AI資料中心擴建計畫風險的擔憂，導致股價下跌。"
+        "title": "Nebius Group因AI需求強勁調漲GPU服務價格",
+        "detail": "Nebius Group (NBIS) 因AI雲端服務需求強勁，宣布將於10月1日起調漲Nvidia GPU服務價格約17%至21%，AMD EPYC Genoa CPU服務價格預計調漲25%。"
       },
       {
-        "title": "Nebius Group股價因AI服務漲價而上漲",
-        "detail": "Nebius Group因宣布自2026年10月1日起調漲GPU、CPU和記憶體服務的隨選費率，以及擴大Nvidia高階GPU產能的地理範圍，推升股價上漲。"
+        "title": "甲骨文雲端基礎設施部門裁員",
+        "detail": "甲骨文(Oracle)最新一輪裁員重創雲端基礎架構部門，軟體開發人員、工程師及經理受影響最深，此舉旨在削減成本以投入昂貴的AI計畫。"
       }
     ],
     "eventsUpcoming": [
       {
         "date": "9/30",
-        "title": "美國8月PCE個人消費支出物價指數",
-        "detail": "此數據將影響市場對聯準會未來貨幣政策的預期。"
+        "title": "美光科技 (MU) 公布第四季財報",
+        "detail": "市場普遍預計美光將交出強勁的業績，受惠於人工智能基礎設施建設持續推升高帶寬內存（HBM）、伺服器DRAM及數據中心SSD需求。"
       },
       {
-        "date": "9/30",
-        "title": "美光科技財報",
-        "detail": "市場預期美光第四季營收將大幅成長，受惠於電腦記憶體和儲存的強勁需求。"
+        "date": "下週初",
+        "title": "Apple釋出iOS 27.0.1軟體更新",
+        "detail": "蘋果將釋出軟體更新，修復iPhone 18 Pro系列Face ID解鎖失敗導致手機無預警重啟的問題。"
       },
       {
-        "date": "本週四",
-        "title": "美國上周初領失業金人數",
-        "detail": "此數據將反映美國勞動市場的健康狀況。"
+        "date": "10/1",
+        "title": "Nebius Group調漲GPU服務價格",
+        "detail": "Nebius Group將調漲Nvidia GPU服務價格約17%至21%，AMD EPYC Genoa CPU服務價格預計調漲25%，預計將帶來更高的營收。"
       },
       {
-        "date": "本週四",
-        "title": "美國新屋銷售",
-        "detail": "此數據將提供房地產市場的最新動態。"
-      },
-      {
-        "date": "未來幾天",
-        "title": "美國抵押貸款申請資料",
-        "detail": "美國抵押貸款銀行協會（MBA）將公布抵押貸款申請資料，反映購房需求的變化。"
+        "date": "未定",
+        "title": "中國清查國有數據中心使用博通硬體情況",
+        "detail": "中國政府正在審查國家支持的數據中心使用博通(Broadcom)硬體的情況，可能導致國資委發布非正式指引，要求減少在國內數據中心使用博通交換器。"
       }
     ]
   }
