@@ -86,7 +86,7 @@
       "dollarVolume": 12159556816.985886,
       "marketCap": 620412000000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "半導體製造",
       "isNew": false,
       "rankChange": -2,
       "streak": 138
@@ -151,7 +151,7 @@
       "dollarVolume": 7524197430.718116,
       "marketCap": 2018122560000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "網路服務",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": 0,
       "streak": 138
@@ -164,7 +164,7 @@
       "dollarVolume": 5728623011.669831,
       "marketCap": 1684184352670.65,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "半導體基礎設施",
       "isNew": false,
       "rankChange": 1,
       "streak": 138
@@ -190,7 +190,7 @@
       "dollarVolume": 4910246246.556454,
       "marketCap": 177554187193.32,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "伺服器/PC",
+      "theme": "PC/伺服器",
       "isNew": false,
       "rankChange": 4,
       "streak": 24
@@ -203,7 +203,7 @@
       "dollarVolume": 4723283344.717531,
       "marketCap": 1885149160000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "網路服務",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": 0,
       "streak": 138
@@ -229,7 +229,7 @@
       "dollarVolume": 3924075332.171938,
       "marketCap": 911917356056.7,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "金融服務",
+      "theme": "銀行",
       "isNew": false,
       "rankChange": 17,
       "streak": 11
@@ -268,7 +268,7 @@
       "dollarVolume": 3601951056.2650437,
       "marketCap": 212115745024.37,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "行動通訊晶片",
+      "theme": "手機晶片",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -294,7 +294,7 @@
       "dollarVolume": 3404020965.925415,
       "marketCap": 436376297111.43,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "數據分析軟體",
+      "theme": "大數據分析",
       "isNew": false,
       "rankChange": -5,
       "streak": 138
@@ -515,7 +515,7 @@
       "dollarVolume": 2073509209.0253077,
       "marketCap": 40192571327.1,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端服務",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": -14,
       "streak": 7
@@ -580,7 +580,7 @@
       "dollarVolume": 1818383366.4494808,
       "marketCap": 272376293613.6,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "金融服務",
+      "theme": "投資銀行",
       "isNew": false,
       "rankChange": -6,
       "streak": 2
@@ -632,7 +632,7 @@
       "dollarVolume": 1659452047.8343153,
       "marketCap": 94401249939.6,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "金融服務",
+      "theme": "線上券商",
       "isNew": false,
       "rankChange": -1,
       "streak": 3
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-09-25T20:00:00.000Z",
-  "generatedAt": "2026-09-26T05:38:21.101Z",
+  "generatedAt": "2026-09-26T08:03:14.533Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "半導體設備",
-      "reason": "AI 晶片需求持續強勁，帶動上游半導體設備廠訂單能見度高。",
+      "reason": "AI 晶片需求持續增長，帶動上游半導體製造設備訂單強勁。",
       "symbols": [
         "LRCX",
         "AMAT"
@@ -668,7 +668,7 @@
     },
     {
       "theme": "儲存裝置",
-      "reason": "AI 應用對資料儲存需求增加，推動儲存裝置市場成長。",
+      "reason": "AI 應用對資料儲存需求大增，推動儲存裝置產業復甦。",
       "symbols": [
         "SNDK",
         "WDC",
@@ -679,7 +679,7 @@
     },
     {
       "theme": "記憶體",
-      "reason": "HBM 和 DDR5 等高階記憶體需求受 AI 伺服器帶動，市場預期價格將持續上漲。",
+      "reason": "HBM 等高頻寬記憶體在 AI 領域應用廣泛，市場需求旺盛。",
       "symbols": [
         "MU",
         "SKHY"
@@ -688,34 +688,33 @@
       "avgChange": 1.4733702582479007
     },
     {
-      "theme": "金融服務",
-      "reason": "市場對經濟前景保持樂觀，有利於銀行與券商等金融機構的營運表現。",
+      "theme": "雲端軟體 SaaS",
+      "reason": "企業數位轉型趨勢不變，雲端軟體服務持續受青睞。",
       "symbols": [
-        "JPM",
-        "GS"
+        "MSFT"
       ],
-      "count": 2,
-      "avgChange": 1.3230940546178285
-    },
-    {
-      "theme": "零售百貨",
-      "reason": "消費市場表現穩健，大型零售商受惠於消費者支出。",
-      "symbols": [
-        "COST",
-        "WMT"
-      ],
-      "count": 2,
-      "avgChange": 1.647255121691094
+      "count": 1,
+      "avgChange": 3.663165505191483
     },
     {
       "theme": "AI 晶片",
-      "reason": "AI 領域持續快速發展，相關晶片需求旺盛，市場對領先廠商的成長前景充滿期待。",
+      "reason": "AI 技術發展迅速，市場對高效能 AI 晶片的需求持續高漲。",
       "symbols": [
         "NVDA",
         "AMD"
       ],
       "count": 2,
       "avgChange": 0.21795055198538826
+    },
+    {
+      "theme": "PC/伺服器",
+      "reason": "AI 伺服器需求強勁，帶動相關硬體供應商表現。",
+      "symbols": [
+        "DELL",
+        "SMCI"
+      ],
+      "count": 2,
+      "avgChange": 4.614362128014529
     }
   ],
   "newEntrants": [
@@ -724,49 +723,49 @@
       "name": "Akamai Technologies Inc",
       "theme": "網路安全",
       "changePercent": 3.1971741690064315,
-      "reason": "與AI開發商Anthropic簽訂116億美元雲端服務合約，並獲認股權證。"
+      "reason": "與AI模型製造商Anthropic擴大合作，簽署逾百億美元雲端基礎設施協議。"
     },
     {
       "symbol": "QCOM",
       "name": "Qualcomm Inc",
-      "theme": "行動通訊晶片",
+      "theme": "手機晶片",
       "changePercent": 3.9689076495418556,
-      "reason": "傳聞可能收購Intel部分晶片設計業務，並受AI樂觀情緒提振。"
+      "reason": "與Apple續簽全球專利許可協議，並推出AI焦點的Snapdragon晶片。"
     },
     {
       "symbol": "CRDO",
       "name": "Credo Technology Group Holding Ltd Ordinary Shares",
       "theme": "高速傳輸晶片",
       "changePercent": 7.654232790733276,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "AI資料中心連接設備需求強勁，第一財季營收與EPS均優於預期。"
     },
     {
       "symbol": "SMCI",
       "name": "Super Micro Computer, Inc. Common Stock",
       "theme": "AI 伺服器",
       "changePercent": 4.215851602023609,
-      "reason": "宣布將透過股權融資籌集70億美元，以滿足AI伺服器需求。"
+      "reason": "開始出貨NVIDIA Vera Rubin NVL72機架，強化AI伺服器業務。"
     },
     {
       "symbol": "PANW",
       "name": "Palo Alto Networks, Inc. Common Stock",
       "theme": "資安",
       "changePercent": -3.8931062782109165,
-      "reason": "受惠於AI應用帶動網路安全需求，營收超出預期。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "IREN",
       "name": "IREN Limited Ordinary Shares",
       "theme": "比特幣/加密",
       "changePercent": -4.387865655471286,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "從比特幣挖礦轉型AI雲端基礎設施，簽訂多項AI服務合約。"
     },
     {
       "symbol": "V",
       "name": "VISA Inc.",
       "theme": "支付服務",
       "changePercent": -0.1630523398010823,
-      "reason": "第三季財報優於預期，受消費者支出及跨境支付活動強勁帶動。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     }
   ],
   "marketBriefing": null
