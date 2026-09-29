@@ -86,7 +86,7 @@
       "dollarVolume": 12159556816.985886,
       "marketCap": 620412000000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體製造",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": -2,
       "streak": 138
@@ -164,7 +164,7 @@
       "dollarVolume": 5728623011.669831,
       "marketCap": 1684184352670.65,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體基礎設施",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": 1,
       "streak": 138
@@ -190,7 +190,7 @@
       "dollarVolume": 4910246246.556454,
       "marketCap": 177554187193.32,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "PC/伺服器",
+      "theme": "伺服器/PC",
       "isNew": false,
       "rankChange": 4,
       "streak": 24
@@ -216,7 +216,7 @@
       "dollarVolume": 4245698421.4730926,
       "marketCap": 409226718573.06,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售百貨",
+      "theme": "零售通路",
       "isNew": false,
       "rankChange": 16,
       "streak": 2
@@ -307,7 +307,7 @@
       "dollarVolume": 3271767036.9728045,
       "marketCap": 414554205600,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "企業軟體",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": -11,
       "streak": 138
@@ -320,7 +320,7 @@
       "dollarVolume": 3267562723.7796254,
       "marketCap": 229690801500,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "資料中心晶片",
+      "theme": "數據基礎設施",
       "isNew": false,
       "rankChange": -5,
       "streak": 128
@@ -409,7 +409,7 @@
       "price": 315.21,
       "changePercent": 2.6207839562442876,
       "dollarVolume": 2556402311.725383,
-      "marketCap": 394428892410,
+      "marketCap": 394461473146.01996,
       "sector": "SPECIAL INDUSTRY MACHINERY, NEC",
       "theme": "半導體設備",
       "isNew": false,
@@ -437,7 +437,7 @@
       "dollarVolume": 2442180353.0778337,
       "marketCap": 39652216140.46,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "高速傳輸晶片",
+      "theme": "數據基礎設施",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -502,7 +502,7 @@
       "dollarVolume": 2112888239.5642836,
       "marketCap": 856685919103.18,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售百貨",
+      "theme": "零售通路",
       "isNew": false,
       "rankChange": -10,
       "streak": 3
@@ -632,7 +632,7 @@
       "dollarVolume": 1659452047.8343153,
       "marketCap": 94401249939.6,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "金融科技",
+      "theme": "券商服務",
       "isNew": false,
       "rankChange": -1,
       "streak": 3
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-09-25T20:00:00.000Z",
-  "generatedAt": "2026-09-26T09:51:30.006Z",
+  "generatedAt": "2026-09-29T02:05:56.545Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "半導體設備",
-      "reason": "AI 晶片需求持續增長，帶動上游半導體製造設備的訂單與營收預期。",
+      "reason": "AI 晶片需求持續強勁，帶動上游半導體設備廠訂單能見度高，市場預期營收將持續成長。",
       "symbols": [
         "LRCX",
         "AMAT"
@@ -667,18 +667,18 @@
       "avgChange": 2.4437604546640523
     },
     {
-      "theme": "記憶體",
-      "reason": "HBM 等高頻寬記憶體在 AI 應用中扮演關鍵角色，市場預期需求將持續強勁。",
+      "theme": "數據基礎設施",
+      "reason": "AI 和雲端運算發展推升數據中心對高速傳輸和儲存的需求，相關基礎設施供應商受惠。",
       "symbols": [
-        "MU",
-        "SKHY"
+        "MRVL",
+        "CRDO"
       ],
       "count": 2,
-      "avgChange": 1.4733702582479007
+      "avgChange": 4.40348248920715
     },
     {
       "theme": "儲存裝置",
-      "reason": "AI 和資料中心擴建對儲存設備的需求增加，推動相關廠商營收成長。",
+      "reason": "記憶體與儲存需求回溫，加上 AI 應用對儲存容量與速度的要求提升，帶動相關廠商股價表現。",
       "symbols": [
         "SNDK",
         "WDC",
@@ -688,34 +688,34 @@
       "avgChange": 1.3422042264599086
     },
     {
+      "theme": "記憶體",
+      "reason": "HBM 和 DDR5 等高階記憶體需求旺盛，加上產業庫存去化，記憶體價格有望上漲。",
+      "symbols": [
+        "MU",
+        "SKHY"
+      ],
+      "count": 2,
+      "avgChange": 1.4733702582479007
+    },
+    {
+      "theme": "零售通路",
+      "reason": "消費者支出數據穩健，大型零售商在通膨趨緩下展現韌性，營收表現優於預期。",
+      "symbols": [
+        "COST",
+        "WMT"
+      ],
+      "count": 2,
+      "avgChange": 1.647255121691094
+    },
+    {
       "theme": "AI 晶片",
-      "reason": "AI 產業蓬勃發展，對高性能運算晶片的需求持續旺盛，推動相關廠商股價上漲。",
+      "reason": "AI 發展仍是市場主旋律，對高效能運算晶片的需求持續增長，相關龍頭企業表現強勁。",
       "symbols": [
         "NVDA",
         "AMD"
       ],
       "count": 2,
       "avgChange": 0.21795055198538826
-    },
-    {
-      "theme": "PC/伺服器",
-      "reason": "AI 伺服器需求強勁，以及企業換機潮預期，帶動相關硬體廠商表現。",
-      "symbols": [
-        "DELL",
-        "SMCI"
-      ],
-      "count": 2,
-      "avgChange": 4.614362128014529
-    },
-    {
-      "theme": "網路服務",
-      "reason": "數位廣告和雲端服務的穩定增長，支撐了大型網路公司的營收表現。",
-      "symbols": [
-        "GOOGL",
-        "GOOG"
-      ],
-      "count": 2,
-      "avgChange": 0.5331310826053955
     }
   ],
   "newEntrants": [
@@ -724,95 +724,100 @@
       "name": "Akamai Technologies Inc",
       "theme": "網路安全",
       "changePercent": 3.1971741690064315,
-      "reason": "與Anthropic簽訂116億美元多年期協議，支援AI工作負載需求。"
+      "reason": "Akamai Technologies受惠於與Anthropic簽訂116億美元AI基礎設施大單，帶動股價上漲。"
     },
     {
       "symbol": "QCOM",
       "name": "Qualcomm Inc",
       "theme": "行動通訊晶片",
       "changePercent": 3.9689076495418556,
-      "reason": "與Apple續簽全球專利許可協議，並拓展AI領域合作。"
+      "reason": "Qualcomm近期受惠於AI晶片發展與Apple專利授權協議續簽，但近期股價下跌可能為獲利回吐。"
     },
     {
       "symbol": "CRDO",
       "name": "Credo Technology Group Holding Ltd Ordinary Shares",
-      "theme": "高速傳輸晶片",
+      "theme": "數據基礎設施",
       "changePercent": 7.654232790733276,
-      "reason": "推出1.6T光學收發器，搶攻AI資料中心高速傳輸市場。"
+      "reason": "Credo Technology受惠於AI基礎設施強勁需求及分析師看好其1.6T光學收發器技術。"
     },
     {
       "symbol": "SMCI",
       "name": "Super Micro Computer, Inc. Common Stock",
       "theme": "AI 伺服器",
       "changePercent": 4.215851602023609,
-      "reason": "開始出貨NVIDIA Vera Rubin NVL72機架，強化AI伺服器解決方案。"
+      "reason": "Super Micro Computer受惠於AI伺服器需求強勁，並開始出貨NVIDIA相關產品。"
     },
     {
       "symbol": "PANW",
       "name": "Palo Alto Networks, Inc. Common Stock",
       "theme": "資安",
       "changePercent": -3.8931062782109165,
-      "reason": "收購AI原生平台Console，強化資安代理能力。"
+      "reason": "Palo Alto Networks推出AI資安平台，並獲分析師調升目標價，推動股價上漲。"
     },
     {
       "symbol": "IREN",
       "name": "IREN Limited Ordinary Shares",
       "theme": "比特幣/加密",
       "changePercent": -4.387865655471286,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "IREN Limited受惠於AI雲端業務新合約與強勁需求，但分析師看法分歧。"
     },
     {
       "symbol": "V",
       "name": "VISA Inc.",
       "theme": "支付服務",
       "changePercent": -0.1630523398010823,
-      "reason": "與UPT合作擴展跨境支付服務，並推出AI金融助理。"
+      "reason": "Visa宣布強化AI網路安全產品組合，並與合作夥伴拓展AI驅動商務。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI相關題材，資金主要流向半導體、記憶體、儲存裝置以及PC/伺服器等族群。微軟（MSFT）受惠於新版Copilot的推出，股價大漲3.66%，帶動雲端軟體SaaS板塊。AI晶片雙雄Nvidia（NVDA）和AMD（AMD）也呈現上漲。此外，記憶體大廠美光（MU）和儲存裝置公司Sandisk（SNDK）成交金額名列前茅，顯示市場對AI基礎設施的硬體需求持續看好。整體而言，儘管美債殖利率攀升帶來壓力，但AI熱潮仍是推動市場資金流動的主要故事。",
+    "highlights": "本日美股成交重點聚焦於AI相關題材，尤其是記憶體和AI晶片領域。美光科技(MU)和輝達(NVDA)等公司因市場對AI基礎設施需求的樂觀預期而吸引大量資金，顯示市場持續看好AI產業鏈的成長潛力。此外，Meta Platforms(META)推出AI助理Muse，雖然帶動AI晶片股表現，但也引發市場對AI代理可能改變既有網路平台商業模式的競爭疑慮，導致部分消費服務與平台股走弱。整體而言，市場在交易AI技術的創新與應用，同時也關注高利率環境和地緣政治風險對市場的影響。",
     "eventsPast": [
       {
-        "title": "美股基金五週來首次淨流入，AI概念股受追捧",
-        "detail": "截至9月25日當週，美國股票基金錄得376億美元的淨流入，結束連續五週的資金流出，主要受惠於市場對AI應用和數據需求的強勁樂觀情緒。"
+        "title": "Meta推出AI助理Muse",
+        "detail": "Meta Platforms(META)於本月推出AI助理Muse，可代替使用者發送電子郵件及完成交易，市場反應熱烈，推升AI相關晶片股表現。"
       },
       {
-        "title": "微軟推出新版Copilot，強化AI功能",
-        "detail": "微軟於9月25日宣布推出搭載Home、Code和Autopilot功能的新款Copilot，並將Word、Excel和PowerPoint的完整功能引入Copilot，刺激股價上漲。"
+        "title": "美國公債殖利率持續攀升",
+        "detail": "美國10年期公債殖利率升破5.2%，30年期公債殖利率突破5.5%，均在多年高點附近徘徊，反映市場對聯準會持續升息的預期。"
       },
       {
-        "title": "戴爾示警記憶體與HDD短缺可能延續逾五年",
-        "detail": "戴爾營運長Jeff Clarke表示，若AI代理工作負載持續擴張，記憶體與硬碟（HDD）等關鍵零組件的供應短缺可能延續超過五年，顯示AI基礎建設需求為長期結構性擴張。"
+        "title": "戴爾高層出售股票",
+        "detail": "戴爾科技(DELL)近期面臨內部人士賣股潮，包括財務長與法務長在內的高階主管，合計出售超過1,500萬美元的公司股票。"
       },
       {
-        "title": "SK海力士旗下Solidigm考慮在美IPO，估值上看1500億美元",
-        "detail": "SK海力士旗下儲存晶片事業Solidigm正考慮最早於明年在美國進行IPO，目標估值可能高達1500億美元，有望成為美股半導體史上最大IPO之一，受AI帶動資料儲存需求成長。"
+        "title": "蘋果新款Mac mini與Mac Studio發售",
+        "detail": "蘋果新款Mac mini與Mac Studio於9月22日正式發售，強化裝置端AI運算能力，有利Mac產品升級需求。"
       },
       {
-        "title": "藍色起源首次引入外部資金100億美元，挑戰SpaceX",
-        "detail": "亞馬遜創辦人貝佐斯旗下的太空公司藍色起源首次向外部投資人開放融資，成功募集100億美元資金，估值飆升至約1400億美元，旨在挑戰SpaceX在火箭發射、人造衛星及AI衛星網路等領域的地位。"
+        "title": "Google TPU晶片送上太空測試",
+        "detail": "Google宣布將把自家TPU（張量處理器）送上SpaceX火箭進行軌道測試，評估散熱模組在真空環境的可行性，為未來「地面算力塞不下」的發展鋪路。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "本週三",
-        "title": "美國8月個人消費支出（PCE）物價指數公布",
-        "detail": "聯準會（Fed）重視的核心PCE物價指數將公布，市場將密切關注其能否降至2%的目標，以評估通膨壓力。"
+        "date": "9月29日 (週二)",
+        "title": "美國8月JOLTS職缺、9月諮商會消費者信心指數",
+        "detail": "這些數據將檢驗企業招聘需求是否保持穩定，以及家庭對就業與經濟前景的最新判斷。"
       },
       {
-        "date": "本週三",
-        "title": "美光科技（MU）財報公布",
-        "detail": "美光科技將公布財報，市場將檢驗AI帶動的晶片需求能否繼續支撐科技股的獲利成長。"
+        "date": "9月30日 (週三)",
+        "title": "美國8月PCE物價指數、個人收入與個人支出",
+        "detail": "聯準會偏好的通膨指標PCE將公布，市場預計8月整體PCE月增率可能上漲0.4%，核心PCE月增0.3%，將影響聯準會後續升息決策。"
       },
       {
-        "date": "本週五",
-        "title": "美國9月非農就業報告公布",
-        "detail": "美國將公布9月就業報告，若就業成長遠超預期，市場可能進一步提高10月升息的預期；若數據轉弱，投資人則須評估消費和企業獲利能否維持成長。"
+        "date": "9月30日 (週三)",
+        "title": "美光科技(MU)公布2026財年第四季財報",
+        "detail": "市場將密切關注美光的HBM、DRAM、NAND價格以及下一財季指引，這將是AI記憶體需求的關鍵測試。"
       },
       {
-        "date": "9/30",
-        "title": "美國8月個人所得與消費支出、PCE物價指數及第二季GDP第三次估值",
-        "detail": "美國將公布一系列重要經濟數據，包括8月個人所得與消費支出、PCE物價指數，以及第二季GDP第三次估值，這些數據將是觀察消費動能與通膨走勢的重要指標。"
+        "date": "10月2日 (週五)",
+        "title": "美國9月非農就業報告",
+        "detail": "這份報告將提供新增非農就業人數、失業率、勞動參與率與平均時薪等數據，是判斷勞動力市場狀況的重要依據。"
+      },
+      {
+        "date": "10月10日前",
+        "title": "上市櫃公司9月營收公布",
+        "detail": "台灣上市櫃公司將陸續公布9月營收，市場將關注AI供應鏈營收能否維持年增，以支撐評價。"
       }
     ]
   }
