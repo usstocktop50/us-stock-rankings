@@ -73,7 +73,7 @@
       "dollarVolume": 13098158837.925718,
       "marketCap": 585255320000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "半導體製造",
       "isNew": false,
       "rankChange": 1,
       "streak": 139
@@ -138,7 +138,7 @@
       "dollarVolume": 8029948473.5003605,
       "marketCap": 2655051085747.8003,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電商/雲端服務",
+      "theme": "電子商務/雲端",
       "isNew": false,
       "rankChange": -1,
       "streak": 139
@@ -151,7 +151,7 @@
       "dollarVolume": 7540048990.175542,
       "marketCap": 1668717791908.05,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "半導體網路",
       "isNew": false,
       "rankChange": 1,
       "streak": 139
@@ -164,7 +164,7 @@
       "dollarVolume": 6605220542.768393,
       "marketCap": 2011257000000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "網路搜尋/雲端",
+      "theme": "網路服務/AI",
       "isNew": false,
       "rankChange": -1,
       "streak": 139
@@ -203,7 +203,7 @@
       "dollarVolume": 4697188250.712153,
       "marketCap": 1874537320000.0002,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "網路搜尋/雲端",
+      "theme": "網路服務/AI",
       "isNew": false,
       "rankChange": 0,
       "streak": 139
@@ -216,7 +216,7 @@
       "dollarVolume": 4276043589.5222816,
       "marketCap": 220891110000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網路基礎設施晶片",
+      "theme": "半導體網路",
       "isNew": false,
       "rankChange": 8,
       "streak": 129
@@ -255,7 +255,7 @@
       "dollarVolume": 3732276504.8805237,
       "marketCap": 171415857354.84,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "PC/伺服器",
+      "theme": "電子電腦",
       "isNew": false,
       "rankChange": -5,
       "streak": 25
@@ -333,7 +333,7 @@
       "dollarVolume": 3146614630.5694566,
       "marketCap": 196897855509.08,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "手機晶片",
+      "theme": "行動通訊晶片",
       "isNew": false,
       "rankChange": -5,
       "streak": 2
@@ -489,7 +489,7 @@
       "dollarVolume": 2350340424.606123,
       "marketCap": 626670402091.56,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "支付服務",
+      "theme": "支付處理",
       "isNew": false,
       "rankChange": 10,
       "streak": 2
@@ -554,7 +554,7 @@
       "dollarVolume": 2258139937.450175,
       "marketCap": 409295457787.68,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售",
+      "theme": "零售百貨",
       "isNew": false,
       "rankChange": -26,
       "streak": 3
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-09-28T20:00:00.000Z",
-  "generatedAt": "2026-09-29T08:52:36.978Z",
+  "generatedAt": "2026-09-29T11:13:09.459Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "資安",
-      "reason": "網路安全需求持續增長，企業對資料保護和威脅防禦的投資不斷增加，帶動資安軟體公司表現。",
+      "reason": "網路安全威脅日益增加，企業對資安解決方案的需求持續成長，推動相關軟體服務股表現強勁。",
       "symbols": [
         "PANW",
         "CRWD"
@@ -667,27 +667,8 @@
       "avgChange": 3.7269083727292416
     },
     {
-      "theme": "石油天然氣",
-      "reason": "全球能源需求穩定，加上地緣政治因素影響，油價維持高檔，利好上游能源公司。",
-      "symbols": [
-        "XOM",
-        "CVX"
-      ],
-      "count": 2,
-      "avgChange": 1.0704616053321778
-    },
-    {
-      "theme": "AI 晶片",
-      "reason": "AI 應用持續擴展，市場對高效能運算晶片的需求強勁，Nvidia 在此領域保持領先地位。",
-      "symbols": [
-        "NVDA"
-      ],
-      "count": 1,
-      "avgChange": 1.6839205580486163
-    },
-    {
       "theme": "半導體設備",
-      "reason": "全球半導體產業長期趨勢向上，晶圓廠擴建和技術升級帶動設備需求。",
+      "reason": "全球半導體產業長期擴張趨勢不變，先進製程投資持續，帶動設備供應商表現。",
       "symbols": [
         "AMAT",
         "ASML"
@@ -696,8 +677,18 @@
       "avgChange": 0.9690277342134039
     },
     {
+      "theme": "石油天然氣",
+      "reason": "地緣政治緊張及全球能源需求預期，支撐原油價格，有利於能源股表現。",
+      "symbols": [
+        "XOM",
+        "CVX"
+      ],
+      "count": 2,
+      "avgChange": 1.0704616053321778
+    },
+    {
       "theme": "生技製藥",
-      "reason": "新藥研發進展或市場對特定疾病治療需求增加，推動相關生技製藥公司股價。",
+      "reason": "特定藥物研發進展或市場潛力受關注，部分生技公司股價反應市場預期。",
       "symbols": [
         "KOD",
         "JNJ"
@@ -706,8 +697,17 @@
       "avgChange": 89.11448436038111
     },
     {
+      "theme": "AI 晶片",
+      "reason": "AI技術快速發展，對高效能運算晶片的需求持續旺盛，相關領導廠商表現突出。",
+      "symbols": [
+        "NVDA"
+      ],
+      "count": 1,
+      "avgChange": 1.6839205580486163
+    },
+    {
       "theme": "晶圓代工",
-      "reason": "全球晶片需求旺盛，晶圓代工廠產能利用率高，營收表現穩定。",
+      "reason": "全球晶片需求回溫，晶圓代工龍頭受惠於訂單能見度提升。",
       "symbols": [
         "TSM"
       ],
@@ -721,49 +721,49 @@
       "name": "MongoDB, Inc. Class A",
       "theme": "資料庫軟體",
       "changePercent": -18.45823993762791,
-      "reason": "執行長突然辭職加入Meta Platforms，引發領導層不確定性。"
+      "reason": "執行長突然辭職轉投Meta，引發股價大跌。"
     },
     {
       "symbol": "BA",
       "name": "Boeing Company",
       "theme": "航空航太",
       "changePercent": -6.9066491644368195,
-      "reason": "FAA因新軟體問題推遲737 Max 10認證，導致股價下跌。"
+      "reason": "737 MAX 10機型認證因軟體問題再次延遲，導致股價下跌。"
     },
     {
       "symbol": "KOD",
       "name": "Kodiak Sciences Inc Common Stock",
       "theme": "生技製藥",
       "changePercent": 177.9598145285935,
-      "reason": "DAYBREAK三期臨床試驗數據積極，Zenkuda達到主要療效指標。"
+      "reason": "濕性AMD藥物Zenkuda及tabirafusp-ted的Phase 3 DAYBREAK研究數據積極。"
     },
     {
       "symbol": "ASML",
       "name": "ASML Holding NV",
       "theme": "半導體設備",
       "changePercent": 1.5751688704886653,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "與台積電合作推動High NA EUV微影技術，並持續進行庫藏股計畫。"
     },
     {
       "symbol": "MDT",
       "name": "Medtronic plc",
       "theme": "醫療器材",
       "changePercent": 0.9702166064981943,
-      "reason": "Medtronic啟動交換要約，分拆MiniMed Group Inc.至少80.1%股份。"
+      "reason": "宣布分拆MiniMed糖尿病業務，並推出交換要約。"
     },
     {
       "symbol": "CVX",
       "name": "Chevron Corporation",
       "theme": "石油天然氣",
       "changePercent": 0.9391049156273005,
-      "reason": "開發新催化劑技術ICR 259，可提高噴射燃料產量達10%。"
+      "reason": "開發新催化劑技術以提高噴射燃料產量，並擴大委內瑞拉業務。"
     },
     {
       "symbol": "JNJ",
       "name": "Johnson & Johnson",
       "theme": "生技製藥",
       "changePercent": 0.26915419216870484,
-      "reason": "TREMFYA藥物在軸性乾癬性關節炎研究中，顯示顯著改善脊椎疼痛和僵硬。"
+      "reason": "TREMFYA藥物在軸性乾癬性關節炎研究中顯示顯著改善。"
     },
     {
       "symbol": "BRK.B",
@@ -777,58 +777,58 @@
       "name": "Coherent Corp.",
       "theme": "光學元件",
       "changePercent": -4.522867863299867,
-      "reason": "推出PhotonLink整合光學平台，用於AI資料中心基礎設施。"
+      "reason": "推出PhotonLink整合光學平台，支援AI資料中心基礎設施。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點顯示，資金主要集中在科技巨頭和AI相關族群。Nvidia (NVDA) 以1.68%的漲幅和328億美元的成交金額領跑，顯示市場對AI晶片的需求依然強勁。然而，記憶體、社群媒體/元宇宙、電動車和半導體等其他熱門類股則普遍下跌，其中MongoDB (MDB) 跌幅高達18.46%，顯示市場情緒謹慎，資金流向高度集中於少數表現強勢的AI相關個股。",
+    "highlights": "本日美股成交重點聚焦於AI晶片、社群媒體/元宇宙、電動車及資安題材。資金主要流向Nvidia (NVDA) 等AI晶片股，受惠於Nvidia宣布追加1500億美元股票回購，創下美國企業史上單次最大回購授權增幅，帶動股價逆勢上漲。 Meta Platforms (META) 則因其AI策略與高層人事變動而受到市場關注。電動車龍頭Tesla (TSLA) 則因銷售停滯與降價壓力，以及新車Roadster發表會延期等消息，導致股價下跌。資安類股如Palo Alto Networks (PANW) 和CrowdStrike (CRWD) 則因AI安全需求提升而表現強勁。",
     "eventsPast": [
       {
-        "title": "Broadcom 公布第三季財報",
-        "detail": "Broadcom (AVGO) 於 9 月 2 日公布了 2026 財年第三季財報，營收和自由現金流均實現顯著增長，半導體解決方案部門營收年增 127%。"
+        "title": "MongoDB執行長跳槽Meta，股價重挫",
+        "detail": "資料庫軟體商MongoDB (MDB) 執行長Chirantan Desai宣布辭職並轉投Meta Platforms，負責Meta的企業AI策略，導致MongoDB股價盤中狂瀉逾20%。"
       },
       {
-        "title": "SpaceX 公布第二季財報並解除部分股票閉鎖期",
-        "detail": "SpaceX (SPCX) 於 8 月 4 日公布了上市後的首份財報，第二季營收年增 92%，並宣布解除內部人售股禁制，允許部分股票開始流通。"
+        "title": "Nvidia宣布巨額股票回購",
+        "detail": "Nvidia (NVDA) 宣布追加1500億美元股票回購，使其總回購授權額度達到2350億美元，創下美國企業史上單次最大回購授權增幅，帶動股價逆勢上漲。"
       },
       {
-        "title": "Nvidia 公布 2026 財年第四季財報",
-        "detail": "Nvidia (NVDA) 於 2 月 25 日公布了創紀錄的 2026 財年第四季財報，營收年增 73%，數據中心業務營收年增 75%。"
+        "title": "Palo Alto Networks受惠Nvidia AI安全生態系",
+        "detail": "Palo Alto Networks (PANW) 股價上漲，因Nvidia (NVDA) 宣布推出Open Agent Safety Platform，而Palo Alto Networks是Nvidia AI安全聯盟成員之一，強化了其在AI資安領域的關鍵角色。"
       },
       {
-        "title": "Alphabet 公布第二季財報",
-        "detail": "Alphabet (GOOGL) 於 7 月 22 日公布了 2026 財年第二季財報，營收年增 24%，Google Cloud 營收年增 82%，顯示其在企業 AI 解決方案和基礎設施方面的強勁增長。"
+        "title": "Meta Platforms面臨天價罰款風險",
+        "detail": "Meta Platforms (META) 在新墨西哥州的一場審判中敗訴，面臨最高2190億美元的天價民事罰款風險，因其在言論及數據隱私政策上存在欺騙行為。"
       },
       {
-        "title": "Meta Platforms 公布第二季財報",
-        "detail": "Meta Platforms (META) 於 7 月 29 日公布了 2026 財年第二季財報，執行長 Mark Zuckerberg 表示 AI 正在加速其核心業務並開啟新的企業機會。"
+        "title": "Apple遭判賠57億美元專利侵權金",
+        "detail": "Apple (AAPL) 因iPhone與Apple Watch使用的觸覺回饋技術侵犯Taction Technology的兩項專利，被美國聯邦陪審團裁定須賠償逾57億美元，但Apple表示將提起上訴。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "9/30",
-        "title": "Micron Technology (MU) 財報公布",
-        "detail": "Micron Technology (MU) 將於 2026 年 9 月 30 日公布 2026 財年第四季財報。"
+        "date": "本週二 (9/29)",
+        "title": "MongoDB投資者日",
+        "detail": "MongoDB (MDB) 將舉行年度投資者日活動，預計將進一步說明其長期產品策略、人工智慧路線圖和財務框架。"
       },
       {
-        "date": "10/14",
-        "title": "美國 CPI 數據公布",
-        "detail": "美國勞工統計局將於 2026 年 10 月 14 日公布 9 月份的消費者物價指數（CPI）數據。"
+        "date": "10/1",
+        "title": "Tesla Roadster發表會",
+        "detail": "Tesla (TSLA) 將在德州韋科舉行Roadster發表會，市場關注新一代Roadster的詳細資訊與是否搭載SpaceX技術。"
       },
       {
-        "date": "本週四",
-        "title": "Intel (INTC) 財報公布",
-        "detail": "Intel (INTC) 將於 2026 年 7 月 23 日公布第二季財報，市場預期營收和利潤將有所恢復。"
+        "date": "10/15",
+        "title": "Tesla Roadster揭幕活動改期",
+        "detail": "原定本週舉行的新一代Roadster跑車揭幕活動，因惡劣天氣改期至10月15日。"
       },
       {
-        "date": "本週三",
-        "title": "Microsoft (MSFT) 財報公布",
-        "detail": "Microsoft (MSFT) 將於 2026 年 7 月 29 日公布 2026 財年第四季財報。"
+        "date": "秋季",
+        "title": "Meta Platforms首次赴歐洲發債",
+        "detail": "Meta Platforms (META) 傳最快將於今年秋季首次進入歐洲債券市場，以籌措人工智慧(AI)基礎設施擴張所需資金。"
       },
       {
-        "date": "本週三",
-        "title": "Meta Platforms (META) 財報公布",
-        "detail": "Meta Platforms (META) 將於 2026 年 7 月 29 日公布 2026 財年第二季財報。"
+        "date": "未定",
+        "title": "OpenAI GPT-6.1 Astra發布推遲",
+        "detail": "OpenAI因研究人員在內部測試中發現安全問題，取消了原計劃在未來幾天或幾週內推出名為GPT-6.1 Astra的下一代AI模型。"
       }
     ]
   }
