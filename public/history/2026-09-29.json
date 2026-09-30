@@ -138,7 +138,7 @@
       "dollarVolume": 8323152040.250514,
       "marketCap": 2660659968805.2397,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電子商務/雲端",
+      "theme": "電商/雲端",
       "isNew": false,
       "rankChange": 0,
       "streak": 140
@@ -164,7 +164,7 @@
       "dollarVolume": 6923954838.341365,
       "marketCap": 85781089522.5,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "燃料電池",
+      "theme": "清潔能源",
       "isNew": false,
       "rankChange": 5,
       "streak": 20
@@ -190,7 +190,7 @@
       "dollarVolume": 6345132971.718546,
       "marketCap": 416640583440,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端資料庫",
+      "theme": "資料庫軟體",
       "isNew": false,
       "rankChange": 0,
       "streak": 140
@@ -203,7 +203,7 @@
       "dollarVolume": 5879347649.415132,
       "marketCap": 87322053000,
       "sector": "COMMUNICATIONS EQUIPMENT, NEC",
-      "theme": "光通訊",
+      "theme": "光通訊元件",
       "isNew": false,
       "rankChange": 3,
       "streak": 58
@@ -294,7 +294,7 @@
       "dollarVolume": 3106033932.982403,
       "marketCap": 27162792621.79,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端資料庫",
+      "theme": "資料庫軟體",
       "isNew": false,
       "rankChange": -9,
       "streak": 2
@@ -437,7 +437,7 @@
       "dollarVolume": 2434956946.249382,
       "marketCap": 296019136518.39996,
       "sector": "SERVICES-VIDEO TAPE RENTAL",
-      "theme": "串流媒體",
+      "theme": "影音串流",
       "isNew": false,
       "rankChange": -5,
       "streak": 13
@@ -476,7 +476,7 @@
       "dollarVolume": 2270980428.4243555,
       "marketCap": 39430844321.700005,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端運算",
+      "theme": "雲端服務",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -567,7 +567,7 @@
       "dollarVolume": 1908126799.1485515,
       "marketCap": 379985650242.96,
       "sector": "CONSTRUCTION MACHINERY & EQUIP",
-      "theme": "工業機械",
+      "theme": "重型機械",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -580,7 +580,7 @@
       "dollarVolume": 1878868943.461831,
       "marketCap": 116533368000,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端資料庫",
+      "theme": "雲端軟體 SaaS",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -593,7 +593,7 @@
       "dollarVolume": 1872825338.7669225,
       "marketCap": 34391889378.09,
       "sector": "WATER TRANSPORTATION",
-      "theme": "郵輪觀光",
+      "theme": "郵輪旅遊",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -606,7 +606,7 @@
       "dollarVolume": 1858591459.1730428,
       "marketCap": 193348064856.1,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "通訊晶片",
+      "theme": "手機晶片",
       "isNew": false,
       "rankChange": -21,
       "streak": 3
@@ -632,7 +632,7 @@
       "dollarVolume": 1783392810.2533276,
       "marketCap": 313662689449.2,
       "sector": "—",
-      "theme": "IP 設計",
+      "theme": "半導體 IP",
       "isNew": false,
       "rankChange": -14,
       "streak": 7
@@ -645,42 +645,41 @@
       "dollarVolume": 1768809351.8745866,
       "marketCap": 91887045795.48,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "金融科技",
+      "theme": "證券經紀",
       "isNew": true,
       "rankChange": null,
       "streak": 1
     }
   ],
   "asOf": "2026-09-29T20:00:00.000Z",
-  "generatedAt": "2026-09-30T08:54:35.685Z",
+  "generatedAt": "2026-09-30T11:04:15.451Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "半導體設備",
-      "reason": "市場對半導體產業前景保持樂觀，尤其在AI需求驅動下，設備供應商訂單能見度高。",
+      "reason": "全球半導體產業景氣復甦，資本支出增加，帶動設備供應商訂單成長。",
       "symbols": [
         "AMAT",
-        "ASML",
-        "LRCX"
+        "LRCX",
+        "ASML"
       ],
       "count": 3,
       "avgChange": 3.9095658624293694
     },
     {
-      "theme": "雲端資料庫",
-      "reason": "企業數位轉型與數據應用需求持續增長，推動雲端資料庫服務的採用。",
+      "theme": "資料庫軟體",
+      "reason": "企業數位轉型持續推動，對於高效能資料庫解決方案的需求不斷增加。",
       "symbols": [
         "ORCL",
-        "MDB",
-        "SNOW"
+        "MDB"
       ],
-      "count": 3,
-      "avgChange": 1.7771453373190902
+      "count": 2,
+      "avgChange": 2.3319986350167925
     },
     {
       "theme": "記憶體",
-      "reason": "記憶體市場受惠於AI伺服器需求及價格回升預期，產業景氣逐漸復甦。",
+      "reason": "記憶體市場需求回溫，特別是HBM等高階產品受AI應用帶動。",
       "symbols": [
         "MU",
         "SKHY"
@@ -689,17 +688,18 @@
       "avgChange": 1.8348428271124368
     },
     {
-      "theme": "資料中心晶片",
-      "reason": "AI與高效能運算需求持續推動資料中心基礎設施升級，相關晶片供應商受惠。",
+      "theme": "雲端服務",
+      "reason": "企業對雲端基礎設施和服務的需求持續增長，尤其是在AI和數據處理方面。",
       "symbols": [
-        "MRVL"
+        "NBIS",
+        "CRWV"
       ],
-      "count": 1,
-      "avgChange": 4.513695911075814
+      "count": 2,
+      "avgChange": 1.6860336216839547
     },
     {
-      "theme": "郵輪觀光",
-      "reason": "全球旅遊需求持續復甦，郵輪產業受惠於消費者對休閒娛樂的支出增加。",
+      "theme": "郵輪旅遊",
+      "reason": "全球旅遊業持續復甦，消費者對休閒娛樂的需求強勁。",
       "symbols": [
         "CCL"
       ],
@@ -707,8 +707,8 @@
       "avgChange": 13.41463414634146
     },
     {
-      "theme": "燃料電池",
-      "reason": "市場對清潔能源解決方案的關注度提升，燃料電池技術被視為潛力選項。",
+      "theme": "清潔能源",
+      "reason": "全球對可再生能源和清潔技術的投資持續增加，政策支持力度大。",
       "symbols": [
         "BE"
       ],
@@ -722,56 +722,56 @@
       "name": "Fair Isaac Corporation",
       "theme": "數據分析",
       "changePercent": -26.52189941609485,
-      "reason": "聯邦住房金融局宣布房利美和房地美將採用單一訂價網格，納入競爭對手VantageScore，削弱FICO主導地位。"
+      "reason": "FHFA取消其抵押貸款信用評分壟斷，Rocket Mortgage轉用VantageScore。"
     },
     {
       "symbol": "WMT",
       "name": "Walmart Inc. Common Stock",
       "theme": "零售百貨",
       "changePercent": -1.7750390876483093,
-      "reason": "Mizuho分析師下調目標價，且股價跌破多條移動平均線，出現死亡交叉。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "CRWV",
       "name": "CoreWeave, Inc. Class A Common Stock",
-      "theme": "雲端運算",
+      "theme": "雲端服務",
       "changePercent": 1.0109321735041892,
-      "reason": "摩根大通上調評級至「優於大盤」，並調高目標價，看好AI運算定價環境。"
+      "reason": "摩根大通上調評級至「優於大盤」，看好AI運算定價環境。"
     },
     {
       "symbol": "CBRS",
       "name": "Cerebras Systems Inc. Class A Common Stock",
       "theme": "AI 晶片",
       "changePercent": -0.9098302327945615,
-      "reason": "與Gimlet Labs合作部署AI推理系統，並計劃在芬蘭建立新的AI資料中心。"
+      "reason": "與Gimlet Labs合作部署晶圓級AI系統，用於超高速AI推論。"
     },
     {
       "symbol": "CAT",
       "name": "Caterpillar Inc.",
-      "theme": "工業機械",
+      "theme": "重型機械",
       "changePercent": 0.8159034087444283,
-      "reason": "與Luck Stone擴大自動駕駛運輸合作，並同意收購Fabick Cat經銷商。"
+      "reason": "收購經銷商John Fabick Tractor Company，擴大經銷網絡。"
     },
     {
       "symbol": "SNOW",
       "name": "Snowflake Inc.",
-      "theme": "雲端資料庫",
+      "theme": "雲端軟體 SaaS",
       "changePercent": 0.6674387419236858,
-      "reason": "宣布發行37.5億美元零利率可轉換優先票據，以籌集資金。"
+      "reason": "發行37.5億美元零利率可轉換優先票據，引發稀釋擔憂。"
     },
     {
       "symbol": "CCL",
       "name": "Carnival Corporation Ltd.",
-      "theme": "郵輪觀光",
+      "theme": "郵輪旅遊",
       "changePercent": 13.41463414634146,
-      "reason": "第三季財報表現優異，營收和淨利創歷史新高，並上調全年獲利展望。"
+      "reason": "第三季營收和淨利潤創歷史新高，需求強勁上調全年財測。"
     },
     {
       "symbol": "HOOD",
       "name": "Robinhood Markets, Inc. Class A Common Stock",
-      "theme": "金融科技",
+      "theme": "證券經紀",
       "changePercent": -0.20607934054610588,
-      "reason": "宣布延長部分股票的選擇權交易時間，並推出OCO訂單功能。"
+      "reason": "多家大型投行近期集體看多，認為其正轉型為金融超級平台。"
     }
   ],
   "marketBriefing": {
