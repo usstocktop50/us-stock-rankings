@@ -229,7 +229,7 @@
       "dollarVolume": 4147058636.4410048,
       "marketCap": 77422403443.02,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "氫能源",
+      "theme": "清潔能源",
       "isNew": false,
       "rankChange": -4,
       "streak": 19
@@ -255,7 +255,7 @@
       "dollarVolume": 3732276504.8805237,
       "marketCap": 171415857354.84,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "電子電腦",
+      "theme": "電腦硬體",
       "isNew": false,
       "rankChange": -5,
       "streak": 25
@@ -307,7 +307,7 @@
       "dollarVolume": 3383866060.046395,
       "marketCap": 145736327987.8,
       "sector": "AIRCRAFT",
-      "theme": "航空航太",
+      "theme": "航空製造",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -450,7 +450,7 @@
       "dollarVolume": 2602163204.5358934,
       "marketCap": 302618755070.8,
       "sector": "—",
-      "theme": "IP 設計",
+      "theme": "IC 設計",
       "isNew": false,
       "rankChange": 1,
       "streak": 6
@@ -515,7 +515,7 @@
       "dollarVolume": 2342344140.1328983,
       "marketCap": 1115301023470.7,
       "sector": "PHARMACEUTICAL PREPARATIONS",
-      "theme": "減肥藥 GLP-1",
+      "theme": "生技製藥",
       "isNew": false,
       "rankChange": -5,
       "streak": 8
@@ -554,7 +554,7 @@
       "dollarVolume": 2258139937.450175,
       "marketCap": 409295457787.68,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售百貨",
+      "theme": "零售",
       "isNew": false,
       "rankChange": -26,
       "streak": 3
@@ -567,7 +567,7 @@
       "dollarVolume": 2082323404.1624475,
       "marketCap": 668267931739.2001,
       "sector": "PETROLEUM REFINING",
-      "theme": "石油天然氣",
+      "theme": "石油與天然氣",
       "isNew": false,
       "rankChange": 2,
       "streak": 3
@@ -606,7 +606,7 @@
       "dollarVolume": 1969352146.121751,
       "marketCap": 407739917815.38,
       "sector": "PETROLEUM REFINING",
-      "theme": "石油天然氣",
+      "theme": "石油與天然氣",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -652,13 +652,24 @@
     }
   ],
   "asOf": "2026-09-28T20:00:00.000Z",
-  "generatedAt": "2026-09-29T11:13:09.459Z",
+  "generatedAt": "2026-09-30T02:05:33.659Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
+      "theme": "生技製藥",
+      "reason": "新藥研發進展或臨床數據公布，持續吸引市場對特定疾病治療領域的關注。",
+      "symbols": [
+        "KOD",
+        "LLY",
+        "JNJ"
+      ],
+      "count": 3,
+      "avgChange": 59.44683535910895
+    },
+    {
       "theme": "資安",
-      "reason": "網路安全威脅日益增加，企業對資安解決方案的需求持續成長，推動相關軟體服務股表現強勁。",
+      "reason": "全球網路攻擊事件頻傳，企業及政府對網路安全防護的需求持續增長，帶動資安軟體服務商機。",
       "symbols": [
         "PANW",
         "CRWD"
@@ -667,18 +678,8 @@
       "avgChange": 3.7269083727292416
     },
     {
-      "theme": "半導體設備",
-      "reason": "全球半導體產業長期擴張趨勢不變，先進製程投資持續，帶動設備供應商表現。",
-      "symbols": [
-        "AMAT",
-        "ASML"
-      ],
-      "count": 2,
-      "avgChange": 0.9690277342134039
-    },
-    {
-      "theme": "石油天然氣",
-      "reason": "地緣政治緊張及全球能源需求預期，支撐原油價格，有利於能源股表現。",
+      "theme": "石油與天然氣",
+      "reason": "國際油價波動或地緣政治事件，影響能源供應預期，推升相關企業股價。",
       "symbols": [
         "XOM",
         "CVX"
@@ -687,18 +688,8 @@
       "avgChange": 1.0704616053321778
     },
     {
-      "theme": "生技製藥",
-      "reason": "特定藥物研發進展或市場潛力受關注，部分生技公司股價反應市場預期。",
-      "symbols": [
-        "KOD",
-        "JNJ"
-      ],
-      "count": 2,
-      "avgChange": 89.11448436038111
-    },
-    {
       "theme": "AI 晶片",
-      "reason": "AI技術快速發展，對高效能運算晶片的需求持續旺盛，相關領導廠商表現突出。",
+      "reason": "AI 應用需求持續爆發，市場對高效能運算晶片的需求強勁，推動相關供應商股價。",
       "symbols": [
         "NVDA"
       ],
@@ -707,12 +698,22 @@
     },
     {
       "theme": "晶圓代工",
-      "reason": "全球晶片需求回溫，晶圓代工龍頭受惠於訂單能見度提升。",
+      "reason": "全球半導體需求回溫，先進製程技術領先者受惠於客戶訂單增加。",
       "symbols": [
         "TSM"
       ],
       "count": 1,
       "avgChange": 0.5037615676527334
+    },
+    {
+      "theme": "半導體設備",
+      "reason": "半導體產業擴張及技術升級，帶動對先進製程設備的需求。",
+      "symbols": [
+        "AMAT",
+        "ASML"
+      ],
+      "count": 2,
+      "avgChange": 0.9690277342134039
     }
   ],
   "newEntrants": [
@@ -721,114 +722,114 @@
       "name": "MongoDB, Inc. Class A",
       "theme": "資料庫軟體",
       "changePercent": -18.45823993762791,
-      "reason": "執行長突然辭職轉投Meta，引發股價大跌。"
+      "reason": "CEO突然辭職，引發投資者對公司未來戰略和領導層穩定性的擔憂。"
     },
     {
       "symbol": "BA",
       "name": "Boeing Company",
-      "theme": "航空航太",
+      "theme": "航空製造",
       "changePercent": -6.9066491644368195,
-      "reason": "737 MAX 10機型認證因軟體問題再次延遲，導致股價下跌。"
+      "reason": "波音公司宣布裁員2500名美國員工，作為廣泛成本削減計畫的一部分。"
     },
     {
       "symbol": "KOD",
       "name": "Kodiak Sciences Inc Common Stock",
       "theme": "生技製藥",
       "changePercent": 177.9598145285935,
-      "reason": "濕性AMD藥物Zenkuda及tabirafusp-ted的Phase 3 DAYBREAK研究數據積極。"
+      "reason": "GLOW2 Phase 3試驗達到主要終點，Zenkuada治療糖尿病視網膜病變取得顯著成效。"
     },
     {
       "symbol": "ASML",
       "name": "ASML Holding NV",
       "theme": "半導體設備",
       "changePercent": 1.5751688704886653,
-      "reason": "與台積電合作推動High NA EUV微影技術，並持續進行庫藏股計畫。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動，但半導體產業受地緣政治影響。"
     },
     {
       "symbol": "MDT",
       "name": "Medtronic plc",
       "theme": "醫療器材",
       "changePercent": 0.9702166064981943,
-      "reason": "宣布分拆MiniMed糖尿病業務，並推出交換要約。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動，但醫療器材類股交易量增加。"
     },
     {
       "symbol": "CVX",
       "name": "Chevron Corporation",
-      "theme": "石油天然氣",
+      "theme": "石油與天然氣",
       "changePercent": 0.9391049156273005,
-      "reason": "開發新催化劑技術以提高噴射燃料產量，並擴大委內瑞拉業務。"
+      "reason": "美國與委內瑞拉達成石油協議，Chevron將投資70億美元擴大委內瑞拉業務。"
     },
     {
       "symbol": "JNJ",
       "name": "Johnson & Johnson",
       "theme": "生技製藥",
       "changePercent": 0.26915419216870484,
-      "reason": "TREMFYA藥物在軸性乾癬性關節炎研究中顯示顯著改善。"
+      "reason": "傳聞嬌生正洽談以200億美元出售其人工髖關節和膝關節業務。"
     },
     {
       "symbol": "BRK.B",
       "name": "BERKSHIRE HATHAWAY Class B",
       "theme": "多元控股",
       "changePercent": -0.4728179156445444,
-      "reason": "華倫·巴菲特卸任董事長，由其子霍華德·巴菲特接任。"
+      "reason": "ETF持續買入伯克希爾海瑟威B股，顯示機構投資者興趣。"
     },
     {
       "symbol": "COHR",
       "name": "Coherent Corp.",
       "theme": "光學元件",
       "changePercent": -4.522867863299867,
-      "reason": "推出PhotonLink整合光學平台，支援AI資料中心基礎設施。"
+      "reason": "Nvidia執行長黃仁勳看好光學元件，Coherent Corp.受惠於AI需求。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI晶片、社群媒體/元宇宙、電動車及資安題材。資金主要流向Nvidia (NVDA) 等AI晶片股，受惠於Nvidia宣布追加1500億美元股票回購，創下美國企業史上單次最大回購授權增幅，帶動股價逆勢上漲。 Meta Platforms (META) 則因其AI策略與高層人事變動而受到市場關注。電動車龍頭Tesla (TSLA) 則因銷售停滯與降價壓力，以及新車Roadster發表會延期等消息，導致股價下跌。資安類股如Palo Alto Networks (PANW) 和CrowdStrike (CRWD) 則因AI安全需求提升而表現強勁。",
+    "highlights": "本日美股成交重點聚焦於AI晶片與半導體族群的資金輪動與修正。Nvidia（NVDA）受惠於宣布高達1500億美元的股票回購計畫，逆勢上漲，成為市場資金的強大支撐點，並帶動AI晶片概念股的關注度。然而，大部分科技股和半導體類股面臨獲利了結壓力，尤其在美國公債殖利率飆升和中東地緣政治緊張的背景下，市場對科技股的風險偏好有所降溫，導致多檔熱門股下跌。記憶體族群也成為重災區，但分析師仍看好AI NAND題材對Sandisk（SNDK）的長期影響。",
     "eventsPast": [
       {
-        "title": "MongoDB執行長跳槽Meta，股價重挫",
-        "detail": "資料庫軟體商MongoDB (MDB) 執行長Chirantan Desai宣布辭職並轉投Meta Platforms，負責Meta的企業AI策略，導致MongoDB股價盤中狂瀉逾20%。"
+        "title": "Nvidia宣布1500億美元股票回購計畫",
+        "detail": "Nvidia董事會批准大幅增加高達1500億美元的股票回購授權，使其總回購規模達到2350億美元，創下歷史新高，為半導體市場帶來強大資金支撐。"
       },
       {
-        "title": "Nvidia宣布巨額股票回購",
-        "detail": "Nvidia (NVDA) 宣布追加1500億美元股票回購，使其總回購授權額度達到2350億美元，創下美國企業史上單次最大回購授權增幅，帶動股價逆勢上漲。"
+        "title": "AMD收購AI新創公司World Labs",
+        "detail": "AMD同意以82億美元全股票交易收購由AI先驅李飛飛創立的World Labs，李飛飛將加入AMD擔任執行副總裁兼首席科學家，此舉旨在推進AI運算並強化其在機器人、3D世界模型和物理AI領域的佈局。"
       },
       {
-        "title": "Palo Alto Networks受惠Nvidia AI安全生態系",
-        "detail": "Palo Alto Networks (PANW) 股價上漲，因Nvidia (NVDA) 宣布推出Open Agent Safety Platform，而Palo Alto Networks是Nvidia AI安全聯盟成員之一，強化了其在AI資安領域的關鍵角色。"
+        "title": "Intel股價重挫，面臨獲利了結壓力",
+        "detail": "Intel股價在近期半導體族群走強後出現明顯拉回，盤中下跌逾5%，主要受短線獲利了結賣壓以及市場對其傳統生態系轉型和資本密集度的擔憂影響。"
       },
       {
-        "title": "Meta Platforms面臨天價罰款風險",
-        "detail": "Meta Platforms (META) 在新墨西哥州的一場審判中敗訴，面臨最高2190億美元的天價民事罰款風險，因其在言論及數據隱私政策上存在欺騙行為。"
+        "title": "Tesla股價下跌，Q3交車量預估遭調降",
+        "detail": "Tesla股價盤中下跌近4%，主要因華爾街機構調降其第三季交車量預估，理由是主要汽車市場銷售放緩、競爭加劇以及對其AI和機器人技術鉅額資本支出的審視。"
       },
       {
-        "title": "Apple遭判賠57億美元專利侵權金",
-        "detail": "Apple (AAPL) 因iPhone與Apple Watch使用的觸覺回饋技術侵犯Taction Technology的兩項專利，被美國聯邦陪審團裁定須賠償逾57億美元，但Apple表示將提起上訴。"
+        "title": "Sandisk受惠AI NAND題材，但股價回檔",
+        "detail": "Sandisk股價盤中下跌約5%，儘管Rosenblatt Securities給予「買進」評級並看好AI NAND題材，但受科技與半導體類股整體走弱及獲利了結賣壓影響。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "本週二 (9/29)",
-        "title": "MongoDB投資者日",
-        "detail": "MongoDB (MDB) 將舉行年度投資者日活動，預計將進一步說明其長期產品策略、人工智慧路線圖和財務框架。"
+        "date": "本週三",
+        "title": "美國個人消費支出（PCE）數據公布",
+        "detail": "市場將密切關注PCE數據，以評估通膨狀況，這將影響聯準會未來的貨幣政策走向。"
       },
       {
-        "date": "10/1",
-        "title": "Tesla Roadster發表會",
-        "detail": "Tesla (TSLA) 將在德州韋科舉行Roadster發表會，市場關注新一代Roadster的詳細資訊與是否搭載SpaceX技術。"
+        "date": "本週五",
+        "title": "美國9月非農就業報告公布",
+        "detail": "經濟學家預估9月美國將新增約9萬個工作機會，失業率維持在4.1%，此數據將影響市場對聯準會升息的預期。"
+      },
+      {
+        "date": "未知",
+        "title": "美光科技（MU）財報公布",
+        "detail": "美光科技將公布財報，市場將關注其對記憶體產業前景的看法。"
+      },
+      {
+        "date": "未知",
+        "title": "Solidigm評估在美IPO",
+        "detail": "SK海力士旗下NAND事業Solidigm傳出正評估在美國進行首次公開募股（IPO），但SK海力士強調尚未作出任何資本籌措決議。"
       },
       {
         "date": "10/15",
-        "title": "Tesla Roadster揭幕活動改期",
-        "detail": "原定本週舉行的新一代Roadster跑車揭幕活動，因惡劣天氣改期至10月15日。"
-      },
-      {
-        "date": "秋季",
-        "title": "Meta Platforms首次赴歐洲發債",
-        "detail": "Meta Platforms (META) 傳最快將於今年秋季首次進入歐洲債券市場，以籌措人工智慧(AI)基礎設施擴張所需資金。"
-      },
-      {
-        "date": "未定",
-        "title": "OpenAI GPT-6.1 Astra發布推遲",
-        "detail": "OpenAI因研究人員在內部測試中發現安全問題，取消了原計劃在未來幾天或幾週內推出名為GPT-6.1 Astra的下一代AI模型。"
+        "title": "Tesla Roadster活動",
+        "detail": "Tesla將重新安排Roadster活動，這可能會影響其股價表現。"
       }
     ]
   }
