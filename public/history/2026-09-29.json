@@ -34,7 +34,7 @@
       "dollarVolume": 17177193665.084997,
       "marketCap": 1629126891164.1099,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "社群媒體/AI",
+      "theme": "社群媒體/廣告",
       "isNew": false,
       "rankChange": 0,
       "streak": 140
@@ -138,7 +138,7 @@
       "dollarVolume": 8323152040.250514,
       "marketCap": 2660659968805.2397,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電商/雲端",
+      "theme": "電子商務",
       "isNew": false,
       "rankChange": 0,
       "streak": 140
@@ -151,7 +151,7 @@
       "dollarVolume": 7166110607.188716,
       "marketCap": 2000518560000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "搜尋引擎/AI",
+      "theme": "搜尋引擎/雲端",
       "isNew": false,
       "rankChange": 1,
       "streak": 140
@@ -164,7 +164,7 @@
       "dollarVolume": 6923954838.341365,
       "marketCap": 85781089522.5,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "清潔能源",
+      "theme": "氫能源",
       "isNew": false,
       "rankChange": 5,
       "streak": 20
@@ -177,7 +177,7 @@
       "dollarVolume": 6852908898.459696,
       "marketCap": 1695115965061.5,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體網路",
+      "theme": "網路晶片",
       "isNew": false,
       "rankChange": -2,
       "streak": 140
@@ -216,7 +216,7 @@
       "dollarVolume": 4717590156.719388,
       "marketCap": 1864367640000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "搜尋引擎/AI",
+      "theme": "搜尋引擎/雲端",
       "isNew": false,
       "rankChange": -1,
       "streak": 140
@@ -242,7 +242,7 @@
       "dollarVolume": 4479006500.372478,
       "marketCap": 230861462999.99997,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "資料中心晶片",
+      "theme": "網路晶片",
       "isNew": false,
       "rankChange": -2,
       "streak": 130
@@ -307,7 +307,7 @@
       "dollarVolume": 3082517482.5465174,
       "marketCap": 13344530737.45,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "數據分析",
+      "theme": "金融數據分析",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -437,7 +437,7 @@
       "dollarVolume": 2434956946.249382,
       "marketCap": 296019136518.39996,
       "sector": "SERVICES-VIDEO TAPE RENTAL",
-      "theme": "影音串流",
+      "theme": "串流媒體",
       "isNew": false,
       "rankChange": -5,
       "streak": 13
@@ -450,7 +450,7 @@
       "dollarVolume": 2432278973.521383,
       "marketCap": 890439211601.1001,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "金融服務",
+      "theme": "銀行",
       "isNew": false,
       "rankChange": -13,
       "streak": 13
@@ -541,7 +541,7 @@
       "dollarVolume": 1960489013.080374,
       "marketCap": 1115159819910.9502,
       "sector": "PHARMACEUTICAL PREPARATIONS",
-      "theme": "減肥藥 GLP-1",
+      "theme": "生技製藥",
       "isNew": false,
       "rankChange": -2,
       "streak": 9
@@ -593,7 +593,7 @@
       "dollarVolume": 1872825338.7669225,
       "marketCap": 34391889378.09,
       "sector": "WATER TRANSPORTATION",
-      "theme": "郵輪旅遊",
+      "theme": "郵輪觀光",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -606,7 +606,7 @@
       "dollarVolume": 1858591459.1730428,
       "marketCap": 193348064856.1,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "手機晶片",
+      "theme": "無線通訊晶片",
       "isNew": false,
       "rankChange": -21,
       "streak": 3
@@ -632,7 +632,7 @@
       "dollarVolume": 1783392810.2533276,
       "marketCap": 313662689449.2,
       "sector": "—",
-      "theme": "半導體 IP",
+      "theme": "晶片設計IP",
       "isNew": false,
       "rankChange": -14,
       "streak": 7
@@ -645,31 +645,41 @@
       "dollarVolume": 1768809351.8745866,
       "marketCap": 91887045795.48,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "證券經紀",
+      "theme": "線上券商",
       "isNew": true,
       "rankChange": null,
       "streak": 1
     }
   ],
   "asOf": "2026-09-29T20:00:00.000Z",
-  "generatedAt": "2026-09-30T11:04:15.451Z",
+  "generatedAt": "2026-10-01T02:06:39.575Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "半導體設備",
-      "reason": "全球半導體產業景氣復甦，資本支出增加，帶動設備供應商訂單成長。",
+      "reason": "AI需求持續推動半導體產業擴張，設備供應商受惠於資本支出增加。",
       "symbols": [
         "AMAT",
-        "LRCX",
-        "ASML"
+        "ASML",
+        "LRCX"
       ],
       "count": 3,
       "avgChange": 3.9095658624293694
     },
     {
+      "theme": "網路晶片",
+      "reason": "資料中心與網路基礎設施升級需求強勁，帶動相關晶片設計公司表現。",
+      "symbols": [
+        "AVGO",
+        "MRVL"
+      ],
+      "count": 2,
+      "avgChange": 3.04781972084958
+    },
+    {
       "theme": "資料庫軟體",
-      "reason": "企業數位轉型持續推動，對於高效能資料庫解決方案的需求不斷增加。",
+      "reason": "企業數位轉型持續，對高效能資料庫解決方案的需求穩定成長。",
       "symbols": [
         "ORCL",
         "MDB"
@@ -678,28 +688,17 @@
       "avgChange": 2.3319986350167925
     },
     {
-      "theme": "記憶體",
-      "reason": "記憶體市場需求回溫，特別是HBM等高階產品受AI應用帶動。",
+      "theme": "生技製藥",
+      "reason": "特定藥物研發進展或市場需求預期，推動相關製藥公司股價上漲。",
       "symbols": [
-        "MU",
-        "SKHY"
+        "MRNA"
       ],
-      "count": 2,
-      "avgChange": 1.8348428271124368
+      "count": 1,
+      "avgChange": 3.1326034063260373
     },
     {
-      "theme": "雲端服務",
-      "reason": "企業對雲端基礎設施和服務的需求持續增長，尤其是在AI和數據處理方面。",
-      "symbols": [
-        "NBIS",
-        "CRWV"
-      ],
-      "count": 2,
-      "avgChange": 1.6860336216839547
-    },
-    {
-      "theme": "郵輪旅遊",
-      "reason": "全球旅遊業持續復甦，消費者對休閒娛樂的需求強勁。",
+      "theme": "郵輪觀光",
+      "reason": "全球旅遊業持續復甦，郵輪公司受惠於預訂量增加和營收改善。",
       "symbols": [
         "CCL"
       ],
@@ -707,22 +706,23 @@
       "avgChange": 13.41463414634146
     },
     {
-      "theme": "清潔能源",
-      "reason": "全球對可再生能源和清潔技術的投資持續增加，政策支持力度大。",
+      "theme": "記憶體",
+      "reason": "記憶體市場需求回溫，特別是HBM等高階產品，帶動相關廠商表現。",
       "symbols": [
-        "BE"
+        "MU",
+        "SKHY"
       ],
-      "count": 1,
-      "avgChange": 10.796211054894052
+      "count": 2,
+      "avgChange": 1.8348428271124368
     }
   ],
   "newEntrants": [
     {
       "symbol": "FICO",
       "name": "Fair Isaac Corporation",
-      "theme": "數據分析",
+      "theme": "金融數據分析",
       "changePercent": -26.52189941609485,
-      "reason": "FHFA取消其抵押貸款信用評分壟斷，Rocket Mortgage轉用VantageScore。"
+      "reason": "聯邦住房金融局新政策，允許房利美和房地美採用VantageScore，削弱FICO市場主導地位。"
     },
     {
       "symbol": "WMT",
@@ -736,42 +736,42 @@
       "name": "CoreWeave, Inc. Class A Common Stock",
       "theme": "雲端服務",
       "changePercent": 1.0109321735041892,
-      "reason": "摩根大通上調評級至「優於大盤」，看好AI運算定價環境。"
+      "reason": "Truist證券重申買入評級，並上調目標價，看好其AI基礎設施前景。"
     },
     {
       "symbol": "CBRS",
       "name": "Cerebras Systems Inc. Class A Common Stock",
       "theme": "AI 晶片",
       "changePercent": -0.9098302327945615,
-      "reason": "與Gimlet Labs合作部署晶圓級AI系統，用於超高速AI推論。"
+      "reason": "OpenAI新AI模型據報未採用Cerebras硬體，且有大量股票解鎖。"
     },
     {
       "symbol": "CAT",
       "name": "Caterpillar Inc.",
       "theme": "重型機械",
       "changePercent": 0.8159034087444283,
-      "reason": "收購經銷商John Fabick Tractor Company，擴大經銷網絡。"
+      "reason": "卡特彼勒宣布投資10億美元擴建北卡羅來納州的緊湊型設備製造。"
     },
     {
       "symbol": "SNOW",
       "name": "Snowflake Inc.",
       "theme": "雲端軟體 SaaS",
       "changePercent": 0.6674387419236858,
-      "reason": "發行37.5億美元零利率可轉換優先票據，引發稀釋擔憂。"
+      "reason": "發行37.5億美元可轉換優先票據，用於策略性融資活動。"
     },
     {
       "symbol": "CCL",
       "name": "Carnival Corporation Ltd.",
-      "theme": "郵輪旅遊",
+      "theme": "郵輪觀光",
       "changePercent": 13.41463414634146,
-      "reason": "第三季營收和淨利潤創歷史新高，需求強勁上調全年財測。"
+      "reason": "第三季營收和淨利潤創歷史新高，並上調全年財測。"
     },
     {
       "symbol": "HOOD",
       "name": "Robinhood Markets, Inc. Class A Common Stock",
-      "theme": "證券經紀",
+      "theme": "線上券商",
       "changePercent": -0.20607934054610588,
-      "reason": "多家大型投行近期集體看多，認為其正轉型為金融超級平台。"
+      "reason": "Robinhood推出24/7股票交易、AI交易代理等新功能。"
     }
   ],
   "marketBriefing": {
