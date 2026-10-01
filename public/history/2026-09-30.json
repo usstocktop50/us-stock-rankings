@@ -86,7 +86,7 @@
       "dollarVolume": 12987748120.195044,
       "marketCap": 2019061440000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "雲端軟體 SaaS",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": 5,
       "streak": 141
@@ -138,7 +138,7 @@
       "dollarVolume": 10473323619.057877,
       "marketCap": 2687410026463.8003,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電子商務",
+      "theme": "電商",
       "isNew": false,
       "rankChange": 0,
       "streak": 141
@@ -164,7 +164,7 @@
       "dollarVolume": 8330883521.436642,
       "marketCap": 1883269980000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "雲端軟體 SaaS",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": 4,
       "streak": 141
@@ -190,7 +190,7 @@
       "dollarVolume": 4310077629.65954,
       "marketCap": 81578184295.08,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "潔淨能源",
+      "theme": "氫能源",
       "isNew": false,
       "rankChange": -2,
       "streak": 21
@@ -268,7 +268,7 @@
       "dollarVolume": 3529547280.3955736,
       "marketCap": 51767424957.44,
       "sector": "—",
-      "theme": "雲端軟體 SaaS",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": 0,
       "streak": 66
@@ -281,7 +281,7 @@
       "dollarVolume": 3518749229.4293027,
       "marketCap": 701131108419.95,
       "sector": "FIRE, MARINE & CASUALTY INSURANCE",
-      "theme": "多元控股",
+      "theme": "綜合保險",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -294,7 +294,7 @@
       "dollarVolume": 3374784454.0692225,
       "marketCap": 430348428189.45,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "大數據分析",
+      "theme": "AI 軟體",
       "isNew": false,
       "rankChange": 6,
       "streak": 141
@@ -372,7 +372,7 @@
       "dollarVolume": 2957691673.2233047,
       "marketCap": 77706267568.3,
       "sector": "CABLE & OTHER PAY TELEVISION SERVICES",
-      "theme": "媒體娛樂",
+      "theme": "串流媒體",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -580,7 +580,7 @@
       "dollarVolume": 2172297130.706236,
       "marketCap": 147048342221,
       "sector": "AIRCRAFT",
-      "theme": "航空航太",
+      "theme": "航太國防",
       "isNew": false,
       "rankChange": -5,
       "streak": 3
@@ -606,7 +606,7 @@
       "dollarVolume": 2123138519.4304268,
       "marketCap": 84811724730.31,
       "sector": "COMPUTER & OFFICE EQUIPMENT",
-      "theme": "電子電腦",
+      "theme": "伺服器",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -645,64 +645,41 @@
       "dollarVolume": 1988525121.951019,
       "marketCap": 88419380490,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "數位廣告",
+      "theme": "廣告科技",
       "isNew": true,
       "rankChange": null,
       "streak": 1
     }
   ],
   "asOf": "2026-09-30T20:00:00.000Z",
-  "generatedAt": "2026-10-01T06:43:02.386Z",
+  "generatedAt": "2026-10-01T09:16:28.953Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型需求持續增長，雲端服務和軟體解決方案仍是市場關注焦點。",
+      "reason": "企業數位轉型需求持續，雲端軟體服務提供商的營收增長潛力受到市場青睞。",
       "symbols": [
         "MSFT",
-        "GOOGL",
-        "GOOG",
         "CRM",
         "MDB"
       ],
-      "count": 5,
-      "avgChange": 1.5984896513705498
-    },
-    {
-      "theme": "AI 晶片",
-      "reason": "人工智慧技術快速發展，帶動對高性能運算晶片的需求持續強勁。",
-      "symbols": [
-        "NVDA",
-        "AMD"
-      ],
-      "count": 2,
-      "avgChange": 0.6022872971794262
-    },
-    {
-      "theme": "半導體",
-      "reason": "全球半導體產業景氣復甦，市場對晶片需求回溫，相關個股表現受關注。",
-      "symbols": [
-        "INTC",
-        "MRVL"
-      ],
-      "count": 2,
-      "avgChange": 2.0330913601667397
-    },
-    {
-      "theme": "儲存裝置",
-      "reason": "數據量爆炸性增長，對高效能、大容量儲存解決方案的需求不斷提升。",
-      "symbols": [
-        "SNDK",
-        "WDC",
-        "STX"
-      ],
       "count": 3,
-      "avgChange": 0.5916567587786169
+      "avgChange": 2.017223506089438
+    },
+    {
+      "theme": "雲端服務",
+      "reason": "全球企業對雲端基礎設施和服務的需求不斷增長，推動相關公司業績表現。",
+      "symbols": [
+        "GOOGL",
+        "GOOG"
+      ],
+      "count": 2,
+      "avgChange": 0.9703888692922173
     },
     {
       "theme": "資安",
-      "reason": "網路攻擊日益頻繁，企業和個人對資訊安全防護的需求持續增加。",
+      "reason": "網路攻擊日益頻繁，企業和政府對網路安全解決方案的投資持續增加，帶動資安類股上漲。",
       "symbols": [
         "PANW",
         "CRWD"
@@ -711,66 +688,137 @@
       "avgChange": 1.5282039795469198
     },
     {
-      "theme": "電子電腦",
-      "reason": "新產品週期和企業IT支出回升，推動電腦及相關硬體設備需求。",
+      "theme": "AI 晶片",
+      "reason": "人工智慧技術的快速發展，對高效能AI晶片的需求持續旺盛，相關供應商受惠。",
       "symbols": [
-        "AAPL",
-        "HPE"
+        "NVDA",
+        "AMD"
       ],
       "count": 2,
-      "avgChange": 2.5010207453974127
+      "avgChange": 0.6022872971794262
+    },
+    {
+      "theme": "半導體設備",
+      "reason": "全球半導體產業擴張，晶圓廠投資增加，帶動半導體設備供應商的訂單與營收成長。",
+      "symbols": [
+        "LRCX"
+      ],
+      "count": 1,
+      "avgChange": 1.4358055950101825
+    },
+    {
+      "theme": "儲存裝置",
+      "reason": "數據量爆炸性增長，對高效能、大容量儲存解決方案的需求持續增加。",
+      "symbols": [
+        "SNDK",
+        "WDC",
+        "STX"
+      ],
+      "count": 3,
+      "avgChange": 0.5916567587786169
     }
   ],
   "newEntrants": [
     {
       "symbol": "BRK.B",
       "name": "BERKSHIRE HATHAWAY Class B",
-      "theme": "多元控股",
+      "theme": "綜合保險",
       "changePercent": -0.8758833482631699,
       "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "WBD",
       "name": "Warner Bros. Discovery, Inc. Series A Common Stock",
-      "theme": "媒體娛樂",
+      "theme": "串流媒體",
       "changePercent": 0.32414910858994445,
-      "reason": "與派拉蒙合併案進展順利，且股價創52週新高。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "MA",
       "name": "Mastercard Incorporated",
       "theme": "支付服務",
       "changePercent": -2.1487632634231186,
-      "reason": "推出AI驅動的B2B支付分析解決方案，並宣布季度現金股利。"
+      "reason": "Mastercard宣布擴展Agent Pay計畫，新增AI驅動的信任與情報服務。"
     },
     {
       "symbol": "MDT",
       "name": "Medtronic plc",
       "theme": "醫療器材",
       "changePercent": -0.9185899644046356,
-      "reason": "獲FDA批准多項新醫療器材，且財報優於預期並上調財測。"
+      "reason": "FDA批准新心臟消融軟體與手術器械，並啟動MiniMed分拆。"
     },
     {
       "symbol": "XOM",
       "name": "ExxonMobil Holdings Corporation",
       "theme": "石油天然氣",
       "changePercent": 0.8676789587852529,
-      "reason": "擴大越南原油供應協議，並推進德州碳捕集項目。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "HPE",
       "name": "Hewlett Packard Enterprise Company",
-      "theme": "電子電腦",
+      "theme": "伺服器",
       "changePercent": 3.9030736705155284,
-      "reason": "獲得Vultr價值12億美元AI基礎設施訂單，並上調長期財測。"
+      "reason": "HPE獲得Vultr價值12億美元的AI伺服器大訂單，並上調網路業務展望。"
     },
     {
       "symbol": "APP",
       "name": "Applovin Corporation Class A Common Stock",
-      "theme": "數位廣告",
+      "theme": "廣告科技",
       "changePercent": -4.982660472420342,
       "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     }
   ],
-  "marketBriefing": null
+  "marketBriefing": {
+    "highlights": "本日美股成交重點聚焦於AI相關題材，資金主要流向記憶體、AI晶片、雲端服務及儲存裝置等領域。美光科技（MU）因財報表現亮眼且上調財測，顯示AI基礎設施對記憶體需求強勁，帶動成交量居冠。超微（AMD）和輝達（NVDA）等AI晶片股也因AI需求持續爆發而受到關注，市場故事圍繞著AI技術的快速發展及其對硬體需求的推動。此外，蘋果（AAPL）的股價反彈則受到新任執行長改革消息的影響。",
+    "eventsPast": [
+      {
+        "title": "美光科技（MU）第四季財報優於預期並上調財測",
+        "detail": "美光科技公布2026財年第四季營收、獲利及2027財年第一季財測均優於華爾街預期，主要受惠於超級智能（SI）基礎設施對記憶體晶片產品的強勁需求。"
+      },
+      {
+        "title": "超微（AMD）首席執行官蘇姿豐將於下月訪韓",
+        "detail": "據業內人士透露，AMD首席執行官蘇姿豐預計將於下月訪問韓國，與韓國半導體企業高管及政府官員會面。"
+      },
+      {
+        "title": "Meta Platforms（META）AI個人助理「Muse」下載量超越ChatGPT",
+        "detail": "Meta Platforms推出的全新個人AI助理應用程式「Muse」在蘋果iOS系統下載量超越競爭對手OpenAI的ChatGPT，華爾街看好其業務前景。"
+      },
+      {
+        "title": "微軟（MSFT）科學總裁彼得·李宣佈離職",
+        "detail": "微軟資深高管彼得·李（Peter Lee）宣佈將離開公司，他多年來一直領導微軟的內部研究部門。"
+      },
+      {
+        "title": "Alphabet（GOOGL）AI晶片訂單排至2028年上半年",
+        "detail": "Piper Sandler報告指出，為Alphabet代工生產先進AI晶片的台積電訂單已排至2028年上半年，反映AI超大型服務商持續搶購AI及記憶體晶片。"
+      }
+    ],
+    "eventsUpcoming": [
+      {
+        "date": "10月13日",
+        "title": "蘋果（AAPL）將發布智慧家居中樞",
+        "detail": "蘋果將於10月13日大舉進軍智能家居市場，全力押注AI領域。"
+      },
+      {
+        "date": "本週三",
+        "title": "美國個人消費支出（PCE）物價指數",
+        "detail": "聯準會偏好的通膨指標「個人消費支出(PCE)物價指數」將於本週三出爐。"
+      },
+      {
+        "date": "本週四",
+        "title": "美國最新製造業數據",
+        "detail": "美國最新製造業數據預定本週四公布。"
+      },
+      {
+        "date": "本週五",
+        "title": "美國9月非農就業報告",
+        "detail": "備受關注的9月非農就業報告則將於本週五發布。"
+      },
+      {
+        "date": "10月27日",
+        "title": "Bloom Energy（BE）第三季財報",
+        "detail": "市場正密切關注Bloom Energy預計於10月27日發布的第三季財報。"
+      }
+    ]
+  }
 }
