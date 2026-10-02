@@ -47,7 +47,7 @@
       "dollarVolume": 12417814933.71311,
       "marketCap": 605280000000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體製造",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": 5,
       "streak": 142
@@ -73,7 +73,7 @@
       "dollarVolume": 11341670523.722912,
       "marketCap": 1984792320000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "雲端/AI 軟體",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": 1,
       "streak": 142
@@ -112,7 +112,7 @@
       "dollarVolume": 10417213279.813406,
       "marketCap": 1951826156456.15,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "太空科技",
+      "theme": "太空",
       "isNew": false,
       "rankChange": -1,
       "streak": 77
@@ -125,7 +125,7 @@
       "dollarVolume": 10166175749.12309,
       "marketCap": 3807819727784.8,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端/AI 軟體",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": -5,
       "streak": 142
@@ -138,7 +138,7 @@
       "dollarVolume": 9026407496.966578,
       "marketCap": 1600768938538.3699,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "社群媒體/AI",
+      "theme": "社群媒體",
       "isNew": false,
       "rankChange": -7,
       "streak": 142
@@ -151,7 +151,7 @@
       "dollarVolume": 8520074301.215225,
       "marketCap": 1640410166808.5999,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體網路通訊",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": 2,
       "streak": 142
@@ -164,7 +164,7 @@
       "dollarVolume": 8256509441.593122,
       "marketCap": 2677486617977.56,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電子商務/雲端",
+      "theme": "電商與雲端",
       "isNew": false,
       "rankChange": -2,
       "streak": 142
@@ -177,7 +177,7 @@
       "dollarVolume": 7851380139.786111,
       "marketCap": 93806466000,
       "sector": "COMMUNICATIONS EQUIPMENT, NEC",
-      "theme": "光通訊元件",
+      "theme": "光通訊",
       "isNew": false,
       "rankChange": 6,
       "streak": 60
@@ -190,7 +190,7 @@
       "dollarVolume": 6767526176.276111,
       "marketCap": 1851158110000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "雲端/AI 軟體",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": -2,
       "streak": 142
@@ -216,7 +216,7 @@
       "dollarVolume": 5065315711.833681,
       "marketCap": 235079352000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體網路通訊",
+      "theme": "資料中心晶片",
       "isNew": false,
       "rankChange": 9,
       "streak": 132
@@ -294,7 +294,7 @@
       "dollarVolume": 3396451861.5563135,
       "marketCap": 437227561043.16,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "大數據分析",
+      "theme": "數據分析軟體",
       "isNew": false,
       "rankChange": 0,
       "streak": 142
@@ -359,7 +359,7 @@
       "dollarVolume": 3208202611.0793242,
       "marketCap": 81754900702.68,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "潔淨能源",
+      "theme": "燃料電池",
       "isNew": false,
       "rankChange": -13,
       "streak": 22
@@ -424,7 +424,7 @@
       "dollarVolume": 2872407091.8271823,
       "marketCap": 50977350640.64,
       "sector": "—",
-      "theme": "雲端/AI 軟體",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": -12,
       "streak": 67
@@ -528,7 +528,7 @@
       "dollarVolume": 2405779582.084312,
       "marketCap": 827172383086.66,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售百貨",
+      "theme": "零售",
       "isNew": false,
       "rankChange": -11,
       "streak": 3
@@ -541,7 +541,7 @@
       "dollarVolume": 2307497727.74458,
       "marketCap": 261084666411.36,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "投資銀行",
+      "theme": "金融服務",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -580,7 +580,7 @@
       "dollarVolume": 2259006418.6082234,
       "marketCap": 85642860330,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "行動廣告",
+      "theme": "廣告科技",
       "isNew": false,
       "rankChange": 5,
       "streak": 2
@@ -652,23 +652,34 @@
     }
   ],
   "asOf": "2026-10-01T20:00:00.000Z",
-  "generatedAt": "2026-10-02T06:22:21.195Z",
+  "generatedAt": "2026-10-02T08:52:21.515Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "半導體設備",
-      "reason": "AI 晶片需求持續強勁，帶動半導體製造設備訂單增長，市場對產業前景樂觀。",
+      "reason": "隨著AI與高效能運算需求持續增長，市場預期半導體資本支出將增加，帶動設備供應商表現。",
       "symbols": [
+        "SNPS",
         "AMAT",
         "LRCX"
       ],
+      "count": 3,
+      "avgChange": 6.605222245140779
+    },
+    {
+      "theme": "記憶體",
+      "reason": "記憶體市場需求回溫，特別是HBM等高階產品受AI應用驅動，價格上漲預期推動相關公司股價。",
+      "symbols": [
+        "MU",
+        "SKHY"
+      ],
       "count": 2,
-      "avgChange": 3.516147158119037
+      "avgChange": 4.0540277284022705
     },
     {
       "theme": "儲存裝置",
-      "reason": "記憶體與儲存需求回溫，加上 AI 應用對高容量儲存的需求增加，推動相關廠商股價上漲。",
+      "reason": "在資料中心與AI應用需求帶動下，儲存裝置市場前景看好，相關公司營收成長可期。",
       "symbols": [
         "SNDK",
         "WDC",
@@ -678,28 +689,8 @@
       "avgChange": 2.3494097355180847
     },
     {
-      "theme": "記憶體",
-      "reason": "HBM 和 DDR5 等高階記憶體需求旺盛，供應商受惠於價格上漲和出貨量增加。",
-      "symbols": [
-        "MU",
-        "SKHY"
-      ],
-      "count": 2,
-      "avgChange": 4.0540277284022705
-    },
-    {
-      "theme": "光通訊元件",
-      "reason": "AI 數據中心對高速網路傳輸的需求激增，帶動光通訊模組和元件供應商表現亮眼。",
-      "symbols": [
-        "LITE",
-        "COHR"
-      ],
-      "count": 2,
-      "avgChange": 9.287767089220532
-    },
-    {
       "theme": "AI 晶片",
-      "reason": "AI 產業蓬勃發展，市場持續看好 AI 晶片領導廠商的成長潛力。",
+      "reason": "AI技術的快速發展持續推升對高效能AI晶片的需求，市場對此領域的成長潛力抱持高度期待。",
       "symbols": [
         "NVDA",
         "AMD"
@@ -708,14 +699,25 @@
       "avgChange": 0.8674283743791498
     },
     {
-      "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型和雲端服務需求持續增長，SaaS 解決方案提供商營收前景看好。",
+      "theme": "光通訊",
+      "reason": "AI數據中心與網路基礎設施升級，對高速光通訊元件的需求增加，推動相關供應商表現。",
       "symbols": [
-        "ORCL",
-        "CRM"
+        "LITE",
+        "COHR"
       ],
       "count": 2,
-      "avgChange": 1.831133134968023
+      "avgChange": 9.287767089220532
+    },
+    {
+      "theme": "雲端軟體 SaaS",
+      "reason": "企業數位轉型趨勢不變，雲端軟體服務持續受青睞，訂閱制模式帶來穩定營收增長。",
+      "symbols": [
+        "ORCL",
+        "PLTR",
+        "CRM"
+      ],
+      "count": 3,
+      "avgChange": 1.7535897813268029
     }
   ],
   "newEntrants": [
@@ -724,47 +726,47 @@
       "name": "Accenture PLC",
       "theme": "IT 顧問服務",
       "changePercent": 15.77684463107379,
-      "reason": "財報優於預期且2027財年財測樂觀，加上AI相關合作案推動。"
+      "reason": "財報優於預期，且AI相關業務展望佳，提振市場信心。"
     },
     {
       "symbol": "NKE",
       "name": "Nike, Inc.",
       "theme": "運動用品",
       "changePercent": -0.7062146892655368,
-      "reason": "第一季營收不如預期且2027財年財測下調，導致股價下跌。"
+      "reason": "第一季財報營收下滑，並宣布重組計畫與裁員，導致股價下跌。"
     },
     {
       "symbol": "COHR",
       "name": "Coherent Corp.",
       "theme": "光學元件",
       "changePercent": 10.903026302074284,
-      "reason": "推出PhotonLink光學平台，受惠AI資料中心需求，分析師調升評級。"
+      "reason": "推出PhotonLink整合光學平台，解決AI資料中心頻寬瓶頸，並獲分析師看好。"
     },
     {
       "symbol": "SNPS",
       "name": "Synopsys Inc",
       "theme": "EDA 軟體",
       "changePercent": 12.78337241918426,
-      "reason": "投資者日宣布與Amazon、OpenAI達成合作，並上調2027財年財測。"
+      "reason": "投資者日宣布與Amazon、OpenAI達成數十億美元合作，提升AI晶片設計前景。"
     },
     {
       "symbol": "BAC",
       "name": "Bank of America Corporation",
       "theme": "銀行",
       "changePercent": -1.2860554841080338,
-      "reason": "市場擔憂AI代理可能加速存款流失，以及高利率環境影響銀行股。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "GEV",
       "name": "GE Vernova Inc.",
       "theme": "電力基礎建設",
       "changePercent": 3.888520657765998,
-      "reason": "分析師上調獲利預期及目標價，看好AI資料中心電力基礎建設需求。"
+      "reason": "宣布季度股息，並受惠於核能與AI資料中心電力基礎設施需求。"
     },
     {
       "symbol": "GS",
       "name": "Goldman Sachs Group Inc.",
-      "theme": "投資銀行",
+      "theme": "金融服務",
       "changePercent": -0.4098360655737766,
       "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
@@ -780,49 +782,33 @@
       "name": "Johnson & Johnson",
       "theme": "生技製藥",
       "changePercent": -2.2965928835838874,
-      "reason": "近期股價下跌可能為獲利回吐與估值調整，等待Q3財報。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於記憶體、AI晶片及相關半導體產業，資金主要流向受惠於AI需求爆發的個股與族群。美光科技（MU）因其強勁的財報和對AI記憶體（HBM）的巨額資本支出計畫，成為市場關注的焦點，帶動記憶體類股表現。同時，輝達（NVDA）等AI晶片領導者持續受惠於AI資料中心基礎建設的需求，而光通訊元件（LITE）也因AI基礎建設對高速傳輸的需求而表現亮眼。整體市場故事圍繞著AI技術的持續發展及其對硬體供應鏈的深遠影響，尤其是在記憶體和半導體領域。",
+    "highlights": "本日美股成交重點聚焦於AI相關硬體供應鏈，特別是記憶體、儲存裝置和AI晶片族群。美光（MU）公布的強勁財報和樂觀財測，引爆了市場對AI記憶體需求的熱情，其營收年增近四倍，並宣布數千億美元的資本支出計畫，帶動了記憶體和儲存裝置類股的成交量。此外，輝達（NVDA）和超微（AMD）等AI晶片公司也持續受到資金青睞，顯示市場正在交易AI基礎設施建設的長期成長故事，並預期AI記憶體在資料中心成本結構中的佔比將持續升高。",
     "eventsPast": [
       {
-        "title": "美光科技（MU）財報亮眼，HBM需求強勁",
-        "detail": "美光公布2026會計年度第四季營收達542.3億美元，年增近四倍，調整後每股盈餘（EPS）達33.42美元，遠超市場預期，並宣布將投資2,500億美元興建兩座HBM生產園區。"
+        "title": "美光財報與財測雙雙優於預期",
+        "detail": "美光（MU）公布2026會計年度第四季財報，營收年增近四倍，調整後每股盈餘遠超預期，且下一季財測強勁，顯示AI帶動的記憶體需求持續推動業績成長。"
       },
       {
-        "title": "Fed官員暗示不急於升息，美股走高",
-        "detail": "美國8月核心個人消費支出價格指數（PCE）低於市場預期，聯準會（Fed）官員表示可能無需急於再次升息，帶動美股1日盤前電子交易走高。"
+        "title": "美光宣布數千億美元資本支出計畫",
+        "detail": "為抓住AI記憶體長線需求，美光宣布將投資2,500億美元興建兩座全新HBM生產園區，以擴大HBM產能。"
       },
       {
-        "title": "達拉斯聯準銀行總裁蘿根主張至少再升息兩碼",
-        "detail": "達拉斯聯準銀行總裁蘿根（Lorie Logan）於10月1日表示，聯準會至少應該再升息兩碼（50個基點），並需連番升息才能抵銷去年秋季的降息，以壓低通膨。"
+        "title": "AI記憶體需求推升晶片價格",
+        "detail": "英特爾執行長陳立武表示，記憶體晶片價格已上漲約5至7倍，明年供應緊張情況將更加嚴峻，有利於美光等記憶體廠商的獲利表現。"
       },
       {
-        "title": "輝達推出DSX Ready認證計畫，強化AI資料中心基礎建設",
-        "detail": "輝達（NVDA）推出DSX Ready認證計畫，為AI資料中心所需的儲能及冷卻液分配裝置建立驗證標準，將布局從GPU延伸至整體AI資料中心基礎建設。"
+        "title": "輝達推出DSX Ready認證計畫",
+        "detail": "輝達（NVDA）針對AI資料中心所需的儲能及冷卻液分配裝置建立驗證標準，將布局由GPU進一步延伸至整體AI資料中心基礎建設。"
       },
       {
-        "title": "蘋果新款Mac mini與Mac Studio發售，強化裝置端AI運算能力",
-        "detail": "蘋果（AAPL）新款Mac mini與Mac Studio於9月22日正式發售，其中M6版Mac mini的AI效能最高較前代提升4倍，Mac Studio最高提升4.3倍，有利Mac產品升級需求。"
+        "title": "蘋果新款Mac mini與Mac Studio發售",
+        "detail": "蘋果新款Mac mini與Mac Studio於9月22日正式發售，其中M6版Mac mini的AI效能最高較前代提升4倍，Mac Studio最高提升4.3倍，強化裝置端AI運算能力。"
       }
     ],
-    "eventsUpcoming": [
-      {
-        "date": "10/2",
-        "title": "美國9月非農就業報告公布",
-        "detail": "市場聚焦週五（10月2日）將公布的美國9月非農就業數據，以研判聯準會10月是否會連續第二次加息。"
-      },
-      {
-        "date": "10/14",
-        "title": "美國9月核心CPI數據公布",
-        "detail": "美國9月核心消費者物價指數（CPI）數據預計於10月14日公布，將是評估通膨壓力的重要指標。"
-      },
-      {
-        "date": "未來幾天",
-        "title": "特斯拉（TSLA）Roadster量產版發表",
-        "detail": "特斯拉重新開放第二代Roadster全球預訂，預計10月1日發表量產版並公布量產時程，此舉有助強化品牌科技形象。"
-      }
-    ]
+    "eventsUpcoming": []
   }
 }
