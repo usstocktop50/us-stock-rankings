@@ -359,7 +359,7 @@
       "dollarVolume": 3025741572.058568,
       "marketCap": 879407738891.85,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "金融服務",
+      "theme": "銀行",
       "isNew": false,
       "rankChange": 7,
       "streak": 14
@@ -580,7 +580,7 @@
       "dollarVolume": 2172297130.706236,
       "marketCap": 147048342221,
       "sector": "AIRCRAFT",
-      "theme": "航空航太",
+      "theme": "航空",
       "isNew": false,
       "rankChange": -5,
       "streak": 3
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-09-30T20:00:00.000Z",
-  "generatedAt": "2026-10-01T11:31:04.188Z",
+  "generatedAt": "2026-10-02T02:06:53.757Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型需求持續，雲端軟體服務商的營收成長動能受到市場關注。",
+      "reason": "企業數位轉型需求持續推動雲端軟體服務的增長，市場對其營收前景保持樂觀。",
       "symbols": [
         "MSFT",
         "CRM",
@@ -668,8 +668,19 @@
       "avgChange": 2.017223506089438
     },
     {
+      "theme": "雲端服務",
+      "reason": "全球企業對雲端基礎設施和服務的需求不斷增加，推動相關公司的業績成長。",
+      "symbols": [
+        "GOOGL",
+        "AMZN",
+        "GOOG"
+      ],
+      "count": 3,
+      "avgChange": 0.9820565192046381
+    },
+    {
       "theme": "AI 晶片",
-      "reason": "人工智慧應用持續擴展，市場對AI晶片的需求預期保持強勁。",
+      "reason": "人工智慧技術的快速發展持續帶動對高性能AI晶片的需求，市場預期未來成長潛力巨大。",
       "symbols": [
         "NVDA",
         "AMD"
@@ -678,18 +689,8 @@
       "avgChange": 0.6022872971794262
     },
     {
-      "theme": "雲端服務",
-      "reason": "全球雲端運算市場持續擴張，大型雲端服務提供商的未來成長潛力受到看好。",
-      "symbols": [
-        "GOOGL",
-        "GOOG"
-      ],
-      "count": 2,
-      "avgChange": 0.9703888692922173
-    },
-    {
       "theme": "資安",
-      "reason": "網路攻擊事件頻傳，企業及個人對資安防護的需求日益增加。",
+      "reason": "網路攻擊日益頻繁，企業和政府對網路安全解決方案的需求持續增加，推動資安產業發展。",
       "symbols": [
         "PANW",
         "CRWD"
@@ -698,17 +699,8 @@
       "avgChange": 1.5282039795469198
     },
     {
-      "theme": "半導體設備",
-      "reason": "半導體產業資本支出回溫，帶動相關設備供應商的訂單成長。",
-      "symbols": [
-        "LRCX"
-      ],
-      "count": 1,
-      "avgChange": 1.4358055950101825
-    },
-    {
       "theme": "儲存裝置",
-      "reason": "資料量持續增長，對高效能儲存裝置的需求推動相關公司表現。",
+      "reason": "數據量的爆炸性增長，特別是AI和雲端應用，對高效能儲存裝置的需求持續提升。",
       "symbols": [
         "SNDK",
         "WDC",
@@ -716,6 +708,15 @@
       ],
       "count": 3,
       "avgChange": 0.5916567587786169
+    },
+    {
+      "theme": "半導體設備",
+      "reason": "全球半導體產業擴張和技術升級，帶動對先進半導體製造設備的需求。",
+      "symbols": [
+        "LRCX"
+      ],
+      "count": 1,
+      "avgChange": 1.4358055950101825
     }
   ],
   "newEntrants": [
@@ -731,93 +732,93 @@
       "name": "Warner Bros. Discovery, Inc. Series A Common Stock",
       "theme": "媒體娛樂",
       "changePercent": 0.32414910858994445,
-      "reason": "與派拉蒙合併案獲聯邦法官批准，預計10月6日完成交易。"
+      "reason": "媒體報導指出，Paramount Skydance準備提出收購要約，引發市場對併購的預期。"
     },
     {
       "symbol": "MA",
       "name": "Mastercard Incorporated",
       "theme": "支付服務",
       "changePercent": -2.1487632634231186,
-      "reason": "推出AI驅動的B2B分析平台，拓展商業支付市場。"
+      "reason": "Mastercard近期財報表現強勁，且持續透過新合作夥伴關係和AI創新拓展支付服務。"
     },
     {
       "symbol": "MDT",
       "name": "Medtronic plc",
       "theme": "醫療器材",
       "changePercent": -0.9185899644046356,
-      "reason": "獲得FDA批准LigaSure RAS Maryland器械，並與Sonus Microsystems合作。"
+      "reason": "Medtronic近期財報優於預期，並上調財測，同時MiniMed分拆案持續進行。"
     },
     {
       "symbol": "XOM",
       "name": "ExxonMobil Holdings Corporation",
       "theme": "石油與天然氣",
       "changePercent": 0.8676789587852529,
-      "reason": "受惠於能源市場環境，煉油利潤與原油價格上漲。"
+      "reason": "中東地緣政治緊張局勢推升油價，加上ExxonMobil強勁的生產量和現金流。"
     },
     {
       "symbol": "HPE",
       "name": "Hewlett Packard Enterprise Company",
       "theme": "企業IT服務",
       "changePercent": 3.9030736705155284,
-      "reason": "獲得Vultr公司12億美元AI系統大訂單，並上調網絡業務展望。"
+      "reason": "HPE獲得Vultr價值12億美元的AMD AI機架系統大訂單，並上調網路業務展望。"
     },
     {
       "symbol": "APP",
       "name": "Applovin Corporation Class A Common Stock",
       "theme": "數位廣告",
       "changePercent": -4.982660472420342,
-      "reason": "AppLovin控告Unity不當收集數據，引發法律訴訟。"
+      "reason": "Applovin近期股價觸及52週新低後出現反彈，部分分析師認為跌深提供買入機會。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI相關產業鏈，記憶體、AI晶片、雲端服務及半導體族群表現強勁。資金主要流向受惠於AI基礎設施建置需求的公司，其中美光（MU）因記憶體晶片價格上漲和AI資料中心需求而備受關注。Nvidia（NVDA）和AMD（AMD）作為AI晶片領導者，持續受惠於AI投資熱潮。此外，雲端服務巨頭如Alphabet（GOOGL, GOOG）和Microsoft（MSFT）也因其在AI雲端領域的布局而吸引資金。市場故事圍繞著AI技術的廣泛應用，從資料中心到消費性電子，甚至延伸至太空領域，顯示AI已成為跨產業的算力戰場。",
+    "highlights": "本日美股成交重點集中在AI相關題材，特別是記憶體、AI晶片以及雲端服務領域。美光科技（MU）公布的財報遠超預期，並宣布巨額資本支出擴建HBM產能，點燃了市場對AI記憶體需求的信心，帶動半導體板塊反彈。輝達（NVDA）和超微（AMD）等AI晶片股也受惠於AI基礎建設的持續需求而表現強勁。此外，雲端服務巨頭如Alphabet（GOOGL, GOOG）和Amazon（AMZN）也因AI雲端公司的合作與TPU晶片採購計畫而受到資金青睞，顯示市場正在交易AI產業鏈從硬體到服務的全面性成長故事。",
     "eventsPast": [
       {
-        "title": "美光財報公布，AI記憶體需求強勁",
-        "detail": "美光（MU）於9月30日盤後公布第四財季業績，市場高度關注AI記憶體需求，預期營收與獲利表現將受惠於AI資料中心對DRAM與高階記憶體的需求。"
+        "title": "美光科技（MU）財報亮眼，宣布擴大HBM產能",
+        "detail": "美光公布2026會計年度第四季營收年增近四倍，獲利遠超預期，並宣布將投資2,500億美元興建兩座全新HBM生產園區，以應對AI高頻寬記憶體（HBM）的強勁需求。"
       },
       {
-        "title": "OpenAI推出AI代理服務「dots」",
-        "detail": "OpenAI於9月30日的DevDay開發者大會上推出AI代理服務「dots」，主打可跨App執行任務並主動完成工作，定位為忙碌人士的數位助理。"
+        "title": "Meta Platforms推出AI代理Muse",
+        "detail": "Meta Platforms推出個人AI代理Muse，並將其接入AI眼鏡，此舉有利於AMD伺服器CPU的需求，並帶動社群媒體板塊的關注。"
       },
       {
-        "title": "Anthropic與SpaceX簽訂845億美元算力租賃協議",
-        "detail": "AI新創公司Anthropic最新IPO公開說明書揭露，已與SpaceX簽訂總金額上限達845億美元的算力租賃協議，期限至2029年。"
+        "title": "特斯拉Roadster新車發表延期",
+        "detail": "特斯拉原定於9月30日發表的Roadster新車活動，因德州惡劣天氣延期至10月15日。"
       },
       {
-        "title": "美國8月核心PCE年增率低於預期",
-        "detail": "美國商務部於9月30日公布8月核心PCE物價指數月增0.2%、年增約3.0%，雙雙低於市場預期，促使市場降低對聯準會10月再次升息的押注。"
+        "title": "美國8月核心PCE物價指數回落",
+        "detail": "美國8月核心PCE物價指數年率錄得3%，較上月小幅回落，影響市場對聯準會加息的預期。"
       },
       {
-        "title": "蘋果新款Mac mini與Mac Studio發售",
-        "detail": "蘋果新款Mac mini與Mac Studio已於9月22日正式發售，其中M6版Mac mini的AI效能最高較前代提升4倍，Mac Studio最高提升4.3倍，強化裝置端AI運算能力。"
+        "title": "美國ISM製造業PMI數據優於預期",
+        "detail": "美國供應管理協會（ISM）公布9月的製造業PMI數據為54.5，雖略低於市場預期的55.0，但仍穩於50榮枯線之上，顯示製造業處於擴張態勢。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "本週五",
-        "title": "美國非農就業數據公布",
-        "detail": "本週五將公布非農就業、失業率及平均時薪等數據，為聯準會評估勞動市場狀況的重要參考指標。"
+        "date": "10/5",
+        "title": "美國ISM服務業PMI",
+        "detail": "市場將關注美國服務業景氣狀況，以評估內需動能。"
       },
       {
-        "date": "10月中旬後",
-        "title": "美股超級財報季登場",
-        "detail": "10月中旬過後將進入美股超級財報季，金融股打頭陣，投資人需留意美債殖利率攀升對獲利的負面影響。"
+        "date": "10/7",
+        "title": "FOMC會議紀要",
+        "detail": "聯準會將公布9月會議紀要，市場將從中尋找貨幣政策的線索。"
       },
       {
-        "date": "10月",
-        "title": "台積電法說會",
-        "detail": "台積電將於10月舉行法說會，預期將提供AI晶片需求與先進製程展望的最新指引。"
+        "date": "10/8",
+        "title": "美國首次申請失業救濟人數",
+        "detail": "此數據將提供美國就業市場狀況的最新指引。"
       },
       {
-        "date": "本週三",
-        "title": "Alphabet、特斯拉、IBM財報",
-        "detail": "Alphabet、特斯拉（Tesla）、IBM將於本週三發布財報，投資人將密切關注AI相關資本支出計畫與電動車市場需求的最新指引。"
+        "date": "10/15",
+        "title": "特斯拉Roadster新車發表",
+        "detail": "特斯拉將發表新一代Roadster量產版並公布量產時程，市場關注其對品牌形象及未來銷售的影響。"
       },
       {
-        "date": "本週四",
-        "title": "英特爾財報",
-        "detail": "英特爾（Intel）預計於本週四盤後公布財報，市場將關注其在半導體領域的表現及對AI發展的展望。"
+        "date": "本週",
+        "title": "大型科技公司財報",
+        "detail": "本週多家大型科技公司將陸續公布財報，投資人將密切關注AI相關資本支出計畫與電動車市場需求的最新指引。"
       }
     ]
   }
