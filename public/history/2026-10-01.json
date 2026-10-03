@@ -151,7 +151,7 @@
       "dollarVolume": 8520074301.215225,
       "marketCap": 1640410166808.5999,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體通訊",
+      "theme": "半導體網路通訊",
       "isNew": false,
       "rankChange": 2,
       "streak": 142
@@ -164,7 +164,7 @@
       "dollarVolume": 8256509441.593122,
       "marketCap": 2677486617977.56,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電商/雲端",
+      "theme": "電子商務/雲端",
       "isNew": false,
       "rankChange": -2,
       "streak": 142
@@ -177,7 +177,7 @@
       "dollarVolume": 7851380139.786111,
       "marketCap": 93806466000,
       "sector": "COMMUNICATIONS EQUIPMENT, NEC",
-      "theme": "光學通訊",
+      "theme": "光通訊元件",
       "isNew": false,
       "rankChange": 6,
       "streak": 60
@@ -216,7 +216,7 @@
       "dollarVolume": 5065315711.833681,
       "marketCap": 235079352000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體通訊",
+      "theme": "半導體網路通訊",
       "isNew": false,
       "rankChange": 9,
       "streak": 132
@@ -255,7 +255,7 @@
       "dollarVolume": 3583889347.9049616,
       "marketCap": 170882775267.12,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "電子電腦",
+      "theme": "電腦硬體",
       "isNew": false,
       "rankChange": 15,
       "streak": 28
@@ -281,7 +281,7 @@
       "dollarVolume": 3505073701.5595193,
       "marketCap": 417487229520,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "企業軟體",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": 5,
       "streak": 142
@@ -294,7 +294,7 @@
       "dollarVolume": 3396451861.5563135,
       "marketCap": 437227561043.16,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "大數據分析",
+      "theme": "大數據/AI 軟體",
       "isNew": false,
       "rankChange": 0,
       "streak": 142
@@ -515,7 +515,7 @@
       "dollarVolume": 2498869276.9946404,
       "marketCap": 1082419421190.2499,
       "sector": "PHARMACEUTICAL PREPARATIONS",
-      "theme": "生技製藥",
+      "theme": "減肥藥 GLP-1",
       "isNew": false,
       "rankChange": -22,
       "streak": 11
@@ -528,7 +528,7 @@
       "dollarVolume": 2405779582.084312,
       "marketCap": 827172383086.66,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售",
+      "theme": "零售百貨",
       "isNew": false,
       "rankChange": -11,
       "streak": 3
@@ -580,7 +580,7 @@
       "dollarVolume": 2259006418.6082234,
       "marketCap": 85642860330,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "廣告科技",
+      "theme": "行動廣告",
       "isNew": false,
       "rankChange": 5,
       "streak": 2
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-10-01T20:00:00.000Z",
-  "generatedAt": "2026-10-02T11:03:35.659Z",
+  "generatedAt": "2026-10-03T02:06:15.277Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "半導體設備",
-      "reason": "AI與高效能運算需求持續增長，帶動半導體製造商擴大資本支出，對相關設備需求強勁。",
+      "reason": "全球半導體產業景氣復甦，資本支出增加，帶動設備供應商訂單成長。",
       "symbols": [
         "SNPS",
         "AMAT",
@@ -669,7 +669,7 @@
     },
     {
       "theme": "記憶體",
-      "reason": "AI應用對高頻寬記憶體(HBM)需求激增，推動記憶體產業景氣復甦與價格上漲預期。",
+      "reason": "記憶體市場需求回溫，特別是HBM等高階產品受AI應用帶動，價格上漲。",
       "symbols": [
         "MU",
         "SKHY"
@@ -679,7 +679,7 @@
     },
     {
       "theme": "儲存裝置",
-      "reason": "數據中心擴建與AI數據儲存需求增加，帶動硬碟與固態硬碟市場成長。",
+      "reason": "數據儲存需求持續增長，企業級儲存解決方案和個人消費市場均有穩定表現。",
       "symbols": [
         "SNDK",
         "WDC",
@@ -690,7 +690,7 @@
     },
     {
       "theme": "AI 晶片",
-      "reason": "人工智慧技術快速發展，對高效能AI晶片的需求持續旺盛，市場預期成長空間巨大。",
+      "reason": "AI技術快速發展，對高效能運算晶片的需求持續旺盛，推動相關晶片設計與製造商股價。",
       "symbols": [
         "NVDA",
         "AMD"
@@ -699,8 +699,8 @@
       "avgChange": 0.8674283743791498
     },
     {
-      "theme": "光學通訊",
-      "reason": "數據中心內部與外部傳輸頻寬需求提升，光學元件和通訊設備扮演關鍵角色。",
+      "theme": "光學元件",
+      "reason": "光通訊技術在數據中心和5G網路建設中扮演關鍵角色，相關元件需求增加。",
       "symbols": [
         "LITE",
         "COHR"
@@ -709,13 +709,14 @@
       "avgChange": 9.287767089220532
     },
     {
-      "theme": "電力基礎建設",
-      "reason": "全球能源轉型與AI數據中心用電量激增，對電力基礎設施的投資需求顯著增加。",
+      "theme": "雲端軟體 SaaS",
+      "reason": "企業數位轉型趨勢不變，雲端軟體服務持續受青睞，訂閱制模式帶來穩定營收。",
       "symbols": [
-        "GEV"
+        "ORCL",
+        "CRM"
       ],
-      "count": 1,
-      "avgChange": 3.888520657765998
+      "count": 2,
+      "avgChange": 1.831133134968023
     }
   ],
   "newEntrants": [
@@ -724,28 +725,28 @@
       "name": "Accenture PLC",
       "theme": "IT 顧問服務",
       "changePercent": 15.77684463107379,
-      "reason": "財報優於預期，AI相關訂單與財測展望佳，並宣布大額庫藏股計畫。"
+      "reason": "財報優於預期且上調財測，加上分析師調升評級與股息增加。"
     },
     {
       "symbol": "NKE",
       "name": "Nike, Inc.",
       "theme": "運動用品",
       "changePercent": -0.7062146892655368,
-      "reason": "財報營收未達預期，且全年財測疲軟，導致股價下跌。"
+      "reason": "第一季度營收未達預期，大中華區銷售下滑，並宣布將持續裁員。"
     },
     {
       "symbol": "COHR",
       "name": "Coherent Corp.",
       "theme": "光學元件",
       "changePercent": 10.903026302074284,
-      "reason": "券商Bernstein給予「優於大盤」評級，看好AI光學元件需求，並推出PhotonLink平台。"
+      "reason": "推出PhotonLink光學平台，解決AI數據中心頻寬瓶頸，獲華爾街看好。"
     },
     {
       "symbol": "SNPS",
       "name": "Synopsys Inc",
       "theme": "EDA 軟體",
       "changePercent": 12.78337241918426,
-      "reason": "投資者日公布樂觀的2027財年財測，並宣布與OpenAI、Amazon達成AI晶片設計合作。"
+      "reason": "與OpenAI和Amazon達成合作，並上調全年EPS財測。"
     },
     {
       "symbol": "BAC",
@@ -759,14 +760,14 @@
       "name": "GE Vernova Inc.",
       "theme": "電力基礎建設",
       "changePercent": 3.888520657765998,
-      "reason": "Evercore ISI調升財測與目標價，且近期有多項商業與監管利好消息。"
+      "reason": "小型模組化反應爐獲美國首張建造許可，訂單與積壓成長超預期。"
     },
     {
       "symbol": "GS",
       "name": "Goldman Sachs Group Inc.",
       "theme": "金融服務",
       "changePercent": -0.4098360655737766,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "投資Shein 2.2億美元，分散投資組合並看好電商潛力。"
     },
     {
       "symbol": "HD",
@@ -780,31 +781,31 @@
       "name": "Johnson & Johnson",
       "theme": "生技製藥",
       "changePercent": -2.2965928835838874,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "儘管有新藥正面消息，但Stelara生物相似藥競爭壓力仍存。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交焦點集中在AI相關硬體供應鏈，特別是記憶體、儲存裝置、AI晶片和光學通訊等族群。Micron Technology (MU) 公布的財報遠超預期，並宣布巨額資本支出擴建HBM產能，點燃了市場對AI記憶體「稅」狂飆的熱情，成為資金追逐的主要標的。Nvidia (NVDA) 和 AMD (AMD) 等AI晶片大廠也因AI基礎建設需求持續強勁而受到關注，市場故事圍繞著AI產業鏈的「一魚多吃」效應，從GPU、先進製程到資料中心基礎建設，各環節都有新題材發酵。",
+    "highlights": "本日美股成交重點集中在記憶體、儲存裝置和AI晶片等半導體相關族群，主要受AI需求持續增長的故事驅動。Micron Technology (MU) 以高達487億美元的成交金額領漲，顯示市場對記憶體產業的強勁信心。Nvidia (NVDA) 和 AMD (AMD) 等AI晶片股也維持高成交量，反映市場對AI基礎設施建設的持續投入。然而，儲存裝置族群如Western Digital (WDC) 和 Seagate Technology (STX) 則因東芝擴產資料中心硬碟的消息而大幅下跌，顯示產業內部競爭加劇的擔憂。",
     "eventsPast": [
       {
-        "title": "Micron Technology (MU) 財報與展望亮眼",
-        "detail": "Micron 公布的 2026 會計年度第四季營收年增近四倍，獲利遠超預期，並預估下一季營收和 EPS 將持續強勁，同時宣布將投資 2,500 億美元擴建 HBM 產能。"
+        "title": "東芝擴產資料中心硬碟，儲存裝置股重挫",
+        "detail": "日本東芝宣布將投資3.8億美元擴建菲律賓廠區，目標在2027會計年度前將資料中心用硬碟（HDD）產能提高一倍，導致同業希捷科技（STX）、Western Digital（WDC）和SanDisk（SNDK）股價大跌。"
       },
       {
-        "title": "AI 基礎建設支出維持高位，半導體 ETF 受捧",
-        "detail": "市場分析指出，AI 基礎建設支出仍維持高位，加上晶片業多元增長動力，使 iShares Semiconductor ETF (US.SOXX) 等分散投資工具受到追捧。"
+        "title": "Salesforce發布長期銷售預測，華爾街看好AI產品",
+        "detail": "Salesforce (CRM) 發布強勁的長期銷售預測，預估到2030財年年營收將突破630億美元，超越華爾街預期，並強調其AI產品策略，獲得分析師樂觀評價。"
       },
       {
-        "title": "Nvidia 布局電力基礎建設",
-        "detail": "Nvidia 據傳將投資最高 30 億美元入股德州 Stargate 資料中心園區背後的開發商 Lancium，藉此掌握 AI 資料中心所需的土地和電力資源。"
+        "title": "AMD收購World Labs，推進AI運算發展",
+        "detail": "AMD (AMD) 宣布收購World Labs，此舉旨在推進AI運算未來發展，並強化其開放式AI產業體系。"
       },
       {
-        "title": "Google 擴大 AI 雲端投資",
-        "detail": "Google 與黑石合資的 AI 雲端公司 Crux AI 傳取得 220 億美元聯貸，主要用於採購 Google TPU 晶片，首批 500MW 資料中心規劃 2027 年上線。"
+        "title": "Lumentum獲高盛點名，股價勁揚",
+        "detail": "光通訊元件廠Lumentum (LITE) 被高盛納入「高成長且預期分歧」名單，分析師共識預估其第三年銷售年成長率約42%，吸引買盤帶動股價上漲。"
       },
       {
-        "title": "蘋果新款 Mac 強化 AI 效能",
-        "detail": "蘋果新款 Mac mini 與 Mac Studio 於 9 月 22 日正式發售，其中 M6 版 Mac mini 的 AI 效能最高較前代提升 4 倍，Mac Studio 最高提升 4.3 倍。"
+        "title": "SK hynix子公司IPO計畫引發股權疑慮",
+        "detail": "SK hynix (SKHY) 旗下美國子公司Solidigm擬在美國上市的消息，引發市場對集團持股架構複雜化的擔憂，導致SK hynix股價走弱。"
       }
     ],
     "eventsUpcoming": []
