@@ -47,7 +47,7 @@
       "dollarVolume": 18823421560.297104,
       "marketCap": 2095375740057.2002,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "太空",
+      "theme": "太空科技",
       "isNew": false,
       "rankChange": 5,
       "streak": 78
@@ -112,7 +112,7 @@
       "dollarVolume": 11087258811.661871,
       "marketCap": 4869931924200,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "消費性電子",
+      "theme": "消費電子",
       "isNew": false,
       "rankChange": -4,
       "streak": 143
@@ -294,7 +294,7 @@
       "dollarVolume": 3746295752.7252393,
       "marketCap": 85162582095.9,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "潔淨能源",
+      "theme": "氫能源",
       "isNew": false,
       "rankChange": 5,
       "streak": 23
@@ -307,7 +307,7 @@
       "dollarVolume": 3419536534.392912,
       "marketCap": 434259640848.75,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "數據分析",
+      "theme": "大數據分析",
       "isNew": false,
       "rankChange": -1,
       "streak": 143
@@ -385,7 +385,7 @@
       "dollarVolume": 2982118359.683708,
       "marketCap": 53288318017.28,
       "sector": "—",
-      "theme": "網路服務",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": 3,
       "streak": 68
@@ -476,7 +476,7 @@
       "dollarVolume": 2435056257.126705,
       "marketCap": 81657701460.00002,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "廣告科技",
+      "theme": "數位廣告",
       "isNew": false,
       "rankChange": 8,
       "streak": 3
@@ -554,7 +554,7 @@
       "dollarVolume": 2129738214.0327163,
       "marketCap": 41124080857.8,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體 SaaS",
+      "theme": "雲端服務",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -645,20 +645,40 @@
       "dollarVolume": 1990177372.1749146,
       "marketCap": 47265260306.880005,
       "sector": "GUIDED MISSILES & SPACE VEHICLES & PARTS",
-      "theme": "太空",
+      "theme": "太空科技",
       "isNew": true,
       "rankChange": null,
       "streak": 1
     }
   ],
   "asOf": "2026-10-02T20:00:00.000Z",
-  "generatedAt": "2026-10-03T08:28:20.730Z",
+  "generatedAt": "2026-10-03T10:21:57.635Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
+      "theme": "AI 晶片",
+      "reason": "AI技術的快速發展持續推動對高效能運算晶片的需求，相關供應商受市場追捧。",
+      "symbols": [
+        "NVDA",
+        "AMD"
+      ],
+      "count": 2,
+      "avgChange": 2.145533195501119
+    },
+    {
+      "theme": "太空科技",
+      "reason": "商業太空探索與衛星通訊領域的進展，吸引投資者對太空產業的興趣。",
+      "symbols": [
+        "SPCX",
+        "RKLB"
+      ],
+      "count": 2,
+      "avgChange": 6.132608567255401
+    },
+    {
       "theme": "半導體設備",
-      "reason": "全球半導體產業持續擴張，資本支出增加，帶動相關設備供應商營收成長。",
+      "reason": "全球半導體產業擴張，帶動對先進製造設備的需求，相關供應商訂單能見度高。",
       "symbols": [
         "AMAT",
         "LRCX",
@@ -668,57 +688,34 @@
       "avgChange": 2.4848074911983087
     },
     {
-      "theme": "AI 晶片",
-      "reason": "人工智慧應用需求爆發，對高效能運算晶片的需求持續強勁。",
-      "symbols": [
-        "NVDA",
-        "AMD"
-      ],
-      "count": 2,
-      "avgChange": 2.145533195501119
-    },
-    {
-      "theme": "太空",
-      "reason": "商業太空探索與衛星通訊產業發展迅速，吸引市場關注。",
-      "symbols": [
-        "SPCX",
-        "RKLB"
-      ],
-      "count": 2,
-      "avgChange": 6.132608567255401
-    },
-    {
       "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型趨勢不變，雲端軟體服務需求穩定增長。",
+      "reason": "企業數位轉型趨勢不變，雲端軟體服務需求穩健成長，推動相關公司股價。",
       "symbols": [
         "MSFT",
-        "ORCL",
-        "CRWV"
+        "ORCL"
       ],
-      "count": 3,
-      "avgChange": 1.7238510822084105
+      "count": 2,
+      "avgChange": 1.9930251273207384
     },
     {
-      "theme": "半導體",
-      "reason": "半導體產業景氣復甦，各類晶片需求回溫。",
+      "theme": "伺服器/PC",
+      "reason": "AI伺服器需求強勁，以及PC市場復甦預期，帶動相關硬體供應商表現。",
       "symbols": [
-        "AVGO",
-        "MRVL",
-        "CRDO"
+        "DELL",
+        "HPE"
       ],
-      "count": 3,
-      "avgChange": 2.9823410222900524
+      "count": 2,
+      "avgChange": 5.59550335971095
     },
     {
       "theme": "網路服務",
-      "reason": "數位廣告與雲端服務持續增長，支撐網路巨頭表現。",
+      "reason": "數位廣告市場回溫及雲端服務持續成長，支撐大型網路服務公司的營收表現。",
       "symbols": [
         "GOOGL",
-        "GOOG",
-        "NBIS"
+        "GOOG"
       ],
-      "count": 3,
-      "avgChange": 2.5688930802266174
+      "count": 2,
+      "avgChange": 1.5866786938718702
     }
   ],
   "newEntrants": [
@@ -727,49 +724,49 @@
       "name": "Robinhood Markets, Inc. Class A Common Stock",
       "theme": "金融科技",
       "changePercent": 1.4304993252361575,
-      "reason": "Robinhood推出AI交易代理、加密永續期貨、24/7股票交易等新功能。"
+      "reason": "Robinhood因SEC批准代幣化股票交易框架，引發投資熱潮，散戶買盤創紀錄。"
     },
     {
       "symbol": "COIN",
       "name": "Coinbase Global, Inc. Class A Common Stock",
       "theme": "比特幣/加密",
       "changePercent": -3.322943631464944,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "Coinbase首席會計官宣布退休，Base平台代幣化股票交易量大增。"
     },
     {
       "symbol": "CRDO",
       "name": "Credo Technology Group Holding Ltd Ordinary Shares",
       "theme": "半導體",
       "changePercent": 4.03007089498977,
-      "reason": "Credo受惠於AI基礎設施支出擴展至網路和光學元件，且財報表現亮眼。"
+      "reason": "Credo受惠於強勁AI需求與光互連前景樂觀，分析師維持買進評級。"
     },
     {
       "symbol": "CRWV",
       "name": "CoreWeave, Inc. Class A Common Stock",
-      "theme": "雲端軟體 SaaS",
+      "theme": "雲端服務",
       "changePercent": 1.1855029919837545,
-      "reason": "CoreWeave因AI雲端基礎設施需求強勁，獲分析師看好並擴展新技術。"
+      "reason": "CoreWeave受AI基礎設施需求帶動，多家分析師給予買入評級。"
     },
     {
       "symbol": "CAT",
       "name": "Caterpillar Inc.",
       "theme": "重型機械",
       "changePercent": 2.307738851576201,
-      "reason": "Caterpillar宣布投資10億美元擴建北卡羅來納州製造廠並收購經銷商。"
+      "reason": "Caterpillar受AI基建需求、10億美元新廠投資及收購經銷商助攻。"
     },
     {
       "symbol": "HPE",
       "name": "Hewlett Packard Enterprise Company",
       "theme": "伺服器/PC",
       "changePercent": 7.355218333849489,
-      "reason": "HPE獲得Vultr價值12億美元的AMD Helios AI機架平台訂單，並上調網路業務展望。"
+      "reason": "HPE上調成長目標並拿下Vultr價值12億美元AI伺服器大訂單。"
     },
     {
       "symbol": "RKLB",
       "name": "Rocket Lab Corporation Common Stock",
-      "theme": "太空",
+      "theme": "太空科技",
       "changePercent": 4.910587567414147,
-      "reason": "Rocket Lab與Synspective簽訂20次Electron火箭發射協議，大幅增加訂單積壓。"
+      "reason": "Rocket Lab簽署迄今最大商業發射合約，花旗給予買入評級。"
     }
   ],
   "marketBriefing": {
