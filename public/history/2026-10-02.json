@@ -112,7 +112,7 @@
       "dollarVolume": 11087258811.661871,
       "marketCap": 4869931924200,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "消費電子",
+      "theme": "消費性電子",
       "isNew": false,
       "rankChange": -4,
       "streak": 143
@@ -138,7 +138,7 @@
       "dollarVolume": 9464988759.33867,
       "marketCap": 1605509964832.72,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "社群媒體",
+      "theme": "社群媒體/元宇宙",
       "isNew": false,
       "rankChange": 0,
       "streak": 143
@@ -177,7 +177,7 @@
       "dollarVolume": 8405465706.239607,
       "marketCap": 2712973589629.44,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電商與雲端",
+      "theme": "電商/雲端服務",
       "isNew": false,
       "rankChange": -1,
       "streak": 143
@@ -190,7 +190,7 @@
       "dollarVolume": 8165571239.241494,
       "marketCap": 2015658000000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "網路服務",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": -9,
       "streak": 143
@@ -203,7 +203,7 @@
       "dollarVolume": 5950189486.298972,
       "marketCap": 1881114450000.0002,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "網路服務",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": -1,
       "streak": 143
@@ -266,7 +266,7 @@
       "price": 160.01,
       "changePercent": -0.30529595015576894,
       "dollarVolume": 4451240294.272421,
-      "marketCap": 58337326015.009995,
+      "marketCap": 64141089047.53,
       "sector": "FINANCE SERVICES",
       "theme": "比特幣/加密",
       "isNew": false,
@@ -307,7 +307,7 @@
       "dollarVolume": 3419536534.392912,
       "marketCap": 434259640848.75,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "大數據分析",
+      "theme": "數據分析/AI",
       "isNew": false,
       "rankChange": -1,
       "streak": 143
@@ -346,7 +346,7 @@
       "dollarVolume": 3093035701.389601,
       "marketCap": 177437476913.75998,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "伺服器/PC",
+      "theme": "PC/伺服器",
       "isNew": false,
       "rankChange": -7,
       "streak": 29
@@ -385,7 +385,7 @@
       "dollarVolume": 2982118359.683708,
       "marketCap": 53288318017.28,
       "sector": "—",
-      "theme": "雲端服務",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": 3,
       "streak": 68
@@ -476,7 +476,7 @@
       "dollarVolume": 2435056257.126705,
       "marketCap": 81657701460.00002,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "數位廣告",
+      "theme": "行動廣告",
       "isNew": false,
       "rankChange": 8,
       "streak": 3
@@ -515,7 +515,7 @@
       "dollarVolume": 2368788014.116904,
       "marketCap": 41093807351.52,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "資料中心互連",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -528,7 +528,7 @@
       "dollarVolume": 2354068843.163043,
       "marketCap": 1075829921735.2499,
       "sector": "PHARMACEUTICAL PREPARATIONS",
-      "theme": "生技製藥",
+      "theme": "減肥藥 GLP-1",
       "isNew": false,
       "rankChange": -1,
       "streak": 12
@@ -552,9 +552,9 @@
       "price": 89.62,
       "changePercent": 1.1855029919837545,
       "dollarVolume": 2129738214.0327163,
-      "marketCap": 41124080857.8,
+      "marketCap": 49428710271.240005,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端服務",
+      "theme": "雲端軟體 SaaS",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -593,7 +593,7 @@
       "dollarVolume": 2106274188.7396927,
       "marketCap": 707748873676.65,
       "sector": "FIRE, MARINE & CASUALTY INSURANCE",
-      "theme": "多元控股",
+      "theme": "控股公司",
       "isNew": false,
       "rankChange": -2,
       "streak": 3
@@ -632,7 +632,7 @@
       "dollarVolume": 2012115834.5774376,
       "marketCap": 92033133128.06999,
       "sector": "COMPUTER & OFFICE EQUIPMENT",
-      "theme": "伺服器/PC",
+      "theme": "PC/伺服器",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -652,13 +652,27 @@
     }
   ],
   "asOf": "2026-10-02T20:00:00.000Z",
-  "generatedAt": "2026-10-03T10:21:57.635Z",
+  "generatedAt": "2026-10-06T02:09:58.814Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
+      "theme": "雲端軟體 SaaS",
+      "reason": "企業數位轉型與AI應用持續推動雲端服務需求增長，帶動相關軟體與平台供應商股價表現。",
+      "symbols": [
+        "MSFT",
+        "GOOGL",
+        "GOOG",
+        "ORCL",
+        "NBIS",
+        "CRWV"
+      ],
+      "count": 6,
+      "avgChange": 2.146372081217514
+    },
+    {
       "theme": "AI 晶片",
-      "reason": "AI技術的快速發展持續推動對高效能運算晶片的需求，相關供應商受市場追捧。",
+      "reason": "全球對AI算力的需求持續爆發，推動AI晶片設計與製造商的營收預期與股價上漲。",
       "symbols": [
         "NVDA",
         "AMD"
@@ -667,18 +681,8 @@
       "avgChange": 2.145533195501119
     },
     {
-      "theme": "太空科技",
-      "reason": "商業太空探索與衛星通訊領域的進展，吸引投資者對太空產業的興趣。",
-      "symbols": [
-        "SPCX",
-        "RKLB"
-      ],
-      "count": 2,
-      "avgChange": 6.132608567255401
-    },
-    {
       "theme": "半導體設備",
-      "reason": "全球半導體產業擴張，帶動對先進製造設備的需求，相關供應商訂單能見度高。",
+      "reason": "半導體產業擴張與技術升級，帶動對先進製程設備的需求，使相關供應商受惠。",
       "symbols": [
         "AMAT",
         "LRCX",
@@ -688,18 +692,18 @@
       "avgChange": 2.4848074911983087
     },
     {
-      "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型趨勢不變，雲端軟體服務需求穩健成長，推動相關公司股價。",
+      "theme": "太空科技",
+      "reason": "太空探索與衛星通訊產業的發展潛力吸引資金關注，相關公司表現活躍。",
       "symbols": [
-        "MSFT",
-        "ORCL"
+        "SPCX",
+        "RKLB"
       ],
       "count": 2,
-      "avgChange": 1.9930251273207384
+      "avgChange": 6.132608567255401
     },
     {
-      "theme": "伺服器/PC",
-      "reason": "AI伺服器需求強勁，以及PC市場復甦預期，帶動相關硬體供應商表現。",
+      "theme": "PC/伺服器",
+      "reason": "AI伺服器需求強勁，加上PC市場復甦預期，帶動相關硬體供應商股價上揚。",
       "symbols": [
         "DELL",
         "HPE"
@@ -708,14 +712,13 @@
       "avgChange": 5.59550335971095
     },
     {
-      "theme": "網路服務",
-      "reason": "數位廣告市場回溫及雲端服務持續成長，支撐大型網路服務公司的營收表現。",
+      "theme": "電動車",
+      "reason": "電動車市場競爭激烈但長期趨勢不變，部分領先企業仍能吸引投資者目光。",
       "symbols": [
-        "GOOGL",
-        "GOOG"
+        "TSLA"
       ],
-      "count": 2,
-      "avgChange": 1.5866786938718702
+      "count": 1,
+      "avgChange": 4.653921097963899
     }
   ],
   "newEntrants": [
@@ -724,75 +727,101 @@
       "name": "Robinhood Markets, Inc. Class A Common Stock",
       "theme": "金融科技",
       "changePercent": 1.4304993252361575,
-      "reason": "Robinhood因SEC批准代幣化股票交易框架，引發投資熱潮，散戶買盤創紀錄。"
+      "reason": "Robinhood推出AI交易代理、永續期貨等新產品，並獲分析師調升目標價。"
     },
     {
       "symbol": "COIN",
       "name": "Coinbase Global, Inc. Class A Common Stock",
       "theme": "比特幣/加密",
       "changePercent": -3.322943631464944,
-      "reason": "Coinbase首席會計官宣布退休，Base平台代幣化股票交易量大增。"
+      "reason": "KBW分析師首次給予買入評級，目標價237美元，且比特幣價格近期上漲。"
     },
     {
       "symbol": "CRDO",
       "name": "Credo Technology Group Holding Ltd Ordinary Shares",
-      "theme": "半導體",
+      "theme": "資料中心互連",
       "changePercent": 4.03007089498977,
-      "reason": "Credo受惠於強勁AI需求與光互連前景樂觀，分析師維持買進評級。"
+      "reason": "受惠費城半導體族群走揚與科技股買氣，資金湧入半導體高速傳輸題材。"
     },
     {
       "symbol": "CRWV",
       "name": "CoreWeave, Inc. Class A Common Stock",
-      "theme": "雲端服務",
+      "theme": "雲端軟體 SaaS",
       "changePercent": 1.1855029919837545,
-      "reason": "CoreWeave受AI基礎設施需求帶動，多家分析師給予買入評級。"
+      "reason": "近期無明確個股消息，可能受AI雲端軟體SaaS族群輪動帶動。"
     },
     {
       "symbol": "CAT",
       "name": "Caterpillar Inc.",
       "theme": "重型機械",
       "changePercent": 2.307738851576201,
-      "reason": "Caterpillar受AI基建需求、10億美元新廠投資及收購經銷商助攻。"
+      "reason": "宣布投資10億美元擴建北卡羅來納州的緊湊型設備製造產能。"
     },
     {
       "symbol": "HPE",
       "name": "Hewlett Packard Enterprise Company",
-      "theme": "伺服器/PC",
+      "theme": "PC/伺服器",
       "changePercent": 7.355218333849489,
-      "reason": "HPE上調成長目標並拿下Vultr價值12億美元AI伺服器大訂單。"
+      "reason": "上調成長目標並拿下Vultr價值12億美元的AI伺服器大訂單。"
     },
     {
       "symbol": "RKLB",
       "name": "Rocket Lab Corporation Common Stock",
       "theme": "太空科技",
       "changePercent": 4.910587567414147,
-      "reason": "Rocket Lab簽署迄今最大商業發射合約，花旗給予買入評級。"
+      "reason": "與Synspective簽訂20次發射合約，花旗維持買入評級。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI晶片、太空科技與儲存裝置三大領域。AI晶片股如Nvidia (NVDA) 和AMD (AMD) 受惠於市場對AI算力需求的持續看好，以及AMD收購AI模型公司World Labs的利好消息而表現強勁。太空科技股SpaceX (SPCX) 則因星艦成功發射及AI算力租賃業務的雙重利好而成交量大增。然而，儲存裝置類股如Western Digital (WDC)、SanDisk (SNDK) 和Seagate Technology (STX) 則因獲利了結賣壓和對消費級NAND需求疲軟的擔憂而普遍下跌。",
+    "highlights": "本日美股成交重點集中在AI晶片、記憶體、電動車和太空科技等高科技成長股。資金流向主要受美國9月非農就業數據遠遜預期影響，市場對聯準會10月升息的預期大幅降溫，帶動科技股全面上漲。Nvidia、Tesla和SpaceX等個股因各自利好消息和產業趨勢，成為成交量和漲幅的領頭羊，市場交易的故事圍繞著AI算力需求、電動車交付量超預期以及太空探索的進展。",
     "eventsPast": [
       {
-        "title": "美國9月非農就業報告不如預期，降低升息機率",
-        "detail": "美國9月非農業就業報告顯示新增就業人數僅2.9萬人，遠低於市場預期，導致聯準會10月升息的機率降低，支撐了股市上漲，特別是科技股領漲。"
+        "title": "美國9月非農就業數據遠遜預期",
+        "detail": "美國勞工部公布9月非農就業人口僅增加2.9萬人，遠低於市場預期的9萬人，失業率升至4.2%，薪資成長放緩，導致市場對聯準會10月升息的預期大幅降溫。"
       },
       {
-        "title": "AMD以82億美元收購AI模型公司World Labs",
-        "detail": "AMD宣布以約82億美元全股票收購由「AI教母」李飛飛創辦的World Labs，此舉旨在結合World Labs在AI與世界模型的專長與AMD的運算實力，強化其在AI領域的競爭力。"
+        "title": "Nvidia推出DGX SPARK 64GB設備，股價創紀錄新高",
+        "detail": "Nvidia推出起售價4999美元的DGX SPARK 64GB設備，並重新成為摩根士丹利的首選股，股價創下四個多月來的首個紀錄新高。"
       },
       {
-        "title": "SpaceX星艦成功發射並將Google AI晶片送入軌道",
-        "detail": "SpaceX旗下巨型火箭「星艦」成功發射入軌，並將Google的AI晶片送入太空，開啟了執行更複雜政府任務的機會，同時也推進了太空數據中心的發展。"
+        "title": "Tesla第三季交付量超預期",
+        "detail": "Tesla第三季交付486,532輛電動車，超出市場預期，帶動股價上漲。"
       },
       {
-        "title": "儲存裝置類股普遍下跌，WDC、STX跌幅顯著",
-        "detail": "Western Digital (WDC)、Seagate Technology (STX) 和SanDisk (SNDK) 等儲存裝置公司股價普遍下跌，主要原因為技術指標高檔轉弱引發獲利了結賣壓，以及市場對消費級NAND需求疲軟的擔憂。"
+        "title": "SpaceX太空船抵達國際太空站創最快航程紀錄",
+        "detail": "SpaceX的「優雅號」太空船與國際太空站完成對接，創下美國太空船前往國際太空站的最快航行紀錄。"
       },
       {
-        "title": "Alphabet推出新AI模型Gemini 4 Argon",
-        "detail": "Google推出Gemini 4 Argon模型，強調在程式碼編寫、網路安全及複雜任務處理上取得重大進展，並在定價策略上與OpenAI最新降價的GPT-6.1 Sol模型對齊。"
+        "title": "Broadcom與Anthropic擴大AI晶片合作",
+        "detail": "Broadcom傳出正籌集600億美元資金，以支應Anthropic的AI晶片需求，顯示雙方合作規模持續擴大。"
       }
     ],
-    "eventsUpcoming": []
+    "eventsUpcoming": [
+      {
+        "date": "10/7",
+        "title": "聯準會9月FOMC會議紀錄",
+        "detail": "聯準會將公布9月FOMC會議紀錄，市場將從中尋找10月及年底利率政策的進一步線索。"
+      },
+      {
+        "date": "10/7",
+        "title": "微軟Windows與Surface發表會",
+        "detail": "微軟將舉辦Windows與Surface發表會，主題聚焦「本地AI如何開啟PC新篇章」，NVIDIA執行長黃仁勳也將出席。"
+      },
+      {
+        "date": "10/13",
+        "title": "蘋果新品發表會",
+        "detail": "蘋果預計舉辦新品發表活動，可能聚焦於智慧家庭設備，包括HomePad、Apple TV和HomePod mini的硬體升級。"
+      },
+      {
+        "date": "10/14",
+        "title": "美國9月CPI消費者物價指數",
+        "detail": "美國將公布9月CPI消費者物價指數，市場將藉此確認通膨復甦趨勢是否具實質威脅。"
+      },
+      {
+        "date": "10/29",
+        "title": "聯準會FOMC會議",
+        "detail": "聯準會將舉行10月份的FOMC會議，討論並決定利率政策。"
+      }
+    ]
   }
 }
