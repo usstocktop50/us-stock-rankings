@@ -73,7 +73,7 @@
       "dollarVolume": 13485069919.693754,
       "marketCap": 77706267568.3,
       "sector": "CABLE & OTHER PAY TELEVISION SERVICES",
-      "theme": "影音串流",
+      "theme": "串流媒體",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -138,7 +138,7 @@
       "dollarVolume": 9899928499.408012,
       "marketCap": 2711679232000.8003,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電商與雲端服務",
+      "theme": "電商",
       "isNew": false,
       "rankChange": 3,
       "streak": 144
@@ -151,7 +151,7 @@
       "dollarVolume": 9480013010.185112,
       "marketCap": 586062360000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "CPU 晶片",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": -5,
       "streak": 144
@@ -164,7 +164,7 @@
       "dollarVolume": 8867971271.322031,
       "marketCap": 2033085960000.0002,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "搜尋引擎與AI",
+      "theme": "搜尋引擎",
       "isNew": false,
       "rankChange": 2,
       "streak": 144
@@ -177,7 +177,7 @@
       "dollarVolume": 8648566533.468517,
       "marketCap": 1031316107783.5,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "CPU/GPU 晶片",
+      "theme": "AI 晶片",
       "isNew": false,
       "rankChange": -8,
       "streak": 144
@@ -190,7 +190,7 @@
       "dollarVolume": 7767926705.933656,
       "marketCap": 1730488562361.15,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網路通訊晶片",
+      "theme": "網通晶片",
       "isNew": false,
       "rankChange": -2,
       "streak": 144
@@ -255,7 +255,7 @@
       "dollarVolume": 4794322358.800425,
       "marketCap": 1900348410000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "搜尋引擎與AI",
+      "theme": "搜尋引擎",
       "isNew": false,
       "rankChange": -4,
       "streak": 144
@@ -268,7 +268,7 @@
       "dollarVolume": 3844854616.762952,
       "marketCap": 81128725003.69,
       "sector": "BIOLOGICAL PRODUCTS, (NO DIAGNOSTIC SUBSTANCES)",
-      "theme": "mRNA 生技",
+      "theme": "生技製藥",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -307,7 +307,7 @@
       "dollarVolume": 3499896558.7962003,
       "marketCap": 237859125000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "資料中心晶片",
+      "theme": "網通晶片",
       "isNew": false,
       "rankChange": -2,
       "streak": 134
@@ -385,7 +385,7 @@
       "dollarVolume": 2599145742.2375374,
       "marketCap": 430821905279.99994,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "企業軟體",
+      "theme": "資料庫軟體",
       "isNew": false,
       "rankChange": -12,
       "streak": 144
@@ -411,7 +411,7 @@
       "dollarVolume": 2545942098.2660875,
       "marketCap": 609535652139.21,
       "sector": "PHARMACEUTICAL PREPARATIONS",
-      "theme": "製藥與醫療",
+      "theme": "生技製藥",
       "isNew": false,
       "rankChange": 0,
       "streak": 3
@@ -437,7 +437,7 @@
       "dollarVolume": 2472489514.507347,
       "marketCap": 284228900640,
       "sector": "SERVICES-VIDEO TAPE RENTAL",
-      "theme": "影音串流",
+      "theme": "串流媒體",
       "isNew": false,
       "rankChange": 0,
       "streak": 17
@@ -502,7 +502,7 @@
       "dollarVolume": 2312368304.323837,
       "marketCap": 94326976769.22,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "拉丁美洲電商",
+      "theme": "電商",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -554,7 +554,7 @@
       "dollarVolume": 2228510151.2719626,
       "marketCap": 90218816001.74,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "線上券商",
+      "theme": "金融服務",
       "isNew": false,
       "rankChange": -18,
       "streak": 2
@@ -652,23 +652,13 @@
     }
   ],
   "asOf": "2026-10-05T20:00:00.000Z",
-  "generatedAt": "2026-10-06T07:04:01.957Z",
+  "generatedAt": "2026-10-06T09:17:49.706Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
-      "theme": "儲存裝置",
-      "reason": "隨著資料量持續增長，市場對高效能儲存解決方案的需求不斷增加，帶動相關公司股價上漲。",
-      "symbols": [
-        "WDC",
-        "STX"
-      ],
-      "count": 2,
-      "avgChange": 5.41632456379136
-    },
-    {
       "theme": "AI 晶片",
-      "reason": "人工智慧技術的快速發展持續推動對高效能AI晶片的需求，相關供應商受市場追捧。",
+      "reason": "AI技術的快速發展持續推動對高效能運算晶片的需求，市場對相關供應商的未來增長潛力抱持樂觀態度。",
       "symbols": [
         "NVDA",
         "CBRS"
@@ -677,72 +667,80 @@
       "avgChange": 5.600368638020386
     },
     {
-      "theme": "搜尋引擎與AI",
-      "reason": "科技巨頭在AI領域的持續投入和產品創新，使其在市場上保持競爭力並吸引資金關注。",
+      "theme": "儲存裝置",
+      "reason": "隨著數據量的爆炸式增長，對高效能和高容量儲存解決方案的需求不斷增加，帶動相關廠商股價上揚。",
       "symbols": [
-        "GOOGL",
-        "GOOG"
+        "WDC",
+        "STX"
       ],
       "count": 2,
-      "avgChange": 0.9435528415072316
+      "avgChange": 5.41632456379136
     },
     {
-      "theme": "影音串流",
-      "reason": "串流媒體服務的用戶基礎穩固，內容投資和訂閱模式的成功持續支撐其市場表現。",
+      "theme": "電商",
+      "reason": "全球數位化趨勢下，電子商務平台持續擴張市場份額，尤其在新興市場展現強勁增長動能。",
       "symbols": [
-        "WBD",
-        "NFLX"
-      ],
-      "count": 2,
-      "avgChange": 0.3442247302004099
-    },
-    {
-      "theme": "半導體設備",
-      "reason": "全球半導體產業擴張，晶圓廠建設和技術升級需求帶動設備供應商的訂單增長。",
-      "symbols": [
-        "AMAT"
+        "MELI"
       ],
       "count": 1,
-      "avgChange": 0.41478409006740413
+      "avgChange": 9.669566652520393
     },
     {
       "theme": "太空科技",
-      "reason": "太空探索和衛星通訊等新興領域的發展潛力巨大，吸引投資者對相關公司的興趣。",
+      "reason": "太空探索與商業化應用前景廣闊，投資者看好相關技術創新與服務提供商的長期發展。",
       "symbols": [
         "SPCX"
       ],
       "count": 1,
       "avgChange": 7.630850528434824
+    },
+    {
+      "theme": "生技製藥",
+      "reason": "新藥研發進展和醫療技術突破持續吸引市場關注，特別是針對重大疾病的創新療法。",
+      "symbols": [
+        "MRNA"
+      ],
+      "count": 1,
+      "avgChange": 6.947002789326887
+    },
+    {
+      "theme": "金融科技",
+      "reason": "數位支付和金融服務的普及化，推動金融科技公司快速成長，尤其是在新興市場的滲透率不斷提升。",
+      "symbols": [
+        "NU"
+      ],
+      "count": 1,
+      "avgChange": 13.030528667163068
     }
   ],
   "newEntrants": [
     {
       "symbol": "WBD",
       "name": "Warner Bros. Discovery, Inc. Series A Common Stock",
-      "theme": "影音串流",
+      "theme": "串流媒體",
       "changePercent": 0.032320620555908244,
-      "reason": "華納兄弟探索公司將被Paramount Skydance收購，並將被Twilio取代納入S&P 500指數。"
+      "reason": "華納兄弟探索公司將被派拉蒙Skydance收購，並被那斯達克100指數移除。"
     },
     {
       "symbol": "TWLO",
       "name": "Twilio Inc.",
       "theme": "雲端通訊",
       "changePercent": 2.148822051734687,
-      "reason": "Twilio將取代華納兄弟探索公司納入S&P 500指數，推動股價上漲。"
+      "reason": "Twilio將取代WBD加入S&P 500指數，激勵股價上漲。"
     },
     {
       "symbol": "PTC",
       "name": "PTC, INC",
       "theme": "工業軟體",
       "changePercent": 33.486079289036994,
-      "reason": "施耐德電機宣布以226億美元收購PTC，溢價約33.49%。"
+      "reason": "施耐德電機宣布以226億美元收購PTC，推動股價飆升33%。"
     },
     {
       "symbol": "MRNA",
       "name": "Moderna, Inc. Common Stock",
-      "theme": "mRNA 生技",
+      "theme": "生技製藥",
       "changePercent": 6.947002789326887,
-      "reason": "Moderna將被納入Nasdaq-100指數，並公布癌症疫苗平台進展。"
+      "reason": "Moderna因實驗性癌症疫苗的利好消息，且將加入那斯達克100指數。"
     },
     {
       "symbol": "NU",
@@ -756,57 +754,93 @@
       "name": "Skyworks Solutions Inc",
       "theme": "射頻元件",
       "changePercent": -1.3171821709984763,
-      "reason": "Skyworks Solutions完成收購Qorvo，擴大射頻、電源管理和類比半導體產品組合。"
+      "reason": "Skyworks Solutions完成對Qorvo的收購，重塑射頻半導體格局。"
     },
     {
       "symbol": "MELI",
       "name": "Mercado Libre, Inc",
-      "theme": "拉丁美洲電商",
+      "theme": "電商",
       "changePercent": 9.669566652520393,
-      "reason": "MercadoLibre發行10億美元債券，獲得新街投行買入評級，推動股價上漲。"
+      "reason": "Mercado Libre發行10億美元債券，並獲分析師調升評級。"
     },
     {
       "symbol": "CTVA",
       "name": "Corteva, Inc. Common Stock",
       "theme": "農業科技",
       "changePercent": 3.9429530201342335,
-      "reason": "Corteva完成種子業務Vylor分拆，成為專注作物保護的獨立公司。"
+      "reason": "Corteva完成種子業務Vylor分拆，股價因重組而下跌。"
     },
     {
       "symbol": "QCOM",
       "name": "Qualcomm Inc",
       "theme": "手機晶片",
       "changePercent": -2.2069562395196693,
-      "reason": "高通與華為簽訂多年期專利授權協議，並與Arm Holdings進行訴訟。"
+      "reason": "高通與Arm Holdings的專利訴訟案開庭，涉及數十億美元權利金。"
     },
     {
       "symbol": "UNH",
       "name": "UNITEDHEALTH GROUP INCORPORATED (Delaware)",
       "theme": "醫療保險",
       "changePercent": 1.7961817692928226,
-      "reason": "德州檢察長調查聯合健康集團涉嫌妨礙病患護理，但公司股價仍上漲。"
+      "reason": "德州檢察長調查UnitedHealth Group涉嫌妨礙病患護理。"
     },
     {
       "symbol": "CSCO",
       "name": "Cisco Systems, Inc. Common Stock (DE)",
       "theme": "網路設備",
       "changePercent": 0.5525846702317204,
-      "reason": "思科與Bell Canada合作開發主權AI基礎設施，並受惠於AI網路需求。"
+      "reason": "思科與Bell Canada合作開發加拿大主權AI基礎設施。"
     },
     {
       "symbol": "FORM",
       "name": "FormFactor Inc.",
       "theme": "半導體測試",
       "changePercent": -0.777740529668117,
-      "reason": "FormFactor將取代Twilio納入S&P MidCap 400指數。"
+      "reason": "FormFactor將取代Twilio加入S&P MidCap 400指數。"
     },
     {
       "symbol": "XOM",
       "name": "ExxonMobil Holdings Corporation",
       "theme": "石油天然氣",
       "changePercent": -0.0060971891957752,
-      "reason": "埃克森美孚面臨美國最高法院氣候訴訟，但股價波動不大。"
+      "reason": "美國最高法院審理針對埃克森美孚的氣候訴訟案。"
     }
   ],
-  "marketBriefing": null
+  "marketBriefing": {
+    "highlights": "本日美股成交重點集中在AI晶片、太空科技和記憶體等高科技領域。Nvidia (NVDA) 和Broadcom (AVGO) 等AI晶片股受惠於AI基礎建設的龐大投資和需求，其中Broadcom更傳出與Anthropic達成420億美元的AI晶片基礎設施融資協議，帶動股價上漲。SpaceX (SPCX) 則因「Starmind」計畫，擬部署百萬AI衛星建軌道數據中心，激勵太空科技題材走強。記憶體方面，Micron (MU) 受惠於AI應用帶動的需求激增，獲得分析師升評，但市場對記憶體短缺結束時間仍有疑慮。整體而言，市場資金持續追逐AI相關的成長故事，儘管對高利率和美股估值過高存在擔憂，但科技巨頭的強勁財報預期仍提供支撐。",
+    "eventsPast": [
+      {
+        "title": "Broadcom與Anthropic達成420億美元AI晶片融資協議",
+        "detail": "Broadcom (AVGO) 傳出與AI公司Anthropic達成高達420億美元的AI晶片基礎設施融資協議，大幅提升其在客製化晶片市場的地位，並預計AI半導體營收將在2028年前翻兩番。"
+      },
+      {
+        "title": "Nvidia市值逼近6兆美元",
+        "detail": "Nvidia (NVDA) 股價上漲2.1%，市值達到5.76兆美元，創下歷史新高，市場預期本月底前市值有望達到6兆美元。"
+      },
+      {
+        "title": "Micron獲分析師升評至買入",
+        "detail": "Micron Technology (MU) 因人工智慧應用帶動的需求激增，以及對多年期合約的能見度提高，獲得分析師升評至買入。"
+      },
+      {
+        "title": "Apple因專利侵權案被判支付額外利息",
+        "detail": "聯邦法官裁定Apple (AAPL) 需額外支付1.84億美元的利息，與其Apple Watch心率監測功能侵犯Masimo公司專利相關的6.34億美元賠償金有關。"
+      },
+      {
+        "title": "Intel股價下跌，因Elon Musk暗示Terafab可能與競爭對手合作",
+        "detail": "Intel (INTC) 股價下跌，此前Elon Musk暗示其德州晶片製造計畫Terafab可能與台積電 (TSMC) 合作，而非僅與Intel合作，引發市場對Intel在該計畫中地位的擔憂。"
+      }
+    ],
+    "eventsUpcoming": [
+      {
+        "date": "10/14",
+        "title": "美國9月消費者物價指數 (CPI) 公布",
+        "detail": "此數據將是判斷聯準會下一步政策的重要依據，若通膨居高不下，12月升息的可能性仍未完全排除。"
+      },
+      {
+        "date": "本週",
+        "title": "科技巨頭財報季",
+        "detail": "華爾街高度期待科技巨頭的財報，預計科技業第三季每股獲利將成長逾65%，將決定多頭行情能否持續。"
+      }
+    ]
+  }
 }
