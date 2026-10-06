@@ -138,7 +138,7 @@
       "dollarVolume": 9899928499.408012,
       "marketCap": 2711679232000.8003,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電商",
+      "theme": "電子商務",
       "isNew": false,
       "rankChange": 3,
       "streak": 144
@@ -151,7 +151,7 @@
       "dollarVolume": 9480013010.185112,
       "marketCap": 586062360000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "CPU 晶片",
       "isNew": false,
       "rankChange": -5,
       "streak": 144
@@ -177,7 +177,7 @@
       "dollarVolume": 8648566533.468517,
       "marketCap": 1031316107783.5,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "AI 晶片",
+      "theme": "CPU/GPU 晶片",
       "isNew": false,
       "rankChange": -8,
       "streak": 144
@@ -268,7 +268,7 @@
       "dollarVolume": 3844854616.762952,
       "marketCap": 81128725003.69,
       "sector": "BIOLOGICAL PRODUCTS, (NO DIAGNOSTIC SUBSTANCES)",
-      "theme": "生技製藥",
+      "theme": "mRNA 生技",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -333,7 +333,7 @@
       "dollarVolume": 3285686307.6825333,
       "marketCap": 97922799000,
       "sector": "COMMUNICATIONS EQUIPMENT, NEC",
-      "theme": "光學通訊",
+      "theme": "光學元件",
       "isNew": false,
       "rankChange": -9,
       "streak": 62
@@ -411,7 +411,7 @@
       "dollarVolume": 2545942098.2660875,
       "marketCap": 609535652139.21,
       "sector": "PHARMACEUTICAL PREPARATIONS",
-      "theme": "生技製藥",
+      "theme": "製藥",
       "isNew": false,
       "rankChange": 0,
       "streak": 3
@@ -502,7 +502,7 @@
       "dollarVolume": 2312368304.323837,
       "marketCap": 94326976769.22,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "電商",
+      "theme": "電子商務",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -554,7 +554,7 @@
       "dollarVolume": 2228510151.2719626,
       "marketCap": 90218816001.74,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "金融服務",
+      "theme": "線上券商",
       "isNew": false,
       "rankChange": -18,
       "streak": 2
@@ -652,23 +652,13 @@
     }
   ],
   "asOf": "2026-10-05T20:00:00.000Z",
-  "generatedAt": "2026-10-06T09:17:49.706Z",
+  "generatedAt": "2026-10-06T11:49:04.228Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
-      "theme": "AI 晶片",
-      "reason": "AI技術的快速發展持續推動對高效能運算晶片的需求，市場對相關供應商的未來增長潛力抱持樂觀態度。",
-      "symbols": [
-        "NVDA",
-        "CBRS"
-      ],
-      "count": 2,
-      "avgChange": 5.600368638020386
-    },
-    {
       "theme": "儲存裝置",
-      "reason": "隨著數據量的爆炸式增長，對高效能和高容量儲存解決方案的需求不斷增加，帶動相關廠商股價上揚。",
+      "reason": "隨著AI與大數據應用需求增長，對高效能儲存解決方案的需求持續提升，帶動相關個股表現。",
       "symbols": [
         "WDC",
         "STX"
@@ -677,8 +667,28 @@
       "avgChange": 5.41632456379136
     },
     {
-      "theme": "電商",
-      "reason": "全球數位化趨勢下，電子商務平台持續擴張市場份額，尤其在新興市場展現強勁增長動能。",
+      "theme": "AI 晶片",
+      "reason": "人工智慧技術的快速發展持續推動對高效能AI晶片的需求，市場對相關供應商前景樂觀。",
+      "symbols": [
+        "NVDA",
+        "CBRS"
+      ],
+      "count": 2,
+      "avgChange": 5.600368638020386
+    },
+    {
+      "theme": "搜尋引擎",
+      "reason": "科技巨頭在AI整合與廣告業務上的持續創新，鞏固其在數位經濟中的核心地位。",
+      "symbols": [
+        "GOOGL",
+        "GOOG"
+      ],
+      "count": 2,
+      "avgChange": 0.9435528415072316
+    },
+    {
+      "theme": "電子商務",
+      "reason": "全球數位化趨勢與線上消費習慣的普及，持續支撐電子商務平台的成長動能。",
       "symbols": [
         "MELI"
       ],
@@ -686,31 +696,23 @@
       "avgChange": 9.669566652520393
     },
     {
-      "theme": "太空科技",
-      "reason": "太空探索與商業化應用前景廣闊，投資者看好相關技術創新與服務提供商的長期發展。",
+      "theme": "串流媒體",
+      "reason": "串流媒體服務持續擴大用戶基礎並優化內容策略，吸引市場關注。",
       "symbols": [
-        "SPCX"
+        "NFLX"
       ],
       "count": 1,
-      "avgChange": 7.630850528434824
+      "avgChange": 0.6561288398449115
     },
     {
-      "theme": "生技製藥",
-      "reason": "新藥研發進展和醫療技術突破持續吸引市場關注，特別是針對重大疾病的創新療法。",
+      "theme": "雲端軟體 SaaS",
+      "reason": "企業數位轉型需求不減，雲端軟體服務因其靈活性與效率持續受到青睞。",
       "symbols": [
-        "MRNA"
+        "MSFT",
+        "TWLO"
       ],
-      "count": 1,
-      "avgChange": 6.947002789326887
-    },
-    {
-      "theme": "金融科技",
-      "reason": "數位支付和金融服務的普及化，推動金融科技公司快速成長，尤其是在新興市場的滲透率不斷提升。",
-      "symbols": [
-        "NU"
-      ],
-      "count": 1,
-      "avgChange": 13.030528667163068
+      "count": 2,
+      "avgChange": 1.8134986149926096
     }
   ],
   "newEntrants": [
@@ -719,127 +721,142 @@
       "name": "Warner Bros. Discovery, Inc. Series A Common Stock",
       "theme": "串流媒體",
       "changePercent": 0.032320620555908244,
-      "reason": "華納兄弟探索公司將被派拉蒙Skydance收購，並被那斯達克100指數移除。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "TWLO",
       "name": "Twilio Inc.",
       "theme": "雲端通訊",
       "changePercent": 2.148822051734687,
-      "reason": "Twilio將取代WBD加入S&P 500指數，激勵股價上漲。"
+      "reason": "Twilio被納入S&P 500指數，吸引買盤。"
     },
     {
       "symbol": "PTC",
       "name": "PTC, INC",
       "theme": "工業軟體",
       "changePercent": 33.486079289036994,
-      "reason": "施耐德電機宣布以226億美元收購PTC，推動股價飆升33%。"
+      "reason": "施耐德電氣宣布以226億美元現金收購PTC，溢價約42.3%。"
     },
     {
       "symbol": "MRNA",
       "name": "Moderna, Inc. Common Stock",
-      "theme": "生技製藥",
+      "theme": "mRNA 生技",
       "changePercent": 6.947002789326887,
-      "reason": "Moderna因實驗性癌症疫苗的利好消息，且將加入那斯達克100指數。"
+      "reason": "癌症疫苗利多消息持續發酵，但花旗降評引發估值過高疑慮。"
     },
     {
       "symbol": "NU",
       "name": "Nu Holdings Ltd.",
       "theme": "金融科技",
       "changePercent": 13.030528667163068,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "高盛看好其低成本擴張優勢，且公司否認收購Monzo傳聞。"
     },
     {
       "symbol": "SWKS",
       "name": "Skyworks Solutions Inc",
       "theme": "射頻元件",
       "changePercent": -1.3171821709984763,
-      "reason": "Skyworks Solutions完成對Qorvo的收購，重塑射頻半導體格局。"
+      "reason": "完成收購Qorvo，預期帶來每年5億美元綜效。"
     },
     {
       "symbol": "MELI",
       "name": "Mercado Libre, Inc",
-      "theme": "電商",
+      "theme": "電子商務",
       "changePercent": 9.669566652520393,
-      "reason": "Mercado Libre發行10億美元債券，並獲分析師調升評級。"
+      "reason": "巴西政治與總體經濟改善，帶動股價技術性反彈。"
     },
     {
       "symbol": "CTVA",
       "name": "Corteva, Inc. Common Stock",
       "theme": "農業科技",
       "changePercent": 3.9429530201342335,
-      "reason": "Corteva完成種子業務Vylor分拆，股價因重組而下跌。"
+      "reason": "完成種子業務分拆，轉型作物保護公司，聚焦新產品線。"
     },
     {
       "symbol": "QCOM",
       "name": "Qualcomm Inc",
       "theme": "手機晶片",
       "changePercent": -2.2069562395196693,
-      "reason": "高通與Arm Holdings的專利訴訟案開庭，涉及數十億美元權利金。"
+      "reason": "與華為達成多年專利授權協議，涵蓋5G、AI等技術。"
     },
     {
       "symbol": "UNH",
       "name": "UNITEDHEALTH GROUP INCORPORATED (Delaware)",
       "theme": "醫療保險",
       "changePercent": 1.7961817692928226,
-      "reason": "德州檢察長調查UnitedHealth Group涉嫌妨礙病患護理。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "CSCO",
       "name": "Cisco Systems, Inc. Common Stock (DE)",
       "theme": "網路設備",
       "changePercent": 0.5525846702317204,
-      "reason": "思科與Bell Canada合作開發加拿大主權AI基礎設施。"
+      "reason": "受惠於AI基礎設施需求，且逢除息日吸引買盤。"
     },
     {
       "symbol": "FORM",
       "name": "FormFactor Inc.",
       "theme": "半導體測試",
       "changePercent": -0.777740529668117,
-      "reason": "FormFactor將取代Twilio加入S&P MidCap 400指數。"
+      "reason": "受惠於AI與HBM測試需求，股價直逼前高。"
     },
     {
       "symbol": "XOM",
       "name": "ExxonMobil Holdings Corporation",
       "theme": "石油天然氣",
       "changePercent": -0.0060971891957752,
-      "reason": "美國最高法院審理針對埃克森美孚的氣候訴訟案。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點集中在AI晶片、太空科技和記憶體等高科技領域。Nvidia (NVDA) 和Broadcom (AVGO) 等AI晶片股受惠於AI基礎建設的龐大投資和需求，其中Broadcom更傳出與Anthropic達成420億美元的AI晶片基礎設施融資協議，帶動股價上漲。SpaceX (SPCX) 則因「Starmind」計畫，擬部署百萬AI衛星建軌道數據中心，激勵太空科技題材走強。記憶體方面，Micron (MU) 受惠於AI應用帶動的需求激增，獲得分析師升評，但市場對記憶體短缺結束時間仍有疑慮。整體而言，市場資金持續追逐AI相關的成長故事，儘管對高利率和美股估值過高存在擔憂，但科技巨頭的強勁財報預期仍提供支撐。",
+    "highlights": "本日美股成交重點集中在AI晶片、電動車、記憶體和雲端軟體SaaS等科技股。資金主要流向Nvidia (NVDA) 和Broadcom (AVGO) 等AI晶片領導者，受惠於市場對AI基礎建設長期需求的樂觀預期。特斯拉 (TSLA) 則受惠於強勁的第三季交車數據。此外，Twilio (TWLO) 因被納入標普500指數而受到關注，而記憶體大廠美光 (MU) 則因AI帶動的需求激增獲得分析師上調評級。整體市場故事圍繞著AI技術的持續發展及其對各產業的深遠影響，儘管部分市場人士對高利率環境下的估值表示擔憂。",
     "eventsPast": [
       {
-        "title": "Broadcom與Anthropic達成420億美元AI晶片融資協議",
-        "detail": "Broadcom (AVGO) 傳出與AI公司Anthropic達成高達420億美元的AI晶片基礎設施融資協議，大幅提升其在客製化晶片市場的地位，並預計AI半導體營收將在2028年前翻兩番。"
+        "title": "特斯拉第三季交車量超出預期",
+        "detail": "特斯拉 (TSLA) 公布第三季全球交車量接近48.7萬輛，超出華爾街預期，顯示其核心汽車業務趨於穩定，儘管較去年同期有所下降。"
       },
       {
-        "title": "Nvidia市值逼近6兆美元",
-        "detail": "Nvidia (NVDA) 股價上漲2.1%，市值達到5.76兆美元，創下歷史新高，市場預期本月底前市值有望達到6兆美元。"
+        "title": "美光科技獲分析師上調評級",
+        "detail": "美光科技 (MU) 因人工智慧帶來的需求激增和多年期合約的能見度提高，於2026年10月5日獲分析師上調至「買入」評級。"
       },
       {
-        "title": "Micron獲分析師升評至買入",
-        "detail": "Micron Technology (MU) 因人工智慧應用帶動的需求激增，以及對多年期合約的能見度提高，獲得分析師升評至買入。"
+        "title": "Twilio 獲選納入標普500指數",
+        "detail": "雲端通訊平台商Twilio (TWLO) 宣布即將納入美國重要股價指數標普500，此消息帶動其股價在週一（10月5日）盤後交易中上揚。"
       },
       {
-        "title": "Apple因專利侵權案被判支付額外利息",
-        "detail": "聯邦法官裁定Apple (AAPL) 需額外支付1.84億美元的利息，與其Apple Watch心率監測功能侵犯Masimo公司專利相關的6.34億美元賠償金有關。"
+        "title": "Intel 計劃調漲PC CPU 價格",
+        "detail": "Intel 據報導計劃從2026年10月5日起將PC CPU 價格再次上漲約10%，這是其自2025年底以來的第三次調漲，主要受AI資料中心需求帶動的記憶體成本上升影響。"
       },
       {
-        "title": "Intel股價下跌，因Elon Musk暗示Terafab可能與競爭對手合作",
-        "detail": "Intel (INTC) 股價下跌，此前Elon Musk暗示其德州晶片製造計畫Terafab可能與台積電 (TSMC) 合作，而非僅與Intel合作，引發市場對Intel在該計畫中地位的擔憂。"
+        "title": "華納兄弟探索與派拉蒙合併案進展",
+        "detail": "派拉蒙全球與Skydance Media合併後，已提出收購華納兄弟探索 (WBD)，合併後的公司將命名為Skydance，預計於10月6日完成收購。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "10/14",
-        "title": "美國9月消費者物價指數 (CPI) 公布",
-        "detail": "此數據將是判斷聯準會下一步政策的重要依據，若通膨居高不下，12月升息的可能性仍未完全排除。"
+        "date": "本週三",
+        "title": "美聯儲9月會議紀要公布",
+        "detail": "投資者將密切關注美聯儲本週公布的9月會議紀要，以尋找該央行下一步利率動向的線索，特別是關於通膨、就業和未來利率路徑的判斷。"
       },
       {
-        "date": "本週",
-        "title": "科技巨頭財報季",
-        "detail": "華爾街高度期待科技巨頭的財報，預計科技業第三季每股獲利將成長逾65%，將決定多頭行情能否持續。"
+        "date": "10/15",
+        "title": "台積電財報公布",
+        "detail": "台積電 (TSM) 將於10月15日公布財報，其結果被視為評估AI晶片需求的重要參考指標。"
+      },
+      {
+        "date": "2027年初",
+        "title": "Intel Core Ultra 4000系列處理器上市",
+        "detail": "Intel 次世代架構Nova Lake平台Core Ultra 4000系列處理器預計在2027年初CES 2027亮相並陸續上市，初期主打單晶片版本。"
+      },
+      {
+        "date": "2027年中",
+        "title": "Intel Core Ultra 4000系列雙晶片版本登場",
+        "detail": "Intel Core Ultra 4000系列處理器的雙晶片版本（內部封裝代號DS）預計在2027年中的COMPUTEX 2027前後上市。"
+      },
+      {
+        "date": "2028年",
+        "title": "Nvidia下一代AI晶片可能導入玻璃基板",
+        "detail": "有傳聞指出Nvidia的下一代AI晶片最快可能在2028年導入玻璃基板技術，儘管目前台廠多處於研發、試產或客戶驗證階段。"
       }
     ]
   }
