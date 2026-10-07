@@ -34,7 +34,7 @@
       "dollarVolume": 18575928182.762844,
       "marketCap": 2266211608144.4,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "太空科技",
+      "theme": "太空",
       "isNew": false,
       "rankChange": -1,
       "streak": 80
@@ -73,7 +73,7 @@
       "dollarVolume": 11654713297.757622,
       "marketCap": 567450000000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "半導體製造",
       "isNew": false,
       "rankChange": 6,
       "streak": 145
@@ -164,7 +164,7 @@
       "dollarVolume": 8704758705.0884,
       "marketCap": 2764424305367.8804,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電商與雲端服務",
+      "theme": "電子商務與雲端",
       "isNew": false,
       "rankChange": -2,
       "streak": 145
@@ -177,7 +177,7 @@
       "dollarVolume": 6501488969.948994,
       "marketCap": 2040186240000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "搜尋與雲端服務",
+      "theme": "雲端與廣告",
       "isNew": false,
       "rankChange": -1,
       "streak": 145
@@ -216,7 +216,7 @@
       "dollarVolume": 5327881187.847193,
       "marketCap": 54837741538.56,
       "sector": "—",
-      "theme": "雲端基礎設施",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": 6,
       "streak": 70
@@ -229,7 +229,7 @@
       "dollarVolume": 4761278110.028977,
       "marketCap": 101665980000.00002,
       "sector": "COMMUNICATIONS EQUIPMENT, NEC",
-      "theme": "光通訊元件",
+      "theme": "光通訊",
       "isNew": false,
       "rankChange": 8,
       "streak": 63
@@ -255,7 +255,7 @@
       "dollarVolume": 4536461892.77076,
       "marketCap": 1904548929999.9998,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "搜尋與雲端服務",
+      "theme": "雲端與廣告",
       "isNew": false,
       "rankChange": 0,
       "streak": 145
@@ -320,7 +320,7 @@
       "dollarVolume": 3649343072.150522,
       "marketCap": 87115298399.87999,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "燃料電池",
+      "theme": "潔淨能源",
       "isNew": false,
       "rankChange": 20,
       "streak": 25
@@ -333,7 +333,7 @@
       "dollarVolume": 3397386243.1063747,
       "marketCap": 441898009101.02997,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "大數據分析",
+      "theme": "數據分析軟體",
       "isNew": false,
       "rankChange": -1,
       "streak": 145
@@ -385,7 +385,7 @@
       "dollarVolume": 2909722566.461432,
       "marketCap": 437746260720.00006,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "企業軟體",
+      "theme": "資料庫與雲端",
       "isNew": false,
       "rankChange": 0,
       "streak": 145
@@ -424,7 +424,7 @@
       "dollarVolume": 2756953569.991205,
       "marketCap": 62913352116.25,
       "sector": "TELEPHONE & TELEGRAPH APPARATUS",
-      "theme": "光通訊設備",
+      "theme": "光通訊",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -437,7 +437,7 @@
       "dollarVolume": 2619784771.1141486,
       "marketCap": 274113184901.01,
       "sector": "ELECTRONIC & OTHER ELECTRICAL EQUIPMENT (NO COMPUTER EQUIP)",
-      "theme": "電力基礎建設",
+      "theme": "電力設備",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -528,7 +528,7 @@
       "dollarVolume": 2350419287.948869,
       "marketCap": 850497597035.2001,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售百貨",
+      "theme": "零售",
       "isNew": false,
       "rankChange": 9,
       "streak": 6
@@ -580,7 +580,7 @@
       "dollarVolume": 2085962497.2864845,
       "marketCap": 880603922679.6,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "金融服務",
+      "theme": "銀行",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -593,7 +593,7 @@
       "dollarVolume": 2040155801.6115942,
       "marketCap": 47994188834.340004,
       "sector": "GUIDED MISSILES & SPACE VEHICLES & PARTS",
-      "theme": "太空科技",
+      "theme": "太空",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -619,7 +619,7 @@
       "dollarVolume": 1989331421.0911262,
       "marketCap": 88550586208,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "金融科技",
+      "theme": "證券經紀",
       "isNew": false,
       "rankChange": -5,
       "streak": 3
@@ -632,7 +632,7 @@
       "dollarVolume": 1979559958.5104778,
       "marketCap": 344707797823.92,
       "sector": "SOAP, DETERGENTS, CLEANG PREPARATIONS, PERFUMES, COSMETICS",
-      "theme": "民生消費",
+      "theme": "消費必需品",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -645,31 +645,40 @@
       "dollarVolume": 1913165250.348103,
       "marketCap": 257686581910.32,
       "sector": "OPTICAL INSTRUMENTS & LENSES",
-      "theme": "半導體設備",
+      "theme": "半導體檢測",
       "isNew": true,
       "rankChange": null,
       "streak": 1
     }
   ],
   "asOf": "2026-10-06T20:00:00.000Z",
-  "generatedAt": "2026-10-07T06:39:08.057Z",
+  "generatedAt": "2026-10-07T09:01:14.320Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "電力基礎建設",
-      "reason": "隨著全球能源轉型與AI資料中心需求增長，電力基礎設施的投資與升級成為市場關注的焦點。",
+      "reason": "全球能源轉型與電網現代化需求持續增長，推動電力基礎建設相關公司表現強勁。",
       "symbols": [
         "CEG",
-        "VST",
-        "GEV"
+        "VST"
       ],
-      "count": 3,
-      "avgChange": 8.994335768365401
+      "count": 2,
+      "avgChange": 11.51120062224507
+    },
+    {
+      "theme": "光通訊",
+      "reason": "AI 數據中心對高速網路傳輸的需求激增，帶動光通訊元件與設備供應商的成長。",
+      "symbols": [
+        "LITE",
+        "CIEN"
+      ],
+      "count": 2,
+      "avgChange": 8.834743848564454
     },
     {
       "theme": "AI 晶片",
-      "reason": "AI技術持續發展，市場對高效能AI晶片的需求旺盛，帶動相關供應商股價表現。",
+      "reason": "AI 產業的持續發展，市場對高效能 AI 晶片的需求依然旺盛，推動相關領導廠商股價上漲。",
       "symbols": [
         "NVDA",
         "AMD"
@@ -678,18 +687,8 @@
       "avgChange": 1.4696557215558754
     },
     {
-      "theme": "太空科技",
-      "reason": "太空探索與衛星通訊領域的商業化進程加速，相關企業受到市場青睞。",
-      "symbols": [
-        "SPCX",
-        "RKLB"
-      ],
-      "count": 2,
-      "avgChange": 1.6394399618512514
-    },
-    {
       "theme": "資安",
-      "reason": "網路攻擊日益頻繁，企業與個人對資訊安全的需求持續增加，推動資安服務商的成長。",
+      "reason": "網路攻擊日益頻繁，企業與政府對資安防護的投入不斷增加，資安軟體服務商受市場青睞。",
       "symbols": [
         "PANW",
         "CRWD"
@@ -698,24 +697,24 @@
       "avgChange": 2.7515039926175535
     },
     {
+      "theme": "太空",
+      "reason": "商業太空探索與衛星通訊領域的進展，吸引投資者關注相關技術與服務公司。",
+      "symbols": [
+        "SPCX",
+        "RKLB"
+      ],
+      "count": 2,
+      "avgChange": 1.6394399618512514
+    },
+    {
       "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型趨勢不變，雲端軟體服務的訂閱模式持續貢獻穩定營收。",
+      "reason": "企業數位轉型趨勢不變，雲端軟體即服務（SaaS）解決方案持續受到市場青睞。",
       "symbols": [
         "MSFT",
         "CRWV"
       ],
       "count": 2,
       "avgChange": 2.869646628079076
-    },
-    {
-      "theme": "光通訊元件",
-      "reason": "AI與資料中心對高速網路傳輸的需求，推動光通訊元件及設備產業的發展。",
-      "symbols": [
-        "LITE",
-        "CIEN"
-      ],
-      "count": 2,
-      "avgChange": 8.834743848564454
     }
   ],
   "newEntrants": [
@@ -724,7 +723,7 @@
       "name": "Constellation Energy Corporation Common Stock",
       "theme": "電力基礎建設",
       "changePercent": 12.248710858680207,
-      "reason": "與Google簽訂20年核能供電協議，將投資43億美元升級核反應爐。"
+      "reason": "與Google簽訂20年核能供電協議，並投資43億美元升級核電廠。"
     },
     {
       "symbol": "CRWV",
@@ -738,82 +737,82 @@
       "name": "Vistra Corp.",
       "theme": "電力基礎建設",
       "changePercent": 10.773690385809935,
-      "reason": "受Constellation Energy與Google核能協議帶動，公用事業類股上漲。"
+      "reason": "美國能源部承諾提供42億美元貸款，用於升級三座核電廠。"
     },
     {
       "symbol": "CIEN",
       "name": "Ciena Corporation",
-      "theme": "光通訊設備",
+      "theme": "光通訊",
       "changePercent": 13.846903949293022,
-      "reason": "Evercore將其評級調升至「優於大盤」，並受惠於AI基礎設施需求。"
+      "reason": "受同業光通訊產業高成長展望及分析師看好帶動。"
     },
     {
       "symbol": "GEV",
       "name": "GE Vernova Inc.",
-      "theme": "電力基礎建設",
+      "theme": "電力設備",
       "changePercent": 3.9606060606060645,
-      "reason": "宣布將在2027年增加MIT實習生和正式員工數量。"
+      "reason": "GE Vernova的BWRX-300小型模組化反應爐獲得美國首個建造許可。"
     },
     {
       "symbol": "ALAB",
       "name": "Astera Labs, Inc. Common Stock",
       "theme": "資料中心互連",
       "changePercent": 7.578517414582999,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "受惠於AI基礎設施對高速連接解決方案的強勁需求。"
     },
     {
       "symbol": "PANW",
       "name": "Palo Alto Networks, Inc. Common Stock",
       "theme": "資安",
       "changePercent": 3.2328645884551173,
-      "reason": "受惠於分析師看好、平台化策略與AI資安需求增長。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "CRWD",
       "name": "CrowdStrike Holdings, Inc. Class A Common Stock",
       "theme": "資安",
       "changePercent": 2.2701433967799898,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "與AWS和NVIDIA合作推出第四屆網路安全新創加速器計畫。"
     },
     {
       "symbol": "COHR",
       "name": "Coherent Corp.",
       "theme": "光學元件",
       "changePercent": 1.4146984774007993,
-      "reason": "推出PhotonLink整合光學平台，用於AI資料中心基礎設施。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "JPM",
       "name": "JPMorgan Chase & Co.",
-      "theme": "金融服務",
+      "theme": "銀行",
       "changePercent": -0.33094650701005557,
       "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "RKLB",
       "name": "Rocket Lab Corporation Common Stock",
-      "theme": "太空科技",
+      "theme": "太空",
       "changePercent": 2.793755135579302,
-      "reason": "與Synspective簽訂20次火箭發射合約，並計畫收購Iridium Communications。"
+      "reason": "與日本Synspective簽訂20次火箭發射合約，為史上最大商業訂單。"
     },
     {
       "symbol": "OPCH",
       "name": "Option Care Health, Inc. Common Stock",
       "theme": "居家醫療",
       "changePercent": 32.64869490800171,
-      "reason": "同意被Clayton, Dubilier & Rice和McKesson Corporation收購。"
+      "reason": "金融時報報導McKesson和CD&R將以逾50億美元收購公司。"
     },
     {
       "symbol": "PG",
       "name": "Procter & Gamble Company",
-      "theme": "民生消費",
+      "theme": "消費必需品",
       "changePercent": 1.6924763601480053,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "分析師看好且防禦性股息特性，抵銷對財報的擔憂。"
     },
     {
       "symbol": "KLAC",
       "name": "KLA Corporation Common Stock",
-      "theme": "半導體設備",
+      "theme": "半導體檢測",
       "changePercent": -4.539521392313264,
       "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     }
