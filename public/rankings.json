@@ -177,7 +177,7 @@
       "dollarVolume": 6501488969.948994,
       "marketCap": 2040186240000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "雲端與廣告",
+      "theme": "雲端與AI",
       "isNew": false,
       "rankChange": -1,
       "streak": 145
@@ -255,7 +255,7 @@
       "dollarVolume": 4536461892.77076,
       "marketCap": 1904548929999.9998,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "雲端與廣告",
+      "theme": "雲端與AI",
       "isNew": false,
       "rankChange": 0,
       "streak": 145
@@ -320,7 +320,7 @@
       "dollarVolume": 3649343072.150522,
       "marketCap": 87115298399.87999,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "潔淨能源",
+      "theme": "燃料電池",
       "isNew": false,
       "rankChange": 20,
       "streak": 25
@@ -333,7 +333,7 @@
       "dollarVolume": 3397386243.1063747,
       "marketCap": 441898009101.02997,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "數據分析軟體",
+      "theme": "大數據分析",
       "isNew": false,
       "rankChange": -1,
       "streak": 145
@@ -372,7 +372,7 @@
       "dollarVolume": 2926112431.459791,
       "marketCap": 50586937135.44,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端運算",
+      "theme": "AI 雲端算力",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -437,7 +437,7 @@
       "dollarVolume": 2619784771.1141486,
       "marketCap": 274113184901.01,
       "sector": "ELECTRONIC & OTHER ELECTRICAL EQUIPMENT (NO COMPUTER EQUIP)",
-      "theme": "電力設備",
+      "theme": "電力基礎建設",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -606,7 +606,7 @@
       "dollarVolume": 2020305071.1474042,
       "marketCap": 4643342533,
       "sector": "SERVICES-HOME HEALTH CARE SERVICES",
-      "theme": "居家醫療",
+      "theme": "居家醫療服務",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -619,7 +619,7 @@
       "dollarVolume": 1989331421.0911262,
       "marketCap": 88550586208,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "證券經紀",
+      "theme": "金融科技",
       "isNew": false,
       "rankChange": -5,
       "streak": 3
@@ -632,7 +632,7 @@
       "dollarVolume": 1979559958.5104778,
       "marketCap": 344707797823.92,
       "sector": "SOAP, DETERGENTS, CLEANG PREPARATIONS, PERFUMES, COSMETICS",
-      "theme": "消費必需品",
+      "theme": "民生消費",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -645,40 +645,31 @@
       "dollarVolume": 1913165250.348103,
       "marketCap": 257686581910.32,
       "sector": "OPTICAL INSTRUMENTS & LENSES",
-      "theme": "半導體檢測",
+      "theme": "半導體設備",
       "isNew": true,
       "rankChange": null,
       "streak": 1
     }
   ],
   "asOf": "2026-10-06T20:00:00.000Z",
-  "generatedAt": "2026-10-07T09:01:14.320Z",
+  "generatedAt": "2026-10-07T11:38:54.342Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "電力基礎建設",
-      "reason": "全球能源轉型與電網現代化需求持續增長，推動電力基礎建設相關公司表現強勁。",
+      "reason": "全球能源轉型與電網現代化需求持續增長，推動電力相關基礎設施投資。",
       "symbols": [
         "CEG",
-        "VST"
+        "VST",
+        "GEV"
       ],
-      "count": 2,
-      "avgChange": 11.51120062224507
-    },
-    {
-      "theme": "光通訊",
-      "reason": "AI 數據中心對高速網路傳輸的需求激增，帶動光通訊元件與設備供應商的成長。",
-      "symbols": [
-        "LITE",
-        "CIEN"
-      ],
-      "count": 2,
-      "avgChange": 8.834743848564454
+      "count": 3,
+      "avgChange": 8.994335768365401
     },
     {
       "theme": "AI 晶片",
-      "reason": "AI 產業的持續發展，市場對高效能 AI 晶片的需求依然旺盛，推動相關領導廠商股價上漲。",
+      "reason": "AI 技術的快速發展持續推動對高效能運算晶片的需求，市場對相關供應商前景樂觀。",
       "symbols": [
         "NVDA",
         "AMD"
@@ -687,8 +678,18 @@
       "avgChange": 1.4696557215558754
     },
     {
+      "theme": "光通訊",
+      "reason": "AI 發展帶動資料中心內部與外部傳輸頻寬需求，光通訊技術成為關鍵。",
+      "symbols": [
+        "LITE",
+        "CIEN"
+      ],
+      "count": 2,
+      "avgChange": 8.834743848564454
+    },
+    {
       "theme": "資安",
-      "reason": "網路攻擊日益頻繁，企業與政府對資安防護的投入不斷增加，資安軟體服務商受市場青睞。",
+      "reason": "企業數位轉型加速，網路攻擊日益頻繁，資安防護需求持續提升。",
       "symbols": [
         "PANW",
         "CRWD"
@@ -698,7 +699,7 @@
     },
     {
       "theme": "太空",
-      "reason": "商業太空探索與衛星通訊領域的進展，吸引投資者關注相關技術與服務公司。",
+      "reason": "商業太空探索與衛星通訊領域持續發展，吸引市場關注。",
       "symbols": [
         "SPCX",
         "RKLB"
@@ -707,14 +708,14 @@
       "avgChange": 1.6394399618512514
     },
     {
-      "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型趨勢不變，雲端軟體即服務（SaaS）解決方案持續受到市場青睞。",
+      "theme": "雲端與AI",
+      "reason": "雲端服務與人工智慧應用普及，相關軟體與基礎設施提供商持續受惠。",
       "symbols": [
-        "MSFT",
-        "CRWV"
+        "GOOGL",
+        "GOOG"
       ],
       "count": 2,
-      "avgChange": 2.869646628079076
+      "avgChange": 0.2851380266593766
     }
   ],
   "newEntrants": [
@@ -723,140 +724,149 @@
       "name": "Constellation Energy Corporation Common Stock",
       "theme": "電力基礎建設",
       "changePercent": 12.248710858680207,
-      "reason": "與Google簽訂20年核能供電協議，並投資43億美元升級核電廠。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動"
     },
     {
       "symbol": "CRWV",
       "name": "CoreWeave, Inc. Class A Common Stock",
-      "theme": "雲端運算",
+      "theme": "AI 雲端算力",
       "changePercent": 4.95480032040279,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "獲A+成長評級，AI雲端算力需求激增帶動股價上漲。"
     },
     {
       "symbol": "VST",
       "name": "Vistra Corp.",
       "theme": "電力基礎建設",
       "changePercent": 10.773690385809935,
-      "reason": "美國能源部承諾提供42億美元貸款，用於升級三座核電廠。"
+      "reason": "獲美國能源部42億美元貸款承諾，用於核電廠升級與現代化。"
     },
     {
       "symbol": "CIEN",
       "name": "Ciena Corporation",
       "theme": "光通訊",
       "changePercent": 13.846903949293022,
-      "reason": "受同業光通訊產業高成長展望及分析師看好帶動。"
+      "reason": "宣布2029年營收年均複合成長率上看30%，並推出Ciena Ventures擴展AI網路生態系統。"
     },
     {
       "symbol": "GEV",
       "name": "GE Vernova Inc.",
-      "theme": "電力設備",
+      "theme": "電力基礎建設",
       "changePercent": 3.9606060606060645,
-      "reason": "GE Vernova的BWRX-300小型模組化反應爐獲得美國首個建造許可。"
+      "reason": "波蘭SMR私募資金與東歐合作協議推升核能題材，技術指標轉強。"
     },
     {
       "symbol": "ALAB",
       "name": "Astera Labs, Inc. Common Stock",
       "theme": "資料中心互連",
       "changePercent": 7.578517414582999,
-      "reason": "受惠於AI基礎設施對高速連接解決方案的強勁需求。"
+      "reason": "獲A+成長評級，市場預期納入標普500指數，AI硬體連接需求強勁。"
     },
     {
       "symbol": "PANW",
       "name": "Palo Alto Networks, Inc. Common Stock",
       "theme": "資安",
       "changePercent": 3.2328645884551173,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "近期資安股技術指標全面轉強，推升買盤。"
     },
     {
       "symbol": "CRWD",
       "name": "CrowdStrike Holdings, Inc. Class A Common Stock",
       "theme": "資安",
       "changePercent": 2.2701433967799898,
-      "reason": "與AWS和NVIDIA合作推出第四屆網路安全新創加速器計畫。"
+      "reason": "AI安全需求激增，股價創歷史新高，分析師調升目標價。"
     },
     {
       "symbol": "COHR",
       "name": "Coherent Corp.",
       "theme": "光學元件",
       "changePercent": 1.4146984774007993,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "美國擬限制中國製光模組，Coherent有望受惠轉單，並推出AI光通訊新品。"
     },
     {
       "symbol": "JPM",
       "name": "JPMorgan Chase & Co.",
       "theme": "銀行",
       "changePercent": -0.33094650701005557,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "摩根大通宣布投資銀行擴張，並將發布第三季財報。"
     },
     {
       "symbol": "RKLB",
       "name": "Rocket Lab Corporation Common Stock",
       "theme": "太空",
       "changePercent": 2.793755135579302,
-      "reason": "與日本Synspective簽訂20次火箭發射合約，為史上最大商業訂單。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動"
     },
     {
       "symbol": "OPCH",
       "name": "Option Care Health, Inc. Common Stock",
-      "theme": "居家醫療",
+      "theme": "居家醫療服務",
       "changePercent": 32.64869490800171,
-      "reason": "金融時報報導McKesson和CD&R將以逾50億美元收購公司。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動"
     },
     {
       "symbol": "PG",
       "name": "Procter & Gamble Company",
-      "theme": "消費必需品",
+      "theme": "民生消費",
       "changePercent": 1.6924763601480053,
-      "reason": "分析師看好且防禦性股息特性，抵銷對財報的擔憂。"
+      "reason": "Evercore ISI調升評級至「優於大盤」，並提高目標價。"
     },
     {
       "symbol": "KLAC",
       "name": "KLA Corporation Common Stock",
-      "theme": "半導體檢測",
+      "theme": "半導體設備",
       "changePercent": -4.539521392313264,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交量前段個股中，AI晶片股表現強勁，Nvidia (NVDA) 和 AMD (AMD) 漲幅顯著，Marvell Technology (MRVL) 更是大漲5.81%，顯示市場對AI相關題材的熱情持續。資金也流向太空科技、雲端軟體 SaaS 等成長型產業。整體而言，市場正積極交易AI技術進步及其廣泛應用所帶來的成長故事，特別是那些能從中受益的半導體和軟體公司。",
+    "highlights": "本日美股成交重點聚焦在AI晶片、電力基礎建設、太空和光通訊等題材。資金主要集中在Nvidia (NVDA)、Advanced Micro Devices (AMD) 等AI晶片股，受惠於AI代理人技術的爆發和晶片需求的持續增長。Marvell Technology (MRVL) 因上修長期營收目標，帶動資料中心晶片族群走強。此外，Google (GOOGL) 與Constellation Energy (CEG) 簽署核電採購協議，凸顯AI資料中心對穩定電力的龐大需求，推升電力基礎建設和相關能源股表現。SpaceX (SPCX) 則因星艦試飛在即及市場看好其AI衛星佈局而受到關注。",
     "eventsPast": [
       {
-        "title": "Intel 宣布第三季財報日",
-        "detail": "Intel Corporation 於2026年10月6日宣布將於2026年10月29日市場收盤後公布第三季財報。"
+        "title": "Marvell Technology上修長期財測",
+        "detail": "Marvell Technology (MRVL) 於法說會上大幅上調FY2028及FY2031的長期營收目標，帶動股價大漲近6%，並激勵AI晶片族群走強。"
       },
       {
-        "title": "Apple 宣布第四季財報日",
-        "detail": "Apple Inc. 於2026年10月6日宣布將於美國當地時間11月2日下午2時（台灣時間11月3日早上6時）公布2026年第四季度財報。"
+        "title": "Google簽署核電採購大單",
+        "detail": "Google (GOOGL) 與美國最大核電反應爐持有業者Constellation Energy (CEG) 達成20年核電購電協議，總金額可能高達10億美元以上，以確保AI資料中心的電力供應。"
       },
       {
-        "title": "AMD 宣布第三季財報日",
-        "detail": "AMD 於2026年10月6日宣布將公布2026財年第三季度財報。"
+        "title": "AMD看好AI晶片需求",
+        "detail": "AMD (AMD) 執行長蘇姿丰表示，公司計劃在2027年大幅增加晶片供應，以滿足AI應用持續增長的需求，並與供應鏈夥伴會面以確保產能。 花旗分析師也將AMD目標價上調至800美元，看好AI代理將推升運算需求。"
       },
       {
-        "title": "Alphabet 宣布第三季財報電話會議日期",
-        "detail": "Alphabet Inc. 於2026年10月6日宣布將於2026年10月28日下午1:30（太平洋時間）舉行第三季度財報電話會議。"
+        "title": "美光與Netlist達成專利和解",
+        "detail": "美光 (MU) 將支付6億美元與記憶體技術公司Netlist達成和解，並取得涵蓋高頻寬記憶體 (HBM) 技術的專利組合授權，期限為五年。"
+      },
+      {
+        "title": "SpaceX擬籌資購買NVIDIA晶片",
+        "detail": "SpaceX (SPCX) 傳出正尋求籌資400億美元，用於購買NVIDIA (NVDA) 晶片，顯示其在AI領域的積極佈局。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "本週四",
-        "title": "美國9月CPI數據公布",
-        "detail": "美國勞工統計局預計將於2026年10月14日上午8:30（美東時間）公布2026年9月的消費者物價指數（CPI）數據，這將影響市場對聯準會利率決策的預期。"
+        "date": "本週四 (10/7) 凌晨2點",
+        "title": "FOMC會議紀要公布",
+        "detail": "美國聯準會 (Fed) 將公布9月聯邦公開市場委員會 (FOMC) 會議紀要，市場將關注其中關於未來升息路徑的線索。"
+      },
+      {
+        "date": "10/14",
+        "title": "美國9月CPI消費者物價指數",
+        "detail": "美國將公布9月消費者物價指數 (CPI)，此為判斷聯準會下一步政策的重要依據，若通膨居高不下，12月升息可能性仍未完全排除。"
+      },
+      {
+        "date": "10/27-10/28",
+        "title": "FOMC會議",
+        "detail": "美國聯準會將召開為期兩天的利率決策會議。"
       },
       {
         "date": "10/28",
-        "title": "Alphabet 第三季財報電話會議",
-        "detail": "Alphabet Inc. 將於2026年10月28日下午1:30（太平洋時間）舉行第三季度財報電話會議。"
+        "title": "FOMC會後記者會",
+        "detail": "聯準會主席將於會後舉行記者會，說明利率決策與經濟展望。"
       },
       {
-        "date": "10/29",
-        "title": "Intel 第三季財報",
-        "detail": "Intel Corporation 將於2026年10月29日市場收盤後公布第三季財報。"
-      },
-      {
-        "date": "11/2",
-        "title": "Apple 第四季財報",
-        "detail": "Apple Inc. 將於美國當地時間11月2日下午2時公布2026年第四季度財報。"
+        "date": "本月下旬或11月初",
+        "title": "SpaceX星艦第15次試飛",
+        "detail": "SpaceX (SPCX) 備受矚目的「星艦」第15次試飛預計將登場，此為華爾街視為未來獲利的主要引擎。"
       }
     ]
   }
