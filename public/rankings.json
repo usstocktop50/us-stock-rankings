@@ -151,7 +151,7 @@
       "dollarVolume": 7271773826.865127,
       "marketCap": 2056734000000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "搜尋引擎/雲端服務",
+      "theme": "雲端服務/AI",
       "isNew": false,
       "rankChange": 2,
       "streak": 146
@@ -164,7 +164,7 @@
       "dollarVolume": 6751067650.588857,
       "marketCap": 1797319380471.15,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體網通",
+      "theme": "半導體網路通訊",
       "isNew": false,
       "rankChange": -6,
       "streak": 146
@@ -177,7 +177,7 @@
       "dollarVolume": 6727797748.581948,
       "marketCap": 249635892000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體網通",
+      "theme": "半導體網路通訊",
       "isNew": false,
       "rankChange": -9,
       "streak": 136
@@ -216,7 +216,7 @@
       "dollarVolume": 3909021370.581838,
       "marketCap": 1919913990000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "搜尋引擎/雲端服務",
+      "theme": "雲端服務/AI",
       "isNew": false,
       "rankChange": 3,
       "streak": 146
@@ -229,7 +229,7 @@
       "dollarVolume": 3746201056.5297,
       "marketCap": 99662979000,
       "sector": "COMMUNICATIONS EQUIPMENT, NEC",
-      "theme": "光通訊",
+      "theme": "光通訊元件",
       "isNew": false,
       "rankChange": 0,
       "streak": 64
@@ -307,7 +307,7 @@
       "dollarVolume": 3033625394.5162177,
       "marketCap": 446614471425.48,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "大數據/AI軟體",
+      "theme": "大數據分析",
       "isNew": false,
       "rankChange": 2,
       "streak": 146
@@ -502,7 +502,7 @@
       "dollarVolume": 2052530425.2670393,
       "marketCap": 86581916925.34001,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "線上券商",
+      "theme": "金融科技",
       "isNew": false,
       "rankChange": 9,
       "streak": 4
@@ -580,7 +580,7 @@
       "dollarVolume": 1895511811.307706,
       "marketCap": 66314681004,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體網通",
+      "theme": "半導體網路通訊",
       "isNew": false,
       "rankChange": -8,
       "streak": 2
@@ -645,29 +645,20 @@
       "dollarVolume": 1762259374.180476,
       "marketCap": 48783412446.9,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端服務",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": -21,
       "streak": 2
     }
   ],
   "asOf": "2026-10-07T20:00:00.000Z",
-  "generatedAt": "2026-10-08T06:51:34.314Z",
+  "generatedAt": "2026-10-08T09:20:44.571Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
-      "theme": "記憶體",
-      "reason": "市場預期記憶體產業需求復甦，特別是HBM在AI應用中的強勁增長，帶動相關個股表現。",
-      "symbols": [
-        "MU"
-      ],
-      "count": 1,
-      "avgChange": 4.05906882436207
-    },
-    {
       "theme": "減肥藥 GLP-1",
-      "reason": "GLP-1藥物在減重和糖尿病治療領域展現巨大市場潛力，持續吸引資金關注。",
+      "reason": "市場持續看好GLP-1藥物在糖尿病和減重領域的巨大潛力，相關藥廠業績展望樂觀。",
       "symbols": [
         "LLY"
       ],
@@ -675,8 +666,26 @@
       "avgChange": 2.6980794650493753
     },
     {
+      "theme": "生技製藥",
+      "reason": "特定生技公司因其新藥研發進展或臨床數據表現優異，吸引資金關注。",
+      "symbols": [
+        "MRNA"
+      ],
+      "count": 1,
+      "avgChange": 4.811693161207714
+    },
+    {
+      "theme": "記憶體",
+      "reason": "記憶體市場需求回溫，特別是HBM等高階產品受AI趨勢帶動，推升相關供應商股價。",
+      "symbols": [
+        "MU"
+      ],
+      "count": 1,
+      "avgChange": 4.05906882436207
+    },
+    {
       "theme": "AI伺服器",
-      "reason": "AI技術的快速發展持續推動對高效能伺服器的需求，相關供應商受惠。",
+      "reason": "AI運算需求持續增長，帶動AI伺服器及相關硬體設備供應商的訂單與營收預期。",
       "symbols": [
         "SMCI"
       ],
@@ -685,7 +694,7 @@
     },
     {
       "theme": "電力公用事業",
-      "reason": "在能源轉型和AI數據中心電力需求增加的背景下，電力基礎設施和公用事業受到關注。",
+      "reason": "在能源轉型和AI數據中心電力需求增加的背景下，電力公用事業的穩定性與成長性受到青睞。",
       "symbols": [
         "VST"
       ],
@@ -693,17 +702,8 @@
       "avgChange": 3.875389408099688
     },
     {
-      "theme": "生技製藥",
-      "reason": "特定藥物研發進展或市場需求預期，推動個別生技製藥公司股價上漲。",
-      "symbols": [
-        "MRNA"
-      ],
-      "count": 1,
-      "avgChange": 4.811693161207714
-    },
-    {
       "theme": "儲存裝置",
-      "reason": "隨著數據量的爆炸性增長，對儲存裝置的需求持續增加，市場對產業前景保持樂觀。",
+      "reason": "隨著數據量的爆炸性增長，對高效能儲存裝置的需求持續增加，推動相關企業表現。",
       "symbols": [
         "SNDK",
         "STX"
@@ -725,21 +725,21 @@
       "name": "UNITEDHEALTH GROUP INCORPORATED (Delaware)",
       "theme": "醫療保險",
       "changePercent": -0.09034863945577568,
-      "reason": "德州總檢察長調查其涉嫌賄賂、延誤護理和拒絕承保等行為。"
+      "reason": "投資者對其即將發布的第三季度財報持觀望態度，醫療成本和Medicare Advantage會員數是關注焦點。"
     },
     {
       "symbol": "GS",
       "name": "Goldman Sachs Group Inc.",
       "theme": "投資銀行",
       "changePercent": -1.1112597249158378,
-      "reason": "分析師下調目標價，市場對其獲利目標和IPO承銷領導地位有疑慮。"
+      "reason": "分析師下調目標價，市場擔憂獲利能力與IPO承銷領導地位。"
     },
     {
       "symbol": "IREN",
       "name": "IREN Limited Ordinary Shares",
       "theme": "比特幣/加密",
       "changePercent": -6.274224806201559,
-      "reason": "研究公司SemiAnalysis指出其資料中心可靠性問題，導致股價下跌。"
+      "reason": "公司從比特幣挖礦轉型AI雲端基礎設施，並獲得新客戶合約與融資。"
     },
     {
       "symbol": "HPE",
@@ -753,7 +753,7 @@
       "name": "Super Micro Computer, Inc. Common Stock",
       "theme": "AI伺服器",
       "changePercent": 3.405430280717894,
-      "reason": "與NetApp建立AI基礎設施聯盟，並開始出貨NVIDIA液冷機架。"
+      "reason": "與NetApp建立AI基礎設施聯盟，並開始出貨NVIDIA液冷機櫃。"
     },
     {
       "symbol": "BRK.B",
@@ -763,5 +763,46 @@
       "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     }
   ],
-  "marketBriefing": null
+  "marketBriefing": {
+    "highlights": "本日美股成交焦點集中在AI相關類股與記憶體產業。資金主要流向受惠於AI晶片需求強勁的個股，如美光科技(MU)因AI記憶體需求獲法人看好，股價有望翻三倍，帶動了記憶體族群的強勢表現。此外，AMD也因AI代理帶動的CPU需求而股價再創新高，花旗將其目標價大幅上調。電力公用事業股Vistra (VST)則受惠於核電升級貸款利多而大漲，顯示市場對AI發展所需的基礎設施投資故事抱持高度期待。",
+    "eventsPast": [
+      {
+        "title": "AMD股價再創新高，花旗上調目標價",
+        "detail": "花旗分析師將AMD目標價從575美元上調至800美元，看好AI代理將推升CPU運算需求，使AMD成為主要受惠者。"
+      },
+      {
+        "title": "美光科技(MU)受惠AI記憶體需求，獲法人看好",
+        "detail": "法人預期AI記憶體強勁需求將推升美光股價有望翻三倍，顯示市場對記憶體產業前景樂觀。"
+      },
+      {
+        "title": "Vistra (VST)獲核電升級貸款利多",
+        "detail": "美國能源部確認向Vistra提供最高42億美元貸款，用於升級核電設施，此消息帶動Vistra股價大漲。"
+      },
+      {
+        "title": "微軟(MSFT)推出搭載Nvidia晶片的AI筆電",
+        "detail": "微軟宣布推出搭載Nvidia AI晶片的Surface Laptop Ultra筆記型電腦，搶攻AI邊緣運算商機。"
+      },
+      {
+        "title": "美聯儲會議紀要釋出鷹派信號",
+        "detail": "美聯儲公布9月會議紀要，顯示官員預計年底前將再次加息以遏制通脹，可能對市場情緒造成影響。"
+      }
+    ],
+    "eventsUpcoming": [
+      {
+        "date": "10/7 (美東時間)",
+        "title": "美聯儲公布貨幣政策會議紀要",
+        "detail": "美聯儲將公布9月貨幣政策會議紀要，市場將從中尋找未來利率政策走向的線索。"
+      },
+      {
+        "date": "10/16",
+        "title": "微軟AI筆電Surface Laptop Ultra出貨",
+        "detail": "微軟搭載Nvidia AI晶片的全新筆記型電腦Surface Laptop Ultra將開始出貨，預期將帶動AI邊緣運算市場關注。"
+      },
+      {
+        "date": "11/25",
+        "title": "NVIDIA Corporation發佈下一份收益報告",
+        "detail": "NVIDIA Corporation預計將於2026年11月25日發佈下一份收益報告，市場將密切關注其財報表現及對AI晶片需求的展望。"
+      }
+    ]
+  }
 }
