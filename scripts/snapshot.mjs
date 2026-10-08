@@ -182,7 +182,7 @@ ${themeLines}
 
 只輸出 JSON，格式：
 {"highlights":"...","eventsPast":[{"title":"...","detail":"..."}],"eventsUpcoming":[{"date":"...","title":"...","detail":"..."}]}
-不要任何其他文字或 markdown。`;
+字串內容中不要使用半形雙引號 "，需要引用時請用「」。不要任何其他文字或 markdown。`;
 
   const body = {
     contents: [{ parts: [{ text: prompt }] }],
@@ -190,12 +190,23 @@ ${themeLines}
     // 關掉 thinking 並拉高輸出上限，避免 grounding 回應把 JSON 寫到一半就被截斷。
     generationConfig: { temperature: 0.4, maxOutputTokens: 4096, thinkingConfig: { thinkingBudget: 0 } },
   };
-  const data = await callGemini(apiKey, body);
-  const text = candidateText(data);
-  const s = text.indexOf("{");
-  const e = text.lastIndexOf("}");
-  if (s < 0 || e <= s) throw new Error("市場焦點回應無 JSON 物件");
-  const parsed = JSON.parse(text.slice(s, e + 1));
+  // grounded 回應偶爾在字串內夾未跳脫的 " 而讓 JSON 壞掉 → 先修補再解析，仍失敗則重問（最多 3 次）。
+  let parsed;
+  for (let attempt = 1; ; attempt++) {
+    try {
+      const data = await callGemini(apiKey, body);
+      const text = candidateText(data);
+      const s = text.indexOf("{");
+      const e = text.lastIndexOf("}");
+      if (s < 0 || e <= s) throw new Error("市場焦點回應無 JSON 物件");
+      parsed = parseLooseJson(text.slice(s, e + 1));
+      break;
+    } catch (err) {
+      if (attempt >= 3) throw err;
+      console.warn(`今日市場焦點第 ${attempt} 次失敗（${err.message}），重試…`);
+      await sleep(3000);
+    }
+  }
   const str = (v) => (typeof v === "string" ? v.trim() : "");
   return {
     highlights: str(parsed.highlights),
@@ -208,6 +219,44 @@ ${themeLines}
       .slice(0, 5)
       .map((x) => ({ date: str(x.date), title: str(x.title), detail: str(x.detail) })),
   };
+}
+
+/**
+ * 容錯 JSON 解析：先直接 parse；失敗則修補 LLM 常見毛病再 parse——
+ * 字串內未跳脫的 "（其後不是 , : } ] 者視為內文）與字串內的原始換行。
+ */
+function parseLooseJson(raw) {
+  try {
+    return JSON.parse(raw);
+  } catch {}
+  let out = "";
+  let inStr = false;
+  for (let i = 0; i < raw.length; i++) {
+    const c = raw[i];
+    if (!inStr) {
+      if (c === '"') inStr = true;
+      out += c;
+      continue;
+    }
+    if (c === "\\") {
+      out += c + (raw[i + 1] ?? "");
+      i++;
+    } else if (c === '"') {
+      let j = i + 1;
+      while (j < raw.length && /\s/.test(raw[j])) j++;
+      if (j >= raw.length || ",:}]".includes(raw[j])) {
+        inStr = false;
+        out += c;
+      } else {
+        out += '\\"';
+      }
+    } else if (c === "\n" || c === "\r") {
+      out += c === "\n" ? "\\n" : "";
+    } else {
+      out += c;
+    }
+  }
+  return JSON.parse(out);
 }
 
 /** 預期「最近一個已收盤的美股交易日」(UTC)：昨天起往回第一個工作日（不計假日）。 */
