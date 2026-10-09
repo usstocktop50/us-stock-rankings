@@ -112,7 +112,7 @@
       "dollarVolume": 9391453559.485266,
       "marketCap": 570577280000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "半導體製造",
       "isNew": false,
       "rankChange": -3,
       "streak": 146
@@ -125,7 +125,7 @@
       "dollarVolume": 9348194434.379349,
       "marketCap": 2803578623634.24,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電商/雲端服務",
+      "theme": "電子商務/雲端",
       "isNew": false,
       "rankChange": 3,
       "streak": 146
@@ -164,7 +164,7 @@
       "dollarVolume": 6751067650.588857,
       "marketCap": 1797319380471.15,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "半導體網路",
       "isNew": false,
       "rankChange": -6,
       "streak": 146
@@ -177,7 +177,7 @@
       "dollarVolume": 6727797748.581948,
       "marketCap": 249635892000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "半導體網路",
       "isNew": false,
       "rankChange": -9,
       "streak": 136
@@ -203,7 +203,7 @@
       "dollarVolume": 4281365064.2185936,
       "marketCap": 52046145619.200005,
       "sector": "—",
-      "theme": "雲端服務",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": 1,
       "streak": 71
@@ -307,7 +307,7 @@
       "dollarVolume": 3033625394.5162177,
       "marketCap": 446614471425.48,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "大數據/AI",
+      "theme": "數據分析/AI",
       "isNew": false,
       "rankChange": 2,
       "streak": 146
@@ -398,7 +398,7 @@
       "dollarVolume": 2301256698.8982186,
       "marketCap": 876085006148.1,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "金融服務",
+      "theme": "銀行",
       "isNew": false,
       "rankChange": 14,
       "streak": 2
@@ -463,7 +463,7 @@
       "dollarVolume": 2104683020.4765253,
       "marketCap": 258330184891.68002,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "金融服務",
+      "theme": "投資銀行",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -502,7 +502,7 @@
       "dollarVolume": 2052530425.2670393,
       "marketCap": 86581916925.34001,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "金融科技",
+      "theme": "線上券商",
       "isNew": false,
       "rankChange": 9,
       "streak": 4
@@ -580,7 +580,7 @@
       "dollarVolume": 1895511811.307706,
       "marketCap": 66314681004,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "資料中心互連",
       "isNew": false,
       "rankChange": -8,
       "streak": 2
@@ -632,7 +632,7 @@
       "dollarVolume": 1773619794.9236069,
       "marketCap": 712817800256.25,
       "sector": "FIRE, MARINE & CASUALTY INSURANCE",
-      "theme": "綜合企業",
+      "theme": "多元控股",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -652,22 +652,13 @@
     }
   ],
   "asOf": "2026-10-07T20:00:00.000Z",
-  "generatedAt": "2026-10-08T18:39:43.588Z",
+  "generatedAt": "2026-10-09T02:07:04.788Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
-      "theme": "記憶體",
-      "reason": "市場對記憶體產業復甦和AI相關需求增長抱持樂觀態度，推動相關個股上漲。",
-      "symbols": [
-        "MU"
-      ],
-      "count": 1,
-      "avgChange": 4.05906882436207
-    },
-    {
       "theme": "減肥藥 GLP-1",
-      "reason": "GLP-1藥物市場潛力巨大，相關藥廠持續受資金追捧。",
+      "reason": "減肥藥物市場潛力巨大，相關藥廠持續受市場關注。",
       "symbols": [
         "LLY"
       ],
@@ -675,8 +666,26 @@
       "avgChange": 2.6980794650493753
     },
     {
+      "theme": "記憶體",
+      "reason": "AI 應用帶動高頻寬記憶體（HBM）需求，記憶體產業景氣復甦。",
+      "symbols": [
+        "MU"
+      ],
+      "count": 1,
+      "avgChange": 4.05906882436207
+    },
+    {
+      "theme": "生技製藥",
+      "reason": "特定藥物研發進展或市場需求增長，推動相關生技製藥公司股價。",
+      "symbols": [
+        "MRNA"
+      ],
+      "count": 1,
+      "avgChange": 4.811693161207714
+    },
+    {
       "theme": "AI 伺服器",
-      "reason": "AI運算需求持續強勁，帶動AI伺服器供應商表現亮眼。",
+      "reason": "AI 算力需求持續增長，帶動伺服器及相關硬體供應商表現。",
       "symbols": [
         "SMCI"
       ],
@@ -685,7 +694,7 @@
     },
     {
       "theme": "電力公用事業",
-      "reason": "在市場波動下，公用事業股因其穩定的現金流和股息而受到青睞。",
+      "reason": "市場對穩定收益型公用事業股的青睞，以及電力需求增長預期。",
       "symbols": [
         "VST"
       ],
@@ -693,23 +702,13 @@
       "avgChange": 3.875389408099688
     },
     {
-      "theme": "生技製藥",
-      "reason": "特定生技公司因其新藥研發進展或市場預期而獲得關注。",
+      "theme": "電子商務/雲端",
+      "reason": "電子商務與雲端服務持續擴張，大型科技公司營收成長動能強勁。",
       "symbols": [
-        "MRNA"
+        "AMZN"
       ],
       "count": 1,
-      "avgChange": 4.811693161207714
-    },
-    {
-      "theme": "儲存裝置",
-      "reason": "數據儲存需求穩定增長，部分儲存裝置公司表現相對穩健。",
-      "symbols": [
-        "SNDK",
-        "STX"
-      ],
-      "count": 2,
-      "avgChange": 1.0827865839459165
+      "avgChange": 1.4163642748449004
     }
   ],
   "newEntrants": [
@@ -718,85 +717,100 @@
       "name": "Caterpillar Inc.",
       "theme": "重型機械",
       "changePercent": -5.745622162512741,
-      "reason": "宣布投資10億美元擴大製造產能，並收購經銷商Fabick Cat。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "UNH",
       "name": "UNITEDHEALTH GROUP INCORPORATED (Delaware)",
       "theme": "醫療保險",
       "changePercent": -0.09034863945577568,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "投資者權衡即將發布的第三季財報、醫療成本趨勢和Medicare政策。"
     },
     {
       "symbol": "GS",
       "name": "Goldman Sachs Group Inc.",
-      "theme": "金融服務",
+      "theme": "投資銀行",
       "changePercent": -1.1112597249158378,
-      "reason": "高盛高階主管將獲得逾5億美元的特別股權獎勵。"
+      "reason": "高盛集團計劃向高階主管發放逾5億美元的特別股權獎勵。"
     },
     {
       "symbol": "IREN",
       "name": "IREN Limited Ordinary Shares",
       "theme": "比特幣/加密",
       "changePercent": -6.274224806201559,
-      "reason": "SemiAnalysis報告批評其基礎設施和資訊揭露，導致股價下跌。"
+      "reason": "SemiAnalysis報告指出其數據中心基礎設施存在可靠性問題，導致股價下跌。"
     },
     {
       "symbol": "HPE",
       "name": "Hewlett Packard Enterprise Company",
       "theme": "企業IT服務",
       "changePercent": 2.2843359818388183,
-      "reason": "獲得Vultr價值12億美元的AI機櫃訂單，並推出AMD CPU伺服器。"
+      "reason": "推出搭載AMD EPYC處理器的新伺服器，強化AI基礎設施產品組合。"
     },
     {
       "symbol": "SMCI",
       "name": "Super Micro Computer, Inc. Common Stock",
       "theme": "AI 伺服器",
       "changePercent": 3.405430280717894,
-      "reason": "與NetApp建立AI基礎設施聯盟，並開始出貨NVIDIA液冷機架。"
+      "reason": "AI基礎設施需求旺盛，訂單量大增，並推出新AI系統。"
     },
     {
       "symbol": "BRK.B",
       "name": "BERKSHIRE HATHAWAY Class B",
-      "theme": "綜合企業",
+      "theme": "多元控股",
       "changePercent": 0.1404438817897653,
       "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI相關產業，特別是記憶體和AI晶片領域。美光（MU）因與Netlist達成專利和解並取得HBM技術授權，加上市場對高頻寬記憶體（HBM）需求的強勁預期，成交金額高居榜首。同時，Marvell（MRVL）上修長期營收預測，以及AMD（AMD）執行長蘇姿丰看好AI晶片需求，也帶動半導體族群的買氣。此外，Meta（META）的AI助理Muse表現亮眼，以及Google（GOOGL）簽署核電大單，顯示AI應用與其基礎設施的電力需求是市場交易的熱門故事。",
+    "highlights": "本日美股成交重點聚焦於AI相關產業與記憶體族群。美光科技（MU）因其2026財年營收表現亮眼，且AI記憶體需求持續吃緊至2027年，帶動股價上漲並成為成交金額最高的個股。同時，儘管AI晶片股如Nvidia（NVDA）和AMD（AMD）股價小幅下跌，但市場對AI基礎設施建設的強勁支出預期，仍使這些公司維持高成交量。此外，SpaceX（SPCX）因傳出籌資400億美元用於購買Nvidia AI晶片的消息而受到市場關注，但股價卻下跌。整體而言，資金主要集中在AI相關的硬體供應鏈，市場正在交易AI技術發展帶來的長期成長故事，但也同時關注個別公司的營收表現與市場競爭態勢。",
     "eventsPast": [
       {
-        "title": "美光與Netlist達成專利和解",
-        "detail": "美光（MU）將支付6億美元與Netlist就記憶體晶片專利爭議達成和解，並取得涵蓋高頻寬記憶體（HBM）技術的專利組合授權，期限為五年，此舉有助於美光在AI運算日益倚重的記憶體技術領域發展。"
+        "title": "美光科技2026財年營收亮眼",
+        "detail": "美光科技公布2026財年第四財季財報，營收達542.3億美元，同比增長379%，調整後每股盈利33.42美元，均超市場預期，並預期下一財季營收約615億美元。"
       },
       {
-        "title": "Marvell上修長期營收預測",
-        "detail": "Marvell（MRVL）在投資人日上修2028會計年度營收預測至200億美元，並預計2031會計年度營收將達到700億至900億美元，遠高於華爾街預期，主要受惠於AI晶片需求的強勁成長。"
+        "title": "SpaceX傳籌資400億美元購買Nvidia AI晶片",
+        "detail": "SpaceX據傳正洽談籌資400億美元，用於購買Nvidia AI晶片，但消息傳出後，SpaceX股價下跌。"
       },
       {
-        "title": "AMD執行長看好AI晶片需求",
-        "detail": "超微（AMD）執行長蘇姿丰表示，公司計畫在2027年大幅增加晶片供應，以因應快速成長的AI需求，並看好AI代理將推升運算需求，帶動超微晶片的需求。"
+        "title": "OpenAI年化營收低於先前報導",
+        "detail": "《金融時報》報導指出，OpenAI截至9月的年化營收約為500億美元，低於先前部分媒體報導的約700億美元，可能影響市場對AI產業的估值。"
       },
       {
-        "title": "Meta AI助理Muse表現亮眼",
-        "detail": "Meta（META）推出的全新個人AI助理Muse迅速爆紅，長期佔據蘋果App Store最受歡迎免費新軟體榜首，帶動富國銀行將其目標價上調至1000美元。"
+        "title": "三星電子財測不如預期影響記憶體股",
+        "detail": "三星電子公布的初步財測低於市場預期，導致SanDisk（SNDK）、SK海力士和美光（MU）等記憶體與資料儲存類股下跌。"
       },
       {
-        "title": "Google簽署20年核電購電協議",
-        "detail": "Google（GOOGL）與美國最大核電反應爐持有業者Constellation Energy達成20年核電購電協議，透過升級既有反應爐新增890MW發電容量，顯示大型科技公司正提前鎖定AI資料中心所需電力。"
+        "title": "Fed公布9月會議紀錄",
+        "detail": "聯準會（Fed）公布9月會議紀錄，顯示多數官員認為年底前可能還需再升息一次，但對升息理由與後續緊縮步調仍有不同看法。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "10/12",
-        "title": "特斯拉Cybercab將於巴黎車展亮相",
-        "detail": "特斯拉（TSLA）將在巴黎車展首度於歐洲展示自駕計程車Cybercab，這款沒有方向盤與踏板的車型，是執行長馬斯克推動特斯拉轉型為AI產品公司的重要布局。"
+        "date": "10月13日",
+        "title": "蘋果新品發表會",
+        "detail": "蘋果公司將於10月13日在紐約舉行新品發表會，主題為「歡迎回家」，預計將推出新的智能家居產品。"
       },
       {
-        "date": "本月稍晚",
-        "title": "Meta第三季財報公布",
-        "detail": "Meta（META）預定本月稍晚公布第三季財報，市場將關注其訴訟費用以及為Muse產品發展而增加的基礎設施支出對獲利的影響。"
+        "date": "10月14日",
+        "title": "美國9月CPI消費者物價指數",
+        "detail": "此數據將用來確認通膨復甦趨勢是否具實質威脅，核心CPI年增率預估落在3.4%至3.5%。"
+      },
+      {
+        "date": "10月中旬至11月上旬",
+        "title": "美股第三季財報季",
+        "detail": "美股第三季財報季將由傳統金融業揭開序幕，零售與物流股的表現尤為重要，同時市場將關注科技與半導體產業的獲利趨勢。"
+      },
+      {
+        "date": "10月27-28日",
+        "title": "美國FOMC利率決議會議",
+        "detail": "這是9月升息一碼後的首場政策會議，市場將關注聯準會對通膨與經濟韌性的措辭變化，以判斷是否會維持鷹派立場。"
+      },
+      {
+        "date": "10月29日",
+        "title": "Blackstone Mortgage Trust公布Q3財報",
+        "detail": "Blackstone Mortgage Trust, Inc.將於美股開盤前公布2026年第三季財報簡報，並舉行電話會議檢視營運成果與財務表現。"
       }
     ]
   }
