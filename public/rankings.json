@@ -86,7 +86,7 @@
       "dollarVolume": 11735770587.041735,
       "marketCap": 2116598405768.65,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "太空科技",
+      "theme": "太空",
       "isNew": false,
       "rankChange": -3,
       "streak": 82
@@ -255,7 +255,7 @@
       "dollarVolume": 5176085712.679876,
       "marketCap": 94059419999.99998,
       "sector": "COMMUNICATIONS EQUIPMENT, NEC",
-      "theme": "光通訊",
+      "theme": "光學通訊",
       "isNew": false,
       "rankChange": -2,
       "streak": 65
@@ -294,7 +294,7 @@
       "dollarVolume": 4313855996.0202875,
       "marketCap": 80352950535.72,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "清潔能源",
+      "theme": "能源技術",
       "isNew": false,
       "rankChange": 0,
       "streak": 27
@@ -437,7 +437,7 @@
       "dollarVolume": 3045091334.2519684,
       "marketCap": 175170182553.72,
       "sector": "BEVERAGES",
-      "theme": "食品飲料",
+      "theme": "消費性飲料",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -580,7 +580,7 @@
       "dollarVolume": 2483385574.9228187,
       "marketCap": 139082427355.6,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "IT 顧問",
+      "theme": "企業顧問服務",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-10-08T20:00:00.000Z",
-  "generatedAt": "2026-10-09T11:50:09.928Z",
+  "generatedAt": "2026-10-10T02:05:09.591Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "餐飲",
-      "reason": "消費者支出保持韌性，帶動餐飲業績成長，部分公司財報表現亮眼。",
+      "reason": "消費者支出回穩，市場對餐飲業績預期樂觀。",
       "symbols": [
         "SBUX",
         "MCD",
@@ -669,7 +669,7 @@
     },
     {
       "theme": "銀行",
-      "reason": "市場對經濟軟著陸預期升溫，有助於銀行業的營運前景。",
+      "reason": "市場預期利率將維持高檔，有利於銀行業的淨利息收益。",
       "symbols": [
         "BAC",
         "JPM"
@@ -679,7 +679,7 @@
     },
     {
       "theme": "零售百貨",
-      "reason": "消費者信心回穩，零售銷售數據表現良好，支撐零售股上漲。",
+      "reason": "消費者信心指數回升，帶動零售銷售成長。",
       "symbols": [
         "WMT",
         "HD"
@@ -688,8 +688,8 @@
       "avgChange": 2.8066365076561657
     },
     {
-      "theme": "IT 顧問",
-      "reason": "企業數位轉型需求持續，帶動IT服務與顧問公司的業務成長。",
+      "theme": "企業顧問服務",
+      "reason": "企業數位轉型需求持續，帶動顧問服務訂單增長。",
       "symbols": [
         "ACN"
       ],
@@ -698,7 +698,7 @@
     },
     {
       "theme": "串流媒體",
-      "reason": "串流媒體平台訂閱用戶數成長及內容策略奏效，提振市場信心。",
+      "reason": "訂閱用戶數成長及內容策略奏效，提振市場信心。",
       "symbols": [
         "NFLX"
       ],
@@ -707,7 +707,7 @@
     },
     {
       "theme": "醫療器材",
-      "reason": "醫療需求穩定增長，醫療器材公司營收表現符合預期。",
+      "reason": "醫療需求穩定增長，新產品線表現優異。",
       "symbols": [
         "MDT"
       ],
@@ -721,114 +721,99 @@
       "name": "Bank of America Corporation",
       "theme": "銀行",
       "changePercent": 0.16816143497757158,
-      "reason": "即將於10月14日發布財報，聯準會政策轉向可能支持淨利息收入。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "PEP",
       "name": "PepsiCo, Inc.",
-      "theme": "食品飲料",
+      "theme": "消費性飲料",
       "changePercent": 3.7258546835852253,
-      "reason": "第三季財報營收優於預期，國際業務與健康零食表現良好。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "SBUX",
       "name": "Starbucks Corp",
       "theme": "餐飲",
       "changePercent": -0.3953836289805563,
-      "reason": "傳聞星巴克考慮收購Chipotle Mexican Grill，但股價下跌。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "MCD",
       "name": "McDonald's Corporation",
       "theme": "餐飲",
       "changePercent": 2.607415107415112,
-      "reason": "被BetterInvesting Magazine評為「被低估的股票」，且被視為防禦性消費股。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "WMT",
       "name": "Walmart Inc. Common Stock",
       "theme": "零售百貨",
       "changePercent": 2.218934911242609,
-      "reason": "納入SEC批准的代幣化項目，可進行24/7交易。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "HD",
       "name": "Home Depot, Inc.",
       "theme": "居家修繕零售",
       "changePercent": 3.3943381040697225,
-      "reason": "管理層重申2026財年展望，並擴大對專業承包商的供應生態系統。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "ACN",
       "name": "Accenture PLC",
-      "theme": "IT 顧問",
+      "theme": "企業顧問服務",
       "changePercent": 5.960130187144034,
-      "reason": "與Dell Technologies成立新業務集團，並獲UBS重申買入評級。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "V",
       "name": "VISA Inc.",
       "theme": "支付服務",
       "changePercent": 0.8062348830959419,
-      "reason": "Visa數據顯示穩定幣在商業支付中日益普及。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "CMG",
       "name": "Chipotle Mexican Grill, Inc.",
       "theme": "餐飲",
       "changePercent": 6.2073448163795915,
-      "reason": "星巴克考慮收購Chipotle Mexican Grill的報導，推動股價上漲。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於半導體、記憶體與AI晶片相關類股，儘管多數個股呈現下跌，但成交金額依然居高不下，顯示市場對這些題材的關注度極高。資金主要集中在科技巨頭，特別是與AI基礎設施相關的公司，如美光（MU）、輝達（NVDA）、超微（AMD）和英特爾（INTC），這些公司在AI浪潮下仍是市場交易的主軸。此外，蘋果（AAPL）作為消費性電子龍頭，以及醫療器材股美敦力（MDT）和資料分析軟體公司Palantir（PLTR）逆勢上漲，顯示資金在科技股下跌之際，也流向了具有特定利好消息或防禦性質的個股與族群。",
+    "highlights": "本日美股成交重點集中在半導體、記憶體和AI晶片相關個股，主要受到三星電子財測不如預期，以及OpenAI營收消息的影響，導致市場對AI熱潮的持續性產生疑慮，引發記憶體與AI晶片類股普遍下跌。儘管如此，部分科技巨頭如蘋果仍有小幅上漲，而醫療器材和資料分析軟體類股則逆勢走強，顯示資金在市場波動中尋求避險或轉向其他有成長潛力的領域。",
     "eventsPast": [
       {
-        "title": "聯準會9月會議紀要顯示年底前可能再升息",
-        "detail": "美國聯準會（Fed）公布的9月聯邦公開市場委員會（FOMC）會議紀要顯示，多數官員認為今年底前可能需再升息一次，以應對持續高於目標的通膨，但未必得在10月立即採取行動。"
+        "title": "記憶體股重挫，三星財測不如預期",
+        "detail": "三星電子公布的初步財測低於市場預期，導致SanDisk、SK海力士和美光等記憶體與資料儲存類股在10月8日普遍下跌約5%。"
       },
       {
-        "title": "AI熱潮推升記憶體晶片需求，引發產業團體擔憂",
-        "detail": "人工智慧（AI）熱潮推升全球記憶體晶片需求，導致汽車、醫療設備等產業面臨記憶體短缺問題，並呼籲政府採取行動擴大供應。"
+        "title": "OpenAI營收消息影響AI產業",
+        "detail": "《金融時報》報導指出，OpenAI截至9月的年化營收約為500億美元，低於先前部分媒體報導的約700億美元，這項消息加劇了科技股的悲觀氛圍。"
       },
       {
-        "title": "美股標普、那斯達克指數創新高，AI熱潮與企業財報為驅動力",
-        "detail": "美國股市標普500指數和那斯達克綜合指數雙雙寫下歷史新高紀錄，主要受人工智慧（AI）領域的持續熱潮以及企業財報表現亮眼的雙重驅動。"
+        "title": "蘋果iPhone 18 Pro買氣偏弱，SpaceX在印度市場受阻",
+        "detail": "蘋果新任執行長特納斯面臨iPhone 18 Pro系列在美國初期需求偏弱，以及iPhone Duo量產困難的挑戰；同時，SpaceX在印度市場擴張面臨阻礙，導致股價下跌。"
       },
       {
-        "title": "SpaceX納入那斯達克100指數後股價波動",
-        "detail": "馬斯克的太空公司SpaceX在7月7日納入那斯達克100指數，股價隨後出現挫逾5%的波動，但市場對其長期表現仍普遍看好。"
+        "title": "川普政府打擊外籍人才簽證",
+        "detail": "川普政府宣布暫停微軟等企業參與協助外籍員工申請綠卡的計畫，並調查大學使用J-1簽證的情況，可能影響科技業的人才供應。"
       },
       {
-        "title": "美光科技因AI需求預期強勁，市值超越Meta和特斯拉",
-        "detail": "美光科技（Micron Technology）因其記憶體晶片在AI領域的強勁需求，預測季度利潤和營收遠超華爾街預期，使其市值一度超越Meta和特斯拉。"
+        "title": "美國9月非農就業數據降溫",
+        "detail": "美國9月非農就業人口僅增加2.9萬人，失業率升至4.2%，薪資成長放緩，這份數據降低了市場對聯準會10月升息的預期。"
       }
     ],
     "eventsUpcoming": [
       {
         "date": "10/14",
-        "title": "美國消費者物價指數（CPI）公布",
-        "detail": "美國勞工統計局將公布9月份消費者物價指數（CPI），此為市場關注的通膨關鍵數據，可能影響聯準會未來的貨幣政策決策。"
+        "title": "美國9月消費者物價指數（CPI）公布",
+        "detail": "聯準會（Fed）傳聲筒指出，9月CPI將是判斷聯準會下一步政策的關鍵依據，若通膨居高不下，12月升息可能性仍未完全排除。"
       },
       {
-        "date": "10/15",
-        "title": "美國零售銷售（初值）與生產者物價指數（PPI）公布",
-        "detail": "美國普查局將公布9月份零售銷售初值，勞工統計局將公布9月份生產者物價指數（PPI），這些數據將提供消費者支出和生產者物價變化的重要線索。"
-      },
-      {
-        "date": "10/27-10/28",
-        "title": "FOMC會議",
-        "detail": "美國聯準會將召開聯邦公開市場委員會（FOMC）會議，討論貨幣政策，並可能公布新的利率決議。"
-      },
-      {
-        "date": "10/29",
-        "title": "美國國內生產毛額（GDP）與個人所得與支出（含PCE物價指數）公布",
-        "detail": "美國經濟分析局將公布第三季國內生產毛額（GDP）以及9月份個人所得與支出（含PCE物價指數），這些數據將反映美國經濟的整體健康狀況和通膨趨勢。"
-      },
-      {
-        "date": "本週五",
-        "title": "美國密大消費者信心指數公布",
-        "detail": "美國密西根大學將公布消費者信心指數，此數據將反映消費者對經濟前景的看法，可能影響市場情緒。"
+        "date": "下週",
+        "title": "摩根大通等銀行股公布財報",
+        "detail": "美股財報季即將登場，下週將由摩根大通（JPMorgan Chase）和高盛（Goldman Sachs）等銀行股公布財報，揭開非正式序幕。"
       }
     ]
   }
