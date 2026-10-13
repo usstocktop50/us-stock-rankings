@@ -6,7 +6,7 @@
       "price": 1029,
       "changePercent": -0.6603336422613453,
       "dollarVolume": 20544018071.583145,
-      "marketCap": 1162145552379,
+      "marketCap": 1164234485148,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
       "theme": "記憶體",
       "isNew": false,
@@ -110,7 +110,7 @@
       "price": 1581.82,
       "changePercent": -1.7173461906478011,
       "dollarVolume": 8982965696.990404,
-      "marketCap": 231608504161.81998,
+      "marketCap": 228616591286.47998,
       "sector": "COMPUTER STORAGE DEVICES",
       "theme": "記憶體",
       "isNew": false,
@@ -138,7 +138,7 @@
       "dollarVolume": 7931942427.249816,
       "marketCap": 528106800000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體 CPU",
+      "theme": "CPU",
       "isNew": false,
       "rankChange": -6,
       "streak": 148
@@ -201,7 +201,7 @@
       "price": 1103.355,
       "changePercent": 5.221724203700182,
       "dollarVolume": 5832335871.799286,
-      "marketCap": 98970943500,
+      "marketCap": 99945047081.88,
       "sector": "COMMUNICATIONS EQUIPMENT, NEC",
       "theme": "光通訊",
       "isNew": false,
@@ -370,7 +370,7 @@
       "price": 397.28,
       "changePercent": 1.0093819124863264,
       "dollarVolume": 2770649985.4358153,
-      "marketCap": 136935317003.68,
+      "marketCap": 148711148308.31998,
       "sector": "COMPUTER STORAGE DEVICES",
       "theme": "儲存裝置",
       "isNew": false,
@@ -396,7 +396,7 @@
       "price": 312.62,
       "changePercent": 3.3967256490821836,
       "dollarVolume": 2533232855.429113,
-      "marketCap": 61221076744.520004,
+      "marketCap": 61564621114.92,
       "sector": "OPTICAL INSTRUMENTS & LENSES",
       "theme": "光學元件",
       "isNew": false,
@@ -409,7 +409,7 @@
       "price": 154.34,
       "changePercent": 1.894764639862682,
       "dollarVolume": 2488673641.086811,
-      "marketCap": 61868231258.020004,
+      "marketCap": 62096794135.72,
       "sector": "FINANCE SERVICES",
       "theme": "比特幣/加密",
       "isNew": false,
@@ -502,7 +502,7 @@
       "dollarVolume": 2118276118.9425638,
       "marketCap": 48517147004.159996,
       "sector": "—",
-      "theme": "雲端基礎設施",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": -18,
       "streak": 73
@@ -567,7 +567,7 @@
       "dollarVolume": 1778412491.6857803,
       "marketCap": 367955958397.83,
       "sector": "CONSTRUCTION MACHINERY & EQUIP",
-      "theme": "工業機械",
+      "theme": "重型機械",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-10-09T20:00:00.000Z",
-  "generatedAt": "2026-10-10T11:06:37.000Z",
+  "generatedAt": "2026-10-13T02:06:18.846Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型需求持續，雲端服務與軟體解決方案仍是市場關注焦點。",
+      "reason": "市場對企業數位轉型及雲端服務需求持續看好，帶動相關軟體公司股價表現。",
       "symbols": [
         "MSFT",
         "PLTR",
@@ -666,34 +666,15 @@
         "ORCL",
         "SNOW",
         "GOOG",
+        "NBIS",
         "CRWV"
       ],
-      "count": 7,
-      "avgChange": 3.0902932583096208
-    },
-    {
-      "theme": "醫療保險",
-      "reason": "醫療服務需求穩定成長，保險公司受惠於市場擴張與政策支持。",
-      "symbols": [
-        "UNH",
-        "HUM"
-      ],
-      "count": 2,
-      "avgChange": 6.9053501519656795
-    },
-    {
-      "theme": "比特幣/加密",
-      "reason": "加密貨幣市場波動性高，但相關概念股仍吸引部分資金追逐。",
-      "symbols": [
-        "MSTR",
-        "COIN"
-      ],
-      "count": 2,
-      "avgChange": 3.0956381338848256
+      "count": 8,
+      "avgChange": 2.781381322244348
     },
     {
       "theme": "生技製藥",
-      "reason": "新藥研發進展與市場需求推動，特定藥物概念股表現強勁。",
+      "reason": "特定藥物研發進展或市場需求預期，推動相關製藥公司股價上漲。",
       "symbols": [
         "MRNA",
         "LLY"
@@ -702,8 +683,28 @@
       "avgChange": 7.519988177658035
     },
     {
+      "theme": "比特幣/加密",
+      "reason": "加密貨幣市場情緒好轉，或相關政策利好消息，帶動加密貨幣概念股表現。",
+      "symbols": [
+        "MSTR",
+        "COIN"
+      ],
+      "count": 2,
+      "avgChange": 3.0956381338848256
+    },
+    {
+      "theme": "醫療保險",
+      "reason": "醫療服務需求穩定成長，或有利的政策環境，支撐醫療保險公司股價。",
+      "symbols": [
+        "UNH",
+        "HUM"
+      ],
+      "count": 2,
+      "avgChange": 6.9053501519656795
+    },
+    {
       "theme": "光通訊",
-      "reason": "AI與數據中心建設帶動高速網路需求，光通訊產業前景看好。",
+      "reason": "5G、數據中心等基礎設施建設需求增加，帶動光通訊元件及設備供應商股價。",
       "symbols": [
         "LITE",
         "CIEN"
@@ -713,7 +714,7 @@
     },
     {
       "theme": "儲存裝置",
-      "reason": "數據量爆炸式增長，對儲存設備的需求持續增加。",
+      "reason": "數據儲存需求持續增長，或新技術應用前景，推動儲存裝置公司股價。",
       "symbols": [
         "STX",
         "WDC"
@@ -728,108 +729,118 @@
       "name": "Verizon Communications",
       "theme": "電信服務",
       "changePercent": -10.14023732470335,
-      "reason": "分析師下調目標價，引發股價下跌與交易量激增。"
+      "reason": "SpaceX收購低頻段頻譜，市場擔憂競爭加劇導致股價下跌。"
     },
     {
       "symbol": "T",
       "name": "AT&T Inc.",
       "theme": "電信服務",
       "changePercent": -10.816244471250508,
-      "reason": "SpaceX收購800 MHz頻譜，加劇電信業競爭，導致股價下跌。"
+      "reason": "SpaceX收購低頻段頻譜，加劇電信競爭疑慮，且逢除息日。"
     },
     {
       "symbol": "SNOW",
       "name": "Snowflake Inc.",
       "theme": "雲端軟體 SaaS",
       "changePercent": 7.422830518345955,
-      "reason": "受惠於企業AI與雲端數據需求，新產品開發與分析師看好。"
+      "reason": "財報與財測優於預期，AI產品CoCo帶動營收成長。"
     },
     {
       "symbol": "TMUS",
       "name": "T-Mobile US, Inc.",
       "theme": "電信服務",
       "changePercent": -13.268343937890368,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "SpaceX擴大頻譜布局，引發市場對電信競爭的疑慮。"
     },
     {
       "symbol": "ASTS",
       "name": "AST SpaceMobile, Inc. Class A Common Stock",
       "theme": "太空通訊",
       "changePercent": -10.477779729492353,
-      "reason": "SpaceX收購頻譜加劇競爭，且公司財報不佳、稀釋疑慮。"
+      "reason": "德意志銀行調升評級至買入，認為市場誤判SpaceX競爭影響。"
     },
     {
       "symbol": "COIN",
       "name": "Coinbase Global, Inc. Class A Common Stock",
       "theme": "比特幣/加密",
       "changePercent": 4.296511627906969,
-      "reason": "重啟Coinbase Pro為機構交易所，並整合Deribit。"
+      "reason": "加碼政治資金，押注監管與選舉題材，分析師評級分歧。"
     },
     {
       "symbol": "HUM",
       "name": "Humana Inc.",
       "theme": "醫療保險",
       "changePercent": 11.55972308328167,
-      "reason": "Medicare Advantage星級評等顯著提升，預期獲更高獎勵金。"
+      "reason": "受惠政府一次性補貼推升醫療保險題材，技術面超賣反彈。"
     },
     {
       "symbol": "WFC",
       "name": "Wells Fargo & Co.",
       "theme": "銀行",
       "changePercent": 1.85298061684749,
-      "reason": "HUD調查其抵押貸款業務，但第三季財報預期樂觀。"
+      "reason": "近期無明確個股消息，可能受金融股財報季題材輪動帶動。"
     },
     {
       "symbol": "CAT",
       "name": "Caterpillar Inc.",
-      "theme": "工業機械",
+      "theme": "重型機械",
       "changePercent": 0.538822879248421,
-      "reason": "宣布投資10億美元擴建廠房，並收購經銷商。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "CIEN",
       "name": "Ciena Corporation",
       "theme": "光通訊",
       "changePercent": 5.597163853215311,
-      "reason": "受惠AI帶動網路需求，財報優於預期，獲分析師看好。"
+      "reason": "AI資料中心需求點火，光通訊產業前景獲分析師看好。"
     },
     {
       "symbol": "GS",
       "name": "Goldman Sachs Group Inc.",
       "theme": "投資銀行",
       "changePercent": 1.4423458230888655,
-      "reason": "高層主管將獲創紀錄獎金，且股息收益率具吸引力。"
+      "reason": "華爾街大幅上修獲利預估，高盛看好股債雙漲。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI相關題材，特別是記憶體與AI晶片領域的強勁表現，以及雲端軟體SaaS族群的活躍。資金主要集中在Nvidia、Micron等AI晶片和記憶體龍頭，以及Microsoft、Palantir等雲端軟體公司，市場故事圍繞著AI技術的持續發展與應用擴大，帶動相關硬體與軟體需求激增。此外，生技製藥股Moderna因其強勁漲幅也吸引了大量關注。",
+    "highlights": "本日美股成交重點聚焦於AI相關題材，尤其是記憶體和AI晶片領域。資金集中在這些個股和族群，主要受到第三季財報季即將登場的預期心理影響，市場期待AI巨頭的營收和獲利能超出預期，進一步推動股價上漲。此外，雲端軟體SaaS和生技製藥族群也表現活躍，顯示市場對AI應用端和醫療產業的成長潛力保持關注。",
     "eventsPast": [
       {
-        "title": "AI熱潮與企業財報驅動美股創新高",
-        "detail": "10月6日，標普500指數和那斯達克綜合指數雙雙創下歷史新高，主要受人工智慧（AI）熱潮及企業強勁獲利所驅動。"
+        "title": "美股第三季財報季登場，AI相關企業成獲利成長主力",
+        "detail": "分析師預期史坦普500指數成分股企業第三季獲利將年增約31%，其中約三分之二的增幅來自科技業及Alphabet、亞馬遜和Meta Platforms等AI巨頭。"
       },
       {
-        "title": "AI晶片與記憶體需求強勁",
-        "detail": "美光（MU）和SanDisk（SNDK）等記憶體大廠受惠於AI伺服器對高頻寬記憶體（HBM）的需求爆炸性增長，推動記憶體價格持續飆升。"
+        "title": "納斯達克綜合指數創新高，費城半導體指數反彈",
+        "detail": "10月6日，納斯達克綜合指數上漲0.45%至27,599.79點，與標普500指數同步創下歷史收盤新高，費城半導體指數也較9月底累計反彈約4.7%。"
       },
       {
-        "title": "Marvell Technology上調營收預期",
-        "detail": "ASIC設計服務巨擘Marvell Technology（AVGO的競爭對手）在投資人日預估2028會計年度營收上看200億美元，並預測2031會計年度營收將介於700~900億美元之間，遠高於分析師預期，受惠於AI晶片需求的成長。"
+        "title": "美半導體業財報聚焦AI晶片需求與資本支出",
+        "detail": "美股第三季超級財報周登場，半導體設備與晶圓代工龍頭將接力公布財報，市場關注AI晶片需求、先進封裝及資本支出展望。"
       },
       {
-        "title": "輝達進軍AI伺服器CPU市場",
-        "detail": "輝達（NVDA）公布新一代資料中心CPU「Vera」的詳細規格、架構及效能測試資訊，將戰線從繪圖處理器（GPU）延伸至中央處理器（CPU），試圖挑戰英特爾（INTC）與超微（AMD）的市場。"
+        "title": "SpaceX全面導入輝達晶片，馬斯克按讚效能",
+        "detail": "SpaceX已全面導入輝達（NVIDIA）晶片，馬斯克對其效能表示讚賞。"
       },
       {
-        "title": "SpaceX債券發行獲超額認購",
-        "detail": "SpaceX（SPCX）首次發行的債券獲得約3.6倍的超額認購，反映市場對其太空探索業務的謹慎樂觀情緒。"
+        "title": "SanDisk上季EPS狂飆130倍",
+        "detail": "SanDisk公布上季每股盈餘（EPS）達39.25美元，狂飆130倍。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "本週三",
-        "title": "美光（MU）公布第四財季業績",
-        "detail": "市場高度關注美光（MU）的財報，預期將是AI記憶體需求的關鍵測試。"
+        "date": "本週",
+        "title": "半導體產業財報",
+        "detail": "市場焦點將集中於半導體產業財報，尤其AI晶片製造設備交付、先進製程需求、先進封裝營收貢獻，以及未來擴產規劃，均是觀察AI資本支出能否延續的重要指標。"
+      },
+      {
+        "date": "本週",
+        "title": "美國通膨數據",
+        "detail": "美國通膨數據將牽動市場對利率政策的預期，科技股在財報與總體經濟數據交錯影響下，短線波動可能加劇。"
+      },
+      {
+        "date": "11月17日",
+        "title": "富邦NASDAQ ETF（00662）分割後新受益憑證恢復上市交易",
+        "detail": "富邦NASDAQ ETF（00662）受益人會議已通過分割案，預計11月17日分割後新受益憑證恢復上市交易，屆時持有一張將變成五張，每張交易金額可望降至約2.5萬元左右。"
       }
     ]
   }
