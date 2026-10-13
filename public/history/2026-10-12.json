@@ -99,7 +99,7 @@
       "dollarVolume": 8821697434.891148,
       "marketCap": 4976177554600,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "消費性電子",
+      "theme": "消費電子",
       "isNew": false,
       "rankChange": -3,
       "streak": 149
@@ -151,7 +151,7 @@
       "dollarVolume": 6736177982.242132,
       "marketCap": 2069760960000.0002,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "網路服務",
+      "theme": "搜尋引擎",
       "isNew": false,
       "rankChange": 3,
       "streak": 149
@@ -177,7 +177,7 @@
       "dollarVolume": 5816024073.186734,
       "marketCap": 1693349722011.4502,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "網通晶片",
       "isNew": false,
       "rankChange": 0,
       "streak": 149
@@ -190,7 +190,7 @@
       "dollarVolume": 5107014115.609034,
       "marketCap": 233132634000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "資料中心晶片",
+      "theme": "網通晶片",
       "isNew": false,
       "rankChange": 3,
       "streak": 139
@@ -203,7 +203,7 @@
       "dollarVolume": 5063617066.200879,
       "marketCap": 480849085761,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "大數據分析",
+      "theme": "資料分析軟體",
       "isNew": false,
       "rankChange": -4,
       "streak": 149
@@ -216,7 +216,7 @@
       "dollarVolume": 4142930598.861041,
       "marketCap": 1928757190000.0002,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "網路服務",
+      "theme": "搜尋引擎",
       "isNew": false,
       "rankChange": 3,
       "streak": 149
@@ -242,7 +242,7 @@
       "dollarVolume": 3690300148.7182937,
       "marketCap": 77248632308.87999,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "燃料電池",
+      "theme": "氫能源",
       "isNew": false,
       "rankChange": 14,
       "streak": 29
@@ -294,7 +294,7 @@
       "dollarVolume": 2965800071.835159,
       "marketCap": 415431089039.99994,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "企業軟體",
+      "theme": "資料庫軟體",
       "isNew": false,
       "rankChange": -2,
       "streak": 149
@@ -593,7 +593,7 @@
       "dollarVolume": 1704279735.854992,
       "marketCap": 37748263211.12,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "資料中心晶片",
+      "theme": "高速傳輸晶片",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -645,30 +645,20 @@
       "dollarVolume": 1570179224.7114697,
       "marketCap": 897148024932.28,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售",
+      "theme": "零售百貨",
       "isNew": true,
       "rankChange": null,
       "streak": 1
     }
   ],
   "asOf": "2026-10-12T20:00:00.000Z",
-  "generatedAt": "2026-10-13T07:16:40.781Z",
+  "generatedAt": "2026-10-13T09:43:47.223Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
-      "theme": "比特幣/加密",
-      "reason": "加密貨幣市場近期波動吸引資金關注，相關概念股表現活躍。",
-      "symbols": [
-        "MSTR",
-        "COIN"
-      ],
-      "count": 2,
-      "avgChange": -0.259051409466386
-    },
-    {
       "theme": "支付服務",
-      "reason": "全球數位支付趨勢持續增長，帶動支付服務提供商營收。",
+      "reason": "全球數位支付趨勢持續增長，帶動相關服務提供商的營收與獲利。",
       "symbols": [
         "V",
         "MA"
@@ -677,14 +667,23 @@
       "avgChange": 1.0004980623624995
     },
     {
-      "theme": "網路服務",
-      "reason": "大型網路公司在廣告和雲端服務領域持續展現韌性。",
+      "theme": "搜尋引擎",
+      "reason": "廣告市場復甦與AI技術整合，持續支撐大型科技公司的成長動能。",
       "symbols": [
         "GOOGL",
         "GOOG"
       ],
       "count": 2,
       "avgChange": 0.31026070177972465
+    },
+    {
+      "theme": "比特幣/加密",
+      "reason": "加密貨幣市場波動與投資人情緒影響相關概念股表現。",
+      "symbols": [
+        "COIN"
+      ],
+      "count": 1,
+      "avgChange": 0.5574446736161437
     },
     {
       "theme": "雲端軟體 SaaS",
@@ -698,7 +697,7 @@
     },
     {
       "theme": "社群媒體",
-      "reason": "社群媒體巨頭在廣告收入和用戶參與度方面表現強勁。",
+      "reason": "廣告業務回溫與用戶參與度提升，推動社群平台營收增長。",
       "symbols": [
         "META"
       ],
@@ -706,13 +705,13 @@
       "avgChange": 3.3798544533652555
     },
     {
-      "theme": "醫療器材",
-      "reason": "醫療器材公司受惠於醫療需求穩定增長及技術創新。",
+      "theme": "零售百貨",
+      "reason": "消費者支出保持韌性，大型零售商表現穩健。",
       "symbols": [
-        "MDT"
+        "WMT"
       ],
       "count": 1,
-      "avgChange": 3.8991862567811966
+      "avgChange": 1.5536596317916516
     }
   ],
   "newEntrants": [
@@ -721,128 +720,123 @@
       "name": "Cerebras Systems Inc. Class A Common Stock",
       "theme": "AI 晶片",
       "changePercent": -10.690138271304127,
-      "reason": "OpenAI執行長稱Cerebras為「緊密合作夥伴」，帶動股價反彈。"
+      "reason": "OpenAI執行長稱Cerebras為「緊密合作夥伴」，提振市場信心。"
     },
     {
       "symbol": "SHOP",
       "name": "Shopify Inc. Class A subordinate voting shares",
       "theme": "電商軟體",
       "changePercent": 4.899034240561899,
-      "reason": "Shopify宣布將於11月3日公布第三季財報。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "CRM",
       "name": "Salesforce, Inc.",
       "theme": "雲端軟體 SaaS",
       "changePercent": 2.090516300789941,
-      "reason": "美銀雙重升評至買進，Salesforce收購AI分析平台Loops。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "PANW",
       "name": "Palo Alto Networks, Inc. Common Stock",
       "theme": "資安",
       "changePercent": -3.56989350016715,
-      "reason": "Phillip Securities將其評級下調至中性，目標價降低。"
+      "reason": "Palo Alto Networks宣布推出AI資安防禦新產品，並獲分析師調升目標價。"
     },
     {
       "symbol": "LRCX",
       "name": "Lam Research Corp",
       "theme": "半導體設備",
       "changePercent": -2.910550746455894,
-      "reason": "UBS預計受AI需求帶動，第三季財報表現強勁。"
+      "reason": "UBS分析師看好AI帶動半導體設備需求，上調財測預期。"
     },
     {
       "symbol": "CVX",
       "name": "Chevron Corporation",
       "theme": "石油天然氣",
       "changePercent": 1.424662704028687,
-      "reason": "宣布高階領導層變動，並出售部分中游資產。"
+      "reason": "受惠於油價上漲、強勁的Q2財報及Hess併購案整合順利。"
     },
     {
       "symbol": "IREN",
       "name": "IREN Limited Ordinary Shares",
       "theme": "比特幣/加密",
       "changePercent": -1.108269394714409,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "市場傳言IREN與Anthropic簽訂雲端服務大單，推升股價。"
     },
     {
       "symbol": "MA",
       "name": "Mastercard Incorporated",
       "theme": "支付服務",
       "changePercent": 1.0099467019723742,
-      "reason": "執行長表示穩定幣在跨境支付具潛力，股價連七漲。"
+      "reason": "Mastercard執行長表示穩定幣在跨境支付有明確應用案例。"
     },
     {
       "symbol": "CRDO",
       "name": "Credo Technology Group Holding Ltd Ordinary Shares",
-      "theme": "資料中心晶片",
+      "theme": "高速傳輸晶片",
       "changePercent": -7.254675594550915,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "推出高速傳輸晶片新產品，並獲分析師調升評級與目標價。"
     },
     {
       "symbol": "CSCO",
       "name": "Cisco Systems, Inc. Common Stock (DE)",
       "theme": "網路設備",
       "changePercent": -2.5762311005997107,
-      "reason": "與NVIDIA合作推出新型光學模組，提升AI基礎設施。"
+      "reason": "與NVIDIA合作推出AI工廠新光學模組，並發表AI網路產品。"
     },
     {
       "symbol": "WMT",
       "name": "Walmart Inc. Common Stock",
-      "theme": "零售",
+      "theme": "零售百貨",
       "changePercent": 1.5536596317916516,
-      "reason": "開設新一代物流中心，強化西岸電商配送能力。"
+      "reason": "開設新一代物流中心，擴大西岸配送範圍，並受惠防禦性需求。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI相關產業的劇烈波動。記憶體與儲存裝置類股因中國長鑫存儲的技術突破消息，引發市場對未來競爭加劇及獲利空間受擠壓的擔憂，導致美光、Sandisk等個股大跌，資金出現獲利了結的現象。同時，AI晶片與光通訊族群也面臨賣壓，主因是開放運算計畫全球峰會（OCP Global Summit）的「利多出盡」效應，以及博通執行長對AI基礎建設資金瓶頸的示警，使得市場開始重新評估AI資本支出的可持續性。另一方面，Meta Platforms受惠於發布最新AI模型而上漲，微軟也因擴大採用自研AI晶片而表現強勢，顯示市場對具備創新能力和成本控制優勢的AI相關企業仍抱持信心。",
+    "highlights": "本日美股成交重點聚焦於AI相關題材，儘管Nvidia、AMD等AI晶片股呈現下跌，但市場對AI基礎設施的投資熱情不減，Marvell Technology上修2028財年營收預測即是明證。同時，記憶體與儲存裝置類股也因AI需求而受到關注，但部分個股如美光和Sandisk出現較大跌幅，可能反映了短期獲利了結壓力或競爭格局變化。此外，微軟積極發展自研AI晶片，顯示科技巨頭在AI領域的自主化趨勢。",
     "eventsPast": [
       {
-        "title": "記憶體與儲存裝置類股重挫",
-        "detail": "中國長鑫存儲宣布在下一代4F² DRAM技術取得進展，並計劃推出針對AI資料中心的新產品，引發市場對美光、SanDisk等記憶體及儲存裝置公司的競爭擔憂與獲利了結賣壓。"
-      },
-      {
-        "title": "AI晶片與光通訊族群下跌",
-        "detail": "開放運算計畫全球峰會（OCP Global Summit 2026）登場，導致AI晶片大廠輝達、AMD以及光通訊類股Lumentum、Marvell Technology等出現「利多出盡」的獲利了結賣壓。"
-      },
-      {
-        "title": "博通執行長示警AI資金瓶頸",
-        "detail": "博通執行長陳福陽表示，取得資金已成為AI成長的最大限制，因建置與擴充AI系統的成本逐年攀升，籌措資金比取得晶片更困難，引發市場對AI基礎建設投資可持續性的疑慮。"
-      },
-      {
-        "title": "Meta發布最新AI模型",
-        "detail": "Meta Platforms發布最新AI模型「Muse Wonder」，帶動公司股價上漲逾3%。"
+        "title": "Marvell上修2028財年營收預測",
+        "detail": "美滿電子科技公司（Marvell Technology）因人工智慧（AI）支出激增，帶動客製化資料中心晶片需求成長，上修2028會計年度營收預測至約200億美元，優於華爾街預期。"
       },
       {
         "title": "微軟擴大採用自研AI晶片",
-        "detail": "微軟宣布將大幅增加自家研發的第三代AI晶片Maia 300使用量，以降低對輝達的依賴並優化成本與效能，推動股價上漲。"
+        "detail": "微軟宣布將主要仰賴自研晶片來處理不斷湧入的AI運算需求，從週一亮相的第三代Maia人工智慧加速器開始，力拚降低對輝達的依賴。"
+      },
+      {
+        "title": "AMD推出Helion機櫃級運算架構",
+        "detail": "AMD擴大搶攻代理式AI（Agentic AI）基礎建設商機，於10月12日宣布推出全新AMD Helion機櫃級運算架構，以第六代EPYC伺服器處理器為核心。"
+      },
+      {
+        "title": "Nvidia與思科聯手發布AI網路晶片與光學模組",
+        "detail": "Nvidia與思科系統公司於10月12日在開放計算項目全球峰會上宣布推出全新網路晶片與光學模組，旨在擴展AI數據中心。"
+      },
+      {
+        "title": "美國9月非農就業數據低於預期",
+        "detail": "美國9月非農就業職位僅增2.9萬個，遠低於分析師預期的9萬個，失業率增至4.2%，市場對Fed於10月再度升息的預期有所降溫。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "本週三",
-        "title": "美國CPI數據公布",
-        "detail": "美國勞工部將公布消費者物價指數（CPI），此數據將牽動市場對聯準會利率政策的預期，可能影響科技股走勢。"
+        "date": "10/13",
+        "title": "蘋果「歡迎回家」發表會",
+        "detail": "蘋果（Apple）將在美東時間10月13日上午9點（台灣時間晚間9點）進行「Welcome Home（歡迎回家）」線上發表會，外傳將發布三款家用新品。"
       },
       {
-        "date": "本週四",
-        "title": "特斯拉Roadster發布活動",
-        "detail": "特斯拉將舉行第二代電動跑車Roadster的發布活動，市場關注其懸浮功能及生產計畫。"
+        "date": "10/14",
+        "title": "美國9月CPI消費者物價指數",
+        "detail": "此數據為評估通膨的重要指標，若顯著高於預期，可能提高聯準會未來升息的機率，進而壓制科技股估值。"
       },
       {
-        "date": "未來幾天",
-        "title": "台積電與艾司摩爾財報",
-        "detail": "全球半導體設備與晶圓代工龍頭台積電和艾司摩爾將公布財報，市場將聚焦AI晶片需求、先進封裝及資本支出展望，以觀察AI資本支出能否延續。"
+        "date": "10/27-28",
+        "title": "聯準會（Fed）政策會議",
+        "detail": "聯準會將召開政策會議，市場將關注是否會再次升息，以及對未來經濟前景的展望。"
       },
       {
-        "date": "11/17",
-        "title": "富邦NASDAQ ETF分割後恢復上市",
-        "detail": "富邦NASDAQ ETF（00662）受益人會議已通過分割案，預計11月17日分割後新受益憑證恢復上市交易，每張交易金額可望降低，提供投資人更具彈性的參與方式。"
-      },
-      {
-        "date": "每月第一個星期五",
-        "title": "美國非農就業報告",
-        "detail": "美國勞工部勞工統計局將公布非農就業報告，此為評估美國勞動市場與景氣強弱的重要指標，對金融市場影響重大。"
+        "date": "10月底",
+        "title": "蘋果新品體驗活動",
+        "detail": "蘋果傳出將在2026年10月27日、28日於洛杉磯舉辦兩天新品體驗活動，邀請內容創作者試用新產品，預計亮相的陣容包括大幅改款的OLED MacBook Pro、搭載M6晶片的iMac與14吋MacBook Pro，以及改用OLED螢幕的iPad mini 8。"
       }
     ]
   }
