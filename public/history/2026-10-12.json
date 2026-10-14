@@ -125,7 +125,7 @@
       "dollarVolume": 7527331549.306645,
       "marketCap": 511209400000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體製造",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": 1,
       "streak": 149
@@ -138,7 +138,7 @@
       "dollarVolume": 6921410499.868776,
       "marketCap": 2799371961341.1597,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電商",
+      "theme": "電子商務",
       "isNew": false,
       "rankChange": -3,
       "streak": 149
@@ -151,7 +151,7 @@
       "dollarVolume": 6736177982.242132,
       "marketCap": 2069760960000.0002,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "搜尋引擎",
+      "theme": "網路服務",
       "isNew": false,
       "rankChange": 3,
       "streak": 149
@@ -177,7 +177,7 @@
       "dollarVolume": 5816024073.186734,
       "marketCap": 1693349722011.4502,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網通晶片",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": 0,
       "streak": 149
@@ -190,7 +190,7 @@
       "dollarVolume": 5107014115.609034,
       "marketCap": 233132634000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網通晶片",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": 3,
       "streak": 139
@@ -216,7 +216,7 @@
       "dollarVolume": 4142930598.861041,
       "marketCap": 1928757190000.0002,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "搜尋引擎",
+      "theme": "網路服務",
       "isNew": false,
       "rankChange": 3,
       "streak": 149
@@ -281,7 +281,7 @@
       "dollarVolume": 3019741746.2962337,
       "marketCap": 181929245510.88,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "電腦硬體",
+      "theme": "電子電腦",
       "isNew": false,
       "rankChange": 2,
       "streak": 35
@@ -294,7 +294,7 @@
       "dollarVolume": 2965800071.835159,
       "marketCap": 415431089039.99994,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "資料庫軟體",
+      "theme": "企業軟體",
       "isNew": false,
       "rankChange": -2,
       "streak": 149
@@ -372,7 +372,7 @@
       "dollarVolume": 2209636081.960106,
       "marketCap": 216560763357.24,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "電商軟體",
+      "theme": "電子商務",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -528,7 +528,7 @@
       "dollarVolume": 1894666427.2513342,
       "marketCap": 260292680181.6,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "投資銀行",
+      "theme": "金融服務",
       "isNew": false,
       "rankChange": 7,
       "streak": 2
@@ -561,12 +561,12 @@
     },
     {
       "symbol": "MA",
-      "name": "Mastercard Incorporated",
+      "name": "MA",
       "price": 595.09,
       "changePercent": 1.0099467019723742,
       "dollarVolume": 1731825831.935768,
-      "marketCap": 517409400195.35004,
-      "sector": "SERVICES-BUSINESS SERVICES, NEC",
+      "marketCap": 0,
+      "sector": "—",
       "theme": "支付服務",
       "isNew": true,
       "rankChange": null,
@@ -574,12 +574,12 @@
     },
     {
       "symbol": "NFLX",
-      "name": "NetFlix Inc",
+      "name": "NFLX",
       "price": 70.61,
       "changePercent": 0.4409672830725495,
       "dollarVolume": 1715699002.0938742,
-      "marketCap": 297324484062.08,
-      "sector": "SERVICES-VIDEO TAPE RENTAL",
+      "marketCap": 0,
+      "sector": "—",
       "theme": "串流媒體",
       "isNew": false,
       "rankChange": -5,
@@ -587,13 +587,26 @@
     },
     {
       "symbol": "CRDO",
-      "name": "Credo Technology Group Holding Ltd Ordinary Shares",
+      "name": "CRDO",
       "price": 200.84,
       "changePercent": -7.254675594550915,
       "dollarVolume": 1704279735.854992,
-      "marketCap": 37748263211.12,
-      "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網通晶片",
+      "marketCap": 0,
+      "sector": "—",
+      "theme": "資料中心互連",
+      "isNew": true,
+      "rankChange": null,
+      "streak": 1
+    },
+    {
+      "symbol": "HYG",
+      "name": "HYG",
+      "price": 77.29,
+      "changePercent": 0.07769001683283992,
+      "dollarVolume": 1688579603.7899702,
+      "marketCap": 0,
+      "sector": "—",
+      "theme": "高收益債券ETF",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -604,7 +617,7 @@
       "price": 115.34,
       "changePercent": -2.5762311005997107,
       "dollarVolume": 1672773795.7221334,
-      "marketCap": 454737969931.82,
+      "marketCap": 454605074261.10004,
       "sector": "COMPUTER COMMUNICATIONS EQUIPMENT",
       "theme": "網路設備",
       "isNew": true,
@@ -621,7 +634,7 @@
       "sector": "FINANCE SERVICES",
       "theme": "比特幣/加密",
       "isNew": false,
-      "rankChange": -12,
+      "rankChange": -13,
       "streak": 2
     },
     {
@@ -632,33 +645,29 @@
       "dollarVolume": 1644626829.5179622,
       "marketCap": 728798999333.6,
       "sector": "FIRE, MARINE & CASUALTY INSURANCE",
-      "theme": "多元控股",
+      "theme": "綜合企業",
       "isNew": false,
-      "rankChange": -14,
+      "rankChange": -15,
       "streak": 4
-    },
-    {
-      "symbol": "WMT",
-      "name": "Walmart Inc. Common Stock",
-      "price": 113.08,
-      "changePercent": 1.5536596317916516,
-      "dollarVolume": 1570179224.7114697,
-      "marketCap": 897148024932.28,
-      "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售百貨",
-      "isNew": true,
-      "rankChange": null,
-      "streak": 1
     }
   ],
   "asOf": "2026-10-12T20:00:00.000Z",
-  "generatedAt": "2026-10-13T12:32:01.953Z",
+  "generatedAt": "2026-10-14T02:04:22.503Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
+      "theme": "比特幣/加密",
+      "reason": "加密貨幣市場波動，相關概念股受資金關注。",
+      "symbols": [
+        "COIN"
+      ],
+      "count": 1,
+      "avgChange": 0.5574446736161437
+    },
+    {
       "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型需求持續，雲端軟體服務商展現穩健成長動能。",
+      "reason": "企業數位轉型需求持續，雲端軟體服務商營收成長動能強勁。",
       "symbols": [
         "MSFT",
         "CRM"
@@ -667,27 +676,8 @@
       "avgChange": 1.6134081120822195
     },
     {
-      "theme": "支付服務",
-      "reason": "全球數位支付趨勢不減，支付平台業者受惠於交易量增長。",
-      "symbols": [
-        "V",
-        "MA"
-      ],
-      "count": 2,
-      "avgChange": 1.0004980623624995
-    },
-    {
-      "theme": "比特幣/加密",
-      "reason": "加密貨幣市場波動，相關概念股受市場情緒影響。",
-      "symbols": [
-        "COIN"
-      ],
-      "count": 1,
-      "avgChange": 0.5574446736161437
-    },
-    {
-      "theme": "搜尋引擎",
-      "reason": "廣告業務表現穩健，科技巨頭持續投入AI應用。",
+      "theme": "網路服務",
+      "reason": "數位廣告與雲端服務需求穩定，支撐大型網路公司表現。",
       "symbols": [
         "GOOGL",
         "GOOG"
@@ -696,22 +686,32 @@
       "avgChange": 0.31026070177972465
     },
     {
+      "theme": "支付服務",
+      "reason": "全球數位支付趨勢不變，支付平台交易量持續增長。",
+      "symbols": [
+        "V",
+        "MA"
+      ],
+      "count": 2,
+      "avgChange": 1.0004980623624995
+    },
+    {
+      "theme": "電子商務",
+      "reason": "線上購物需求穩定，電商平台持續擴大市場份額。",
+      "symbols": [
+        "SHOP"
+      ],
+      "count": 1,
+      "avgChange": 4.899034240561899
+    },
+    {
       "theme": "社群媒體",
-      "reason": "廣告收入增長及元宇宙相關投資前景，提振市場信心。",
+      "reason": "廣告業務表現優於預期，帶動社群媒體平台股價上漲。",
       "symbols": [
         "META"
       ],
       "count": 1,
       "avgChange": 3.3798544533652555
-    },
-    {
-      "theme": "零售百貨",
-      "reason": "消費市場表現穩健，大型零售商營運狀況良好。",
-      "symbols": [
-        "WMT"
-      ],
-      "count": 1,
-      "avgChange": 1.5536596317916516
     }
   ],
   "newEntrants": [
@@ -720,113 +720,128 @@
       "name": "Cerebras Systems Inc. Class A Common Stock",
       "theme": "AI 晶片",
       "changePercent": -10.690138271304127,
-      "reason": "微軟推出Maia晶片，加劇AI推論競爭，Cerebras面臨壓力；另有股票解禁與內部人賣股消息。"
+      "reason": "IPO鎖定期屆滿，大量內部人股票解禁，且OpenAI合作關係有疑慮導致下跌。"
     },
     {
       "symbol": "SHOP",
       "name": "Shopify Inc. Class A subordinate voting shares",
-      "theme": "電商軟體",
+      "theme": "電子商務",
       "changePercent": 4.899034240561899,
-      "reason": "Shopify宣布將於11月3日公布第三季財報，市場預期成長強勁。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "CRM",
       "name": "Salesforce, Inc.",
       "theme": "雲端軟體 SaaS",
       "changePercent": 2.090516300789941,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "美銀上調評級至買進，目標價上調，並收購AI分析平台Loops。"
     },
     {
       "symbol": "PANW",
       "name": "Palo Alto Networks, Inc. Common Stock",
       "theme": "資安",
       "changePercent": -3.56989350016715,
-      "reason": "摩根士丹利調升目標價至410美元，看好資安支出增加。"
+      "reason": "分析師上調目標價，且與Anthropic和OpenAI合作推出新網路安全工具。"
     },
     {
       "symbol": "LRCX",
       "name": "Lam Research Corp",
       "theme": "半導體設備",
       "changePercent": -2.910550746455894,
-      "reason": "UBS分析師看好AI驅動半導體設備需求，預計財報表現強勁。"
+      "reason": "DBS銀行上調目標價，且半導體設備股因AI支出強勁而普遍上漲。"
     },
     {
       "symbol": "CVX",
       "name": "Chevron Corporation",
       "theme": "石油天然氣",
       "changePercent": 1.424662704028687,
-      "reason": "Zacks將其列為「強力買入」股，TD Cowen調升目標價。"
+      "reason": "宣布與Hess Midstream重組協議，預計降低成本並提高收益。"
     },
     {
       "symbol": "IREN",
       "name": "IREN Limited Ordinary Shares",
       "theme": "比特幣/加密",
       "changePercent": -1.108269394714409,
-      "reason": "傳聞與Anthropic簽訂多年期雲端服務合約，推升股價。"
+      "reason": "報導指出與Anthropic簽署多年期雲端服務協議，帶動股價上漲。"
     },
     {
       "symbol": "MA",
-      "name": "Mastercard Incorporated",
+      "name": "MA",
       "theme": "支付服務",
       "changePercent": 1.0099467019723742,
-      "reason": "Mastercard執行長表示穩定幣在跨境支付有明確應用。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "CRDO",
-      "name": "Credo Technology Group Holding Ltd Ordinary Shares",
-      "theme": "網通晶片",
+      "name": "CRDO",
+      "theme": "資料中心互連",
       "changePercent": -7.254675594550915,
-      "reason": "推出1.6T ZeroFlap主動光纜，用於AI資料中心。"
+      "reason": "推出1.6T ZeroFlap主動光纜，專為AI資料中心設計，提升連接解決方案。"
+    },
+    {
+      "symbol": "HYG",
+      "name": "HYG",
+      "theme": "高收益債券ETF",
+      "changePercent": 0.07769001683283992,
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "CSCO",
       "name": "Cisco Systems, Inc. Common Stock (DE)",
       "theme": "網路設備",
       "changePercent": -2.5762311005997107,
-      "reason": "與NVIDIA合作推出新型可插拔光學模組，擴展AI工廠。"
-    },
-    {
-      "symbol": "WMT",
-      "name": "Walmart Inc. Common Stock",
-      "theme": "零售百貨",
-      "changePercent": 1.5536596317916516,
-      "reason": "Zacks將其列為「強力買入」股，預計獲利成長。"
+      "reason": "與NVIDIA合作開發AI資料中心光學技術，並公佈優於預期的財報。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI相關題材，儘管記憶體和儲存裝置類股出現下跌，但市場對AI晶片的需求以及企業強勁的獲利能力仍是主要驅動力。特別是AI資料中心對電力需求的激增，以及半導體供應商為因應AI需求而增加供應的承諾，都顯示市場對AI產業的長期看好。此外，社群媒體巨頭Meta Platforms的股價上漲，也為市場帶來正面氣氛。",
+    "highlights": "本日美股成交重點聚焦於AI相關題材，資金明顯流向雲端軟體SaaS和社群媒體等族群。微軟（MSFT）受惠於華爾街看好其AI變現能力，股價創下歷史新高並帶動雲端軟體SaaS族群上漲。Meta Platforms（META）則因推出新AI模型Muse Wonder，獲得分析師上調目標價，激勵股價走強。然而，記憶體和儲存裝置類股如美光（MU）和Sandisk（SNDK）則因中國記憶體大廠擴產導致競爭加劇的擔憂而下跌，光通訊個股Lumentum（LITE）也因獲利了結賣壓而大幅回檔，顯示市場對AI基礎設施相關供應鏈的短期波動仍持謹慎態度。AI晶片股如Nvidia（NVDA）和AMD（AMD）雖然有正面消息，但整體呈現下跌，可能受到獲利了結和市場對AI概念股估值偏高的擔憂影響。",
     "eventsPast": [
       {
-        "title": "美股標普、那斯達克再創新高，AI熱潮與企業財報雙引擎驅動",
-        "detail": "美國股市標普500指數和那斯達克綜合指數在10月6日雙雙創下歷史新高，主要受人工智慧（AI）熱潮及企業強勁獲利所驅動。"
+        "title": "微軟股價創歷史新高，市值突破4兆美元",
+        "detail": "華爾街看好微軟透過Azure雲端平台與Copilot人工智慧助理擴大營收的潛力，巴克萊銀行將其目標價調高至600美元，推動微軟股價創下歷史新高。"
       },
       {
-        "title": "超微半導體（AMD）執行長蘇姿丰表示將大幅增加半導體供應",
-        "detail": "為因應AI需求，超微半導體（AMD）執行長蘇姿丰對外表示，明年將大幅增加半導體供應。"
+        "title": "Meta Platforms發布新AI模型Muse Wonder",
+        "detail": "Meta推出最新人工智慧模型Muse Wonder，並加快探索核心在線廣告業務之外的AI收入來源，獲得分析師上調目標價，激勵股價連續第二天走強。"
       },
       {
-        "title": "美滿電子科技（Marvell Technology）上調2028年營收預期",
-        "detail": "美滿電子科技（Marvell Technology）上調了2028年的營收預期，亦受惠於AI晶片需求的成長。"
+        "title": "中國記憶體大廠擴產，記憶體與儲存裝置股承壓",
+        "detail": "中國記憶體大廠長鑫存儲（CXMT）宣布將開始生產新一代記憶體晶片，引發市場對全球記憶體產業競爭加劇的疑慮，導致美光（MU）和Sandisk（SNDK）等記憶體及相關儲存股下跌。"
       },
       {
-        "title": "輝達宣布追加1,500億美元股票回購授權",
-        "detail": "輝達宣布追加1,500億美元股票回購授權，使總回購規模達到2,350億美元，推動股價走高。"
+        "title": "Lumentum光學元件訂單滿至2029年，但股價回檔",
+        "detail": "Lumentum執行長表示，因AI資料中心需求暴增，光學元件產能已預訂到2029年初，但部分產品仍有高達七成的需求缺口，同時股價因獲利了結賣壓而大幅下跌。"
       },
       {
-        "title": "新思科技與OpenAI合作開發晶片設計AI模型",
-        "detail": "新思科技宣布攜手OpenAI開發晶片設計AI模型，點燃市場對AI賦能半導體設計工具領域的熱情。"
+        "title": "AMD獲花旗上調目標價，看好AI代理需求",
+        "detail": "花旗分析師將AMD目標價大幅上調至800美元，理由是預期AI代理將推升運算需求，進而帶動超微晶片的需求。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "本週稍晚",
-        "title": "Google母公司Alphabet Inc.、IBM、特斯拉、英特爾及德州儀器公布財報",
-        "detail": "投資人將關注這些科技巨頭的財報，以釐清AI交易前景。"
+        "date": "本週三 (10/14)",
+        "title": "美國9月CPI公布",
+        "detail": "美國勞工統計局將公布9月消費者物價指數（CPI），此數據將直接影響市場對聯準會10月底FOMC會議的政策預期。"
       },
       {
-        "date": "11月17日",
-        "title": "富邦NASDAQ ETF（00662）分割後新受益憑證恢復上市交易",
-        "detail": "00662受益人會議已通過分割案，屆時持有一張將變成五張，每張交易金額可望降至約2.5萬元左右。"
+        "date": "本週三 (10/14)",
+        "title": "美國聯準會褐皮書公布",
+        "detail": "聯準會將發布最新一期褐皮書，提供美國各地區經濟狀況的最新評估。"
+      },
+      {
+        "date": "本週四 (10/15)",
+        "title": "美國9月零售銷售公布",
+        "detail": "美國將公布9月零售銷售數據，反映消費動能，市場常用來判斷消費是否支撐經濟成長。"
+      },
+      {
+        "date": "本週四 (10/15)",
+        "title": "美國9月生產者物價指數 (PPI) 公布",
+        "detail": "美國勞工統計局將公布9月生產者物價指數（PPI），此數據與CPI同樣是評估通膨壓力的重要指標。"
+      },
+      {
+        "date": "本週四 (10/15)",
+        "title": "台積電第三季財報公布",
+        "detail": "台積電將公布2026年第三季完整財報，其AI業務表現和未來資本支出指引將成為判斷美股AI和半導體行情能否延續的重要訊號。"
       }
     ]
   }
