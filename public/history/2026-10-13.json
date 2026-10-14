@@ -112,7 +112,7 @@
       "dollarVolume": 8977511379.17241,
       "marketCap": 518573640000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "CPU/PC",
+      "theme": "半導體製造",
       "isNew": false,
       "rankChange": 1,
       "streak": 150
@@ -151,7 +151,7 @@
       "dollarVolume": 6574580785.073467,
       "marketCap": 2789124963447.76,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電商/雲端服務",
+      "theme": "電子商務/雲端",
       "isNew": false,
       "rankChange": -1,
       "streak": 150
@@ -164,7 +164,7 @@
       "dollarVolume": 6144115254.608322,
       "marketCap": 1705665687063.15,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網通晶片",
+      "theme": "半導體網路通訊",
       "isNew": false,
       "rankChange": 1,
       "streak": 150
@@ -216,7 +216,7 @@
       "dollarVolume": 4853470430.56343,
       "marketCap": 235644952500.00003,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網通晶片",
+      "theme": "半導體網路通訊",
       "isNew": false,
       "rankChange": -2,
       "streak": 140
@@ -307,7 +307,7 @@
       "dollarVolume": 3863608505.204614,
       "marketCap": 480089850362.43,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "數據分析軟體",
+      "theme": "資料分析軟體",
       "isNew": false,
       "rankChange": -8,
       "streak": 150
@@ -385,7 +385,7 @@
       "dollarVolume": 3160956091.0582075,
       "marketCap": 180576037134.36002,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "PC/伺服器",
+      "theme": "電子電腦",
       "isNew": false,
       "rankChange": -8,
       "streak": 36
@@ -450,7 +450,7 @@
       "dollarVolume": 2665724969.8679776,
       "marketCap": 42915063001.62,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端運算",
+      "theme": "雲端軟體 SaaS",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -541,7 +541,7 @@
       "dollarVolume": 2180834602.7441807,
       "marketCap": 188858095208.02002,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "手機晶片",
+      "theme": "無線通訊晶片",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -580,7 +580,7 @@
       "dollarVolume": 2130868621.8140495,
       "marketCap": 37272744858.58,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網通晶片",
+      "theme": "高速傳輸晶片",
       "isNew": false,
       "rankChange": 1,
       "streak": 2
@@ -652,7 +652,7 @@
     }
   ],
   "asOf": "2026-10-13T20:00:00.000Z",
-  "generatedAt": "2026-10-14T07:57:59.005Z",
+  "generatedAt": "2026-10-14T10:04:33.024Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
@@ -660,16 +660,17 @@
       "theme": "雲端軟體 SaaS",
       "reason": "企業數位轉型需求持續，加上AI應用整合，推動雲端軟體服務商的成長潛力。",
       "symbols": [
+        "META",
         "MSFT",
         "ORCL",
         "CRM"
       ],
-      "count": 3,
-      "avgChange": 2.1341064723064114
+      "count": 4,
+      "avgChange": 2.258084968906237
     },
     {
       "theme": "AI 晶片",
-      "reason": "AI技術快速發展，對高效能運算晶片的需求持續強勁，帶動相關供應商股價。",
+      "reason": "AI技術快速發展，對高效能運算晶片的需求持續強勁，帶動相關供應商股價表現。",
       "symbols": [
         "NVDA",
         "AMD"
@@ -679,7 +680,7 @@
     },
     {
       "theme": "支付服務",
-      "reason": "全球數位支付趨勢不減，電子交易量持續成長，利好支付處理服務商。",
+      "reason": "全球數位支付趨勢不減，電子交易量穩健成長，支撐支付平台業者的營收。",
       "symbols": [
         "V",
         "MA"
@@ -688,8 +689,17 @@
       "avgChange": 1.6879882793421954
     },
     {
-      "theme": "網通晶片",
-      "reason": "數據中心與網路基礎設施升級需求，推動高速傳輸與網通晶片市場。",
+      "theme": "生技製藥",
+      "reason": "新藥研發進展和特定疾病領域的市場需求，為生技製藥公司帶來成長動能。",
+      "symbols": [
+        "MRNA"
+      ],
+      "count": 1,
+      "avgChange": 1.1743239449798777
+    },
+    {
+      "theme": "半導體網路通訊",
+      "reason": "網路基礎設施升級和數據中心擴建，對高速網路通訊晶片的需求增加。",
       "symbols": [
         "AVGO",
         "MRVL"
@@ -699,22 +709,13 @@
     },
     {
       "theme": "雲端服務",
-      "reason": "企業對雲端基礎設施和平台服務的需求穩健，支撐大型雲端服務提供商的表現。",
+      "reason": "雲端運算作為數位經濟的基石，持續受益於企業對彈性IT資源的需求。",
       "symbols": [
         "GOOGL",
         "GOOG"
       ],
       "count": 2,
       "avgChange": 0.22906416565046922
-    },
-    {
-      "theme": "生技製藥",
-      "reason": "新藥研發進展與市場對創新療法的期待，為部分生技製藥公司帶來上漲動能。",
-      "symbols": [
-        "MRNA"
-      ],
-      "count": 1,
-      "avgChange": 1.1743239449798777
     }
   ],
   "newEntrants": [
@@ -723,19 +724,19 @@
       "name": "Johnson & Johnson",
       "theme": "生技製藥",
       "changePercent": -5.733136161983849,
-      "reason": "第三季財報營收超出預期並上調全年財測，但醫療科技部門表現不如預期導致股價下跌。"
+      "reason": "第三季財報顯示醫療科技部門銷售不如預期，但創新藥物部門表現良好，並上調2026年財測。"
     },
     {
       "symbol": "CAT",
       "name": "Caterpillar Inc.",
       "theme": "重型機械",
       "changePercent": -3.326369515993849,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "宣布將在美國投資10億美元擴大小型建築設備製造產能。"
     },
     {
       "symbol": "CRWV",
       "name": "CoreWeave, Inc. Class A Common Stock",
-      "theme": "雲端運算",
+      "theme": "雲端軟體 SaaS",
       "changePercent": -3.052579117866936,
       "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
@@ -744,42 +745,42 @@
       "name": "Citigroup Inc.",
       "theme": "大型銀行",
       "changePercent": -5.601879927228614,
-      "reason": "第三季財報EPS和營收均超出預期，但財測保守且淨利差下滑。"
+      "reason": "第三季財報顯示交易收入強勁，但消費信用卡利潤下降，並面臨市場波動壓力。"
     },
     {
       "symbol": "BAC",
       "name": "Bank of America Corporation",
       "theme": "大型銀行",
       "changePercent": -1.13594723341883,
-      "reason": "因違反反洗錢和制裁法規，被美國財政部處以超過12億美元罰款。"
+      "reason": "因違反反洗錢和制裁法規，面臨美國財政部超過12.1億美元的罰款。"
     },
     {
       "symbol": "QCOM",
       "name": "Qualcomm Inc",
-      "theme": "手機晶片",
+      "theme": "無線通訊晶片",
       "changePercent": 1.393108983546412,
-      "reason": "與Arm的專利授權訴訟案中，陪審團裁定Arm違約，對高通有利。"
+      "reason": "在與Arm Holdings的專利訴訟中，陪審團裁定Qualcomm勝訴。"
     },
     {
       "symbol": "LLY",
       "name": "Eli Lilly & Co.",
       "theme": "生技製藥",
       "changePercent": -1.362229625746216,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "近期公布多項藥物臨床試驗數據，並有分析師上調目標價。"
     },
     {
       "symbol": "WFC",
       "name": "Wells Fargo & Co.",
       "theme": "大型銀行",
       "changePercent": -3.0964954392702815,
-      "reason": "第三季財報EPS超出預期但營收未達標，淨利息收入成長。"
+      "reason": "第三季財報顯示每股盈餘超預期，但資本市場收入不及預期且信貸損失準備金增加。"
     },
     {
       "symbol": "XOM",
       "name": "ExxonMobil Holdings Corporation",
       "theme": "石油天然氣",
       "changePercent": 1.1211153064188246,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "油價上漲至每桶90美元以上，有利於其低成本的Permian盆地和蓋亞那業務。"
     },
     {
       "symbol": "WMT",
@@ -797,54 +798,54 @@
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI相關產業，特別是記憶體、AI晶片、雲端軟體與服務以及半導體設備。資金流向顯示市場對AI基礎建設的持續投資抱持高度期待，儘管部分記憶體個股因競爭加劇而承壓。微軟、輝達和超微等公司在AI領域的積極布局，以及應用材料在半導體設備領域的創新，是推動成交量的主要故事。",
+    "highlights": "本日美股成交焦點集中在AI相關題材，特別是記憶體、AI晶片以及雲端服務領域。美光（MU）因中國競爭對手長鑫存儲的技術進展消息而股價承壓，但其HBM（高頻寬記憶體）至2027年底已全數售罄，並有客戶排隊預訂2028年長約，顯示AI記憶體需求依舊強勁。輝達（NVDA）與超微（AMD）等AI晶片股持續受惠於AI基礎設施擴張，微軟（MSFT）也推出自研AI晶片Maia 300，試圖降低對輝達的依賴。Meta（META）則因發布全新AI模型Muse而大漲，顯示社群媒體巨頭在AI領域的積極布局。整體市場故事圍繞著AI技術的快速發展、相關硬體需求激增以及科技巨頭之間的競爭與合作。",
     "eventsPast": [
       {
-        "title": "微軟擴展Azure Maia AI系統部署",
-        "detail": "微軟宣布將擴大Azure Maia系列AI系統部署，預計2027年達到數GW規模，成為其產品與服務的主要AI推論系統，並已投入生產，支援Microsoft Copilot等工作負載。"
+        "title": "美光股價承壓，中國長鑫存儲技術進展引關注",
+        "detail": "記憶體晶片製造商美光（MU）的股價因中國競爭對手長鑫存儲在新型晶片研發上取得進展的消息而下跌。"
       },
       {
-        "title": "Applied Materials揭幕50億美元創新中心",
-        "detail": "Applied Materials於矽谷揭幕耗資50億美元的EPIC中心，旨在加速AI時代的半導體創新，並預期AI基礎設施的建置將推動晶圓廠設備需求成長。"
+        "title": "Meta發布全新AI模型Muse，挑戰OpenAI與Anthropic",
+        "detail": "Meta Platforms（META）於週一發布兩款全新人工智慧模型Muse Wonder與Muse Wonder Full，顯示其AI發展策略正持續進展。"
       },
       {
-        "title": "Sandisk因中國記憶體廠技術升級而承壓",
-        "detail": "中國記憶體廠長鑫存儲宣布升級DRAM技術並將量產高帶寬記憶體（HBM），引發市場對記憶體產業競爭加劇的擔憂，導致Sandisk股價下跌。"
+        "title": "英特爾推出全新GPU晶片，力拚AI轉型",
+        "detail": "英特爾（INTC）推出專為AI推論設計的全新Intel GPU D-Series處理器，以拓展GPU市場。"
       },
       {
-        "title": "Alphabet雲端與AI業務強勁成長",
-        "detail": "分析師預估Alphabet股價有望上漲逾兩成，主要受惠於其在人工智慧（AI）領域的進展及Google Cloud（谷歌雲端）業務的強勁表現。"
+        "title": "微軟發表第三代自研AI晶片Maia 300，降低對輝達依賴",
+        "detail": "微軟（MSFT）於週一發表第三代自研AI晶片Maia 300，計劃明年部署逾百萬顆，以支援內部AI服務並降低運算成本。"
       },
       {
-        "title": "美國9月非農就業數據降溫",
-        "detail": "美國9月非農就業人數僅增加2.9萬人，遠低於市場預期，失業率微升至4.2%，導致市場對聯準會10月升息的預期大幅降溫。"
+        "title": "蘋果舉行「Welcome Home」發佈活動，推出三款智能家居產品",
+        "detail": "蘋果（AAPL）於台北時間10月13日21時舉行發佈活動，推出首款智慧顯示器HomeView、新版Apple TV 4K、HomePod mini 2及合作開發的智慧家庭配件。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "10/14",
-        "title": "美國消費者物價指數（CPI）公布",
-        "detail": "美國將公布9月份消費者物價指數（CPI），此數據將是影響聯準會未來利率決策的關鍵因素。"
+        "date": "本週三",
+        "title": "ASML公布財報，可能調漲設備售價",
+        "detail": "艾司摩爾（ASML Holding）將於週三美股開盤前公布財報，市場關注其是否會調高設備售價，這將是晶片股的重要指標。"
       },
       {
-        "date": "10/15",
-        "title": "美國生產者物價指數（PPI）公布",
-        "detail": "美國將公布9月份生產者物價指數（PPI），此數據將提供更多關於通膨壓力的線索。"
+        "date": "未來幾天",
+        "title": "摩根大通、高盛、花旗財報",
+        "detail": "華爾街大型銀行如摩根大通、高盛、花旗將陸續公布財報，市場關注其在戰爭、通膨升溫與AI巨額投資疑慮下的業績表現。"
       },
       {
-        "date": "10/27-10/28",
-        "title": "聯準會（Fed）利率決策會議",
-        "detail": "聯準會將舉行下次利率決策會議，市場普遍預期將維持利率不變，但仍需關注會議聲明與主席發言。"
+        "date": "未來幾天",
+        "title": "美國9月CPI數據公布",
+        "detail": "美國9月消費者物價指數（CPI）數據將公布，這將牽動市場對聯準會利率政策的預期。"
       },
       {
-        "date": "10月下旬",
-        "title": "Apple Mac與iPad新品發表",
-        "detail": "蘋果預計在10月下旬推出搭載M6晶片的MacBook Pro、新一代iMac，以及可能採用OLED螢幕的iPad mini等新品。"
+        "date": "未來幾天",
+        "title": "聯準會褐皮書公布",
+        "detail": "聯準會將公布褐皮書，提供美國各地經濟狀況的最新評估。"
       },
       {
-        "date": "本週",
-        "title": "多家華爾街大行財報",
-        "detail": "本週多家華爾街大行將公布財報，其股票交易表現將成為市場關注焦點。"
+        "date": "11/17",
+        "title": "富邦NASDAQ ETF（00662）分割後新受益憑證恢復上市交易",
+        "detail": "富邦NASDAQ ETF（00662）受益人會議已通過分割案，預計11月17日分割後新受益憑證恢復上市交易，屆時持有一張將變成五張，每張交易金額可望降至約2.5萬元左右。"
       }
     ]
   }
