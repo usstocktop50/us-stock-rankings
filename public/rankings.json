@@ -34,7 +34,7 @@
       "dollarVolume": 17220611771.624,
       "marketCap": 5005219972800,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "消費電子",
+      "theme": "消費性電子",
       "isNew": false,
       "rankChange": 1,
       "streak": 151
@@ -151,7 +151,7 @@
       "dollarVolume": 8876703424.955923,
       "marketCap": 2740586552373.7603,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電商",
+      "theme": "電子商務",
       "isNew": false,
       "rankChange": 0,
       "streak": 151
@@ -164,7 +164,7 @@
       "dollarVolume": 8033738154.131727,
       "marketCap": 1652869340756.25,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "AI 晶片",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": 0,
       "streak": 151
@@ -203,7 +203,7 @@
       "dollarVolume": 6947796471.029999,
       "marketCap": 394748734800.00006,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端資料庫",
+      "theme": "雲端軟體",
       "isNew": false,
       "rankChange": 10,
       "streak": 151
@@ -229,7 +229,7 @@
       "dollarVolume": 6554049887.130967,
       "marketCap": 215086032000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網路晶片",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": -1,
       "streak": 141
@@ -255,7 +255,7 @@
       "dollarVolume": 6067134639.5762,
       "marketCap": 160217979180.84,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "伺服器",
+      "theme": "電腦硬體",
       "isNew": false,
       "rankChange": 10,
       "streak": 37
@@ -294,7 +294,7 @@
       "dollarVolume": 4936626740.389014,
       "marketCap": 462374357729.13,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "大數據分析",
+      "theme": "數據分析",
       "isNew": false,
       "rankChange": 1,
       "streak": 151
@@ -333,7 +333,7 @@
       "dollarVolume": 4493282313.100647,
       "marketCap": 70492174991.64,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "氫能源",
+      "theme": "燃料電池",
       "isNew": false,
       "rankChange": 3,
       "streak": 31
@@ -383,7 +383,7 @@
       "price": 147.55,
       "changePercent": -6.055010823888954,
       "dollarVolume": 3545090948.1340895,
-      "marketCap": 1049191900250.0001,
+      "marketCap": 1075441045250.0001,
       "sector": "—",
       "theme": "記憶體",
       "isNew": false,
@@ -632,7 +632,7 @@
       "dollarVolume": 2423566674.736101,
       "marketCap": 79916904052.72,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "券商",
+      "theme": "線上券商",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-10-14T20:00:00.000Z",
-  "generatedAt": "2026-10-15T07:45:30.033Z",
+  "generatedAt": "2026-10-15T09:45:00.007Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "生技製藥",
-      "reason": "市場對新藥研發和生物技術的潛力持續抱持樂觀態度，特別是針對特定疾病領域的突破性進展。",
+      "reason": "市場對新藥研發和生物技術的潛力持續看好，特別是針對特定疾病領域的突破性進展。",
       "symbols": [
         "MRNA",
         "JNJ"
@@ -668,7 +668,7 @@
     },
     {
       "theme": "零售百貨",
-      "reason": "在通膨壓力下，消費者對日常必需品和折扣商品的需求保持穩定，支撐了大型零售商的表現。",
+      "reason": "在通膨壓力下，消費者對日常必需品和折扣零售的需求保持韌性，支撐了相關企業的表現。",
       "symbols": [
         "COST",
         "WMT"
@@ -677,8 +677,17 @@
       "avgChange": 3.161362994903494
     },
     {
+      "theme": "銀行",
+      "reason": "在利率環境變化和經濟前景不確定性下，大型銀行因其穩健的資產負債表和多元化業務而受到青睞。",
+      "symbols": [
+        "JPM"
+      ],
+      "count": 1,
+      "avgChange": 1.1616329239960068
+    },
+    {
       "theme": "減肥藥 GLP-1",
-      "reason": "GLP-1 藥物在減重和糖尿病治療領域展現巨大市場潛力，持續吸引投資者關注。",
+      "reason": "GLP-1 藥物在減重和糖尿病治療領域展現出巨大市場潛力，持續吸引投資者關注。",
       "symbols": [
         "LLY"
       ],
@@ -687,7 +696,7 @@
     },
     {
       "theme": "醫療保險",
-      "reason": "醫療服務需求穩定，加上保險公司營運效率提升，使得醫療保險類股表現穩健。",
+      "reason": "醫療保健服務需求穩定，加上人口結構變化，使得醫療保險行業表現穩健。",
       "symbols": [
         "UNH"
       ],
@@ -696,21 +705,12 @@
     },
     {
       "theme": "多元控股",
-      "reason": "多元化投資組合在市場波動時提供相對穩定性，吸引尋求避險的資金。",
+      "reason": "大型多元控股公司因其穩定的現金流和多元化投資組合，在市場波動時提供避險。",
       "symbols": [
         "BRK.B"
       ],
       "count": 1,
       "avgChange": 1.106436927332448
-    },
-    {
-      "theme": "石油天然氣",
-      "reason": "全球能源需求預期回升，以及地緣政治因素對油價的支撐，推動能源股上漲。",
-      "symbols": [
-        "XOM"
-      ],
-      "count": 1,
-      "avgChange": 1.6831341911764581
     }
   ],
   "newEntrants": [
@@ -719,68 +719,94 @@
       "name": "GE Vernova Inc.",
       "theme": "電力基礎建設",
       "changePercent": -6.200948169395641,
-      "reason": "Susquehanna分析師下調目標價，導致股價下跌6.4%。"
+      "reason": "股價大幅回檔和估值擔憂，但長期受惠於AI電力需求和分析師看好。"
     },
     {
       "symbol": "MSTR",
       "name": "Strategy Inc Common Stock Class A",
       "theme": "比特幣/加密",
       "changePercent": -5.874622157970822,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "近期買入比特幣並回購優先股，但比特幣下跌拖累股價。"
     },
     {
       "symbol": "COST",
       "name": "Costco Wholesale Corp",
       "theme": "零售百貨",
       "changePercent": 2.8670793920157553,
-      "reason": "9月淨銷售額年增13%，數位銷售增長19%，帶動股價上漲。"
+      "reason": "九月銷售強勁，且通膨數據高於預期使防禦性零售股受青睞。"
     },
     {
       "symbol": "PANW",
       "name": "Palo Alto Networks, Inc. Common Stock",
       "theme": "資安",
       "changePercent": -5.538624285318479,
-      "reason": "第三季營收優於預期，AI部署需求推動資安需求。"
+      "reason": "近期股價下跌，但分析師普遍看好其網路安全業務前景。"
     },
     {
       "symbol": "IREN",
       "name": "IREN Limited Ordinary Shares",
       "theme": "比特幣/加密",
       "changePercent": -12.183908045977008,
-      "reason": "據報導與Anthropic簽署AI雲端服務協議，強化AI基礎設施供應商定位。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "HOOD",
       "name": "Robinhood Markets, Inc. Class A Common Stock",
-      "theme": "券商",
+      "theme": "線上券商",
       "changePercent": -8.541440463264566,
-      "reason": "AI驅動的Agentic Trading上線，但高層拋售股票引發關注。"
+      "reason": "受到金融科技股普遍疲軟、利率上升以及近期表現不佳的影響。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點集中在AI晶片、記憶體和雲端軟體等科技巨頭，資金主要流向Nvidia、Micron、AMD等公司，顯示市場對AI和半導體產業的未來發展仍抱持高度關注。儘管多數熱門股呈現下跌，但高成交金額反映了投資者對這些板塊的持續交易熱情，市場可能在消化近期財報和產業消息，並重新評估其估值。此外，減肥藥GLP-1題材也受到關注，反映了醫療保健領域的創新潛力。",
+    "highlights": "本日美股成交重點聚焦於AI晶片、記憶體及部分科技巨頭。儘管多數熱門股呈現下跌，但資金仍集中在這些與AI相關的題材上，顯示市場對AI產業的長期潛力仍抱持高度關注。Nvidia和Micron Technology等AI晶片和記憶體大廠的成交金額位居前列，反映市場對其未來發展的期待，即使短期股價有所回調。此外，Apple發表智慧家庭新品，也為消費性電子族群帶來話題。",
     "eventsPast": [
       {
-        "title": "AMD財報優於預期，數據中心收入突破67億美元",
-        "detail": "AMD近期公布的財報顯示業績優於預期，數據中心收入表現強勁，達到67億美元以上，但股價仍出現下跌，可能與毛利率、現金流及潛在攤薄等隱憂有關。"
+        "title": "美國9月CPI年增率超預期",
+        "detail": "美國9月消費者物價指數（CPI）年增3.7%，高於市場預期，可能影響聯準會未來的貨幣政策走向。"
       },
       {
-        "title": "SpaceX公布首份季績，Starlink業務支撐盈利",
-        "detail": "SpaceX首次公布季績，Starlink業務成為盈利主要支撐，但AI相關投資高達158億美元，資本支出龐大，引發市場對其現金流的關注。"
+        "title": "蘋果發表智慧顯示器HomeView等三款新品",
+        "detail": "蘋果於10月13日發表首款智慧顯示器HomeView、新版Apple TV 4K及HomePod mini 2，搶攻智慧家庭市場。"
       },
       {
-        "title": "美銀每年投入2.5億美元支持員工使用GLP-1減肥藥",
-        "detail": "美國銀行執行長透露，該行每年為員工負擔高達2.5億美元的GLP-1減重藥物費用，儘管支出快速攀升，但認為這項投資「物有所值」，顯示企業對員工健康福利的重視以及GLP-1藥物市場的潛力。"
+        "title": "AMD CEO蘇姿豐：2026年是「AI推理元年」",
+        "detail": "AMD執行長蘇姿豐表示，2026年將是AI推理元年，CPU市場需求將爆發式增長。"
       },
       {
-        "title": "SanDisk與威騰電子財報亮眼，股價卻下跌",
-        "detail": "SanDisk和威騰電子公布了亮眼的財報，但盤前股價卻出現下跌，可能反映市場對儲存裝置產業的未來展望存在疑慮，或有其他宏觀因素影響。"
+        "title": "Nvidia承諾投入2.5億美元推動英國代理安全與安防研究",
+        "detail": "Nvidia宣布未來五年將投入2.5億美元，每年提供5000萬美元的計算資源，支持英國代理安全研究。"
       },
       {
-        "title": "Fed官員暗示若通膨不退將支持升息",
-        "detail": "聯準會（Fed）官員庫克表示，如果通膨未能有效回落，將準備支持升息，這項鷹派言論可能對市場情緒造成壓力。"
+        "title": "Google下一代TPU v9設計進度延後",
+        "detail": "受EMIB先進封裝基板良率及設計調整影響，Google下一代TPU v9的Core A設計進度延後約三週。"
       }
     ],
-    "eventsUpcoming": []
+    "eventsUpcoming": [
+      {
+        "date": "10/21",
+        "title": "Tesla Q3 2026 財報發布",
+        "detail": "電動車大廠Tesla將於10月21日市場收盤後公布2026年第三季財報，市場預期其股價可能波動5.1%。"
+      },
+      {
+        "date": "11/3",
+        "title": "AMD Q3 2026 財報發布",
+        "detail": "半導體大廠AMD將於11月3日美國股市收盤後發布2026財政年度第三季財務業績。"
+      },
+      {
+        "date": "11/6",
+        "title": "美國10月非農就業數據公布",
+        "detail": "美國勞工統計局將於11月6日公布10月份的非農就業數據，此數據對市場情緒和聯準會政策預期有重要影響。"
+      },
+      {
+        "date": "11/16",
+        "title": "CoreWeave Q3 2026 財報發布",
+        "detail": "雲端基礎設施公司CoreWeave預計於11月16日發布其下一份財報。"
+      },
+      {
+        "date": "本週四",
+        "title": "美國銀行、摩根士丹利財報",
+        "detail": "華爾街大型銀行美國銀行和摩根士丹利將公布財報，市場關注其股票交易收入及對第四季的展望。"
+      }
+    ]
   }
 }
