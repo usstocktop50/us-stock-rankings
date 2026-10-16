@@ -86,7 +86,7 @@
       "dollarVolume": 13667894590.930986,
       "marketCap": 4991209560000,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "消費電子",
+      "theme": "消費性電子",
       "isNew": false,
       "rankChange": -4,
       "streak": 152
@@ -112,7 +112,7 @@
       "dollarVolume": 12410810044.444462,
       "marketCap": 1624562275150.48,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "社群媒體/AI",
+      "theme": "社群媒體",
       "isNew": false,
       "rankChange": -4,
       "streak": 152
@@ -164,7 +164,7 @@
       "dollarVolume": 8751100553.580513,
       "marketCap": 2747921245602.7197,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電商/雲端",
+      "theme": "電子商務",
       "isNew": false,
       "rankChange": -1,
       "streak": 152
@@ -190,7 +190,7 @@
       "dollarVolume": 8421123280.500652,
       "marketCap": 41349417230.08,
       "sector": "—",
-      "theme": "雲端服務",
+      "theme": "雲端基礎設施",
       "isNew": false,
       "rankChange": 4,
       "streak": 77
@@ -203,7 +203,7 @@
       "dollarVolume": 7662426829.555402,
       "marketCap": 149322916867.32,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "電腦硬體",
+      "theme": "電子電腦",
       "isNew": false,
       "rankChange": 4,
       "streak": 38
@@ -216,7 +216,7 @@
       "dollarVolume": 7435537687.503053,
       "marketCap": 2049222960000.0002,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "網路服務/AI",
+      "theme": "網路服務",
       "isNew": false,
       "rankChange": -6,
       "streak": 152
@@ -242,7 +242,7 @@
       "dollarVolume": 5660803550.484324,
       "marketCap": 1906317570000.0002,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "網路服務/AI",
+      "theme": "網路服務",
       "isNew": false,
       "rankChange": -4,
       "streak": 152
@@ -281,7 +281,7 @@
       "dollarVolume": 4906790423.482653,
       "marketCap": 461293022464.5,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "資料分析軟體",
+      "theme": "數據分析",
       "isNew": false,
       "rankChange": 1,
       "streak": 152
@@ -411,7 +411,7 @@
       "dollarVolume": 3816778201.909463,
       "marketCap": 935150669426.67,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售",
+      "theme": "零售百貨",
       "isNew": false,
       "rankChange": 8,
       "streak": 3
@@ -515,7 +515,7 @@
       "dollarVolume": 2967876380.895752,
       "marketCap": 433384934615.49,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售",
+      "theme": "零售百貨",
       "isNew": false,
       "rankChange": -3,
       "streak": 2
@@ -541,7 +541,7 @@
       "dollarVolume": 2909143509.077037,
       "marketCap": 891901214008.35,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "銀行",
+      "theme": "金融服務",
       "isNew": false,
       "rankChange": -11,
       "streak": 8
@@ -554,7 +554,7 @@
       "dollarVolume": 2747619143.2140403,
       "marketCap": 257525287226.14,
       "sector": "MEASURING & CONTROLLING DEVICES, NEC",
-      "theme": "科學儀器",
+      "theme": "生命科學工具",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-10-15T20:00:00.000Z",
-  "generatedAt": "2026-10-16T07:31:13.131Z",
+  "generatedAt": "2026-10-16T09:38:18.534Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型需求持續，雲端軟體服務商展現強勁成長動能，市場對其盈利能力和擴張潛力保持樂觀。",
+      "reason": "市場持續看好企業數位轉型及雲端服務需求增長，帶動相關軟體公司表現。",
       "symbols": [
         "MSFT",
         "ORCL",
@@ -670,26 +670,18 @@
     },
     {
       "theme": "生技製藥",
-      "reason": "新藥研發進展和市場對特定疾病治療需求的增加，帶動相關製藥公司股價上漲。",
+      "reason": "特定藥物研發進展或市場需求預期，推動相關製藥公司股價上漲。",
       "symbols": [
         "LLY",
-        "MRNA"
+        "MRNA",
+        "TMO"
       ],
-      "count": 2,
-      "avgChange": 4.02697981897657
-    },
-    {
-      "theme": "比特幣/加密",
-      "reason": "加密貨幣市場波動，但部分投資者仍看好其長期發展潛力，相關概念股受到關注。",
-      "symbols": [
-        "MSTR"
-      ],
-      "count": 1,
-      "avgChange": 5.619938564646734
+      "count": 3,
+      "avgChange": 3.837851865849698
     },
     {
       "theme": "支付服務",
-      "reason": "全球數位支付趨勢不減，支付服務公司受惠於交易量增長及新興市場擴張。",
+      "reason": "全球數位支付趨勢不變，消費者與企業對便捷支付方式的需求持續增加。",
       "symbols": [
         "V",
         "MA"
@@ -699,121 +691,140 @@
     },
     {
       "theme": "雲端基礎設施",
-      "reason": "AI 應用對雲端運算能力的需求激增，推動雲端基礎設施供應商的業績增長。",
+      "reason": "隨著AI應用普及，對高效能雲端運算和數據中心的需求激增，相關基礎設施提供商受惠。",
       "symbols": [
-        "CRWV"
-      ],
-      "count": 1,
-      "avgChange": 5.944055944055939
-    },
-    {
-      "theme": "網路服務/AI",
-      "reason": "大型科技公司在AI領域的持續投入和創新，使其核心網路服務業務保持競爭力。",
-      "symbols": [
-        "GOOGL",
-        "GOOG"
+        "CRWV",
+        "NBIS"
       ],
       "count": 2,
-      "avgChange": 0.4105726354084068
+      "avgChange": 3.6171545781244174
+    },
+    {
+      "theme": "零售百貨",
+      "reason": "消費者支出數據或公司營運展望良好，提振市場對零售業的信心。",
+      "symbols": [
+        "WMT"
+      ],
+      "count": 1,
+      "avgChange": 1.4721074380165358
+    },
+    {
+      "theme": "比特幣/加密",
+      "reason": "加密貨幣市場波動或相關企業策略性投資，影響其股價表現。",
+      "symbols": [
+        "MSTR"
+      ],
+      "count": 1,
+      "avgChange": 5.619938564646734
     }
   ],
   "newEntrants": [
     {
       "symbol": "TMO",
       "name": "Thermo Fisher Scientific, Inc.",
-      "theme": "科學儀器",
+      "theme": "生命科學工具",
       "changePercent": 3.459595959595954,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "摩根大通將其列入10月加碼首選名單，推動股價上漲。"
     },
     {
       "symbol": "VRT",
       "name": "Vertiv Holdings Co Class A Common Stock",
       "theme": "資料中心基礎設施",
       "changePercent": -3.6260826639142,
-      "reason": "資料中心基礎設施需求增長，分析師調升目標價。"
+      "reason": "近期無明確個股消息，可能受資料中心基礎設施族群輪動帶動。"
     },
     {
       "symbol": "CRWD",
       "name": "CrowdStrike Holdings, Inc. Class A Common Stock",
       "theme": "資安",
       "changePercent": -1.893377191223073,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "近期無明確個股消息，可能受資安族群輪動帶動。"
     },
     {
       "symbol": "MA",
       "name": "Mastercard Incorporated",
       "theme": "支付服務",
       "changePercent": 2.168291227372197,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "近期無明確個股消息，可能受支付服務族群輪動帶動。"
     },
     {
       "symbol": "PG",
       "name": "Procter & Gamble Company",
       "theme": "民生消費",
       "changePercent": 0.35137034434294473,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "近期無明確個股消息，可能受民生消費族群輪動帶動。"
     },
     {
       "symbol": "NOW",
       "name": "SERVICENOW, INC.",
       "theme": "雲端軟體 SaaS",
       "changePercent": 6.1365909415630835,
-      "reason": "雲端軟體SaaS產業輪動，AI應用前景樂觀。"
+      "reason": "股價盤中勁揚逾5%，K線轉強、MACD翻多支撐攻高。"
     },
     {
       "symbol": "RKLB",
       "name": "Rocket Lab Corporation Common Stock",
       "theme": "太空",
       "changePercent": -6.640757012504224,
-      "reason": "Neutron火箭首次發射延遲至2027年，導致股價下跌。"
+      "reason": "中子號火箭首次發射推遲至2027年，導致股價下跌。"
     },
     {
       "symbol": "CCC",
       "name": "CCC Intelligent Solutions Holdings Inc. Common Stock",
       "theme": "雲端軟體 SaaS",
       "changePercent": -0.13089005235601817,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "斯迪富、Barrington、威廉博萊等分析師下調評級。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦在AI相關產業，特別是記憶體、AI晶片、雲端軟體SaaS和雲端基礎設施等族群。資金流向顯示市場對AI投資的熱情持續，但同時也開始關注AI投資能否轉化為實際獲利。美光科技（MU）因記憶體題材而成交金額最高，Nvidia（NVDA）、AMD（AMD）、Intel（INTC）等AI晶片股也持續受到關注，但普遍呈現下跌。此外，微軟（MSFT）和CoreWeave（CRWV）在雲端領域表現強勁，顯示企業對雲端服務和AI基礎設施的需求旺盛。然而，市場對高通膨和聯準會（Fed）升息的擔憂，以及AI資本支出和私人信貸泡沫的隱憂，也為市場帶來不確定性，導致部分AI相關個股承壓。",
+    "highlights": "本日美股成交重點聚焦於AI相關題材，尤其是記憶體、AI晶片和雲端基礎設施領域。美光科技（MU）受惠於AI相關記憶體需求強勁，營收和財測均超出預期，帶動股價上漲。Nvidia（NVDA）、AMD（AMD）等AI晶片股雖然當日下跌，但AMD近期在AI領域的合作與產品發布仍受市場關注。雲端基礎設施公司CoreWeave（CRWV）和Nebius Group（NBIS）也因AI需求旺盛而有顯著漲幅，市場故事圍繞著AI基礎設施的擴張與其財務可持續性。此外，特斯拉（TSLA）發表新款Roadster，具備飛行能力，引發市場熱議。",
     "eventsPast": [
       {
-        "title": "美國9月CPI、PPI數據高於預期",
-        "detail": "美國勞工統計局於10月14日公布的9月消費者物價指數（CPI）年增3.7%，核心CPI年增2.6%，雙雙高於市場預期，生產者物價指數（PPI）月增1.3%、年增6.3%，核心PPI月增0.7%、年增5%，也皆高於預期並創下新高漲幅，引發市場對通膨及聯準會利率政策的關注。"
+        "title": "美光科技財報優於預期",
+        "detail": "美光科技（MU）公布的第四季度財報和第一季度財測均超出市場預期，主要受惠於AI相關記憶體需求的強勁增長。"
       },
       {
-        "title": "聯準會主席華許談話未預告利率決策",
-        "detail": "聯準會主席華許於10月15日在曼谷出席國際貨幣基金（IMF）年會，與總裁喬治艾娃對談，但未預告本月利率決定，也未反駁官員近來不急於升息的說法，讓市場更相信Fed本月底將按兵不動。"
+        "title": "特斯拉發表新款Roadster",
+        "detail": "特斯拉（TSLA）於10月15日發表了新款Roadster，展示了其具備飛行能力的特色，並預計於2028年開始生產。"
       },
       {
-        "title": "微軟發表第三代自研AI晶片Maia 300",
-        "detail": "微軟（MSFT）於10月12日發表第三代自研AI晶片Maia 300，計畫明年部署可能超過100萬顆，支援內部AI服務，並藉由提升整體系統效率降低運算成本，凸顯業界正尋求降低對Nvidia（NVDA）的依賴。"
+        "title": "亞馬遜推出兩款AI穿戴裝置",
+        "detail": "亞馬遜（AMZN）於10月15日推出了兩款名為「Bee」的AI穿戴裝置，分別是腕帶式「Frontier」和手機磁吸式「Eclipse」，具備全天候聆聽並提供AI驅動洞察的功能。"
       },
       {
-        "title": "Meta發布全新AI模型Muse Wonder與Muse Wonder Full",
-        "detail": "Meta Platforms（META）於10月12日發布了兩款全新人工智慧模型Muse Wonder與Muse Wonder Full，在公開測試中的表現足以與OpenAI和Anthropic的頂尖產品競爭。"
+        "title": "Meta發布Muse Spark Open AI模型",
+        "detail": "Meta（META）發布了其最新的大型AI模型Muse Spark Open，這是一個8160億參數的稀疏混合專家模型，旨在為桌面電腦帶來先進的代理功能，並已開放權重供開發者使用。"
       },
       {
-        "title": "台積電第三季財報與第四季展望樂觀",
-        "detail": "晶圓代工龍頭台積電（TSM）於10月15日召開第三季法人說明會，繳出營收、獲利雙成長的成績單，並對第四季營運釋出樂觀展望，預估營收將達523億至543億美元，季增約14%，年增率可望達65%。"
+        "title": "Nvidia CEO對CoreWeave財務狀況表達信心",
+        "detail": "儘管信貸市場對CoreWeave（CRWV）的債務可持續性表示擔憂，Nvidia（NVDA）執行長黃仁勳仍對CoreWeave的財務狀況表達了信心，並表示該公司不需要Nvidia的財務支持。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "10/27-10/28",
-        "title": "聯準會FOMC會議",
-        "detail": "聯準會（Fed）將於10月27日至28日召開FOMC會議，市場關注其利率決策，以及對通膨和經濟前景的看法。"
+        "date": "10/21",
+        "title": "特斯拉第三季度財報電話會議",
+        "detail": "特斯拉（TSLA）將於10月21日舉行第三季度財報電話會議，市場關注其Cybercab、Robotaxi、Optimus機器人以及監管方面的最新進展。"
+      },
+      {
+        "date": "10/23",
+        "title": "Apple iPhone Duo預購開始",
+        "detail": "蘋果（AAPL）首款可折疊iPhone Duo的預購將於10月23日開始。"
       },
       {
         "date": "10/29",
-        "title": "美國個人消費支出物價指數（PCE）數據公布",
-        "detail": "美國商務部將於10月29日公布個人消費支出物價指數（PCE）數據，此為聯準會（Fed）偏好的通膨指標，將影響市場對未來利率政策的預期。"
+        "title": "亞馬遜第三季度財報",
+        "detail": "亞馬遜（AMZN）將於10月29日公布2026年第三季度財報。"
       },
       {
-        "date": "本週四",
-        "title": "Marvell財報公布",
-        "detail": "Marvell（MRVL）將於本週四公布財報，市場將關注其在半導體領域的表現，特別是與AI相關的業務。"
+        "date": "10/30",
+        "title": "HomePod mini 2發表",
+        "detail": "蘋果（AAPL）將於10月30日推出下一代HomePod mini。"
+      },
+      {
+        "date": "11/03",
+        "title": "AMD第三季度財報",
+        "detail": "Advanced Micro Devices（AMD）預計將於11月3日公布其下一份財報。"
       }
     ]
   }
