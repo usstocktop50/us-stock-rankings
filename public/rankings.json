@@ -21,7 +21,7 @@
       "dollarVolume": 17453038292.871506,
       "marketCap": 1948135258071.5498,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "太空科技",
+      "theme": "太空",
       "isNew": false,
       "rankChange": 6,
       "streak": 90
@@ -47,7 +47,7 @@
       "dollarVolume": 12194543108.763256,
       "marketCap": 4954724110000,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "消費電子",
+      "theme": "消費性電子",
       "isNew": false,
       "rankChange": 1,
       "streak": 155
@@ -138,7 +138,7 @@
       "dollarVolume": 7736980728.4193535,
       "marketCap": 462484360000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "處理器",
+      "theme": "CPU",
       "isNew": false,
       "rankChange": 0,
       "streak": 155
@@ -164,7 +164,7 @@
       "dollarVolume": 5832096025.520054,
       "marketCap": 34266969082.260002,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體 SaaS",
+      "theme": "雲端基礎設施",
       "isNew": false,
       "rankChange": 0,
       "streak": 6
@@ -268,7 +268,7 @@
       "dollarVolume": 3829296109.0506387,
       "marketCap": 37627289337.6,
       "sector": "—",
-      "theme": "雲端軟體 SaaS",
+      "theme": "雲端基礎設施",
       "isNew": false,
       "rankChange": -4,
       "streak": 80
@@ -333,7 +333,7 @@
       "dollarVolume": 2921743847.1630235,
       "marketCap": 462829063248,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "資料分析",
+      "theme": "大數據分析",
       "isNew": false,
       "rankChange": -10,
       "streak": 155
@@ -450,7 +450,7 @@
       "dollarVolume": 2530657002.325654,
       "marketCap": 145591342253.28,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "電子電腦",
+      "theme": "伺服器",
       "isNew": false,
       "rankChange": -12,
       "streak": 41
@@ -463,7 +463,7 @@
       "dollarVolume": 2522867562.97131,
       "marketCap": 65576513586.9,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "燃料電池",
+      "theme": "氫能源",
       "isNew": false,
       "rankChange": 0,
       "streak": 35
@@ -476,7 +476,7 @@
       "dollarVolume": 2422335890.149081,
       "marketCap": 254153191977.82,
       "sector": "MEASURING & CONTROLLING DEVICES, NEC",
-      "theme": "科學儀器",
+      "theme": "生命科學儀器",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -502,7 +502,7 @@
       "dollarVolume": 2213817693.369754,
       "marketCap": 354112777203.6,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "商業銀行",
+      "theme": "銀行",
       "isNew": false,
       "rankChange": 0,
       "streak": 3
@@ -554,7 +554,7 @@
       "dollarVolume": 2140450377.880703,
       "marketCap": 157637592748.96,
       "sector": "INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL",
-      "theme": "生命科學工具",
+      "theme": "生命科學儀器",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -567,7 +567,7 @@
       "dollarVolume": 2133731126.2512963,
       "marketCap": 253681942217.08,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "類比晶片",
+      "theme": "類比IC",
       "isNew": false,
       "rankChange": -15,
       "streak": 3
@@ -593,7 +593,7 @@
       "dollarVolume": 2069069304.0903952,
       "marketCap": 891183503735.7,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "商業銀行",
+      "theme": "銀行",
       "isNew": false,
       "rankChange": -11,
       "streak": 11
@@ -606,7 +606,7 @@
       "dollarVolume": 2058888100.6915216,
       "marketCap": 211071750016.08002,
       "sector": "OPTICAL INSTRUMENTS & LENSES",
-      "theme": "半導體設備",
+      "theme": "半導體檢測",
       "isNew": false,
       "rankChange": -2,
       "streak": 3
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-10-20T20:00:00.000Z",
-  "generatedAt": "2026-10-21T07:59:21.057Z",
+  "generatedAt": "2026-10-21T09:58:52.697Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型需求持續，雲端軟體服務因其靈活性和效率而受到市場青睞，尤其在AI應用整合下更具成長潛力。",
+      "reason": "企業數位轉型需求持續，雲端軟體服務因其靈活性和效率而受到市場青睞，尤其在特定領域有突破性進展的廠商表現突出。",
       "symbols": [
         "CRWV",
         "ORCL",
@@ -669,18 +669,17 @@
     },
     {
       "theme": "生技製藥",
-      "reason": "新藥研發進展與市場需求推動，尤其在特定疾病領域的突破性療法，持續吸引資金關注。",
+      "reason": "新藥研發進展和市場對特定疾病治療需求的增加，推動了生技製藥板塊的資金流入。",
       "symbols": [
         "MRNA",
-        "LLY",
         "JNJ"
       ],
-      "count": 3,
-      "avgChange": 4.1273976113365345
+      "count": 2,
+      "avgChange": 4.4448010463806105
     },
     {
       "theme": "儲存裝置",
-      "reason": "AI、大數據及雲端運算對資料儲存需求不斷增長，推動相關硬體設備廠商的營收成長。",
+      "reason": "隨著AI、大數據等應用對數據儲存需求不斷增長，儲存裝置廠商的業績預期改善，吸引資金關注。",
       "symbols": [
         "WDC",
         "STX"
@@ -689,8 +688,17 @@
       "avgChange": 2.802663540253344
     },
     {
+      "theme": "減肥藥 GLP-1",
+      "reason": "GLP-1 類藥物在減重和糖尿病治療領域展現巨大市場潛力，相關藥廠持續受到市場追捧。",
+      "symbols": [
+        "LLY"
+      ],
+      "count": 1,
+      "avgChange": 3.492590741248381
+    },
+    {
       "theme": "比特幣/加密",
-      "reason": "加密貨幣市場波動與比特幣現貨ETF的推出，使得相關概念股受到投資者追捧。",
+      "reason": "加密貨幣市場的波動和比特幣價格的表現，影響了持有大量比特幣或與其相關的上市公司股價。",
       "symbols": [
         "MSTR"
       ],
@@ -698,22 +706,13 @@
       "avgChange": 4.925746213792081
     },
     {
-      "theme": "晶圓代工",
-      "reason": "全球半導體需求復甦，先進製程技術的領導者持續獲得訂單，支撐其股價表現。",
+      "theme": "醫療保險",
+      "reason": "醫療服務需求穩定增長，加上保險產品創新和市場擴張，使得醫療保險公司表現穩健。",
       "symbols": [
-        "TSM"
+        "UNH"
       ],
       "count": 1,
-      "avgChange": 1.15653705202036
-    },
-    {
-      "theme": "電動車",
-      "reason": "電動車市場競爭激烈，但部分公司透過技術創新或市場策略調整，仍能吸引資金關注。",
-      "symbols": [
-        "TSLA"
-      ],
-      "count": 1,
-      "avgChange": 1.5350758028582234
+      "avgChange": 3.0426661423515524
     }
   ],
   "newEntrants": [
@@ -722,28 +721,28 @@
       "name": "Braze, Inc. Class A Common Stock",
       "theme": "雲端軟體 SaaS",
       "changePercent": 51.6977363515313,
-      "reason": "Salesforce宣布以每股47.50美元現金收購Braze，溢價約58%。"
+      "reason": "Salesforce宣布將以56.6億美元收購Braze，溢價約58%。"
     },
     {
       "symbol": "GE",
       "name": "GE Aerospace",
       "theme": "航空發動機",
       "changePercent": -3.6655101516319615,
-      "reason": "GE Aerospace上調全年財測，並加速向波音交付GEnx發動機。"
+      "reason": "GE Aerospace正加速向波音交付引擎，以應對787夢幻客機增產需求。"
     },
     {
       "symbol": "MSTR",
       "name": "Strategy Inc Common Stock Class A",
       "theme": "比特幣/加密",
       "changePercent": 4.925746213792081,
-      "reason": "Clear Street分析師調升目標價至211美元，看好其比特幣策略。"
+      "reason": "Clear Street調升MSTR目標價，且JPMorgan預測比特幣長期將跑贏股票。"
     },
     {
       "symbol": "TMO",
       "name": "Thermo Fisher Scientific, Inc.",
-      "theme": "科學儀器",
+      "theme": "生命科學儀器",
       "changePercent": 1.1760723012158156,
-      "reason": "Thermo Fisher Scientific將於10月21日公布財報，分析師上調獲利預期。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "COST",
@@ -755,67 +754,67 @@
     {
       "symbol": "DHR",
       "name": "Danaher Corporation",
-      "theme": "生命科學工具",
+      "theme": "生命科學儀器",
       "changePercent": -0.08465891369246434,
-      "reason": "Danaher將於10月21日公布第三季財報，市場關注生物製程復甦。"
+      "reason": "Danaher即將公布第三季財報，新任CEO將面臨生物製程考驗。"
     },
     {
       "symbol": "CRM",
       "name": "Salesforce, Inc.",
       "theme": "雲端軟體 SaaS",
       "changePercent": -0.00824912353061737,
-      "reason": "Salesforce宣布以56.6億美元收購Braze，強化AI行銷平台。"
+      "reason": "Salesforce宣布收購Braze，但投資者對收購價格有疑慮導致股價下跌。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI相關題材，特別是SpaceX（SPCX）受惠於其AI業務的強勁增長，營收大幅超越預期並首次實現盈利，成為市場關注焦點，帶動成交量。此外，AI晶片股如Nvidia（NVDA）和AMD（AMD）雖然漲跌幅為負，但仍維持高成交金額，顯示市場對AI產業的長期發展故事仍抱持高度興趣，資金持續追逐AI基礎建設與相關應用。記憶體和儲存裝置類股也因AI需求而受到關注，但部分個股如Micron（MU）和Sandisk（SNDK）呈現小幅下跌。",
+    "highlights": "本日美股成交重點聚焦於AI相關個股與記憶體產業。AI晶片股如Nvidia、AMD雖成交量大，但近期受市場對AI資本支出與利率壓力擴大、融資疑慮升溫等因素影響，股價普遍承壓。記憶體大廠美光（MU）則受惠於輝達（Nvidia）新一代NVHBM記憶體供應鏈布局及企業獲利成長預期，逆勢走強。雲端基礎設施服務商CoreWeave（CRWV）儘管有高盛逆勢看多，但其債務疑慮與創辦人套現消息，引發市場對AI熱潮可持續性的擔憂。整體而言，市場在權衡AI產業的長期潛力與短期融資成本及估值壓力。",
     "eventsPast": [
       {
-        "title": "SpaceX第三季財報亮眼，AI業務成最大功臣",
-        "detail": "SpaceX（SPCX）公布第三季營收年增161%至145.8億美元，並首次實現淨利44億美元，遠優於市場預期，主要受惠於其AI業務（超級智能，SI）營收暴增830%，成為公司最大收入來源。"
+        "title": "Intel股價重挫逾5%",
+        "detail": "2026年10月16日，Intel（INTC）股價重挫逾5%，主要受AI資本支出與利率壓力擴大，以及AI半導體股遭系統性賣壓拖累。"
       },
       {
-        "title": "馬斯克證實討論SpaceX與特斯拉合併可能性",
-        "detail": "SpaceX執行長馬斯克在財報會議上表示，SpaceX與特斯拉（TSLA）已成立特別委員會，討論兩家公司合併的可能性。"
+        "title": "AMD股價下跌逾5%",
+        "detail": "2026年10月16日，AMD（AMD）股價走弱，跌幅約5%，受半導體族群修正與AI相關類股回檔影響。"
       },
       {
-        "title": "晶片股漲勢預計延續至2027年",
-        "detail": "Truist分析師指出，半導體產業的基本面與股價報酬高峰仍在前方，預計漲勢將延續至2027年，主要受惠於AI超級週期。"
+        "title": "CoreWeave創辦人套現33億美元",
+        "detail": "2026年10月16日，CoreWeave Inc.的三位聯合創辦人已出售33億美元公司股票，在信貸風險上升和投資者對AI支出警惕引發股價波動之際套現。"
       },
       {
-        "title": "中國企業向輝達下訂逾350億美元晶片大單",
-        "detail": "市場傳出中國科技巨頭向輝達（NVDA）下訂超過350億美元的晶片大單，凸顯中國市場對其產品的強勁需求。"
+        "title": "美光科技與台灣台中工會達成勞資協議",
+        "detail": "2026年10月21日，美光科技（MU）旗下台灣子公司與台中廠區工會簽署勞資協議，雙方退出原定於10月22日舉行的調解，有助於緩解市場對AI記憶體供應的擔憂。"
       },
       {
-        "title": "AI投資疑慮升溫，那斯達克指數下跌",
-        "detail": "過去一週美股市場風險偏好轉變，AI相關股票遭遇賣壓，那斯達克綜合指數單週重挫4.5%，投資人對AI需求、資本支出及融資能力的疑慮升高。"
+        "title": "微軟退出英國最大AI資料中心計畫",
+        "detail": "2026年10月20日，微軟（MSFT）傳出已退出英國艾塞克斯郡勞頓一項原本被視為英國最大AI超級電腦與資料中心的計畫，原因與當地電網供電延遲有關。"
       }
     ],
     "eventsUpcoming": [
       {
         "date": "10月27-28日",
-        "title": "FOMC會議",
-        "detail": "聯邦公開市場委員會（FOMC）將舉行會議，討論利率政策，並於28日公布利率決議。"
-      },
-      {
-        "date": "10月27日",
-        "title": "耐久財訂單（初值）",
-        "detail": "美國普查局將公布9月份耐久財訂單（初值），此數據可反映製造業景氣狀況。"
+        "title": "聯邦公開市場委員會（FOMC）會議",
+        "detail": "聯邦公開市場委員會將於2026年10月27日至28日舉行會議，政策聲明將於10月28日美東時間下午2:00發布，隨後於美東時間下午2:30舉行主席記者會。"
       },
       {
         "date": "10月29日",
-        "title": "國內生產毛額（GDP）",
-        "detail": "美國經濟分析局將公布2026年第三季國內生產毛額（GDP）數據，為評估經濟健康狀況的重要指標。"
+        "title": "Intel第三季財報公布",
+        "detail": "Intel預計於10月29日公布第三季財報，分析師預估每股盈餘39美分，營收預估為164.4億美元。"
+      },
+      {
+        "date": "本週三",
+        "title": "特斯拉第三季財報公布",
+        "detail": "特斯拉（TSLA）第三季度財報即將揭曉，市場關注其汽車毛利率能否回升以及自由現金流能否扛住資本開支。"
       },
       {
         "date": "10月29日",
-        "title": "個人所得與支出（含PCE物價指數）",
-        "detail": "美國經濟分析局將公布9月份個人所得與支出數據，其中包含聯準會偏好的通膨指標PCE物價指數。"
+        "title": "SanDisk財報公布",
+        "detail": "SanDisk（SNDK）將於10月29日公布財報，市場將關注其收入指引與毛利率表現。"
       },
       {
-        "date": "11月10日",
-        "title": "消費者物價指數（CPI）",
-        "detail": "美國勞工統計局將公布10月份消費者物價指數（CPI），此為衡量通膨的重要數據。"
+        "date": "近期",
+        "title": "蘋果與LG合作開發智慧家庭裝置",
+        "detail": "外媒爆料，蘋果（AAPL）正開發一款搭載機械手臂的智慧家庭裝置，配備約9吋螢幕，能透過語音辨識技術自動轉向說話者，最快可能在2027年亮相。"
       }
     ]
   }
