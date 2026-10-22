@@ -398,7 +398,7 @@
       "dollarVolume": 2953255921.0071588,
       "marketCap": 70253607841.38,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "潔淨能源",
+      "theme": "燃料電池",
       "isNew": false,
       "rankChange": 5,
       "streak": 36
@@ -528,7 +528,7 @@
       "dollarVolume": 2226378637.3873167,
       "marketCap": 306993996346.44,
       "sector": "ELECTRONIC & OTHER ELECTRICAL EQUIPMENT (NO COMPUTER EQUIP)",
-      "theme": "航空工業",
+      "theme": "航空發動機",
       "isNew": false,
       "rankChange": -11,
       "streak": 2
@@ -580,7 +580,7 @@
       "dollarVolume": 2043882936.666527,
       "marketCap": 151245393628.56,
       "sector": "ORTHOPEDIC, PROSTHETIC & SURGICAL APPLIANCES & SUPPLIES",
-      "theme": "醫療器材",
+      "theme": "醫療機器人",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -652,27 +652,23 @@
     }
   ],
   "asOf": "2026-10-21T20:00:00.000Z",
-  "generatedAt": "2026-10-22T07:53:58.317Z",
+  "generatedAt": "2026-10-22T09:57:16.270Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
-      "theme": "半導體",
-      "reason": "AI需求持續增長，帶動半導體產業鏈的樂觀預期。",
+      "theme": "AI 晶片",
+      "reason": "AI 產業持續高速發展，對高效能運算晶片的需求不斷攀升，帶動相關供應鏈表現強勁。",
       "symbols": [
         "NVDA",
-        "MU",
-        "AMD",
-        "AVGO",
-        "MRVL",
-        "TXN"
+        "AMD"
       ],
-      "count": 6,
-      "avgChange": 2.1952409971891473
+      "count": 2,
+      "avgChange": 2.9515747460218376
     },
     {
       "theme": "儲存裝置",
-      "reason": "AI和數據中心需求推動儲存技術升級與市場增長。",
+      "reason": "隨著AI與數據中心需求增長，對高效能儲存解決方案的需求增加，推動相關公司股價上漲。",
       "symbols": [
         "SNDK",
         "WDC",
@@ -682,29 +678,30 @@
       "avgChange": 2.68613601434587
     },
     {
-      "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型與AI應用擴展，持續推升雲端服務需求。",
+      "theme": "半導體",
+      "reason": "全球半導體需求持續增長，尤其是在AI、5G和電動車等新興應用領域的帶動下。",
       "symbols": [
-        "MSFT",
-        "NBIS",
-        "NOW"
+        "MU",
+        "AVGO",
+        "MRVL",
+        "TXN"
       ],
-      "count": 3,
-      "avgChange": 0.8890188937372806
+      "count": 4,
+      "avgChange": 1.8170741227728024
     },
     {
-      "theme": "電子電腦",
-      "reason": "AI PC概念與企業換機潮預期，支撐相關硬體需求。",
+      "theme": "雲端軟體 SaaS",
+      "reason": "企業數位轉型趨勢不減，雲端服務和軟體即服務（SaaS）解決方案持續受到市場青睞。",
       "symbols": [
-        "DELL",
-        "SMCI"
+        "MSFT",
+        "NOW"
       ],
       "count": 2,
-      "avgChange": 7.408180924865537
+      "avgChange": 1.2985327150591128
     },
     {
       "theme": "半導體設備",
-      "reason": "晶圓廠擴建和技術升級，為設備供應商帶來訂單。",
+      "reason": "晶圓廠擴建和技術升級的需求，持續支撐半導體設備供應商的訂單與營收。",
       "symbols": [
         "AMAT",
         "ASML"
@@ -713,14 +710,14 @@
       "avgChange": 1.8946303318029662
     },
     {
-      "theme": "AI 晶片",
-      "reason": "AI算力需求爆發，晶片設計與製造商持續受惠。",
+      "theme": "記憶體",
+      "reason": "AI應用對高頻寬記憶體（HBM）的需求激增，以及整體記憶體市場復甦預期，推動相關個股表現。",
       "symbols": [
-        "NVDA",
-        "AMD"
+        "MU",
+        "SKHY"
       ],
       "count": 2,
-      "avgChange": 2.9515747460218376
+      "avgChange": 2.2196367749029977
     }
   ],
   "newEntrants": [
@@ -729,90 +726,85 @@
       "name": "Super Micro Computer, Inc. Common Stock",
       "theme": "AI 伺服器",
       "changePercent": 9.547274407145062,
-      "reason": "上調財測，因AI平台需求強勁且訂單積壓量創紀錄。"
+      "reason": "上修財測，預期AI平台需求強勁，帶動營收與毛利率展望優於預期。"
     },
     {
       "symbol": "IBM",
       "name": "International Business Machines Corporation",
       "theme": "企業軟體/AI",
       "changePercent": 3.94345238095239,
-      "reason": "第三季財報優於預期，軟體和AI業務增長強勁。"
+      "reason": "第三季財報優於預期，軟體及AI業務動能強勁，並上調全年現金流預期。"
     },
     {
       "symbol": "ABT",
       "name": "Abbott Laboratories",
       "theme": "醫療器材",
       "changePercent": -1.8936066373840876,
-      "reason": "宣布計劃分拆營養品業務為獨立上市公司。"
+      "reason": "宣布計畫分拆營養品業務為獨立公司，並公布優於預期的第三季財報。"
     },
     {
       "symbol": "CRWD",
       "name": "CrowdStrike Holdings, Inc. Class A Common Stock",
       "theme": "資安",
       "changePercent": 5.264546773980736,
-      "reason": "宣布與NVIDIA深化合作，共同保護AI代理安全。"
+      "reason": "與NVIDIA深化合作，共同提升AI代理的資安防護能力。"
     },
     {
       "symbol": "ASML",
       "name": "ASML Holding NV",
       "theme": "半導體設備",
       "changePercent": 2.811434598121222,
-      "reason": "第三季財報表現亮眼，AI基礎設施需求旺盛。"
+      "reason": "預期半導體需求將持續超越供給至2028年，並公布優於預期的第三季財報。"
     },
     {
       "symbol": "ISRG",
       "name": "Intuitive Surgical Inc.",
-      "theme": "醫療器材",
+      "theme": "醫療機器人",
       "changePercent": -2.2557077625570767,
-      "reason": "近期宣布以4.5億美元和解達文西手術機器人反壟斷訴訟。"
+      "reason": "與達文西手術機器人反壟斷訴訟達成和解，支付4.5億美元。"
     },
     {
       "symbol": "NOW",
       "name": "SERVICENOW, INC.",
       "theme": "雲端軟體 SaaS",
       "changePercent": 2.394008292095769,
-      "reason": "與NVIDIA合作推出企業級AI代理Arc，強化AI治理。"
+      "reason": "與NVIDIA合作，推出業界首創的個人企業AI代理與政策執行。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於太空科技與AI相關族群，其中SpaceX（SPCX）因第三季營收大幅成長161%且宣布考慮與特斯拉合併，股價暴漲7.79%，成為資金追逐的焦點。 半導體及AI晶片族群也表現強勁，Nvidia（NVDA）執行長黃仁勳發表全新AI工廠設計，帶動股價上漲2.54%，Advanced Micro Devices（AMD）也因分析師上調目標價而上漲3.36%。 整體市場故事圍繞著AI技術的持續發展與應用，以及相關企業的財報表現。",
+    "highlights": "本日美股成交重點聚焦於太空科技、AI晶片、記憶體、電動車和社群媒體/AI等題材。資金主要集中在Space Exploration Technologies Corp. (SPCX)這類太空科技股，顯示市場對新興科技領域抱持高度興趣。此外，AI晶片股如Nvidia (NVDA)和AMD (AMD)也因AI基礎設施建置需求強勁而受到追捧，Nvidia更宣布擴大供應鏈產能以應對需求。 特斯拉 (TSLA) 儘管財報營收略低於預期，但其自動駕駛業務的顯著增長和自由現金流表現亮眼，也吸引了大量交易量。 整體而言，市場正在交易與AI發展、新興科技應用以及電動車產業未來成長潛力相關的故事。",
     "eventsPast": [
       {
-        "title": "SpaceX 第三季營收暴增161%並考慮與特斯拉合併",
-        "detail": "SpaceX（SPCX）第三季營收因AI業務大幅成長161%，獲利優於預期，並宣布正在討論與特斯拉（TSLA）合併的可能性，盤後股價應聲上漲近5%。"
+        "title": "Nvidia 擴大AI基礎設施供應鏈產能",
+        "detail": "Nvidia宣布與供應鏈夥伴合作，未來三年內將基板產能提升2.5倍，並將先進封裝產能增加300%以上，以滿足AI運算平台日益增長的需求。"
       },
       {
-        "title": "Nvidia 發表全新AI工廠設計",
-        "detail": "Nvidia（NVDA）執行長黃仁勳在德國柏林發表全新AI工廠設計，宣稱可在幾天內完成部署，激勵股價上漲2.54%。"
+        "title": "Nvidia 推出模組化AI工廠設計",
+        "detail": "Nvidia發布模組化AI工廠設計，可將資料中心部署時間從六個月縮短至14天，以加速歐洲AI基礎設施的建置。"
       },
       {
-        "title": "Meta Platforms 將公布第三季財報",
-        "detail": "Meta Platforms（META）將於本日美股盤後公布第三季財報，市場關注其龐大AI支出及個人助理Muse的採用情況。"
+        "title": "特斯拉第三季財報與自動駕駛進展",
+        "detail": "特斯拉第三季財報顯示每股盈餘優於預期，但營收略低。執行長馬斯克表示，自動駕駛業務（FSD）的付費客戶已達170萬，且需求顯著超越產能。"
       },
       {
-        "title": "Netflix 第三季財報優於預期但下修廣告營收展望",
-        "detail": "Netflix（NFLX）公布第三季財報，獲利優於分析師預期，但因下修全年廣告業務營收預測並收窄2026全年財測區間，導致盤後股價下跌6%。"
+        "title": "AMD 在印度部署AI超級叢集",
+        "detail": "Vultr宣布將在印度清奈部署全球最大的AMD Instinct MI355X GPU超級叢集，以支援當地AI實驗室、新創公司和研究機構的需求。"
       },
       {
-        "title": "Micron Technology 台灣廠區勞資協議進展",
-        "detail": "Micron Technology（MU）台灣廠區與台中員工工會達成勞資協議，取消原定調解會議，但桃園廠區另一工會仍計劃發動一日警告性罷工。"
+        "title": "Meta Platforms 公布第三季財報",
+        "detail": "Meta Platforms公布第三季財報，營收年增，但投資者關注2027年的資本支出指引和Muse AI的採用情況。"
       }
     ],
     "eventsUpcoming": [
       {
         "date": "本週四",
-        "title": "美股主要科技股財報陸續公布",
-        "detail": "本週將有多家重量級科技公司公布財報，包括Meta Platforms（META），其AI投資與新產品表現將是市場焦點。"
+        "title": "美股期貨受Meta Platforms和特斯拉財報影響",
+        "detail": "投資者將持續關注Meta Platforms和特斯拉的第三季財報，這將影響美股期貨的走勢。"
       },
       {
-        "date": "未來幾天",
-        "title": "半導體產業基本面與股價報酬高峰預期",
-        "detail": "Truist分析師指出，半導體產業的基本面與股價報酬高峰都還在前方，預計漲勢將延續至2027年。"
-      },
-      {
-        "date": "未來幾天",
-        "title": "AI晶片產能擴建進度",
-        "detail": "Nvidia（NVDA）預計在美國、台灣和新加坡的產能擴建支持下，2027年半導體測試總產能將較2026年翻一番，並計劃在未來三年內將封裝基板產能提高至目前的2.5倍。"
+        "date": "12/10",
+        "title": "Broadcom 下次財報日",
+        "detail": "Broadcom預計將於12月10日公布財報，屆時將提供公司營運和半導體解決方案的最新資訊。"
       }
     ]
   }
