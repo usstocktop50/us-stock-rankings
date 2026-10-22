@@ -86,7 +86,7 @@
       "dollarVolume": 9181773239.69438,
       "marketCap": 2832809533414.36,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電子商務",
+      "theme": "電商",
       "isNew": false,
       "rankChange": -4,
       "streak": 155
@@ -294,7 +294,7 @@
       "dollarVolume": 3516037662.922348,
       "marketCap": 396532739039.99994,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體 SaaS",
+      "theme": "資料庫軟體",
       "isNew": false,
       "rankChange": -1,
       "streak": 155
@@ -463,7 +463,7 @@
       "dollarVolume": 2522867562.97131,
       "marketCap": 65576513586.9,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "氫能源",
+      "theme": "燃料電池",
       "isNew": false,
       "rankChange": 0,
       "streak": 35
@@ -606,7 +606,7 @@
       "dollarVolume": 2058888100.6915216,
       "marketCap": 211071750016.08002,
       "sector": "OPTICAL INSTRUMENTS & LENSES",
-      "theme": "半導體檢測",
+      "theme": "半導體設備",
       "isNew": false,
       "rankChange": -2,
       "streak": 3
@@ -652,34 +652,23 @@
     }
   ],
   "asOf": "2026-10-20T20:00:00.000Z",
-  "generatedAt": "2026-10-21T09:58:52.697Z",
+  "generatedAt": "2026-10-22T02:05:13.778Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型需求持續，雲端軟體服務因其靈活性和效率而受到市場青睞，尤其在特定領域有突破性進展的廠商表現突出。",
+      "reason": "企業數位轉型需求持續推動雲端軟體服務的增長，尤其是在特定應用領域表現強勁。",
       "symbols": [
-        "CRWV",
-        "ORCL",
-        "BRZE"
-      ],
-      "count": 3,
-      "avgChange": 18.18210106898874
-    },
-    {
-      "theme": "生技製藥",
-      "reason": "新藥研發進展和市場對特定疾病治療需求的增加，推動了生技製藥板塊的資金流入。",
-      "symbols": [
-        "MRNA",
-        "JNJ"
+        "BRZE",
+        "ORCL"
       ],
       "count": 2,
-      "avgChange": 4.4448010463806105
+      "avgChange": 26.44690814798572
     },
     {
       "theme": "儲存裝置",
-      "reason": "隨著AI、大數據等應用對數據儲存需求不斷增長，儲存裝置廠商的業績預期改善，吸引資金關注。",
+      "reason": "AI與大數據應用對資料儲存需求增加，帶動相關硬體設備股價表現。",
       "symbols": [
         "WDC",
         "STX"
@@ -688,8 +677,28 @@
       "avgChange": 2.802663540253344
     },
     {
+      "theme": "生技製藥",
+      "reason": "新藥研發進展與市場對特定疾病治療方案的期待，持續吸引資金關注。",
+      "symbols": [
+        "MRNA",
+        "JNJ"
+      ],
+      "count": 2,
+      "avgChange": 4.4448010463806105
+    },
+    {
+      "theme": "生命科學儀器",
+      "reason": "全球醫療健康投入增加，對實驗室設備和診斷工具的需求穩定成長。",
+      "symbols": [
+        "TMO",
+        "DHR"
+      ],
+      "count": 2,
+      "avgChange": 0.5457066937616757
+    },
+    {
       "theme": "減肥藥 GLP-1",
-      "reason": "GLP-1 類藥物在減重和糖尿病治療領域展現巨大市場潛力，相關藥廠持續受到市場追捧。",
+      "reason": "GLP-1 藥物市場潛力巨大，相關藥廠持續受市場追捧。",
       "symbols": [
         "LLY"
       ],
@@ -698,21 +707,12 @@
     },
     {
       "theme": "比特幣/加密",
-      "reason": "加密貨幣市場的波動和比特幣價格的表現，影響了持有大量比特幣或與其相關的上市公司股價。",
+      "reason": "加密貨幣市場波動與相關企業的策略布局，影響其股價表現。",
       "symbols": [
         "MSTR"
       ],
       "count": 1,
       "avgChange": 4.925746213792081
-    },
-    {
-      "theme": "醫療保險",
-      "reason": "醫療服務需求穩定增長，加上保險產品創新和市場擴張，使得醫療保險公司表現穩健。",
-      "symbols": [
-        "UNH"
-      ],
-      "count": 1,
-      "avgChange": 3.0426661423515524
     }
   ],
   "newEntrants": [
@@ -721,28 +721,28 @@
       "name": "Braze, Inc. Class A Common Stock",
       "theme": "雲端軟體 SaaS",
       "changePercent": 51.6977363515313,
-      "reason": "Salesforce宣布將以56.6億美元收購Braze，溢價約58%。"
+      "reason": "Salesforce宣布將以每股47.50美元現金收購Braze，溢價約58%。"
     },
     {
       "symbol": "GE",
       "name": "GE Aerospace",
       "theme": "航空發動機",
       "changePercent": -3.6655101516319615,
-      "reason": "GE Aerospace正加速向波音交付引擎，以應對787夢幻客機增產需求。"
+      "reason": "儘管第三季財報優於預期並上調全年財測，但分析師下調目標價且投資者擔憂2027年成本增加。"
     },
     {
       "symbol": "MSTR",
       "name": "Strategy Inc Common Stock Class A",
       "theme": "比特幣/加密",
       "changePercent": 4.925746213792081,
-      "reason": "Clear Street調升MSTR目標價，且JPMorgan預測比特幣長期將跑贏股票。"
+      "reason": "公司董事會將證券回購額度提高至30億美元，並持續購入比特幣，加上分析師上調目標價。"
     },
     {
       "symbol": "TMO",
       "name": "Thermo Fisher Scientific, Inc.",
       "theme": "生命科學儀器",
       "changePercent": 1.1760723012158156,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "第三季營收和調整後每股盈餘均超出華爾街預期。"
     },
     {
       "symbol": "COST",
@@ -756,65 +756,65 @@
       "name": "Danaher Corporation",
       "theme": "生命科學儀器",
       "changePercent": -0.08465891369246434,
-      "reason": "Danaher即將公布第三季財報，新任CEO將面臨生物製程考驗。"
+      "reason": "第三季營收略低於預期，但調整後每股盈餘優於預期並上調全年指引。"
     },
     {
       "symbol": "CRM",
       "name": "Salesforce, Inc.",
       "theme": "雲端軟體 SaaS",
       "changePercent": -0.00824912353061737,
-      "reason": "Salesforce宣布收購Braze，但投資者對收購價格有疑慮導致股價下跌。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI相關個股與記憶體產業。AI晶片股如Nvidia、AMD雖成交量大，但近期受市場對AI資本支出與利率壓力擴大、融資疑慮升溫等因素影響，股價普遍承壓。記憶體大廠美光（MU）則受惠於輝達（Nvidia）新一代NVHBM記憶體供應鏈布局及企業獲利成長預期，逆勢走強。雲端基礎設施服務商CoreWeave（CRWV）儘管有高盛逆勢看多，但其債務疑慮與創辦人套現消息，引發市場對AI熱潮可持續性的擔憂。整體而言，市場在權衡AI產業的長期潛力與短期融資成本及估值壓力。",
+    "highlights": "本日美股成交重點聚焦於AI相關產業鏈，包括記憶體、AI晶片、雲端基礎設施等，顯示市場資金持續追逐AI發展帶來的商機。記憶體大廠美光（MU）因AI資料中心對DRAM與高階記憶體需求強勁，營收與獲利表現亮眼，帶動相關個股成交量。此外，SpaceX（SPCX）公布出色的財報，其AI業務的爆發性成長也成為當日市場的催化劑。整體而言，市場在交易AI「一魚多吃」的故事，從硬體到雲端服務，各環節都有資金進駐。",
     "eventsPast": [
       {
-        "title": "Intel股價重挫逾5%",
-        "detail": "2026年10月16日，Intel（INTC）股價重挫逾5%，主要受AI資本支出與利率壓力擴大，以及AI半導體股遭系統性賣壓拖累。"
+        "title": "美光財報亮眼，AI記憶體需求強勁",
+        "detail": "美光（MU）公布2026會計年度第四季財報，營收與獲利遠超市場預期，主要受惠於AI資料中心對DRAM與高階記憶體的需求飆升，並宣布將投資2,500億美元擴建HBM產能。"
       },
       {
-        "title": "AMD股價下跌逾5%",
-        "detail": "2026年10月16日，AMD（AMD）股價走弱，跌幅約5%，受半導體族群修正與AI相關類股回檔影響。"
+        "title": "SpaceX AI業務大爆發，財報出色",
+        "detail": "SpaceX（SPCX）公布第三季財報，其AI業務收入暴增830%，利潤碾壓預期，資本支出近200億美元，成為美股當日表現最佳催化劑。"
       },
       {
-        "title": "CoreWeave創辦人套現33億美元",
-        "detail": "2026年10月16日，CoreWeave Inc.的三位聯合創辦人已出售33億美元公司股票，在信貸風險上升和投資者對AI支出警惕引發股價波動之際套現。"
+        "title": "蘋果Mac新品強化AI運算能力",
+        "detail": "蘋果（AAPL）新款Mac mini與Mac Studio於9月22日正式發售，其中M6版Mac mini的AI效能最高較前代提升4倍，Mac Studio最高提升4.3倍，強化裝置端AI運算能力。"
       },
       {
-        "title": "美光科技與台灣台中工會達成勞資協議",
-        "detail": "2026年10月21日，美光科技（MU）旗下台灣子公司與台中廠區工會簽署勞資協議，雙方退出原定於10月22日舉行的調解，有助於緩解市場對AI記憶體供應的擔憂。"
+        "title": "Meta推出個人AI代理Muse",
+        "detail": "Meta（META）於9月8日推出個人AI代理Muse，登上美國App Store免費榜首，上線13天下載逾250萬次，有利AMD伺服器CPU需求。"
       },
       {
-        "title": "微軟退出英國最大AI資料中心計畫",
-        "detail": "2026年10月20日，微軟（MSFT）傳出已退出英國艾塞克斯郡勞頓一項原本被視為英國最大AI超級電腦與資料中心的計畫，原因與當地電網供電延遲有關。"
+        "title": "GLP-1減肥藥Viking Therapeutics試驗數據發酵",
+        "detail": "Viking Therapeutics（VKTX）公布其減肥療法VK2735的最新試驗數據，顯示33週減重效果顯著且安全性極佳，帶動股價大幅狂飆逾35%。"
       }
     ],
     "eventsUpcoming": [
       {
         "date": "10月27-28日",
-        "title": "聯邦公開市場委員會（FOMC）會議",
-        "detail": "聯邦公開市場委員會將於2026年10月27日至28日舉行會議，政策聲明將於10月28日美東時間下午2:00發布，隨後於美東時間下午2:30舉行主席記者會。"
+        "title": "FOMC會議",
+        "detail": "聯準會將召開FOMC會議，討論利率決議。"
       },
       {
         "date": "10月29日",
-        "title": "Intel第三季財報公布",
-        "detail": "Intel預計於10月29日公布第三季財報，分析師預估每股盈餘39美分，營收預估為164.4億美元。"
-      },
-      {
-        "date": "本週三",
-        "title": "特斯拉第三季財報公布",
-        "detail": "特斯拉（TSLA）第三季度財報即將揭曉，市場關注其汽車毛利率能否回升以及自由現金流能否扛住資本開支。"
+        "title": "國內生產毛額（GDP）",
+        "detail": "美國將公布2026年第三季國內生產毛額（GDP）數據。"
       },
       {
         "date": "10月29日",
-        "title": "SanDisk財報公布",
-        "detail": "SanDisk（SNDK）將於10月29日公布財報，市場將關注其收入指引與毛利率表現。"
+        "title": "個人所得與支出（含PCE物價指數）",
+        "detail": "美國將公布2026年9月個人所得與支出數據，其中包含聯準會偏好的通膨指標PCE物價指數。"
       },
       {
-        "date": "近期",
-        "title": "蘋果與LG合作開發智慧家庭裝置",
-        "detail": "外媒爆料，蘋果（AAPL）正開發一款搭載機械手臂的智慧家庭裝置，配備約9吋螢幕，能透過語音辨識技術自動轉向說話者，最快可能在2027年亮相。"
+        "date": "11月10日",
+        "title": "消費者物價指數（CPI）",
+        "detail": "美國將公布10月消費者物價指數（CPI）數據。"
+      },
+      {
+        "date": "本週四",
+        "title": "新屋開工與建照",
+        "detail": "美國將公布9月新屋開工與建照數據。"
       }
     ]
   }
