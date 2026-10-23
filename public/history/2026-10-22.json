@@ -6,7 +6,7 @@
       "price": 144.75,
       "changePercent": -9.139413721674723,
       "dollarVolume": 29393701592.946724,
-      "marketCap": 1908062647038.75,
+      "marketCap": 1965560250000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
       "theme": "太空科技",
       "isNew": false,
@@ -190,7 +190,7 @@
       "dollarVolume": 6811538580.739891,
       "marketCap": 2138642553900,
       "sector": "—",
-      "theme": "半導體製造",
+      "theme": "晶圓代工",
       "isNew": false,
       "rankChange": 2,
       "streak": 157
@@ -242,7 +242,7 @@
       "dollarVolume": 5110416908.1520195,
       "marketCap": 64139220138.420006,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "能源技術",
+      "theme": "潔淨能源",
       "isNew": false,
       "rankChange": 12,
       "streak": 37
@@ -528,7 +528,7 @@
       "dollarVolume": 2888614291.7142777,
       "marketCap": 237521501062.90002,
       "sector": "COMPUTER & OFFICE EQUIPMENT",
-      "theme": "企業服務",
+      "theme": "企業軟體",
       "isNew": false,
       "rankChange": -5,
       "streak": 2
@@ -606,7 +606,7 @@
       "dollarVolume": 2632033180.8547926,
       "marketCap": 40926234918.119995,
       "sector": "OPTICAL INSTRUMENTS & LENSES",
-      "theme": "光學儀器",
+      "theme": "光學元件",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-10-22T20:00:00.000Z",
-  "generatedAt": "2026-10-23T07:51:20.859Z",
+  "generatedAt": "2026-10-23T09:53:43.683Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "生技製藥",
-      "reason": "市場對醫療健康產業的穩定需求以及新藥研發的潛力持續吸引資金關注。",
+      "reason": "市場對醫療保健產業的防禦性需求以及新藥研發進展持續關注。",
       "symbols": [
         "LLY",
         "JNJ"
@@ -668,7 +668,7 @@
     },
     {
       "theme": "零售百貨",
-      "reason": "消費者支出數據表現穩健，支撐了零售業的成長預期。",
+      "reason": "在通膨壓力下，消費者對日常必需品和折扣零售的需求保持穩定。",
       "symbols": [
         "WMT",
         "COST"
@@ -678,7 +678,7 @@
     },
     {
       "theme": "串流媒體",
-      "reason": "串流媒體服務訂閱人數增長及內容策略調整，提振了投資人信心。",
+      "reason": "訂閱用戶增長和內容策略調整，提振了投資者對串流媒體服務的信心。",
       "symbols": [
         "NFLX",
         "SPOT"
@@ -688,7 +688,7 @@
     },
     {
       "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型需求持續，推動雲端軟體服務的穩定增長。",
+      "reason": "企業數位轉型趨勢不變，對雲端軟體服務的需求持續增長。",
       "symbols": [
         "NOW"
       ],
@@ -696,17 +696,17 @@
       "avgChange": 2.5339602925809794
     },
     {
-      "theme": "資安",
-      "reason": "網路安全威脅日益增加，企業對資安解決方案的需求強勁。",
+      "theme": "消費性電子",
+      "reason": "新產品發表和市場份額穩定，支撐了大型消費性電子公司的表現。",
       "symbols": [
-        "PANW"
+        "AAPL"
       ],
       "count": 1,
-      "avgChange": 2.208783297336218
+      "avgChange": 1.2296869095031886
     },
     {
       "theme": "民生消費",
-      "reason": "在經濟不確定性下，民生必需品產業展現出較強的防禦性。",
+      "reason": "在經濟不確定性下，民生必需品產業展現出較強的抗跌性。",
       "symbols": [
         "PG"
       ],
@@ -720,96 +720,112 @@
       "name": "Procter & Gamble Company",
       "theme": "民生消費",
       "changePercent": 5.5789339454220865,
-      "reason": "財報優於預期，營收和調整後每股盈餘均超出分析師預估。"
+      "reason": "第一財季業績強於預期並上調2027財年銷售增長展望。"
     },
     {
       "symbol": "KLAC",
       "name": "KLA Corporation Common Stock",
       "theme": "半導體設備",
       "changePercent": -9.545371106895916,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "近期無明確個股消息，可能受半導體產業整體下跌影響。"
     },
     {
       "symbol": "COST",
       "name": "Costco Wholesale Corp",
       "theme": "零售百貨",
       "changePercent": 1.9933687932606197,
-      "reason": "分析師調升目標價，且有潛在股票分割消息帶動市場情緒。"
+      "reason": "近期無明確個股消息，股價上漲可能受分析師評級帶動。"
     },
     {
       "symbol": "MRK",
       "name": "Merck & Co., Inc.",
       "theme": "生技製藥",
       "changePercent": -1.7614091273018324,
-      "reason": "與Moderna合作的黑色素瘤mRNA療法三期試驗結果良好。"
+      "reason": "黑色素瘤疫苗數據提前洩露，引發獲利了結。"
     },
     {
       "symbol": "SPOT",
       "name": "Spotify Technology S.A.",
       "theme": "串流媒體",
       "changePercent": 11.101381962157827,
-      "reason": "第三季財報表現強勁，付費訂閱用戶數和營收均優於預期。"
+      "reason": "第三季度付費訂戶增長超預期，第四季度財測樂觀。"
     },
     {
       "symbol": "JNJ",
       "name": "Johnson & Johnson",
       "theme": "生技製藥",
       "changePercent": 3.8133291954379867,
-      "reason": "公布多項新藥臨床數據與新產品上市，並獲選時代雜誌最佳發明。"
+      "reason": "第三季度營收和調整後EPS超出預期，但醫療科技部門銷售不及預期。"
     },
     {
       "symbol": "COHR",
       "name": "Coherent Corp.",
-      "theme": "光學儀器",
+      "theme": "光學元件",
       "changePercent": -12.50789373973814,
-      "reason": "受科技股整體下跌影響，AI光學類股賣壓沉重且分析師下調目標價。"
+      "reason": "受科技股拋售潮及分析師下調目標價影響。"
     },
     {
       "symbol": "QCOM",
       "name": "Qualcomm Inc",
       "theme": "通訊晶片",
       "changePercent": -2.8826702629804424,
-      "reason": "將進行全球裁員以提升績效，並面臨智慧型手機晶片需求逆風。"
+      "reason": "近期無明確個股消息，可能受大盤及半導體族群輪動帶動。"
     },
     {
       "symbol": "PANW",
       "name": "Palo Alto Networks, Inc. Common Stock",
       "theme": "資安",
       "changePercent": 2.208783297336218,
-      "reason": "受惠於AI資安需求強勁，分析師調升目標價，但有新競爭擔憂。"
+      "reason": "近期無明確個股消息，可能受資安題材及AI安全需求帶動。"
     },
     {
       "symbol": "ADI",
       "name": "Analog Devices, Inc.",
       "theme": "半導體製造",
       "changePercent": -4.97585969060991,
-      "reason": "收到非 solicited mini-tender offer，並將公布第四季財報。"
+      "reason": "近期無明確個股消息，可能受半導體族群輪動帶動。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI相關概念股與半導體產業，儘管市場對AI投資的持續性與高昂成本存在疑慮，但SpaceX亮眼的財報表現，特別是其AI業務的強勁增長，重新點燃了市場對AI的信心，帶動科技股與半導體類股反彈。 此外，特斯拉與SpaceX潛在的合併消息也引發市場關注。 然而，記憶體族群因勞資爭議和對AI題材降溫的擔憂而表現疲軟。",
+    "highlights": "本日美股成交重點在於AI相關類股的劇烈波動與資金轉向防禦性板塊。SpaceX（SPCX）雖公布亮眼財報，但因AI資本支出疑慮及與特斯拉（TSLA）潛在合併案的不確定性，股價大幅下跌。同時，輝達（NVDA）、美光（MU）、超微（AMD）等AI晶片股也普遍走弱，反映市場對AI投資報酬率的審慎態度。資金流向醫療保健等防禦性類股，生技製藥族群（如LLY、JNJ、MRNA）表現強勢，顯示市場在科技股估值承壓之際，尋求相對穩定的避風港。",
     "eventsPast": [
       {
-        "title": "SpaceX第三季財報亮眼，AI業務強勁增長",
-        "detail": "SpaceX公布上市後首份季度財報，營收年增161%達146億美元並轉虧為盈，其中超級智能部門收入暴增830%至76億美元，提振市場對AI相關股票的信心。"
+        "title": "SpaceX第三季營收年增161%，馬斯克暗示與特斯拉合併",
+        "detail": "SpaceX（SPCX）公布第三季營收達146億美元，年增161%，執行長馬斯克提出與特斯拉（TSLA）可能合併的構想，但市場對AI資本支出及合併案仍有疑慮，導致股價下跌。"
       },
       {
-        "title": "特斯拉第三季財報喜憂參半，AI投資成本引發擔憂",
-        "detail": "特斯拉第三季營收略低於預期，電動車業務衰退，且AI與機器人開發的巨額資本支出侵蝕獲利，導致盤後股價下跌。"
+        "title": "特斯拉Q3財報優於預期但電動車業務衰退，AI支出壓力大",
+        "detail": "特斯拉（TSLA）第三季財報整體業績優於預期，但核心電動車業務營收年減3%，且AI巨額資本支出侵蝕獲利，導致盤後股價走低。"
       },
       {
-        "title": "Meta第三季營收創新高，AI代理Muse用戶數突破千萬",
-        "detail": "Meta第三季營收年增26%至646億美元，並宣布發行無投票權的新類別股票，其AI代理Muse在推出六週內用戶數已突破千萬。"
+        "title": "Meta Q3營收年增26%，AI資本支出上看1450億美元",
+        "detail": "Meta Platforms（META）第三季營收達646.01億美元，年增26%，淨利年增264%，並預計全年AI資本支出上看1450億美元。"
       },
       {
-        "title": "輝達執行長黃仁勳反駁記憶體過剩論",
-        "detail": "黃仁勳表示，儘管市場擔憂記憶體供應過剩，但他認為到2029年記憶體市場不太可能出現供應過剩，且高頻寬記憶體（HBM）需求持續看旺。"
+        "title": "美光科技面臨半導體類股拋售壓力與台灣勞資談判",
+        "detail": "美光科技（MU）因整體半導體類股拋售潮、美債殖利率上升以及台灣廠區的勞資談判，面臨股價下行壓力。"
       },
       {
-        "title": "美國上週初領失業金人數下降，就業市場仍呈低招聘、低裁員",
-        "detail": "截至10月17日當週，美國初領失業金人數降至19.4萬人，創三個月新低，顯示企業裁員情況仍低，但續領人數增加反映就業市場「低招聘、低裁員」格局。"
+        "title": "美國上周初領失業金人數降至19.4萬，創三個月新低",
+        "detail": "美國勞工部公布截至10月17日當周的初領失業金人數降至19.4萬人，低於預期，顯示企業尚未普遍裁員，但續領人數增加反映就業市場「低招聘、低裁員」格局。"
       }
     ],
-    "eventsUpcoming": []
+    "eventsUpcoming": [
+      {
+        "date": "10/28",
+        "title": "微軟（MSFT）財報公布",
+        "detail": "微軟（MSFT）預計將於10月28日公布財報，市場預期其股價可能波動4.6%。"
+      },
+      {
+        "date": "10/29",
+        "title": "Sandisk（SNDK）公布第一季財報",
+        "detail": "Sandisk（SNDK）預計將於10月29日公布2027財年第一季財報。"
+      },
+      {
+        "date": "11/6",
+        "title": "美國非農就業人口變動數據公布",
+        "detail": "美國勞工部將於11月6日公布非農就業人口變動數據，此數據對美元、債券市場和股票市場有重大影響。"
+      }
+    ]
   }
 }
