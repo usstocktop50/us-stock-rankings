@@ -47,7 +47,7 @@
       "dollarVolume": 26501624985.279472,
       "marketCap": 1430797633064.6501,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "社群媒體/元宇宙",
+      "theme": "社群媒體",
       "isNew": false,
       "rankChange": -2,
       "streak": 157
@@ -112,7 +112,7 @@
       "dollarVolume": 12278664259.947319,
       "marketCap": 2700677192157.36,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電子商務/雲端服務",
+      "theme": "電子商務",
       "isNew": false,
       "rankChange": 1,
       "streak": 157
@@ -164,7 +164,7 @@
       "dollarVolume": 9133671905.392933,
       "marketCap": 1543028117562.6,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體網路通訊",
+      "theme": "半導體製造",
       "isNew": false,
       "rankChange": 2,
       "streak": 157
@@ -177,7 +177,7 @@
       "dollarVolume": 9041681180.002636,
       "marketCap": 1902522960000.0002,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "網路搜尋/雲端服務",
+      "theme": "網路服務",
       "isNew": false,
       "rankChange": -6,
       "streak": 157
@@ -190,7 +190,7 @@
       "dollarVolume": 6811538580.739891,
       "marketCap": 2138642553900,
       "sector": "—",
-      "theme": "晶圓代工",
+      "theme": "半導體製造",
       "isNew": false,
       "rankChange": 2,
       "streak": 157
@@ -203,7 +203,7 @@
       "dollarVolume": 6792117410.894775,
       "marketCap": 1772840520000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "網路搜尋/雲端服務",
+      "theme": "網路服務",
       "isNew": false,
       "rankChange": -2,
       "streak": 157
@@ -216,7 +216,7 @@
       "dollarVolume": 5626511522.657598,
       "marketCap": 200833519867.11,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體網路通訊",
+      "theme": "半導體製造",
       "isNew": false,
       "rankChange": 4,
       "streak": 147
@@ -242,7 +242,7 @@
       "dollarVolume": 5110416908.1520195,
       "marketCap": 64139220138.420006,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "氫燃料電池",
+      "theme": "能源技術",
       "isNew": false,
       "rankChange": 12,
       "streak": 37
@@ -294,7 +294,7 @@
       "dollarVolume": 4738852803.479954,
       "marketCap": 68167222454.24,
       "sector": "COMMUNICATIONS EQUIPMENT, NEC",
-      "theme": "光通訊元件",
+      "theme": "光通訊",
       "isNew": false,
       "rankChange": 4,
       "streak": 75
@@ -333,7 +333,7 @@
       "dollarVolume": 4536840297.092173,
       "marketCap": 471456043191.2,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "大數據分析",
+      "theme": "數據分析",
       "isNew": false,
       "rankChange": -8,
       "streak": 157
@@ -346,7 +346,7 @@
       "dollarVolume": 4203901047.459941,
       "marketCap": 34932258056.96,
       "sector": "—",
-      "theme": "雲端服務",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": -3,
       "streak": 82
@@ -372,7 +372,7 @@
       "dollarVolume": 3896034453.425797,
       "marketCap": 255252728237,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "類比IC",
+      "theme": "半導體製造",
       "isNew": false,
       "rankChange": 0,
       "streak": 5
@@ -411,7 +411,7 @@
       "dollarVolume": 3475653368.741996,
       "marketCap": 1230061863264.85,
       "sector": "PHARMACEUTICAL PREPARATIONS",
-      "theme": "減肥藥 GLP-1",
+      "theme": "生技製藥",
       "isNew": false,
       "rankChange": 5,
       "streak": 8
@@ -463,7 +463,7 @@
       "dollarVolume": 3121126562.9621625,
       "marketCap": 770152992012.17,
       "sector": "FIRE, MARINE & CASUALTY INSURANCE",
-      "theme": "多元控股",
+      "theme": "金融保險",
       "isNew": false,
       "rankChange": -2,
       "streak": 4
@@ -476,7 +476,7 @@
       "dollarVolume": 3096947120.243803,
       "marketCap": 192919109712.36002,
       "sector": "OPTICAL INSTRUMENTS & LENSES",
-      "theme": "半導體檢測設備",
+      "theme": "半導體設備",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -528,7 +528,7 @@
       "dollarVolume": 2888614291.7142777,
       "marketCap": 237521501062.90002,
       "sector": "COMPUTER & OFFICE EQUIPMENT",
-      "theme": "企業軟體/IT服務",
+      "theme": "企業服務",
       "isNew": false,
       "rankChange": -5,
       "streak": 2
@@ -606,7 +606,7 @@
       "dollarVolume": 2632033180.8547926,
       "marketCap": 40926234918.119995,
       "sector": "OPTICAL INSTRUMENTS & LENSES",
-      "theme": "光學元件",
+      "theme": "光學儀器",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -619,7 +619,7 @@
       "dollarVolume": 2620815615.7708173,
       "marketCap": 184554701994.81003,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "手機晶片",
+      "theme": "通訊晶片",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -645,51 +645,50 @@
       "dollarVolume": 2561483163.139176,
       "marketCap": 186925973778.4,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "類比IC",
+      "theme": "半導體製造",
       "isNew": true,
       "rankChange": null,
       "streak": 1
     }
   ],
   "asOf": "2026-10-22T20:00:00.000Z",
-  "generatedAt": "2026-10-23T05:30:53.554Z",
+  "generatedAt": "2026-10-23T07:51:20.859Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
-      "theme": "串流媒體",
-      "reason": "串流媒體服務訂閱人數持續增長，市場對其未來營收表現抱持樂觀態度。",
-      "symbols": [
-        "SPOT",
-        "NFLX"
-      ],
-      "count": 2,
-      "avgChange": 7.095893933108426
-    },
-    {
       "theme": "生技製藥",
-      "reason": "大型製藥公司持續有新藥研發進展或併購消息，帶動市場對其未來成長的預期。",
+      "reason": "市場對醫療健康產業的穩定需求以及新藥研發的潛力持續吸引資金關注。",
       "symbols": [
-        "JNJ",
-        "LLY"
+        "LLY",
+        "JNJ"
       ],
       "count": 2,
       "avgChange": 3.320790114146302
     },
     {
       "theme": "零售百貨",
-      "reason": "在通膨趨緩與消費力道回穩的預期下，大型零售商的營運展望受到市場肯定。",
+      "reason": "消費者支出數據表現穩健，支撐了零售業的成長預期。",
       "symbols": [
-        "PG",
         "WMT",
         "COST"
       ],
-      "count": 3,
-      "avgChange": 3.4635463005569425
+      "count": 2,
+      "avgChange": 2.4058524781243706
+    },
+    {
+      "theme": "串流媒體",
+      "reason": "串流媒體服務訂閱人數增長及內容策略調整，提振了投資人信心。",
+      "symbols": [
+        "NFLX",
+        "SPOT"
+      ],
+      "count": 2,
+      "avgChange": 7.095893933108426
     },
     {
       "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型需求不減，SaaS 服務持續提供穩定的訂閱收入與成長潛力。",
+      "reason": "企業數位轉型需求持續，推動雲端軟體服務的穩定增長。",
       "symbols": [
         "NOW"
       ],
@@ -698,7 +697,7 @@
     },
     {
       "theme": "資安",
-      "reason": "網路攻擊事件頻傳，企業對資安防護的需求日益增加，推動資安服務供應商的成長。",
+      "reason": "網路安全威脅日益增加，企業對資安解決方案的需求強勁。",
       "symbols": [
         "PANW"
       ],
@@ -706,13 +705,13 @@
       "avgChange": 2.208783297336218
     },
     {
-      "theme": "消費性電子",
-      "reason": "儘管整體市場疲軟，部分消費性電子巨頭仍能透過創新產品或服務維持市場份額。",
+      "theme": "民生消費",
+      "reason": "在經濟不確定性下，民生必需品產業展現出較強的防禦性。",
       "symbols": [
-        "AAPL"
+        "PG"
       ],
       "count": 1,
-      "avgChange": 1.2296869095031886
+      "avgChange": 5.5789339454220865
     }
   ],
   "newEntrants": [
@@ -721,12 +720,12 @@
       "name": "Procter & Gamble Company",
       "theme": "民生消費",
       "changePercent": 5.5789339454220865,
-      "reason": "財報優於預期且上調全年銷售展望，提振投資人信心。"
+      "reason": "財報優於預期，營收和調整後每股盈餘均超出分析師預估。"
     },
     {
       "symbol": "KLAC",
       "name": "KLA Corporation Common Stock",
-      "theme": "半導體檢測設備",
+      "theme": "半導體設備",
       "changePercent": -9.545371106895916,
       "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
@@ -735,108 +734,82 @@
       "name": "Costco Wholesale Corp",
       "theme": "零售百貨",
       "changePercent": 1.9933687932606197,
-      "reason": "分析師看好其會員制增長故事，儘管估值偏高仍獲買盤青睞。"
+      "reason": "分析師調升目標價，且有潛在股票分割消息帶動市場情緒。"
     },
     {
       "symbol": "MRK",
       "name": "Merck & Co., Inc.",
       "theme": "生技製藥",
       "changePercent": -1.7614091273018324,
-      "reason": "與Moderna合作的黑色素瘤疫苗三期數據雖正面，但股價出現「利多出盡」反應。"
+      "reason": "與Moderna合作的黑色素瘤mRNA療法三期試驗結果良好。"
     },
     {
       "symbol": "SPOT",
       "name": "Spotify Technology S.A.",
       "theme": "串流媒體",
       "changePercent": 11.101381962157827,
-      "reason": "第三季財報表現穩健，訂閱用戶數超預期，並上調第四季財測。"
+      "reason": "第三季財報表現強勁，付費訂閱用戶數和營收均優於預期。"
     },
     {
       "symbol": "JNJ",
       "name": "Johnson & Johnson",
       "theme": "生技製藥",
       "changePercent": 3.8133291954379867,
-      "reason": "發布心房顫動治療平台數據，並推出新一代冠狀動脈IVL導管。"
+      "reason": "公布多項新藥臨床數據與新產品上市，並獲選時代雜誌最佳發明。"
     },
     {
       "symbol": "COHR",
       "name": "Coherent Corp.",
-      "theme": "光學元件",
+      "theme": "光學儀器",
       "changePercent": -12.50789373973814,
-      "reason": "科技股普遍下跌，AI光學元件領域賣壓加劇，分析師下調目標價。"
+      "reason": "受科技股整體下跌影響，AI光學類股賣壓沉重且分析師下調目標價。"
     },
     {
       "symbol": "QCOM",
       "name": "Qualcomm Inc",
-      "theme": "手機晶片",
+      "theme": "通訊晶片",
       "changePercent": -2.8826702629804424,
-      "reason": "TD Cowen上調評級至「買進」並提高目標價，ETF資金流入提供支撐。"
+      "reason": "將進行全球裁員以提升績效，並面臨智慧型手機晶片需求逆風。"
     },
     {
       "symbol": "PANW",
       "name": "Palo Alto Networks, Inc. Common Stock",
       "theme": "資安",
       "changePercent": 2.208783297336218,
-      "reason": "受惠於AI資安需求，分析師上調目標價，股價接近52週新高。"
+      "reason": "受惠於AI資安需求強勁，分析師調升目標價，但有新競爭擔憂。"
     },
     {
       "symbol": "ADI",
       "name": "Analog Devices, Inc.",
-      "theme": "類比IC",
+      "theme": "半導體製造",
       "changePercent": -4.97585969060991,
-      "reason": "半導體產業獲利了結壓力及估值敏感性，導致股價下跌。"
+      "reason": "收到非 solicited mini-tender offer，並將公布第四季財報。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI相關個股與半導體族群，但市場情緒呈現分歧。SpaceX（SPCX）因其亮眼的財報和AI業務的強勁增長而受到資金追捧，甚至傳出與特斯拉（TSLA）合併的可能性，帶動了部分買氣。然而，整體市場對於AI龐大投資的回報和融資需求存在疑慮，加上Meta（META）財報揭露的巨額AI支出，引發了晶片股的普遍拋售，費城半導體指數重挫。此外，記憶體族群也因對供應過剩的擔憂而走弱。資安類股則因美國頂級資安機構對AI網路威脅的警示而逆勢上揚，顯示資金在不確定性中尋求防禦性配置。",
+    "highlights": "本日美股成交重點聚焦於AI相關概念股與半導體產業，儘管市場對AI投資的持續性與高昂成本存在疑慮，但SpaceX亮眼的財報表現，特別是其AI業務的強勁增長，重新點燃了市場對AI的信心，帶動科技股與半導體類股反彈。 此外，特斯拉與SpaceX潛在的合併消息也引發市場關注。 然而，記憶體族群因勞資爭議和對AI題材降溫的擔憂而表現疲軟。",
     "eventsPast": [
       {
-        "title": "SpaceX第三季財報亮眼，AI業務勁增",
-        "detail": "SpaceX公布上市後首份季度財報，營收年增161%，淨利達44億美元，其中超級智能部門收入暴增830%，主要來自資料中心運算容量出租給AI業者。"
+        "title": "SpaceX第三季財報亮眼，AI業務強勁增長",
+        "detail": "SpaceX公布上市後首份季度財報，營收年增161%達146億美元並轉虧為盈，其中超級智能部門收入暴增830%至76億美元，提振市場對AI相關股票的信心。"
       },
       {
-        "title": "特斯拉財報優於預期，但下修資本支出",
-        "detail": "特斯拉第三季營收和獲利均超預期，但下調全年資本支出預估至200億美元，引發市場對AI晶片需求降溫的疑慮。"
+        "title": "特斯拉第三季財報喜憂參半，AI投資成本引發擔憂",
+        "detail": "特斯拉第三季營收略低於預期，電動車業務衰退，且AI與機器人開發的巨額資本支出侵蝕獲利，導致盤後股價下跌。"
       },
       {
-        "title": "Meta財報揭露巨額AI支出，引發市場擔憂",
-        "detail": "Meta第三季營收創新高，但揭露未來新增數十億美元的AI支出承諾，並計劃發行無表決權股票籌資，導致自由現金流轉負，引發市場對AI投資回報的疑慮。"
+        "title": "Meta第三季營收創新高，AI代理Muse用戶數突破千萬",
+        "detail": "Meta第三季營收年增26%至646億美元，並宣布發行無投票權的新類別股票，其AI代理Muse在推出六週內用戶數已突破千萬。"
       },
       {
-        "title": "半導體股因AI支出疑慮普遍下挫",
-        "detail": "受Meta加碼AI支出計畫影響，市場對AI投資回報的擔憂加劇，導致費城半導體指數重挫6.7%，Nvidia、AMD、Intel、Micron、SanDisk、TSM等晶片股普遍下跌。"
+        "title": "輝達執行長黃仁勳反駁記憶體過剩論",
+        "detail": "黃仁勳表示，儘管市場擔憂記憶體供應過剩，但他認為到2029年記憶體市場不太可能出現供應過剩，且高頻寬記憶體（HBM）需求持續看旺。"
       },
       {
-        "title": "PHP重大資安漏洞引發資安類股上漲",
-        "detail": "PHP開發團隊公布兩項嚴重安全漏洞，可能允許未經身份驗證的攻擊者遠端執行程式碼，引發市場對資訊安全的高度關注，帶動Palo Alto Networks等資安類股上揚。"
+        "title": "美國上週初領失業金人數下降，就業市場仍呈低招聘、低裁員",
+        "detail": "截至10月17日當週，美國初領失業金人數降至19.4萬人，創三個月新低，顯示企業裁員情況仍低，但續領人數增加反映就業市場「低招聘、低裁員」格局。"
       }
     ],
-    "eventsUpcoming": [
-      {
-        "date": "本週四",
-        "title": "美國商務部擬資助功率半導體與關鍵材料研發",
-        "detail": "美國商務部將向四家公司提供最高3.89億美元研發資金，支持先進功率半導體與關鍵材料技術，應用涵蓋核融合發電及AI資料中心。"
-      },
-      {
-        "date": "未來幾天",
-        "title": "SpaceX股票解禁",
-        "detail": "SpaceX於10月22日迎來大規模股票解禁，最多約13億股股票解除禁售限制，另有約3.29億股將在10月26日進入可交易狀態，短期內可能帶來賣壓。"
-      },
-      {
-        "date": "未來幾天",
-        "title": "西部數據（WDC）財報",
-        "detail": "西部數據將公布2026財年第一季財報，其NAND Flash出貨量與ASP走勢將直接反映數據中心AI儲存採購動能，以及消費性電子庫存去化進度，可能影響美光（MU）等同業股價。"
-      },
-      {
-        "date": "未來幾天",
-        "title": "輝達（NVDA）執行長黃仁勳對記憶體市場看法",
-        "detail": "輝達執行長黃仁勳表示，到2029年記憶體市場不太可能出現供應過剩，高頻寬記憶體（HBM）需求持續看旺，可能為美光（MU）等記憶體大廠帶來轉機。"
-      },
-      {
-        "date": "2027年底前",
-        "title": "特斯拉與SpaceX潛在合併案",
-        "detail": "特斯拉執行長馬斯克透露，SpaceX與特斯拉已成立特別委員會，討論潛在合併事宜，CFRA分析師預計可能在2027年底前完成。"
-      }
-    ]
+    "eventsUpcoming": []
   }
 }
