@@ -138,7 +138,7 @@
       "dollarVolume": 6353413790.866173,
       "marketCap": 2675005765856,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電子商務/雲端",
+      "theme": "電子商務/雲端服務",
       "isNew": false,
       "rankChange": -2,
       "streak": 158
@@ -151,7 +151,7 @@
       "dollarVolume": 6253658148.904054,
       "marketCap": 438626239999.99994,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體製造",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": -2,
       "streak": 158
@@ -164,7 +164,7 @@
       "dollarVolume": 5655254454.187736,
       "marketCap": 1878992280000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "搜尋引擎/雲端",
+      "theme": "搜尋引擎/雲端服務",
       "isNew": false,
       "rankChange": 1,
       "streak": 158
@@ -177,7 +177,7 @@
       "dollarVolume": 5152689683.554639,
       "marketCap": 1535581254973.2,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網路晶片",
+      "theme": "網通晶片",
       "isNew": false,
       "rankChange": -1,
       "streak": 158
@@ -242,7 +242,7 @@
       "dollarVolume": 3460965436.967766,
       "marketCap": 1753606559999.9998,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "搜尋引擎/雲端",
+      "theme": "搜尋引擎/雲端服務",
       "isNew": false,
       "rankChange": -3,
       "streak": 158
@@ -255,7 +255,7 @@
       "dollarVolume": 3454977086.0536203,
       "marketCap": 472801755940,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "數據分析/AI",
+      "theme": "大數據分析",
       "isNew": false,
       "rankChange": 6,
       "streak": 158
@@ -307,7 +307,7 @@
       "dollarVolume": 2974240854.8601933,
       "marketCap": 205362991116.63,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網路晶片",
+      "theme": "網通晶片",
       "isNew": false,
       "rankChange": -7,
       "streak": 148
@@ -424,7 +424,7 @@
       "dollarVolume": 2421123701.0165825,
       "marketCap": 444600538438.68,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售",
+      "theme": "零售百貨",
       "isNew": false,
       "rankChange": 9,
       "streak": 2
@@ -476,7 +476,7 @@
       "dollarVolume": 2232556956.561987,
       "marketCap": 951176836833.49,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售",
+      "theme": "零售百貨",
       "isNew": false,
       "rankChange": -4,
       "streak": 9
@@ -489,7 +489,7 @@
       "dollarVolume": 2164604823.379959,
       "marketCap": 34837888069.12,
       "sector": "—",
-      "theme": "雲端軟體 SaaS",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": -11,
       "streak": 83
@@ -502,7 +502,7 @@
       "dollarVolume": 2136446345.2899878,
       "marketCap": 259992483727.34,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "類比IC",
+      "theme": "類比晶片",
       "isNew": false,
       "rankChange": -10,
       "streak": 6
@@ -528,7 +528,7 @@
       "dollarVolume": 2102735039.1115391,
       "marketCap": 753343390191.6,
       "sector": "PETROLEUM REFINING",
-      "theme": "石油/天然氣",
+      "theme": "石油天然氣",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -580,7 +580,7 @@
       "dollarVolume": 1896721029.3004124,
       "marketCap": 27683438002.219997,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "高速傳輸晶片",
+      "theme": "網通晶片",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -593,7 +593,7 @@
       "dollarVolume": 1890007376.0098605,
       "marketCap": 460769618809.54004,
       "sector": "PETROLEUM REFINING",
-      "theme": "石油/天然氣",
+      "theme": "石油天然氣",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -606,7 +606,7 @@
       "dollarVolume": 1862409822.5737195,
       "marketCap": 296369356213.32,
       "sector": "ELECTRONIC & OTHER ELECTRICAL EQUIPMENT (NO COMPUTER EQUIP)",
-      "theme": "工業集團",
+      "theme": "航空航太",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -645,20 +645,20 @@
       "dollarVolume": 1696038065.862444,
       "marketCap": 166457021067.7,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "IT 顧問服務",
+      "theme": "IT 諮詢服務",
       "isNew": true,
       "rankChange": null,
       "streak": 1
     }
   ],
   "asOf": "2026-10-23T20:00:00.000Z",
-  "generatedAt": "2026-10-24T05:13:02.227Z",
+  "generatedAt": "2026-10-24T07:36:28.597Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "資安",
-      "reason": "網路安全威脅日益增加，企業對資安解決方案的需求持續成長，推動相關軟體服務股表現強勁。",
+      "reason": "網路安全威脅日益增加，企業對資安解決方案的需求持續成長，推動相關軟體服務股表現。",
       "symbols": [
         "CRWD",
         "PANW"
@@ -668,7 +668,7 @@
     },
     {
       "theme": "記憶體",
-      "reason": "AI 應用對高頻寬記憶體（HBM）的需求激增，帶動記憶體產業景氣復甦預期，相關個股表現亮眼。",
+      "reason": "市場預期記憶體需求復甦，特別是HBM在AI領域的應用前景看好，帶動相關個股上漲。",
       "symbols": [
         "MU",
         "SKHY"
@@ -677,8 +677,8 @@
       "avgChange": 3.253128424689133
     },
     {
-      "theme": "石油/天然氣",
-      "reason": "全球能源需求穩定，加上地緣政治因素影響，油價維持高檔，有利於能源類股獲利。",
+      "theme": "石油天然氣",
+      "reason": "國際油價波動或地緣政治因素影響，推升能源類股表現。",
       "symbols": [
         "XOM",
         "CVX"
@@ -688,7 +688,7 @@
     },
     {
       "theme": "AI 晶片",
-      "reason": "AI 產業持續高速發展，對高效能運算晶片的需求不斷攀升，相關供應商受市場追捧。",
+      "reason": "AI技術持續發展，市場對高效能AI晶片的需求旺盛，相關供應商受惠。",
       "symbols": [
         "AMD"
       ],
@@ -697,7 +697,7 @@
     },
     {
       "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型趨勢不變，對雲端軟體服務的需求持續增長，推動相關公司營收成長。",
+      "reason": "企業數位轉型趨勢不變，對雲端軟體服務的需求穩定增長。",
       "symbols": [
         "MSFT",
         "ORCL",
@@ -707,13 +707,13 @@
       "avgChange": 0.8001741312244267
     },
     {
-      "theme": "太空",
-      "reason": "太空探索與商業化進程加速，市場對太空科技的未來發展抱持樂觀態度。",
+      "theme": "網通晶片",
+      "reason": "數據中心和網路基礎設施升級需求，推動高速網通晶片市場成長。",
       "symbols": [
-        "SPCX"
+        "MRVL"
       ],
       "count": 1,
-      "avgChange": 1.892918825561319
+      "avgChange": 2.255336286749896
     }
   ],
   "newEntrants": [
@@ -722,122 +722,88 @@
       "name": "CrowdStrike Holdings, Inc. Class A Common Stock",
       "theme": "資安",
       "changePercent": 8.249978986299066,
-      "reason": "Evercore ISI報告點名AI驅動安全支出受益者，加上PHP漏洞披露。"
+      "reason": "歐洲政府網站因PHP漏洞癱瘓，資安股受追捧。"
     },
     {
       "symbol": "VZ",
       "name": "Verizon Communications",
       "theme": "電信服務",
       "changePercent": -1.1946902654867393,
-      "reason": "市場預期第三季財報穩健，受惠於逢低承接買盤。"
+      "reason": "Verizon將於下週一公布財報，市場關注其用戶增長能否抵禦SpaceX競爭。"
     },
     {
       "symbol": "T",
       "name": "AT&T Inc.",
       "theme": "電信服務",
       "changePercent": -7.959542656112571,
-      "reason": "財報優於預期但資本支出疑慮與SpaceX競爭加劇。"
+      "reason": "AT&T公布第三季財報，營收增長強勁但淨負債上升，股價下跌。"
     },
     {
       "symbol": "XOM",
       "name": "ExxonMobil Holdings Corporation",
-      "theme": "石油/天然氣",
+      "theme": "石油天然氣",
       "changePercent": 2.794142400269325,
-      "reason": "即將公布第三季財報，市場關注其表現。"
+      "reason": "油價上漲，市場預期美國可能再次襲擊伊朗，提振石油天然氣股。"
     },
     {
       "symbol": "CAT",
       "name": "Caterpillar Inc.",
       "theme": "重型機械",
       "changePercent": -2.4217030040480014,
-      "reason": "近期股價技術面轉弱，跌破均線且賣壓沉重。"
+      "reason": "Caterpillar將於10月29日公布第三季財報，並宣布高層變動及投資計畫。"
     },
     {
       "symbol": "CRDO",
       "name": "Credo Technology Group Holding Ltd Ordinary Shares",
-      "theme": "高速傳輸晶片",
+      "theme": "網通晶片",
       "changePercent": -9.510352030472456,
-      "reason": "技術指標轉弱，股價重挫，賣壓急增。"
+      "reason": "MaxLinear點名Credo在電纜市場主導地位，但Credo股價下跌。"
     },
     {
       "symbol": "CVX",
       "name": "Chevron Corporation",
-      "theme": "石油/天然氣",
+      "theme": "石油天然氣",
       "changePercent": 2.8807128992412214,
-      "reason": "即將公布第三季財報，並傳出出售部分資產。"
+      "reason": "油價上漲，市場預期美國可能再次襲擊伊朗，提振石油天然氣股。"
     },
     {
       "symbol": "GE",
       "name": "GE Aerospace",
-      "theme": "工業集團",
+      "theme": "航空航太",
       "changePercent": -2.6912856850855196,
-      "reason": "財報營收獲利優於預期，但自由現金流不如預期。"
+      "reason": "GE Aerospace第三季財報優於預期，但因噴射燃油價格上漲擔憂而下跌。"
     },
     {
       "symbol": "KO",
       "name": "Coca-Cola Company",
       "theme": "飲料",
       "changePercent": -2.7585483532620194,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "可口可樂將於10月27日公布財報，且KFC將改用可口可樂產品。"
     },
     {
       "symbol": "ACN",
       "name": "Accenture PLC",
-      "theme": "IT 顧問服務",
+      "theme": "IT 諮詢服務",
       "changePercent": -3.6213959959805226,
-      "reason": ""
+      "reason": "Accenture近期收購多家公司，並與Google、Dell合作拓展AI及數位轉型業務。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI相關題材的資金輪動與市場對未來展望的重新評估。記憶體類股（MU、SNDK）在經歷前幾日的重挫後，部分個股出現反彈，但整體市場對AI投資的持續性仍存疑慮。資安類股（CRWD、PANW）則因網路威脅警示和分析師看好而逆勢走強。AI晶片股（NVDA、AMD）則受到特斯拉下調資本支出和Meta增加AI投資等消息影響，呈現漲跌互見的局面，顯示市場正在權衡AI投資的成本與效益。",
+    "highlights": "本日美股成交重點集中在記憶體和AI晶片相關個股，其中SpaceX的強勁財報和與特斯拉合併的討論，帶動了太空和電動車題材的熱度。市場主要在交易AI產業鏈的整合與擴張故事，特別是馬斯克打造科技「全棧帝國」的野心，以及AI對高階記憶體需求的持續引爆，使得相關類股成為資金追逐的焦點。",
     "eventsPast": [
       {
-        "title": "Meta第三季營收優於預期，但自由現金流轉負並上調資本支出",
-        "detail": "Meta Platforms（META）公布第三季營收優於市場預期，但自由現金流轉負，且上調全年資本支出下限，引發投資人對AI投資規模與資金需求的擔憂，導致股價重挫近7%。"
+        "title": "SpaceX第三季財報亮眼",
+        "detail": "SpaceX第三季營收年增161%至146億美元，首次實現正營業利益，且AI業務營收超越低軌衛星網路與火箭發射業務。"
       },
       {
-        "title": "特斯拉下調全年資本支出預測，影響晶片類股",
-        "detail": "特斯拉（TSLA）將年度資本開支目標從超過250億美元下調至200億美元，此舉被視為拖累晶片類股下跌的因素之一，英特爾（INTC）、超微（AMD）、美光（MU）和SanDisk（SNDK）等股價均受影響。"
+        "title": "SpaceX與特斯拉討論合併可能性",
+        "detail": "馬斯克證實SpaceX與特斯拉的獨立董事特別委員會正在討論兩家公司合併的可能性。"
       },
       {
-        "title": "資安類股因網路威脅警示而走強",
-        "detail": "美國國家安全局（NSA）與聯邦調查局（FBI）罕見聯手發布網路安全警示，點名廣泛運用於PHP的網站面臨風險，引發市場對資訊安全的高度關注，帶動資安類股如Palo Alto Networks（PANW）和CrowdStrike（CRWD）股價走強。"
-      },
-      {
-        "title": "SpaceX第三季AI業務營收大幅增長",
-        "detail": "SpaceX（SPCX）第三季AI業務營收按季增長1.95倍，按年急增8.3倍至75.6億美元，首次超越連接業務成為最大收入來源，且執行長馬斯克確認正評估與特斯拉的潛在合併事宜，提振市場信心。"
-      },
-      {
-        "title": "西部數據（WDC）第一季財報優於預期",
-        "detail": "西部數據（WDC）公布2027財年第一季營收為43.8億美元，優於市場預期的41.5億美元，並對第二季提出樂觀展望，但仍未能完全抵銷AI投資熱潮轉弱帶來的衝擊。"
+        "title": "AI需求引爆記憶體行情",
+        "detail": "AI伺服器大量拉高高階記憶體需求，導致記憶體供不應求、價格持續上漲，影響消費性電子產品成本。"
       }
     ],
-    "eventsUpcoming": [
-      {
-        "date": "本週三",
-        "title": "美國FOMC利率決議會議",
-        "detail": "聯準會（Fed）將召開政策會議，市場將關注政策聲明中對通膨與經濟韌性的措辭變化，以判斷後續升息空間，可能影響市場流動性與科技股估值。"
-      },
-      {
-        "date": "未來幾天",
-        "title": "Alphabet、微軟、亞馬遜財報",
-        "detail": "Alphabet（GOOGL）、微軟（MSFT）和亞馬遜（AMZN）等科技巨頭將陸續公布財報，市場將檢視其在資料中心建設上的支出規模與AI投資回報。"
-      },
-      {
-        "date": "未來幾天",
-        "title": "甲骨文（ORCL）財報",
-        "detail": "甲骨文（ORCL）將公布財報，分析師將其視為「SaaS末日2.0」中處境艱難的公司，其業績將影響市場對雲端軟體SaaS板塊的看法。"
-      },
-      {
-        "date": "未來幾天",
-        "title": "記憶體與儲存裝置公司財報",
-        "detail": "記憶體（MU）和儲存裝置（SNDK、WDC）公司將陸續公布財報，市場將關注資料中心記憶體需求、企業級SSD以及硬碟業務的表現。"
-      },
-      {
-        "date": "未來幾天",
-        "title": "資安公司財報",
-        "detail": "資安公司（CRWD、PANW）將陸續公布財報，市場將關注其在AI時代網路安全需求增加下的業績表現。"
-      }
-    ]
+    "eventsUpcoming": []
   }
 }
