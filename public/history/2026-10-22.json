@@ -177,7 +177,7 @@
       "dollarVolume": 9041681180.002636,
       "marketCap": 1902522960000.0002,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "網路服務",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": -6,
       "streak": 157
@@ -190,7 +190,7 @@
       "dollarVolume": 6811538580.739891,
       "marketCap": 2138642553900,
       "sector": "—",
-      "theme": "晶圓代工",
+      "theme": "半導體製造",
       "isNew": false,
       "rankChange": 2,
       "streak": 157
@@ -203,7 +203,7 @@
       "dollarVolume": 6792117410.894775,
       "marketCap": 1772840520000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "網路服務",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": -2,
       "streak": 157
@@ -242,7 +242,7 @@
       "dollarVolume": 5110416908.1520195,
       "marketCap": 64139220138.420006,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "潔淨能源",
+      "theme": "能源技術",
       "isNew": false,
       "rankChange": 12,
       "streak": 37
@@ -346,7 +346,7 @@
       "dollarVolume": 4203901047.459941,
       "marketCap": 34932258056.96,
       "sector": "—",
-      "theme": "雲端軟體 SaaS",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": -3,
       "streak": 82
@@ -528,7 +528,7 @@
       "dollarVolume": 2888614291.7142777,
       "marketCap": 237521501062.90002,
       "sector": "COMPUTER & OFFICE EQUIPMENT",
-      "theme": "企業軟體",
+      "theme": "企業服務",
       "isNew": false,
       "rankChange": -5,
       "streak": 2
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-10-22T20:00:00.000Z",
-  "generatedAt": "2026-10-23T09:53:43.683Z",
+  "generatedAt": "2026-10-24T02:06:46.273Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "生技製藥",
-      "reason": "市場對醫療保健產業的防禦性需求以及新藥研發進展持續關注。",
+      "reason": "市場對新藥研發和臨床試驗成果保持樂觀，資金持續流入具備創新能力的藥廠。",
       "symbols": [
         "LLY",
         "JNJ"
@@ -667,18 +667,8 @@
       "avgChange": 3.320790114146302
     },
     {
-      "theme": "零售百貨",
-      "reason": "在通膨壓力下，消費者對日常必需品和折扣零售的需求保持穩定。",
-      "symbols": [
-        "WMT",
-        "COST"
-      ],
-      "count": 2,
-      "avgChange": 2.4058524781243706
-    },
-    {
       "theme": "串流媒體",
-      "reason": "訂閱用戶增長和內容策略調整，提振了投資者對串流媒體服務的信心。",
+      "reason": "串流媒體平台用戶增長和內容策略奏效，帶動市場信心。",
       "symbols": [
         "NFLX",
         "SPOT"
@@ -687,8 +677,18 @@
       "avgChange": 7.095893933108426
     },
     {
+      "theme": "零售百貨",
+      "reason": "消費者支出數據表現穩健，大型零售商營運狀況良好。",
+      "symbols": [
+        "WMT",
+        "COST"
+      ],
+      "count": 2,
+      "avgChange": 2.4058524781243706
+    },
+    {
       "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型趨勢不變，對雲端軟體服務的需求持續增長。",
+      "reason": "企業數位轉型需求持續，雲端軟體服務商的訂閱收入穩定增長。",
       "symbols": [
         "NOW"
       ],
@@ -696,22 +696,22 @@
       "avgChange": 2.5339602925809794
     },
     {
-      "theme": "消費性電子",
-      "reason": "新產品發表和市場份額穩定，支撐了大型消費性電子公司的表現。",
-      "symbols": [
-        "AAPL"
-      ],
-      "count": 1,
-      "avgChange": 1.2296869095031886
-    },
-    {
       "theme": "民生消費",
-      "reason": "在經濟不確定性下，民生必需品產業展現出較強的抗跌性。",
+      "reason": "在市場波動下，民生消費類股因其穩定的需求和現金流而受到資金青睞。",
       "symbols": [
         "PG"
       ],
       "count": 1,
       "avgChange": 5.5789339454220865
+    },
+    {
+      "theme": "資安",
+      "reason": "網路安全威脅日益增加，企業和政府對資安解決方案的需求持續成長。",
+      "symbols": [
+        "PANW"
+      ],
+      "count": 1,
+      "avgChange": 2.208783297336218
     }
   ],
   "newEntrants": [
@@ -720,63 +720,63 @@
       "name": "Procter & Gamble Company",
       "theme": "民生消費",
       "changePercent": 5.5789339454220865,
-      "reason": "第一財季業績強於預期並上調2027財年銷售增長展望。"
+      "reason": "財報優於預期，銷量成長強勁，且維持全年獲利指引。"
     },
     {
       "symbol": "KLAC",
       "name": "KLA Corporation Common Stock",
       "theme": "半導體設備",
       "changePercent": -9.545371106895916,
-      "reason": "近期無明確個股消息，可能受半導體產業整體下跌影響。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "COST",
       "name": "Costco Wholesale Corp",
       "theme": "零售百貨",
       "changePercent": 1.9933687932606197,
-      "reason": "近期無明確個股消息，股價上漲可能受分析師評級帶動。"
+      "reason": "分析師上調目標價，且拓展美容產品線，有望增加客流量與銷售。"
     },
     {
       "symbol": "MRK",
       "name": "Merck & Co., Inc.",
       "theme": "生技製藥",
       "changePercent": -1.7614091273018324,
-      "reason": "黑色素瘤疫苗數據提前洩露，引發獲利了結。"
+      "reason": "黑色素瘤疫苗三期試驗數據積極，歐洲批准Keytruda新組合療法。"
     },
     {
       "symbol": "SPOT",
       "name": "Spotify Technology S.A.",
       "theme": "串流媒體",
       "changePercent": 11.101381962157827,
-      "reason": "第三季度付費訂戶增長超預期，第四季度財測樂觀。"
+      "reason": "第三季訂閱戶成長超預期，第四季財測樂觀，並擴展有聲書市場。"
     },
     {
       "symbol": "JNJ",
       "name": "Johnson & Johnson",
       "theme": "生技製藥",
       "changePercent": 3.8133291954379867,
-      "reason": "第三季度營收和調整後EPS超出預期，但醫療科技部門銷售不及預期。"
+      "reason": "第三季財報優於預期，上調全年財測，並有新藥獲批與產品數據公布。"
     },
     {
       "symbol": "COHR",
       "name": "Coherent Corp.",
       "theme": "光學元件",
       "changePercent": -12.50789373973814,
-      "reason": "受科技股拋售潮及分析師下調目標價影響。"
+      "reason": "近期無明確個股消息，可能受AI與光學網路類股波動影響。"
     },
     {
       "symbol": "QCOM",
       "name": "Qualcomm Inc",
       "theme": "通訊晶片",
       "changePercent": -2.8826702629804424,
-      "reason": "近期無明確個股消息，可能受大盤及半導體族群輪動帶動。"
+      "reason": "宣布季度現金股利，並將於11月4日公布第四季財報。"
     },
     {
       "symbol": "PANW",
       "name": "Palo Alto Networks, Inc. Common Stock",
       "theme": "資安",
       "changePercent": 2.208783297336218,
-      "reason": "近期無明確個股消息，可能受資安題材及AI安全需求帶動。"
+      "reason": "近期無明確個股消息，可能受資安族群輪動帶動。"
     },
     {
       "symbol": "ADI",
@@ -787,44 +787,54 @@
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點在於AI相關類股的劇烈波動與資金轉向防禦性板塊。SpaceX（SPCX）雖公布亮眼財報，但因AI資本支出疑慮及與特斯拉（TSLA）潛在合併案的不確定性，股價大幅下跌。同時，輝達（NVDA）、美光（MU）、超微（AMD）等AI晶片股也普遍走弱，反映市場對AI投資報酬率的審慎態度。資金流向醫療保健等防禦性類股，生技製藥族群（如LLY、JNJ、MRNA）表現強勢，顯示市場在科技股估值承壓之際，尋求相對穩定的避風港。",
+    "highlights": "本日美股成交重點聚焦於科技股的劇烈波動，特別是AI晶片、記憶體及太空科技等領域。資金流向顯示市場對AI投資報酬率的擔憂加劇，導致多數熱門股下跌。SpaceX的財報利多出盡與特斯拉下調資本支出，引發了投資人獲利了結，並對AI基礎建設的資金持續性產生疑慮。此外，資安族群因PHP重大漏洞被AI工具發現而受到關注，資金轉向防禦性資安概念股。",
     "eventsPast": [
       {
-        "title": "SpaceX第三季營收年增161%，馬斯克暗示與特斯拉合併",
-        "detail": "SpaceX（SPCX）公布第三季營收達146億美元，年增161%，執行長馬斯克提出與特斯拉（TSLA）可能合併的構想，但市場對AI資本支出及合併案仍有疑慮，導致股價下跌。"
+        "title": "SpaceX財報利多出盡與併購預期降溫",
+        "detail": "SpaceX公布第三季營收大幅成長，但市場對其財測與與特斯拉合併的憧憬暫時降溫，導致股價重挫。"
       },
       {
-        "title": "特斯拉Q3財報優於預期但電動車業務衰退，AI支出壓力大",
-        "detail": "特斯拉（TSLA）第三季財報整體業績優於預期，但核心電動車業務營收年減3%，且AI巨額資本支出侵蝕獲利，導致盤後股價走低。"
+        "title": "特斯拉下調全年資本支出預測",
+        "detail": "特斯拉第三季財報優於預期，但公司將全年資本支出從250億美元下調至200億美元，引發市場對AI、機器人及自駕計程車業務推進速度的擔憂。"
       },
       {
-        "title": "Meta Q3營收年增26%，AI資本支出上看1450億美元",
-        "detail": "Meta Platforms（META）第三季營收達646.01億美元，年增26%，淨利年增264%，並預計全年AI資本支出上看1450億美元。"
+        "title": "Meta Platforms第三季營收獲利雙成長，AI資本支出受關注",
+        "detail": "Meta Platforms公布第三季營收年增26%，淨利年增264%，並預計全年AI資本支出上看1450億美元，但市場對其龐大AI投資成本及回收時間仍有疑慮。"
       },
       {
-        "title": "美光科技面臨半導體類股拋售壓力與台灣勞資談判",
-        "detail": "美光科技（MU）因整體半導體類股拋售潮、美債殖利率上升以及台灣廠區的勞資談判，面臨股價下行壓力。"
+        "title": "AI泡沫疑慮再起，晶片股集體下挫",
+        "detail": "特斯拉下調資本支出、科林研發財測不如預期，加上Meta籌資引發AI融資疑慮，導致Nvidia、AMD、Intel、Micron等AI晶片與記憶體股集體重挫。"
       },
       {
-        "title": "美國上周初領失業金人數降至19.4萬，創三個月新低",
-        "detail": "美國勞工部公布截至10月17日當周的初領失業金人數降至19.4萬人，低於預期，顯示企業尚未普遍裁員，但續領人數增加反映就業市場「低招聘、低裁員」格局。"
+        "title": "PHP重大資安漏洞被AI工具發現，資安股受追捧",
+        "detail": "全球廣泛使用的PHP程式語言爆出重大資安漏洞，且此漏洞由AI工具協助發現，促使資安防護需求急遽升溫，帶動Palo Alto Networks等資安概念股走強。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "10/28",
-        "title": "微軟（MSFT）財報公布",
-        "detail": "微軟（MSFT）預計將於10月28日公布財報，市場預期其股價可能波動4.6%。"
+        "date": "10/27-10/28",
+        "title": "聯邦公開市場委員會（FOMC）會議",
+        "detail": "聯準會將召開為期兩天的會議，討論貨幣政策，市場關注是否會再次調整利率區間。"
       },
       {
-        "date": "10/29",
-        "title": "Sandisk（SNDK）公布第一季財報",
-        "detail": "Sandisk（SNDK）預計將於10月29日公布2027財年第一季財報。"
+        "date": "本週四",
+        "title": "美國初領失業金人數",
+        "detail": "美國將公布初領失業金人數，市場預期為20萬人。"
       },
       {
-        "date": "11/6",
-        "title": "美國非農就業人口變動數據公布",
-        "detail": "美國勞工部將於11月6日公布非農就業人口變動數據，此數據對美元、債券市場和股票市場有重大影響。"
+        "date": "本週四",
+        "title": "美國9月領先經濟指標",
+        "detail": "美國將公布9月領先經濟指標。"
+      },
+      {
+        "date": "本週四",
+        "title": "美國堪薩斯城聯儲製造業指數",
+        "detail": "美國將公布堪薩斯城聯儲製造業指數。"
+      },
+      {
+        "date": "未來幾天",
+        "title": "記憶體類股財報",
+        "detail": "威騰電子、希捷與晟碟將陸續公布財報，市場將關注AI資料中心需求、DRAM與NAND價格趨勢以及未來業績指引。"
       }
     ]
   }
