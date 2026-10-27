@@ -34,7 +34,7 @@
       "dollarVolume": 19633440274.754574,
       "marketCap": 1396357695735.5198,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "社群媒體",
+      "theme": "社群媒體/元宇宙",
       "isNew": false,
       "rankChange": 4,
       "streak": 159
@@ -138,7 +138,7 @@
       "dollarVolume": 8146875283.198935,
       "marketCap": 2686762847649.48,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電商",
+      "theme": "電商/雲端服務",
       "isNew": false,
       "rankChange": 0,
       "streak": 159
@@ -151,7 +151,7 @@
       "dollarVolume": 7637904774.054023,
       "marketCap": 1858982400000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "搜尋引擎",
+      "theme": "搜尋引擎/雲端服務",
       "isNew": false,
       "rankChange": 1,
       "streak": 159
@@ -177,7 +177,7 @@
       "dollarVolume": 5355658880.593449,
       "marketCap": 1736528130000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "搜尋引擎",
+      "theme": "搜尋引擎/雲端服務",
       "isNew": false,
       "rankChange": 5,
       "streak": 159
@@ -216,7 +216,7 @@
       "dollarVolume": 4305432322.330504,
       "marketCap": 60290312020.88,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "燃料電池",
+      "theme": "氫能源",
       "isNew": false,
       "rankChange": -7,
       "streak": 39
@@ -255,7 +255,7 @@
       "dollarVolume": 3918212050.540579,
       "marketCap": 84598767433.44,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "電商",
+      "theme": "電商/金融科技",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -333,7 +333,7 @@
       "dollarVolume": 3243912541.505735,
       "marketCap": 457473838338.36,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "大數據分析",
+      "theme": "數據分析/AI",
       "isNew": false,
       "rankChange": -6,
       "streak": 159
@@ -398,7 +398,7 @@
       "dollarVolume": 2697416720.65682,
       "marketCap": 1204127476124.1,
       "sector": "PHARMACEUTICAL PREPARATIONS",
-      "theme": "生技製藥",
+      "theme": "減肥藥 GLP-1",
       "isNew": false,
       "rankChange": -5,
       "streak": 10
@@ -489,7 +489,7 @@
       "dollarVolume": 2253619773.255762,
       "marketCap": 83725103047.5,
       "sector": "—",
-      "theme": "石油天然氣",
+      "theme": "石油與天然氣",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -606,7 +606,7 @@
       "dollarVolume": 2003774570.620099,
       "marketCap": 758812233098.4,
       "sector": "PETROLEUM REFINING",
-      "theme": "石油天然氣",
+      "theme": "石油與天然氣",
       "isNew": false,
       "rankChange": -6,
       "streak": 2
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-10-26T20:00:00.000Z",
-  "generatedAt": "2026-10-27T05:45:04.012Z",
+  "generatedAt": "2026-10-27T08:11:41.610Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "半導體",
-      "reason": "市場對半導體產業前景樂觀，尤其在AI應用帶動下，相關晶片與設備需求持續增長。",
+      "reason": "受惠於AI需求持續增長及產業庫存去化，半導體產業前景看好。",
       "symbols": [
         "INTC",
         "AVGO",
@@ -670,7 +670,7 @@
     },
     {
       "theme": "半導體設備",
-      "reason": "全球晶圓廠擴建及技術升級需求，推動半導體設備訂單增加。",
+      "reason": "晶圓廠擴建與技術升級需求，帶動半導體設備訂單增加。",
       "symbols": [
         "ASML",
         "LRCX",
@@ -681,7 +681,7 @@
     },
     {
       "theme": "儲存裝置",
-      "reason": "AI及資料中心需求持續增長，帶動記憶體及儲存裝置相關企業營收。",
+      "reason": "AI應用對資料儲存需求提升，帶動相關儲存裝置類股表現。",
       "symbols": [
         "SNDK",
         "WDC",
@@ -692,7 +692,7 @@
     },
     {
       "theme": "記憶體",
-      "reason": "AI伺服器對高頻寬記憶體（HBM）需求強勁，推動記憶體價格上漲。",
+      "reason": "HBM等高頻寬記憶體需求強勁，推升記憶體產業景氣。",
       "symbols": [
         "MU",
         "SKHY"
@@ -702,7 +702,7 @@
     },
     {
       "theme": "AI 晶片",
-      "reason": "AI技術的快速發展持續推動對高效能AI晶片的需求，市場預期相關公司將受惠。",
+      "reason": "AI技術快速發展，對高效能AI晶片的需求持續旺盛。",
       "symbols": [
         "NVDA",
         "AMD"
@@ -711,14 +711,14 @@
       "avgChange": 2.596462660977481
     },
     {
-      "theme": "資安",
-      "reason": "企業數位轉型加速，網路攻擊事件頻傳，資安防護需求日益增加。",
+      "theme": "雲端軟體 SaaS",
+      "reason": "企業數位轉型趨勢不變，雲端軟體服務持續受市場青睞。",
       "symbols": [
-        "CRWD",
-        "PANW"
+        "MSFT",
+        "CRWV"
       ],
       "count": 2,
-      "avgChange": 2.1290224652878025
+      "avgChange": 1.6516237414311488
     }
   ],
   "newEntrants": [
@@ -727,35 +727,35 @@
       "name": "Nu Holdings Ltd.",
       "theme": "金融科技",
       "changePercent": -16.95250659630607,
-      "reason": "巴西總統大選結果出爐，市場對新政府政策擔憂導致股價大跌。"
+      "reason": "巴西總統大選結果出爐，引發市場對金融服務業政策擔憂，股價重挫。"
     },
     {
       "symbol": "MELI",
       "name": "Mercado Libre, Inc",
-      "theme": "電商",
+      "theme": "電商/金融科技",
       "changePercent": -7.81316465486286,
-      "reason": "巴西總統大選結果出爐，市場對新政府政策擔憂導致股價下跌。"
+      "reason": "巴西總統大選結果引發市場擔憂，加上財報前投資者調整倉位，股價下跌。"
     },
     {
       "symbol": "ASML",
       "name": "ASML Holding NV",
       "theme": "半導體設備",
       "changePercent": 1.2151673240870426,
-      "reason": "受惠於AI需求強勁，ASML上調財測，但近期股價受大盤科技股拋售影響。"
+      "reason": "第三季財報亮眼，營收與淨利均優於預期，並上調全年財測，AI需求強勁。"
     },
     {
       "symbol": "PBR",
       "name": "PETROLEO BRASILEIRO S.A.-PETROBRAS ADS (REP 1 COMMON SHARE)",
-      "theme": "石油天然氣",
+      "theme": "石油與天然氣",
       "changePercent": -13.990825688073393,
-      "reason": "巴西總統大選結果出爐，市場擔憂新政府將干預公司營運，導致股價暴跌。"
+      "reason": "巴西總統大選結果引發市場對國營企業政策擔憂，導致股價大跌。"
     },
     {
       "symbol": "CSCO",
       "name": "Cisco Systems, Inc. Common Stock (DE)",
       "theme": "網路設備",
       "changePercent": 3.511737089201873,
-      "reason": "受惠於AI基礎設施需求、合作夥伴計畫更新及優於預期的財報帶動。"
+      "reason": "思科擴展AI網路產品組合，推出新晶片與光學模組，並預期營收成長。"
     },
     {
       "symbol": "JPM",
@@ -769,58 +769,58 @@
       "name": "XP Inc. Class A Common Stock",
       "theme": "金融服務",
       "changePercent": -48.35580401183821,
-      "reason": "巴西總統大選結果出爐，市場擔憂新政府政策，導致股價創52週新低。"
+      "reason": "巴西總統大選結果引發市場對金融服務業政策擔憂，導致股價暴跌。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI相關題材與半導體產業。SpaceX透過巨額融資擴大AI運算能力，帶動AI晶片股如Nvidia和AMD的買氣。記憶體產業受惠於高頻寬記憶體（HBM）排擠效應，標準型產品出現結構性缺貨，使得美光（MU）等記憶體公司成交量放大。此外，特斯拉（TSLA）在電動車銷售轉向自駕軟體服務的策略轉變，以及Optimus機器人量產計畫，也吸引了大量資金關注。",
+    "highlights": "2026年10月26日美股成交重點聚焦於AI相關族群，主要受AI新創公司Anthropic提交IPO申請激勵，點燃市場對AI投資的熱情，帶動半導體、AI晶片及記憶體類股強勢反彈。 資金流向顯示，投資人正圍繞AI領域進行交易，儘管市場對AI巨額資本支出及其回報仍存疑慮，但Anthropic的上市案被視為一劑強心針。 此外，Meta Platforms、SpaceX等公司在AI領域的重大融資或投資計畫，也進一步推升了相關個股的成交量。",
     "eventsPast": [
       {
-        "title": "SpaceX完成400億美元GPU融資",
-        "detail": "SpaceX與阿波羅簽署400億美元GPU融資協議，用於購買AI晶片以擴大AI運算能力，預計明年上半年交付。"
+        "title": "Anthropic提交IPO申請",
+        "detail": "AI新創公司Anthropic正式提交首次公開募股（IPO）申請，預計在那斯達克掛牌，股票代號為「ANT」，此舉重燃市場對AI概念股的投資熱情。"
       },
       {
-        "title": "Meta Platforms啟動股票發行計畫",
-        "detail": "Meta Platforms啟動225億美元A類普通股發行和2.5億股優先股存托股份發行，市場消息指出Nvidia、AMD和博通有意購買至多50億美元Meta股票。"
+        "title": "Meta Platforms擬籌資950億美元支援AI投資",
+        "detail": "Meta Platforms宣布計劃透過股票發行籌集最多950億美元，以全力支持其在AI領域的各項投資，其中輝達、超微和博通表達了認購意願。"
       },
       {
-        "title": "記憶體結構性缺貨發酵",
-        "detail": "受惠於國際大廠產能轉向高頻寬記憶體，標準型產品出現結構性缺貨，帶動台系晶圓代工與記憶體大廠第三季交出亮眼財報。"
+        "title": "SpaceX與阿波羅簽署400億美元GPU融資協議",
+        "detail": "SpaceX與阿波羅全球管理簽訂約400億美元的設備融資租賃協議，資金將用於採購AI晶片，以滿足其運算需求。"
       },
       {
-        "title": "特斯拉轉向自駕軟體與機器人業務",
-        "detail": "特斯拉將成長策略從電動車銷售轉向全自動輔助駕駛（FSD）軟體帶來的經常性收入，並啟動Optimus機器人早期量產。"
+        "title": "SK海力士考慮派發特別股息",
+        "detail": "據報導，SK海力士計劃派發總額達16兆韓元（約120億美元）的特別股息，儘管公司表示尚未作出最終決定。"
       },
       {
-        "title": "Anthropic提交上市申請",
-        "detail": "AI公司Anthropic提交首次公開募股（IPO）申請，點燃市場AI熱情並帶動費半大漲。"
+        "title": "Element Solutions上修全年獲利財測",
+        "detail": "電子材料供應商Element Solutions受惠於AI相關半導體封裝、散熱與高階電路板需求，上修2026年全年調整後稅息折舊攤銷前利益（EBITDA）財測。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "10/28",
-        "title": "Alphabet第三季財報",
-        "detail": "Alphabet（GOOGL, GOOG）將於美股收盤後公布2026年第三季財報，市場預期營收年增近25%，Google雲端為核心成長引擎。"
+        "date": "本週三 (10/28)",
+        "title": "美國聯準會（Fed）利率決策會議",
+        "detail": "聯準會將公布利率決策，市場普遍預期將維持利率不變，但主席華許的會後記者會將是焦點，以尋找未來貨幣政策走向的線索。"
       },
       {
-        "date": "10/28",
-        "title": "聯準會FOMC會議結果",
-        "detail": "美東時間10月27日至28日召開聯邦公開市場委員會(FOMC)會議，市場預期本次會議將維持利率不變，但將關注會後聲明對未來政策的指引。"
+        "date": "本週三 (10/28)",
+        "title": "Alphabet (GOOGL) 與微軟 (MSFT) 財報",
+        "detail": "兩大科技巨頭將公布財報，市場將關注其雲端需求、AI投資回報及資本支出規劃，以評估AI熱潮的持續性。"
       },
       {
-        "date": "10/29",
-        "title": "美國9月PCE數據",
-        "detail": "聯準會首選通膨指標——9月個人消費支出物價指數（PCE）將出爐，可能影響市場對12月升息的預期。"
+        "date": "本週四 (10/29)",
+        "title": "亞馬遜 (AMZN) 與英特爾 (INTC) 財報",
+        "detail": "兩家公司將接棒公布財報，投資人將檢視其雲端服務表現、AI相關業務進展以及對未來展望的預期。"
       },
       {
-        "date": "本週",
-        "title": "微軟、亞馬遜財報",
-        "detail": "本週微軟（MSFT）和亞馬遜（AMZN）財報陸續出爐，將檢驗AI支出的資金來源和投資回報。"
+        "date": "本週四 (10/29)",
+        "title": "美國第三季度GDP初估",
+        "detail": "將公布美國第三季度GDP初估數據，以了解經濟活動的節奏。"
       },
       {
-        "date": "明年Q2",
-        "title": "三星和SK海力士量產並交付HBM4",
-        "detail": "三星和SK海力士計劃於明年第二季量產並交付HBM4記憶體供應給英偉達。"
+        "date": "本週四 (10/29)",
+        "title": "美國9月PCE物價指數",
+        "detail": "將公布聯準會密切監控的關鍵通膨指標——9月PCE物價指數與核心PCE物價指數。"
       }
     ]
   }
