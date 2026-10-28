@@ -151,7 +151,7 @@
       "dollarVolume": 7637904774.054023,
       "marketCap": 1858982400000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "雲端服務",
+      "theme": "搜尋引擎",
       "isNew": false,
       "rankChange": 1,
       "streak": 159
@@ -177,7 +177,7 @@
       "dollarVolume": 5355658880.593449,
       "marketCap": 1736528130000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "雲端服務",
+      "theme": "搜尋引擎",
       "isNew": false,
       "rankChange": 5,
       "streak": 159
@@ -216,7 +216,7 @@
       "dollarVolume": 4305432322.330504,
       "marketCap": 60290312020.88,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "潔淨能源",
+      "theme": "氫能源",
       "isNew": false,
       "rankChange": -7,
       "streak": 39
@@ -398,7 +398,7 @@
       "dollarVolume": 2697416720.65682,
       "marketCap": 1204127476124.1,
       "sector": "PHARMACEUTICAL PREPARATIONS",
-      "theme": "生技製藥",
+      "theme": "減肥藥 GLP-1",
       "isNew": false,
       "rankChange": -5,
       "streak": 10
@@ -489,7 +489,7 @@
       "dollarVolume": 2253619773.255762,
       "marketCap": 83725103047.5,
       "sector": "—",
-      "theme": "石油天然氣",
+      "theme": "石油與天然氣",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -606,7 +606,7 @@
       "dollarVolume": 2003774570.620099,
       "marketCap": 758812233098.4,
       "sector": "PETROLEUM REFINING",
-      "theme": "石油天然氣",
+      "theme": "石油與天然氣",
       "isNew": false,
       "rankChange": -6,
       "streak": 2
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-10-26T20:00:00.000Z",
-  "generatedAt": "2026-10-27T10:20:27.327Z",
+  "generatedAt": "2026-10-28T02:05:07.349Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "半導體",
-      "reason": "受惠於AI需求持續增長及產業景氣復甦預期，半導體相關個股表現強勁。",
+      "reason": "AI需求持續增長，帶動半導體產業鏈的樂觀預期。",
       "symbols": [
         "INTC",
         "AVGO",
@@ -670,7 +670,7 @@
     },
     {
       "theme": "半導體設備",
-      "reason": "半導體產業擴張帶動設備需求，相關供應商前景看好。",
+      "reason": "晶圓廠擴建和技術升級，推動半導體設備需求強勁。",
       "symbols": [
         "ASML",
         "LRCX",
@@ -681,7 +681,7 @@
     },
     {
       "theme": "儲存裝置",
-      "reason": "記憶體與儲存需求回溫，相關廠商營收展望樂觀。",
+      "reason": "數據中心和AI應用對儲存容量的需求增加，推動相關廠商表現。",
       "symbols": [
         "SNDK",
         "WDC",
@@ -691,18 +691,8 @@
       "avgChange": 2.4064103347615045
     },
     {
-      "theme": "AI 晶片",
-      "reason": "AI技術發展持續推進，帶動AI晶片需求維持高檔。",
-      "symbols": [
-        "NVDA",
-        "AMD"
-      ],
-      "count": 2,
-      "avgChange": 2.596462660977481
-    },
-    {
       "theme": "記憶體",
-      "reason": "記憶體市場供需改善，產品價格上漲預期支撐股價。",
+      "reason": "HBM等高頻寬記憶體需求旺盛，帶動記憶體產業景氣復甦。",
       "symbols": [
         "MU",
         "SKHY"
@@ -711,16 +701,24 @@
       "avgChange": 3.533440892621952
     },
     {
+      "theme": "AI 晶片",
+      "reason": "AI技術的快速發展，持續推升對高效能AI晶片的需求。",
+      "symbols": [
+        "NVDA",
+        "AMD"
+      ],
+      "count": 2,
+      "avgChange": 2.596462660977481
+    },
+    {
       "theme": "雲端軟體 SaaS",
       "reason": "企業數位轉型趨勢不變，雲端軟體服務持續受青睞。",
       "symbols": [
         "MSFT",
-        "CRWV",
-        "PLTR",
-        "CRWD"
+        "CRWV"
       ],
-      "count": 4,
-      "avgChange": 1.5048571398147725
+      "count": 2,
+      "avgChange": 1.6516237414311488
     }
   ],
   "newEntrants": [
@@ -748,7 +746,7 @@
     {
       "symbol": "PBR",
       "name": "PETROLEO BRASILEIRO S.A.-PETROBRAS ADS (REP 1 COMMON SHARE)",
-      "theme": "石油天然氣",
+      "theme": "石油與天然氣",
       "changePercent": -13.990825688073393,
       "reason": "巴西總統大選結果意外，引發市場對經濟政策擔憂，導致股價下跌。"
     },
@@ -775,29 +773,45 @@
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI相關題材，資金主要流向半導體、AI晶片、記憶體及雲端軟體SaaS等族群。SpaceX與Tesla因AI業務發展和潛在合併消息而帶動成交量，市場關注AI基礎設施的龐大資本支出與其商業化進程。Lumentum則因光通訊元件訂單滿載至2029年，顯示AI資料中心需求強勁。",
+    "highlights": "本日美股成交重點聚焦於AI相關題材，特別是半導體、AI晶片、記憶體和雲端軟體SaaS等族群。資金主要受到AI新創公司Anthropic即將IPO的利好消息帶動，市場預期其募資將進一步推升AI基礎設施的建置需求，進而刺激相關晶片和設備供應鏈的成長。此外，Meta Platforms為擴張AI基礎設施而進行的大規模籌資計畫，也吸引了市場的關注，儘管伴隨股權稀釋的疑慮。",
     "eventsPast": [
       {
-        "title": "SpaceX完成400億美元AI算力融資租賃協議",
-        "detail": "SpaceX已完成一項400億美元的債務交易，用於採購NVIDIA的GPU，以支撐其AI佈局，並警告新雲廠商可能面臨大規模出清與整合。"
+        "title": "AI新創Anthropic提交IPO申請",
+        "detail": "AI新創公司Anthropic於週一提交了S-1首次公開發行文件，計畫在那斯達克交易所掛牌上市，股票代號預定為「ANT」，激勵AI晶片及設備族群走高。"
       },
       {
-        "title": "Meta Platforms發布最新AI模型並計畫融資",
-        "detail": "Meta Platforms發布了Muse Wonder人工智慧模型，並預計透過發行無投票權普通股來籌集最高950億美元，以應對其龐大的AI基礎設施資本支出。"
+        "title": "Meta Platforms啟動大規模股票發行籌資AI基建",
+        "detail": "Meta Platforms於週一啟動約350億美元的普通股及強制可轉換特別股相關證券的公開發行，並規劃未來透過新設股份再出售最高600億美元股票，為人工智慧（AI）基礎設施擴張籌資。"
       },
       {
-        "title": "Tesla與SpaceX評估合併可能性",
-        "detail": "SpaceX執行長馬斯克證實，SpaceX與Tesla已各自成立特別委員會，評估潛在合併，合併後市值可能超過3兆美元，並期望整合AI軟體、晶片設計、機器人與通訊業務。"
+        "title": "亞馬遜AWS算力至2027年底前幾近售罄",
+        "detail": "亞馬遜執行長賈西近日表示，AWS雲端運算容量在2027年底前已大致售罄，大量訂單已排到2028年，顯示AI資料中心需求強勁。"
       },
       {
-        "title": "亞馬遜AWS雲端算力售罄至2027年底",
-        "detail": "亞馬遜執行長賈西表示，AWS雲端運算容量在2027年底前已大致售罄，大量訂單已排到2028年，顯示AI基礎設施需求強勁。"
+        "title": "美光科技台灣廠區獲利分配爭議引發罷工",
+        "detail": "美光科技(MU)因獲利分配爭議引發台灣廠區罷工，導致股價重挫逾5%，記憶體族群面臨走弱壓力。"
       },
       {
-        "title": "Intel與AMD討論潛在合作",
-        "detail": "Intel執行長陳立武透露已與AMD執行長蘇姿丰討論潛在合作領域，讓兩家競爭對手未來的合作動向受到關注。"
+        "title": "特斯拉FSD系統再傳事故",
+        "detail": "一輛特斯拉在加州公路發生致命車禍，司機聲稱當時車輛處於「全自動駕駛」（FSD）模式，再次引發市場對FSD系統安全性的質疑。"
       }
     ],
-    "eventsUpcoming": []
+    "eventsUpcoming": [
+      {
+        "date": "10/28",
+        "title": "微軟發布財報",
+        "detail": "市場關注微軟在AI領域的投入是否已產生可量化的回報，以及Azure雲端服務的高增速能否延續。"
+      },
+      {
+        "date": "本週四",
+        "title": "美國9月CPI消費者物價指數",
+        "detail": "此數據將驗證通膨剛性背後的經濟過熱是否未解，若新增就業人數顯著高於預期，可能推升美債殖利率，壓制科技股估值空間。"
+      },
+      {
+        "date": "時間未定",
+        "title": "Alphabet Inc.、Amazon、Apple等公司財報",
+        "detail": "本週有多家大型科技公司將陸續公布財報，市場將關注其營收、獲利以及對未來市場需求與營運展望的說明。"
+      }
+    ]
   }
 }
