@@ -164,7 +164,7 @@
       "dollarVolume": 8857992270.189405,
       "marketCap": 2746195435431.1997,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電商",
+      "theme": "電子商務",
       "isNew": false,
       "rankChange": -1,
       "streak": 161
@@ -190,7 +190,7 @@
       "dollarVolume": 7935820385.717135,
       "marketCap": 1679410722805.65,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網通晶片",
+      "theme": "AI 晶片",
       "isNew": false,
       "rankChange": -4,
       "streak": 161
@@ -203,7 +203,7 @@
       "dollarVolume": 7803970049.263888,
       "marketCap": 481853320000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "CPU 晶片",
+      "theme": "CPU",
       "isNew": false,
       "rankChange": -3,
       "streak": 161
@@ -307,7 +307,7 @@
       "dollarVolume": 4018611496.668124,
       "marketCap": 220671885000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網通晶片",
+      "theme": "AI 晶片",
       "isNew": false,
       "rankChange": -3,
       "streak": 151
@@ -359,7 +359,7 @@
       "dollarVolume": 3505580247.7810664,
       "marketCap": 132102445142.79999,
       "sector": "AIRCRAFT",
-      "theme": "航空航太",
+      "theme": "航空",
       "isNew": false,
       "rankChange": -14,
       "streak": 2
@@ -652,23 +652,52 @@
     }
   ],
   "asOf": "2026-10-28T20:00:00.000Z",
-  "generatedAt": "2026-10-29T08:51:11.504Z",
+  "generatedAt": "2026-10-29T11:25:29.286Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "記憶體",
-      "reason": "市場預期記憶體產業需求復甦，特別是HBM在AI領域的應用，帶動相關個股表現強勁。",
+      "reason": "AI應用對高頻寬記憶體(HBM)需求激增，帶動DRAM和NAND Flash市場復甦，相關供應商受惠。",
       "symbols": [
-        "MU",
-        "SKHY"
+        "SKHY",
+        "MU"
       ],
       "count": 2,
       "avgChange": 9.584853588227404
     },
     {
+      "theme": "資料中心基礎設施",
+      "reason": "AI發展對資料中心運算能力和散熱需求增加，推動相關基礎設施供應商的成長。",
+      "symbols": [
+        "VRT"
+      ],
+      "count": 1,
+      "avgChange": 16.484464902186417
+    },
+    {
+      "theme": "雲端軟體 SaaS",
+      "reason": "企業數位轉型趨勢不變，雲端軟體服務持續受到青睞，尤其在效率提升和成本優化方面。",
+      "symbols": [
+        "ORCL"
+      ],
+      "count": 1,
+      "avgChange": 10.733164789703508
+    },
+    {
+      "theme": "儲存裝置",
+      "reason": "AI和數據量的爆炸性增長，對高效能、大容量儲存解決方案的需求持續提升。",
+      "symbols": [
+        "SNDK",
+        "STX",
+        "WDC"
+      ],
+      "count": 3,
+      "avgChange": 5.416143396877448
+    },
+    {
       "theme": "半導體設備",
-      "reason": "全球半導體產業景氣回升，資本支出增加，帶動半導體設備供應商的訂單成長。",
+      "reason": "全球半導體產業景氣回升，晶圓廠擴產和技術升級需求，帶動設備供應商訂單增加。",
       "symbols": [
         "AMAT",
         "LRCX",
@@ -679,44 +708,15 @@
       "avgChange": 3.8619040651666974
     },
     {
-      "theme": "儲存裝置",
-      "reason": "資料中心及AI應用對儲存容量需求增加，推動儲存裝置相關企業營收成長。",
-      "symbols": [
-        "SNDK",
-        "STX",
-        "WDC"
-      ],
-      "count": 3,
-      "avgChange": 5.416143396877448
-    },
-    {
-      "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型趨勢不變，雲端軟體服務需求持續增長，尤其是在AI整合應用方面。",
-      "symbols": [
-        "ORCL"
-      ],
-      "count": 1,
-      "avgChange": 10.733164789703508
-    },
-    {
       "theme": "AI 晶片",
-      "reason": "AI技術的快速發展持續推動對高效能AI晶片的需求，相關供應商受惠。",
+      "reason": "AI技術的快速發展，對高效能運算晶片的需求持續旺盛，推動相關晶片設計公司的業績增長。",
       "symbols": [
-        "AMD"
-      ],
-      "count": 1,
-      "avgChange": 3.2449220004997796
-    },
-    {
-      "theme": "雲端服務",
-      "reason": "雲端運算作為數位經濟的基礎設施，持續受益於企業對彈性與擴展性IT資源的需求。",
-      "symbols": [
-        "GOOGL",
-        "GOOG",
-        "NBIS"
+        "AMD",
+        "AVGO",
+        "MRVL"
       ],
       "count": 3,
-      "avgChange": 3.3015370674253073
+      "avgChange": 3.1105004144941724
     }
   ],
   "newEntrants": [
@@ -771,40 +771,54 @@
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於記憶體與儲存裝置族群，由美光（MU）和SK海力士（SKHY）領漲，顯示市場對NAND Flash和DRAM產業復甦抱持樂觀態度。AI晶片相關個股如AMD也有不錯表現，而雲端服務股Alphabet（GOOGL, GOOG）則因其穩健的業務表現吸引資金。整體而言，市場正在交易半導體產業景氣回升以及AI和雲端技術持續發展的故事。",
+    "highlights": "本日美股成交重點聚焦於AI相關題材，特別是記憶體、儲存裝置、雲端軟體SaaS、AI晶片及半導體設備等族群。資金主要受惠於SK海力士財報報喜、中國雲端服務供應商對記憶體長期供貨協議的提議，以及Anthropic上市消息帶動的AI晶片買氣回溫。 儘管聯準會維持利率不變，但市場對AI投資效益與資金成本的疑慮仍存，導致部分大型科技股如Meta、Nvidia和Alphabet盤中或盤後表現分歧。",
     "eventsPast": [
       {
-        "title": "美光財報優於預期",
-        "detail": "美光科技（MU）公布的最新財報顯示營收和獲利均優於市場預期，並對未來財測持樂觀態度，激勵記憶體類股上漲。"
+        "title": "聯準會維持利率不變",
+        "detail": "美國聯準會於10月28日結束為期兩天的FOMC會議，決議將聯邦基金利率維持在3.75%至4%，符合市場預期，但有兩名成員主張升息。"
       },
       {
-        "title": "SK海力士NAND Flash產能利用率提升",
-        "detail": "SK海力士（SKHY）宣布NAND Flash產能利用率將逐步提升，預期市場需求將回溫，帶動股價大漲。"
+        "title": "SK海力士財報報喜帶動記憶體股上漲",
+        "detail": "SK海力士第三季營業利益增至去年同期逾七倍，且其CEO表示DRAM和HBM產能售罄至2029年，帶動美光和SK海力士等記憶體類股大漲。"
       },
       {
-        "title": "甲骨文（ORCL）雲端業務成長強勁",
-        "detail": "甲骨文（ORCL）公布最新財報，其雲端軟體SaaS業務持續強勁成長，推升股價大幅上漲。"
+        "title": "中國雲端服務供應商擬簽訂記憶體長期供貨協議",
+        "detail": "韓媒傳出，阿里巴巴、騰訊及字節跳動等中國雲端服務供應商已向三星電子與SK海力士提議簽訂最長達10年的長期供貨協議，以緩解AI需求激增造成的記憶體短缺。"
       },
       {
-        "title": "AMD推出新款AI晶片",
-        "detail": "超微（AMD）發表了新一代AI晶片，市場預期將進一步搶佔AI伺服器市場份額，刺激股價上揚。"
+        "title": "微軟財報優於預期，盤後股價上漲",
+        "detail": "微軟2027會計年度第一季營收和獲利均超預期，Azure雲端基礎設施業務營收年增48%，自由現金流穩健，盤後股價上漲。"
+      },
+      {
+        "title": "Alphabet財報不如預期，盤後股價下跌",
+        "detail": "Alphabet第三季營收雖年增25%，Google雲端營收翻倍，但整體營收與獲利不及市場預期，自由現金流為負91億美元，導致盤後股價重挫。"
       }
     ],
     "eventsUpcoming": [
       {
+        "date": "10月29日美股盤後",
+        "title": "亞馬遜（AMZN）公布財報",
+        "detail": "市場關注其AWS雲端服務的成長率、電商與廣告業務表現，以及2200億美元資本支出對自由現金流的影響。"
+      },
+      {
+        "date": "台灣時間10月29日晚間20:30",
+        "title": "美國第三季GDP與9月個人所得與支出（含PCE）",
+        "detail": "這些經濟數據將影響聯準會對未來利率政策的判斷，進而牽動市場對科技股的估值。"
+      },
+      {
+        "date": "10月29日盤後",
+        "title": "英特爾（INTC）公布財報",
+        "detail": "在股價回落至近三個月低點附近之際，市場關注其第三季財報表現。"
+      },
+      {
+        "date": "12月8日至9日",
+        "title": "FOMC會議",
+        "detail": "聯準會將召開會議並公布經濟預測與點陣圖，市場將密切關注是否會再次升息。"
+      },
+      {
         "date": "本週五",
-        "title": "美國10月CPI數據公布",
-        "detail": "美國勞工部將公布10月份消費者物價指數（CPI），市場關注通膨數據對聯準會（Fed）貨幣政策的影響。"
-      },
-      {
-        "date": "下週一",
-        "title": "蘋果（AAPL）財報公布",
-        "detail": "蘋果公司（AAPL）將公布最新一季財報，市場關注iPhone銷售狀況及服務業務表現。"
-      },
-      {
-        "date": "下週三",
-        "title": "輝達（NVDA）AI開發者大會",
-        "detail": "輝達（NVDA）將舉辦AI開發者大會，預期將發表新的AI晶片技術和產品，可能對AI晶片族群產生影響。"
+        "title": "蘋果首款觸控MacBook Pro開放預訂",
+        "detail": "蘋果發表首款觸控螢幕MacBook Pro，搭載M5 Pro與M5 Max晶片，台灣將於本週五開放預訂。"
       }
     ]
   }
