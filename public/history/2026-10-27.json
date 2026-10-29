@@ -138,7 +138,7 @@
       "dollarVolume": 8732425243.522732,
       "marketCap": 1634156711685.45,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "AI 網路晶片",
+      "theme": "半導體元件",
       "isNew": false,
       "rankChange": 2,
       "streak": 160
@@ -151,7 +151,7 @@
       "dollarVolume": 8713162628.639301,
       "marketCap": 2730015965073.1997,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電商/雲端服務",
+      "theme": "電商/雲端",
       "isNew": false,
       "rankChange": -1,
       "streak": 160
@@ -164,7 +164,7 @@
       "dollarVolume": 8438101772.362105,
       "marketCap": 472824560000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "CPU/AI 晶片",
+      "theme": "CPU/AI",
       "isNew": false,
       "rankChange": -5,
       "streak": 160
@@ -268,7 +268,7 @@
       "dollarVolume": 3738275447.562427,
       "marketCap": 213586533000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "AI 網路晶片",
+      "theme": "半導體元件",
       "isNew": false,
       "rankChange": 3,
       "streak": 150
@@ -294,7 +294,7 @@
       "dollarVolume": 3457807480.670998,
       "marketCap": 37412213551.36,
       "sector": "—",
-      "theme": "雲端基礎設施",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": -7,
       "streak": 85
@@ -320,7 +320,7 @@
       "dollarVolume": 3427976136.1804914,
       "marketCap": 64600986546.5,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "燃料電池",
+      "theme": "清潔能源",
       "isNew": false,
       "rankChange": -8,
       "streak": 40
@@ -333,7 +333,7 @@
       "dollarVolume": 3402092842.0091615,
       "marketCap": 394688260080,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體 SaaS",
+      "theme": "企業軟體",
       "isNew": false,
       "rankChange": 2,
       "streak": 160
@@ -359,7 +359,7 @@
       "dollarVolume": 3192571197.2071776,
       "marketCap": 158334843048.47998,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "伺服器/PC",
+      "theme": "電子電腦",
       "isNew": false,
       "rankChange": 13,
       "streak": 46
@@ -372,7 +372,7 @@
       "dollarVolume": 3136880169.4522157,
       "marketCap": 32855035381.14,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "AI 雲端服務",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": -8,
       "streak": 11
@@ -463,7 +463,7 @@
       "dollarVolume": 2507711610.5775046,
       "marketCap": 282111342682.26,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "類比晶片",
+      "theme": "半導體元件",
       "isNew": false,
       "rankChange": 4,
       "streak": 8
@@ -476,7 +476,7 @@
       "dollarVolume": 2374041106.186228,
       "marketCap": 1206735035194.1501,
       "sector": "PHARMACEUTICAL PREPARATIONS",
-      "theme": "減肥藥 GLP-1",
+      "theme": "生技製藥",
       "isNew": false,
       "rankChange": -6,
       "streak": 11
@@ -502,7 +502,7 @@
       "dollarVolume": 2248674291.4534125,
       "marketCap": 196664002004.18997,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "手機晶片",
+      "theme": "通訊晶片",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -580,7 +580,7 @@
       "dollarVolume": 2082955640.5256486,
       "marketCap": 108793346205.3,
       "sector": "DRAWING & INSULATING OF NONFERROUS WIRE",
-      "theme": "光學材料",
+      "theme": "材料科學",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -593,7 +593,7 @@
       "dollarVolume": 2040063374.115435,
       "marketCap": 307587532804.86005,
       "sector": "ELECTRONIC & OTHER ELECTRICAL EQUIPMENT (NO COMPUTER EQUIP)",
-      "theme": "航空引擎",
+      "theme": "航空航太",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -606,7 +606,7 @@
       "dollarVolume": 2005230166.4678953,
       "marketCap": 111525822743.73999,
       "sector": "PETROLEUM REFINING",
-      "theme": "石油煉製",
+      "theme": "石油天然氣",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -652,24 +652,13 @@
     }
   ],
   "asOf": "2026-10-27T20:00:00.000Z",
-  "generatedAt": "2026-10-28T11:07:05.597Z",
+  "generatedAt": "2026-10-29T02:05:20.238Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
-      "theme": "AI 晶片",
-      "reason": "AI 應用持續擴張，市場對高效能運算晶片需求旺盛，帶動相關供應鏈股價上漲。",
-      "symbols": [
-        "NVDA",
-        "AMD",
-        "INTC"
-      ],
-      "count": 3,
-      "avgChange": 3.322452256672347
-    },
-    {
       "theme": "儲存裝置",
-      "reason": "AI 數據中心建設加速，對儲存容量和速度的需求增加，推動儲存相關企業表現強勁。",
+      "reason": "隨著AI與數據中心需求增長，對高效能儲存解決方案的需求持續推動相關公司股價上漲。",
       "symbols": [
         "SNDK",
         "STX",
@@ -679,8 +668,29 @@
       "avgChange": 4.8475355554218105
     },
     {
+      "theme": "半導體元件",
+      "reason": "AI應用擴展帶動半導體需求，特別是高效能運算相關的晶片設計與製造商表現強勁。",
+      "symbols": [
+        "AVGO",
+        "MRVL",
+        "TXN"
+      ],
+      "count": 3,
+      "avgChange": 3.934993315766148
+    },
+    {
+      "theme": "雲端軟體 SaaS",
+      "reason": "企業數位轉型及AI整合需求，持續推動雲端服務與軟體即服務（SaaS）供應商的成長。",
+      "symbols": [
+        "NBIS",
+        "CRWV"
+      ],
+      "count": 2,
+      "avgChange": 9.579123409485973
+    },
+    {
       "theme": "半導體設備",
-      "reason": "全球半導體產業景氣回升，晶圓廠擴建及技術升級帶動設備需求，相關供應商受惠。",
+      "reason": "全球半導體產業擴張，資本支出增加，帶動半導體設備製造商的訂單與營收成長。",
       "symbols": [
         "AMAT",
         "LRCX",
@@ -690,34 +700,24 @@
       "avgChange": 2.123376411114061
     },
     {
-      "theme": "金融科技",
-      "reason": "數位支付和線上金融服務持續普及，市場看好創新金融科技公司的成長潛力。",
+      "theme": "AI 晶片",
+      "reason": "AI技術的快速發展，對高效能AI晶片的需求激增，相關領導廠商持續受市場追捧。",
       "symbols": [
-        "HOOD",
-        "SOFI"
+        "NVDA",
+        "AMD"
       ],
       "count": 2,
-      "avgChange": 7.634485302574416
+      "avgChange": 3.176449469345872
     },
     {
-      "theme": "記憶體",
-      "reason": "AI 伺服器對高頻寬記憶體（HBM）需求激增，記憶體市場復甦前景樂觀。",
+      "theme": "生技製藥",
+      "reason": "新藥研發進展或市場對特定疾病治療方案的預期，推動相關生技製藥公司股價上漲。",
       "symbols": [
-        "MU",
-        "SKHY"
+        "MRNA",
+        "LLY"
       ],
       "count": 2,
-      "avgChange": 2.347116662924591
-    },
-    {
-      "theme": "AI 網路晶片",
-      "reason": "AI 數據中心內部高速互連需求增加，推動網路基礎設施晶片供應商的營收增長。",
-      "symbols": [
-        "AVGO",
-        "MRVL"
-      ],
-      "count": 2,
-      "avgChange": 4.092816016853297
+      "avgChange": 2.401461691308196
     }
   ],
   "newEntrants": [
@@ -726,114 +726,114 @@
       "name": "Boeing Company",
       "theme": "航空航太",
       "changePercent": -10.689819977696349,
-      "reason": "波音第三季財報虧損超預期，且737 Max交付量未達標，導致股價下跌。"
+      "reason": "波音公司第三季財報顯示營收成長，但因生產調整和供應鏈成本導致虧損，股價下跌。"
     },
     {
       "symbol": "HOOD",
       "name": "Robinhood Markets, Inc. Class A Common Stock",
       "theme": "金融科技",
       "changePercent": 1.8526497199482967,
-      "reason": "Robinhood第三季營收未達預期，儘管調整後每股盈餘超預期。"
+      "reason": "Robinhood第三季財報營收創新高，但加密貨幣收入下降且獲利不如預期，導致股價下跌。"
     },
     {
       "symbol": "SOFI",
       "name": "SoFi Technologies, Inc. Common Stock",
       "theme": "金融科技",
       "changePercent": 13.416320885200536,
-      "reason": "SoFi第三季財報表現亮眼，營收和調整後EBITDA均創紀錄，並上調全年財測。"
+      "reason": "SoFi第三季財報營收和EPS均超預期，並上調全年財測，股價大漲。"
     },
     {
       "symbol": "QCOM",
       "name": "Qualcomm Inc",
-      "theme": "手機晶片",
+      "theme": "通訊晶片",
       "changePercent": 2.544543429844094,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動，但有宣布季度現金股利。"
+      "reason": "高通汽車業務營收創新高並拓展AI合作，但半導體產業前景謹慎，股價下跌。"
     },
     {
       "symbol": "CLS",
       "name": "Celestica, Inc.",
       "theme": "電子製造服務",
       "changePercent": 12.118386377457941,
-      "reason": "Celestica第三季財報優於預期，並上調全年財測，受AI基礎設施需求帶動。"
+      "reason": "Celestica第三季財報和2027年展望亮眼，營收和EPS均超預期，股價飆升。"
     },
     {
       "symbol": "MA",
       "name": "Mastercard Incorporated",
       "theme": "支付服務",
       "changePercent": -0.59494702526487,
-      "reason": "Mastercard即將公布第三季財報，市場預期營收和獲利將持續雙位數成長。"
+      "reason": "萬事達卡宣布將參與11月的投資者會議，並將於10月29日公布第三季財報。"
     },
     {
       "symbol": "GLW",
       "name": "Corning Incorporated",
-      "theme": "光學材料",
+      "theme": "材料科學",
       "changePercent": -1.1272898074213227,
-      "reason": "Corning第四季獲利預期優於分析師預期，受AI基礎設施光學元件需求強勁帶動。"
+      "reason": "康寧第三季財報超出預期，受惠於AI數據中心基礎設施對光學產品的需求強勁。"
     },
     {
       "symbol": "GE",
       "name": "GE Aerospace",
-      "theme": "航空引擎",
+      "theme": "航空航太",
       "changePercent": 3.2000832090975346,
-      "reason": "GE Aerospace第三季獲利和營收成長，並再次上調全年財測。"
+      "reason": "GE Aerospace第三季獲利和營收成長，且積壓訂單創紀錄，顯示長期需求強勁。"
     },
     {
       "symbol": "VLO",
       "name": "Valero Energy Corporation",
-      "theme": "石油煉製",
+      "theme": "石油天然氣",
       "changePercent": -9.237041897085016,
-      "reason": "Valero Energy股價下跌，因投資者重新評估煉油利潤前景且有券商下調評級。"
+      "reason": "Valero能源第三季獲利創紀錄，並維持季度股息，但煉油利潤前景擔憂導致股價下跌。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI相關題材的強勁反彈，特別是AI晶片、AI網路晶片以及記憶體族群。資金回流主要受惠於AI新創Anthropic的IPO計畫，以及博通（AVGO）與多家銀行合作為Anthropic提供AI設備融資的消息，激勵了市場對AI基礎設施投資的信心。此外，特斯拉（TSLA）在近期財報公布前也表現強勁，而Meta（META）則因巨額罰款與增發新股計畫而受到市場關注。",
+    "highlights": "本日美股成交重點聚焦於AI相關題材的熱絡，由AI新創公司Anthropic提交IPO申請的消息所帶動，激勵了AI晶片、半導體元件及儲存裝置等族群的買氣。 此外，Meta Platforms計畫透過發行股票籌資近千億美元以支應AI投資，以及博通與多家銀行合作為Anthropic進行AI融資，也推動了相關個股的成交量。 特斯拉則因核心業務前景改善及Robotaxi業務的發展潛力，股價表現亮眼，並傳出與SpaceX討論合併的可能性，吸引了市場關注。 市場在交易AI領域的龐大投資與未來潛力，儘管部分科技巨頭因AI高昂支出面臨現金流壓力，但整體而言，AI需求強勁的證據提振了市場信心。",
     "eventsPast": [
       {
-        "title": "Anthropic IPO計畫激勵AI晶片與設備族群",
-        "detail": "AI新創Anthropic宣布IPO計畫，預期募資規模可望創歷史新高，激勵Intel、Nvidia、AMD與Broadcom等AI晶片及設備族群走高。"
+        "title": "Anthropic提交IPO申請",
+        "detail": "AI新創公司Anthropic提交首次公開募股（IPO）申請，預計募資規模可能高達1000億美元，為AI概念股注入投資熱情。"
       },
       {
-        "title": "博通攜手銀行團為Anthropic提供AI融資",
-        "detail": "博通（AVGO）與美國銀行、黑石、花旗及摩根士丹利合作，安排規模達630億美元的融資計畫，用於購買博通的AI運算設備並租賃給Anthropic。"
+        "title": "Meta Platforms計畫發行股票籌資",
+        "detail": "Meta Platforms計畫在未來幾個月內透過不同形式的股票發行，籌集近1000億美元，以支應其在人工智慧領域的投資，其中輝達、超微與博通已表達認購意願。"
       },
       {
-        "title": "Meta Platforms發行新股籌資AI基建",
-        "detail": "Meta Platforms（META）啟動約350億美元的普通股及強制可轉換特別股公開發行，並規劃未來再出售最高600億美元股票，為AI基礎設施擴張籌資，輝達、超微及博通表達有意認購。"
+        "title": "博通與銀行合作進行AI融資",
+        "detail": "博通攜手美國銀行、黑石、花旗及摩根士丹利，安排規模達630億美元的融資計畫，用於購買博通的AI運算設備並租賃給Anthropic。"
       },
       {
-        "title": "特斯拉Q3獲利驟減，馬斯克力推SpaceX合併",
-        "detail": "特斯拉（TSLA）第三季GAAP淨利下滑43%，營業利益銳減56%，但執行長馬斯克在財報公布前提出飛行版Roadster原型車，並證實特斯拉與SpaceX已成立特別委員會評估合併可能性。"
+        "title": "波音財報不如預期股價重挫",
+        "detail": "波音公司第三季財報調整後每股虧損超出市場預期，加上737 MAX客機增產延後、未來自由現金流展望不如預期，導致股價重挫近11%。"
       },
       {
-        "title": "微軟推出自願離職方案",
-        "detail": "微軟（MSFT）本週一向部分員工發出志願離職補償方案，約6萬名員工符合條件，佔公司員工總數四分之一以上，市場關注AI投入對獲利的影響。"
+        "title": "蘋果iPhone Duo傳出螢幕破裂問題",
+        "detail": "蘋果首款摺疊手機iPhone Duo上市首個週末，部分用戶通報內螢幕破裂，公司已證實少數裝置受影響並提供換機。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "10/28",
-        "title": "美國聯準會（FOMC）會議結果與政策聲明",
-        "detail": "美國聯準會將公布為期兩天的FOMC會議結果，市場普遍預期將維持利率不變，但對未來政策路徑的措辭將影響金融市場。"
+        "date": "11/2",
+        "title": "蘋果（AAPL）公布財報",
+        "detail": "蘋果將於11月2日公布會計年度第四季財報，市場預估營收1133.2億美元，每股盈餘1.98美元，將檢驗其現金創造能力與AI基礎建設支出的脫鉤是否合理。"
       },
       {
-        "date": "10/28",
+        "date": "本週三",
+        "title": "聯準會（Fed）利率決策會議",
+        "detail": "聯準會將於本週三公布利率決策，市場普遍預期將維持利率不變，但將關注其對經濟情勢和通膨的評估。"
+      },
+      {
+        "date": "未來幾天",
         "title": "Alphabet（GOOGL）與微軟（MSFT）財報",
-        "detail": "Alphabet和微軟將在美股盤後發布最新財報，市場關注AI投入是否已產生可量化的回報，以及Azure高增速能否延續。"
+        "detail": "Alphabet與微軟將陸續公布財報，市場關注其雲端業務成長、AI支出與現金流表現，以及AI變現能力。"
       },
       {
-        "date": "10/29",
-        "title": "美國第三季GDP與個人所得支出",
-        "detail": "美國將公布第三季GDP（Advance Estimate）與個人所得支出，此批數據將直接檢驗美國經濟韌性，影響對2027年景氣前景的評估。"
+        "date": "未來幾天",
+        "title": "亞馬遜（AMZN）財報",
+        "detail": "亞馬遜將於未來幾天公布財報，其雲端運算部門AWS的營收成長將是市場關注焦點。"
       },
       {
-        "date": "本週四",
-        "title": "亞馬遜（AMZN）與英特爾（INTC）財報",
-        "detail": "亞馬遜和英特爾將公布最新業績，提供更多關於電商、雲端服務以及AI晶片市場的營運狀況。"
-      },
-      {
-        "date": "11/17",
-        "title": "通用汽車（GM）轉至那斯達克掛牌",
-        "detail": "美國車廠通用汽車宣布將普通股上市地點由紐約證券交易所改到那斯達克全球精選市場，並取得未來被納入那斯達克100指數的資格。"
+        "date": "11月16日當週",
+        "title": "Anthropic上市",
+        "detail": "AI新創公司Anthropic據悉計劃在11月16日當週上市，募資或達1000億美元。"
       }
     ]
   }
