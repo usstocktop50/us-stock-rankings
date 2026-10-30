@@ -60,7 +60,7 @@
       "dollarVolume": 20457424738.352684,
       "marketCap": 2629595385717.88,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電商與雲端服務",
+      "theme": "電子商務",
       "isNew": false,
       "rankChange": 8,
       "streak": 162
@@ -112,7 +112,7 @@
       "dollarVolume": 11476081000.687975,
       "marketCap": 464401079999.99994,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "半導體製造",
       "isNew": false,
       "rankChange": 7,
       "streak": 162
@@ -138,7 +138,7 @@
       "dollarVolume": 9807933148.932045,
       "marketCap": 1954179257088.0098,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "太空",
+      "theme": "太空科技",
       "isNew": false,
       "rankChange": -4,
       "streak": 97
@@ -151,7 +151,7 @@
       "dollarVolume": 9525207418.303907,
       "marketCap": 924666513289.6399,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "AI 晶片",
       "isNew": false,
       "rankChange": 0,
       "streak": 162
@@ -177,7 +177,7 @@
       "dollarVolume": 9224445341.312761,
       "marketCap": 191462346000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "網通晶片",
       "isNew": false,
       "rankChange": 10,
       "streak": 152
@@ -229,7 +229,7 @@
       "dollarVolume": 5859279068.3387575,
       "marketCap": 1646902303425,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "網通晶片",
       "isNew": false,
       "rankChange": -3,
       "streak": 162
@@ -242,7 +242,7 @@
       "dollarVolume": 5495763139.927582,
       "marketCap": 421992596160,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體 SaaS",
+      "theme": "資料庫軟體",
       "isNew": false,
       "rankChange": -9,
       "streak": 162
@@ -541,7 +541,7 @@
       "dollarVolume": 2263552535.7726607,
       "marketCap": 763098735855.56,
       "sector": "FIRE, MARINE & CASUALTY INSURANCE",
-      "theme": "綜合保險",
+      "theme": "多元控股",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -606,7 +606,7 @@
       "dollarVolume": 2003224414.7290492,
       "marketCap": 753672343148.4,
       "sector": "PETROLEUM REFINING",
-      "theme": "石油與天然氣",
+      "theme": "石油天然氣",
       "isNew": false,
       "rankChange": -8,
       "streak": 5
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-10-29T20:00:00.000Z",
-  "generatedAt": "2026-10-30T06:36:47.665Z",
+  "generatedAt": "2026-10-30T08:58:09.449Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "生技製藥",
-      "reason": "市場對新藥研發和生物技術的潛力持續保持樂觀，特別是針對特定疾病領域的突破性進展。",
+      "reason": "市場對新藥研發進展和併購活動保持高度關注，尤其是在特定疾病領域的突破性療法。",
       "symbols": [
         "LLY",
         "MRNA",
@@ -668,18 +668,8 @@
       "avgChange": 4.824613693710117
     },
     {
-      "theme": "支付服務",
-      "reason": "全球數位支付趨勢持續增長，帶動相關服務提供商的營收和獲利預期。",
-      "symbols": [
-        "V",
-        "MA"
-      ],
-      "count": 2,
-      "avgChange": 3.320729487276851
-    },
-    {
       "theme": "半導體設備",
-      "reason": "全球半導體產業擴張，晶圓廠投資增加，帶動設備供應商訂單成長。",
+      "reason": "全球半導體產業擴張，資本支出增加，帶動設備供應商訂單成長。",
       "symbols": [
         "AMAT",
         "KLAC",
@@ -690,8 +680,18 @@
       "avgChange": 1.9530865238270871
     },
     {
+      "theme": "支付服務",
+      "reason": "數位支付的普及和電子商務的發展持續推動支付處理公司營收增長。",
+      "symbols": [
+        "V",
+        "MA"
+      ],
+      "count": 2,
+      "avgChange": 3.320729487276851
+    },
+    {
       "theme": "社群媒體",
-      "reason": "社群媒體平台在廣告收入和用戶參與度方面展現韌性，市場對其商業模式的信心回升。",
+      "reason": "廣告收入回升及用戶參與度增加，提振了社群媒體平台的業績展望。",
       "symbols": [
         "META"
       ],
@@ -700,7 +700,7 @@
     },
     {
       "theme": "消費性電子",
-      "reason": "市場預期消費性電子產品需求回穩，新產品發布也可能帶來銷售動能。",
+      "reason": "新產品發布和節日銷售預期，為消費性電子巨頭帶來正面動能。",
       "symbols": [
         "AAPL"
       ],
@@ -709,7 +709,7 @@
     },
     {
       "theme": "航空航太",
-      "reason": "全球旅遊復甦和國防開支增加，推動航空航太產業的需求。",
+      "reason": "全球旅遊復甦和國防訂單增加，推動航空航太產業景氣回升。",
       "symbols": [
         "BA",
         "RTX"
@@ -724,81 +724,75 @@
       "name": "RTX Corporation",
       "theme": "國防",
       "changePercent": 1.817810457516341,
-      "reason": "RTX公布優於預期的第三季財報，並上調全年財測，訂單積壓量創新高。"
+      "reason": "RTX公司獲得450億美元導彈合約，國防訂單激增帶動成交量。"
     },
     {
       "symbol": "BRK.B",
       "name": "BERKSHIRE HATHAWAY Class B",
-      "theme": "綜合保險",
+      "theme": "多元控股",
       "changePercent": 0.2998112299663183,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "波克夏海瑟威宣布以85億美元收購房屋建築商Taylor Morrison Home，並投資Alphabet。"
     },
     {
       "symbol": "RDDT",
       "name": "Reddit, Inc.",
       "theme": "社群媒體",
       "changePercent": -3.7861915367483254,
-      "reason": "Reddit第三季營收與獲利優於預期，但第四季財測疲軟且將實施登入限制，導致股價下跌。"
+      "reason": "Reddit第二季財報優於預期，廣告銷售強勁增長，股價飆升。"
     },
     {
       "symbol": "ALNY",
       "name": "Alnylam Pharmaceuticals, Inc.",
       "theme": "生技製藥",
       "changePercent": -25.12908777969019,
-      "reason": "Alnylam公布第三季財報，TTR藥物銷售持續增長，但Nucresiran三期臨床試驗擴大收案人數。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "JPM",
       "name": "JPMorgan Chase & Co.",
       "theme": "銀行",
       "changePercent": 1.2614205717653912,
-      "reason": "JPMorgan Chase公布第三季財報，營收與獲利表現穩健。"
+      "reason": "摩根大通Q4財報營收獲利均優於預期，但對信用卡利率上限擔憂導致股價下跌。"
     },
     {
       "symbol": "MRK",
       "name": "Merck & Co., Inc.",
       "theme": "生技製藥",
       "changePercent": 3.831689491236788,
-      "reason": "Merck公布優於預期的第三季財報，並上調全年財測，Keytruda銷售強勁。"
+      "reason": "默沙東第三季業績超出預期，Keytruda和Gardasil表現強勁，上調全年財測。"
     },
     {
       "symbol": "WMT",
       "name": "Walmart Inc. Common Stock",
       "theme": "零售",
       "changePercent": 2.0880693777890076,
-      "reason": "Walmart將關稅退款用於降價以吸引顧客，並擴展應用程式內的餐飲外送服務。"
+      "reason": "沃爾瑪獲多家分析師上調評級和目標價，機構投資者增持，提振股價。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於科技巨頭的財報表現與AI投資效益的疑慮。Alphabet因財報不如預期，特別是AI相關資本支出過高且自由現金流轉負，導致股價暴跌，拖累整體科技股和那斯達克指數。 相反地，Meta Platforms受惠於知名投資人的看好言論及AI助理Muse的成功，股價逆勢上漲。 記憶體與半導體設備族群則因SK海力士的強勁財報與對AI記憶體需求的樂觀預期而受到資金青睞。 市場正在交易的故事是，投資人開始嚴格檢視AI投資能否帶來實質回報，並將資金轉向有明確獲利前景或相對避險的標的。",
+    "highlights": "本日美股成交重點聚焦於大型科技股的財報表現與AI相關投資的影響。Alphabet (GOOGL, GOOG) 因搜尋廣告成長放緩及AI基礎設施的龐大資本支出導致自由現金流轉負，股價大幅下跌，拖累整體市場。 相較之下，亞馬遜 (AMZN) 和微軟 (MSFT) 的雲端服務 (AWS 和 Azure) 表現強勁，顯示企業對AI算力的需求依然旺盛。 此外，記憶體和半導體設備族群受SK海力士強勁展望激勵而走強，而蘋果 (AAPL) 則因推出首款觸控MacBook Pro而受到市場關注。",
     "eventsPast": [
       {
-        "title": "Alphabet 第三季財報爆雷",
-        "detail": "Alphabet於2026年10月29日公布第三季財報，EPS與營收雙雙低於市場預期，且資本支出龐大、自由現金流轉負，導致股價重挫12.48%，市值單日蒸發逾5000億美元。"
+        "title": "Alphabet 第三季財報不如預期",
+        "detail": "Alphabet (GOOGL, GOOG) 公布第三季營收與獲利均低於華爾街預期，主要受搜尋廣告成長放緩及AI基礎設施資本支出暴增影響，導致自由現金流轉負91億美元，股價應聲大跌逾12%。"
       },
       {
-        "title": "ServiceNow 財測不如預期股價暴跌",
-        "detail": "ServiceNow於2026年10月28日公布第三季財報，儘管營收超出預期，但第四季的關鍵財測數據（當前剩餘履約義務cRPO）低於分析師預期，引發市場對AI投資變現能力和未來訂單成長放緩的擔憂，導致股價暴跌近27%。"
+        "title": "亞馬遜第三季財報表現強勁",
+        "detail": "亞馬遜 (AMZN) 第三季營收年增12%至2019億美元，營業利益成長61%至281億美元，創下史上最高的13.9%營業利益率，其中AWS雲端服務營收年增39.3%，顯示其雲端業務持續強勁成長。"
       },
       {
-        "title": "聯準會維持利率不變",
-        "detail": "聯準會於2026年10月28日決議維持聯邦基金利率於3.75%至4.00%不變，符合市場預期，暫時消除了利率環境的不確定性，但對科技股的衝擊仍被Alphabet財報的利空覆蓋。"
+        "title": "微軟第一季財報優於預期",
+        "detail": "微軟 (MSFT) 2027會計年度第一季財報優於市場預期，受惠於人工智慧 (AI) 需求強勁，Azure雲端基礎設施業務營收年增48%，帶動公司整體營收成長19%。"
       },
       {
-        "title": "SK海力士財報創歷史新高",
-        "detail": "SK海力士於2026年10月28日公布第三季財報，營收與營業利潤雙雙創下歷史新高，並預期記憶體供給將持續供不應求至2030年，為記憶體與AI硬體需求提供長期信心支撐。"
+        "title": "ServiceNow 財報不如預期股價重挫",
+        "detail": "ServiceNow (NOW) 第三季財報表現不如預期，調整後每股盈餘低於市場預估，加上第四季訂閱營收指引成長放緩，導致股價單日重挫近27%，創下公司史上最大單日跌幅。"
       },
       {
-        "title": "Meta Platforms 股價上漲",
-        "detail": "潘興廣場首席執行官比爾·阿克曼公開表態稱Meta股價「被嚴重低估」，加上Meta在AI助理Muse上的成功，提振了市場信心，使其股價逆勢上漲1.96%。"
+        "title": "蘋果發表首款觸控螢幕MacBook Pro",
+        "detail": "蘋果 (AAPL) 推出首款搭載OLED面板和觸控螢幕的MacBook Pro，打破其近20年來反對觸控筆電的立場，並提供M5 Pro與M5 Max晶片選項，市場預期2027年出貨量可達150萬台。"
       }
     ],
-    "eventsUpcoming": [
-      {
-        "date": "11/2",
-        "title": "蘋果（AAPL）公布2026財年第四季業績",
-        "detail": "市場將關注蘋果新機銷售、零部件成本及下一季業務指引。"
-      }
-    ]
+    "eventsUpcoming": []
   }
 }
