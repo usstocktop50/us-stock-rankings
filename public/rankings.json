@@ -47,7 +47,7 @@
       "dollarVolume": 19803493629.95336,
       "marketCap": 1906454520000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "雲端服務",
+      "theme": "雲端/AI 軟體",
       "isNew": false,
       "rankChange": 5,
       "streak": 161
@@ -60,7 +60,7 @@
       "dollarVolume": 15292667425.51249,
       "marketCap": 3943506852056.19,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體 SaaS",
+      "theme": "雲端/AI 軟體",
       "isNew": false,
       "rankChange": 3,
       "streak": 161
@@ -99,7 +99,7 @@
       "dollarVolume": 12776098200.16412,
       "marketCap": 203027986080.28,
       "sector": "COMPUTER STORAGE DEVICES",
-      "theme": "儲存裝置",
+      "theme": "記憶體",
       "isNew": false,
       "rankChange": 2,
       "streak": 161
@@ -112,7 +112,7 @@
       "dollarVolume": 12305576483.02076,
       "marketCap": 5017916909400,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "消費性電子",
+      "theme": "消費電子",
       "isNew": false,
       "rankChange": -3,
       "streak": 161
@@ -125,7 +125,7 @@
       "dollarVolume": 11590565747.489326,
       "marketCap": 437050801440,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體 SaaS",
+      "theme": "雲端資料庫",
       "isNew": false,
       "rankChange": 16,
       "streak": 161
@@ -138,7 +138,7 @@
       "dollarVolume": 10973862212.908613,
       "marketCap": 1779086030000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "雲端服務",
+      "theme": "雲端/AI 軟體",
       "isNew": false,
       "rankChange": 5,
       "streak": 161
@@ -164,7 +164,7 @@
       "dollarVolume": 8857992270.189405,
       "marketCap": 2746195435431.1997,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電子商務",
+      "theme": "電商/雲端",
       "isNew": false,
       "rankChange": -1,
       "streak": 161
@@ -177,7 +177,7 @@
       "dollarVolume": 8088249501.76456,
       "marketCap": 1161420464628,
       "sector": "—",
-      "theme": "記憶體",
+      "theme": "HBM 記憶體",
       "isNew": false,
       "rankChange": 6,
       "streak": 41
@@ -190,7 +190,7 @@
       "dollarVolume": 7935820385.717135,
       "marketCap": 1679410722805.65,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "AI 晶片",
+      "theme": "AI 網路晶片",
       "isNew": false,
       "rankChange": -4,
       "streak": 161
@@ -203,7 +203,7 @@
       "dollarVolume": 7803970049.263888,
       "marketCap": 481853320000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "CPU",
+      "theme": "CPU/AI 晶片",
       "isNew": false,
       "rankChange": -3,
       "streak": 161
@@ -216,7 +216,7 @@
       "dollarVolume": 7251317704.582142,
       "marketCap": 158713501981.58002,
       "sector": "COMPUTER STORAGE DEVICES",
-      "theme": "儲存裝置",
+      "theme": "硬碟儲存",
       "isNew": false,
       "rankChange": -2,
       "streak": 96
@@ -229,7 +229,7 @@
       "dollarVolume": 5489317532.69317,
       "marketCap": 82788201241.2,
       "sector": "COMMUNICATIONS EQUIPMENT, NEC",
-      "theme": "光通訊",
+      "theme": "光通訊元件",
       "isNew": false,
       "rankChange": -1,
       "streak": 79
@@ -255,7 +255,7 @@
       "dollarVolume": 4667736910.754401,
       "marketCap": 93529026748.62,
       "sector": "ELECTRONIC COMPONENTS, NEC",
-      "theme": "資料中心基礎設施",
+      "theme": "資料中心散熱",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -294,7 +294,7 @@
       "dollarVolume": 4073390466.398441,
       "marketCap": 452803390280.49,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "大數據分析",
+      "theme": "AI 數據分析",
       "isNew": false,
       "rankChange": -5,
       "streak": 161
@@ -307,7 +307,7 @@
       "dollarVolume": 4018611496.668124,
       "marketCap": 220671885000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "AI 晶片",
+      "theme": "AI 網路晶片",
       "isNew": false,
       "rankChange": -3,
       "streak": 151
@@ -320,7 +320,7 @@
       "dollarVolume": 3803467819.7680135,
       "marketCap": 35259734965.86,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端運算",
+      "theme": "AI 雲端運算",
       "isNew": false,
       "rankChange": 4,
       "streak": 12
@@ -359,7 +359,7 @@
       "dollarVolume": 3505580247.7810664,
       "marketCap": 132102445142.79999,
       "sector": "AIRCRAFT",
-      "theme": "航空",
+      "theme": "航空製造",
       "isNew": false,
       "rankChange": -14,
       "streak": 2
@@ -411,7 +411,7 @@
       "dollarVolume": 2899011061.669664,
       "marketCap": 148389230296.98,
       "sector": "COMPUTER STORAGE DEVICES",
-      "theme": "儲存裝置",
+      "theme": "硬碟儲存",
       "isNew": false,
       "rankChange": -10,
       "streak": 159
@@ -450,7 +450,7 @@
       "dollarVolume": 2658231473.1877127,
       "marketCap": 1212750306839.5,
       "sector": "PHARMACEUTICAL PREPARATIONS",
-      "theme": "生技製藥",
+      "theme": "減肥藥 GLP-1",
       "isNew": false,
       "rankChange": 2,
       "streak": 12
@@ -567,7 +567,7 @@
       "dollarVolume": 2015925680.9076161,
       "marketCap": 155757753902.52002,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "電子電腦",
+      "theme": "伺服器/PC",
       "isNew": false,
       "rankChange": -16,
       "streak": 47
@@ -652,52 +652,13 @@
     }
   ],
   "asOf": "2026-10-28T20:00:00.000Z",
-  "generatedAt": "2026-10-29T11:25:29.286Z",
+  "generatedAt": "2026-10-30T02:05:35.031Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
-      "theme": "記憶體",
-      "reason": "AI應用對高頻寬記憶體(HBM)需求激增，帶動DRAM和NAND Flash市場復甦，相關供應商受惠。",
-      "symbols": [
-        "SKHY",
-        "MU"
-      ],
-      "count": 2,
-      "avgChange": 9.584853588227404
-    },
-    {
-      "theme": "資料中心基礎設施",
-      "reason": "AI發展對資料中心運算能力和散熱需求增加，推動相關基礎設施供應商的成長。",
-      "symbols": [
-        "VRT"
-      ],
-      "count": 1,
-      "avgChange": 16.484464902186417
-    },
-    {
-      "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型趨勢不變，雲端軟體服務持續受到青睞，尤其在效率提升和成本優化方面。",
-      "symbols": [
-        "ORCL"
-      ],
-      "count": 1,
-      "avgChange": 10.733164789703508
-    },
-    {
-      "theme": "儲存裝置",
-      "reason": "AI和數據量的爆炸性增長，對高效能、大容量儲存解決方案的需求持續提升。",
-      "symbols": [
-        "SNDK",
-        "STX",
-        "WDC"
-      ],
-      "count": 3,
-      "avgChange": 5.416143396877448
-    },
-    {
       "theme": "半導體設備",
-      "reason": "全球半導體產業景氣回升，晶圓廠擴產和技術升級需求，帶動設備供應商訂單增加。",
+      "reason": "AI 晶片需求持續增長，帶動上游半導體設備廠訂單與營收預期。",
       "symbols": [
         "AMAT",
         "LRCX",
@@ -708,118 +669,131 @@
       "avgChange": 3.8619040651666974
     },
     {
-      "theme": "AI 晶片",
-      "reason": "AI技術的快速發展，對高效能運算晶片的需求持續旺盛，推動相關晶片設計公司的業績增長。",
+      "theme": "記憶體",
+      "reason": "AI 應用對高頻寬記憶體（HBM）需求強勁，推升記憶體價格與相關廠商獲利預期。",
       "symbols": [
-        "AMD",
+        "MU",
+        "SNDK",
+        "SKHY"
+      ],
+      "count": 3,
+      "avgChange": 8.942705800998667
+    },
+    {
+      "theme": "AI 網路晶片",
+      "reason": "AI 資料中心擴建對高速網路傳輸需求大增，相關網路晶片供應商受惠。",
+      "symbols": [
         "AVGO",
         "MRVL"
       ],
-      "count": 3,
-      "avgChange": 3.1105004144941724
+      "count": 2,
+      "avgChange": 3.043289621491369
+    },
+    {
+      "theme": "硬碟儲存",
+      "reason": "AI 數據量爆炸式增長，對資料儲存設備需求持續增加。",
+      "symbols": [
+        "STX",
+        "WDC"
+      ],
+      "count": 2,
+      "avgChange": 4.295009982045578
+    },
+    {
+      "theme": "雲端/AI 軟體",
+      "reason": "企業加速導入 AI 應用，帶動雲端服務與 AI 軟體解決方案需求。",
+      "symbols": [
+        "GOOGL",
+        "GOOG"
+      ],
+      "count": 2,
+      "avgChange": 1.4707545950958405
+    },
+    {
+      "theme": "AI 晶片",
+      "reason": "AI 算力需求持續攀升，市場對 AI 晶片領導廠商的成長前景保持樂觀。",
+      "symbols": [
+        "AMD"
+      ],
+      "count": 1,
+      "avgChange": 3.2449220004997796
     }
   ],
   "newEntrants": [
     {
       "symbol": "VRT",
       "name": "Vertiv Holdings Co Class A Common Stock",
-      "theme": "資料中心基礎設施",
+      "theme": "資料中心散熱",
       "changePercent": 16.484464902186417,
-      "reason": "財報亮眼，有機訂單翻倍成長，受惠AI基礎設施建置加速。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "BSX",
       "name": "Boston Scientific Corp.",
       "theme": "醫療器材",
       "changePercent": -5.836662228140263,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "第四季展望疲軟、下調全年財測，加上網路安全事件影響營運。"
     },
     {
       "symbol": "CAT",
       "name": "Caterpillar Inc.",
       "theme": "重型機械",
       "changePercent": 0.00981340511138916,
-      "reason": "擴大與Luck Stone的自動化運輸合作，並與FieldAI合作導入AI技術。"
+      "reason": "第三季財報公布前股價走揚，受惠於AI資料中心基礎設施需求。"
     },
     {
       "symbol": "NXPI",
       "name": "NXP Semiconductors N.V.",
       "theme": "車用晶片",
       "changePercent": -0.7140039447731765,
-      "reason": "第三季財報優於預期，並獲福斯汽車選為策略技術夥伴。"
+      "reason": "第四季財測僅符預期，導致股價承壓，但隨後出現反彈。"
     },
     {
       "symbol": "CBRS",
       "name": "Cerebras Systems Inc. Class A Common Stock",
       "theme": "AI 晶片",
       "changePercent": -5.657530802112145,
-      "reason": "多家券商給予看漲評級，且與Oracle建立雲端合作夥伴關係。"
+      "reason": "AI雲端分銷擴張，但受空頭報告、潛在法律問題和股票供應增加影響。"
     },
     {
       "symbol": "FTNT",
       "name": "Fortinet, Inc.",
       "theme": "資安",
       "changePercent": -5.902702702702696,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "第三季毛利率不如預期，儘管營收獲利優於預期，股價仍大跌。"
     },
     {
       "symbol": "KLAC",
       "name": "KLA Corporation Common Stock",
       "theme": "半導體設備",
       "changePercent": 3.3255238838995274,
-      "reason": "受惠於AI帶動的記憶體市場需求，分析師上調目標價。"
+      "reason": "第一季財報營收優於預期，且對AI基礎設施支出展望樂觀。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI相關題材，特別是記憶體、儲存裝置、雲端軟體SaaS、AI晶片及半導體設備等族群。資金主要受惠於SK海力士財報報喜、中國雲端服務供應商對記憶體長期供貨協議的提議，以及Anthropic上市消息帶動的AI晶片買氣回溫。 儘管聯準會維持利率不變，但市場對AI投資效益與資金成本的疑慮仍存，導致部分大型科技股如Meta、Nvidia和Alphabet盤中或盤後表現分歧。",
+    "highlights": "本日美股成交重點聚焦於AI相關題材，記憶體與AI晶片族群表現強勁，特別是美光（MU）、SanDisk（SNDK）和SK海力士（SKHY）受惠於AI對高頻寬記憶體（HBM）的強勁需求而大漲。雲端資料庫巨頭甲骨文（ORCL）因其AI雲端基礎設施（OCI）的強勁成長目標和與OpenAI的合作而獲得市場青睞。然而，Alphabet（GOOGL, GOOG）因財報不如預期及AI支出疑慮而大跌，顯示市場對AI投資回報的審慎態度。",
     "eventsPast": [
       {
-        "title": "聯準會維持利率不變",
-        "detail": "美國聯準會於10月28日結束為期兩天的FOMC會議，決議將聯邦基金利率維持在3.75%至4%，符合市場預期，但有兩名成員主張升息。"
+        "title": "SanDisk財報亮眼並宣布股票分割",
+        "detail": "SanDisk（SNDK）公布上季營收和獲利雙雙優於預期，並宣布將進行1拆8的股票分割，預計11月19日生效，受AI需求強勁影響，資料中心營收大幅成長。"
       },
       {
-        "title": "SK海力士財報報喜帶動記憶體股上漲",
-        "detail": "SK海力士第三季營業利益增至去年同期逾七倍，且其CEO表示DRAM和HBM產能售罄至2029年，帶動美光和SK海力士等記憶體類股大漲。"
+        "title": "甲骨文投資人日釋出強勁展望",
+        "detail": "甲骨文（ORCL）在投資人日宣布，預計到2030財年總營收將達到2,250億美元以上，年複合成長率超過35%，並預期AI雲端基礎設施（OCI）需求強勁。"
       },
       {
-        "title": "中國雲端服務供應商擬簽訂記憶體長期供貨協議",
-        "detail": "韓媒傳出，阿里巴巴、騰訊及字節跳動等中國雲端服務供應商已向三星電子與SK海力士提議簽訂最長達10年的長期供貨協議，以緩解AI需求激增造成的記憶體短缺。"
+        "title": "Alphabet財報失色股價暴跌",
+        "detail": "Alphabet（GOOGL, GOOG）第三季財報不如預期，核心搜尋業務成長放緩，且AI支出激增引發市場疑慮，導致股價重挫逾12%。"
       },
       {
-        "title": "微軟財報優於預期，盤後股價上漲",
-        "detail": "微軟2027會計年度第一季營收和獲利均超預期，Azure雲端基礎設施業務營收年增48%，自由現金流穩健，盤後股價上漲。"
+        "title": "科磊（KLAC）財報優於預期",
+        "detail": "半導體設備商科磊（KLAC）公布第一季營收和獲利均優於市場預期，並釋出樂觀的第二季財測，激勵股價上漲。"
       },
       {
-        "title": "Alphabet財報不如預期，盤後股價下跌",
-        "detail": "Alphabet第三季營收雖年增25%，Google雲端營收翻倍，但整體營收與獲利不及市場預期，自由現金流為負91億美元，導致盤後股價重挫。"
+        "title": "Meta Platforms發行普通股用於AI建設",
+        "detail": "Meta Platforms（META）發行250億美元普通股，獲得投資者踴躍認購，計畫將募集資金用於AI基礎設施建設及個人超級智能技術研發。"
       }
     ],
-    "eventsUpcoming": [
-      {
-        "date": "10月29日美股盤後",
-        "title": "亞馬遜（AMZN）公布財報",
-        "detail": "市場關注其AWS雲端服務的成長率、電商與廣告業務表現，以及2200億美元資本支出對自由現金流的影響。"
-      },
-      {
-        "date": "台灣時間10月29日晚間20:30",
-        "title": "美國第三季GDP與9月個人所得與支出（含PCE）",
-        "detail": "這些經濟數據將影響聯準會對未來利率政策的判斷，進而牽動市場對科技股的估值。"
-      },
-      {
-        "date": "10月29日盤後",
-        "title": "英特爾（INTC）公布財報",
-        "detail": "在股價回落至近三個月低點附近之際，市場關注其第三季財報表現。"
-      },
-      {
-        "date": "12月8日至9日",
-        "title": "FOMC會議",
-        "detail": "聯準會將召開會議並公布經濟預測與點陣圖，市場將密切關注是否會再次升息。"
-      },
-      {
-        "date": "本週五",
-        "title": "蘋果首款觸控MacBook Pro開放預訂",
-        "detail": "蘋果發表首款觸控螢幕MacBook Pro，搭載M5 Pro與M5 Max晶片，台灣將於本週五開放預訂。"
-      }
-    ]
+    "eventsUpcoming": []
   }
 }
