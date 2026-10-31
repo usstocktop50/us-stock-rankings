@@ -21,7 +21,7 @@
       "dollarVolume": 29818663835.519382,
       "marketCap": 331693440000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "CPU",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": 7,
       "streak": 163
@@ -47,7 +47,7 @@
       "dollarVolume": 24969951308.51603,
       "marketCap": 2592490467030.1997,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電商與雲端服務",
+      "theme": "電子商務",
       "isNew": false,
       "rankChange": 1,
       "streak": 163
@@ -112,7 +112,7 @@
       "dollarVolume": 18410513880.721508,
       "marketCap": 1642101119999.9998,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "雲端與廣告",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": -8,
       "streak": 163
@@ -164,7 +164,7 @@
       "dollarVolume": 12576261490.244696,
       "marketCap": 1537721940000.0002,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "雲端與廣告",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": -11,
       "streak": 163
@@ -177,7 +177,7 @@
       "dollarVolume": 11897799375.58362,
       "marketCap": 1556585226379.2,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網通晶片",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": 4,
       "streak": 163
@@ -203,7 +203,7 @@
       "dollarVolume": 8532355560.168884,
       "marketCap": 172223160000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網通晶片",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": -2,
       "streak": 153
@@ -294,7 +294,7 @@
       "dollarVolume": 4454447635.8911495,
       "marketCap": 133838301668.40001,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "伺服器與PC",
+      "theme": "電腦硬體",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -346,7 +346,7 @@
       "dollarVolume": 3992376749.1245356,
       "marketCap": 175969272358.53,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "手機晶片",
+      "theme": "無線通訊晶片",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -372,7 +372,7 @@
       "dollarVolume": 3913105004.202754,
       "marketCap": 274741433856.24,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "類比晶片",
+      "theme": "半導體",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -515,7 +515,7 @@
       "dollarVolume": 3278038042.957493,
       "marketCap": 202117101106.15,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "類比晶片",
+      "theme": "半導體",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -580,7 +580,7 @@
       "dollarVolume": 2936619683.1337557,
       "marketCap": 30262813351.739998,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體 SaaS",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": -17,
       "streak": 14
@@ -632,7 +632,7 @@
       "dollarVolume": 2682426911.0730457,
       "marketCap": 187158861575.28,
       "sector": "BEVERAGES",
-      "theme": "食品飲料",
+      "theme": "飲料食品",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-10-30T20:00:00.000Z",
-  "generatedAt": "2026-10-31T08:43:51.476Z",
+  "generatedAt": "2026-10-31T10:54:09.345Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "零售百貨",
-      "reason": "通膨趨緩與消費信心回升，帶動零售業者業績成長。",
+      "reason": "在通膨壓力下，消費者轉向大型零售商尋求更具成本效益的商品，帶動業績成長。",
       "symbols": [
         "WMT",
         "COST"
@@ -668,7 +668,7 @@
     },
     {
       "theme": "金融支付",
-      "reason": "全球經濟活動逐漸復甦，帶動支付交易量增加。",
+      "reason": "全球經濟活動逐漸復甦，帶動消費支出和交易量增加，有利於支付處理服務商。",
       "symbols": [
         "V",
         "MA"
@@ -678,7 +678,7 @@
     },
     {
       "theme": "減肥藥 GLP-1",
-      "reason": "GLP-1藥物市場潛力巨大，持續吸引資金關注。",
+      "reason": "市場對GLP-1藥物的需求持續強勁，相關藥廠的營收和獲利預期樂觀。",
       "symbols": [
         "LLY"
       ],
@@ -687,7 +687,7 @@
     },
     {
       "theme": "石油與天然氣",
-      "reason": "國際油價波動與地緣政治因素，影響能源股表現。",
+      "reason": "國際油價波動，地緣政治緊張局勢可能推升能源價格，對石油公司有利。",
       "symbols": [
         "XOM"
       ],
@@ -695,8 +695,8 @@
       "avgChange": 2.16051066615746
     },
     {
-      "theme": "食品飲料",
-      "reason": "民生消費品需求穩定，提供防禦性投資機會。",
+      "theme": "飲料食品",
+      "reason": "民生必需品需求穩定，即使在經濟不確定時期，消費者對飲料食品的支出仍保持韌性。",
       "symbols": [
         "PEP"
       ],
@@ -705,7 +705,7 @@
     },
     {
       "theme": "串流媒體",
-      "reason": "訂閱戶成長與內容策略奏效，支撐股價表現。",
+      "reason": "訂閱用戶數穩定增長，且內容策略奏效，市場對其未來表現持觀望態度。",
       "symbols": [
         "NFLX"
       ],
@@ -717,109 +717,89 @@
     {
       "symbol": "DELL",
       "name": "Dell Technologies Inc.",
-      "theme": "伺服器與PC",
+      "theme": "電腦硬體",
       "changePercent": -10.769489600639309,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "MSTR",
       "name": "Strategy Inc Common Stock Class A",
       "theme": "比特幣/加密",
       "changePercent": -7.844937155768969,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "QCOM",
       "name": "Qualcomm Inc",
-      "theme": "手機晶片",
+      "theme": "無線通訊晶片",
       "changePercent": -11.121298743325605,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "TXN",
       "name": "Texas Instruments Incorporated",
-      "theme": "類比晶片",
+      "theme": "半導體",
       "changePercent": -3.866555889307862,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "COST",
       "name": "Costco Wholesale Corp",
       "theme": "零售百貨",
       "changePercent": 1.6263753915348094,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動"
+      "reason": "Costco在近期銷售黃金條，引起市場關注與交易量增加。"
     },
     {
       "symbol": "ADI",
       "name": "Analog Devices, Inc.",
-      "theme": "類比晶片",
+      "theme": "半導體",
       "changePercent": -3.731997784342679,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "COIN",
       "name": "Coinbase Global, Inc. Class A Common Stock",
       "theme": "比特幣/加密",
       "changePercent": -10.617099445793643,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動"
+      "reason": "Coinbase受比特幣ETF即將推出消息影響，交易量增加。"
     },
     {
       "symbol": "PEP",
       "name": "PepsiCo, Inc.",
-      "theme": "食品飲料",
+      "theme": "飲料食品",
       "changePercent": 2.6534120636818983,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點集中在科技巨頭，特別是AI晶片相關個股如Nvidia、Intel和AMD，儘管這些股票普遍下跌，但仍吸引了大量資金。市場故事主要圍繞在對科技股未來表現的擔憂，以及部分公司財報或財測不如預期所引發的賣壓。此外，記憶體和儲存裝置類股也因Micron和Sandisk的大幅下跌而受到關注。",
+    "highlights": "本日美股成交量前段個股主要集中在半導體和AI晶片相關類股，例如Nvidia、Intel、Micron、Sandisk、AMD、Broadcom和TSM，顯示市場資金仍高度關注AI產業鏈的發展。其中，Intel因近期財報表現不佳，股價大幅下跌近三成，成為當日焦點。此外，Amazon、Apple、Microsoft和Alphabet等科技巨頭也榜上有名，但跌幅相對較小，反映市場對其基本面仍具信心。Meta則因財報顯示獲利與營收脫鉤、自由現金流轉負等因素，股價也出現下跌。",
     "eventsPast": [
       {
-        "title": "Intel財報不如預期",
-        "detail": "Intel公布的最新財報和財測表現不佳，導致股價大幅下跌近29%。"
+        "title": "Intel 公布第三季財報，股價大跌",
+        "detail": "Intel 於 2026 年 10 月 29 日公布第三季財報，儘管營收年增 21% 達到 165 億美元，但其第四季財測不如預期，且受到 PC 產業逆風影響，導致股價在 10 月 30 日大幅下跌 28.58%。"
       },
       {
-        "title": "Nvidia股價下跌",
-        "detail": "Nvidia股價下跌超過4%，可能與整體科技股的修正以及市場對AI晶片需求前景的重新評估有關。"
+        "title": "Alphabet 公布第三季財報，雲端業務強勁成長",
+        "detail": "Alphabet 於 2026 年 10 月 28 日公布第三季財報，總營收年增 25% 達 1276 億美元，其中 Google Cloud 營收年增 103% 達 307 億美元，顯示其在 AI 基礎設施和解決方案方面的強勁需求。"
       },
       {
-        "title": "Micron股價重挫",
-        "detail": "記憶體大廠Micron股價下跌超過5%，可能受到半導體產業景氣下行壓力影響。"
+        "title": "Microsoft 公布第一季財報，雲端業務表現亮眼",
+        "detail": "Microsoft 於 2026 年 10 月 28 日公布第一季財報，營收年增 19% 達 923 億美元，其中 Microsoft Cloud 營收達 639 億美元，年增 30%，顯示其雲端和 AI 實力持續推動業績成長。"
       },
       {
-        "title": "Sandisk股價大跌",
-        "detail": "儲存裝置公司Sandisk股價下跌超過13%，可能與整體半導體產業的疲軟態勢有關。"
+        "title": "Meta 公布第三季財報，獲利與營收脫鉤且自由現金流轉負",
+        "detail": "Meta 於 2026 年 10 月 21 日公布第三季財報，營收年增 26.1% 達 646 億美元，但排除和解費用後的核心 EPS 僅成長 2.1%，且自由現金流首次轉負，引發市場對其獲利能力和資本支出的擔憂。"
       },
       {
-        "title": "AMD股價下跌",
-        "detail": "AMD股價下跌超過10%，可能受到Intel財報影響以及市場對AI晶片競爭加劇的擔憂。"
+        "title": "Micron 公布第四季財報，AI 需求帶動業績創紀錄",
+        "detail": "Micron 於 2026 年 9 月 30 日公布第四季財報，營收達 542.3 億美元，GAAP 淨利潤達 377 億美元，均創下歷史新高，主要受惠於 AI 驅動的需求和強勁的營運執行。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "下週",
-        "title": "聯準會利率決議",
-        "detail": "市場將密切關注聯準會對未來利率政策的態度，可能影響科技股和整體市場走向。"
-      },
-      {
-        "date": "未來幾天",
-        "title": "重要經濟數據公布",
-        "detail": "包括CPI和就業數據等，將提供通膨和經濟成長的最新線索，影響市場情緒。"
-      },
-      {
-        "date": "待定",
-        "title": "部分科技巨頭財報",
-        "detail": "部分榜上熱門股可能在近期公布財報，其財報內容和財測將是市場關注焦點。"
-      },
-      {
-        "date": "待定",
-        "title": "AI產業發展動態",
-        "detail": "AI晶片和相關技術的最新進展，可能對Nvidia、AMD等公司股價產生影響。"
-      },
-      {
-        "date": "待定",
-        "title": "半導體產業展望",
-        "detail": "記憶體和儲存裝置產業的未來展望，將影響Micron和Sandisk等公司的股價表現。"
+        "date": "11/2",
+        "title": "Apple 公布第四季財報",
+        "detail": "Apple 預計於 2026 年 11 月 2 日美國市場收盤後公布 2026 財年第四季財報，市場關注其 iPhone、Mac 和 iPad 的供應狀況以及零組件和記憶體成本的影響。"
       }
     ]
   }
