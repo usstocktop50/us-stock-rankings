@@ -112,7 +112,7 @@
       "dollarVolume": 11476081000.687975,
       "marketCap": 464401079999.99994,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "CPU 處理器",
       "isNew": false,
       "rankChange": 7,
       "streak": 162
@@ -138,7 +138,7 @@
       "dollarVolume": 9807933148.932045,
       "marketCap": 1954179257088.0098,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "太空",
+      "theme": "太空科技",
       "isNew": false,
       "rankChange": -4,
       "streak": 97
@@ -151,7 +151,7 @@
       "dollarVolume": 9525207418.303907,
       "marketCap": 924666513289.6399,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "AI 晶片",
+      "theme": "CPU/GPU 晶片",
       "isNew": false,
       "rankChange": 0,
       "streak": 162
@@ -177,7 +177,7 @@
       "dollarVolume": 9224445341.312761,
       "marketCap": 191462346000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網通晶片",
+      "theme": "資料中心晶片",
       "isNew": false,
       "rankChange": 10,
       "streak": 152
@@ -203,7 +203,7 @@
       "dollarVolume": 7017770273.272417,
       "marketCap": 83293653577.68,
       "sector": "COMMUNICATIONS EQUIPMENT, NEC",
-      "theme": "光通訊",
+      "theme": "光通訊元件",
       "isNew": false,
       "rankChange": 2,
       "streak": 80
@@ -229,7 +229,7 @@
       "dollarVolume": 5859279068.3387575,
       "marketCap": 1646902303425,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網通晶片",
+      "theme": "網路通訊晶片",
       "isNew": false,
       "rankChange": -3,
       "streak": 162
@@ -320,7 +320,7 @@
       "dollarVolume": 3158074620.6771646,
       "marketCap": 699606425394.76,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "數位支付",
+      "theme": "支付服務",
       "isNew": false,
       "rankChange": 8,
       "streak": 16
@@ -372,7 +372,7 @@
       "dollarVolume": 2882332447.3127327,
       "marketCap": 136457383953,
       "sector": "AIRCRAFT",
-      "theme": "航空",
+      "theme": "航空航太",
       "isNew": false,
       "rankChange": -1,
       "streak": 3
@@ -385,7 +385,7 @@
       "dollarVolume": 2828116392.891013,
       "marketCap": 552718337905.5,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "數位支付",
+      "theme": "支付服務",
       "isNew": false,
       "rankChange": 12,
       "streak": 3
@@ -515,7 +515,7 @@
       "dollarVolume": 2342814324.9654684,
       "marketCap": 269078445271.2,
       "sector": "AIRCRAFT ENGINES & ENGINE PARTS",
-      "theme": "國防",
+      "theme": "國防航太",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -554,7 +554,7 @@
       "dollarVolume": 2241437444.7352395,
       "marketCap": 65724481964.700005,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "氫能源",
+      "theme": "燃料電池",
       "isNew": false,
       "rankChange": -14,
       "streak": 42
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-10-29T20:00:00.000Z",
-  "generatedAt": "2026-10-30T11:19:52.645Z",
+  "generatedAt": "2026-10-31T02:06:18.645Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "生技製藥",
-      "reason": "市場對新藥研發進展和併購活動保持高度關注，推動相關個股上漲。",
+      "reason": "市場對新藥研發和生物科技的潛力持續看好，特別是具備創新技術或成功臨床試驗的藥廠。",
       "symbols": [
         "LLY",
         "MRNA",
@@ -669,7 +669,7 @@
     },
     {
       "theme": "半導體設備",
-      "reason": "全球半導體產業持續擴張，對先進製程設備的需求旺盛，帶動設備供應商表現。",
+      "reason": "全球半導體產業擴張，對先進製程設備的需求持續增長，帶動相關設備供應商表現。",
       "symbols": [
         "AMAT",
         "KLAC",
@@ -680,8 +680,8 @@
       "avgChange": 1.9530865238270871
     },
     {
-      "theme": "數位支付",
-      "reason": "隨著數位經濟的發展，電子支付和金融科技服務的需求持續增長，支撐相關公司股價。",
+      "theme": "支付服務",
+      "reason": "數位支付和電子商務的普及，推動了支付處理服務公司的營收增長和市場份額擴大。",
       "symbols": [
         "V",
         "MA"
@@ -690,40 +690,41 @@
       "avgChange": 3.320729487276851
     },
     {
-      "theme": "社群媒體",
-      "reason": "廣告收入增長預期和用戶參與度提升，使社群媒體平台受到投資者青睞。",
+      "theme": "零售百貨",
+      "reason": "消費者支出數據和企業財報顯示零售業表現穩健，尤其是在必需品和折扣零售領域。",
       "symbols": [
-        "META"
+        "WMT"
       ],
       "count": 1,
-      "avgChange": 1.9641136998155027
-    },
-    {
-      "theme": "消費性電子",
-      "reason": "新產品發布和市場需求回溫，為消費性電子巨頭帶來利好。",
-      "symbols": [
-        "AAPL"
-      ],
-      "count": 1,
-      "avgChange": 1.477474333246093
+      "avgChange": 2.0880693777890076
     },
     {
       "theme": "電力基礎建設",
-      "reason": "全球能源轉型和電網現代化需求，推動電力基礎設施相關企業的成長。",
+      "reason": "全球能源轉型和電網現代化需求，使得電力基礎設施相關企業受到關注。",
       "symbols": [
         "GEV"
       ],
       "count": 1,
       "avgChange": 1.1184128104962303
+    },
+    {
+      "theme": "航空航太",
+      "reason": "全球旅遊復甦和國防開支增加，提振了航空製造商和國防承包商的訂單前景。",
+      "symbols": [
+        "BA",
+        "RTX"
+      ],
+      "count": 2,
+      "avgChange": 2.5572240034380855
     }
   ],
   "newEntrants": [
     {
       "symbol": "RTX",
       "name": "RTX Corporation",
-      "theme": "國防",
+      "theme": "國防航太",
       "changePercent": 1.817810457516341,
-      "reason": "RTX公布Q3財報優於預期，國防和商業航空業務表現良好，訂單積壓創紀錄達3400億美元。"
+      "reason": "受惠於AI帶動CPU需求爆增，輝達RTX PRO系列工作站GPU繪圖卡持續放量交付。"
     },
     {
       "symbol": "BRK.B",
@@ -737,86 +738,86 @@
       "name": "Reddit, Inc.",
       "theme": "社群媒體",
       "changePercent": -3.7861915367483254,
-      "reason": "Reddit公布Q3營收和獲利優於預期，但CEO警告Q4活躍用戶可能因Google AI搜尋下降。"
+      "reason": "Reddit論壇上對Palantir的評論量超過其他熱門公司，顯示散戶投資者興趣濃厚。"
     },
     {
       "symbol": "ALNY",
       "name": "Alnylam Pharmaceuticals, Inc.",
       "theme": "生技製藥",
       "changePercent": -25.12908777969019,
-      "reason": "Alnylam Q3財報營收獲利優於預期，但Amvuttra銷售成長放緩且遭分析師降評。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "JPM",
       "name": "JPMorgan Chase & Co.",
       "theme": "金融服務",
       "changePercent": 1.2614205717653912,
-      "reason": "JPMorgan Q3財報淨利息收入展望改善，且JPM Coin擴展至以太坊區塊鏈。"
+      "reason": "摩根大通策略師表示，全球經濟軟著陸可能性越來越高。"
     },
     {
       "symbol": "MRK",
       "name": "Merck & Co., Inc.",
       "theme": "生技製藥",
       "changePercent": 3.831689491236788,
-      "reason": "Merck Q3財報獲利和營收均優於預期，並上調全年財測。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "WMT",
       "name": "Walmart Inc. Common Stock",
       "theme": "零售百貨",
       "changePercent": 2.0880693777890076,
-      "reason": "Walmart Q3財報優於預期，且機構投資者增持股份。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於科技巨頭的財報表現與AI相關投資。Alphabet (GOOGL, GOOG) 因搜尋廣告成長放緩及AI基礎設施龐大資本支出，導致營收與獲利不如預期，股價大幅下跌，拖累整體市場情緒。 相反地，微軟 (MSFT) 受惠於Azure雲端業務強勁成長，營收與獲利均超預期，顯示AI需求持續推動雲端服務發展。 亞馬遜 (AMZN) 雖然雲端服務AWS表現亮眼，但同樣面臨AI投資導致自由現金流下降的疑慮。 記憶體和半導體設備族群在SK海力士釋出強勁展望後走強，但花旗對半導體設備股的潛在跌幅提出警告。 生技製藥族群則因大型藥廠併購需求與AI加速藥物研發的利多，吸引資金流入，表現相對穩健。",
+    "highlights": "本日美股成交重點聚焦於科技巨頭的財報表現與AI產業的資金流向。Alphabet (GOOGL, GOOG) 因財報不如預期，導致雲端服務板塊承壓，成交量顯著放大。同時，市場對AI晶片與記憶體的需求持續強勁，但部分半導體設備商因晶圓廠資本支出不明朗及估值過高而面臨修正。此外，電力基礎建設族群受惠於AI資料中心用電需求，以及零售百貨業在通膨壓力下的防禦性特質，吸引了部分資金流入。",
     "eventsPast": [
       {
-        "title": "Alphabet (GOOGL, GOOG) 第三季財報不如預期",
-        "detail": "Alphabet 因搜尋廣告成長放緩，且AI基礎設施資本支出暴增，導致第三季營收與獲利雙雙低於華爾街預期，股價大幅下跌超過12%。"
+        "title": "Alphabet 財報不如預期，股價大跌",
+        "detail": "Alphabet (GOOGL, GOOG) 在10月29日公布財報後，因表現不如預期，導致股價大幅下跌超過12%，拖累雲端服務板塊。"
       },
       {
-        "title": "微軟 (MSFT) 第一季財報優於預期",
-        "detail": "微軟受惠於AI需求強勁，Azure雲端基礎設施業務營收年增48%，帶動公司整體營收成長19%，營收獲利均超預期，盤後股價上漲約4%。"
+        "title": "Intel 財測遠低於預期，股價暴跌",
+        "detail": "Intel (INTC) 在10月30日公布的第四季財測遠低於市場預期，導致股價暴跌28.58%，市值蒸發近1400億美元。"
       },
       {
-        "title": "ServiceNow (NOW) 第三季財報好壞參半，股價重挫",
-        "detail": "ServiceNow 第三季營收略高於預期，但獲利不如預期，加上合約成長可能放緩的跡象，掩蓋了AI展望上調的利多，導致股價盤後重挫18%。"
+        "title": "GE Vernova 獲利狂飆並收購電網大廠",
+        "detail": "電力基礎建設公司GE Vernova (GEV) 在10月28日公布第三季財報，獲利年增193%，並宣布以90億美元收購高壓電網設備商Trench Group，同時第三度上修全年營收預測，反映資料中心用電需求強勁。"
       },
       {
-        "title": "亞馬遜 (AMZN) 第三季財報公布，AWS成長強勁",
-        "detail": "亞馬遜第三季淨銷售額成長12%至2019億美元，營業利益成長61%至281億美元，其中AWS雲端服務淨銷售額成長39.3%，為近五年來最快增速。"
+        "title": "美國第三季GDP增長超預期，Fed維持利率不變",
+        "detail": "美國商務部10月29日公布，第三季度實際GDP環比年率增長3.4%，優於市場預期，主要由個人消費和企業投資（尤其是AI領域）拉動。 美國聯準會也在10月28日宣布，將聯邦基金利率目標區間維持在3.75%至4%不變。"
       },
       {
-        "title": "Nvidia (NVDA) 投資韓國Naver 10億美元",
-        "detail": "Nvidia 宣布將向韓國科技巨頭Naver投資10億美元，成為其第三大股東，旨在建立大規模全球AI工廠，進一步強化其在AI領域的佈局。"
+        "title": "半導體設備股面臨修正壓力",
+        "detail": "應用材料 (AMAT)、科磊 (KLAC) 和泛林集團 (LRCX) 等半導體設備巨頭近期表現不佳，主要原因是對晶圓廠資本支出節奏的擔憂、高估值下的獲利回吐，以及地緣政治貿易限制的持續施壓。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "本週四",
-        "title": "美國聯準會 (Fed) 利率決策",
-        "detail": "聯準會於週三結束為期兩日的會議後，宣布將基準利率目標維持在3.75%至4%區間，市場普遍預期按兵不動，但有兩名成員主張升息1碼。"
-      },
-      {
-        "date": "本週四",
-        "title": "美國GDP初值",
-        "detail": "今日操盤前瞻包含美國GDP初值數據，將影響市場對經濟狀況的評估。"
-      },
-      {
-        "date": "本週四",
-        "title": "美國PEC數據",
-        "detail": "今日操盤前瞻包含美國PEC數據，將影響市場對通膨的預期。"
+        "date": "本週三",
+        "title": "聯準會利率決議會議",
+        "detail": "市場普遍預期聯準會將維持利率不變，但需關注其對未來通膨和經濟前景的看法。"
       },
       {
         "date": "本週五",
-        "title": "首款觸控MacBook Pro台灣開放預訂",
-        "detail": "蘋果 (AAPL) 週三發表首款觸控螢幕MacBook Pro，台灣將於週五開放預訂，此為蘋果近20年來首次推出觸控筆電。"
+        "title": "美國製造業PMI數據",
+        "detail": "此數據將反映美國製造業的景氣狀況，對市場情緒可能產生影響。"
       },
       {
-        "date": "下週",
-        "title": "NVIDIA 權利發行",
-        "detail": "NVIDIA 預計在下週進行權利發行，以確定其在Naver的普通股購買數量。"
+        "date": "2027年第一季",
+        "title": "禮來新藥retatrutide提交FDA審查",
+        "detail": "禮來 (LLY) 針對肥胖症的新藥retatrutide，在試驗中展現顯著減重效果，預計於2027年第一季提交FDA審查。"
+      },
+      {
+        "date": "2027年底",
+        "title": "GE Vernova 收購Trench Group 完成交割",
+        "detail": "GE Vernova 以90億美元收購高壓電網設備商Trench Group 的交易預計於2027年底完成，將擴大其電網零組件產能。"
+      },
+      {
+        "date": "2027年",
+        "title": "莫德納與默沙東黑色素瘤藥物目標獲批上市",
+        "detail": "莫德納 (MRNA) 與默沙東 (MRK) 合作開發的黑色素瘤藥物，目標在2027年獲批上市。"
       }
     ]
   }
