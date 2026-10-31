@@ -21,7 +21,7 @@
       "dollarVolume": 29818663835.519382,
       "marketCap": 331693440000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體製造",
+      "theme": "CPU",
       "isNew": false,
       "rankChange": 7,
       "streak": 163
@@ -47,7 +47,7 @@
       "dollarVolume": 24969951308.51603,
       "marketCap": 2592490467030.1997,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電子商務",
+      "theme": "電商與雲端服務",
       "isNew": false,
       "rankChange": 1,
       "streak": 163
@@ -71,7 +71,7 @@
       "price": 1150.89,
       "changePercent": -13.470170294349826,
       "dollarVolume": 20432616476.1791,
-      "marketCap": 166335328131.96002,
+      "marketCap": 165728160000,
       "sector": "COMPUTER STORAGE DEVICES",
       "theme": "儲存裝置",
       "isNew": false,
@@ -112,7 +112,7 @@
       "dollarVolume": 18410513880.721508,
       "marketCap": 1642101119999.9998,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "雲端服務",
+      "theme": "雲端與廣告",
       "isNew": false,
       "rankChange": -8,
       "streak": 163
@@ -164,7 +164,7 @@
       "dollarVolume": 12576261490.244696,
       "marketCap": 1537721940000.0002,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "雲端服務",
+      "theme": "雲端與廣告",
       "isNew": false,
       "rankChange": -11,
       "streak": 163
@@ -177,7 +177,7 @@
       "dollarVolume": 11897799375.58362,
       "marketCap": 1556585226379.2,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "AI 網路晶片",
+      "theme": "網通晶片",
       "isNew": false,
       "rankChange": 4,
       "streak": 163
@@ -203,7 +203,7 @@
       "dollarVolume": 8532355560.168884,
       "marketCap": 172223160000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "AI 網路晶片",
+      "theme": "網通晶片",
       "isNew": false,
       "rankChange": -2,
       "streak": 153
@@ -229,7 +229,7 @@
       "dollarVolume": 6447819938.850661,
       "marketCap": 76153007039.2,
       "sector": "COMMUNICATIONS EQUIPMENT, NEC",
-      "theme": "光通訊元件",
+      "theme": "光通訊",
       "isNew": false,
       "rankChange": -2,
       "streak": 81
@@ -294,7 +294,7 @@
       "dollarVolume": 4454447635.8911495,
       "marketCap": 133838301668.40001,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "伺服器",
+      "theme": "伺服器與PC",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -318,7 +318,7 @@
       "price": 187.25,
       "changePercent": 2.16051066615746,
       "dollarVolume": 4077373280.154886,
-      "marketCap": 769955514510,
+      "marketCap": 763792750000,
       "sector": "PETROLEUM REFINING",
       "theme": "石油與天然氣",
       "isNew": false,
@@ -424,7 +424,7 @@
       "dollarVolume": 3562770726.4737988,
       "marketCap": 206073575151.72,
       "sector": "OPTICAL INSTRUMENTS & LENSES",
-      "theme": "半導體檢測設備",
+      "theme": "半導體設備",
       "isNew": false,
       "rankChange": 1,
       "streak": 3
@@ -593,7 +593,7 @@
       "dollarVolume": 2930651722.873531,
       "marketCap": 704803969111.46,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "支付服務",
+      "theme": "金融支付",
       "isNew": false,
       "rankChange": -21,
       "streak": 17
@@ -606,7 +606,7 @@
       "dollarVolume": 2882531332.034791,
       "marketCap": 554726800011.15,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "支付服務",
+      "theme": "金融支付",
       "isNew": false,
       "rankChange": -17,
       "streak": 4
@@ -632,7 +632,7 @@
       "dollarVolume": 2682426911.0730457,
       "marketCap": 187158861575.28,
       "sector": "BEVERAGES",
-      "theme": "飲料",
+      "theme": "食品飲料",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -645,20 +645,20 @@
       "dollarVolume": 2670746792.5159144,
       "marketCap": 895915075162.8,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "金融服務",
+      "theme": "銀行",
       "isNew": false,
       "rankChange": -2,
       "streak": 2
     }
   ],
   "asOf": "2026-10-30T20:00:00.000Z",
-  "generatedAt": "2026-10-31T06:27:45.753Z",
+  "generatedAt": "2026-10-31T08:43:51.476Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "零售百貨",
-      "reason": "在通膨壓力下，消費者轉向大型零售商尋求更具性價比的商品，帶動業績成長。",
+      "reason": "通膨趨緩與消費信心回升，帶動零售業者業績成長。",
       "symbols": [
         "WMT",
         "COST"
@@ -667,8 +667,8 @@
       "avgChange": 1.7451464586540046
     },
     {
-      "theme": "支付服務",
-      "reason": "全球經濟活動逐漸復甦，帶動消費支出增加，有利於支付服務提供商的交易量。",
+      "theme": "金融支付",
+      "reason": "全球經濟活動逐漸復甦，帶動支付交易量增加。",
       "symbols": [
         "V",
         "MA"
@@ -678,7 +678,7 @@
     },
     {
       "theme": "減肥藥 GLP-1",
-      "reason": "市場對新型減肥藥物的需求持續強勁，相關藥廠的研發進展和銷售前景受到高度關注。",
+      "reason": "GLP-1藥物市場潛力巨大，持續吸引資金關注。",
       "symbols": [
         "LLY"
       ],
@@ -687,7 +687,7 @@
     },
     {
       "theme": "石油與天然氣",
-      "reason": "國際油價波動或地緣政治緊張局勢，可能推升能源股表現。",
+      "reason": "國際油價波動與地緣政治因素，影響能源股表現。",
       "symbols": [
         "XOM"
       ],
@@ -695,8 +695,8 @@
       "avgChange": 2.16051066615746
     },
     {
-      "theme": "飲料",
-      "reason": "消費性必需品在市場不確定性較高時，通常被視為較為穩定的投資標的。",
+      "theme": "食品飲料",
+      "reason": "民生消費品需求穩定，提供防禦性投資機會。",
       "symbols": [
         "PEP"
       ],
@@ -705,7 +705,7 @@
     },
     {
       "theme": "串流媒體",
-      "reason": "串流媒體產業競爭激烈，但市場對其內容訂閱數和盈利能力的關注度依然存在。",
+      "reason": "訂閱戶成長與內容策略奏效，支撐股價表現。",
       "symbols": [
         "NFLX"
       ],
@@ -717,7 +717,7 @@
     {
       "symbol": "DELL",
       "name": "Dell Technologies Inc.",
-      "theme": "伺服器",
+      "theme": "伺服器與PC",
       "changePercent": -10.769489600639309,
       "reason": "近期無明確個股消息，可能受族群輪動帶動"
     },
@@ -766,45 +766,60 @@
     {
       "symbol": "PEP",
       "name": "PepsiCo, Inc.",
-      "theme": "飲料",
+      "theme": "食品飲料",
       "changePercent": 2.6534120636818983,
       "reason": "近期無明確個股消息，可能受族群輪動帶動"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於半導體產業的劇烈波動，特別是AI晶片相關個股。Intel因財報不佳及疲弱的PC市場展望，股價暴跌近三成，拖累了Nvidia、AMD、Micron和Broadcom等整個晶片族群。 儘管AI需求強勁，市場對AI基礎設施的龐大資本支出能否在短期內帶來可觀回報產生疑慮，導致資金從高估值的AI相關股票中獲利了結。 另一方面，禮來（Eli Lilly）受惠於減肥藥GLP-1的強勁需求，財報表現優於預期，股價逆勢大漲，顯示醫療保健領域的特定題材仍吸引資金追捧。",
+    "highlights": "本日美股成交重點集中在科技巨頭，特別是AI晶片相關個股如Nvidia、Intel和AMD，儘管這些股票普遍下跌，但仍吸引了大量資金。市場故事主要圍繞在對科技股未來表現的擔憂，以及部分公司財報或財測不如預期所引發的賣壓。此外，記憶體和儲存裝置類股也因Micron和Sandisk的大幅下跌而受到關注。",
     "eventsPast": [
       {
-        "title": "Intel財報不佳，股價暴跌",
-        "detail": "Intel第三季淨利潤同比下降18%，並下修未來兩季營收預估，導致股價盤中暴跌超過25%。"
+        "title": "Intel財報不如預期",
+        "detail": "Intel公布的最新財報和財測表現不佳，導致股價大幅下跌近29%。"
       },
       {
-        "title": "Amazon雲端支出龐大，股價下跌",
-        "detail": "Amazon第三季度在物業及設備上的支出超過770億美元，遠超分析師預估，引發市場對AI基礎設施投資回報的擔憂，盤前跌超7%。"
+        "title": "Nvidia股價下跌",
+        "detail": "Nvidia股價下跌超過4%，可能與整體科技股的修正以及市場對AI晶片需求前景的重新評估有關。"
       },
       {
-        "title": "禮來（Eli Lilly）財報亮眼，股價大漲",
-        "detail": "禮來第三季營收和每股盈餘均大幅優於分析師預期，主要受惠於減重與糖尿病藥物Zepbound和Mounjaro的強勁需求，股價盤中大漲逾5%。"
+        "title": "Micron股價重挫",
+        "detail": "記憶體大廠Micron股價下跌超過5%，可能受到半導體產業景氣下行壓力影響。"
       },
       {
-        "title": "Nvidia否認中國間諜指控",
-        "detail": "Nvidia否認其執行長黃仁勳被指控成為中國間諜目標的報導，稱其與客戶的互動屬正常商業行為。"
+        "title": "Sandisk股價大跌",
+        "detail": "儲存裝置公司Sandisk股價下跌超過13%，可能與整體半導體產業的疲軟態勢有關。"
       },
       {
-        "title": "蘋果調降台灣App Store抽成",
-        "detail": "蘋果宣布自10月31日起，將台灣App Store的標準佣金費率從30%調降至26%，以回應台灣公平交易委員會的競爭疑慮。"
+        "title": "AMD股價下跌",
+        "detail": "AMD股價下跌超過10%，可能受到Intel財報影響以及市場對AI晶片競爭加劇的擔憂。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "11月2日",
-        "title": "美股進入冬令時間",
-        "detail": "自11月2日起，因美國進入冬令時間，美股交易時間將延後1小時，改為台灣時間22:30開盤、隔日05:00收盤。"
+        "date": "下週",
+        "title": "聯準會利率決議",
+        "detail": "市場將密切關注聯準會對未來利率政策的態度，可能影響科技股和整體市場走向。"
       },
       {
-        "date": "11月3日",
-        "title": "AMD財報公布",
-        "detail": "Advanced Micro Devices (AMD) 將於下週二（11月3日）美股盤後公布財報，市場關注其對PC與伺服器市場的最新觀察。"
+        "date": "未來幾天",
+        "title": "重要經濟數據公布",
+        "detail": "包括CPI和就業數據等，將提供通膨和經濟成長的最新線索，影響市場情緒。"
+      },
+      {
+        "date": "待定",
+        "title": "部分科技巨頭財報",
+        "detail": "部分榜上熱門股可能在近期公布財報，其財報內容和財測將是市場關注焦點。"
+      },
+      {
+        "date": "待定",
+        "title": "AI產業發展動態",
+        "detail": "AI晶片和相關技術的最新進展，可能對Nvidia、AMD等公司股價產生影響。"
+      },
+      {
+        "date": "待定",
+        "title": "半導體產業展望",
+        "detail": "記憶體和儲存裝置產業的未來展望，將影響Micron和Sandisk等公司的股價表現。"
       }
     ]
   }
