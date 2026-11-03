@@ -112,7 +112,7 @@
       "dollarVolume": 13699896963.517735,
       "marketCap": 1642693120000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "雲端軟體 SaaS",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": 0,
       "streak": 164
@@ -149,7 +149,7 @@
       "price": 1075.08,
       "changePercent": -6.587076088939877,
       "dollarVolume": 11740415967.664724,
-      "marketCap": 154811520000,
+      "marketCap": 152972450524.19998,
       "sector": "COMPUTER STORAGE DEVICES",
       "theme": "儲存裝置",
       "isNew": false,
@@ -190,7 +190,7 @@
       "dollarVolume": 8217634582.775959,
       "marketCap": 1551185160000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "雲端軟體 SaaS",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": -2,
       "streak": 164
@@ -203,7 +203,7 @@
       "dollarVolume": 7167962924.176587,
       "marketCap": 360489805920,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體 SaaS",
+      "theme": "資料庫軟體",
       "isNew": false,
       "rankChange": 3,
       "streak": 164
@@ -346,7 +346,7 @@
       "dollarVolume": 3152954920.753879,
       "marketCap": 725116992423.94,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "數位支付",
+      "theme": "支付服務",
       "isNew": false,
       "rankChange": 19,
       "streak": 18
@@ -359,7 +359,7 @@
       "dollarVolume": 3124218531.1123757,
       "marketCap": 58022625216.25,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "燃料電池",
+      "theme": "氫能源",
       "isNew": false,
       "rankChange": 8,
       "streak": 44
@@ -398,7 +398,7 @@
       "dollarVolume": 2998765243.8748765,
       "marketCap": 31030168792.319996,
       "sector": "—",
-      "theme": "雲端軟體 SaaS",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": 6,
       "streak": 89
@@ -411,7 +411,7 @@
       "dollarVolume": 2981324500.026146,
       "marketCap": 732873930000,
       "sector": "PETROLEUM REFINING",
-      "theme": "石油天然氣",
+      "theme": "石油與天然氣",
       "isNew": false,
       "rankChange": -7,
       "streak": 7
@@ -450,7 +450,7 @@
       "dollarVolume": 2681478100.0637503,
       "marketCap": 123895847582.63998,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "電子電腦",
+      "theme": "伺服器",
       "isNew": false,
       "rankChange": -12,
       "streak": 2
@@ -502,7 +502,7 @@
       "dollarVolume": 2613761480.5645723,
       "marketCap": 569030843432.9,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "數位支付",
+      "theme": "支付服務",
       "isNew": false,
       "rankChange": 8,
       "streak": 5
@@ -567,7 +567,7 @@
       "dollarVolume": 2419092021.5384665,
       "marketCap": 346630536453.05,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "金融服務",
+      "theme": "商業銀行",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -606,7 +606,7 @@
       "dollarVolume": 2357237942.8455477,
       "marketCap": 199496578422.85,
       "sector": "OPTICAL INSTRUMENTS & LENSES",
-      "theme": "半導體設備",
+      "theme": "半導體檢測設備",
       "isNew": false,
       "rankChange": -14,
       "streak": 4
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-11-02T20:00:00.000Z",
-  "generatedAt": "2026-11-03T07:26:16.561Z",
+  "generatedAt": "2026-11-03T09:54:28.376Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
-      "theme": "數位支付",
-      "reason": "隨著全球經濟活動復甦，數位支付交易量持續增長，帶動相關公司營收表現。",
+      "theme": "支付服務",
+      "reason": "隨著全球經濟活動逐漸復甦，數位支付交易量持續增長，帶動相關服務供應商的營收預期。",
       "symbols": [
         "V",
         "MA"
@@ -668,7 +668,7 @@
     },
     {
       "theme": "零售百貨",
-      "reason": "消費者支出保持韌性，大型零售商因其規模經濟和商品多樣性而受益。",
+      "reason": "消費者支出數據表現穩健，大型零售商因其規模經濟和供應鏈優勢，持續吸引資金關注。",
       "symbols": [
         "WMT",
         "COST"
@@ -677,17 +677,8 @@
       "avgChange": 3.0885234622055435
     },
     {
-      "theme": "電動車",
-      "reason": "儘管市場競爭激烈，但電動車產業長期趨勢不變，部分公司仍能吸引資金關注。",
-      "symbols": [
-        "TSLA"
-      ],
-      "count": 1,
-      "avgChange": 1.0029764137965511
-    },
-    {
       "theme": "電子商務",
-      "reason": "線上購物需求持續穩定，大型電商平台因其廣泛的服務和物流網絡而表現良好。",
+      "reason": "線上購物趨勢不減，電商巨頭持續擴大其市場份額並優化物流效率，吸引投資者青睞。",
       "symbols": [
         "AMZN"
       ],
@@ -695,17 +686,26 @@
       "avgChange": 2.1967963386727694
     },
     {
-      "theme": "多元控股",
-      "reason": "多元控股公司因其業務分散，在市場波動時展現較強的穩定性。",
+      "theme": "太空",
+      "reason": "太空探索與商業化領域持續發展，相關技術創新和政府支持為產業帶來成長潛力。",
       "symbols": [
-        "BRK.B"
+        "SPCX"
       ],
       "count": 1,
-      "avgChange": 2.510645357518112
+      "avgChange": 1.224762470308793
+    },
+    {
+      "theme": "電動車",
+      "reason": "儘管市場競爭激烈，但電動車產業長期趨勢不變，領先企業仍能吸引特定資金關注。",
+      "symbols": [
+        "TSLA"
+      ],
+      "count": 1,
+      "avgChange": 1.0029764137965511
     },
     {
       "theme": "電力基礎建設",
-      "reason": "全球能源轉型和電網現代化需求增加，推動電力基礎建設相關公司發展。",
+      "reason": "全球對能源轉型和電網現代化的需求增加，推動電力基礎建設相關企業的成長。",
       "symbols": [
         "GEV"
       ],
@@ -719,14 +719,14 @@
       "name": "BERKSHIRE HATHAWAY Class B",
       "theme": "多元控股",
       "changePercent": 2.510645357518112,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "近期無明確個股消息，可能受ETF需求建構和市場關注度提升帶動。"
     },
     {
       "symbol": "CSCO",
       "name": "Cisco Systems, Inc. Common Stock (DE)",
       "theme": "網路設備",
       "changePercent": -2.774854080949197,
-      "reason": "近期發布優於預期的財報及財測，並宣布發放股息，分析師給予買入評級。"
+      "reason": "近期無明確個股消息，可能受AI基礎設施訂單和市場對其AI潛力關注帶動。"
     },
     {
       "symbol": "ABBV",
@@ -738,74 +738,74 @@
     {
       "symbol": "BAC",
       "name": "Bank of America Corporation",
-      "theme": "金融服務",
+      "theme": "商業銀行",
       "changePercent": -0.8798240351929569,
-      "reason": "近期因違反反洗錢法規被處以巨額罰款，並面臨證券詐欺訴訟。"
+      "reason": "近期無明確個股消息，可能受分析師評級調整和ETF需求帶動。"
     },
     {
       "symbol": "UNH",
       "name": "UNITEDHEALTH GROUP INCORPORATED (Delaware)",
       "theme": "醫療保險",
       "changePercent": -1.6045408752487968,
-      "reason": "第三季財報優於預期，上調全年財測，並宣布發放股息。"
+      "reason": "第三季財報優於預期，上調全年EPS指引，並強調AI整合效益。"
     },
     {
       "symbol": "JNJ",
       "name": "Johnson & Johnson",
       "theme": "生技製藥",
       "changePercent": -0.9663250366032161,
-      "reason": "多項新藥臨床試驗數據積極，特別是攝護腺癌藥物JNJ-6143的Phase 1結果良好。"
+      "reason": "第三季財報優於預期，多項新藥與醫療器材獲批，並解決卵巢滑石粉訴訟。 "
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於科技股的劇烈波動，特別是AI晶片、記憶體和光通訊類股。市場對AI投資回報的疑慮持續發酵，加上科技巨頭密集發債，導致科技股普遍承壓，納斯達克指數進入技術性調整區間。儘管聯準會暫停升息，但鷹派言論仍讓市場對高利率環境下的科技股估值感到擔憂。",
+    "highlights": "本日美股成交重點集中在科技與晶片股，尤其是記憶體、AI晶片和雲端服務相關個股，但整體呈現下跌趨勢。資金流向顯示，市場對AI基礎設施的龐大投資與其回報產生疑慮，加上蘋果財報預估毛利縮水、服務事業營收成長不如預期，以及部分半導體公司財測不佳，導致科技股普遍承壓。儘管如此，電子商務、電動車和太空等題材族群仍有部分個股表現相對強勢，顯示市場在科技股修正之際，資金也在尋找其他成長機會。",
     "eventsPast": [
       {
-        "title": "聯準會暫停升息，但官員集體放鷹",
-        "detail": "聯準會於10月28日結束為期兩天的FOMC會議，決議將聯邦基金利率維持在3.75%至4%，但多位官員釋出鷹派信號，顯示對通膨風險仍持高度警戒。"
+        "title": "科技、晶片股續遭血洗",
+        "detail": "美股周一（11月2日）開高走低，費城半導體指數繼上周五暴跌逾7%後，周一再跌3.37%，Marvell、英特爾、輝達、台積電ADR、超微、美光等指標股全面下挫。"
       },
       {
-        "title": "AI產業獲利前景擔憂加劇",
-        "detail": "近期Alphabet、Amazon等科技巨頭財報加劇市場對AI資本支出回報及融資壓力的擔憂，使科技股評價持續承壓。"
+        "title": "蘋果財報預估毛利縮水",
+        "detail": "蘋果收跌1.83%，盤後跌2.6%。受記憶體成本攀升影響，該消費電子大廠預估本季毛利縮水，且其服務事業營收成長預測不如市場預期。"
       },
       {
-        "title": "記憶體與光通訊類股集體重挫",
-        "detail": "美光科技、英特爾、邁威爾科技、Lumentum等記憶體與光通訊個股因市場對AI投資回報疑慮及併購消息而大跌。"
+        "title": "Marvell Technology收購Lumentum",
+        "detail": "ASIC大廠Marvell將以1150億美元收購Lumentum，導致Marvell Technology暴跌近13%，光通訊指標股Lumentum崩跌18.6%。"
       },
       {
-        "title": "Marvell Technology宣布收購Lumentum",
-        "detail": "Marvell Technology宣布以1,150億美元收購光學元件製造商Lumentum，導致兩家公司股價重挫。"
+        "title": "英特爾展望不如預期",
+        "detail": "英特爾繼周五跌28.6%後再跌近9%。其股價在10月收跌45%，幾近腰斬，創下其史上最大單月跌幅。受PC業務放緩衝擊，英特爾本季展望不如預期，成為記憶體價格大漲與其他零組件缺貨的受災戶。"
       },
       {
-        "title": "蘋果第四財季業績公布",
-        "detail": "蘋果盤後公布第四財季業績，營收和每股盈餘均高於市場預期，但股價盤後仍一度下跌。"
+        "title": "AI基礎設施投資疑慮",
+        "detail": "Alphabet、亞馬遜和晶片大廠英特爾的財報與展望引發AI支出疑慮，上周那斯達克指數收跌2%，10月那指大跌5.3%，創下2025年3月以來最大單月跌幅。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "本週四",
-        "title": "美國第三季GDP與核心PCE物價指數",
-        "detail": "聯準會將密切關注這些數據，以決定12月的貨幣政策方向。"
+        "date": "本週二",
+        "title": "超微（AMD）發布財報",
+        "detail": "超微將於本週二盤後發布財報，市場關注其在AI晶片領域的表現。"
+      },
+      {
+        "date": "本週二",
+        "title": "美國期中選舉",
+        "detail": "美國期中選舉結果將決定民主黨能否從共和黨手中奪回國會控制權，這可能影響未來的AI監管方向。"
+      },
+      {
+        "date": "本週四凌晨",
+        "title": "聯準會（Fed）貨幣政策會議結果",
+        "detail": "聯邦公開市場委員會(FOMC)即將於本週三(10月28日)公布貨幣政策會議結果，主席華許記者會對12月利率走向的說法，將是市場焦點。"
       },
       {
         "date": "本週五",
         "title": "美國10月非農就業報告",
-        "detail": "這份報告將提供更多有關美國經濟的線索，對於聯準會的利率動向具有關鍵性影響。"
+        "detail": "美國10月非農就業報告將提供更多有關美國經濟的線索，對於聯準會將如何決定利率動向具有關鍵性的影響。"
       },
       {
-        "date": "12/8-12/9",
-        "title": "聯邦公開市場委員會 (FOMC) 會議",
-        "detail": "市場將密切關注此次會議是否會再次升息，以及聯準會對未來經濟前景的看法。"
-      },
-      {
-        "date": "近期",
-        "title": "Apple (AAPL) 財報",
-        "detail": "本週財報將聚焦Apple，將成為檢視消費性電子需求的重要指標。"
-      },
-      {
-        "date": "近期",
-        "title": "Advanced Micro Devices (AMD) 財報",
-        "detail": "本週財報將聚焦超微半導體，將成為檢視AI需求、企業資本支出及獲利前景的重要指標。"
+        "date": "未來幾天",
+        "title": "重要科技公司財報",
+        "detail": "本週將有163家標普500企業公布財報，約占成分股三分之一，是這個財報季最密集的一周。Alphabet和微軟28日盤後公布財報，亞馬遜29日接棒，英特爾和晟碟（SanDisk）的財報也可能牽動晶片股。"
       }
     ]
   }
