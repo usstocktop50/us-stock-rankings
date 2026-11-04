@@ -164,7 +164,7 @@
       "dollarVolume": 9095350585.394327,
       "marketCap": 321823250000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "處理器",
       "isNew": false,
       "rankChange": -5,
       "streak": 165
@@ -190,7 +190,7 @@
       "dollarVolume": 6756983703.636401,
       "marketCap": 150800493000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "資料中心晶片",
+      "theme": "網通晶片",
       "isNew": false,
       "rankChange": -1,
       "streak": 155
@@ -229,7 +229,7 @@
       "dollarVolume": 5742524807.822545,
       "marketCap": 1585465687062.45,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "網通晶片",
       "isNew": false,
       "rankChange": 0,
       "streak": 165
@@ -307,7 +307,7 @@
       "dollarVolume": 3075671899.2238336,
       "marketCap": 784374147138.27,
       "sector": "FIRE, MARINE & CASUALTY INSURANCE",
-      "theme": "綜合保險",
+      "theme": "多元控股",
       "isNew": false,
       "rankChange": -1,
       "streak": 2
@@ -437,7 +437,7 @@
       "dollarVolume": 2306500775.155952,
       "marketCap": 260423188768.26,
       "sector": "SERVICES-VIDEO TAPE RENTAL",
-      "theme": "串流媒體",
+      "theme": "串流影音",
       "isNew": false,
       "rankChange": 7,
       "streak": 38
@@ -554,7 +554,7 @@
       "dollarVolume": 2068601178.118687,
       "marketCap": 34741206309.479996,
       "sector": "CONVERTED PAPER & PAPERBOARD PRODS (NO CONTANERS/BOXES)",
-      "theme": "民生用品",
+      "theme": "民生消費品",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -606,7 +606,7 @@
       "dollarVolume": 1982713929.4363,
       "marketCap": 29639576991.48,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端運算",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": -4,
       "streak": 16
@@ -632,7 +632,7 @@
       "dollarVolume": 1925043511.191788,
       "marketCap": 128822913979.2,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "電腦硬體",
+      "theme": "電子電腦",
       "isNew": false,
       "rankChange": -14,
       "streak": 3
@@ -652,23 +652,24 @@
     }
   ],
   "asOf": "2026-11-03T20:00:00.000Z",
-  "generatedAt": "2026-11-04T07:10:55.416Z",
+  "generatedAt": "2026-11-04T09:38:50.283Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型需求持續增長，雲端軟體服務商的營收展望樂觀，帶動股價上漲。",
+      "reason": "企業數位轉型需求持續，加上AI應用整合，推動雲端軟體服務商營收成長。",
       "symbols": [
         "ORCL",
-        "MSFT"
+        "MSFT",
+        "CRWV"
       ],
-      "count": 2,
-      "avgChange": 4.290693677542613
+      "count": 3,
+      "avgChange": 5.246637260601691
     },
     {
       "theme": "AI 晶片",
-      "reason": "市場對人工智慧應用的需求持續爆發，推動AI晶片及其相關技術的發展，相關公司表現強勁。",
+      "reason": "AI技術快速發展，對高效能運算晶片需求旺盛，帶動相關供應商股價上漲。",
       "symbols": [
         "NVDA",
         "AMD"
@@ -678,30 +679,28 @@
     },
     {
       "theme": "雲端服務",
-      "reason": "雲端基礎設施和服務的普及，以及企業對數據處理和儲存的需求增加，支撐相關公司股價。",
+      "reason": "雲端運算作為數位經濟的基石，持續受益於企業對彈性與擴展性IT解決方案的需求。",
       "symbols": [
-        "SPCX",
         "GOOGL",
-        "NBIS",
         "GOOG",
-        "CRWV"
+        "NBIS"
       ],
-      "count": 5,
-      "avgChange": 3.6971938084808884
+      "count": 3,
+      "avgChange": 2.568315666302238
     },
     {
-      "theme": "半導體",
-      "reason": "全球半導體產業景氣回溫，加上AI、高效能運算等新興應用需求，帶動半導體公司股價上揚。",
+      "theme": "記憶體",
+      "reason": "AI應用對高頻寬記憶體需求增加，加上產業庫存去化與價格回升預期，帶動記憶體類股表現。",
       "symbols": [
-        "INTC",
-        "AVGO"
+        "MU",
+        "SKHY"
       ],
       "count": 2,
-      "avgChange": 2.019744937484409
+      "avgChange": 2.3327860581191286
     },
     {
       "theme": "儲存裝置",
-      "reason": "數據儲存需求持續增長，尤其是在雲端和AI領域，為儲存裝置供應商帶來利好。",
+      "reason": "數據量爆炸性增長，對高效能、大容量儲存解決方案的需求持續提升。",
       "symbols": [
         "SNDK",
         "STX"
@@ -710,14 +709,14 @@
       "avgChange": 3.455099045626853
     },
     {
-      "theme": "電力基礎建設",
-      "reason": "全球能源轉型和電網現代化投資增加，推動電力基礎設施相關企業的業務成長。",
+      "theme": "網路設備",
+      "reason": "全球網路基礎設施升級與5G、AI數據中心建設，推動網路設備需求增長。",
       "symbols": [
-        "BE",
-        "GEV"
+        "ANET",
+        "CSCO"
       ],
       "count": 2,
-      "avgChange": 7.769259436410074
+      "avgChange": 2.4268713819603835
     }
   ],
   "newEntrants": [
@@ -726,21 +725,21 @@
       "name": "Okta, Inc. Class A Common Stock",
       "theme": "資安",
       "changePercent": 2.601828311786662,
-      "reason": "即將被納入標普500指數，吸引被動式買盤。"
+      "reason": "Okta被納入標普500指數，引發被動型基金買盤。"
     },
     {
       "symbol": "SHOP",
       "name": "Shopify Inc. Class A subordinate voting shares",
       "theme": "電子商務軟體",
       "changePercent": -8.737677634105752,
-      "reason": "第三季營收未達預期，但獲利優於預期，自由現金流強勁。"
+      "reason": "第三季營收和商品交易總額（GMV）不及預期，導致股價下跌。"
     },
     {
       "symbol": "GKOS",
       "name": "Glaukos Corporation",
       "theme": "醫療器材",
       "changePercent": -2.334353128536114,
-      "reason": "第三季財報營收年增58%超預期，並上調全年財測。"
+      "reason": "第三季營收創紀錄且優於預期，並上調全年財測。"
     },
     {
       "symbol": "JPM",
@@ -754,86 +753,86 @@
       "name": "Arista Networks",
       "theme": "網路設備",
       "changePercent": 3.5152918240526443,
-      "reason": "第三季財報營收獲利皆優於預期，並上調全年財測。"
+      "reason": "第三季營收和獲利均超預期，並上調全年財測。"
     },
     {
       "symbol": "MRNA",
       "name": "Moderna, Inc. Common Stock",
       "theme": "生技製藥",
       "changePercent": 3.4460897522981413,
-      "reason": "癌症疫苗數據積極，但市場對其估值和未來增長有疑慮。"
+      "reason": "與默克合作的癌症疫苗三期臨床數據積極，降低黑色素瘤復發或死亡風險。"
     },
     {
       "symbol": "KMB",
       "name": "Kimberly-Clark Corp.",
-      "theme": "民生用品",
+      "theme": "民生消費品",
       "changePercent": -3.501154734411091,
-      "reason": "完成對Kenvue的收購，擴大全球健康業務版圖。"
+      "reason": "完成對Kenvue的收購，擴大消費健康產品組合。"
     },
     {
       "symbol": "BKNG",
       "name": "Booking Holdings Inc. Common Stock",
       "theme": "線上旅遊",
       "changePercent": 1.24878048780487,
-      "reason": "第三季財報營收獲利皆優於預期，但受地緣政治影響股價持平。"
+      "reason": "第三季財報公布在即，市場預期其獲利將超預期。"
     },
     {
       "symbol": "SMCI",
       "name": "Super Micro Computer, Inc. Common Stock",
       "theme": "AI 伺服器",
       "changePercent": 3.120893561103808,
-      "reason": "第一季財報營收獲利皆大幅超越預期，AI伺服器需求強勁。"
+      "reason": "第一季營收和獲利遠超預期，並上調全年財測，受AI伺服器需求強勁帶動。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於科技股的跌深反彈，特別是AI晶片和半導體族群在經歷前幾日的賣壓後出現顯著回升，帶動費城半導體指數上漲。 資金也流入雲端軟體SaaS、雲端服務及電力基礎建設等AI相關基礎設施概念股，顯示市場對AI長期發展仍具信心，並從硬體延伸至基礎設施。 此外，部分個股如AMD因財報表現優於預期而大漲，而Oracle則因宣布大規模股票與債券發行以擴大AI基礎設施投資而受到關注。",
+    "highlights": "本日美股成交重點聚焦於AI晶片、雲端軟體SaaS、記憶體和儲存裝置等科技族群。資金主要流向AI晶片相關個股如Nvidia和AMD，以及記憶體大廠美光，反映市場對AI產業長期成長的期待。然而，部分科技巨頭如Apple和Tesla則面臨營收成長放緩或中國市場銷量下滑的壓力。此外，Oracle和Marvell等公司的大額併購與融資計畫，也引發市場對AI資本支出效益與公司負債的疑慮，導致股價波動。",
     "eventsPast": [
       {
-        "title": "AMD公布第三季財報優於預期",
-        "detail": "超微半導體（AMD）於11月3日公布第三季財報，營收和每股盈餘均超乎市場預期，其中資料中心業務年增97%，顯示AI和雲端基礎設施需求強勁。"
+        "title": "Marvell Technology 宣布以1150億美元收購Lumentum",
+        "detail": "Marvell Technology 宣布以全股票方式收購光學元件製造商Lumentum，此為AI基礎設施企業為擴大規模而採取的最新行動，但市場對AI產業巨額支出能否回收的疑慮升溫，導致Marvell股價重挫。"
       },
       {
-        "title": "Oracle宣布200億美元股票與債券發行",
-        "detail": "甲骨文（Oracle）於11月3日宣布將發行100億美元普通股和100億美元債券，以擴大其AI基礎設施能力，儘管此舉引發市場對籌資速度的疑慮，但仍顯示公司對AI投資的決心。"
+        "title": "Oracle 宣布發行200億美元股債為AI基礎設施融資",
+        "detail": "Oracle 計劃發行100億美元普通股和100億美元債券，合計籌資200億美元，用於AI與雲端基礎設施擴建，此舉引發市場對其高負債與AI投資風險的擔憂，導致股價下跌。"
       },
       {
-        "title": "Amazon獲法人升評，AI資本支出疑慮暫緩",
-        "detail": "亞馬遜（Amazon）在近期AI與科技股重挫後，因Phillip Securities上調其評等至「買進」，並指出強勁需求能支撐其積極的資本支出計畫，使市場對其AWS雲端與AI基礎設施布局信心回溫，股價出現反彈。"
+        "title": "Intel 財測疲弱，PC市場低迷恐延續",
+        "detail": "Intel 公布的第三季財報營收略高於預期，但第四季財測疲弱，並指出全球PC市場持續低迷，可能延續至明年上半年，導致股價暴跌。"
       },
       {
-        "title": "美光科技受AI記憶體族群疑慮影響",
-        "detail": "記憶體大廠美光科技（Micron Technology）股價在11月2日下跌，主要受市場對AI與資料中心產業可能面臨更嚴格監管的疑慮，以及大型科技業在AI建置上高額資本支出能否獲得足夠回報的質疑影響。"
+        "title": "Amazon 第三季財報營收、獲利不如預期，自由現金流持續流出",
+        "detail": "Amazon 第三季財報營收和獲利均遜於華爾街預期，且AI基礎設施投資持續消耗現金，導致自由現金流流出擴大，儘管AWS雲端業務成長加速，但股價仍受壓。"
       },
       {
-        "title": "美國中期選舉正式投票",
-        "detail": "美國中期選舉於美東時間11月3日正式開始投票，市場普遍關注選舉結果可能帶來的政策不確定性，並對科技股走勢產生影響。"
+        "title": "Tesla 10月中國銷量驟降，民主黨掌控國會引發監管擔憂",
+        "detail": "Tesla 10月份在華批發銷量從9月份驟降，創今年第二低，加上美國中期選舉結果可能導致民主黨掌控眾議院，引發市場對馬斯克旗下企業監管趨嚴的擔憂，導致股價下跌。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "11/04",
+        "date": "本週三",
+        "title": "美國中期選舉投票",
+        "detail": "美國中期選舉將於美東時間11月3日正式開始投票，選舉結果可能對市場政策和科技股帶來不確定性。"
+      },
+      {
+        "date": "本週四",
         "title": "高通（QCOM）財報",
-        "detail": "高通預計於11月4日公布財報，其在無線通訊技術和晶片領域的表現將受市場關注。"
+        "detail": "高通將在11月4日盤後公布財報，市場關注其全球組織重組與裁員計畫、蘋果訂單流失的實質衝擊，以及轉型汽車與AI資料中心晶片的最新進度。"
       },
       {
-        "date": "11/06",
+        "date": "本週五",
         "title": "美國10月非農就業報告",
-        "detail": "美國勞工部將於11月6日公布10月非農就業報告，這項數據是聯準會評估經濟狀況和未來利率政策的重要依據。"
-      },
-      {
-        "date": "11/10",
-        "title": "美國10月消費者物價指數(CPI)",
-        "detail": "美國將於11月10日公布10月消費者物價指數(CPI)，此數據為衡量通膨率的關鍵指標，將影響聯準會的利率決策。"
-      },
-      {
-        "date": "11/13",
-        "title": "美國10月生產者物價指數(PPI)",
-        "detail": "美國將於11月13日公布10月生產者物價指數(PPI)，此數據為衡量批發通膨率的指標，常被視為CPI的領先指標。"
+        "detail": "美國勞工部將於本週五發布10月非農就業報告，此為本週壓軸的勞動力市場數據，將影響市場對經濟狀況的評估。"
       },
       {
         "date": "11/18",
-        "title": "輝達（NVDA）財報",
-        "detail": "輝達（Nvidia）預計於11月18日公布財報，市場將密切關注其Blackwell晶片的出貨進度、毛利率表現以及科技巨頭對算力資本支出的態度。"
+        "title": "Nvidia（NVDA）財報",
+        "detail": "Nvidia 即將在11月18日公布財報，市場關注Blackwell晶片的出貨進度、毛利率能否守穩預期水準，以及科技巨頭是否持續調高算力資本支出。"
+      },
+      {
+        "date": "11/19",
+        "title": "沃爾瑪（WMT）財報",
+        "detail": "零售巨頭沃爾瑪將在11月19日盤前公布財報，這份財報被視為美國內需消費健康度的指標。"
       }
     ]
   }
