@@ -99,7 +99,7 @@
       "dollarVolume": 10314633336.780455,
       "marketCap": 1919140112718.79,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "太空",
+      "theme": "太空科技",
       "isNew": false,
       "rankChange": 2,
       "streak": 100
@@ -151,7 +151,7 @@
       "dollarVolume": 9143774687.962814,
       "marketCap": 403545117906.60004,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "數據分析軟體",
+      "theme": "資料分析軟體",
       "isNew": false,
       "rankChange": 5,
       "streak": 165
@@ -164,7 +164,7 @@
       "dollarVolume": 9095350585.394327,
       "marketCap": 321823250000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "處理器",
+      "theme": "半導體製造",
       "isNew": false,
       "rankChange": -5,
       "streak": 165
@@ -190,7 +190,7 @@
       "dollarVolume": 6756983703.636401,
       "marketCap": 150800493000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網通晶片",
+      "theme": "網路基礎設施晶片",
       "isNew": false,
       "rankChange": -1,
       "streak": 155
@@ -229,7 +229,7 @@
       "dollarVolume": 5742524807.822545,
       "marketCap": 1585465687062.45,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網通晶片",
+      "theme": "網路基礎設施晶片",
       "isNew": false,
       "rankChange": 0,
       "streak": 165
@@ -242,7 +242,7 @@
       "dollarVolume": 4900955917.553685,
       "marketCap": 61610835336.96,
       "sector": "COMMUNICATIONS EQUIPMENT, NEC",
-      "theme": "光通訊",
+      "theme": "光學通訊",
       "isNew": false,
       "rankChange": -6,
       "streak": 83
@@ -437,7 +437,7 @@
       "dollarVolume": 2306500775.155952,
       "marketCap": 260423188768.26,
       "sector": "SERVICES-VIDEO TAPE RENTAL",
-      "theme": "串流影音",
+      "theme": "串流媒體",
       "isNew": false,
       "rankChange": 7,
       "streak": 38
@@ -502,7 +502,7 @@
       "dollarVolume": 2188109000.3186154,
       "marketCap": 91201446483.16,
       "sector": "BIOLOGICAL PRODUCTS, (NO DIAGNOSTIC SUBSTANCES)",
-      "theme": "生技製藥",
+      "theme": "生物製藥",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -554,7 +554,7 @@
       "dollarVolume": 2068601178.118687,
       "marketCap": 34741206309.479996,
       "sector": "CONVERTED PAPER & PAPERBOARD PRODS (NO CONTANERS/BOXES)",
-      "theme": "民生消費品",
+      "theme": "民生用品",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -632,7 +632,7 @@
       "dollarVolume": 1925043511.191788,
       "marketCap": 128822913979.2,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "電子電腦",
+      "theme": "AI 伺服器",
       "isNew": false,
       "rankChange": -14,
       "streak": 3
@@ -652,7 +652,7 @@
     }
   ],
   "asOf": "2026-11-03T20:00:00.000Z",
-  "generatedAt": "2026-11-04T09:38:50.283Z",
+  "generatedAt": "2026-11-04T12:53:53.992Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
@@ -678,19 +678,8 @@
       "avgChange": 2.9728777738042904
     },
     {
-      "theme": "雲端服務",
-      "reason": "雲端運算作為數位經濟的基石，持續受益於企業對彈性與擴展性IT解決方案的需求。",
-      "symbols": [
-        "GOOGL",
-        "GOOG",
-        "NBIS"
-      ],
-      "count": 3,
-      "avgChange": 2.568315666302238
-    },
-    {
       "theme": "記憶體",
-      "reason": "AI應用對高頻寬記憶體需求增加，加上產業庫存去化與價格回升預期，帶動記憶體類股表現。",
+      "reason": "AI應用對高頻寬記憶體（HBM）需求增加，以及整體記憶體市場復甦預期，推升相關個股。",
       "symbols": [
         "MU",
         "SKHY"
@@ -699,8 +688,18 @@
       "avgChange": 2.3327860581191286
     },
     {
+      "theme": "半導體設備",
+      "reason": "全球半導體產業擴張，晶圓廠投資持續，設備供應商受惠於訂單增加。",
+      "symbols": [
+        "LRCX",
+        "AMAT"
+      ],
+      "count": 2,
+      "avgChange": 1.6808922107082762
+    },
+    {
       "theme": "儲存裝置",
-      "reason": "數據量爆炸性增長，對高效能、大容量儲存解決方案的需求持續提升。",
+      "reason": "數據中心擴建和AI數據儲存需求增長，刺激儲存裝置市場。",
       "symbols": [
         "SNDK",
         "STX"
@@ -709,14 +708,14 @@
       "avgChange": 3.455099045626853
     },
     {
-      "theme": "網路設備",
-      "reason": "全球網路基礎設施升級與5G、AI數據中心建設，推動網路設備需求增長。",
+      "theme": "電力基礎建設",
+      "reason": "全球能源轉型與電網現代化需求，推動電力基礎設施相關企業發展。",
       "symbols": [
-        "ANET",
-        "CSCO"
+        "BE",
+        "GEV"
       ],
       "count": 2,
-      "avgChange": 2.4268713819603835
+      "avgChange": 7.769259436410074
     }
   ],
   "newEntrants": [
@@ -725,21 +724,21 @@
       "name": "Okta, Inc. Class A Common Stock",
       "theme": "資安",
       "changePercent": 2.601828311786662,
-      "reason": "Okta被納入標普500指數，引發被動型基金買盤。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "SHOP",
       "name": "Shopify Inc. Class A subordinate voting shares",
       "theme": "電子商務軟體",
       "changePercent": -8.737677634105752,
-      "reason": "第三季營收和商品交易總額（GMV）不及預期，導致股價下跌。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "GKOS",
       "name": "Glaukos Corporation",
       "theme": "醫療器材",
       "changePercent": -2.334353128536114,
-      "reason": "第三季營收創紀錄且優於預期，並上調全年財測。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "JPM",
@@ -753,86 +752,81 @@
       "name": "Arista Networks",
       "theme": "網路設備",
       "changePercent": 3.5152918240526443,
-      "reason": "第三季營收和獲利均超預期，並上調全年財測。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "MRNA",
       "name": "Moderna, Inc. Common Stock",
-      "theme": "生技製藥",
+      "theme": "生物製藥",
       "changePercent": 3.4460897522981413,
-      "reason": "與默克合作的癌症疫苗三期臨床數據積極，降低黑色素瘤復發或死亡風險。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "KMB",
       "name": "Kimberly-Clark Corp.",
-      "theme": "民生消費品",
+      "theme": "民生用品",
       "changePercent": -3.501154734411091,
-      "reason": "完成對Kenvue的收購，擴大消費健康產品組合。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "BKNG",
       "name": "Booking Holdings Inc. Common Stock",
       "theme": "線上旅遊",
       "changePercent": 1.24878048780487,
-      "reason": "第三季財報公布在即，市場預期其獲利將超預期。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "SMCI",
       "name": "Super Micro Computer, Inc. Common Stock",
       "theme": "AI 伺服器",
       "changePercent": 3.120893561103808,
-      "reason": "第一季營收和獲利遠超預期，並上調全年財測，受AI伺服器需求強勁帶動。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI晶片、雲端軟體SaaS、記憶體和儲存裝置等科技族群。資金主要流向AI晶片相關個股如Nvidia和AMD，以及記憶體大廠美光，反映市場對AI產業長期成長的期待。然而，部分科技巨頭如Apple和Tesla則面臨營收成長放緩或中國市場銷量下滑的壓力。此外，Oracle和Marvell等公司的大額併購與融資計畫，也引發市場對AI資本支出效益與公司負債的疑慮，導致股價波動。",
+    "highlights": "本日美股成交重點在於資金從前一日的消費金融股轉向科技股，特別是AI晶片、記憶體、雲端軟體 SaaS、半導體設備、儲存裝置以及電力基礎建設等族群。市場主要在交易對AI基礎設施投資的持續性與變現能力的預期，儘管部分科技巨頭財報表現不佳，但AI相關硬體與基礎設施股仍受到買盤青睞，顯示市場對AI長線發展仍具信心。",
     "eventsPast": [
       {
-        "title": "Marvell Technology 宣布以1150億美元收購Lumentum",
-        "detail": "Marvell Technology 宣布以全股票方式收購光學元件製造商Lumentum，此為AI基礎設施企業為擴大規模而採取的最新行動，但市場對AI產業巨額支出能否回收的疑慮升溫，導致Marvell股價重挫。"
+        "title": "科技股大幅下修，蘋果超越輝達成全球最大企業",
+        "detail": "10月30日，受英特爾與Alphabet等財報展望不佳影響，科技股普遍下跌，AI晶片與高頻寬記憶體族群重挫，蘋果市值超越輝達成為全球第一。"
       },
       {
-        "title": "Oracle 宣布發行200億美元股債為AI基礎設施融資",
-        "detail": "Oracle 計劃發行100億美元普通股和100億美元債券，合計籌資200億美元，用於AI與雲端基礎設施擴建，此舉引發市場對其高負債與AI投資風險的擔憂，導致股價下跌。"
+        "title": "AI基礎建設投資動盪，部分雲端業者股價重挫",
+        "detail": "10月24日，新型雲端業者（Neocloud）股價重挫，信用違約交換（CDS）利差飆升，Meta自由現金流轉為負值，SK海力士旗下Solidigm也取消IPO計畫。"
       },
       {
-        "title": "Intel 財測疲弱，PC市場低迷恐延續",
-        "detail": "Intel 公布的第三季財報營收略高於預期，但第四季財測疲弱，並指出全球PC市場持續低迷，可能延續至明年上半年，導致股價暴跌。"
+        "title": "英特爾財測低於預期，股價暴跌",
+        "detail": "10月31日，英特爾第四季財測遠低於市場預期，導致股價暴跌近29%，並引發半導體族群的賣壓。"
       },
       {
-        "title": "Amazon 第三季財報營收、獲利不如預期，自由現金流持續流出",
-        "detail": "Amazon 第三季財報營收和獲利均遜於華爾街預期，且AI基礎設施投資持續消耗現金，導致自由現金流流出擴大，儘管AWS雲端業務成長加速，但股價仍受壓。"
+        "title": "亞馬遜自由現金流轉負，雲端投資面臨現金檢驗",
+        "detail": "10月31日，亞馬遜第三季業績未達預期，且過去12個月自由現金流降至負424億美元，顯示AI資本支出正進入現金流檢驗期。"
       },
       {
-        "title": "Tesla 10月中國銷量驟降，民主黨掌控國會引發監管擔憂",
-        "detail": "Tesla 10月份在華批發銷量從9月份驟降，創今年第二低，加上美國中期選舉結果可能導致民主黨掌控眾議院，引發市場對馬斯克旗下企業監管趨嚴的擔憂，導致股價下跌。"
+        "title": "AI晶片、記憶體及算力股回神",
+        "detail": "10月28日，市場持續關注AI前沿實驗室Anthropic的IPO細節，帶動AI晶片、算力等概念股反彈，費城半導體指數連續第三個交易日收紅。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "本週三",
-        "title": "美國中期選舉投票",
-        "detail": "美國中期選舉將於美東時間11月3日正式開始投票，選舉結果可能對市場政策和科技股帶來不確定性。"
+        "date": "未來幾天",
+        "title": "NVIDIA財報",
+        "detail": "NVIDIA的財報將是市場關注的焦點，其結果將影響AI晶片及相關供應鏈的走勢。"
       },
       {
-        "date": "本週四",
-        "title": "高通（QCOM）財報",
-        "detail": "高通將在11月4日盤後公布財報，市場關注其全球組織重組與裁員計畫、蘋果訂單流失的實質衝擊，以及轉型汽車與AI資料中心晶片的最新進度。"
+        "date": "未來幾天",
+        "title": "美國就業數據",
+        "detail": "美國的就業數據將提供經濟狀況的線索，可能影響聯準會的貨幣政策。"
       },
       {
-        "date": "本週五",
-        "title": "美國10月非農就業報告",
-        "detail": "美國勞工部將於本週五發布10月非農就業報告，此為本週壓軸的勞動力市場數據，將影響市場對經濟狀況的評估。"
+        "date": "未來幾天",
+        "title": "美國通膨數據",
+        "detail": "美國的通膨數據將影響市場對利率走向的預期，進而影響科技股的表現。"
       },
       {
-        "date": "11/18",
-        "title": "Nvidia（NVDA）財報",
-        "detail": "Nvidia 即將在11月18日公布財報，市場關注Blackwell晶片的出貨進度、毛利率能否守穩預期水準，以及科技巨頭是否持續調高算力資本支出。"
-      },
-      {
-        "date": "11/19",
-        "title": "沃爾瑪（WMT）財報",
-        "detail": "零售巨頭沃爾瑪將在11月19日盤前公布財報，這份財報被視為美國內需消費健康度的指標。"
+        "date": "12月",
+        "title": "聯準會會議",
+        "detail": "聯準會的貨幣政策會議結果將對市場產生重大影響，特別是利率決策。"
       }
     ]
   }
