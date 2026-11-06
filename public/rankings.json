@@ -86,7 +86,7 @@
       "dollarVolume": 22953735539.70344,
       "marketCap": 3979920446253.36,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體 SaaS",
+      "theme": "雲端軟體",
       "isNew": false,
       "rankChange": -3,
       "streak": 167
@@ -112,7 +112,7 @@
       "dollarVolume": 21457604777.37044,
       "marketCap": 1678891095706.58,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "太空",
+      "theme": "太空科技",
       "isNew": false,
       "rankChange": 0,
       "streak": 102
@@ -138,7 +138,7 @@
       "dollarVolume": 16088879204.210482,
       "marketCap": 1391656314543.45,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "AI 晶片",
+      "theme": "半導體設備",
       "isNew": false,
       "rankChange": 4,
       "streak": 167
@@ -203,7 +203,7 @@
       "dollarVolume": 9327311858.793724,
       "marketCap": 117109995000.00002,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "AI 晶片",
+      "theme": "資料中心晶片",
       "isNew": false,
       "rankChange": 0,
       "streak": 157
@@ -216,7 +216,7 @@
       "dollarVolume": 7830128095.914965,
       "marketCap": 356587558861.71,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "大數據分析",
+      "theme": "數據分析軟體",
       "isNew": false,
       "rankChange": 0,
       "streak": 167
@@ -268,7 +268,7 @@
       "dollarVolume": 6583302828.035745,
       "marketCap": 348213437760,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體 SaaS",
+      "theme": "企業軟體",
       "isNew": false,
       "rankChange": -10,
       "streak": 167
@@ -294,7 +294,7 @@
       "dollarVolume": 6364382401.033208,
       "marketCap": 49528408541.28001,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "氫能源",
+      "theme": "燃料電池",
       "isNew": false,
       "rankChange": -1,
       "streak": 47
@@ -307,7 +307,7 @@
       "dollarVolume": 6266851357.061491,
       "marketCap": 167383842722.25,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "通訊晶片",
+      "theme": "行動晶片",
       "isNew": false,
       "rankChange": 7,
       "streak": 2
@@ -424,7 +424,7 @@
       "dollarVolume": 5415206755.04505,
       "marketCap": 46170081703.2,
       "sector": "COMMUNICATIONS EQUIPMENT, NEC",
-      "theme": "光通訊",
+      "theme": "光通訊元件",
       "isNew": false,
       "rankChange": -15,
       "streak": 85
@@ -502,7 +502,7 @@
       "dollarVolume": 4605031565.195062,
       "marketCap": 169124524063,
       "sector": "OPTICAL INSTRUMENTS & LENSES",
-      "theme": "半導體設備",
+      "theme": "半導體檢測",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -554,7 +554,7 @@
       "dollarVolume": 3710926913.3708835,
       "marketCap": 24080088043.32,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體 SaaS",
+      "theme": "雲端運算",
       "isNew": false,
       "rankChange": 1,
       "streak": 18
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-11-05T20:00:00.000Z",
-  "generatedAt": "2026-11-06T09:44:06.850Z",
+  "generatedAt": "2026-11-06T12:50:45.252Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "廣告科技",
-      "reason": "在數位廣告市場復甦的背景下，廣告科技公司因其精準行銷和數據分析能力而受到市場關注。",
+      "reason": "市場對數位廣告支出復甦的預期，以及公司在應用程式內廣告領域的成長潛力。",
       "symbols": [
         "APP"
       ],
@@ -667,7 +667,7 @@
     },
     {
       "theme": "零售百貨",
-      "reason": "在通膨壓力下，大型零售商因其成本控制能力和消費者必需品銷售而表現出韌性。",
+      "reason": "在通膨壓力下，消費者轉向折扣零售商，帶動了其業績表現。",
       "symbols": [
         "COST"
       ],
@@ -681,77 +681,105 @@
       "name": "Western Digital Corp.",
       "theme": "儲存裝置",
       "changePercent": -17.354784918012534,
-      "reason": "民主黨在中期選舉獲勝，引發對AI監管收緊的擔憂，衝擊資料中心需求。"
+      "reason": "近期發布2027財年第一季財報，營收與財測表現強勁，但股價下跌可能受大盤影響。"
     },
     {
       "symbol": "ADI",
       "name": "Analog Devices, Inc.",
       "theme": "類比晶片",
       "changePercent": -11.133812524615996,
-      "reason": "完成收購Alif Semiconductor，擴展AI微控制器與融合處理器市場。"
+      "reason": "近期完成收購Alif Semiconductor，擴展AI原生微控制器技術，但交易細節未披露。"
     },
     {
       "symbol": "KLAC",
       "name": "KLA Corporation Common Stock",
-      "theme": "半導體設備",
+      "theme": "半導體檢測",
       "changePercent": -13.345350156886296,
-      "reason": "半導體設備股因投資者重新評估AI驅動的工廠支出而下跌。"
+      "reason": "近期發布2027財年第一季財報優於預期，並宣布季度現金股利。"
     },
     {
       "symbol": "PANW",
       "name": "Palo Alto Networks, Inc. Common Stock",
       "theme": "資安",
       "changePercent": -9.587978393288129,
-      "reason": "Fortinet財報利空引發資安板塊拋售，且傳聞收購AI資安新創引發市場謹慎。"
+      "reason": "傳聞正洽談以5億美元收購以色列AI資安新創Clutch Security。"
     },
     {
       "symbol": "CRWD",
       "name": "CrowdStrike Holdings, Inc. Class A Common Stock",
       "theme": "資安",
       "changePercent": -9.875518672199176,
-      "reason": "執行長出售股票，加上資安板塊受Fortinet財報影響而下跌。"
+      "reason": "宣布斥資近5億美元收購兩家AI資安新創，強化AI資安市場佈局。"
     },
     {
       "symbol": "VRT",
       "name": "Vertiv Holdings Co Class A Common Stock",
       "theme": "資料中心基礎設施",
       "changePercent": -14.020919484310395,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "第三季財報強勁，營收成長61%，並上調全年財測，受惠AI數據中心需求。"
     },
     {
       "symbol": "GS",
       "name": "Goldman Sachs Group Inc.",
       "theme": "金融服務",
       "changePercent": -6.3631465517241335,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "高盛提拔109位銀行家為合夥人，並傳與Apollo洽談出售SpaceX AI晶片股權。"
     },
     {
       "symbol": "MSTR",
       "name": "Strategy Inc Common Stock Class A",
       "theme": "比特幣/加密",
       "changePercent": -9.288620738038432,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "CFO將於11月5日卸任，且比特幣價格下跌影響公司價值。"
     },
     {
       "symbol": "DASH",
       "name": "DoorDash, Inc. Class A Common Stock",
       "theme": "外送服務",
       "changePercent": -9.401279017070353,
-      "reason": "Uber財報顯示外送業務強勁增長，帶動DoorDash股價上漲。"
+      "reason": "宣布以170億美元收購Instacart，但亞馬遜與Uber Eats合作提供免運服務。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點集中在科技巨頭，特別是AI晶片、記憶體和電動車等高成長題材，但普遍呈現大幅下跌。市場似乎在交易對未來科技股獲利能力和估值的重新評估，導致資金從這些過去表現強勁的個股中流出，引發了顯著的賣壓。",
+    "highlights": "本日美股成交重點聚焦於科技股的普遍下跌，特別是 AI 晶片、記憶體和電動車等熱門題材。市場擔憂美國期中選舉後，民主黨掌控國會可能導致對 AI 基礎設施的更嚴格監管，甚至暫停資料中心建設，進而影響相關公司的資本支出和未來需求。此外，部分個股也面臨自身營運挑戰，例如美光因勞資糾紛暫停台灣新廠建設，以及特斯拉和 SpaceX 因馬斯克政治捐款和潛在合併案引發的「馬斯克拋售潮」。這些因素共同導致了科技股的廣泛拋售，資金流出這些高成長領域。",
     "eventsPast": [
       {
-        "title": "科技股普遍重挫",
-        "detail": "多檔科技權值股，包括Nvidia、Micron、AMD、Tesla等，在2026-11-05交易日出現大幅下跌，跌幅介於9%至22%之間。"
+        "title": "美光科技因勞資糾紛暫停台灣新廠建設",
+        "detail": "美光科技（MU）於 2026 年 11 月 5 日宣布，由於持續的勞資糾紛，已暫停在台灣桃園興建新記憶體晶片廠的計畫，該計畫原定於 2028 年投產，旨在生產高頻寬記憶體（HBM）和 DRAM。"
       },
       {
-        "title": "半導體類股領跌",
-        "detail": "AI晶片和記憶體相關個股如Nvidia、Micron、AMD、SNDK和TSM跌幅尤其劇烈，顯示市場對半導體產業前景的擔憂。"
+        "title": "AMD 股價因資料中心支出擔憂而下跌",
+        "detail": "超微（AMD）股價在 2026 年 11 月 5 日下跌約 15%，原因是投資者擔心期中選舉後資料中心領域的支出減少，以及對技術基礎設施資本支出的重新評估。"
+      },
+      {
+        "title": "特斯拉和 SpaceX 遭遇「馬斯克拋售潮」",
+        "detail": "特斯拉（TSLA）和 SpaceX（SPCX）股價在 2026 年 11 月 5 日分別下跌 11% 和 9%，反映了市場對科技行業的普遍擔憂，以及美國期中選舉後兩家公司未來業務機會的不確定性。"
+      },
+      {
+        "title": "SanDisk 股價因科技股拋售而大幅下跌",
+        "detail": "SanDisk（SNDK）股價在 2026 年 11 月 5 日大幅下跌 22.26%，主要受科技股普遍拋售的影響，市場擔憂民主黨在期中選舉後可能實施更嚴格的 AI 監管，進而減緩資料中心建設。"
+      },
+      {
+        "title": "Meta 推出 Muse 應用程式新功能並暫停服務條款修改",
+        "detail": "Meta Platforms（META）於 2026 年 11 月 5 日在 Muse 應用程式中推出了新的語音和富有表現力的虛擬人像功能，旨在促進更自然的使用者互動；同時，Meta 也無限期推遲了其社交媒體平台服務條款的修訂，以回應出版商對其內容可能被用於 AI 訓練的擔憂。"
       }
     ],
-    "eventsUpcoming": []
+    "eventsUpcoming": [
+      {
+        "date": "11/13",
+        "title": "Apple 推出 HomeView 智慧家庭中樞和新款 Apple TV 4K",
+        "detail": "蘋果（AAPL）將於 2026 年 11 月 13 日推出 HomeView 智慧家庭中樞和第四代 Apple TV 4K，這兩款產品已於 10 月 13 日開放預購。"
+      },
+      {
+        "date": "2027年1月",
+        "title": "Intel 將全面揭示 Nova Lake CPU 架構",
+        "detail": "英特爾（INTC）預計將在 2027 年 1 月的 CES 展會上全面揭示其代號為「Nova Lake」的下一代桌面 CPU 架構，該架構將直接與 AMD 的 Zen 6 CPU 競爭。"
+      },
+      {
+        "date": "2027年1月14日",
+        "title": "美光科技年度股東大會",
+        "detail": "美光科技（MU）預計將於 2027 年 1 月 14 日舉行年度股東大會，屆時董事 Linnie M. Haynesworth 將退休。"
+      }
+    ]
   }
 }
