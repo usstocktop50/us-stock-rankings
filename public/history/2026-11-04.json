@@ -8,7 +8,7 @@
       "dollarVolume": 31441749369.530697,
       "marketCap": 5100811851800,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "消費電子",
+      "theme": "消費性電子",
       "isNew": false,
       "rankChange": 0,
       "streak": 166
@@ -112,7 +112,7 @@
       "dollarVolume": 18375021309.041714,
       "marketCap": 1845938179327.2798,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "太空科技",
+      "theme": "太空",
       "isNew": false,
       "rankChange": -1,
       "streak": 101
@@ -138,7 +138,7 @@
       "dollarVolume": 13961118130.87702,
       "marketCap": 374126855280,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "資料庫軟體",
+      "theme": "企業軟體",
       "isNew": false,
       "rankChange": -5,
       "streak": 166
@@ -190,7 +190,7 @@
       "dollarVolume": 7811590240.2875805,
       "marketCap": 1553721048460.2002,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網路通訊晶片",
+      "theme": "網通晶片",
       "isNew": false,
       "rankChange": 3,
       "streak": 166
@@ -203,7 +203,7 @@
       "dollarVolume": 7450392233.1048975,
       "marketCap": 140128620000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網路通訊晶片",
+      "theme": "網通晶片",
       "isNew": false,
       "rankChange": -1,
       "streak": 156
@@ -320,7 +320,7 @@
       "dollarVolume": 4193027701.768346,
       "marketCap": 743964478819.58,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "數位支付",
+      "theme": "支付服務",
       "isNew": false,
       "rankChange": 8,
       "streak": 20
@@ -411,7 +411,7 @@
       "dollarVolume": 3688186735.7605386,
       "marketCap": 103154568999.81999,
       "sector": "BIOLOGICAL PRODUCTS, (NO DIAGNOSTIC SUBSTANCES)",
-      "theme": "mRNA 疫苗",
+      "theme": "生技製藥",
       "isNew": false,
       "rankChange": 7,
       "streak": 2
@@ -424,7 +424,7 @@
       "dollarVolume": 3633035651.623813,
       "marketCap": 935973941121.4501,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "商業銀行",
+      "theme": "金融服務",
       "isNew": false,
       "rankChange": 2,
       "streak": 2
@@ -541,7 +541,7 @@
       "dollarVolume": 3057900081.8480716,
       "marketCap": 581637544082.12,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "數位支付",
+      "theme": "支付服務",
       "isNew": false,
       "rankChange": 0,
       "streak": 7
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-11-04T20:00:00.000Z",
-  "generatedAt": "2026-11-05T13:05:20.936Z",
+  "generatedAt": "2026-11-06T02:07:18.430Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "網路服務",
-      "reason": "市場對大型科技公司的雲端運算和廣告業務前景保持樂觀，帶動股價上漲。",
+      "reason": "市場對大型科技公司的獲利前景保持樂觀，尤其在廣告和雲端服務領域。",
       "symbols": [
         "GOOGL",
         "GOOG"
@@ -667,8 +667,8 @@
       "avgChange": 3.211640337818059
     },
     {
-      "theme": "數位支付",
-      "reason": "全球數位支付趨勢持續增長，消費者支出數據表現良好，提振了相關公司的業績預期。",
+      "theme": "支付服務",
+      "reason": "全球經濟活動復甦帶動消費支出增加，有利於支付處理商的交易量。",
       "symbols": [
         "V",
         "MA"
@@ -678,7 +678,7 @@
     },
     {
       "theme": "零售百貨",
-      "reason": "消費者信心指數回升，加上節慶消費旺季的預期，帶動零售業績成長。",
+      "reason": "消費者支出數據表現穩健，大型零售商的銷售額預期良好。",
       "symbols": [
         "WMT",
         "COST"
@@ -688,7 +688,7 @@
     },
     {
       "theme": "網路設備",
-      "reason": "企業對網路基礎設施升級的需求持續存在，推動網路設備供應商的訂單增長。",
+      "reason": "企業數位轉型和數據中心建設需求持續，推動網路基礎設施相關設備銷售。",
       "symbols": [
         "ANET",
         "CSCO"
@@ -697,8 +697,8 @@
       "avgChange": 2.8326934984180347
     },
     {
-      "theme": "消費電子",
-      "reason": "市場預期新產品發布將刺激消費需求，且公司基本面穩健，吸引資金流入。",
+      "theme": "消費性電子",
+      "reason": "市場預期新產品發布或銷售表現優於預期，帶動相關公司股價上漲。",
       "symbols": [
         "AAPL"
       ],
@@ -707,7 +707,7 @@
     },
     {
       "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型需求不減，雲端軟體服務的訂閱收入穩定增長，支撐股價表現。",
+      "reason": "企業對雲端解決方案的需求持續增長，推動軟體即服務供應商的營收。",
       "symbols": [
         "MSFT"
       ],
@@ -721,100 +721,100 @@
       "name": "Applovin Corporation Class A Common Stock",
       "theme": "行動廣告",
       "changePercent": 10.687955684086193,
-      "reason": "第三季財報與財測優於預期，且宣布增加股票回購計畫。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "UNH",
       "name": "UNITEDHEALTH GROUP INCORPORATED (Delaware)",
       "theme": "醫療保險",
       "changePercent": 1.2214419938680638,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動，但有報導稱受CVS財報利好提振。"
+      "reason": "CMS最終確定2027年Medicare Advantage支付費率調升，優於預期。"
     },
     {
       "symbol": "QCOM",
       "name": "Qualcomm Inc",
       "theme": "手機晶片",
       "changePercent": 5.327494982667391,
-      "reason": "第四季財報優於預期，但財測疲弱，且手機晶片銷售受供應短缺影響。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "MCD",
       "name": "McDonald's Corporation",
       "theme": "速食餐飲",
       "changePercent": 6.531326034063263,
-      "reason": "第三季財報顯示全球同店銷售成長，並宣布調升股息。"
+      "reason": "美國議員質疑麥當勞使用演算法定價工具，恐涉嫌操縱價格。"
     },
     {
       "symbol": "ASML",
       "name": "ASML Holding NV",
       "theme": "半導體設備",
       "changePercent": -3.5976136173283426,
-      "reason": "第三季財報營收與淨利均優於前季，並預期第四季銷售成長。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "HD",
       "name": "Home Depot, Inc.",
       "theme": "居家修繕零售",
       "changePercent": 6.5276029491098635,
-      "reason": "受美國期中選舉後房市相關股票上漲，以及殖利率下降預期帶動。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "CVS",
       "name": "CVS HEALTH CORPORATION",
       "theme": "藥局零售",
       "changePercent": -12.525981840061265,
-      "reason": "宣布計畫將藥局零售業務從健康保險與福利業務中分拆。"
+      "reason": "公司宣布將分拆為兩家公司，為醫療保健產業重大變革。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於科技巨頭的財報表現與AI產業鏈的動態。蘋果（AAPL）受惠於強勁的第四季財報與對NAND快閃記憶體的戰略採購承諾，股價大漲。超微（AMD）則因數據中心業務營收近乎翻倍，且對第四季展望樂觀而表現亮眼。然而，記憶體相關個股如美光（MU）和SanDisk（SNDK）則因中國DRAM競爭疑慮及整體類股情緒影響而下跌。此外，美國中期選舉結果也對市場產生影響，民主黨掌控國會引發對AI基礎設施建設政策風險的重新評估，導致部分AI數據中心、光模塊和儲存股下跌，而與馬斯克相關的SpaceX和特斯拉也受到衝擊。",
+    "highlights": "本日美股成交重點在於科技巨頭的表現分歧，資金主要集中在對AI前景樂觀且財報表現強勁的個股，如Apple、Microsoft和Amazon，這些公司受惠於雲端與AI需求的加速成長，以及市場對其長期成長性的重新評價。 然而，部分AI晶片和儲存裝置類股則面臨賣壓，市場對AI龐大資本支出能否帶來足夠回報存疑，加上中國市場的不確定性，導致Nvidia、Micron、Intel和Sandisk等股價下跌。 此外，美國中期選舉結果明朗，民主黨重掌國會，也對市場情緒產生影響，資料中心相關個股走勢分歧。",
     "eventsPast": [
       {
-        "title": "蘋果（AAPL）發布強勁第四季財報",
-        "detail": "蘋果公司公布2026財年第四季營收達1,145億美元，超出華爾街預期，iPhone銷售額貢獻576億美元，並獲得第二筆關稅退稅，推動股價上漲。"
+        "title": "AMD第三季財報超預期，資料中心業務近翻倍",
+        "detail": "AMD於11月4日公布的第三季財報顯示，營收年增45%，資料中心業務銷售額幾乎翻倍，超出華爾街預期，並預計第四季資料中心AI業務營收將首次超過伺服器CPU。"
       },
       {
-        "title": "超微（AMD）第三季財報優於預期，數據中心營收近倍增",
-        "detail": "AMD公布第三季營收達133.8億美元，年增45%，獲利與營收均優於華爾街預期，其中數據中心業務銷售額年增97%，激勵股價盤後大漲。"
+        "title": "Meta收購AI編碼新創Conductor",
+        "detail": "Meta於11月4日證實收購了2024年成立的AI編碼新創公司Conductor，此舉顯示Meta正加速布局AI輔助軟體開發領域。"
       },
       {
-        "title": "甲骨文（ORCL）取消與騰訊的AI晶片租賃協議",
-        "detail": "受美國政府施壓影響，甲骨文終止與騰訊一項價值約70億美元的五年期AI晶片租賃合約，該協議原定提供騰訊在東南亞數據中心使用先進AI晶片。"
+        "title": "Meta首次發行歐元債券，籌資擴大AI基礎設施",
+        "detail": "Meta Platforms在發行150億美元的美元債券後，於11月4日啟動首次歐元計價債券發行，計劃籌集至少200億美元，以支應其龐大的AI基礎設施擴張需求。"
       },
       {
-        "title": "SpaceX（SPCX）與高通（QCOM）達成5G網路合作",
-        "detail": "SpaceX宣布與高通合作，將採用高通的Dragonwing行動通訊基礎設施平台，為Starlink Mobile打造美國全國性地面5G網路，預計2027年開始部署。"
+        "title": "Nvidia面臨賣壓，據報限制對中國數據中心服務",
+        "detail": "Nvidia股價連續七個交易日收黑，創近三個月新低，部分原因為市場對AI資本支出回報率的擔憂，以及據報Nvidia已指示數據中心合作夥伴減少對中國企業的服務，以確保至少51%的服務銷售給非中國企業。"
       },
       {
-        "title": "美國中期選舉結果出爐，民主黨掌控國會",
-        "detail": "美國中期選舉結果顯示民主黨拿下參眾兩院，引發市場對AI監管收緊、數據中心建設政策風險的重新評估，導致部分相關個股下跌，與馬斯克相關的SpaceX和特斯拉股價走弱。"
+        "title": "Intel股價持續下滑，面臨PC市場疲軟與證券調查",
+        "detail": "Intel股價在公布令人失望的第四季財測後持續承壓，預計營收顯著低於市場預期，並警告PC市場疲軟可能持續至2027年上半年，同時面臨證券調查。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "11/6",
+        "date": "11/06",
         "title": "美國10月非農就業報告",
-        "detail": "此報告將提供美國就業市場的最新數據，可能影響聯準會未來的利率決策。"
+        "detail": "非農就業報告是聯準會評估是否降息的關鍵指標，市場預期10月就業動能將進一步放緩，新增人數約4.1萬至5萬人，失業率維持在4.1%。"
       },
       {
         "date": "11/10",
         "title": "美國10月消費者物價指數(CPI)",
-        "detail": "CPI數據是衡量通膨的重要指標，將影響市場對聯準會升息路徑的預期。"
+        "detail": "CPI是衡量通膨率的重要指標，市場預期10月CPI年增率將回升至3.75%左右，核心CPI年增率預計落在2.48%上下。"
       },
       {
         "date": "11/13",
         "title": "美國10月生產者物價指數(PPI)",
-        "detail": "PPI衡量批發層面的通膨率，常被視為CPI的領先指標，將提供通膨壓力的進一步線索。"
+        "detail": "PPI是衡量批發通膨率的指標，常被視為CPI的領先指標，市場預期10月PPI年增率將回升至2.45%左右，核心PPI年增率預計落在2.65%附近。"
+      },
+      {
+        "date": "11/17",
+        "title": "美國10月零售銷售數據",
+        "detail": "零售銷售數據反映美國內需消費力道，市場預期10月零售銷售月增率將落在0.38%左右，表現依然穩健。"
       },
       {
         "date": "11/18",
-        "title": "輝達（NVDA）財報",
-        "detail": "輝達將公布財報，市場將聚焦Blackwell晶片的出貨進度、毛利率表現以及科技巨頭對算力資本支出的態度。"
-      },
-      {
-        "date": "11/25",
-        "title": "美國10月PCE物價指數",
-        "detail": "個人消費支出物價指數（PCE）是聯準會最看重的通膨指標之一，將影響12月的利率走向。"
+        "title": "Nvidia (NVDA) 財報",
+        "detail": "Nvidia即將公布財報，市場將聚焦Blackwell晶片的出貨進度、毛利率能否守穩預期水準，以及科技巨頭是否持續調高算力資本支出。"
       }
     ]
   }
