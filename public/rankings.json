@@ -86,7 +86,7 @@
       "dollarVolume": 22953735539.70344,
       "marketCap": 3979920446253.36,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": -3,
       "streak": 167
@@ -112,7 +112,7 @@
       "dollarVolume": 21457604777.37044,
       "marketCap": 1678891095706.58,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "太空科技",
+      "theme": "太空",
       "isNew": false,
       "rankChange": 0,
       "streak": 102
@@ -138,7 +138,7 @@
       "dollarVolume": 16088879204.210482,
       "marketCap": 1391656314543.45,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體設備",
+      "theme": "AI 晶片",
       "isNew": false,
       "rankChange": 4,
       "streak": 167
@@ -203,7 +203,7 @@
       "dollarVolume": 9327311858.793724,
       "marketCap": 117109995000.00002,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "資料中心網路",
+      "theme": "AI 晶片",
       "isNew": false,
       "rankChange": 0,
       "streak": 157
@@ -229,7 +229,7 @@
       "dollarVolume": 7821082011.616878,
       "marketCap": 108412152300,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "行動廣告",
+      "theme": "廣告科技",
       "isNew": false,
       "rankChange": 6,
       "streak": 2
@@ -268,7 +268,7 @@
       "dollarVolume": 6583302828.035745,
       "marketCap": 348213437760,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "企業軟體",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": -10,
       "streak": 167
@@ -307,7 +307,7 @@
       "dollarVolume": 6266851357.061491,
       "marketCap": 167383842722.25,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "行動通訊晶片",
+      "theme": "通訊晶片",
       "isNew": false,
       "rankChange": 7,
       "streak": 2
@@ -502,7 +502,7 @@
       "dollarVolume": 4605031565.195062,
       "marketCap": 169124524063,
       "sector": "OPTICAL INSTRUMENTS & LENSES",
-      "theme": "半導體檢測",
+      "theme": "半導體設備",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -554,7 +554,7 @@
       "dollarVolume": 3710926913.3708835,
       "marketCap": 24080088043.32,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端服務",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": 1,
       "streak": 18
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-11-05T20:00:00.000Z",
-  "generatedAt": "2026-11-06T07:36:36.161Z",
+  "generatedAt": "2026-11-06T09:44:06.850Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
-      "theme": "行動廣告",
-      "reason": "行動廣告市場持續成長，相關公司因其創新模式和市場份額而受到關注。",
+      "theme": "廣告科技",
+      "reason": "在數位廣告市場復甦的背景下，廣告科技公司因其精準行銷和數據分析能力而受到市場關注。",
       "symbols": [
         "APP"
       ],
@@ -667,7 +667,7 @@
     },
     {
       "theme": "零售百貨",
-      "reason": "在通膨壓力下，大型零售商因其成本控制和消費者需求穩定而表現出韌性。",
+      "reason": "在通膨壓力下，大型零售商因其成本控制能力和消費者必需品銷售而表現出韌性。",
       "symbols": [
         "COST"
       ],
@@ -693,7 +693,7 @@
     {
       "symbol": "KLAC",
       "name": "KLA Corporation Common Stock",
-      "theme": "半導體檢測",
+      "theme": "半導體設備",
       "changePercent": -13.345350156886296,
       "reason": "半導體設備股因投資者重新評估AI驅動的工廠支出而下跌。"
     },
@@ -741,40 +741,17 @@
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交值前段個股普遍呈現大跌，主要受「AI 基礎建設擴張可能放緩」的擔憂影響，導致 AI 晶片與半導體類股遭到猛烈拋售，例如 Nvidia、Micron 和 AMD 跌幅均超過 9%。 此外，美國期中選舉後，部分國會議員呼籲「全美暫停興建資料中心」的言論，也加劇了市場對相關建設進度受阻的擔憂，使得資金從科技股轉向防禦性類股。",
+    "highlights": "本日美股成交重點集中在科技巨頭，特別是AI晶片、記憶體和電動車等高成長題材，但普遍呈現大幅下跌。市場似乎在交易對未來科技股獲利能力和估值的重新評估，導致資金從這些過去表現強勁的個股中流出，引發了顯著的賣壓。",
     "eventsPast": [
       {
-        "title": "SpaceX 第三季財報亮眼，AI 業務營收超越 Starlink",
-        "detail": "SpaceX 於 10 月 20 日公布 2026 年第三季財報，營收達 145.8 億美元，年增 161%，EPS 為 0.35 美元，大幅優於市場預期，且 AI 業務營收首次超越 Starlink 通訊業務。"
+        "title": "科技股普遍重挫",
+        "detail": "多檔科技權值股，包括Nvidia、Micron、AMD、Tesla等，在2026-11-05交易日出現大幅下跌，跌幅介於9%至22%之間。"
       },
       {
-        "title": "特斯拉第三季財報營收獲利超預期，但營業利益年減",
-        "detail": "特斯拉於 10 月 22 日公布 2026 年第三季財報，營收達 280.46 億美元，非 GAAP 每股盈餘為 0.48 美元，均優於市場預期，但營業利益年減 56%。"
-      },
-      {
-        "title": "Meta 第三季財報營收年增 26%，資本支出導致自由現金流轉負",
-        "detail": "Meta 於 10 月 21 日公布 2026 年第三季財報，營收達 646 億美元，年增 26%，高於市場預期，但因資本支出達 349 億美元，導致自由現金流轉為負 21.2 億美元。"
-      },
-      {
-        "title": "微軟第三季財報表現強勁，Azure 營收年增 48%",
-        "detail": "微軟於 10 月 28 日公布 2026 年第三季財報，營收達 922.8 億美元，年增 19%，非 GAAP EPS 為 4.89 美元，均高於市場預期，其中 Azure 營收年增 48%。"
-      },
-      {
-        "title": "亞馬遜第三季財報 AWS 營收成長加速，但整體營收獲利雙失利",
-        "detail": "亞馬遜於 10 月 29 日公布 2026 年第三季財報，營收達 2,019.4 億美元，年增 12%，但低於市場預期，且是四年多來首次營收與獲利皆未達到市場預期。 不過，AWS 雲端服務營收年增 39%，成長加速並擊敗預期。"
+        "title": "半導體類股領跌",
+        "detail": "AI晶片和記憶體相關個股如Nvidia、Micron、AMD、SNDK和TSM跌幅尤其劇烈，顯示市場對半導體產業前景的擔憂。"
       }
     ],
-    "eventsUpcoming": [
-      {
-        "date": "11/10",
-        "title": "美國 10 月消費者物價指數 (CPI)",
-        "detail": "市場將藉此評估聯準會後續利率政策方向。"
-      },
-      {
-        "date": "11/13",
-        "title": "美國 10 月生產者物價指數 (PPI)",
-        "detail": "市場將藉此評估聯準會後續利率政策方向，預期 PPI 年增率將回升至 2.45% 左右。"
-      }
-    ]
+    "eventsUpcoming": []
   }
 }
