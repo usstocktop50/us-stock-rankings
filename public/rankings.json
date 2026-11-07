@@ -112,7 +112,7 @@
       "dollarVolume": 11119246246.341433,
       "marketCap": 2803846762745.8003,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電商/雲端服務",
+      "theme": "電子商務",
       "isNew": false,
       "rankChange": -1,
       "streak": 168
@@ -125,7 +125,7 @@
       "dollarVolume": 10393713684.060162,
       "marketCap": 1676784639999.9998,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "雲端軟體 SaaS",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": 3,
       "streak": 168
@@ -151,7 +151,7 @@
       "dollarVolume": 9666703938.26553,
       "marketCap": 1351160314725.05,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "社群媒體/AI",
+      "theme": "社群媒體",
       "isNew": false,
       "rankChange": -2,
       "streak": 168
@@ -190,7 +190,7 @@
       "dollarVolume": 7011494498.127592,
       "marketCap": 1584045470000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "雲端軟體 SaaS",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": 0,
       "streak": 168
@@ -255,7 +255,7 @@
       "dollarVolume": 4508250128.559363,
       "marketCap": 119104190460.00002,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "行動廣告/軟體",
+      "theme": "行動廣告",
       "isNew": false,
       "rankChange": -2,
       "streak": 3
@@ -294,7 +294,7 @@
       "dollarVolume": 3909963311.7198052,
       "marketCap": 368988403705.02,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "大數據/AI",
+      "theme": "大數據分析",
       "isNew": false,
       "rankChange": -6,
       "streak": 168
@@ -307,7 +307,7 @@
       "dollarVolume": 3890414638.6678042,
       "marketCap": 720243230119.1,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "金融支付",
+      "theme": "支付服務",
       "isNew": false,
       "rankChange": -2,
       "streak": 22
@@ -359,7 +359,7 @@
       "dollarVolume": 3241426420.446939,
       "marketCap": 176631332852.87,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "行動晶片",
+      "theme": "手機晶片",
       "isNew": false,
       "rankChange": -4,
       "streak": 3
@@ -411,7 +411,7 @@
       "dollarVolume": 3114747923.738507,
       "marketCap": 995843828170.32,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售",
+      "theme": "零售百貨",
       "isNew": false,
       "rankChange": 0,
       "streak": 7
@@ -541,7 +541,7 @@
       "dollarVolume": 2654819786.5542517,
       "marketCap": 466863356932.44,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售",
+      "theme": "零售百貨",
       "isNew": false,
       "rankChange": -8,
       "streak": 6
@@ -567,7 +567,7 @@
       "dollarVolume": 2630903350.028393,
       "marketCap": 889136700365.55,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "銀行",
+      "theme": "金融服務",
       "isNew": false,
       "rankChange": -4,
       "streak": 4
@@ -652,38 +652,13 @@
     }
   ],
   "asOf": "2026-11-06T20:00:00.000Z",
-  "generatedAt": "2026-11-07T06:45:54.351Z",
+  "generatedAt": "2026-11-07T09:07:45.614Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
-      "theme": "半導體",
-      "reason": "AI需求持續增長，帶動相關晶片及設備供應商股價上揚。",
-      "symbols": [
-        "INTC",
-        "AVGO",
-        "MRVL",
-        "QCOM",
-        "ADI"
-      ],
-      "count": 5,
-      "avgChange": 4.082620293680618
-    },
-    {
-      "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型與AI應用擴展，推動雲端服務及軟體解決方案需求。",
-      "symbols": [
-        "GOOGL",
-        "ORCL",
-        "GOOG",
-        "CRWV"
-      ],
-      "count": 4,
-      "avgChange": 2.1628606103122117
-    },
-    {
       "theme": "半導體設備",
-      "reason": "全球半導體產業擴張，資本支出增加，利好設備供應商。",
+      "reason": "AI與高效能運算需求持續增長，帶動半導體製造設備訂單強勁。",
       "symbols": [
         "LRCX",
         "AMAT",
@@ -694,7 +669,7 @@
     },
     {
       "theme": "AI 晶片",
-      "reason": "AI技術快速發展，市場對高效能AI晶片需求旺盛，相關公司表現強勁。",
+      "reason": "市場對AI技術發展前景樂觀，相關晶片需求持續旺盛。",
       "symbols": [
         "NVDA",
         "AMD"
@@ -704,7 +679,7 @@
     },
     {
       "theme": "記憶體",
-      "reason": "AI伺服器及高頻寬記憶體(HBM)需求增長，帶動記憶體產業復甦。",
+      "reason": "AI應用對高頻寬記憶體需求增加，推動記憶體產業復甦。",
       "symbols": [
         "MU",
         "SKHY"
@@ -713,14 +688,35 @@
       "avgChange": 3.948432028877692
     },
     {
+      "theme": "雲端軟體 SaaS",
+      "reason": "企業數位轉型趨勢不變，雲端軟體服務需求穩定增長。",
+      "symbols": [
+        "ORCL",
+        "CRWV"
+      ],
+      "count": 2,
+      "avgChange": 3.5460114685186968
+    },
+    {
       "theme": "生技製藥",
-      "reason": "新藥研發進展或市場對特定疾病治療需求增加，推動相關藥廠股價。",
+      "reason": "新藥研發進展或臨床數據公布，帶動相關個股表現。",
       "symbols": [
         "MRNA",
         "JNJ"
       ],
       "count": 2,
       "avgChange": 3.352116708647545
+    },
+    {
+      "theme": "雲端服務",
+      "reason": "雲端運算作為數位基礎設施，持續受益於企業上雲趨勢。",
+      "symbols": [
+        "GOOGL",
+        "GOOG",
+        "NBIS"
+      ],
+      "count": 3,
+      "avgChange": 3.045352733853765
     }
   ],
   "newEntrants": [
@@ -729,107 +725,87 @@
       "name": "Moderna, Inc. Common Stock",
       "theme": "生技製藥",
       "changePercent": 5.272094756895548,
-      "reason": "Moderna公布第三季財報優於預期，並上調全年營收展望，加上癌症疫苗進展帶動。"
+      "reason": "Moderna公布優於預期的第三季財報，並上調全年營收預期。"
     },
     {
       "symbol": "COHR",
       "name": "Coherent Corp.",
       "theme": "光學元件",
       "changePercent": 13.577992459943458,
-      "reason": "Coherent公布優於預期的財報，並宣布一項200億美元的AI光學長期協議。"
+      "reason": "Coherent公布優於預期的財報，並宣布一項200億美元的AI光學元件大訂單。"
     },
     {
       "symbol": "MCHP",
       "name": "Microchip Technology Inc",
       "theme": "半導體",
       "changePercent": -10.023130300693898,
-      "reason": "Microchip Technology公布優於預期的第二季財報，但第三季財測不及預期。"
+      "reason": "Microchip Technology公布優於預期的財報，但下季度營收指引不及預期。"
     },
     {
       "symbol": "XOM",
       "name": "ExxonMobil Holdings Corporation",
       "theme": "石油天然氣",
       "changePercent": 0.34482758620689236,
-      "reason": "ExxonMobil公布第三季財報，收益與現金流強勁，並提高股息。"
+      "reason": "ExxonMobil公布第三季度強勁財報，並宣布擴大柴油產能。"
     },
     {
       "symbol": "NET",
       "name": "Cloudflare, Inc. Class A common stock, par value $0.001 per share",
       "theme": "資安",
       "changePercent": 9.913704960942297,
-      "reason": "Cloudflare第三季財報營收和獲利均超預期，並上調全年財測。"
+      "reason": "Cloudflare公布第三季度營收成長強勁，並上調全年財測。"
     },
     {
       "symbol": "JNJ",
       "name": "Johnson & Johnson",
       "theme": "生技製藥",
       "changePercent": 1.4321386603995425,
-      "reason": "嬌生第三季銷售成長，FDA加速批准其頭頸癌新藥Rybrevant Faspro。"
+      "reason": "Johnson & Johnson的RYBREVANT FASPRO™獲FDA加速批准用於頭頸癌。"
     },
     {
       "symbol": "ABNB",
       "name": "Airbnb, Inc. Class A Common Stock",
       "theme": "線上旅遊",
       "changePercent": 11.673426203491456,
-      "reason": "Airbnb第三季財報表現強勁，營收成長為三年來最快，並宣布120億美元庫藏股計畫。"
+      "reason": "Airbnb公布第三季度營收成長創三年新高，並上調全年財測。"
     },
     {
       "symbol": "IREN",
       "name": "IREN Limited Ordinary Shares",
       "theme": "比特幣/加密",
       "changePercent": 20.022185246810867,
-      "reason": "IREN Limited宣布購買2,400個NVIDIA Blackwell GPU，擴展AI雲端業務。"
+      "reason": "IREN公布強勁的AI雲端營收成長，但虧損擴大且面臨資金缺口。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點集中在半導體、AI 晶片和記憶體族群，主要受惠於企業對 AI 基礎設施的強勁需求，帶動相關公司財報表現亮眼。Nvidia 和 AMD 等 AI 晶片大廠的強勁表現，以及美光科技在記憶體領域的成長，顯示市場正積極交易 AI 產業的成長故事。儘管部分個股如 Apple 和 Microsoft 呈現小幅下跌，但整體資金仍明顯流向具備 AI 發展潛力的科技股。",
+    "highlights": "本日美股成交重點聚焦於半導體、AI 晶片和記憶體族群，主要受惠於多檔重量級公司發布的強勁財報與對 AI 需求的樂觀展望。AMD、Micron、Intel 等公司在資料中心和 AI 相關業務上表現亮眼，帶動了市場對這些題材的追捧。SpaceX 首次實現季度獲利，且其 AI 業務營收大幅成長，也成為市場關注的焦點。資金主要集中在這些具備 AI 成長動能的個股上，顯示市場正在交易 AI 產業的長期成長故事。",
     "eventsPast": [
       {
+        "title": "SpaceX 第三季營收大增161%，AI 業務狂飆九倍",
+        "detail": "SpaceX 在美股盤後公布第三季營收達145.8億美元，年增161%，其中 AI 營收暴增逾九倍至75.6億美元，主要來自資料中心運算容量出租，並首次實現季度獲利。"
+      },
+      {
         "title": "AMD 第三季財報優於預期，資料中心營收近翻倍",
-        "detail": "AMD 於 11 月 3 日公布第三季財報，營收年增 45% 達 134 億美元，每股盈餘 2.09 美元，皆優於市場預期，其中資料中心部門營收大增 97%，顯示 AI 晶片需求強勁。"
+        "detail": "AMD 公布上季財報，營收年增45%，資料中心業務營收年增97%接近翻倍，執行長蘇姿丰看好2027年整體營收成長逾80%，激勵股價盤後大漲。"
       },
       {
-        "title": "Amazon AWS 雲端服務加速成長",
-        "detail": "Amazon 於 11 月 4 日公布第三季財報，AWS 雲端服務營收年增 39%，優於市場預期，並預計 2027 年設備投資將大幅增加，以滿足 AI 工作負載需求。"
+        "title": "微軟第一季財報超預期，Azure 雲端成長48%",
+        "detail": "微軟公布2027會計年度第一季財報，營收和獲利均優於預期，Azure 雲端基礎設施業務營收年增48%，帶動公司整體營收成長。"
       },
       {
-        "title": "Micron 第四季財報創紀錄，AI 需求推動成長",
-        "detail": "美光科技 (Micron) 於 9 月 30 日公布 2026 財年第四季財報，營收達 542.3 億美元，GAAP 淨利 377 億美元，皆創歷史新高，主要受惠於 AI 驅動的需求和強勁的營運執行。"
+        "title": "Alphabet 第三季營收成長25%，Google Cloud 營收年增103%",
+        "detail": "Alphabet 公布第三季財報，營收年增25%至1276億美元，Google Cloud 營收年增103%，搜尋查詢量成長創五年來最快，但因 SpaceX 投資評價損失導致每股盈餘年減。"
       },
       {
-        "title": "Intel 第三季資料中心業務強勁成長，但第四季財測保守",
-        "detail": "Intel 於 10 月 29 日公布第三季財報，資料中心與人工智慧業務 (DCAI) 營收年增 78%，但第四季營收展望中值低於市場預期，導致盤後股價下跌。"
-      },
-      {
-        "title": "Meta 第三季營收成長強勁，但獲利與現金流承壓",
-        "detail": "Meta 於 10 月 21 日公布第三季財報，營收年增 26.1%，但排除和解費用後的核心 EPS 成長有限，且自由現金流首次轉負，顯示其 AI 基礎設施投資正加速燒錢。"
+        "title": "SanDisk 第一季營收暴增378%，宣布1拆8股票分割",
+        "detail": "SanDisk 公布2027會計年度第一季財報，營收年增378%至110.3億美元，毛利率升至85.1%，獲利與展望都優於預期，並宣布將進行8比1的股票分割，但市場仍擔憂記憶體漲價能否持續。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "11/6",
-        "title": "美國 10 月非農就業報告",
-        "detail": "美國勞工統計局將公布 10 月就業報告，市場將關注非農就業人數變化、失業率、勞動參與率和平均時薪增速，以判斷聯準會 12 月利率政策方向。"
-      },
-      {
-        "date": "11/10",
-        "title": "美國 10 月消費者物價指數 (CPI)",
-        "detail": "美國將公布 10 月消費者物價指數 (CPI)，此為衡量通膨率的重要指標，將影響聯準會的利率決策。"
-      },
-      {
-        "date": "11/13",
-        "title": "美國 10 月生產者物價指數 (PPI)",
-        "detail": "美國將公布 10 月生產者物價指數 (PPI)，此為衡量批發通膨率的指標，常被視為 CPI 的領先指標。"
-      },
-      {
-        "date": "11/17",
-        "title": "美國 10 月零售銷售數據",
-        "detail": "美國將公布 10 月零售銷售數據，反映美國內需消費力道，若優於預期將為年底購物旺季打下強心針。"
-      },
-      {
-        "date": "11/18",
-        "title": "Nvidia (NVDA) 財報",
-        "detail": "Nvidia 將公布財報，市場將關注 Blackwell 晶片的出貨進度、毛利率表現，以及科技巨頭對算力資本支出的態度。"
+        "date": "本週四",
+        "title": "蘋果新產品陸續出貨",
+        "detail": "觸控螢幕 MacBook Pro、更新版 iMac 及新款入門級 MacBook Pro 將於11月6日出貨，可望延續 Mac 產品線的成長動能。"
       }
     ]
   }
