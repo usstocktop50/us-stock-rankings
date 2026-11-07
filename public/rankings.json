@@ -47,7 +47,7 @@
       "dollarVolume": 15323861319.05352,
       "marketCap": 4996609406600,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "消費電子",
+      "theme": "消費性電子",
       "isNew": false,
       "rankChange": 2,
       "streak": 168
@@ -164,7 +164,7 @@
       "dollarVolume": 9603347187.708288,
       "marketCap": 1401967355051.85,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "AI 基礎設施",
       "isNew": false,
       "rankChange": -2,
       "streak": 168
@@ -242,7 +242,7 @@
       "dollarVolume": 4717379152.891131,
       "marketCap": 123818279999.99998,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "AI 基礎設施",
       "isNew": false,
       "rankChange": -3,
       "streak": 158
@@ -359,7 +359,7 @@
       "dollarVolume": 3241426420.446939,
       "marketCap": 176631332852.87,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "手機晶片",
+      "theme": "行動通訊晶片",
       "isNew": false,
       "rankChange": -4,
       "streak": 3
@@ -476,7 +476,7 @@
       "dollarVolume": 2797212013.095969,
       "marketCap": 253443334845.76,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "類比晶片",
       "isNew": false,
       "rankChange": -6,
       "streak": 6
@@ -489,7 +489,7 @@
       "dollarVolume": 2743395926.055946,
       "marketCap": 31684538389.5,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "微控制器",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -593,7 +593,7 @@
       "dollarVolume": 2496773318.4768844,
       "marketCap": 176168620455.4,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "類比晶片",
       "isNew": false,
       "rankChange": -10,
       "streak": 2
@@ -652,13 +652,23 @@
     }
   ],
   "asOf": "2026-11-06T20:00:00.000Z",
-  "generatedAt": "2026-11-07T09:07:45.614Z",
+  "generatedAt": "2026-11-07T11:38:21.822Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
+      "theme": "AI 晶片",
+      "reason": "市場持續看好AI技術發展，帶動相關晶片需求強勁，推升供應商股價。",
+      "symbols": [
+        "NVDA",
+        "AMD"
+      ],
+      "count": 2,
+      "avgChange": 6.906953032065782
+    },
+    {
       "theme": "半導體設備",
-      "reason": "AI與高效能運算需求持續增長，帶動半導體製造設備訂單強勁。",
+      "reason": "全球半導體產業擴張，資本支出增加，設備供應商訂單能見度高。",
       "symbols": [
         "LRCX",
         "AMAT",
@@ -668,18 +678,19 @@
       "avgChange": 5.822119033555718
     },
     {
-      "theme": "AI 晶片",
-      "reason": "市場對AI技術發展前景樂觀，相關晶片需求持續旺盛。",
+      "theme": "雲端軟體 SaaS",
+      "reason": "企業數位轉型需求不減，雲端軟體服務持續受青睞，營收成長動能強勁。",
       "symbols": [
-        "NVDA",
-        "AMD"
+        "ORCL",
+        "CRWV",
+        "NET"
       ],
-      "count": 2,
-      "avgChange": 6.906953032065782
+      "count": 3,
+      "avgChange": 5.66857596599323
     },
     {
       "theme": "記憶體",
-      "reason": "AI應用對高頻寬記憶體需求增加，推動記憶體產業復甦。",
+      "reason": "記憶體市場需求回溫，尤其HBM等高階產品受AI應用帶動，價格上漲預期提升。",
       "symbols": [
         "MU",
         "SKHY"
@@ -688,28 +699,8 @@
       "avgChange": 3.948432028877692
     },
     {
-      "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型趨勢不變，雲端軟體服務需求穩定增長。",
-      "symbols": [
-        "ORCL",
-        "CRWV"
-      ],
-      "count": 2,
-      "avgChange": 3.5460114685186968
-    },
-    {
-      "theme": "生技製藥",
-      "reason": "新藥研發進展或臨床數據公布，帶動相關個股表現。",
-      "symbols": [
-        "MRNA",
-        "JNJ"
-      ],
-      "count": 2,
-      "avgChange": 3.352116708647545
-    },
-    {
       "theme": "雲端服務",
-      "reason": "雲端運算作為數位基礎設施，持續受益於企業上雲趨勢。",
+      "reason": "雲端運算作為數位經濟核心基礎，持續吸引資金關注，相關服務提供商表現亮眼。",
       "symbols": [
         "GOOGL",
         "GOOG",
@@ -717,6 +708,16 @@
       ],
       "count": 3,
       "avgChange": 3.045352733853765
+    },
+    {
+      "theme": "生技製藥",
+      "reason": "新藥研發進展或市場對特定疾病治療需求增加，帶動相關製藥公司股價。",
+      "symbols": [
+        "MRNA",
+        "JNJ"
+      ],
+      "count": 2,
+      "avgChange": 3.352116708647545
     }
   ],
   "newEntrants": [
@@ -725,87 +726,107 @@
       "name": "Moderna, Inc. Common Stock",
       "theme": "生技製藥",
       "changePercent": 5.272094756895548,
-      "reason": "Moderna公布優於預期的第三季財報，並上調全年營收預期。"
+      "reason": "Moderna公布第三季獲利，為兩年來首次，並獲加拿大批准流感與新冠疫苗。"
     },
     {
       "symbol": "COHR",
       "name": "Coherent Corp.",
       "theme": "光學元件",
       "changePercent": 13.577992459943458,
-      "reason": "Coherent公布優於預期的財報，並宣布一項200億美元的AI光學元件大訂單。"
+      "reason": "Coherent公布優於預期的財報，並宣布一項200億美元的AI光學元件長期合約。"
     },
     {
       "symbol": "MCHP",
       "name": "Microchip Technology Inc",
-      "theme": "半導體",
+      "theme": "微控制器",
       "changePercent": -10.023130300693898,
-      "reason": "Microchip Technology公布優於預期的財報，但下季度營收指引不及預期。"
+      "reason": "Microchip Technology第二季營收超出預期，但下季財測不如預期。"
     },
     {
       "symbol": "XOM",
       "name": "ExxonMobil Holdings Corporation",
       "theme": "石油天然氣",
       "changePercent": 0.34482758620689236,
-      "reason": "ExxonMobil公布第三季度強勁財報，並宣布擴大柴油產能。"
+      "reason": "ExxonMobil公布第三季強勁財報，並宣布提高股息和股票回購。"
     },
     {
       "symbol": "NET",
       "name": "Cloudflare, Inc. Class A common stock, par value $0.001 per share",
       "theme": "資安",
       "changePercent": 9.913704960942297,
-      "reason": "Cloudflare公布第三季度營收成長強勁，並上調全年財測。"
+      "reason": "Cloudflare第三季營收與獲利均優於預期，並上調全年財測。"
     },
     {
       "symbol": "JNJ",
       "name": "Johnson & Johnson",
       "theme": "生技製藥",
       "changePercent": 1.4321386603995425,
-      "reason": "Johnson & Johnson的RYBREVANT FASPRO™獲FDA加速批准用於頭頸癌。"
+      "reason": "嬌生旗下藥物Rybrevant Faspro獲FDA加速批准用於治療頭頸癌。"
     },
     {
       "symbol": "ABNB",
       "name": "Airbnb, Inc. Class A Common Stock",
       "theme": "線上旅遊",
       "changePercent": 11.673426203491456,
-      "reason": "Airbnb公布第三季度營收成長創三年新高，並上調全年財測。"
+      "reason": "Airbnb第三季財報優於預期，營收成長為三年來最快，並宣布120億美元庫藏股計畫。"
     },
     {
       "symbol": "IREN",
       "name": "IREN Limited Ordinary Shares",
       "theme": "比特幣/加密",
       "changePercent": 20.022185246810867,
-      "reason": "IREN公布強勁的AI雲端營收成長，但虧損擴大且面臨資金缺口。"
+      "reason": "IREN公布第一季AI雲端營收大幅成長，並簽訂新合約。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於半導體、AI 晶片和記憶體族群，主要受惠於多檔重量級公司發布的強勁財報與對 AI 需求的樂觀展望。AMD、Micron、Intel 等公司在資料中心和 AI 相關業務上表現亮眼，帶動了市場對這些題材的追捧。SpaceX 首次實現季度獲利，且其 AI 業務營收大幅成長，也成為市場關注的焦點。資金主要集中在這些具備 AI 成長動能的個股上，顯示市場正在交易 AI 產業的長期成長故事。",
+    "highlights": "本日美股成交重點集中在AI晶片、記憶體、半導體與太空科技等高成長題材。資金流向顯示，儘管市場對AI相關資本支出與變現能力存在疑慮，但部分晶片股如Nvidia、AMD、Intel、TSM仍強勁反彈，顯示投資人對其長期趨勢仍抱持信心。 此外，SpaceX也因太空科技題材而有顯著漲幅。 整體而言，市場在權衡AI投資的短期修正壓力與長期成長潛力之間進行資金輪動。",
     "eventsPast": [
       {
-        "title": "SpaceX 第三季營收大增161%，AI 業務狂飆九倍",
-        "detail": "SpaceX 在美股盤後公布第三季營收達145.8億美元，年增161%，其中 AI 營收暴增逾九倍至75.6億美元，主要來自資料中心運算容量出租，並首次實現季度獲利。"
+        "title": "蘋果財報公布與記憶體成本警告",
+        "detail": "蘋果（AAPL）於11月2日公布財報，並警告記憶體晶片成本持續上升可能壓縮假期季度毛利率，導致股價下跌。"
       },
       {
-        "title": "AMD 第三季財報優於預期，資料中心營收近翻倍",
-        "detail": "AMD 公布上季財報，營收年增45%，資料中心業務營收年增97%接近翻倍，執行長蘇姿丰看好2027年整體營收成長逾80%，激勵股價盤後大漲。"
+        "title": "AMD財報公布",
+        "detail": "超微（AMD）於11月3日公布財報，市場對其財報表現抱有期待。"
       },
       {
-        "title": "微軟第一季財報超預期，Azure 雲端成長48%",
-        "detail": "微軟公布2027會計年度第一季財報，營收和獲利均優於預期，Azure 雲端基礎設施業務營收年增48%，帶動公司整體營收成長。"
+        "title": "美國10月非農就業報告",
+        "detail": "美國於11月6日公布10月非農就業報告，數據強勁，但市場對聯準會12月是否升息仍存疑慮。"
       },
       {
-        "title": "Alphabet 第三季營收成長25%，Google Cloud 營收年增103%",
-        "detail": "Alphabet 公布第三季財報，營收年增25%至1276億美元，Google Cloud 營收年增103%，搜尋查詢量成長創五年來最快，但因 SpaceX 投資評價損失導致每股盈餘年減。"
+        "title": "AI概念股與半導體族群修正",
+        "detail": "近期AI概念股與半導體族群出現大規模獲利了結，部分原因是市場對AI資料中心龐大資本支出的合理性與回收期產生擔憂，以及美國期中選舉後民主黨對資料中心用電管制可能更趨嚴格的預期。"
       },
       {
-        "title": "SanDisk 第一季營收暴增378%，宣布1拆8股票分割",
-        "detail": "SanDisk 公布2027會計年度第一季財報，營收年增378%至110.3億美元，毛利率升至85.1%，獲利與展望都優於預期，並宣布將進行8比1的股票分割，但市場仍擔憂記憶體漲價能否持續。"
+        "title": "英特爾財測欠佳與股價重挫",
+        "detail": "英特爾（INTC）因財測欠佳及以色列廠停工等因素，在近期盤中曾重挫近30%，創下半世紀以來最大跌幅，並引發全球晶片股賣壓。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "本週四",
-        "title": "蘋果新產品陸續出貨",
-        "detail": "觸控螢幕 MacBook Pro、更新版 iMac 及新款入門級 MacBook Pro 將於11月6日出貨，可望延續 Mac 產品線的成長動能。"
+        "date": "11/10",
+        "title": "美國10月消費者物價指數(CPI)",
+        "detail": "此數據將影響聯準會對未來利率政策的判斷，進而影響市場走勢。"
+      },
+      {
+        "date": "11/13",
+        "title": "美國10月生產者物價指數(PPI)",
+        "detail": "PPI常被視為CPI的領先指標，其數據將提供通膨壓力的進一步線索。"
+      },
+      {
+        "date": "11/17",
+        "title": "美國10月零售銷售數據",
+        "detail": "此數據將反映消費者支出狀況，為經濟健康程度的重要指標。"
+      },
+      {
+        "date": "11/18",
+        "title": "輝達(NVDA)財報",
+        "detail": "市場將聚焦Blackwell晶片的出貨進度、毛利率表現以及科技巨頭對算力資本支出的態度。"
+      },
+      {
+        "date": "12/10",
+        "title": "聯準會(Fed)利率決策會議",
+        "detail": "聯準會將公布最新的利率決策與政策聲明，並可能發布經濟預測摘要（SEP）及點陣圖，對全球金融市場有重大影響。"
       }
     ]
   }
