@@ -32,7 +32,7 @@
       "price": 449.04,
       "changePercent": 11.038575667655797,
       "dollarVolume": 20372547050.373344,
-      "marketCap": 733046592859.68,
+      "marketCap": 736464779189.04,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
       "theme": "AI 晶片",
       "isNew": false,
@@ -45,9 +45,9 @@
       "price": 342.37,
       "changePercent": -0.5229973559578148,
       "dollarVolume": 15323861319.05352,
-      "marketCap": 4996609406600,
+      "marketCap": 4975383151340,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "消費性電子",
+      "theme": "消費電子",
       "isNew": false,
       "rankChange": 2,
       "streak": 168
@@ -164,7 +164,7 @@
       "dollarVolume": 9603347187.708288,
       "marketCap": 1401967355051.85,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "AI 基礎設施",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": -2,
       "streak": 168
@@ -242,7 +242,7 @@
       "dollarVolume": 4717379152.891131,
       "marketCap": 123818279999.99998,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "AI 基礎設施",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": -3,
       "streak": 158
@@ -253,9 +253,9 @@
       "price": 391.22,
       "changePercent": 9.862398202752036,
       "dollarVolume": 4508250128.559363,
-      "marketCap": 119104190460.00002,
+      "marketCap": 117858154760.00002,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "行動廣告",
+      "theme": "廣告科技",
       "isNew": false,
       "rankChange": -2,
       "streak": 3
@@ -357,9 +357,9 @@
       "price": 165.41,
       "changePercent": 5.524720893141943,
       "dollarVolume": 3241426420.446939,
-      "marketCap": 176631332852.87,
+      "marketCap": 176988700000,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "行動通訊晶片",
+      "theme": "通訊晶片",
       "isNew": false,
       "rankChange": -4,
       "streak": 3
@@ -448,7 +448,7 @@
       "price": 538.59,
       "changePercent": 5.668040023543269,
       "dollarVolume": 2906727838.2567368,
-      "marketCap": 48787020413.04,
+      "marketCap": 48850113000,
       "sector": "COMMUNICATIONS EQUIPMENT, NEC",
       "theme": "光通訊",
       "isNew": false,
@@ -476,7 +476,7 @@
       "dollarVolume": 2797212013.095969,
       "marketCap": 253443334845.76,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "類比晶片",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": -6,
       "streak": 6
@@ -526,7 +526,7 @@
       "price": 558.63,
       "changePercent": 0.9013077089805666,
       "dollarVolume": 2685070693.2742596,
-      "marketCap": 256788183242.07,
+      "marketCap": 255625833421.62,
       "sector": "CONSTRUCTION MACHINERY & EQUIP",
       "theme": "重型機械",
       "isNew": false,
@@ -565,7 +565,7 @@
       "price": 334.49,
       "changePercent": -0.8448449635382599,
       "dollarVolume": 2630903350.028393,
-      "marketCap": 889136700365.55,
+      "marketCap": 888274824665.41,
       "sector": "NATIONAL COMMERCIAL BANKS",
       "theme": "金融服務",
       "isNew": false,
@@ -593,7 +593,7 @@
       "dollarVolume": 2496773318.4768844,
       "marketCap": 176168620455.4,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "類比晶片",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": -10,
       "streak": 2
@@ -630,7 +630,7 @@
       "price": 189.99,
       "changePercent": 11.673426203491456,
       "dollarVolume": 2413019441.5159807,
-      "marketCap": 79706420344.44,
+      "marketCap": 80665927981.38,
       "sector": "SERVICES-TO DWELLINGS & OTHER BUILDINGS",
       "theme": "線上旅遊",
       "isNew": true,
@@ -652,13 +652,26 @@
     }
   ],
   "asOf": "2026-11-06T20:00:00.000Z",
-  "generatedAt": "2026-11-07T11:38:21.822Z",
+  "generatedAt": "2026-11-10T02:06:39.677Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
+      "theme": "半導體",
+      "reason": "受惠於AI需求持續增長，市場對半導體產業前景樂觀，帶動相關個股表現強勁。",
+      "symbols": [
+        "INTC",
+        "AVGO",
+        "MRVL",
+        "TXN",
+        "ADI"
+      ],
+      "count": 5,
+      "avgChange": 2.9208722322551806
+    },
+    {
       "theme": "AI 晶片",
-      "reason": "市場持續看好AI技術發展，帶動相關晶片需求強勁，推升供應商股價。",
+      "reason": "AI技術的快速發展持續推動對高效能AI晶片的需求，相關供應商股價表現突出。",
       "symbols": [
         "NVDA",
         "AMD"
@@ -668,7 +681,7 @@
     },
     {
       "theme": "半導體設備",
-      "reason": "全球半導體產業擴張，資本支出增加，設備供應商訂單能見度高。",
+      "reason": "全球晶圓廠擴建與技術升級的需求，使得半導體設備製造商訂單飽滿，營收看漲。",
       "symbols": [
         "LRCX",
         "AMAT",
@@ -679,18 +692,17 @@
     },
     {
       "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型需求不減，雲端軟體服務持續受青睞，營收成長動能強勁。",
+      "reason": "企業數位轉型趨勢不減，雲端軟體服務需求穩定增長，帶動相關公司股價上揚。",
       "symbols": [
         "ORCL",
-        "CRWV",
-        "NET"
+        "CRWV"
       ],
-      "count": 3,
-      "avgChange": 5.66857596599323
+      "count": 2,
+      "avgChange": 3.5460114685186968
     },
     {
       "theme": "記憶體",
-      "reason": "記憶體市場需求回溫，尤其HBM等高階產品受AI應用帶動，價格上漲預期提升。",
+      "reason": "AI應用對高頻寬記憶體（HBM）的需求激增，推動記憶體產業景氣復甦。",
       "symbols": [
         "MU",
         "SKHY"
@@ -700,7 +712,7 @@
     },
     {
       "theme": "雲端服務",
-      "reason": "雲端運算作為數位經濟核心基礎，持續吸引資金關注，相關服務提供商表現亮眼。",
+      "reason": "雲端運算作為數位經濟的基石，持續受益於企業對彈性與擴展性IT解決方案的需求。",
       "symbols": [
         "GOOGL",
         "GOOG",
@@ -708,16 +720,6 @@
       ],
       "count": 3,
       "avgChange": 3.045352733853765
-    },
-    {
-      "theme": "生技製藥",
-      "reason": "新藥研發進展或市場對特定疾病治療需求增加，帶動相關製藥公司股價。",
-      "symbols": [
-        "MRNA",
-        "JNJ"
-      ],
-      "count": 2,
-      "avgChange": 3.352116708647545
     }
   ],
   "newEntrants": [
@@ -779,54 +781,54 @@
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點集中在AI晶片、記憶體、半導體與太空科技等高成長題材。資金流向顯示，儘管市場對AI相關資本支出與變現能力存在疑慮，但部分晶片股如Nvidia、AMD、Intel、TSM仍強勁反彈，顯示投資人對其長期趨勢仍抱持信心。 此外，SpaceX也因太空科技題材而有顯著漲幅。 整體而言，市場在權衡AI投資的短期修正壓力與長期成長潛力之間進行資金輪動。",
+    "highlights": "本日美股成交重點聚焦於半導體與AI晶片族群的劇烈波動。受到美國期中選舉結果民主黨大勝的影響，市場擔憂AI基礎設施與資料中心可能面臨更嚴格的監管，導致資金從AI相關高估值成長股中快速撤離，引發了費城半導體指數單日暴跌超過12%，創下2020年3月以來最慘紀錄。 儘管部分個股如Nvidia和AMD在當日收盤時呈現漲幅，但整體市場情緒仍受AI監管疑慮和獲利了結壓力主導，顯示投資人正在重新評估AI產業鏈的投資價值。 此外，強勁的非農就業數據也讓市場重新評估聯準會12月升息的可能性，為科技股帶來持續的逆風。",
     "eventsPast": [
       {
-        "title": "蘋果財報公布與記憶體成本警告",
-        "detail": "蘋果（AAPL）於11月2日公布財報，並警告記憶體晶片成本持續上升可能壓縮假期季度毛利率，導致股價下跌。"
+        "title": "美國10月非農就業報告公布",
+        "detail": "美國10月新增16.5萬個工作職位，遠高於市場預期，失業率降至4.1%，強化了聯準會可能繼續升息的預期。"
       },
       {
-        "title": "AMD財報公布",
-        "detail": "超微（AMD）於11月3日公布財報，市場對其財報表現抱有期待。"
+        "title": "民主黨期中選舉大勝引發AI監管疑慮",
+        "detail": "民主黨在美國期中選舉中掌控參眾兩院，市場擔憂AI基礎設施與資料中心將面臨更嚴格的法規監管，導致AI相關股票遭到拋售。"
       },
       {
-        "title": "美國10月非農就業報告",
-        "detail": "美國於11月6日公布10月非農就業報告，數據強勁，但市場對聯準會12月是否升息仍存疑慮。"
+        "title": "高通財報與財測偏弱",
+        "detail": "高通（QCOM）公布的財報顯示營收年減7%，且財測偏弱，加上手機晶片收入下滑和製造成本上升，成為晶片股賣壓的引信。"
       },
       {
-        "title": "AI概念股與半導體族群修正",
-        "detail": "近期AI概念股與半導體族群出現大規模獲利了結，部分原因是市場對AI資料中心龐大資本支出的合理性與回收期產生擔憂，以及美國期中選舉後民主黨對資料中心用電管制可能更趨嚴格的預期。"
+        "title": "微軟調整資料中心建案策略",
+        "detail": "微軟因部分第三方資料中心業者未能如期交付運算容量，正加強監督並退出風險較高的建案，轉而加強自建資料中心。"
       },
       {
-        "title": "英特爾財測欠佳與股價重挫",
-        "detail": "英特爾（INTC）因財測欠佳及以色列廠停工等因素，在近期盤中曾重挫近30%，創下半世紀以來最大跌幅，並引發全球晶片股賣壓。"
+        "title": "美銀預測半導體股跌勢",
+        "detail": "美銀分析師指出，半導體股的「無差別拋售」跌幅已超越過去四次周期平均水準，預計跌勢可能延續至2027年初。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "11/10",
-        "title": "美國10月消費者物價指數(CPI)",
-        "detail": "此數據將影響聯準會對未來利率政策的判斷，進而影響市場走勢。"
+        "date": "本週二 (11/10)",
+        "title": "美國10月消費者物價指數 (CPI)",
+        "detail": "CPI是衡量通膨的重要指標，市場預期10月CPI年增率可能進一步回升至3.75%左右，將影響聯準會的利率決策。"
       },
       {
-        "date": "11/13",
-        "title": "美國10月生產者物價指數(PPI)",
-        "detail": "PPI常被視為CPI的領先指標，其數據將提供通膨壓力的進一步線索。"
-      },
-      {
-        "date": "11/17",
-        "title": "美國10月零售銷售數據",
-        "detail": "此數據將反映消費者支出狀況，為經濟健康程度的重要指標。"
+        "date": "本週五 (11/13)",
+        "title": "美國10月生產者物價指數 (PPI)",
+        "detail": "PPI是衡量批發通膨率的指標，常被視為CPI的領先指標，市場預期10月PPI年增率將回升至2.45%左右。"
       },
       {
         "date": "11/18",
-        "title": "輝達(NVDA)財報",
-        "detail": "市場將聚焦Blackwell晶片的出貨進度、毛利率表現以及科技巨頭對算力資本支出的態度。"
+        "title": "Nvidia (NVDA) 財報",
+        "detail": "Nvidia將公布財報，市場關注其營收和每股盈餘預估，以及對AI晶片需求的展望。"
       },
       {
-        "date": "12/10",
-        "title": "聯準會(Fed)利率決策會議",
-        "detail": "聯準會將公布最新的利率決策與政策聲明，並可能發布經濟預測摘要（SEP）及點陣圖，對全球金融市場有重大影響。"
+        "date": "11/19",
+        "title": "沃爾瑪 (WMT) 財報",
+        "detail": "沃爾瑪將公布財報，這份財報被視為美國內需消費健康度的指標，市場關注其低價抗通膨策略的成效及對年底假日購物季的展望。"
+      },
+      {
+        "date": "12/8-12/9",
+        "title": "聯邦公開市場委員會 (FOMC) 會議",
+        "detail": "聯準會將召開會議討論貨幣政策，市場高度關注是否會再次升息，以及對未來經濟前景的評估。"
       }
     ]
   }
