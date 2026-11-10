@@ -86,7 +86,7 @@
       "dollarVolume": 13790423092.444677,
       "marketCap": 4048612745859.36,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": 0,
       "streak": 169
@@ -216,7 +216,7 @@
       "dollarVolume": 5164215274.71705,
       "marketCap": 135568740000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "資料中心網路",
+      "theme": "AI 基礎設施",
       "isNew": false,
       "rankChange": 2,
       "streak": 159
@@ -229,7 +229,7 @@
       "dollarVolume": 4018174208.8355036,
       "marketCap": 389280695266.8,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "大數據分析",
+      "theme": "數據分析軟體",
       "isNew": false,
       "rankChange": 5,
       "streak": 169
@@ -281,7 +281,7 @@
       "dollarVolume": 3608652160.120437,
       "marketCap": 54071712000,
       "sector": "COMMUNICATIONS EQUIPMENT, NEC",
-      "theme": "光學通訊",
+      "theme": "光通訊",
       "isNew": false,
       "rankChange": 13,
       "streak": 87
@@ -320,7 +320,7 @@
       "dollarVolume": 3332455112.9241934,
       "marketCap": 44346929271.54,
       "sector": "OPTICAL INSTRUMENTS & LENSES",
-      "theme": "光學元件",
+      "theme": "光通訊",
       "isNew": false,
       "rankChange": 8,
       "streak": 2
@@ -346,7 +346,7 @@
       "dollarVolume": 3297684417.836074,
       "marketCap": 362213335440,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "資料庫軟體",
+      "theme": "雲端資料庫",
       "isNew": false,
       "rankChange": -10,
       "streak": 169
@@ -359,7 +359,7 @@
       "dollarVolume": 3246159784.5576115,
       "marketCap": 57321918863.32,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "氫能源",
+      "theme": "燃料電池",
       "isNew": false,
       "rankChange": -6,
       "streak": 49
@@ -372,7 +372,7 @@
       "dollarVolume": 3228088010.754912,
       "marketCap": 197242453410.3,
       "sector": "OPTICAL INSTRUMENTS & LENSES",
-      "theme": "半導體檢測",
+      "theme": "半導體設備",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -398,7 +398,7 @@
       "dollarVolume": 3056861535.925554,
       "marketCap": 123515780000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "行動廣告",
+      "theme": "廣告科技",
       "isNew": false,
       "rankChange": -11,
       "streak": 4
@@ -437,7 +437,7 @@
       "dollarVolume": 2982164656.9064817,
       "marketCap": 996954552644.0599,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售百貨",
+      "theme": "零售",
       "isNew": false,
       "rankChange": -2,
       "streak": 8
@@ -541,7 +541,7 @@
       "dollarVolume": 2409574220.8932886,
       "marketCap": 908430900838.72,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "金融服務",
+      "theme": "銀行",
       "isNew": false,
       "rankChange": 2,
       "streak": 5
@@ -554,7 +554,7 @@
       "dollarVolume": 2383898079.2254953,
       "marketCap": 27014262765.96,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端運算",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": -4,
       "streak": 20
@@ -567,7 +567,7 @@
       "dollarVolume": 2340133233.3063207,
       "marketCap": 472455649316.82,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售百貨",
+      "theme": "零售",
       "isNew": false,
       "rankChange": -2,
       "streak": 7
@@ -580,7 +580,7 @@
       "dollarVolume": 2325181662.789988,
       "marketCap": 109237667336.28,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "伺服器",
+      "theme": "電子電腦",
       "isNew": false,
       "rankChange": -9,
       "streak": 7
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-11-09T20:00:00.000Z",
-  "generatedAt": "2026-11-10T07:56:19.596Z",
+  "generatedAt": "2026-11-10T10:12:07.683Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "半導體設備",
-      "reason": "AI晶片需求持續增長，帶動上游半導體製造設備訂單強勁。",
+      "reason": "AI 晶片需求持續增長，帶動上游半導體製造設備訂單強勁。",
       "symbols": [
         "AMAT",
         "LRCX",
@@ -669,154 +669,148 @@
       "avgChange": 9.325708751164818
     },
     {
-      "theme": "儲存裝置",
-      "reason": "記憶體與儲存需求受AI及資料中心擴建推動，產業景氣回升。",
+      "theme": "AI 基礎設施",
+      "reason": "企業對AI運算能力的需求不斷提升，推動相關基礎設施供應商營收成長。",
       "symbols": [
-        "MU",
+        "AVGO",
+        "MRVL"
+      ],
+      "count": 2,
+      "avgChange": 9.135726547533263
+    },
+    {
+      "theme": "儲存裝置",
+      "reason": "AI 數據量爆炸式增長，對高效能儲存解決方案的需求激增。",
+      "symbols": [
         "SNDK",
-        "SKHY",
         "STX",
         "WDC"
       ],
-      "count": 5,
-      "avgChange": 7.518840187650417
-    },
-    {
-      "theme": "AI 晶片",
-      "reason": "市場對AI運算能力的需求不斷提升，相關晶片供應商持續受惠。",
-      "symbols": [
-        "AMD"
-      ],
-      "count": 1,
-      "avgChange": 13.259397826474247
+      "count": 3,
+      "avgChange": 8.604023796307596
     },
     {
       "theme": "雲端服務",
-      "reason": "企業數位轉型及AI應用普及，推升雲端運算服務需求。",
+      "reason": "雲端運算作為AI發展的基石，持續受益於企業數位轉型與AI應用擴展。",
       "symbols": [
         "AMZN",
+        "MSFT",
         "GOOGL",
         "GOOG",
-        "NBIS",
-        "CRWV"
+        "NBIS"
       ],
       "count": 5,
-      "avgChange": 3.931012287234639
+      "avgChange": 3.368122568244978
     },
     {
-      "theme": "網路設備",
-      "reason": "資料中心升級與AI基礎設施建置，刺激高速網路設備需求。",
+      "theme": "光通訊",
+      "reason": "AI 數據中心內部及外部的高速傳輸需求，驅動光通訊元件市場成長。",
       "symbols": [
-        "ANET",
-        "CSCO"
+        "LITE",
+        "COHR"
       ],
       "count": 2,
-      "avgChange": 7.056686762847185
+      "avgChange": 13.741378049138106
     },
     {
-      "theme": "類比晶片",
-      "reason": "工業、汽車及消費電子領域對高效能類比晶片需求穩定增長。",
+      "theme": "記憶體",
+      "reason": "AI 晶片對高頻寬記憶體（HBM）的需求強勁，帶動記憶體產業景氣復甦。",
       "symbols": [
-        "TXN",
-        "ADI"
+        "MU",
+        "SKHY"
       ],
       "count": 2,
-      "avgChange": 7.588728818370582
+      "avgChange": 5.891064774664649
     }
   ],
   "newEntrants": [
     {
       "symbol": "KLAC",
       "name": "KLA Corporation Common Stock",
-      "theme": "半導體檢測",
+      "theme": "半導體設備",
       "changePercent": 9.307531229691664,
-      "reason": "受半導體資本支出增加和檢測需求推動，加上強勁財報與財測。"
+      "reason": "KLA Corporation受惠於AI基礎設施投資與半導體製程控制設備需求增長，並上調財測。"
     },
     {
       "symbol": "NXPI",
       "name": "NXP Semiconductors N.V.",
       "theme": "車用晶片",
       "changePercent": 3.274396874622427,
-      "reason": "發布新統一機器人平台，整合AI、連接、馬達控制等技術。"
+      "reason": "NXP Semiconductors受惠於汽車和工業AI領域的加速貢獻，並宣布50億美元庫藏股計畫。"
     },
     {
       "symbol": "MPWR",
       "name": "Monolithic Power Systems, Inc.",
       "theme": "電源管理晶片",
       "changePercent": 16.59974463223681,
-      "reason": "受惠半導體產業整體上漲，第三季營收創紀錄且財測強勁。"
+      "reason": "Monolithic Power Systems第三季營收與EPS均超預期，企業數據和通訊市場需求強勁。"
     },
     {
       "symbol": "NFLX",
       "name": "NetFlix Inc",
       "theme": "串流媒體",
       "changePercent": 0.8516006938968717,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "Netflix第三季EPS優於預期，但營收成長放緩，近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "ANET",
       "name": "Arista Networks",
       "theme": "網路設備",
       "changePercent": 8.998829039812632,
-      "reason": "受惠於超大規模雲端基礎設施和AI網路需求強勁。"
+      "reason": "Arista Networks第三季營收和EPS均超預期，AI網路架構合作夥伴擴大，並上調財測。"
     },
     {
       "symbol": "CSCO",
       "name": "Cisco Systems, Inc. Common Stock (DE)",
       "theme": "網路設備",
       "changePercent": 5.114544485881738,
-      "reason": "受惠於AI驅動的網路需求，AI訂單與營收成長強勁。"
+      "reason": "Cisco Systems即將公布第一季財報，市場預期AI基礎設施需求將帶來強勁增長。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於半導體與AI相關族群的資金輪動。在經歷了前一週因美國期中選舉結果引發的AI概念股拋售潮後，市場資金開始重新評估並回流至具備長期成長潛力的龍頭股。AMD受惠於強勁財報與分析師升評，股價大漲，帶動了AI晶片及半導體設備族群的反彈。同時，雲端服務巨頭如Amazon、Microsoft、Alphabet和Meta也因持續投入AI資本支出而受到買盤青睞，顯示市場對AI基礎設施的需求依然強勁。然而，Nvidia則因執行長黃仁勳的個人醜聞與相關調查，股價逆勢下跌，部分資金可能因此轉向其他AI相關標的。",
+    "highlights": "本日美股成交重點聚焦於AI相關族群的資金輪動與部分科技巨頭的反彈。在AI晶片領域，Nvidia雖然成交金額最高，但股價下跌；而AMD則大幅上漲，顯示市場對其AI晶片前景的樂觀態度。記憶體和儲存裝置類股也表現強勁，受惠於AI對資料中心擴建的需求。此外，部分雲端服務和消費性電子巨頭如Apple、Amazon、Microsoft也呈現上漲，反映市場對這些大型科技公司的信心回流。",
     "eventsPast": [
       {
-        "title": "AMD第三季財報優於預期，資料中心營收近翻倍",
-        "detail": "AMD於11月3日盤後公布的第三季財報顯示，營收和獲利均優於華爾街預期，其中資料中心業務營收年增近97%，執行長蘇姿丰預期第四季成長將進一步加速，重燃市場對AI投資的信心。"
+        "title": "德州州長選舉結果引發AI基礎設施擔憂",
+        "detail": "民主黨候選人Gina Hinojosa當選德州州長，其競選期間主張暫停新建資料中心，引發市場對AI基礎設施擴張可能放緩的擔憂，導致記憶體和AI晶片股在近期承壓。"
       },
       {
-        "title": "Oppenheimer升評AMD至「優於大盤」",
-        "detail": "Oppenheimer於11月9日將AMD的評級自「Perform」上調至「Outperform」，並給予600美元目標價，看好其在AI運算領域的持續競爭力與資料中心業務的成長潛力。"
+        "title": "高通財報與財測不佳拖累半導體類股",
+        "detail": "高通（Qualcomm）公布的第四財季營收同比下降，且2027財年第一財季每股盈餘指引中值低於預期，市場擔憂手機業務利潤底部未明，導致記憶體晶片股集體跳水，並拖累整體AI硬體產業鏈。"
       },
       {
-        "title": "Meta Platforms大漲逾5%，受惠AI投資與兒少保護措施",
-        "detail": "Meta Platforms股價於11月9日大漲，一方面受惠於Amazon、Alphabet等巨頭透過發債籌資強化AI與資料中心投資，另一方面則因Meta宣布擴大AI年齡估算技術至全球，強化青少年帳戶保護機制，有助降低潛在法律風險。"
+        "title": "科技股拋售潮後逢低買盤進場",
+        "detail": "在近期科技股大幅下修後，投資人出現逢低買盤，特別是AI相關股票，例如Nvidia、AMD、Intel等在經歷大跌後出現反彈。"
       },
       {
-        "title": "Amazon飆漲5%，AI資本支出與個人機器人新題材帶動",
-        "detail": "Amazon股價於11月9日走強，主因市場重新布局具長期AI與雲端成長故事的龍頭股，且Amazon為支應AI相關資本支出與資料中心建置，發債籌資超過370.7億美元，並透過收購強化個人與家用機器人布局。"
+        "title": "聯準會維持利率不變，但保留升息空間",
+        "detail": "美國聯準會（Fed）在10月份的會議上決議將聯邦基金利率目標區間維持在3.75%-4.00%，符合市場預期，但聲明中仍強調通膨居高不下，並保留了未來升息的可能性。"
       },
       {
-        "title": "Nvidia執行長黃仁勳遭獨立調查，股價逆勢下跌",
-        "detail": "Nvidia執行長黃仁勳因涉及個人醜聞及其關係人遭指控為中國傳遞資訊，Nvidia董事會於11月8日宣布啟動獨立調查，導致Nvidia股價在11月9日逆勢下跌。"
+        "title": "蘋果市值超越輝達成全球最大企業",
+        "detail": "受英特爾和Alphabet財報展望不佳等因素影響，科技類股遭到拋售，導致輝達股價下跌，蘋果市值因此超越輝達，成為全球市值最大的企業。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "11/10 (二)",
-        "title": "美國10月消費者物價指數(CPI)",
-        "detail": "此數據將影響市場對聯準會未來貨幣政策的預期，進而影響整體股市走勢。"
+        "date": "本週四",
+        "title": "美國10月消費者物價指數（CPI）",
+        "detail": "美國勞工統計局將公布10月份的CPI數據，聯準會理事沃勒表示，即使數據改善，他仍支持12月升息1碼；若核心CPI月增0.3%以上，他將考慮升息2碼。"
       },
       {
-        "date": "11/13 (五)",
-        "title": "美國10月生產者物價指數(PPI)",
-        "detail": "PPI數據是衡量通膨的重要指標之一，將提供更多關於通膨壓力的線索。"
+        "date": "11/25",
+        "title": "美國第三季實際國內生產總值（GDP）更新",
+        "detail": "美國商務部將更新第三季的實際GDP數據，此為評估整體經濟狀況的重要指標。"
       },
       {
-        "date": "11/17 (二)",
-        "title": "美國10月零售銷售數據",
-        "detail": "零售銷售數據反映消費支出狀況，可作為評估經濟健康狀況的參考。"
+        "date": "12/8-12/9",
+        "title": "聯準會（Fed）利率會議",
+        "detail": "聯準會將召開今年最後一次利率會議，市場關注是否會再次升息，以及對未來貨幣政策的展望。"
       },
       {
-        "date": "11/18 (三)",
-        "title": "Nvidia (NVDA) 財報",
-        "detail": "Nvidia將公布財報，市場將聚焦Blackwell晶片的出貨進度、毛利率表現以及科技巨頭的算力資本支出計畫。"
-      },
-      {
-        "date": "11/25 (三)",
-        "title": "美國10月PCE物價指數",
-        "detail": "PCE物價指數是聯準會偏好的通膨衡量指標，將對市場對貨幣政策的預期產生影響。"
+        "date": "待定",
+        "title": "SpaceX資料中心擴建計畫進展",
+        "detail": "SpaceX正在德州擴建數個十吉瓦（GW）規模的資料中心容量，德州新任州長對資料中心建設的態度可能影響其進展。"
       }
     ]
   }
