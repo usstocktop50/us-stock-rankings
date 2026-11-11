@@ -164,7 +164,7 @@
       "dollarVolume": 5877050445.079939,
       "marketCap": 308960950000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "CPU 晶片",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": 0,
       "streak": 170
@@ -242,7 +242,7 @@
       "dollarVolume": 3802840690.3035116,
       "marketCap": 135384590999.99998,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網通晶片",
+      "theme": "AI 晶片",
       "isNew": false,
       "rankChange": -2,
       "streak": 160
@@ -255,7 +255,7 @@
       "dollarVolume": 3278144405.0938716,
       "marketCap": 388406424201.77997,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "大數據/AI",
+      "theme": "數據分析/AI",
       "isNew": false,
       "rankChange": -2,
       "streak": 170
@@ -320,7 +320,7 @@
       "dollarVolume": 2803855368.2715354,
       "marketCap": 53111199000.00001,
       "sector": "COMMUNICATIONS EQUIPMENT, NEC",
-      "theme": "光學通訊",
+      "theme": "光通訊",
       "isNew": false,
       "rankChange": -3,
       "streak": 88
@@ -385,7 +385,7 @@
       "dollarVolume": 2487752239.070472,
       "marketCap": 54820663274.38,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "再生能源",
+      "theme": "能源技術",
       "isNew": false,
       "rankChange": -2,
       "streak": 50
@@ -463,7 +463,7 @@
       "dollarVolume": 2226348435.62944,
       "marketCap": 996081840557.5499,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售百貨",
+      "theme": "零售",
       "isNew": false,
       "rankChange": -2,
       "streak": 9
@@ -552,7 +552,7 @@
       "price": 62.71,
       "changePercent": 6.540944614339113,
       "dollarVolume": 1909257445.4075212,
-      "marketCap": 40097463120.19,
+      "marketCap": 42202084467.15,
       "sector": "GUIDED MISSILES & SPACE VEHICLES & PARTS",
       "theme": "太空",
       "isNew": true,
@@ -632,7 +632,7 @@
       "dollarVolume": 1823600083.2643526,
       "marketCap": 274606255364.31998,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "類比晶片",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": -16,
       "streak": 8
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-11-10T20:00:00.000Z",
-  "generatedAt": "2026-11-11T09:45:46.738Z",
+  "generatedAt": "2026-11-11T12:31:47.399Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "太空",
-      "reason": "全球太空產業持續發展，低軌衛星、火箭發射等領域受到市場關注。",
+      "reason": "太空探索與衛星發射需求持續增長，相關公司受到市場關注。",
       "symbols": [
         "SPCX",
         "RKLB"
@@ -668,17 +668,18 @@
     },
     {
       "theme": "AI 晶片",
-      "reason": "AI 應用需求持續增長，帶動相關晶片設計與製造商的營收預期。",
+      "reason": "AI 產業發展帶動晶片需求，儘管部分個股回檔，但整體仍是市場焦點。",
       "symbols": [
         "AMD",
-        "AVGO"
+        "AVGO",
+        "MRVL"
       ],
-      "count": 2,
-      "avgChange": 2.6081188510432103
+      "count": 3,
+      "avgChange": 1.6934677635673994
     },
     {
       "theme": "半導體設備",
-      "reason": "全球晶圓廠擴建及技術升級需求，推動半導體設備訂單增長。",
+      "reason": "半導體產業景氣復甦，資本支出增加，帶動設備供應商表現。",
       "symbols": [
         "LRCX",
         "AMAT"
@@ -688,7 +689,7 @@
     },
     {
       "theme": "減肥藥 GLP-1",
-      "reason": "GLP-1 藥物市場潛力巨大，相關藥廠持續受資金追捧。",
+      "reason": "GLP-1 藥物市場潛力巨大，相關藥廠持續受到資金追捧。",
       "symbols": [
         "LLY"
       ],
@@ -696,22 +697,22 @@
       "avgChange": 1.4405609263784072
     },
     {
-      "theme": "晶圓代工",
-      "reason": "先進製程需求強勁，晶圓代工龍頭持續受惠。",
-      "symbols": [
-        "TSM"
-      ],
-      "count": 1,
-      "avgChange": 2.0225412999845642
-    },
-    {
       "theme": "電商/雲端服務",
-      "reason": "電子商務與雲端運算服務持續擴張，支撐相關企業營收。",
+      "reason": "電子商務與雲端服務需求穩健增長，支撐相關企業表現。",
       "symbols": [
         "AMZN"
       ],
       "count": 1,
       "avgChange": 1.4760424081219787
+    },
+    {
+      "theme": "遊戲軟體",
+      "reason": "新遊戲發布或銷售預期良好，帶動遊戲軟體公司股價上漲。",
+      "symbols": [
+        "TTWO"
+      ],
+      "count": 1,
+      "avgChange": 8.312439729990347
     }
   ],
   "newEntrants": [
@@ -720,63 +721,63 @@
       "name": "Fox Corporation Class A Common Stock",
       "theme": "媒體廣播",
       "changePercent": -0.4727433889791597,
-      "reason": "Seaport Research Partners將其評級上調至買入，並設定了新的目標價。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "JHX",
       "name": "James Hardie Industries plc",
       "theme": "建築材料",
       "changePercent": -2.972611890447564,
-      "reason": "第二季度業績超預期，但2027財年營收指引不及預期導致股價下跌。"
+      "reason": "James Hardie Industries plc被納入S&P MidCap 400指數。"
     },
     {
       "symbol": "CVX",
       "name": "Chevron Corporation",
       "theme": "石油天然氣",
       "changePercent": 0.20874845810797882,
-      "reason": "宣布將納米比亞海上勘探許可證25%的參與權出售給QatarEnergy。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "JNJ",
       "name": "Johnson & Johnson",
       "theme": "生技製藥",
       "changePercent": -0.47144730778775684,
-      "reason": "近期公布多項藥物臨床試驗的積極數據，並上調了2026年營收展望。"
+      "reason": "Caplyta藥物在雙相情感障礙躁狂症試驗中達到主要評估指標。"
     },
     {
       "symbol": "AKAM",
       "name": "Akamai Technologies Inc",
       "theme": "網路安全/CDN",
       "changePercent": 4.25955909826876,
-      "reason": "宣布發行22億美元可轉換票據，用於雲端運算和AI計畫。"
+      "reason": "發行總額22億美元的可轉換優先票據。"
     },
     {
       "symbol": "RKLB",
       "name": "Rocket Lab Corporation Common Stock",
       "theme": "太空",
       "changePercent": 6.540944614339113,
-      "reason": "第三季度營收創紀錄，積壓訂單大幅增長，並簽署多項發射合約。"
+      "reason": "第三季營收年增73%，積壓訂單創紀錄且發射價格上調。"
     },
     {
       "symbol": "NOW",
       "name": "SERVICENOW, INC.",
       "theme": "雲端軟體 SaaS",
       "changePercent": -3.065395095367853,
-      "reason": "第三季度財報後股價大跌，儘管AI相關業務增長，但營收指引不及預期。"
+      "reason": "Anthropic推出新AI工具，引發市場對AI對軟體公司壓力的擔憂。"
     },
     {
       "symbol": "TTWO",
       "name": "Take-Two Interactive Software Inc",
       "theme": "遊戲軟體",
       "changePercent": 8.312439729990347,
-      "reason": "《俠盜獵車手VI》預購量空前，公司重申2027財年淨預訂量展望。"
+      "reason": "《俠盜獵車手6》預購量遠超預期，財報虧損大幅收斂。"
     },
     {
       "symbol": "MSTR",
       "name": "Strategy Inc Common Stock Class A",
       "theme": "比特幣/加密",
       "changePercent": -3.5990126602436576,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "MSCI將決定是否將其從指數中剔除，引發市場關注。"
     },
     {
       "symbol": "UNH",
@@ -787,49 +788,54 @@
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交量前段個股顯示，資金主要集中在AI晶片、記憶體、太空、電商/雲端服務等高科技成長題材。Nvidia Corp（NVDA）以高達728億美元的成交金額遙遙領先，儘管當日下跌，但仍是市場關注的焦點，顯示AI晶片領域的巨大資金動能。AMD和Broadcom等AI晶片相關個股也表現活躍，而Micron Technology則受惠於AI基礎設施對記憶體需求的激增。太空題材的SpaceX（SPCX）因其AI業務的強勁增長而受到市場追捧，電商巨頭Amazon（AMZN）也因雲端服務的持續成長而吸引資金。整體而言，市場正在交易「AI超級週期」和「新興科技」的故事，資金流向具備長期成長潛力的創新領域。",
+    "highlights": "本日美股成交重點聚焦於AI晶片與太空題材。AI晶片股在經歷前幾日的修正後出現反彈，特別是AMD受惠於與Google Cloud的合作案，股價強勁上漲，帶動市場對AI基礎設施需求的信心。太空族群則因NASA的月球訂單消息而普漲，SpaceX等個股表現亮眼。然而，Nvidia因執行長相關負面消息，股價仍面臨壓力，顯示市場在追逐AI熱潮的同時，也開始關注企業治理與宏觀經濟數據對科技股的影響。",
     "eventsPast": [
       {
-        "title": "AMD 第三季營收創134億美元新高，資料中心年增97%",
-        "detail": "AMD於11月3日公布2026會計年度第三季財報，營收達133.77億美元，資料中心營收年增97%，占比約六成，主要來自EPYC處理器需求與Instinct MI450系列GPU推出。"
+        "title": "美國10月CPI與核心CPI月增高於預期",
+        "detail": "美國勞工統計局公布10月整體與核心CPI雙雙超出預期，提高市場對12月FOMC會議升息機率，並壓抑市場風險偏好。"
       },
       {
-        "title": "Intel 第三季財報顯示PC銷售困境，但資料中心需求強勁",
-        "detail": "Intel於10月29日公布第三季財報，營收為165億美元，年增21%。儘管PC銷售面臨挑戰，但數據中心和AI集團（DCAI）的營收年增78%，達到73億美元，反映了超大規模、企業和雲端客戶的強勁需求。"
+        "title": "AMD與Google Cloud深化合作",
+        "detail": "AMD宣布其第五代EPYC伺服器處理器將為Google Cloud的TPU 8tx系統提供運算支援，強化其在AI基礎設施中的地位。"
       },
       {
-        "title": "Meta 第三季營收超預期，AI投資持續擴大",
-        "detail": "Meta於10月21日公布2026年第三季財報，營收年增26%至646億美元，超出市場預期，主要受惠於廣告業務的持續成長，公司並強調AI是加速核心業務和支持下一代產品的關鍵。"
+        "title": "NASA釋出10億美元月球訂單",
+        "detail": "NASA最高可達100億美元的CLPS合約點燃太空產業的資本市場興趣，帶動SpaceX等太空概念股普漲。"
       },
       {
-        "title": "SpaceX 第三季財報轉虧為盈，AI業務成主要增長動力",
-        "detail": "SpaceX於10月20日公布2026年第三季財報，營收年增161%至146億美元，並實現上市後首次季度盈利。其中，AI業務（現更名為Super Intelligence, SI）營收年增830%至75.6億美元，成為公司主要增長引擎。"
+        "title": "Nvidia執行長黃仁勳面臨調查",
+        "detail": "Nvidia執行長黃仁勳坦承婚外情後，相關情報疑雲升溫，董事會已啟動獨立調查，股價因此承壓。"
       },
       {
-        "title": "GE Vernova 第三季業績強勁，上調2026年財測",
-        "detail": "GE Vernova於10月28日公布第三季財報，營收年增27%，獲利能力和現金流表現強勁，主要受電力設備和服務需求推動，公司並上調2026年財測。"
+        "title": "Amazon受AI資本支出與個人機器人題材帶動",
+        "detail": "Amazon股價逆勢走強，受惠於積極投入AI基礎設施的資本支出，以及透過收購Fauna Robotics強化個人機器人布局。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "12/9",
-        "title": "Broadcom 第四季財報公布",
-        "detail": "Broadcom將於12月9日美股收盤後公布2026會計年度第四季財報及業務展望，市場關注其AI半導體營收達成狀況及2027年AI半導體營收目標的更新。"
+        "date": "11/13",
+        "title": "美國10月生產者物價指數(PPI)",
+        "detail": "生產者物價指數是衡量出廠端商品和服務價格變動的指標，常被視為消費者物價指數的領先指標。"
       },
       {
-        "date": "1/下旬",
-        "title": "Tesla 第四季財報公布",
-        "detail": "Tesla預計於2027年1月下旬公布2026年第四季財報，市場將關注其交車量、AI基礎設施投資以及Robotaxi服務的進展。"
+        "date": "11/17",
+        "title": "美國10月零售銷售數據",
+        "detail": "此數據反映美國內需消費健康度，將影響市場對經濟前景的評估。"
       },
       {
-        "date": "1/下旬",
-        "title": "Apple 2026財年第一季財報公布",
-        "detail": "Apple預計於2027年1月下旬公布2026財年第一季財報，涵蓋2025年10月至12月，市場將關注iPhone銷售、服務業務表現及新任CEO John Ternus的首次完整季度業績。"
+        "date": "11/18",
+        "title": "Nvidia (NVDA) 財報",
+        "detail": "Nvidia將公布財報，市場將聚焦Blackwell晶片的出貨進度、毛利率表現以及科技巨頭的算力資本支出。"
       },
       {
-        "date": "本週四",
-        "title": "美國10月非農就業報告",
-        "detail": "美國將於本週五公布10月非農就業報告，此為聯準會評估是否降息的關鍵指標，市場預期新增就業人數將進一步放緩。"
+        "date": "11/19",
+        "title": "Walmart (WMT) 財報",
+        "detail": "零售巨頭Walmart的財報被視為美國內需消費健康度的指標，市場關注其「低價抗通膨策略」成效。"
+      },
+      {
+        "date": "11/19",
+        "title": "Sandisk (SNDK) 股票分割生效",
+        "detail": "Sandisk將進行8股分割1股的股票分割，旨在提高股票可近性。"
       }
     ]
   }
