@@ -86,7 +86,7 @@
       "dollarVolume": 10535835439.441738,
       "marketCap": 2928954772946.22,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電商/雲端服務",
+      "theme": "電子商務",
       "isNew": false,
       "rankChange": -1,
       "streak": 170
@@ -112,7 +112,7 @@
       "dollarVolume": 9364418899.003689,
       "marketCap": 1584749642582.7002,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "AI 晶片",
+      "theme": "AI 基礎設施",
       "isNew": false,
       "rankChange": 2,
       "streak": 170
@@ -138,7 +138,7 @@
       "dollarVolume": 8361560423.290874,
       "marketCap": 1420340431470.13,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "社群媒體/AI",
+      "theme": "社群媒體",
       "isNew": false,
       "rankChange": -1,
       "streak": 170
@@ -151,7 +151,7 @@
       "dollarVolume": 8180511915.240405,
       "marketCap": 1692093440000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "搜尋引擎/AI",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": 0,
       "streak": 170
@@ -164,7 +164,7 @@
       "dollarVolume": 5877050445.079939,
       "marketCap": 308960950000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "CPU",
       "isNew": false,
       "rankChange": 0,
       "streak": 170
@@ -216,7 +216,7 @@
       "dollarVolume": 4323507589.568985,
       "marketCap": 1589568680000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "搜尋引擎/AI",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": -3,
       "streak": 170
@@ -242,7 +242,7 @@
       "dollarVolume": 3802840690.3035116,
       "marketCap": 135384590999.99998,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "AI 晶片",
+      "theme": "AI 基礎設施",
       "isNew": false,
       "rankChange": -2,
       "streak": 160
@@ -255,7 +255,7 @@
       "dollarVolume": 3278144405.0938716,
       "marketCap": 388406424201.77997,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "數據分析/AI",
+      "theme": "大數據分析",
       "isNew": false,
       "rankChange": -2,
       "streak": 170
@@ -385,7 +385,7 @@
       "dollarVolume": 2487752239.070472,
       "marketCap": 54820663274.38,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "能源技術",
+      "theme": "燃料電池",
       "isNew": false,
       "rankChange": -2,
       "streak": 50
@@ -463,7 +463,7 @@
       "dollarVolume": 2226348435.62944,
       "marketCap": 996081840557.5499,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售",
+      "theme": "零售百貨",
       "isNew": false,
       "rankChange": -2,
       "streak": 9
@@ -541,7 +541,7 @@
       "dollarVolume": 1926430359.2743835,
       "marketCap": 12030517339.39,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "網路安全/CDN",
+      "theme": "網路安全",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -632,7 +632,7 @@
       "dollarVolume": 1823600083.2643526,
       "marketCap": 274606255364.31998,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "類比IC",
       "isNew": false,
       "rankChange": -16,
       "streak": 8
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-11-10T20:00:00.000Z",
-  "generatedAt": "2026-11-11T12:31:47.399Z",
+  "generatedAt": "2026-11-12T02:05:12.943Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "太空",
-      "reason": "太空探索與衛星發射需求持續增長，相關公司受到市場關注。",
+      "reason": "隨著商業太空探索和衛星通訊需求增加，相關公司持續受到市場關注。",
       "symbols": [
         "SPCX",
         "RKLB"
@@ -667,19 +667,8 @@
       "avgChange": 3.6294502757765845
     },
     {
-      "theme": "AI 晶片",
-      "reason": "AI 產業發展帶動晶片需求，儘管部分個股回檔，但整體仍是市場焦點。",
-      "symbols": [
-        "AMD",
-        "AVGO",
-        "MRVL"
-      ],
-      "count": 3,
-      "avgChange": 1.6934677635673994
-    },
-    {
       "theme": "半導體設備",
-      "reason": "半導體產業景氣復甦，資本支出增加，帶動設備供應商表現。",
+      "reason": "全球半導體產業擴張，對先進製程設備的需求持續增長。",
       "symbols": [
         "LRCX",
         "AMAT"
@@ -688,8 +677,26 @@
       "avgChange": 0.511172049022665
     },
     {
+      "theme": "AI 晶片",
+      "reason": "AI 技術的快速發展推動了對高效能AI晶片的需求，儘管NVDA下跌，AMD仍上漲。",
+      "symbols": [
+        "AMD"
+      ],
+      "count": 1,
+      "avgChange": 1.3036297141059523
+    },
+    {
+      "theme": "AI 基礎設施",
+      "reason": "AI應用普及需要強大的基礎設施支援，相關晶片和解決方案供應商受惠。",
+      "symbols": [
+        "AVGO"
+      ],
+      "count": 1,
+      "avgChange": 3.912607987980468
+    },
+    {
       "theme": "減肥藥 GLP-1",
-      "reason": "GLP-1 藥物市場潛力巨大，相關藥廠持續受到資金追捧。",
+      "reason": "GLP-1藥物市場潛力巨大，相關製藥公司持續受到投資者追捧。",
       "symbols": [
         "LLY"
       ],
@@ -697,17 +704,8 @@
       "avgChange": 1.4405609263784072
     },
     {
-      "theme": "電商/雲端服務",
-      "reason": "電子商務與雲端服務需求穩健增長，支撐相關企業表現。",
-      "symbols": [
-        "AMZN"
-      ],
-      "count": 1,
-      "avgChange": 1.4760424081219787
-    },
-    {
       "theme": "遊戲軟體",
-      "reason": "新遊戲發布或銷售預期良好，帶動遊戲軟體公司股價上漲。",
+      "reason": "遊戲產業持續成長，新遊戲發布或市場預期可能帶動相關公司股價。",
       "symbols": [
         "TTWO"
       ],
@@ -728,114 +726,109 @@
       "name": "James Hardie Industries plc",
       "theme": "建築材料",
       "changePercent": -2.972611890447564,
-      "reason": "James Hardie Industries plc被納入S&P MidCap 400指數。"
+      "reason": "James Hardie上調全年財測，纖維水泥銷售飆升34%。"
     },
     {
       "symbol": "CVX",
       "name": "Chevron Corporation",
       "theme": "石油天然氣",
       "changePercent": 0.20874845810797882,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "雪佛龍公布第三季財報優於預期，美國煉油廠產能創新高。"
     },
     {
       "symbol": "JNJ",
       "name": "Johnson & Johnson",
       "theme": "生技製藥",
       "changePercent": -0.47144730778775684,
-      "reason": "Caplyta藥物在雙相情感障礙躁狂症試驗中達到主要評估指標。"
+      "reason": "嬌生公布多項藥物臨床試驗數據積極，並獲FDA加速批准新藥。"
     },
     {
       "symbol": "AKAM",
       "name": "Akamai Technologies Inc",
-      "theme": "網路安全/CDN",
+      "theme": "網路安全",
       "changePercent": 4.25955909826876,
-      "reason": "發行總額22億美元的可轉換優先票據。"
+      "reason": "Akamai發行大額可轉換公司債，市場對雲端與安全業務成長有期待。"
     },
     {
       "symbol": "RKLB",
       "name": "Rocket Lab Corporation Common Stock",
       "theme": "太空",
       "changePercent": 6.540944614339113,
-      "reason": "第三季營收年增73%，積壓訂單創紀錄且發射價格上調。"
+      "reason": "太空族群回溫，市場預期財報行情將登場。"
     },
     {
       "symbol": "NOW",
       "name": "SERVICENOW, INC.",
       "theme": "雲端軟體 SaaS",
       "changePercent": -3.065395095367853,
-      "reason": "Anthropic推出新AI工具，引發市場對AI對軟體公司壓力的擔憂。"
+      "reason": "受惠企業雲端軟體強勁動能與生成式AI應用，股價上漲。"
     },
     {
       "symbol": "TTWO",
       "name": "Take-Two Interactive Software Inc",
       "theme": "遊戲軟體",
       "changePercent": 8.312439729990347,
-      "reason": "《俠盜獵車手6》預購量遠超預期，財報虧損大幅收斂。"
+      "reason": "《俠盜獵車手VI》(GTA 6)預購量超出預期，帶動全年營收展望上調。"
     },
     {
       "symbol": "MSTR",
       "name": "Strategy Inc Common Stock Class A",
       "theme": "比特幣/加密",
       "changePercent": -3.5990126602436576,
-      "reason": "MSCI將決定是否將其從指數中剔除，引發市場關注。"
+      "reason": "近期無明確個股消息，可能受比特幣價格波動影響。"
     },
     {
       "symbol": "UNH",
       "name": "UNITEDHEALTH GROUP INCORPORATED (Delaware)",
       "theme": "醫療保險",
       "changePercent": 1.8862230270107139,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "聯合健康集團公布優於預期的財報，並上修全年財測。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI晶片與太空題材。AI晶片股在經歷前幾日的修正後出現反彈，特別是AMD受惠於與Google Cloud的合作案，股價強勁上漲，帶動市場對AI基礎設施需求的信心。太空族群則因NASA的月球訂單消息而普漲，SpaceX等個股表現亮眼。然而，Nvidia因執行長相關負面消息，股價仍面臨壓力，顯示市場在追逐AI熱潮的同時，也開始關注企業治理與宏觀經濟數據對科技股的影響。",
+    "highlights": "本日美股成交重點集中於AI晶片、AI基礎設施以及太空題材。資金流向AI相關個股，如AMD受惠於Google的AI晶片訂單而股價上漲，而Nvidia則因市場對其AI晶片機密外流的擔憂而下跌。太空族群則因NASA的登月基地運補合約消息帶動SPCX和RKLB股價上揚。遊戲軟體股Take-Two則受惠於「俠盜獵車手VI」預購量超預期的利好消息。",
     "eventsPast": [
       {
-        "title": "美國10月CPI與核心CPI月增高於預期",
-        "detail": "美國勞工統計局公布10月整體與核心CPI雙雙超出預期，提高市場對12月FOMC會議升息機率，並壓抑市場風險偏好。"
+        "title": "AMD搶下Google AI晶片關鍵角色",
+        "detail": "超微半導體（AMD）宣布其第五代EPYC伺服器處理器將為Google Cloud最新TPU 8tx系統提供主機運算基礎，協助保護AI模型與敏感資料，帶動AMD股價上漲。"
       },
       {
-        "title": "AMD與Google Cloud深化合作",
-        "detail": "AMD宣布其第五代EPYC伺服器處理器將為Google Cloud的TPU 8tx系統提供運算支援，強化其在AI基礎設施中的地位。"
+        "title": "太空族群受NASA合約帶動",
+        "detail": "NASA釋出高達100億美元、為期10年的登月基地運補合約，帶動SpaceX（SPCX）等太空股連兩日大漲，Rocket Lab（RKLB）股價也受同族群評價墊高而上揚。"
       },
       {
-        "title": "NASA釋出10億美元月球訂單",
-        "detail": "NASA最高可達100億美元的CLPS合約點燃太空產業的資本市場興趣，帶動SpaceX等太空概念股普漲。"
+        "title": "Take-Two互動軟體「俠盜獵車手VI」預購量超預期",
+        "detail": "儘管第二季財報數據未達預期，但Take-Two互動軟體（TTWO）因「俠盜獵車手VI」預購量遠超預期，並上調全年營收展望，帶動股價強勢上漲。"
       },
       {
-        "title": "Nvidia執行長黃仁勳面臨調查",
-        "detail": "Nvidia執行長黃仁勳坦承婚外情後，相關情報疑雲升溫，董事會已啟動獨立調查，股價因此承壓。"
+        "title": "禮來減肥口服藥Foundayo治療睡眠呼吸暫停症效果顯著",
+        "detail": "禮來（LLY）宣布其每日服用一次的減肥口服藥Foundayo在後期臨床試驗中顯著降低了肥胖患者阻塞性睡眠呼吸暫停症的嚴重程度，並計劃年底前向FDA提交申請。"
       },
       {
-        "title": "Amazon受AI資本支出與個人機器人題材帶動",
-        "detail": "Amazon股價逆勢走強，受惠於積極投入AI基礎設施的資本支出，以及透過收購Fauna Robotics強化個人機器人布局。"
+        "title": "FDA要求GLP-1類減肥藥加註視力喪失風險警語",
+        "detail": "美國食品藥物管理局（FDA）要求諾和諾德（NVO）與禮來（LLY）等製藥商，在其GLP-1類減重及糖尿病治療藥物標籤上加入安全警告，提示可能導致永久性視力喪失的罕見眼部疾病風險。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "11/13",
-        "title": "美國10月生產者物價指數(PPI)",
-        "detail": "生產者物價指數是衡量出廠端商品和服務價格變動的指標，常被視為消費者物價指數的領先指標。"
+        "date": "11/12",
+        "title": "美股財報公布：應用材料 (AMAT)、思科 (CSCO)",
+        "detail": "半導體設備製造商應用材料（AMAT）和網路設備大廠思科（CSCO）預計於美東時間11月12日盤後公布最新財報。"
       },
       {
-        "date": "11/17",
-        "title": "美國10月零售銷售數據",
-        "detail": "此數據反映美國內需消費健康度，將影響市場對經濟前景的評估。"
+        "date": "12/10",
+        "title": "美國消費者物價指數（CPI）公布",
+        "detail": "美國勞工部將於台灣時間12月10日晚上21:30公布11月份的消費者物價指數（CPI），此數據為衡量通膨水準的核心指標，將影響聯準會未來的貨幣政策。"
       },
       {
-        "date": "11/18",
-        "title": "Nvidia (NVDA) 財報",
-        "detail": "Nvidia將公布財報，市場將聚焦Blackwell晶片的出貨進度、毛利率表現以及科技巨頭的算力資本支出。"
+        "date": "12/10",
+        "title": "聯準會（Fed）FOMC會議結果公布",
+        "detail": "聯準會（Fed）將於台灣時間12月10日凌晨3:00公布最新利率決議，並提供經濟預測摘要（SEP）與點陣圖，此為評估未來利率走向的重要參考。"
       },
       {
-        "date": "11/19",
-        "title": "Walmart (WMT) 財報",
-        "detail": "零售巨頭Walmart的財報被視為美國內需消費健康度的指標，市場關注其「低價抗通膨策略」成效。"
-      },
-      {
-        "date": "11/19",
-        "title": "Sandisk (SNDK) 股票分割生效",
-        "detail": "Sandisk將進行8股分割1股的股票分割，旨在提高股票可近性。"
+        "date": "本週五",
+        "title": "美國非農就業報告公布",
+        "detail": "美國勞工部勞工統計局（BLS）通常於每月第一個星期五公布非農就業報告，此數據涵蓋非農部門受薪職位數的月度變化，是觀察美國勞動市場與景氣強弱的重要指標。"
       }
     ]
   }
