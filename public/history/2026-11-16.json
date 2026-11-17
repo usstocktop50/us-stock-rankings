@@ -47,7 +47,7 @@
       "dollarVolume": 17771323817.105404,
       "marketCap": 5126663165960,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "消費電子",
+      "theme": "消費性電子",
       "isNew": false,
       "rankChange": 0,
       "streak": 174
@@ -73,7 +73,7 @@
       "dollarVolume": 14012610547.219942,
       "marketCap": 1865494911068.2402,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "太空",
+      "theme": "太空科技",
       "isNew": false,
       "rankChange": 2,
       "streak": 109
@@ -112,7 +112,7 @@
       "dollarVolume": 10270372572.523588,
       "marketCap": 115127748115.15001,
       "sector": "COMPUTER STORAGE DEVICES",
-      "theme": "記憶體",
+      "theme": "儲存裝置",
       "isNew": false,
       "rankChange": 0,
       "streak": 174
@@ -125,7 +125,7 @@
       "dollarVolume": 9937230601.316578,
       "marketCap": 1670543360000.0002,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "雲端服務",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": 1,
       "streak": 174
@@ -177,7 +177,7 @@
       "dollarVolume": 6020560070.772393,
       "marketCap": 1569149540000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "雲端服務",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": 1,
       "streak": 174
@@ -229,7 +229,7 @@
       "dollarVolume": 3403262194.9510427,
       "marketCap": 493530881155.26,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售百貨",
+      "theme": "零售量販",
       "isNew": false,
       "rankChange": 19,
       "streak": 4
@@ -268,7 +268,7 @@
       "dollarVolume": 3163274506.9978046,
       "marketCap": 735418847268.9,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "數位支付",
+      "theme": "支付服務",
       "isNew": false,
       "rankChange": 20,
       "streak": 28
@@ -281,7 +281,7 @@
       "dollarVolume": 2871366797.7256756,
       "marketCap": 369011410838.31,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "數據分析軟體",
+      "theme": "大數據分析",
       "isNew": false,
       "rankChange": 5,
       "streak": 174
@@ -294,7 +294,7 @@
       "dollarVolume": 2731175013.0909715,
       "marketCap": 101112108413.40001,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "伺服器",
+      "theme": "電腦硬體",
       "isNew": false,
       "rankChange": -2,
       "streak": 12
@@ -320,7 +320,7 @@
       "dollarVolume": 2684078432.8216476,
       "marketCap": 27739551113.120003,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體 SaaS",
+      "theme": "雲端運算",
       "isNew": false,
       "rankChange": -7,
       "streak": 25
@@ -372,7 +372,7 @@
       "dollarVolume": 2536643422.5490046,
       "marketCap": 49522200000,
       "sector": "COMMUNICATIONS EQUIPMENT, NEC",
-      "theme": "光通訊",
+      "theme": "光通訊元件",
       "isNew": false,
       "rankChange": 5,
       "streak": 92
@@ -411,7 +411,7 @@
       "dollarVolume": 2412028756.868141,
       "marketCap": 360096720240,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "資料庫軟體",
+      "theme": "企業軟體",
       "isNew": false,
       "rankChange": -7,
       "streak": 174
@@ -437,7 +437,7 @@
       "dollarVolume": 2304510881.4379606,
       "marketCap": 832246146402.9,
       "sector": "FIRE, MARINE & CASUALTY INSURANCE",
-      "theme": "多元控股",
+      "theme": "綜合保險",
       "isNew": false,
       "rankChange": -10,
       "streak": 11
@@ -476,7 +476,7 @@
       "dollarVolume": 2284607776.1055818,
       "marketCap": 1018772354806.8099,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售百貨",
+      "theme": "零售量販",
       "isNew": false,
       "rankChange": -2,
       "streak": 13
@@ -502,7 +502,7 @@
       "dollarVolume": 2239549081.6065984,
       "marketCap": 114550993391,
       "sector": "COMPUTER STORAGE DEVICES",
-      "theme": "硬碟儲存",
+      "theme": "儲存裝置",
       "isNew": false,
       "rankChange": -8,
       "streak": 109
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-11-16T20:00:00.000Z",
-  "generatedAt": "2026-11-17T11:03:54.545Z",
+  "generatedAt": "2026-11-17T14:13:37.826Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
-      "theme": "零售百貨",
-      "reason": "在通膨壓力下，消費者轉向大型量販店尋求更具性價比的商品，帶動零售百貨業績成長。",
+      "theme": "零售量販",
+      "reason": "在通膨壓力下，消費者轉向大型量販店尋求更具性價比的商品，帶動零售量販業績成長。",
       "symbols": [
         "COST",
         "WMT"
@@ -668,7 +668,7 @@
     },
     {
       "theme": "飲料食品",
-      "reason": "民生必需品的需求穩定，且具備抗通膨特性，吸引資金流入。",
+      "reason": "飲料食品產業通常被視為防禦性板塊，在市場波動時資金傾向流入穩定消費需求的公司。",
       "symbols": [
         "PEP",
         "KO"
@@ -678,7 +678,7 @@
     },
     {
       "theme": "民生消費",
-      "reason": "消費者對日常用品的需求保持韌性，支撐民生消費類股表現。",
+      "reason": "民生消費品需求穩定，在經濟不確定性增加時，投資者偏好這類具有韌性的公司。",
       "symbols": [
         "PG"
       ],
@@ -686,8 +686,8 @@
       "avgChange": 1.8963486454652525
     },
     {
-      "theme": "數位支付",
-      "reason": "隨著數位交易普及，電子支付服務持續擴張，市場對其成長潛力抱持樂觀態度。",
+      "theme": "支付服務",
+      "reason": "數位支付的普及化趨勢持續，帶動支付服務提供商的交易量和營收增長。",
       "symbols": [
         "V"
       ],
@@ -696,7 +696,7 @@
     },
     {
       "theme": "行動廣告",
-      "reason": "行動裝置使用率持續增長，帶動行動廣告市場需求，相關公司營收表現亮眼。",
+      "reason": "隨著數位化轉型加速，行動廣告市場持續擴大，相關公司受惠於廣告支出增加。",
       "symbols": [
         "APP"
       ],
@@ -710,104 +710,94 @@
       "name": "Goldman Sachs Group Inc.",
       "theme": "投資銀行",
       "changePercent": -2.729772191673211,
-      "reason": "高盛上調全球數據中心容量預期，並有AI融資需求消息。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "PG",
       "name": "Procter & Gamble Company",
       "theme": "民生消費",
       "changePercent": 1.8963486454652525,
-      "reason": "寶僑將於11月19日舉行投資者日，並在近期發布了2027財年第一季度財報。"
+      "reason": "寶僑將於11月19日舉行投資者日，市場關注其展望。"
     },
     {
       "symbol": "JPM",
       "name": "JPMorgan Chase & Co.",
       "theme": "商業銀行",
       "changePercent": -2.305092579219509,
-      "reason": "摩根大通因軟體錯誤導致全國性銀行服務中斷。"
+      "reason": "摩根大通傳出系統故障，導致部分交易緩慢。"
     },
     {
       "symbol": "HD",
       "name": "Home Depot, Inc.",
       "theme": "居家修繕零售",
       "changePercent": -0.33840947546531497,
-      "reason": "家得寶將於11月17日發布第三季度財報，並擴大全國快遞服務。"
+      "reason": "家得寶公布優於預期的第三季財報並更新2026財年指引。"
     },
     {
       "symbol": "HOOD",
       "name": "Robinhood Markets, Inc. Class A Common Stock",
       "theme": "線上券商",
       "changePercent": -7.449267916773692,
-      "reason": "Robinhood因有報導稱Kalshi將進入股票交易領域，導致股價下跌。"
+      "reason": "Robinhood因加密貨幣交易量下降與高盛下調目標價而下跌。"
     },
     {
       "symbol": "TXN",
       "name": "Texas Instruments Incorporated",
       "theme": "類比晶片",
       "changePercent": -3.092885375494085,
-      "reason": "德州儀器CEO將於12月1日在UBS全球科技與AI大會發表演講，討論業務展望。"
+      "reason": "德州儀器受半導體市場情緒疲軟及終端需求低迷影響。"
     },
     {
       "symbol": "PEP",
       "name": "PepsiCo, Inc.",
       "theme": "飲料食品",
       "changePercent": 0.680693069306937,
-      "reason": "百事公司因北美銷售下滑而裁員1000人，並面臨分析師降級。"
+      "reason": "百事公司因分析師下調評級及北美業務裁員消息而下跌。"
     },
     {
       "symbol": "CAT",
       "name": "Caterpillar Inc.",
       "theme": "重型機械",
       "changePercent": -4.950016661112968,
-      "reason": "卡特彼勒股價下跌，投資者擔憂AI數據中心需求可能見頂。"
+      "reason": "Caterpillar將先進安全技術列為新建築設備標準配備。"
     },
     {
       "symbol": "APP",
       "name": "Applovin Corporation Class A Common Stock",
       "theme": "行動廣告",
       "changePercent": 1.4959667562943055,
-      "reason": "Applovin近期公布了優於預期的第三季度財報與強勁的第四季度財測。"
+      "reason": "Applovin受惠於Jefferies上調目標價及第三季營收成長強勁。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交值前段個股主要集中在AI晶片、記憶體、消費電子和雲端服務等科技巨頭。AI晶片股如Nvidia、AMD雖然成交金額高，但跌幅較大，顯示市場對AI相關題材的看法可能出現分歧或獲利了結賣壓。記憶體類股美光和SanDisk也出現較大跌幅，可能與近期財報表現或對產業前景的擔憂有關。此外，零售百貨、飲料食品、民生消費、數位支付和行動廣告等族群也有資金進駐，顯示市場資金在科技股之外，也開始關注其他消費相關板塊。",
+    "highlights": "本日美股成交值前段個股主要集中在AI晶片、記憶體和雲端軟體SaaS等科技題材，顯示市場資金仍高度關注人工智慧相關領域的發展。Nvidia、Micron和AMD等AI晶片及記憶體大廠的成交金額位居前列，儘管股價普遍下跌，但仍吸引大量資金交易，反映投資人對這些公司的未來成長潛力抱有期待，同時也可能存在對短期波動的擔憂。此外，SpaceX作為太空科技股也榜上有名，其AI業務的強勁成長故事也成為市場焦點。",
     "eventsPast": [
       {
-        "title": "微軟2026 Q3財報優於預期，Azure雲端業務強勁成長",
-        "detail": "微軟（MSFT）於2026年10月28日盤後公布2026年第三季財報，營收和非GAAP EPS均優於市場預期，其中Azure雲端業務年增48%，顯示AI需求帶動雲端服務持續擴大。"
+        "title": "Nvidia 執行長黃仁勳辭職，市場關注後續產品策略與競爭力",
+        "detail": "Nvidia 執行長黃仁勳於11月12日辭職，由財務長Colette Kress暫代CEO，市場正密切關注後黃仁勳時代的產品策略及產品迭代競爭力能否延續。"
       },
       {
-        "title": "蘋果2026 Q4財報營收創新高，但服務業務成長放緩且記憶體成本上升",
-        "detail": "蘋果（AAPL）於2026年11月2日公布2026財年第四季財報，營收達1145億美元，創下9月季度紀錄，但服務業務成長放緩，且執行長坦言記憶體價格漲幅「史無前例」，預計將影響毛利率。"
+        "title": "SpaceX 第三季財報亮眼，AI業務成為主要成長動能",
+        "detail": "SpaceX 於10月20日公布第三季財報，營收年增161%，其中AI部門營收佔總營收一半以上，並實現上市後首次獲利。"
       },
       {
-        "title": "AMD 2026 Q3財報創紀錄，資料中心業務營收年增97%",
-        "detail": "AMD（AMD）於2026年11月3日公布2026年第三季財報，營收創下紀錄，其中資料中心業務營收年增97%，主要受惠於AMD Instinct GPU和EPYC處理器銷售強勁。"
+        "title": "Intel 第三季財報優於預期，數據中心業務成長強勁",
+        "detail": "Intel 於10月29日公布第三季財報，營收和每股盈餘均超出預期，數據中心業務營收年增21%，為15年來最快增速。"
       },
       {
-        "title": "SanDisk上季財報亮眼，但市場關注榮景能否延續",
-        "detail": "快閃記憶體與儲存大廠SanDisk（SNDK）於2026年10月31日公布上季財報，營收成長378%，毛利率達85.1%，本季獲利展望也優於預期，但市場更關注榮景能延續多久，導致股價下跌。"
+        "title": "Alphabet 第三季財報：Google Cloud營收翻倍成長",
+        "detail": "Alphabet 於10月28日公布第三季財報，總營收年增25%，其中Google Cloud營收成長103%至307億美元，主要受惠於AI基礎設施和解決方案的強勁需求。"
       },
       {
-        "title": "英特爾2026 Q3獲利優於預期，但Q4財測疲弱導致股價重挫",
-        "detail": "英特爾（INTC）於2026年10月29日盤後公布第三季財報，當季獲利優於預期，但第四季營收與調整後EPS指引明顯低於市場預期，導致隔日股價重挫近29%。"
+        "title": "Tesla 第三季財報：營業利益年減56%，但自由現金流轉正",
+        "detail": "Tesla 於10月22日公布第三季財報，營收與市場預期大致持平，非GAAP每股盈餘略優於預期，但營業利益年減56%，主要受AI訓練算力折舊與晶片研發投入增加影響，不過自由現金流由負轉正。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "2027年1月下旬",
-        "title": "微軟2026 Q4財報公布",
-        "detail": "微軟（MSFT）預計於2027年1月下旬公布2026財年第四季財報，市場將持續關注其雲端服務Azure的成長動能以及AI相關業務的表現。"
-      },
-      {
-        "date": "2027年2月上旬",
-        "title": "亞馬遜2026 Q4財報公布",
-        "detail": "亞馬遜（AMZN）預計於2027年2月上旬公布2026財年第四季財報，市場將關注其AWS雲端服務的營收成長、自由現金流變化以及AI投資的轉化效益。"
-      },
-      {
-        "date": "本週四",
-        "title": "SanDisk股票分割生效",
-        "detail": "SanDisk（SNDK）的股票分割將於2026年11月20日生效，每1股拆為8股，此舉旨在讓一般投資人與員工更容易取得股票。"
+        "date": "11/17",
+        "title": "Nvidia (NVDA) 2027會計年度第三季財報公布",
+        "detail": "Nvidia 將於美東時間11月17日收盤後公布2027會計年度第三季財報，市場預期股價可能出現8.27%的波動，並關注其庫存規模與供應承諾。"
       }
     ]
   }
