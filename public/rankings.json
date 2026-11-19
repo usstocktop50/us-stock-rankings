@@ -60,7 +60,7 @@
       "dollarVolume": 12076857208.628834,
       "marketCap": 5121867545900,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "消費電子",
+      "theme": "消費性電子",
       "isNew": false,
       "rankChange": 0,
       "streak": 176
@@ -86,7 +86,7 @@
       "dollarVolume": 10966490220.024384,
       "marketCap": 2895109650048.44,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電子商務與雲端",
+      "theme": "電商與雲端服務",
       "isNew": false,
       "rankChange": 1,
       "streak": 176
@@ -125,7 +125,7 @@
       "dollarVolume": 9202464634.360235,
       "marketCap": 1690103653703.25,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "AI 晶片",
+      "theme": "AI 基礎設施",
       "isNew": false,
       "rankChange": 1,
       "streak": 176
@@ -138,7 +138,7 @@
       "dollarVolume": 7742037982.860391,
       "marketCap": 1663006720000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "雲端服務與AI",
+      "theme": "雲端與AI服務",
       "isNew": false,
       "rankChange": -1,
       "streak": 176
@@ -177,7 +177,7 @@
       "dollarVolume": 6107386598.355546,
       "marketCap": 1557656800000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "雲端服務與AI",
+      "theme": "雲端與AI服務",
       "isNew": false,
       "rankChange": 0,
       "streak": 176
@@ -203,7 +203,7 @@
       "dollarVolume": 4430811173.353039,
       "marketCap": 290571050000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "CPU與邊緣AI",
       "isNew": false,
       "rankChange": -1,
       "streak": 176
@@ -281,7 +281,7 @@
       "dollarVolume": 2940793668.2924566,
       "marketCap": 26599493378.92,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端基礎設施",
+      "theme": "雲端運算",
       "isNew": false,
       "rankChange": 3,
       "streak": 27
@@ -320,7 +320,7 @@
       "dollarVolume": 2841552831.470523,
       "marketCap": 127624026000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "資料中心晶片",
+      "theme": "資料中心互連",
       "isNew": false,
       "rankChange": -9,
       "streak": 166
@@ -359,7 +359,7 @@
       "dollarVolume": 2552022644.700582,
       "marketCap": 154326360758.30002,
       "sector": "RETAIL-FAMILY CLOTHING STORES",
-      "theme": "零售服飾",
+      "theme": "服飾零售",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -385,7 +385,7 @@
       "dollarVolume": 2450298049.973298,
       "marketCap": 204388923906.52002,
       "sector": "ELECTRONIC & OTHER ELECTRICAL EQUIPMENT (NO COMPUTER EQUIP)",
-      "theme": "電力設備",
+      "theme": "電力基礎建設",
       "isNew": false,
       "rankChange": -13,
       "streak": 26
@@ -411,7 +411,7 @@
       "dollarVolume": 2330560882.3519373,
       "marketCap": 360452757254.43,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "大數據與AI",
+      "theme": "大數據分析與AI",
       "isNew": false,
       "rankChange": -6,
       "streak": 176
@@ -424,7 +424,7 @@
       "dollarVolume": 2207732556.5467896,
       "marketCap": 860709597961.99,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "銀行",
+      "theme": "金融銀行",
       "isNew": false,
       "rankChange": -6,
       "streak": 3
@@ -450,7 +450,7 @@
       "dollarVolume": 2142037067.3100386,
       "marketCap": 211277409328.72,
       "sector": "SERVICES-MISCELLANEOUS AMUSEMENT & RECREATION",
-      "theme": "串流媒體與娛樂",
+      "theme": "串流與娛樂",
       "isNew": false,
       "rankChange": 1,
       "streak": 2
@@ -528,7 +528,7 @@
       "dollarVolume": 1990054747.6193419,
       "marketCap": 50551380685.21999,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "燃料電池",
+      "theme": "氫能源",
       "isNew": false,
       "rankChange": -11,
       "streak": 56
@@ -541,7 +541,7 @@
       "dollarVolume": 1963985439.4680705,
       "marketCap": 255689896605.97998,
       "sector": "CONSTRUCTION MACHINERY & EQUIP",
-      "theme": "重型機械",
+      "theme": "工業機械",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -554,7 +554,7 @@
       "dollarVolume": 1959878990.446093,
       "marketCap": 337489222483.45996,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "銀行",
+      "theme": "金融銀行",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -593,7 +593,7 @@
       "dollarVolume": 1825922964.8542922,
       "marketCap": 49982049000.00001,
       "sector": "COMMUNICATIONS EQUIPMENT, NEC",
-      "theme": "光通訊",
+      "theme": "光通訊元件",
       "isNew": false,
       "rankChange": -18,
       "streak": 94
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-11-18T20:00:00.000Z",
-  "generatedAt": "2026-11-19T08:09:11.553Z",
+  "generatedAt": "2026-11-19T10:43:17.160Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "資安",
-      "reason": "隨著網路威脅日益增加，企業對資安解決方案的需求持續成長，帶動相關軟體服務股表現強勁。",
+      "reason": "隨著網路攻擊日益頻繁，企業對資安解決方案的需求持續增長，推動相關軟體公司股價上漲。",
       "symbols": [
         "PANW",
         "CRWD"
@@ -667,27 +667,37 @@
       "avgChange": 8.925158341153795
     },
     {
-      "theme": "AI 晶片",
-      "reason": "市場對人工智慧發展前景持續樂觀，AI晶片需求旺盛，帶動相關供應鏈股價上漲。",
+      "theme": "雲端與AI服務",
+      "reason": "大型科技公司持續投入AI研發與雲端服務擴張，市場看好其長期成長潛力。",
       "symbols": [
-        "AMD",
-        "AVGO"
+        "GOOGL",
+        "GOOG"
       ],
       "count": 2,
-      "avgChange": 4.477200417043346
+      "avgChange": 0.6878989276905911
     },
     {
       "theme": "零售百貨",
-      "reason": "部分零售商公佈的財報或銷售數據優於預期，提振了市場對消費支出的信心。",
+      "reason": "部分零售商因財報表現或市場預期改善，吸引資金流入。",
       "symbols": [
+        "TJX",
         "TGT"
       ],
-      "count": 1,
-      "avgChange": 4.011784617313362
+      "count": 2,
+      "avgChange": 6.029766009080253
     },
     {
-      "theme": "電子商務與雲端",
-      "reason": "大型科技公司在電子商務和雲端服務領域的持續成長潛力，吸引資金流入。",
+      "theme": "AI 晶片",
+      "reason": "AI應用需求持續爆發，市場對AI晶片設計公司的前景保持樂觀。",
+      "symbols": [
+        "AMD"
+      ],
+      "count": 1,
+      "avgChange": 5.309787250948523
+    },
+    {
+      "theme": "電商與雲端服務",
+      "reason": "電商巨頭在雲端服務領域的強勁表現，持續受到市場關注。",
       "symbols": [
         "AMZN"
       ],
@@ -695,17 +705,8 @@
       "avgChange": 3.8194579084105715
     },
     {
-      "theme": "串流媒體與娛樂",
-      "reason": "娛樂產業巨頭在串流服務訂閱數或內容策略方面傳出利好消息，推升股價。",
-      "symbols": [
-        "DIS"
-      ],
-      "count": 1,
-      "avgChange": 4.634855481443477
-    },
-    {
       "theme": "遊戲軟體",
-      "reason": "遊戲產業受惠於新作發布或銷售表現亮眼，市場預期其營收將持續成長。",
+      "reason": "遊戲產業在新作發布或市場預期帶動下，相關公司股價有所表現。",
       "symbols": [
         "TTWO"
       ],
@@ -719,104 +720,114 @@
       "name": "CrowdStrike Holdings, Inc. Class A Common Stock",
       "theme": "資安",
       "changePercent": 7.946989707623639,
-      "reason": "資安題材受關注，公司宣布AI安全新功能並與雲端供應商合作。"
+      "reason": "受惠於資安產業利多，機構投資者信心增強，且AI資安工具及合作夥伴關係擴展。"
     },
     {
       "symbol": "TTWO",
       "name": "Take-Two Interactive Software Inc",
       "theme": "遊戲軟體",
       "changePercent": 6.217819840141228,
-      "reason": "《俠盜獵車手6》即將推出，預期首週銷售額將創紀錄。"
+      "reason": "《俠盜獵車手VI》即將上市，預購量創歷史新高，帶動股價上漲。"
     },
     {
       "symbol": "TJX",
       "name": "TJX Companies, Inc. (The)",
-      "theme": "零售服飾",
+      "theme": "服飾零售",
       "changePercent": 8.047747400847145,
-      "reason": "財報優於預期，上修全年財測，預計假日購物季動能加速。"
+      "reason": "第三季財報優於預期，同店銷售成長4%，並上調全年財測。"
     },
     {
       "symbol": "STX",
       "name": "Seagate Technology Holdings PLC Ordinary Shares (Ireland)",
       "theme": "儲存裝置",
       "changePercent": 2.279936558287074,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "第一季財報營收與EPS皆優於預期，並受惠於AI及雲端基礎設施對儲存需求。"
     },
     {
       "symbol": "CVX",
       "name": "Chevron Corporation",
       "theme": "石油與天然氣",
       "changePercent": -4.742516078286217,
-      "reason": "美國與委內瑞拉石油交易，Chevron將投資70億美元擴大委內瑞拉業務。"
+      "reason": "傳聞將以50億美元收購Beacon Offshore Energy多數股權，擴大墨西哥灣業務。"
     },
     {
       "symbol": "TGT",
       "name": "Target Corporation",
       "theme": "零售百貨",
       "changePercent": 4.011784617313362,
-      "reason": "財報優於預期，銷售成長強勁，並上修全年財測。"
+      "reason": "第三季銷售額優於預期，並第三度上調全年財測，新CEO的轉型計畫奏效。"
     },
     {
       "symbol": "CSCO",
       "name": "Cisco Systems, Inc. Common Stock (DE)",
       "theme": "網路設備",
       "changePercent": 2.1764272947113947,
-      "reason": "推出新的AI安全工具，強化企業資安產品。"
+      "reason": "第一季營收及EPS成長率創15年新高，並上調2027財年AI營收預期。"
     },
     {
       "symbol": "CAT",
       "name": "Caterpillar Inc.",
-      "theme": "重型機械",
+      "theme": "工業機械",
       "changePercent": -2.1058532910527483,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "宣布將先進安全技術列為2027年新建築設備標準，並擴展小型設備租賃業務。"
     },
     {
       "symbol": "BAC",
       "name": "Bank of America Corporation",
-      "theme": "銀行",
+      "theme": "金融銀行",
       "changePercent": -1.0720064724919118,
       "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI晶片與資安兩大族群。AI晶片方面，Nvidia（NVDA）因執行長黃仁勳辭職風波及市場對AI投資過度的擔憂，股價持續承壓，但其優於預期的財報和強勁財測仍顯示AI晶片需求旺盛，只是市場對領導層變動仍有疑慮。 另一方面，AMD（AMD）受惠於AI併購利多與同業財報激勵，股價逆勢走強。 資安族群則由Palo Alto Networks（PANW）帶動，因其財報表現亮眼並上調財測，加上宣布收購AI新創公司，市場看好AI資安需求爆發帶來的成長潛力。 此外，記憶體類股Micron（MU）受到AI晶片族群拋售及工安意外影響而下跌，但長期來看，市場仍預期記憶體景氣將回升。",
+    "highlights": "本日美股成交重點聚焦於AI晶片、資安、電商與雲端服務等科技相關族群。輝達（NVDA）公布優於預期的財報與財測，帶動AI晶片類股如超微（AMD）和博通（AVGO）走強，儘管輝達自身股價最終下跌，但市場對AI產業的信心仍存。資安類股則受惠於Palo Alto Networks（PANW）財報亮眼及國土安全部長對AI攻擊增加的警告，顯示市場對數位韌性相關投資的需求升溫。此外，AI新創Anthropic的IPO認購熱潮也反映了投資人對生成式AI商業化前景的期待。",
     "eventsPast": [
       {
-        "title": "Nvidia (NVDA) 財報優於預期，但股價承壓",
-        "detail": "Nvidia公布優於華爾街預期的上季財報及強勁展望，並調高下一財年營收成長率，顯示AI晶片需求依然強勁，但受執行長黃仁勳辭職風波影響，股價仍持續下跌。"
+        "title": "輝達（NVDA）公布優於預期財報與財測",
+        "detail": "輝達於美東時間11月17日盤後公布2027會計年度第三季財報，營收和獲利均優於市場預期，並給出強勁的第四季營收預估，顯示AI晶片需求依然旺盛。"
       },
       {
-        "title": "Palo Alto Networks (PANW) 財報亮眼並上調財測",
-        "detail": "Palo Alto Networks公布2027會計年度第一季財報，營收與每股盈餘均超越預期，並宣布以45億美元收購AI新創公司Applied Compute，激勵股價大漲。"
+        "title": "Palo Alto Networks（PANW）財報亮眼帶動資安族群",
+        "detail": "Palo Alto Networks於11月18日盤後公布財報，獲利與營收優於預期，新世代資安ARR年增66%，並上調全年指引，同時宣布以45億美元收購AI新創Applied Compute，推動股價大漲近10%。"
       },
       {
-        "title": "AMD (AMD) 受AI併購與同業利多激勵",
-        "detail": "Advanced Micro Devices (AMD) 完成對Fei-Fei Li旗下World Labs的82億美元收購，加上Nvidia財報利多，帶動股價逆勢走強。"
+        "title": "AI新創Anthropic IPO認購熱烈",
+        "detail": "Claude聊天機器人開發商Anthropic即將進行IPO，市場傳出認購需求接近可售股數的七倍，預計將以每股78美元或更高價格定價，反映市場對AI公司的濃厚興趣。"
       },
       {
-        "title": "Micron Technology (MU) 受AI晶片拋售及工安意外影響",
-        "detail": "Micron Technology股價下跌，主要受到Nvidia領導層變動拖累AI晶片族群遭拋售，以及台中廠區發生工安事故的雙重壓力。"
+        "title": "蘋果（AAPL）多項服務出現異常",
+        "detail": "美東時間11月17日，蘋果的iCloud、App Store、Apple Music等多項服務出現異常，Apple Pay和iPhone啟用也受影響，蘋果表示事故由內部更新引起，已陸續恢復。"
       },
       {
-        "title": "Apple (AAPL) 多項服務中斷",
-        "detail": "Apple Music、App Store和AppleCare服務於11月17日出現全面中斷，iCloud登入界面也存在問題，蘋果表示事故由內部更新引起，並排除網路攻擊。"
+        "title": "遊戲大作《GTA VI》掀熱潮，Take-Two（TTWO）股價飆升",
+        "detail": "《Grand Theft Auto VI》上市後玩家反應熱烈，媒體評價高，發行商Take-Two Interactive（TTWO）股價單日上漲逾8%，券商上調其銷量預估，並預期將帶動整體遊戲市場及周邊消費。"
       }
     ],
     "eventsUpcoming": [
       {
         "date": "11/19",
-        "title": "Walmart (WMT) 財報公布",
-        "detail": "零售巨頭沃爾瑪將公布財報，市場關注其「低價抗通膨策略」能否成功守住客流量，以及對年底假日購物季的景氣展望。"
+        "title": "美國聯準會官員針對AI與金融穩定發表談話",
+        "detail": "聯準會理事Michael S. Barr將在FinRegLab 2026 AI研討會上討論人工智慧議題，可能涉及AI對金融穩定性的影響。"
       },
       {
-        "date": "12/10",
-        "title": "聯準會 (Fed) 利率決議",
-        "detail": "聯邦公開市場委員會 (FOMC) 將於12月8日至9日舉行會議，並於台灣時間12月10日凌晨3:00公布利率決議，此次會議將包含經濟預測和點陣圖，對市場有重大影響。"
+        "date": "11/25",
+        "title": "美國10月PCE物價指數公布",
+        "detail": "美國將公布10月個人消費支出（PCE）物價指數，此為聯準會關注的通膨指標，可能影響未來貨幣政策走向。"
       },
       {
-        "date": "時間未定",
-        "title": "Anthropic IPO",
-        "detail": "Claude開發商Anthropic即將進行首次公開募股 (IPO)，市場將其視為對人工智慧 (AI) 產業信心的考驗。"
+        "date": "11/26",
+        "title": "感恩節美股休市",
+        "detail": "美國股市因感恩節全天休市。"
+      },
+      {
+        "date": "12/1",
+        "title": "CrowdStrike（CRWD）公布財報",
+        "detail": "資安公司CrowdStrike預計公布下一季財報，將是驗證其AI安全產品市場認可度及平台整合效益的關鍵。"
+      },
+      {
+        "date": "12/8-12/9",
+        "title": "FOMC會議",
+        "detail": "美國聯準會將召開本年度最後一次FOMC會議，並將公布新一輪經濟預測與點陣圖，市場高度關注其對未來利率路徑的指引。"
       }
     ]
   }
