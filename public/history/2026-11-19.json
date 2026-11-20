@@ -6,7 +6,7 @@
       "price": 97.17,
       "changePercent": -12.852017937219728,
       "dollarVolume": 87435143009.06042,
-      "marketCap": 721777962331.47,
+      "marketCap": 1271631975667.47,
       "sector": "—",
       "theme": "AI 軟體",
       "isNew": true,
@@ -123,7 +123,7 @@
       "price": 94.395,
       "changePercent": -2.713148334235147,
       "dollarVolume": 12134730170.549547,
-      "marketCap": 13431404609.175,
+      "marketCap": 107451236873.4,
       "sector": "COMPUTER STORAGE DEVICES",
       "theme": "儲存裝置",
       "isNew": false,
@@ -190,7 +190,7 @@
       "dollarVolume": 7595916880.203995,
       "marketCap": 296151800000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體製造",
+      "theme": "AI 晶片",
       "isNew": false,
       "rankChange": 1,
       "streak": 177
@@ -229,7 +229,7 @@
       "dollarVolume": 6492272902.0452585,
       "marketCap": 1826105630659.9998,
       "sector": "—",
-      "theme": "半導體製造",
+      "theme": "晶圓代工",
       "isNew": false,
       "rankChange": -1,
       "streak": 177
@@ -281,7 +281,7 @@
       "dollarVolume": 3957771292.011206,
       "marketCap": 21270556328.96,
       "sector": "—",
-      "theme": "AI 軟體",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": 2,
       "streak": 102
@@ -489,7 +489,7 @@
       "dollarVolume": 2415956130.118391,
       "marketCap": 244456962129.99,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "投資銀行",
+      "theme": "金融服務",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -567,7 +567,7 @@
       "dollarVolume": 2240773342.4344187,
       "marketCap": 850379276971.9801,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "商業銀行",
+      "theme": "金融服務",
       "isNew": false,
       "rankChange": -11,
       "streak": 4
@@ -652,22 +652,13 @@
     }
   ],
   "asOf": "2026-11-19T20:00:00.000Z",
-  "generatedAt": "2026-11-20T07:58:51.987Z",
+  "generatedAt": "2026-11-20T10:23:45.332Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
-      "theme": "生技製藥",
-      "reason": "特定藥物研發進展或臨床數據公布，帶動相關個股表現。",
-      "symbols": [
-        "INSM"
-      ],
-      "count": 1,
-      "avgChange": 20.58430717863106
-    },
-    {
       "theme": "資安",
-      "reason": "網路安全威脅日益增加，企業對資安解決方案的需求持續成長。",
+      "reason": "網路安全需求持續增長，企業對資料保護的投資增加。",
       "symbols": [
         "PANW",
         "CRWD"
@@ -677,7 +668,7 @@
     },
     {
       "theme": "儲存裝置",
-      "reason": "數據儲存需求增加以及新技術的應用，推動儲存裝置產業發展。",
+      "reason": "AI 和大數據的發展推動了對高效能儲存解決方案的需求。",
       "symbols": [
         "WDC",
         "STX"
@@ -686,8 +677,17 @@
       "avgChange": 2.0224160969487013
     },
     {
-      "theme": "半導體製造",
-      "reason": "全球半導體供應鏈調整與技術創新，部分廠商受惠。",
+      "theme": "生技製藥",
+      "reason": "特定藥物研發進展或臨床試驗數據公布，帶動相關個股表現。",
+      "symbols": [
+        "INSM"
+      ],
+      "count": 1,
+      "avgChange": 20.58430717863106
+    },
+    {
+      "theme": "AI 晶片",
+      "reason": "儘管整體市場下跌，但AI晶片領域仍有部分個股因特定利好或市場預期而逆勢上漲。",
       "symbols": [
         "INTC"
       ],
@@ -695,22 +695,22 @@
       "avgChange": 1.9206145966709294
     },
     {
-      "theme": "通訊晶片",
-      "reason": "5G、AIoT等新興技術發展，帶動通訊晶片需求。",
-      "symbols": [
-        "QCOM"
-      ],
-      "count": 1,
-      "avgChange": 1.3766347537700947
-    },
-    {
       "theme": "光學元件",
-      "reason": "光學技術在多個領域的應用擴展，如資料中心、感測器等。",
+      "reason": "光學技術在數據中心、通訊和感測領域的應用日益廣泛。",
       "symbols": [
         "COHR"
       ],
       "count": 1,
       "avgChange": 0.9866566434880635
+    },
+    {
+      "theme": "通訊晶片",
+      "reason": "5G和物聯網等技術的普及，推動了對通訊晶片的需求。",
+      "symbols": [
+        "QCOM"
+      ],
+      "count": 1,
+      "avgChange": 1.3766347537700947
     }
   ],
   "newEntrants": [
@@ -719,108 +719,128 @@
       "name": "Anthropic, PBC Class A Common Stock",
       "theme": "AI 軟體",
       "changePercent": -12.852017937219728,
-      "reason": "AI軟體公司Anthropic近期完成史上最大規模IPO，估值達1.5兆美元，引發市場高度關注。"
+      "reason": "Anthropic首次公開募股(IPO)定價並於今日開始交易，引發市場高度關注與交易量。"
     },
     {
       "symbol": "SKHY",
       "name": "SK hynix Inc. American Depositary Shares",
       "theme": "記憶體",
       "changePercent": -2.670041642851307,
-      "reason": "SK海力士受Nvidia動盪、DRAM訴訟及記憶體市場擔憂影響，股價下跌。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "WDC",
       "name": "Western Digital Corp.",
       "theme": "儲存裝置",
       "changePercent": 2.980672473021262,
-      "reason": "Western Digital最近一季財報表現優於預期，EPS和營收均超出分析師預估。"
+      "reason": "受惠於AI數據增長，Western Digital強調其可擴展儲存基礎設施的重要性。"
     },
     {
       "symbol": "COHR",
       "name": "Coherent Corp.",
       "theme": "光學元件",
       "changePercent": 0.9866566434880635,
-      "reason": "Coherent Corp.獲得分析師普遍「買入」評級，平均目標價顯示潛在漲幅。"
+      "reason": "董事會批准20億美元庫藏股計畫，並宣布200億美元PhotonLink長期合約。"
     },
     {
       "symbol": "LRCX",
       "name": "Lam Research Corp",
       "theme": "半導體設備",
       "changePercent": -3.774743704823537,
-      "reason": "Lam Research最新財報EPS和營收均超預期，且2027年設備支出展望樂觀。"
+      "reason": "宣布250億美元庫藏股計畫及季度股息，並參與多個產業會議。"
     },
     {
       "symbol": "GS",
       "name": "Goldman Sachs Group Inc.",
-      "theme": "投資銀行",
+      "theme": "金融服務",
       "changePercent": -2.9375386518243634,
-      "reason": "高盛第三季財報表現強勁，營收和EPS均超出預期，主要受全球銀行與市場部門帶動。"
+      "reason": "高盛第三季財報表現強勁，並擔任Anthropic IPO主承銷商。"
     },
     {
       "symbol": "MA",
       "name": "Mastercard Incorporated",
       "theme": "金融支付",
       "changePercent": -2.6221303449026228,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "近期公布第三季財報優於預期，並宣布參與投資者會議。"
     },
     {
       "symbol": "NFLX",
       "name": "NetFlix Inc",
       "theme": "串流媒體",
       "changePercent": -2.273487128050818,
-      "reason": "Netflix在2025年訂戶數達到3.25億，營收成長15.85%，廣告方案表現良好。"
+      "reason": "Netflix股價跌至兩年新低，市場權衡其可能競標2030年世界盃轉播權的成本。"
     },
     {
       "symbol": "KO",
       "name": "Coca-Cola Company",
       "theme": "飲料",
       "changePercent": -2.0389438270975635,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "可口可樂第三季財報表現亮眼，上調全年財測。"
     },
     {
       "symbol": "QCOM",
       "name": "Qualcomm Inc",
       "theme": "通訊晶片",
       "changePercent": 1.3766347537700947,
-      "reason": "Qualcomm發表新款Snapdragon 8 Elite Gen 6系列AI手機晶片，強調裝置端AI功能。"
+      "reason": "高通積極拓展AI和汽車領域，推動營收多元化成長。"
     },
     {
       "symbol": "INSM",
       "name": "Insmed, Inc.",
       "theme": "生技製藥",
       "changePercent": 20.58430717863106,
-      "reason": "Insmed的Brinsupri藥物在歐盟和日本獲批，且傳出Sanofi可能考慮收購。"
+      "reason": "傳聞Sanofi考慮收購Insmed，激勵股價飆升。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股市場的焦點主要集中在AI相關個股，特別是Anthropic（ANT）的首次公開募股（IPO）引發了市場對AI領域的熱情，儘管其股價在盤中出現大幅震盪，但仍帶動了AI軟體、AI晶片等相關族群的成交量。此外，記憶體族群因供應吃緊預期而受到關注，而資安題材也因AI應用帶來的潛在風險而浮上檯面。然而，市場也存在對AI巨額投資可持續性的疑慮，以及部分個股面臨的負面消息，使得整體市場呈現漲跌互見的局面。",
+    "highlights": "本日美股成交重點聚焦於AI相關個股與族群，主要受Anthropic首次公開募股（IPO）的強勁需求帶動，激勵市場對AI題材的信心，使AI軟體、AI晶片及記憶體等族群成為資金集中流向。儘管部分AI概念股面臨獲利了結壓力，但整體市場仍看好AI的長期發展潛力。此外，SpaceX的AI晶片採購計畫也為太空題材帶來關注。",
     "eventsPast": [
       {
-        "title": "Anthropic（ANT）成功IPO，募資813億美元",
-        "detail": "AI公司Anthropic於11月19日在那斯達克掛牌上市，IPO定價每股83美元，高於預期區間，募資金額達813億美元，創下史上最大規模IPO紀錄，公司估值約1.5兆美元，重新點燃投資人對AI交易的熱情。"
+        "title": "Anthropic IPO定價高於預期",
+        "detail": "AI公司Anthropic於2026年11月19日在那斯達克掛牌上市，IPO定價為每股83美元，高於原先預期的價格區間，成功募資810億美元，創下史上最大規模IPO紀錄，並提振了市場對AI股的信心。"
       },
       {
-        "title": "超微（AMD）遭做空機構質疑規避出口管制",
-        "detail": "做空機構Hunterbrook Media發布報告，質疑超微（AMD）產品韌體持續流入遭美國商務部列入黑名單的中國伺服器大廠，導致AMD股價重挫逾7%。"
+        "title": "AMD遭做空機構質疑中國業務風險",
+        "detail": "做空機構Hunterbrook Media發布報告，指控AMD可能規避美國法規，向受制裁的中國伺服器製造商提供韌體更新，導致AMD股價重挫7.72%。"
       },
       {
-        "title": "美光（MU）預期記憶體供給吃緊將長期化",
-        "detail": "美光技術長Scott DeBoer表示，由於AI應用對記憶體的需求強勁，預計2027年記憶體供給將較2026年更為吃緊，且供需不平衡將長期持續，市場解讀為中長期記憶體價格與獲利前景偏多。"
+        "title": "Micron警告記憶體供應將更緊縮",
+        "detail": "美光科技（Micron）總裁暨CTO Scott DeBoer表示，受AI系統需求爆增影響，記憶體供需長期失衡，預期2027年供應情況將比2026年更為緊張。"
       },
       {
-        "title": "資安議題因AI應用升溫，資安署研擬AI資安指引",
-        "detail": "數發部資安署表示，正在研擬政府機關AI資通安全參考指引，預計明年初發布，以應對大型語言模型（LLM）及AI代理（AI Agent）帶來的資安風險。"
+        "title": "SpaceX啟動400億美元融資採購AI晶片",
+        "detail": "馬斯克旗下的SpaceX據報最快本週內啟動400億美元融資，主要用於採購人工智能（AI）晶片，其中約40億美元可能在幾天內發售。"
       },
       {
-        "title": "特斯拉（TSLA）計畫推出無方向盤Model Y",
-        "detail": "特斯拉執行長馬斯克透露，公司計畫開發具備完全自動駕駛能力的無方向盤Model Y，瞄準六至七人座的無人自駕計程車市場。"
+        "title": "蘋果多項服務大規模中斷",
+        "detail": "蘋果（Apple）多項服務於台灣時間11月18日凌晨突發大規模異常，包括iCloud、App Store及Apple Music皆受影響，官方事後證實起因於內部更新。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "12/17",
-        "title": "美光科技（MU）公布2027財年第一季財報",
-        "detail": "美光科技將於12月17日公布其2027財年第一季財報，市場將關注其對記憶體市場前景的展望。"
+        "date": "本週五",
+        "title": "SpaceX「龍」飛船發射",
+        "detail": "SpaceX目前計畫「龍」飛船發射時間不早於11月20日。"
+      },
+      {
+        "date": "12月中旬",
+        "title": "蘋果iOS 27.3正式發布",
+        "detail": "蘋果預計在12月中旬正式發布iOS 27.3，此版本將包含Siri存取健康資料、iPhone Duo加入臉部解鎖等新功能。"
+      },
+      {
+        "date": "12月9日",
+        "title": "Broadcom第四季財報",
+        "detail": "博通（Broadcom）預定於12月9日公佈第四季與全年財報，將檢驗AI營收的成長步調能否繼續支撐股價。"
+      },
+      {
+        "date": "2027年1月10日",
+        "title": "美國對中企持股子公司管制暫緩期到期",
+        "detail": "美國出口規定將管制擴大到被列名企業持股至少50%子公司的規則，暫緩期將在2027年1月10日到期，一旦生效，可能進一步限制AMD等公司的海外業務。"
+      },
+      {
+        "date": "未來幾天",
+        "title": "特斯拉Optimus人形機器人演示",
+        "detail": "馬斯克表示，Optimus人形機器人有望在12至18個月內完成多步驟複雜操作，預計在未來兩個月內推出真實演示。"
       }
     ]
   }
