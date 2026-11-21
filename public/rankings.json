@@ -60,7 +60,7 @@
       "dollarVolume": 27860683003.314636,
       "marketCap": 4978144265920,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "消費性電子",
+      "theme": "消費電子",
       "isNew": false,
       "rankChange": 2,
       "streak": 178
@@ -73,7 +73,7 @@
       "dollarVolume": 23061726003.700493,
       "marketCap": 3598139784335.04,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體 SaaS",
+      "theme": "雲端軟體",
       "isNew": false,
       "rankChange": 0,
       "streak": 178
@@ -138,7 +138,7 @@
       "dollarVolume": 15852239845.462326,
       "marketCap": 1562027520000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "AI 軟體",
+      "theme": "雲端服務/AI",
       "isNew": false,
       "rankChange": -3,
       "streak": 178
@@ -177,7 +177,7 @@
       "dollarVolume": 11043011675.152735,
       "marketCap": 272553200000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "半導體",
+      "theme": "CPU/AI 晶片",
       "isNew": false,
       "rankChange": 1,
       "streak": 178
@@ -190,7 +190,7 @@
       "dollarVolume": 10478070018.592686,
       "marketCap": 90200074260.79999,
       "sector": "COMPUTER STORAGE DEVICES",
-      "theme": "記憶體",
+      "theme": "儲存裝置",
       "isNew": false,
       "rankChange": -5,
       "streak": 178
@@ -203,7 +203,7 @@
       "dollarVolume": 10374899056.601908,
       "marketCap": 1472856000000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "AI 軟體",
+      "theme": "雲端服務/AI",
       "isNew": false,
       "rankChange": -2,
       "streak": 178
@@ -242,7 +242,7 @@
       "dollarVolume": 5084179500.683012,
       "marketCap": 107227332000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網通晶片",
+      "theme": "資料中心晶片",
       "isNew": false,
       "rankChange": 1,
       "streak": 168
@@ -255,7 +255,7 @@
       "dollarVolume": 4922034602.525462,
       "marketCap": 305971845840,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體 SaaS",
+      "theme": "企業軟體",
       "isNew": false,
       "rankChange": 7,
       "streak": 178
@@ -385,7 +385,7 @@
       "dollarVolume": 4285660328.0645,
       "marketCap": 17844706305.28,
       "sector": "—",
-      "theme": "AI 軟體",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": -8,
       "streak": 103
@@ -398,7 +398,7 @@
       "dollarVolume": 4254981146.6192913,
       "marketCap": 42098555946.71,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "氫能源",
+      "theme": "燃料電池",
       "isNew": false,
       "rankChange": -1,
       "streak": 58
@@ -437,7 +437,7 @@
       "dollarVolume": 3922976384.905244,
       "marketCap": 824646420829.7699,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "銀行",
+      "theme": "大型銀行",
       "isNew": false,
       "rankChange": 10,
       "streak": 5
@@ -593,7 +593,7 @@
       "dollarVolume": 2912180791.567152,
       "marketCap": 97739548768.59001,
       "sector": "COMPUTER STORAGE DEVICES",
-      "theme": "資料儲存",
+      "theme": "儲存裝置",
       "isNew": false,
       "rankChange": -17,
       "streak": 2
@@ -619,7 +619,7 @@
       "dollarVolume": 2883396184.7840137,
       "marketCap": 357356074168.72003,
       "sector": "COMPUTER COMMUNICATIONS EQUIPMENT",
-      "theme": "網通設備",
+      "theme": "網路設備",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -632,7 +632,7 @@
       "dollarVolume": 2791863172.569044,
       "marketCap": 104911722424.09,
       "sector": "COMPUTER STORAGE DEVICES",
-      "theme": "資料儲存",
+      "theme": "儲存裝置",
       "isNew": false,
       "rankChange": -16,
       "streak": 3
@@ -645,20 +645,20 @@
       "dollarVolume": 2777197338.3419933,
       "marketCap": 72271303840,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體 SaaS",
+      "theme": "金融軟體",
       "isNew": true,
       "rankChange": null,
       "streak": 1
     }
   ],
   "asOf": "2026-11-20T20:00:00.000Z",
-  "generatedAt": "2026-11-21T07:55:34.459Z",
+  "generatedAt": "2026-11-21T10:11:53.124Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "零售百貨",
-      "reason": "在市場普遍下跌的環境下，民生必需品相關的零售百貨類股展現防禦性，吸引資金流入。",
+      "reason": "在市場普遍下跌的環境下，零售百貨類股因其防禦性特質和穩定的消費需求，受到部分資金青睞。",
       "symbols": [
         "WMT",
         "COST"
@@ -668,7 +668,7 @@
     },
     {
       "theme": "醫療保險",
-      "reason": "醫療保健產業的穩定性與剛性需求，使其在市場波動時成為資金避風港。",
+      "reason": "醫療保險產業通常被視為防禦性板塊，在經濟不確定性增加時，其穩定的現金流和需求使其表現相對抗跌。",
       "symbols": [
         "UNH"
       ],
@@ -677,7 +677,7 @@
     },
     {
       "theme": "生技製藥",
-      "reason": "大型製藥公司因其產品線穩定和分紅政策，在市場動盪時仍受青睞。",
+      "reason": "生技製藥產業因其產品的剛性需求和新藥研發潛力，在市場波動時仍能吸引部分資金關注。",
       "symbols": [
         "JNJ"
       ],
@@ -686,7 +686,7 @@
     },
     {
       "theme": "石油天然氣",
-      "reason": "能源價格波動和地緣政治因素可能推升油氣股表現。",
+      "reason": "能源股在通膨預期和地緣政治風險下，原油價格的波動可能使其獲得短期支撐。",
       "symbols": [
         "XOM"
       ],
@@ -700,94 +700,68 @@
       "name": "Texas Instruments Incorporated",
       "theme": "類比晶片",
       "changePercent": -7.699037620297462,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "德州儀器Q3財報優於預期，Q4財測受惠AI與工業需求，但股價仍下跌可能受整體市場氛圍影響。"
     },
     {
       "symbol": "ADI",
       "name": "Analog Devices, Inc.",
       "theme": "類比晶片",
       "changePercent": -8.350996184824073,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "Analog Devices Q3財報創歷史新高，Q4財測強勁，但股價下跌可能受半導體產業賣壓與財報隱憂影響。"
     },
     {
       "symbol": "XOM",
       "name": "ExxonMobil Holdings Corporation",
       "theme": "石油天然氣",
       "changePercent": 0.6669602969860959,
-      "reason": "宣布30億美元債務回購、股息調升3.9%，並投資125億美元於蓋亞那新開發案。"
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
     },
     {
       "symbol": "KLAC",
       "name": "KLA Corporation Common Stock",
       "theme": "半導體設備",
       "changePercent": -10.32654792196776,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "KLA Q4財報創紀錄，上修2026年晶圓設備市場預期，先進封裝營收大增。"
     },
     {
       "symbol": "CSCO",
       "name": "Cisco Systems, Inc. Common Stock (DE)",
-      "theme": "網通設備",
+      "theme": "網路設備",
       "changePercent": -4.287222808870118,
-      "reason": "推出360合作夥伴計畫升級、AI工具與Wi-Fi 7接入點。"
+      "reason": "Cisco Q1財報營收獲利優於預期，上調全年財測，AI基礎設施營收目標翻倍。"
     },
     {
       "symbol": "INTU",
       "name": "Intuit Inc",
-      "theme": "雲端軟體 SaaS",
+      "theme": "金融軟體",
       "changePercent": -12.766918263337846,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "Intuit Q1財報優於預期，但下修全年營收財測且宣布出售Mailchimp，引發市場擔憂。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點集中在AI相關個股，Nvidia、Micron、Anthropic、AMD、Broadcom、TSM、Intel、Sandisk等AI晶片與記憶體公司成交金額名列前茅，但普遍呈現大跌，Nvidia甚至暴跌14.01%。這波資金集中反映市場對AI產業的巨額資本支出與獲利能力產生疑慮，加上聯準會鷹派訊號導致降息期待降溫，高利率壓力衝擊科技股估值。Anthropic作為史上最大IPO，上市首日雖有大漲，但未能帶動AI族群反攻，反而加劇了市場對估值過高的擔憂，引發了科技股的全面拋售潮。",
+    "highlights": "本日美股市場的成交重點聚焦於AI晶片與AI軟體相關個股，其中Nvidia、Micron、Anthropic和AMD等AI概念股領跌，成交金額顯著。 資金集中在這些個股，主要受到市場對AI產業估值、資料中心建設與獲利前景的擔憂加劇，導致華爾街對「AI泡沫破裂」的恐慌情緒蔓延，引發劇烈拋售潮。 儘管AI新創公司Anthropic完成史上最大規模的IPO，且Nvidia繳出亮眼財報，市場仍未能止血。 另一方面，零售百貨、醫療保險、生技製藥和石油天然氣等防禦性板塊則有資金流入，顯示投資者正尋求相對穩定的企業盈利和現金流。",
     "eventsPast": [
       {
-        "title": "Anthropic IPO上市首日表現不如預期",
-        "detail": "AI軟體公司Anthropic於11月19日掛牌納斯達克，發行價83美元，募資813億美元創全球IPO紀錄，但股價開高走低，收盤漲幅收斂至17.07%，未能帶動AI族群反攻，反而加劇市場對估值過高的擔憂。"
+        "title": "美股遭遇六年來罕見暴跌，AI概念股全線崩潰",
+        "detail": "美股三大指數集體重挫，那斯達克綜合指數暴跌5.28%，創下自2020年3月疫情爆發以來最慘烈的單週表現，主要受AI產業估值擔憂影響。"
       },
       {
-        "title": "AMD遭放空機構狙擊，股價重挫",
-        "detail": "對沖基金Hunterbrook發布做空報告，質疑AMD與中國客戶及供應鏈的關係，儘管AMD立即反駁，股價仍重挫7.72%，拖累半導體類股走弱。"
+        "title": "Nvidia市值單週蒸發近9000億美元，並遭SEC會計調查",
+        "detail": "Nvidia股價週五暴跌近14%，創下自2025年1月以來最差單日表現，並錄得連續第七個交易日下跌，本週市值累計蒸發近9000億美元，同時美國證券交易委員會（SEC）正就其賬目問題進行調查。"
       },
       {
-        "title": "Nvidia面臨SEC會計調查與黃仁勳離職傳聞",
-        "detail": "Nvidia股價暴跌，市場傳出美國證券交易委員會（SEC）正調查其會計處理方式，並有黃仁勳離任的傳聞，加劇了市場對該公司的擔憂。"
+        "title": "Anthropic完成史上最大規模IPO，但股價仍重挫",
+        "detail": "AI新創公司Anthropic於11月19日在那斯達克上市，以每股83美元定價，透過IPO募資813億美元，成為史上最大IPO，但上市後股價仍重挫8.5%。"
       },
       {
-        "title": "美光科技示警記憶體缺貨恐加劇",
-        "detail": "美光高層警告，受AI帶動記憶體需求持續攀升影響，供應吃緊短期內難以緩解，2027年與2028年的缺貨程度可能比2026年更加嚴重。"
+        "title": "防禦性板塊逆勢上漲，資金轉向穩定企業",
+        "detail": "沃爾瑪、好市多、嬌生與寶僑等零售、醫療保健類股逆勢上漲約1%，顯示在科技股拋售潮中，投資者轉向尋求相對穩定的企業盈利和現金流。"
       },
       {
-        "title": "Intel先進製程取得突破",
-        "detail": "英特爾執行長陳立武宣布，公司已簽下首家採用先進18A系列製程的外部客戶，為其業務轉型帶來重要進展。"
+        "title": "科技巨頭承諾投資Anthropic 260億美元",
+        "detail": "Google、Nvidia、Microsoft、AMD、Broadcom、Micron和TSMC等七家主要科技公司已簽署協議，將透過私募方式總計購買Anthropic價值260億美元的A類普通股。"
       }
     ],
-    "eventsUpcoming": [
-      {
-        "date": "本週四",
-        "title": "Fed官員談話",
-        "detail": "市場將關注聯準會官員的談話，以評估未來的利率政策走向。"
-      },
-      {
-        "date": "未來幾天",
-        "title": "美國消費者信心指數",
-        "detail": "美國將公布11月密大消費者信心指數，此數據將影響市場對消費支出的預期。"
-      },
-      {
-        "date": "感恩節後",
-        "title": "美股反彈機會",
-        "detail": "美銀預測感恩節後美股有望出現超賣反彈，但更大一波漲勢仍需美債殖利率、原油與美元配合。"
-      },
-      {
-        "date": "11/25",
-        "title": "美國10月PCE物價指數",
-        "detail": "美國將公布10月個人消費支出（PCE）物價指數，這是聯準會偏好的通膨指標。"
-      },
-      {
-        "date": "11/26",
-        "title": "感恩節美股休市",
-        "detail": "美國股市因感恩節假期全天休市。"
-      }
-    ]
+    "eventsUpcoming": []
   }
 }
