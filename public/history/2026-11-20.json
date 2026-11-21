@@ -32,7 +32,7 @@
       "price": 88.91,
       "changePercent": -8.500566018318416,
       "dollarVolume": 34990097212.85766,
-      "marketCap": 1163536060065.81,
+      "marketCap": 1175358394581.3398,
       "sector": "—",
       "theme": "AI 軟體",
       "isNew": false,
@@ -229,7 +229,7 @@
       "dollarVolume": 5344007136.354281,
       "marketCap": 330129355578.21,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "大數據/AI 軟體",
+      "theme": "數據分析/AI",
       "isNew": false,
       "rankChange": 6,
       "streak": 178
@@ -242,7 +242,7 @@
       "dollarVolume": 5084179500.683012,
       "marketCap": 107227332000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "資料中心晶片",
+      "theme": "網通晶片",
       "isNew": false,
       "rankChange": 1,
       "streak": 168
@@ -489,7 +489,7 @@
       "dollarVolume": 3571564996.0015364,
       "marketCap": 87696734927.76,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "伺服器/PC",
+      "theme": "PC/伺服器",
       "isNew": false,
       "rankChange": 3,
       "streak": 16
@@ -541,7 +541,7 @@
       "dollarVolume": 3136535514.3438087,
       "marketCap": 21972527355.239998,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端運算",
+      "theme": "雲端基礎設施",
       "isNew": false,
       "rankChange": -19,
       "streak": 29
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-11-20T20:00:00.000Z",
-  "generatedAt": "2026-11-21T10:11:53.124Z",
+  "generatedAt": "2026-11-21T13:24:30.075Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "零售百貨",
-      "reason": "在市場普遍下跌的環境下，零售百貨類股因其防禦性特質和穩定的消費需求，受到部分資金青睞。",
+      "reason": "在市場普遍下跌的環境下，民生消費類股因其防禦性特質和穩定的需求，受到資金青睞。",
       "symbols": [
         "WMT",
         "COST"
@@ -667,17 +667,8 @@
       "avgChange": 1.1380110093477183
     },
     {
-      "theme": "醫療保險",
-      "reason": "醫療保險產業通常被視為防禦性板塊，在經濟不確定性增加時，其穩定的現金流和需求使其表現相對抗跌。",
-      "symbols": [
-        "UNH"
-      ],
-      "count": 1,
-      "avgChange": 2.8352699104333103
-    },
-    {
       "theme": "生技製藥",
-      "reason": "生技製藥產業因其產品的剛性需求和新藥研發潛力，在市場波動時仍能吸引部分資金關注。",
+      "reason": "醫療保健產業通常被視為防禦性板塊，在市場波動時能提供相對穩定的表現。",
       "symbols": [
         "JNJ"
       ],
@@ -686,12 +677,21 @@
     },
     {
       "theme": "石油天然氣",
-      "reason": "能源股在通膨預期和地緣政治風險下，原油價格的波動可能使其獲得短期支撐。",
+      "reason": "能源價格波動或地緣政治緊張可能推升能源類股表現，吸引部分避險資金。",
       "symbols": [
         "XOM"
       ],
       "count": 1,
       "avgChange": 0.6669602969860959
+    },
+    {
+      "theme": "醫療保險",
+      "reason": "醫療保健服務的需求穩定，使得醫療保險公司在市場不確定性中仍能維持其價值。",
+      "symbols": [
+        "UNH"
+      ],
+      "count": 1,
+      "avgChange": 2.8352699104333103
     }
   ],
   "newEntrants": [
@@ -700,14 +700,14 @@
       "name": "Texas Instruments Incorporated",
       "theme": "類比晶片",
       "changePercent": -7.699037620297462,
-      "reason": "德州儀器Q3財報優於預期，Q4財測受惠AI與工業需求，但股價仍下跌可能受整體市場氛圍影響。"
+      "reason": "近期技術指標轉弱且跌破短期均線，加上資金輪動，導致股價急跌。"
     },
     {
       "symbol": "ADI",
       "name": "Analog Devices, Inc.",
       "theme": "類比晶片",
       "changePercent": -8.350996184824073,
-      "reason": "Analog Devices Q3財報創歷史新高，Q4財測強勁，但股價下跌可能受半導體產業賣壓與財報隱憂影響。"
+      "reason": "受半導體產業賣壓與財報隱憂影響，工業與車用需求疲軟，股價重挫。"
     },
     {
       "symbol": "XOM",
@@ -721,47 +721,73 @@
       "name": "KLA Corporation Common Stock",
       "theme": "半導體設備",
       "changePercent": -10.32654792196776,
-      "reason": "KLA Q4財報創紀錄，上修2026年晶圓設備市場預期，先進封裝營收大增。"
+      "reason": "遭高盛列為共同基金低配標的，加上半導體產業修正，導致股價大跌。"
     },
     {
       "symbol": "CSCO",
       "name": "Cisco Systems, Inc. Common Stock (DE)",
       "theme": "網路設備",
       "changePercent": -4.287222808870118,
-      "reason": "Cisco Q1財報營收獲利優於預期，上調全年財測，AI基礎設施營收目標翻倍。"
+      "reason": "財報優於預期但因漲多遭獲利了結，且高階主管賣股影響信心。"
     },
     {
       "symbol": "INTU",
       "name": "Intuit Inc",
       "theme": "金融軟體",
       "changePercent": -12.766918263337846,
-      "reason": "Intuit Q1財報優於預期，但下修全年營收財測且宣布出售Mailchimp，引發市場擔憂。"
+      "reason": "下修全年營收財測，Credit Karma成長不如預期，並低價出售Mailchimp。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股市場的成交重點聚焦於AI晶片與AI軟體相關個股，其中Nvidia、Micron、Anthropic和AMD等AI概念股領跌，成交金額顯著。 資金集中在這些個股，主要受到市場對AI產業估值、資料中心建設與獲利前景的擔憂加劇，導致華爾街對「AI泡沫破裂」的恐慌情緒蔓延，引發劇烈拋售潮。 儘管AI新創公司Anthropic完成史上最大規模的IPO，且Nvidia繳出亮眼財報，市場仍未能止血。 另一方面，零售百貨、醫療保險、生技製藥和石油天然氣等防禦性板塊則有資金流入，顯示投資者正尋求相對穩定的企業盈利和現金流。",
+    "highlights": "本日美股成交重點聚焦於AI晶片與軟體相關個股，資金大量湧入Nvidia、Micron、Anthropic和AMD等，顯示市場對AI產業的未來發展仍抱持高度期待。然而，由於對高利率環境、AI資本支出與獲利能力、以及中國出口管制風險的擔憂，導致這些熱門股普遍出現大幅下跌。此外，醫療保險族群因新規上路而遭受重挫，而零售百貨、生技製藥、石油天然氣等族群則因個別公司消息或宏觀經濟因素而有所表現。",
     "eventsPast": [
       {
-        "title": "美股遭遇六年來罕見暴跌，AI概念股全線崩潰",
-        "detail": "美股三大指數集體重挫，那斯達克綜合指數暴跌5.28%，創下自2020年3月疫情爆發以來最慘烈的單週表現，主要受AI產業估值擔憂影響。"
+        "title": "AI巨頭Anthropic上市首日股價波動",
+        "detail": "AI軟體公司Anthropic於2026年11月19日在那斯達克交易所掛牌上市，發行價為每股83美元，首日收漲17%，但隔日即轉跌9.1%，顯示市場對其估值與獲利能力仍有疑慮。"
       },
       {
-        "title": "Nvidia市值單週蒸發近9000億美元，並遭SEC會計調查",
-        "detail": "Nvidia股價週五暴跌近14%，創下自2025年1月以來最差單日表現，並錄得連續第七個交易日下跌，本週市值累計蒸發近9000億美元，同時美國證券交易委員會（SEC）正就其賬目問題進行調查。"
+        "title": "Nvidia面臨SEC調查與高層離職",
+        "detail": "路透報導指出，美國證券交易委員會（SEC）正調查Nvidia的會計處理方式，且有核心工程師離職轉投競爭對手，加劇市場對其未來發展的擔憂，導致股價重挫。"
       },
       {
-        "title": "Anthropic完成史上最大規模IPO，但股價仍重挫",
-        "detail": "AI新創公司Anthropic於11月19日在那斯達克上市，以每股83美元定價，透過IPO募資813億美元，成為史上最大IPO，但上市後股價仍重挫8.5%。"
+        "title": "AMD遭做空機構狙擊",
+        "detail": "做空機構Hunterbrook發布報告，質疑AMD產品涉及中國出口管制風險，儘管AMD立即反駁，但股價仍重挫7.72%，拖累半導體類股全面走弱。"
       },
       {
-        "title": "防禦性板塊逆勢上漲，資金轉向穩定企業",
-        "detail": "沃爾瑪、好市多、嬌生與寶僑等零售、醫療保健類股逆勢上漲約1%，顯示在科技股拋售潮中，投資者轉向尋求相對穩定的企業盈利和現金流。"
+        "title": "醫療保險新規「CRUSH」上路",
+        "detail": "美國聯邦醫療服務中心（CMS）推出名為「CRUSH」的反欺詐法規，旨在強化對醫療保險的監管，引發市場對醫療保健類股盈利能力的擔憂，導致聯合健康（UNH）等個股重挫。"
       },
       {
-        "title": "科技巨頭承諾投資Anthropic 260億美元",
-        "detail": "Google、Nvidia、Microsoft、AMD、Broadcom、Micron和TSMC等七家主要科技公司已簽署協議，將透過私募方式總計購買Anthropic價值260億美元的A類普通股。"
+        "title": "SanDisk普通股完成1拆8",
+        "detail": "SanDisk Corporation（SNDK）普通股完成1拆8，股票於2026年11月20日（週五）開盤按拆股調整價交易。"
       }
     ],
-    "eventsUpcoming": []
+    "eventsUpcoming": [
+      {
+        "date": "本週四",
+        "title": "美國初領失業救濟金人數",
+        "detail": "市場將關注美國初領失業救濟金人數，以評估勞動市場的健康狀況。"
+      },
+      {
+        "date": "本週五",
+        "title": "美國8月標普全球製造業與服務業採購經理人指數（PMI）初值",
+        "detail": "此數據將提供美國製造業和服務業活動的初步評估，影響市場對經濟前景的判斷。"
+      },
+      {
+        "date": "未來幾天",
+        "title": "Fed官員談話",
+        "detail": "聯準會官員的公開談話將持續影響市場對未來利率政策的預期。"
+      },
+      {
+        "date": "未來幾天",
+        "title": "美國消費者信心數據",
+        "detail": "美國消費者信心數據將提供消費者支出意願的線索，對零售業和整體經濟有重要影響。"
+      },
+      {
+        "date": "未來幾週",
+        "title": "商務部長與黃仁勳出席國會聽證會",
+        "detail": "美國商務部長與Nvidia執行長黃仁勳將出席國會聽證會，市場預期AI概念股的情緒可能因此受到影響。"
+      }
+    ]
   }
 }
