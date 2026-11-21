@@ -1,0 +1,793 @@
+{
+  "rows": [
+    {
+      "symbol": "NVDA",
+      "name": "Nvidia Corp",
+      "price": 125.53,
+      "changePercent": -14.008768324427997,
+      "dollarVolume": 84663274059.67563,
+      "marketCap": 3025273000000,
+      "sector": "SEMICONDUCTORS & RELATED DEVICES",
+      "theme": "AI 晶片",
+      "isNew": false,
+      "rankChange": 1,
+      "streak": 178
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology, Inc.",
+      "price": 594.51,
+      "changePercent": -13.894038584091312,
+      "dollarVolume": 36513898478.91614,
+      "marketCap": 672642413766.12,
+      "sector": "SEMICONDUCTORS & RELATED DEVICES",
+      "theme": "記憶體",
+      "isNew": false,
+      "rankChange": 2,
+      "streak": 178
+    },
+    {
+      "symbol": "ANT",
+      "name": "Anthropic, PBC Class A Common Stock",
+      "price": 88.91,
+      "changePercent": -8.500566018318416,
+      "dollarVolume": 35006858402.99256,
+      "marketCap": 1163536060065.81,
+      "sector": "—",
+      "theme": "AI 軟體",
+      "isNew": false,
+      "rankChange": -2,
+      "streak": 2
+    },
+    {
+      "symbol": "AMD",
+      "name": "Advanced Micro Devices",
+      "price": 424.39,
+      "changePercent": -13.24638688444163,
+      "dollarVolume": 30934713261.70613,
+      "marketCap": 696036628451.89,
+      "sector": "SEMICONDUCTORS & RELATED DEVICES",
+      "theme": "AI 晶片",
+      "isNew": false,
+      "rankChange": -1,
+      "streak": 178
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "price": 342.56,
+      "changePercent": -1.9042982732453189,
+      "dollarVolume": 28030974575.778496,
+      "marketCap": 4978144265920,
+      "sector": "ELECTRONIC COMPUTERS",
+      "theme": "消費性電子",
+      "isNew": false,
+      "rankChange": 2,
+      "streak": 178
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corp",
+      "price": 484.52,
+      "changePercent": -2.7654023680513804,
+      "dollarVolume": 23094927762.333065,
+      "marketCap": 3598139784335.04,
+      "sector": "SERVICES-PREPACKAGED SOFTWARE",
+      "theme": "雲端軟體",
+      "isNew": false,
+      "rankChange": 0,
+      "streak": 178
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom Inc. Common Stock",
+      "price": 304.41,
+      "changePercent": -12.185201211596699,
+      "dollarVolume": 18769093684.20258,
+      "marketCap": 1453140667204.6501,
+      "sector": "SEMICONDUCTORS & RELATED DEVICES",
+      "theme": "AI 晶片",
+      "isNew": false,
+      "rankChange": 6,
+      "streak": 178
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.Com Inc",
+      "price": 246.82,
+      "changePercent": -4.099156855888414,
+      "dollarVolume": 18647277939.60622,
+      "marketCap": 2668898796686.92,
+      "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
+      "theme": "電子商務",
+      "isNew": false,
+      "rankChange": 1,
+      "streak": 178
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla, Inc. Common Stock",
+      "price": 345.82,
+      "changePercent": -7.6360139953526955,
+      "dollarVolume": 16420568276.727089,
+      "marketCap": 1366942752885.72,
+      "sector": "MOTOR VEHICLES & PASSENGER CAR BODIES",
+      "theme": "電動車",
+      "isNew": false,
+      "rankChange": 2,
+      "streak": 178
+    },
+    {
+      "symbol": "SPCX",
+      "name": "Space Exploration Technologies Corp. Class A Common Stock",
+      "price": 127.79,
+      "changePercent": -7.686195188904139,
+      "dollarVolume": 16172242038.413403,
+      "marketCap": 1735524131373.11,
+      "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
+      "theme": "太空",
+      "isNew": false,
+      "rankChange": -5,
+      "streak": 113
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "price": 265.29,
+      "changePercent": -2.7030000733514283,
+      "dollarVolume": 15866706174.319397,
+      "marketCap": 1562027520000,
+      "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
+      "theme": "雲端服務",
+      "isNew": false,
+      "rankChange": -3,
+      "streak": 178
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms, Inc. Class A Common Stock",
+      "price": 560.84,
+      "changePercent": -5.934051189158363,
+      "dollarVolume": 14681122005.494848,
+      "marketCap": 1241964682308.28,
+      "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
+      "theme": "社群媒體",
+      "isNew": false,
+      "rankChange": 0,
+      "streak": 178
+    },
+    {
+      "symbol": "TSM",
+      "name": "Taiwan Semiconductor Manufacturing Company Ltd.",
+      "price": 318.71,
+      "changePercent": -9.480530546167172,
+      "dollarVolume": 12171832673.210358,
+      "marketCap": 1652981128540,
+      "sector": "—",
+      "theme": "晶圓代工",
+      "isNew": false,
+      "rankChange": 5,
+      "streak": 178
+    },
+    {
+      "symbol": "INTC",
+      "name": "Intel Corp",
+      "price": 51.28,
+      "changePercent": -7.968413496051683,
+      "dollarVolume": 11049884525.946104,
+      "marketCap": 272553200000,
+      "sector": "SEMICONDUCTORS & RELATED DEVICES",
+      "theme": "CPU",
+      "isNew": false,
+      "rankChange": 1,
+      "streak": 178
+    },
+    {
+      "symbol": "SNDK",
+      "name": "Sandisk Corporation Common Stock",
+      "price": 79.24,
+      "changePercent": -16.054875787912497,
+      "dollarVolume": 10480438718.218958,
+      "marketCap": 90200074260.79999,
+      "sector": "COMPUTER STORAGE DEVICES",
+      "theme": "儲存裝置",
+      "isNew": false,
+      "rankChange": -5,
+      "streak": 178
+    },
+    {
+      "symbol": "GOOG",
+      "name": "Alphabet Inc. Class C Capital Stock",
+      "price": 264,
+      "changePercent": -2.590214744299307,
+      "dollarVolume": 10388362950.295652,
+      "marketCap": 1472856000000,
+      "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
+      "theme": "雲端服務",
+      "isNew": false,
+      "rankChange": -2,
+      "streak": 178
+    },
+    {
+      "symbol": "WMT",
+      "name": "Walmart Inc. Common Stock",
+      "price": 127.95,
+      "changePercent": 1.5153919390669601,
+      "dollarVolume": 5515029170.006041,
+      "marketCap": 1015122831535.9501,
+      "sector": "RETAIL-VARIETY STORES",
+      "theme": "零售百貨",
+      "isNew": false,
+      "rankChange": 4,
+      "streak": 17
+    },
+    {
+      "symbol": "PLTR",
+      "name": "Palantir Technologies Inc. Class A Common Stock",
+      "price": 143.49,
+      "changePercent": -6.630661114003121,
+      "dollarVolume": 5352418526.122431,
+      "marketCap": 330129355578.21,
+      "sector": "SERVICES-PREPACKAGED SOFTWARE",
+      "theme": "資料分析軟體",
+      "isNew": false,
+      "rankChange": 6,
+      "streak": 178
+    },
+    {
+      "symbol": "MRVL",
+      "name": "Marvell Technology, Inc. Common Stock",
+      "price": 122.28,
+      "changePercent": -11.692063262800605,
+      "dollarVolume": 5084343620.393138,
+      "marketCap": 107227332000,
+      "sector": "SEMICONDUCTORS & RELATED DEVICES",
+      "theme": "網通晶片",
+      "isNew": false,
+      "rankChange": 1,
+      "streak": 168
+    },
+    {
+      "symbol": "ORCL",
+      "name": "Oracle Corp",
+      "price": 101.19,
+      "changePercent": -8.483313737903588,
+      "dollarVolume": 4921420111.489882,
+      "marketCap": 305971845840,
+      "sector": "SERVICES-PREPACKAGED SOFTWARE",
+      "theme": "資料庫軟體",
+      "isNew": false,
+      "rankChange": 7,
+      "streak": 178
+    },
+    {
+      "symbol": "LLY",
+      "name": "Eli Lilly & Co.",
+      "price": 1347.11,
+      "changePercent": -0.2967908105867718,
+      "dollarVolume": 4798478903.629576,
+      "marketCap": 1267287038710.41,
+      "sector": "PHARMACEUTICAL PREPARATIONS",
+      "theme": "減肥藥 GLP-1",
+      "isNew": false,
+      "rankChange": -2,
+      "streak": 29
+    },
+    {
+      "symbol": "COST",
+      "name": "Costco Wholesale Corp",
+      "price": 1102.15,
+      "changePercent": 0.7606300796284765,
+      "dollarVolume": 4596088904.604734,
+      "marketCap": 488395012000.35004,
+      "sector": "RETAIL-VARIETY STORES",
+      "theme": "零售百貨",
+      "isNew": false,
+      "rankChange": 18,
+      "streak": 8
+    },
+    {
+      "symbol": "TXN",
+      "name": "Texas Instruments Incorporated",
+      "price": 263.75,
+      "changePercent": -7.699037620297462,
+      "dollarVolume": 4506148362.785647,
+      "marketCap": 241006920845,
+      "sector": "SEMICONDUCTORS & RELATED DEVICES",
+      "theme": "類比晶片",
+      "isNew": true,
+      "rankChange": null,
+      "streak": 1
+    },
+    {
+      "symbol": "LRCX",
+      "name": "Lam Research Corp",
+      "price": 183.27,
+      "changePercent": -10.020620581304005,
+      "dollarVolume": 4436628664.355842,
+      "marketCap": 228935569170,
+      "sector": "SPECIAL INDUSTRY MACHINERY, NEC",
+      "theme": "半導體設備",
+      "isNew": false,
+      "rankChange": 10,
+      "streak": 2
+    },
+    {
+      "symbol": "AMAT",
+      "name": "Applied Materials Inc",
+      "price": 302.63,
+      "changePercent": -10.710176142566315,
+      "dollarVolume": 4422778545.225781,
+      "marketCap": 240166394175.09,
+      "sector": "SEMICONDUCTORS & RELATED DEVICES",
+      "theme": "半導體設備",
+      "isNew": false,
+      "rankChange": 11,
+      "streak": 143
+    },
+    {
+      "symbol": "GEV",
+      "name": "GE Vernova Inc.",
+      "price": 699.33,
+      "changePercent": -7.530279790553754,
+      "dollarVolume": 4409222626.785327,
+      "marketCap": 185096612565.78,
+      "sector": "ELECTRONIC & OTHER ELECTRICAL EQUIPMENT (NO COMPUTER EQUIP)",
+      "theme": "電力基礎建設",
+      "isNew": false,
+      "rankChange": 11,
+      "streak": 28
+    },
+    {
+      "symbol": "UNH",
+      "name": "UNITEDHEALTH GROUP INCORPORATED (Delaware)",
+      "price": 339.85,
+      "changePercent": 2.8352699104333103,
+      "dollarVolume": 4398722974.039466,
+      "marketCap": 304513284348.35004,
+      "sector": "HOSPITAL & MEDICAL SERVICE PLANS",
+      "theme": "醫療保險",
+      "isNew": false,
+      "rankChange": -10,
+      "streak": 4
+    },
+    {
+      "symbol": "PANW",
+      "name": "Palo Alto Networks, Inc. Common Stock",
+      "price": 343.32,
+      "changePercent": -5.0894313438199825,
+      "dollarVolume": 4365900970.526431,
+      "marketCap": 281100676354.92,
+      "sector": "COMPUTER PERIPHERAL EQUIPMENT, NEC",
+      "theme": "資安",
+      "isNew": false,
+      "rankChange": -12,
+      "streak": 4
+    },
+    {
+      "symbol": "SKHY",
+      "name": "SK hynix Inc. American Depositary Shares",
+      "price": 103.57,
+      "changePercent": -13.112416107382558,
+      "dollarVolume": 4323641719.508039,
+      "marketCap": 730348011666.7999,
+      "sector": "—",
+      "theme": "記憶體",
+      "isNew": false,
+      "rankChange": -1,
+      "streak": 2
+    },
+    {
+      "symbol": "NBIS",
+      "name": "Nebius Group N.V. Class A Ordinary Shares",
+      "price": 81.31,
+      "changePercent": -16.106066859265372,
+      "dollarVolume": 4285670770.247957,
+      "marketCap": 17844706305.28,
+      "sector": "—",
+      "theme": "雲端基礎設施",
+      "isNew": false,
+      "rankChange": -8,
+      "streak": 103
+    },
+    {
+      "symbol": "BE",
+      "name": "Bloom Energy Corporation",
+      "price": 142.39,
+      "changePercent": -15.29950627565286,
+      "dollarVolume": 4254981301.088544,
+      "marketCap": 42098555946.71,
+      "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
+      "theme": "燃料電池",
+      "isNew": false,
+      "rankChange": -1,
+      "streak": 58
+    },
+    {
+      "symbol": "ASML",
+      "name": "ASML Holding NV",
+      "price": 1266.22,
+      "changePercent": -6.634714643857839,
+      "dollarVolume": 4238623200.4621334,
+      "marketCap": 491480445271.22003,
+      "sector": "—",
+      "theme": "半導體設備",
+      "isNew": false,
+      "rankChange": 7,
+      "streak": 13
+    },
+    {
+      "symbol": "NFLX",
+      "name": "NetFlix Inc",
+      "price": 56.73,
+      "changePercent": -2.9592884023263837,
+      "dollarVolume": 3969705518.2488327,
+      "marketCap": 232951868477.18997,
+      "sector": "SERVICES-VIDEO TAPE RENTAL",
+      "theme": "串流媒體",
+      "isNew": false,
+      "rankChange": 10,
+      "streak": 2
+    },
+    {
+      "symbol": "JPM",
+      "name": "JPMorgan Chase & Co.",
+      "price": 310.53,
+      "changePercent": -3.026044594341407,
+      "dollarVolume": 3922976741.585014,
+      "marketCap": 824646420829.7699,
+      "sector": "NATIONAL COMMERCIAL BANKS",
+      "theme": "銀行",
+      "isNew": false,
+      "rankChange": 10,
+      "streak": 5
+    },
+    {
+      "symbol": "BRK.B",
+      "name": "BERKSHIRE HATHAWAY Class B",
+      "price": 570,
+      "changePercent": -0.35661841829242075,
+      "dollarVolume": 3844673390.260181,
+      "marketCap": 800169188580,
+      "sector": "FIRE, MARINE & CASUALTY INSURANCE",
+      "theme": "多元控股",
+      "isNew": false,
+      "rankChange": -9,
+      "streak": 15
+    },
+    {
+      "symbol": "GS",
+      "name": "Goldman Sachs Group Inc.",
+      "price": 790.69,
+      "changePercent": -6.706547260863912,
+      "dollarVolume": 3802854829.99907,
+      "marketCap": 228062340432.27002,
+      "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
+      "theme": "投資銀行",
+      "isNew": false,
+      "rankChange": 2,
+      "streak": 2
+    },
+    {
+      "symbol": "ADI",
+      "name": "Analog Devices, Inc.",
+      "price": 345.92,
+      "changePercent": -8.350996184824073,
+      "dollarVolume": 3609187413.6240516,
+      "marketCap": 167620885652.80002,
+      "sector": "SEMICONDUCTORS & RELATED DEVICES",
+      "theme": "類比晶片",
+      "isNew": true,
+      "rankChange": null,
+      "streak": 1
+    },
+    {
+      "symbol": "DELL",
+      "name": "Dell Technologies Inc.",
+      "price": 278.02,
+      "changePercent": -11.044986241761066,
+      "dollarVolume": 3571565349.3465304,
+      "marketCap": 87696734927.76,
+      "sector": "ELECTRONIC COMPUTERS",
+      "theme": "伺服器",
+      "isNew": false,
+      "rankChange": 3,
+      "streak": 16
+    },
+    {
+      "symbol": "QCOM",
+      "name": "Qualcomm Inc",
+      "price": 149.94,
+      "changePercent": -7.4501573976914965,
+      "dollarVolume": 3426729663.3388577,
+      "marketCap": 160435800000,
+      "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
+      "theme": "手機晶片",
+      "isNew": false,
+      "rankChange": 8,
+      "streak": 2
+    },
+    {
+      "symbol": "V",
+      "name": "VISA Inc.",
+      "price": 401.87,
+      "changePercent": -0.09446861404599016,
+      "dollarVolume": 3409511859.0801272,
+      "marketCap": 693014050912.05,
+      "sector": "SERVICES-BUSINESS SERVICES, NEC",
+      "theme": "支付服務",
+      "isNew": false,
+      "rankChange": -15,
+      "streak": 32
+    },
+    {
+      "symbol": "JNJ",
+      "name": "Johnson & Johnson",
+      "price": 270.47,
+      "changePercent": 1.246537396121899,
+      "dollarVolume": 3229726124.674084,
+      "marketCap": 651105207645.02,
+      "sector": "PHARMACEUTICAL PREPARATIONS",
+      "theme": "生技製藥",
+      "isNew": false,
+      "rankChange": -6,
+      "streak": 7
+    },
+    {
+      "symbol": "CRWV",
+      "name": "CoreWeave, Inc. Class A Common Stock",
+      "price": 39.51,
+      "changePercent": -12.024048096192383,
+      "dollarVolume": 3137303884.1573415,
+      "marketCap": 21972527355.239998,
+      "sector": "SERVICES-PREPACKAGED SOFTWARE",
+      "theme": "雲端運算",
+      "isNew": false,
+      "rankChange": -19,
+      "streak": 29
+    },
+    {
+      "symbol": "XOM",
+      "name": "ExxonMobil Holdings Corporation",
+      "price": 159.99,
+      "changePercent": 0.6669602969860959,
+      "dollarVolume": 2998455456.010899,
+      "marketCap": 652634798815.56,
+      "sector": "PETROLEUM REFINING",
+      "theme": "石油天然氣",
+      "isNew": true,
+      "rankChange": null,
+      "streak": 1
+    },
+    {
+      "symbol": "CRWD",
+      "name": "CrowdStrike Holdings, Inc. Class A Common Stock",
+      "price": 229.44,
+      "changePercent": -5.758646184178104,
+      "dollarVolume": 2955760197.452615,
+      "marketCap": 235435230260.16,
+      "sector": "SERVICES-PREPACKAGED SOFTWARE",
+      "theme": "資安",
+      "isNew": false,
+      "rankChange": -13,
+      "streak": 3
+    },
+    {
+      "symbol": "KLAC",
+      "name": "KLA Corporation Common Stock",
+      "price": 126.87,
+      "changePercent": -10.32654792196776,
+      "dollarVolume": 2947546921.6633334,
+      "marketCap": 165306844128.45,
+      "sector": "OPTICAL INSTRUMENTS & LENSES",
+      "theme": "半導體設備",
+      "isNew": true,
+      "rankChange": null,
+      "streak": 1
+    },
+    {
+      "symbol": "WDC",
+      "name": "Western Digital Corp.",
+      "price": 261.11,
+      "changePercent": -12.019003976009152,
+      "dollarVolume": 2912181025.002228,
+      "marketCap": 97739548768.59001,
+      "sector": "COMPUTER STORAGE DEVICES",
+      "theme": "儲存裝置",
+      "isNew": false,
+      "rankChange": -17,
+      "streak": 2
+    },
+    {
+      "symbol": "MSTR",
+      "name": "Strategy Inc Common Stock Class A",
+      "price": 77.8,
+      "changePercent": -9.671426912806222,
+      "dollarVolume": 2905725506.8687663,
+      "marketCap": 31331176974.6,
+      "sector": "FINANCE SERVICES",
+      "theme": "比特幣/加密",
+      "isNew": false,
+      "rankChange": 2,
+      "streak": 9
+    },
+    {
+      "symbol": "CSCO",
+      "name": "Cisco Systems, Inc. Common Stock (DE)",
+      "price": 90.64,
+      "changePercent": -4.287222808870118,
+      "dollarVolume": 2892496245.003188,
+      "marketCap": 357356074168.72003,
+      "sector": "COMPUTER COMMUNICATIONS EQUIPMENT",
+      "theme": "網路設備",
+      "isNew": true,
+      "rankChange": null,
+      "streak": 1
+    },
+    {
+      "symbol": "STX",
+      "name": "Seagate Technology Holdings PLC Ordinary Shares (Ireland)",
+      "price": 457.01,
+      "changePercent": -12.347762711214253,
+      "dollarVolume": 2794502849.765074,
+      "marketCap": 104911722424.09,
+      "sector": "COMPUTER STORAGE DEVICES",
+      "theme": "儲存裝置",
+      "isNew": false,
+      "rankChange": -16,
+      "streak": 3
+    },
+    {
+      "symbol": "INTU",
+      "name": "Intuit Inc",
+      "price": 270.44,
+      "changePercent": -12.766918263337846,
+      "dollarVolume": 2777197758.1225767,
+      "marketCap": 72271303840,
+      "sector": "SERVICES-PREPACKAGED SOFTWARE",
+      "theme": "財稅軟體",
+      "isNew": true,
+      "rankChange": null,
+      "streak": 1
+    }
+  ],
+  "asOf": "2026-11-20T20:00:00.000Z",
+  "generatedAt": "2026-11-21T01:47:20.670Z",
+  "source": "polygon",
+  "aiSource": "gemini",
+  "themeSummary": [
+    {
+      "theme": "零售百貨",
+      "reason": "在整體市場下跌的背景下，零售巨頭因其穩定的消費需求和成本控制能力，展現出一定的防禦性。",
+      "symbols": [
+        "WMT",
+        "COST"
+      ],
+      "count": 2,
+      "avgChange": 1.1380110093477183
+    },
+    {
+      "theme": "醫療保險",
+      "reason": "醫療保健行業通常被視為防禦性板塊，在市場波動時，其穩定的需求和現金流吸引資金流入。",
+      "symbols": [
+        "UNH"
+      ],
+      "count": 1,
+      "avgChange": 2.8352699104333103
+    },
+    {
+      "theme": "生技製藥",
+      "reason": "製藥公司因其產品的剛性需求和新藥研發潛力，在市場動盪時仍能獲得資金青睞。",
+      "symbols": [
+        "JNJ"
+      ],
+      "count": 1,
+      "avgChange": 1.246537396121899
+    },
+    {
+      "theme": "石油天然氣",
+      "reason": "能源價格波動和地緣政治因素可能推升油氣公司股價，使其在市場下跌時逆勢上漲。",
+      "symbols": [
+        "XOM"
+      ],
+      "count": 1,
+      "avgChange": 0.6669602969860959
+    }
+  ],
+  "newEntrants": [
+    {
+      "symbol": "TXN",
+      "name": "Texas Instruments Incorporated",
+      "theme": "類比晶片",
+      "changePercent": -7.699037620297462,
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+    },
+    {
+      "symbol": "ADI",
+      "name": "Analog Devices, Inc.",
+      "theme": "類比晶片",
+      "changePercent": -8.350996184824073,
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+    },
+    {
+      "symbol": "XOM",
+      "name": "ExxonMobil Holdings Corporation",
+      "theme": "石油天然氣",
+      "changePercent": 0.6669602969860959,
+      "reason": "宣布30億美元債務回購、提高股息3.9%，並投資125億美元於蓋亞那新開發案。"
+    },
+    {
+      "symbol": "KLAC",
+      "name": "KLA Corporation Common Stock",
+      "theme": "半導體設備",
+      "changePercent": -10.32654792196776,
+      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+    },
+    {
+      "symbol": "CSCO",
+      "name": "Cisco Systems, Inc. Common Stock (DE)",
+      "theme": "網路設備",
+      "changePercent": -4.287222808870118,
+      "reason": "Cisco Partner Summit推出AI工具與Wi-Fi 7升級，強化合作夥伴生態系。"
+    },
+    {
+      "symbol": "INTU",
+      "name": "Intuit Inc",
+      "theme": "財稅軟體",
+      "changePercent": -12.766918263337846,
+      "reason": "擴展QuickBooks AI功能與會計平台，並宣布15%股息增長。"
+    }
+  ],
+  "marketBriefing": {
+    "highlights": "本日美股成交重點集中在AI晶片和記憶體類股，但這些熱門股普遍出現大幅下跌，例如Nvidia、Micron、AMD和Broadcom跌幅均超過12%。這可能反映市場對AI相關股票的獲利了結，或是對未來成長性產生疑慮。儘管如此，部分零售百貨、醫療保險、生技製藥和石油天然氣類股則有資金流入，顯示市場資金在不同板塊間進行輪動。",
+    "eventsPast": [
+      {
+        "title": "NVIDIA 公布第三季財報",
+        "detail": "NVIDIA 於 2026 年 11 月 17 日公布第三季財報，營收達 1158 億美元，年增 103%，其中資料中心營收為 1076 億美元，顯示其在 AI 領域的強勁成長動能。"
+      },
+      {
+        "title": "AMD 公布第三季財報",
+        "detail": "AMD 於 2026 年 11 月 3 日公布第三季財報，營收達 134 億美元，毛利率 54%，稀釋後每股收益 1.46 美元，資料中心業務營收年增近一倍，創單季營收新高。"
+      },
+      {
+        "title": "Micron 公布第四季及全年財報",
+        "detail": "Micron 於 2026 年 9 月 30 日公布 2026 會計年度第四季及全年財報，營收達 542.3 億美元，年增 379%，創歷史新高，主要受惠於 AI 驅動的需求。"
+      },
+      {
+        "title": "Intel 公布第三季財報",
+        "detail": "Intel 於 2026 年 10 月 29 日公布第三季財報，營收達 165.1 億美元，年增 21%，超出市場預期，其中資料中心與 AI (DCAI) 部門營收年增 78%。"
+      },
+      {
+        "title": "ExxonMobil 公布第三季財報",
+        "detail": "ExxonMobil 於 2026 年 10 月 30 日公布第三季財報，淨利達 154 億美元，每股收益 3.72 美元，營運現金流達 257 億美元。"
+      }
+    ],
+    "eventsUpcoming": [
+      {
+        "date": "12/9",
+        "title": "Broadcom 第四季及全年財報",
+        "detail": "Broadcom 將於 2026 年 12 月 9 日美國股市收盤後公布第四季及 2026 會計年度全年財報。"
+      },
+      {
+        "date": "12/17",
+        "title": "Micron 第一季財報",
+        "detail": "Micron Technology 將於 2026 年 12 月 17 日舉行 2027 會計年度第一季財報電話會議。"
+      },
+      {
+        "date": "12/4",
+        "title": "美國 11 月非農就業報告",
+        "detail": "美國勞工統計局將於 2026 年 12 月 4 日公布 11 月非農就業報告，此為聯準會評估是否降息的關鍵指標。"
+      },
+      {
+        "date": "12/9",
+        "title": "FOMC 利率決議",
+        "detail": "聯準會將於 2026 年 12 月 8-9 日舉行 FOMC 會議，並於 12 月 9 日公布利率決議、經濟預測摘要與利率點陣圖。"
+      },
+      {
+        "date": "12/10",
+        "title": "美國 11 月消費者物價指數 (CPI)",
+        "detail": "美國勞工統計局將於 2026 年 12 月 10 日公布 11 月消費者物價指數 (CPI)，此為衡量通膨率的重要指標，影響聯準會利率決策。"
+      }
+    ]
+  }
+}
