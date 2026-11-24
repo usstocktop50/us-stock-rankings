@@ -125,7 +125,7 @@
       "dollarVolume": 12827771813.904247,
       "marketCap": 1496771644170.75,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "AI 晶片",
+      "theme": "半導體設備與設計",
       "isNew": false,
       "rankChange": -3,
       "streak": 179
@@ -177,7 +177,7 @@
       "dollarVolume": 10391684028.854328,
       "marketCap": 99841601633.2,
       "sector": "COMPUTER STORAGE DEVICES",
-      "theme": "記憶體",
+      "theme": "儲存裝置",
       "isNew": false,
       "rankChange": 1,
       "streak": 179
@@ -190,7 +190,7 @@
       "dollarVolume": 9655188097.562233,
       "marketCap": 317092900000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "AI 晶片",
+      "theme": "半導體製造",
       "isNew": false,
       "rankChange": -1,
       "streak": 179
@@ -203,7 +203,7 @@
       "dollarVolume": 8822662376.482273,
       "marketCap": 214430352455.83,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "資安",
+      "theme": "資安軟體",
       "isNew": false,
       "rankChange": 28,
       "streak": 4
@@ -229,7 +229,7 @@
       "dollarVolume": 5482799768.697086,
       "marketCap": 105641728993.08,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "AI 伺服器",
+      "theme": "伺服器/PC",
       "isNew": false,
       "rankChange": 20,
       "streak": 17
@@ -242,7 +242,7 @@
       "dollarVolume": 5321192701.1272,
       "marketCap": 126922506000.00002,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "AI 晶片",
+      "theme": "半導體設計",
       "isNew": false,
       "rankChange": 0,
       "streak": 169
@@ -281,7 +281,7 @@
       "dollarVolume": 4641212782.922744,
       "marketCap": 26877556240.92,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "AI 雲端基礎設施",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": 20,
       "streak": 30
@@ -320,7 +320,7 @@
       "dollarVolume": 4385549791.114785,
       "marketCap": 37378658969.520004,
       "sector": "SERVICES-COMPUTER PROGRAMMING SERVICES",
-      "theme": "資安",
+      "theme": "資安軟體",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -372,7 +372,7 @@
       "dollarVolume": 3847625693.949903,
       "marketCap": 49714672255.35,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "潔淨能源",
+      "theme": "氫能源",
       "isNew": false,
       "rankChange": 2,
       "streak": 59
@@ -398,7 +398,7 @@
       "dollarVolume": 3606980393.3358836,
       "marketCap": 290166030000,
       "sector": "COMPUTER PERIPHERAL EQUIPMENT, NEC",
-      "theme": "資安",
+      "theme": "資安軟體",
       "isNew": false,
       "rankChange": -3,
       "streak": 5
@@ -411,7 +411,7 @@
       "dollarVolume": 3588004338.100788,
       "marketCap": 266080778316.04,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "類比晶片",
+      "theme": "類比IC",
       "isNew": false,
       "rankChange": -9,
       "streak": 2
@@ -424,7 +424,7 @@
       "dollarVolume": 3554430765.0245447,
       "marketCap": 705999334221,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "金融支付",
+      "theme": "支付服務",
       "isNew": false,
       "rankChange": 7,
       "streak": 33
@@ -450,7 +450,7 @@
       "dollarVolume": 3370143926.473063,
       "marketCap": 183529169868.75,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "類比晶片",
+      "theme": "類比IC",
       "isNew": false,
       "rankChange": 2,
       "streak": 2
@@ -463,7 +463,7 @@
       "dollarVolume": 3334987960.683285,
       "marketCap": 176956600000,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "手機晶片",
+      "theme": "行動晶片",
       "isNew": false,
       "rankChange": 3,
       "streak": 3
@@ -476,7 +476,7 @@
       "dollarVolume": 3323246154.5478497,
       "marketCap": 49375266000,
       "sector": "COMMUNICATIONS EQUIPMENT, NEC",
-      "theme": "光通訊",
+      "theme": "光學通訊",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -502,7 +502,7 @@
       "dollarVolume": 3230751388.7158747,
       "marketCap": 237560491250.46,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "投資銀行",
+      "theme": "金融服務",
       "isNew": false,
       "rankChange": -3,
       "streak": 3
@@ -567,7 +567,7 @@
       "dollarVolume": 2768791541.9989247,
       "marketCap": 840925307119.9401,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "商業銀行",
+      "theme": "金融服務",
       "isNew": false,
       "rankChange": -10,
       "streak": 6
@@ -580,7 +580,7 @@
       "dollarVolume": 2758250511.3651614,
       "marketCap": 119394732790.90001,
       "sector": "COMPUTER STORAGE DEVICES",
-      "theme": "儲存設備",
+      "theme": "儲存裝置",
       "isNew": false,
       "rankChange": 4,
       "streak": 4
@@ -593,7 +593,7 @@
       "dollarVolume": 2736705283.0615654,
       "marketCap": 803482169781.84,
       "sector": "FIRE, MARINE & CASUALTY INSURANCE",
-      "theme": "綜合保險",
+      "theme": "多元控股",
       "isNew": false,
       "rankChange": -11,
       "streak": 16
@@ -645,44 +645,30 @@
       "dollarVolume": 2537292473.202113,
       "marketCap": 190037071144.75,
       "sector": "OPTICAL INSTRUMENTS & LENSES",
-      "theme": "半導體設備",
+      "theme": "半導體檢測",
       "isNew": false,
       "rankChange": -5,
       "streak": 2
     }
   ],
   "asOf": "2026-11-23T20:00:00.000Z",
-  "generatedAt": "2026-11-24T12:50:45.040Z",
+  "generatedAt": "2026-11-24T15:39:51.244Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "AI 晶片",
-      "reason": "AI 晶片需求持續強勁，市場預期相關公司業績將大幅成長。",
+      "reason": "AI 晶片需求持續強勁，Nvidia 財報與展望超預期，帶動整個產業鏈上漲。",
       "symbols": [
         "NVDA",
-        "AMD",
-        "AVGO",
-        "INTC",
-        "MRVL"
+        "AMD"
       ],
-      "count": 5,
-      "avgChange": 15.20884190901835
-    },
-    {
-      "theme": "記憶體",
-      "reason": "HBM 等高頻寬記憶體在 AI 應用中扮演關鍵角色，需求激增帶動記憶體價格上漲。",
-      "symbols": [
-        "MU",
-        "SNDK",
-        "SKHY"
-      ],
-      "count": 3,
-      "avgChange": 16.57479752477168
+      "count": 2,
+      "avgChange": 19.166172831468945
     },
     {
       "theme": "半導體設備",
-      "reason": "全球半導體產業擴張，晶圓廠投資增加，帶動半導體設備供應商訂單成長。",
+      "reason": "AI 晶片需求帶動半導體擴產，設備供應商訂單能見度高。",
       "symbols": [
         "AMAT",
         "LRCX",
@@ -693,8 +679,18 @@
       "avgChange": 13.329279311315357
     },
     {
+      "theme": "記憶體",
+      "reason": "HBM 需求爆發性成長，帶動記憶體價格上漲與相關廠商營收預期。",
+      "symbols": [
+        "MU",
+        "SKHY"
+      ],
+      "count": 2,
+      "avgChange": 19.517673318959638
+    },
+    {
       "theme": "AI 軟體",
-      "reason": "生成式 AI 應用普及，企業對 AI 軟體解決方案的需求持續增加。",
+      "reason": "大型科技公司持續投入 AI 應用開發，相關軟體與服務需求旺盛。",
       "symbols": [
         "GOOGL",
         "META",
@@ -705,104 +701,109 @@
       "avgChange": 7.458373989321305
     },
     {
-      "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型趨勢不變，雲端軟體服務持續受到青睞。",
+      "theme": "雲端服務",
+      "reason": "企業數位轉型與 AI 應用推動雲端基礎設施需求，帶動雲端服務提供商成長。",
       "symbols": [
-        "MSFT",
-        "ORCL"
+        "AMZN",
+        "NBIS",
+        "CRWV"
       ],
-      "count": 2,
-      "avgChange": 6.995053872538526
+      "count": 3,
+      "avgChange": 15.358678893111502
     },
     {
-      "theme": "AI 伺服器",
-      "reason": "AI 運算能力需求推動 AI 伺服器出貨量增長。",
+      "theme": "半導體設計",
+      "reason": "除了 AI 晶片，其他領域的半導體設計公司也受惠於整體半導體產業景氣回升。",
       "symbols": [
-        "DELL"
+        "AVGO",
+        "MRVL",
+        "TXN",
+        "ADI",
+        "QCOM"
       ],
-      "count": 1,
-      "avgChange": 20.462556650600693
+      "count": 5,
+      "avgChange": 10.3124175343972
     }
   ],
   "newEntrants": [
     {
       "symbol": "ZS",
       "name": "Zscaler, Inc. Common Stock",
-      "theme": "資安",
+      "theme": "資安軟體",
       "changePercent": 17.66759059644801,
-      "reason": "CrowdStrike以約439億美元全股票收購Zscaler，溢價約34%。"
+      "reason": "Zscaler公布優於預期的2027財年第一季財報，並宣布將被CrowdStrike收購。"
     },
     {
       "symbol": "LITE",
       "name": "Lumentum Holdings Inc. Common Stock",
-      "theme": "光通訊",
+      "theme": "光學通訊",
       "changePercent": 18.20471620271854,
-      "reason": "Marvell Technology宣布將以全股票交易收購Lumentum，以應對AI光學互連設計挑戰。"
+      "reason": "Lumentum公布優於預期的2027財年第一季財報及樂觀的第二季財測。"
     },
     {
       "symbol": "KO",
       "name": "Coca-Cola Company",
       "theme": "飲料",
       "changePercent": -1.1444478812248682,
-      "reason": "可口可樂任命David Elkins為新任CFO，現任CFO將於2027年退休。"
+      "reason": "可口可樂近期宣布任命新的財務長，並於10月底公布了優於預期的第三季財報。"
     },
     {
       "symbol": "COHR",
       "name": "Coherent Corp.",
       "theme": "光學元件",
       "changePercent": 15.270804401239186,
-      "reason": "受AI基礎設施需求強勁及Nvidia執行長黃仁勳回歸消息帶動，光學元件類股普遍上漲。"
+      "reason": "Coherent公布優於預期的2027財年第一季財報，並宣布20億美元庫藏股計畫。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI相關族群的強勁反彈，特別是AI晶片股。Nvidia (NVDA) 在執行長黃仁勳閃電回鍋的消息帶動下，股價狂飆近30%，成為市場最大亮點，並帶動其他AI晶片股如AMD、AVGO和INTC同步上漲。記憶體類股（MU、SNDK）也受惠於AI需求而有顯著漲幅。市場故事主要圍繞在AI產業的復甦與領導者的回歸，儘管此前市場對AI產業存有疑慮，但此消息重新點燃了投資人對AI未來發展的信心。",
+    "highlights": "本日美股成交重點聚焦於AI相關晶片、記憶體、AI軟體及半導體設備等科技類股，資金明顯流向這些具備成長潛力的族群。Nvidia（NVDA）以超過30%的漲幅和1284億美元的成交金額領漲，顯示市場對其AI晶片業務抱持極高期待。Micron（MU）和AMD也因記憶體和AI晶片題材而有亮眼表現。整體市場故事圍繞著AI技術的持續突破與應用擴展，以及半導體產業鏈的強勁需求，推動相關個股和族群的成交量顯著放大。",
     "eventsPast": [
       {
-        "title": "Nvidia執行長黃仁勳閃電回鍋",
-        "detail": "Nvidia董事會盤前宣布共同創辦人黃仁勳回鍋擔任執行長，帶動Nvidia股價暴漲近30%。"
+        "title": "NVIDIA RTX Spark小型桌上型電腦正式推出",
+        "detail": "NVIDIA宣布由華碩、戴爾與微星打造的全新NVIDIA RTX Spark小型桌上型電腦於2026年11月18日正式上市，將在地AI代理、影像與影片生成以及模型微調等功能帶入專用的Windows PC平台。"
       },
       {
-        "title": "Anthropic IPO後股價下跌",
-        "detail": "儘管Anthropic (ANT) 前一交易日創下規模最大紀錄IPO，但上市第二日其股價大跌8.5%，未能扭轉市場對AI產業的疑慮。"
+        "title": "Microsoft Ignite 2026 年度盛會",
+        "detail": "台灣微軟於2026年11月18日舉辦的Microsoft Ignite 2026年度盛會中，聚焦以人為本、以智慧拓展能力並以信任為基礎的三大關鍵特質，推出一系列全新創新技術與解決方案，協助企業打造前瞻生態系。"
       },
       {
-        "title": "美國10月CPI數據高於預期",
-        "detail": "美國勞工統計局於2026年11月10日公布，10月整體消費者物價指數（CPI）經季節調整後月增0.4%，高於市場預期，顯示通膨降溫速度放慢。"
+        "title": "特斯拉FSD v15 正式推出",
+        "detail": "特斯拉於2026年11月22日正式推出FSD v15版本，升級AI自動輔助駕駛模型，並帶來全新「Tesla Reality View」視覺化介面。"
       },
       {
-        "title": "亞馬遜擬收購AI初創公司Decart",
-        "detail": "有媒體報導亞馬遜(AMZN.O)即將達成一項75億美元收購AI初創公司Decart的交易。"
+        "title": "蘋果發表首款智慧顯示器HomeView",
+        "detail": "蘋果於2026年11月23日正式跨入智慧顯示器領域，推出旗下首款智慧螢幕裝置「HomeView」，定位為家庭生活的控制中樞。"
       },
       {
-        "title": "特斯拉啟動FSD V15監督版推送",
-        "detail": "特斯拉(TSLA.O)正式啟動FSD（Full Self-Driving，完全自動駕駛）V15監督版推送。"
+        "title": "微軟自研晶片首度宣布採用英特爾EMIB封裝",
+        "detail": "微軟於2026年11月23日宣布其自研晶片將首度採用英特爾的EMIB封裝技術，深化Azure合作，強化運算、記憶體與資安。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "12/9",
-        "title": "Broadcom (AVGO) 財報公布",
-        "detail": "Broadcom 將於美國交易時段結束後公布2026財年第四季度及全年財報，並舉行電話會議討論業績及業務展望。"
+        "date": "本週三 (11/25)",
+        "title": "美國10月PCE物價指數",
+        "detail": "美國將於11月25日公布10月個人消費支出（PCE）物價指數，此為聯準會偏好的通膨指標。"
+      },
+      {
+        "date": "12/1",
+        "title": "蘋果Product(RED)版AirPods Max 2、HomePod mini 2發表",
+        "detail": "據彭博引述知情人士消息，蘋果計劃於12月1日前後推出兩款特別版音響產品，HomePod mini 2會換上紅色網布，AirPods Max 2則以銀白色為主。"
+      },
+      {
+        "date": "12/4",
+        "title": "美國11月非農就業報告",
+        "detail": "美國勞工統計局將於12月4日公布11月非農就業報告，此為衡量勞動市場健康狀況的重要指標。"
       },
       {
         "date": "12/10",
-        "title": "美國11月CPI數據公布",
-        "detail": "美國勞工部將公布2026年11月的消費者物價指數（CPI）數據。"
+        "title": "美國11月消費者物價指數(CPI)",
+        "detail": "美國勞工統計局將於12月10日公布11月消費者物價指數(CPI)，此為評估通膨壓力的關鍵數據。"
       },
       {
-        "date": "12/17",
-        "title": "Micron Technology (MU) 財報公布",
-        "detail": "Micron Technology 將舉行2026財年第一季度財報電話會議。"
-      },
-      {
-        "date": "本週五",
-        "title": "美國非農就業數據公布",
-        "detail": "美國勞工部將公布每月非農就業數據，包含非農新增就業人數、失業率及平均時薪等，此數據對市場影響重大。"
-      },
-      {
-        "date": "2027/1月下旬",
-        "title": "Apple (AAPL) 財報公布",
-        "detail": "Apple 預計將於2027年1月下旬公布2027財年第一季（2026年10月至12月）財報。"
+        "date": "2027年1月5日",
+        "title": "AMD CES 2027發表會",
+        "detail": "AMD資深副總裁暨運算與繪圖事業群總經理Jack Huynh預告將於美國太平洋時間1月5日10:00（台灣時間1月6日2:00）於拉斯維加斯舉行發表會，主題為「運算的下一個紀元」。"
       }
     ]
   }
