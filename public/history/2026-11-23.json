@@ -99,7 +99,7 @@
       "dollarVolume": 13661571251.598925,
       "marketCap": 2761567391969.34,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電子商務",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": 0,
       "streak": 179
@@ -164,7 +164,7 @@
       "dollarVolume": 11362351057.736713,
       "marketCap": 1323368686519.2,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "社群媒體",
+      "theme": "AI 軟體",
       "isNew": false,
       "rankChange": -1,
       "streak": 179
@@ -255,7 +255,7 @@
       "dollarVolume": 5251112317.765237,
       "marketCap": 21463685606.399998,
       "sector": "—",
-      "theme": "雲端基礎設施",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": 10,
       "streak": 104
@@ -281,7 +281,7 @@
       "dollarVolume": 4641212782.922744,
       "marketCap": 26877556240.92,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "AI 雲端運算",
+      "theme": "AI 雲端基礎設施",
       "isNew": false,
       "rankChange": 20,
       "streak": 30
@@ -424,7 +424,7 @@
       "dollarVolume": 3554430765.0245447,
       "marketCap": 705999334221,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "支付服務",
+      "theme": "金融支付",
       "isNew": false,
       "rankChange": 7,
       "streak": 33
@@ -437,7 +437,7 @@
       "dollarVolume": 3474739069.9824986,
       "marketCap": 486516143560.59,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售通路",
+      "theme": "零售百貨",
       "isNew": false,
       "rankChange": -12,
       "streak": 9
@@ -489,7 +489,7 @@
       "dollarVolume": 3234849244.103421,
       "marketCap": 1028054837908.7802,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售通路",
+      "theme": "零售百貨",
       "isNew": false,
       "rankChange": -21,
       "streak": 18
@@ -502,7 +502,7 @@
       "dollarVolume": 3230751388.7158747,
       "marketCap": 237560491250.46,
       "sector": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
-      "theme": "金融服務",
+      "theme": "投資銀行",
       "isNew": false,
       "rankChange": -3,
       "streak": 3
@@ -567,7 +567,7 @@
       "dollarVolume": 2768791541.9989247,
       "marketCap": 840925307119.9401,
       "sector": "NATIONAL COMMERCIAL BANKS",
-      "theme": "金融服務",
+      "theme": "商業銀行",
       "isNew": false,
       "rankChange": -10,
       "streak": 6
@@ -580,7 +580,7 @@
       "dollarVolume": 2758250511.3651614,
       "marketCap": 119394732790.90001,
       "sector": "COMPUTER STORAGE DEVICES",
-      "theme": "儲存裝置",
+      "theme": "儲存設備",
       "isNew": false,
       "rankChange": 4,
       "streak": 4
@@ -593,7 +593,7 @@
       "dollarVolume": 2736705283.0615654,
       "marketCap": 803482169781.84,
       "sector": "FIRE, MARINE & CASUALTY INSURANCE",
-      "theme": "多元控股",
+      "theme": "綜合保險",
       "isNew": false,
       "rankChange": -11,
       "streak": 16
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-11-23T20:00:00.000Z",
-  "generatedAt": "2026-11-24T11:46:51.991Z",
+  "generatedAt": "2026-11-24T12:50:45.040Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "AI 晶片",
-      "reason": "AI 晶片需求持續強勁，市場預期相關公司業績將持續成長。",
+      "reason": "AI 晶片需求持續強勁，市場預期相關公司業績將大幅成長。",
       "symbols": [
         "NVDA",
         "AMD",
@@ -671,7 +671,7 @@
     },
     {
       "theme": "記憶體",
-      "reason": "AI 應用帶動高頻寬記憶體（HBM）需求，記憶體產業景氣復甦。",
+      "reason": "HBM 等高頻寬記憶體在 AI 應用中扮演關鍵角色，需求激增帶動記憶體價格上漲。",
       "symbols": [
         "MU",
         "SNDK",
@@ -682,7 +682,7 @@
     },
     {
       "theme": "半導體設備",
-      "reason": "晶圓廠擴建與技術升級，推升半導體設備訂單需求。",
+      "reason": "全球半導體產業擴張，晶圓廠投資增加，帶動半導體設備供應商訂單成長。",
       "symbols": [
         "AMAT",
         "LRCX",
@@ -694,34 +694,34 @@
     },
     {
       "theme": "AI 軟體",
-      "reason": "企業加速導入 AI 解決方案，推動 AI 軟體服務營收增長。",
+      "reason": "生成式 AI 應用普及，企業對 AI 軟體解決方案的需求持續增加。",
       "symbols": [
         "GOOGL",
+        "META",
         "GOOG",
         "PLTR"
       ],
-      "count": 3,
-      "avgChange": 7.759680641349786
-    },
-    {
-      "theme": "資安",
-      "reason": "網路攻擊日益頻繁，企業對資安防護的投資持續增加。",
-      "symbols": [
-        "ZS",
-        "PANW"
-      ],
-      "count": 2,
-      "avgChange": 10.30618257539982
+      "count": 4,
+      "avgChange": 7.458373989321305
     },
     {
       "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型趨勢不變，雲端軟體服務持續受青睞。",
+      "reason": "企業數位轉型趨勢不變，雲端軟體服務持續受到青睞。",
       "symbols": [
         "MSFT",
         "ORCL"
       ],
       "count": 2,
       "avgChange": 6.995053872538526
+    },
+    {
+      "theme": "AI 伺服器",
+      "reason": "AI 運算能力需求推動 AI 伺服器出貨量增長。",
+      "symbols": [
+        "DELL"
+      ],
+      "count": 1,
+      "avgChange": 20.462556650600693
     }
   ],
   "newEntrants": [
@@ -730,69 +730,79 @@
       "name": "Zscaler, Inc. Common Stock",
       "theme": "資安",
       "changePercent": 17.66759059644801,
-      "reason": "CrowdStrike宣布將以約439億美元收購Zscaler，帶動股價上漲。"
+      "reason": "CrowdStrike以約439億美元全股票收購Zscaler，溢價約34%。"
     },
     {
       "symbol": "LITE",
       "name": "Lumentum Holdings Inc. Common Stock",
       "theme": "光通訊",
       "changePercent": 18.20471620271854,
-      "reason": "受NVIDIA執行長黃仁勳復職消息帶動，AI光學類股全面反彈。"
+      "reason": "Marvell Technology宣布將以全股票交易收購Lumentum，以應對AI光學互連設計挑戰。"
     },
     {
       "symbol": "KO",
       "name": "Coca-Cola Company",
       "theme": "飲料",
       "changePercent": -1.1444478812248682,
-      "reason": "可口可樂宣布任命David Elkins為新任CFO，現任CFO將於2027年退休。"
+      "reason": "可口可樂任命David Elkins為新任CFO，現任CFO將於2027年退休。"
     },
     {
       "symbol": "COHR",
       "name": "Coherent Corp.",
       "theme": "光學元件",
       "changePercent": 15.270804401239186,
-      "reason": "受NVIDIA執行長黃仁勳復職消息帶動，AI光學類股全面反彈。"
+      "reason": "受AI基礎設施需求強勁及Nvidia執行長黃仁勳回歸消息帶動，光學元件類股普遍上漲。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點集中在AI晶片、記憶體等科技類股，由Nvidia（NVDA）和Micron Technology（MU）等領漲，顯示市場對AI產業的未來發展仍抱持高度期待。然而，近期也有消息指出Google可能削減Broadcom（AVGO）的TPU訂單，引發市場對AI基礎建設投資放緩及客戶集中風險的擔憂，導致部分AI相關個股出現修正。整體而言，市場在交易AI長期成長潛力與短期估值修正之間的拉鋸。",
+    "highlights": "本日美股成交重點聚焦於AI相關族群的強勁反彈，特別是AI晶片股。Nvidia (NVDA) 在執行長黃仁勳閃電回鍋的消息帶動下，股價狂飆近30%，成為市場最大亮點，並帶動其他AI晶片股如AMD、AVGO和INTC同步上漲。記憶體類股（MU、SNDK）也受惠於AI需求而有顯著漲幅。市場故事主要圍繞在AI產業的復甦與領導者的回歸，儘管此前市場對AI產業存有疑慮，但此消息重新點燃了投資人對AI未來發展的信心。",
     "eventsPast": [
       {
-        "title": "Google傳削減Broadcom訂單",
-        "detail": "有報導指出，Google可能削減2027年由Broadcom設計的TPU 8i訂單約兩成，並轉向增加MediaTek設計的TPU 8t採購，引發市場對Broadcom客戶集中風險的擔憂。"
+        "title": "Nvidia執行長黃仁勳閃電回鍋",
+        "detail": "Nvidia董事會盤前宣布共同創辦人黃仁勳回鍋擔任執行長，帶動Nvidia股價暴漲近30%。"
       },
       {
-        "title": "AI晶片概念股盤前反彈",
-        "detail": "美股AI晶片概念股在盤前出現全線反彈。"
+        "title": "Anthropic IPO後股價下跌",
+        "detail": "儘管Anthropic (ANT) 前一交易日創下規模最大紀錄IPO，但上市第二日其股價大跌8.5%，未能扭轉市場對AI產業的疑慮。"
       },
       {
-        "title": "特斯拉FSD V15監督版推送",
-        "detail": "特斯拉（TSLA）正式啟動FSD（Full Self-Driving，完全自動駕駛）V15監督版推送。"
+        "title": "美國10月CPI數據高於預期",
+        "detail": "美國勞工統計局於2026年11月10日公布，10月整體消費者物價指數（CPI）經季節調整後月增0.4%，高於市場預期，顯示通膨降溫速度放慢。"
       },
       {
-        "title": "甲骨文籌集OpenAI基礎設施合同資金",
-        "detail": "甲骨文（ORCL）表示已籌集履行與OpenAI基礎設施合同所需的全部資金，成為本輪投資週期中首家完成全部資金籌措的超大規模雲服務商。"
+        "title": "亞馬遜擬收購AI初創公司Decart",
+        "detail": "有媒體報導亞馬遜(AMZN.O)即將達成一項75億美元收購AI初創公司Decart的交易。"
       },
       {
-        "title": "亞馬遜傳收購AI初創公司",
-        "detail": "有媒體稱亞馬遜（AMZN）即將達成一項75億美元收購AI初創公司Decart的交易。"
+        "title": "特斯拉啟動FSD V15監督版推送",
+        "detail": "特斯拉(TSLA.O)正式啟動FSD（Full Self-Driving，完全自動駕駛）V15監督版推送。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "11/25",
-        "title": "美國10月PCE物價指數",
-        "detail": "個人消費支出物價指數（PCE）是聯準會（Fed）偏好的通膨指標，將影響未來貨幣政策走向。"
+        "date": "12/9",
+        "title": "Broadcom (AVGO) 財報公布",
+        "detail": "Broadcom 將於美國交易時段結束後公布2026財年第四季度及全年財報，並舉行電話會議討論業績及業務展望。"
       },
       {
-        "date": "12/8-12/9",
-        "title": "FOMC會議",
-        "detail": "聯準會將舉行本年度最後一次FOMC會議，並公布最新經濟預測摘要（SEP）與點陣圖，市場將密切關注其對未來利率政策的指引。"
+        "date": "12/10",
+        "title": "美國11月CPI數據公布",
+        "detail": "美國勞工部將公布2026年11月的消費者物價指數（CPI）數據。"
       },
       {
-        "date": "本週四",
-        "title": "感恩節美股休市",
-        "detail": "因感恩節假期，美股將全天休市。"
+        "date": "12/17",
+        "title": "Micron Technology (MU) 財報公布",
+        "detail": "Micron Technology 將舉行2026財年第一季度財報電話會議。"
+      },
+      {
+        "date": "本週五",
+        "title": "美國非農就業數據公布",
+        "detail": "美國勞工部將公布每月非農就業數據，包含非農新增就業人數、失業率及平均時薪等，此數據對市場影響重大。"
+      },
+      {
+        "date": "2027/1月下旬",
+        "title": "Apple (AAPL) 財報公布",
+        "detail": "Apple 預計將於2027年1月下旬公布2027財年第一季（2026年10月至12月）財報。"
       }
     ]
   }
