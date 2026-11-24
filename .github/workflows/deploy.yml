@@ -31,7 +31,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
-      url: ${{ steps.deploy.outputs.page_url }}
+      url: ${{ steps.deploy.outputs.page_url || steps.deploy_retry.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
 
@@ -72,14 +72,28 @@ jobs:
         with:
           path: out
 
+      # GitHub 偶發「artifact 已上傳成功，但 deploy-pages 查不到 (Found 0 artifact(s))」
+      # 的後端延遲（2026-11-24 起頻繁發生，與內容無關，稍等即可查到）。
+      # 失敗先等 30 秒重試一次，兩次都失敗才算真的掛（才會寄失敗信）。
       - name: Deploy to GitHub Pages
         id: deploy
+        continue-on-error: true
+        uses: actions/deploy-pages@v4
+
+      - name: Wait before retrying deploy
+        if: steps.deploy.outcome == 'failure'
+        run: sleep 30
+
+      - name: Deploy to GitHub Pages (retry)
+        id: deploy_retry
+        if: steps.deploy.outcome == 'failure'
         uses: actions/deploy-pages@v4
 
       # 將產生的快照與歷史寫回 repo，讓歷史能跨每日累積（否則下次 build 會缺舊歷史）。
       # [skip ci] 避免此 commit 再次觸發部署而形成迴圈。
+      # 即使部署失敗也要寫回（!cancelled()），否則當天快照/歷史會遺失。
       - name: Commit snapshot + history back to repo
-        if: github.ref == 'refs/heads/main'
+        if: ${{ !cancelled() && github.ref == 'refs/heads/main' }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
