@@ -99,7 +99,7 @@
       "dollarVolume": 11445188854.738838,
       "marketCap": 3684357903083.76,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": -1,
       "streak": 180
@@ -125,7 +125,7 @@
       "dollarVolume": 9454750238.943129,
       "marketCap": 1643046400000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "雲端服務",
+      "theme": "AI 軟體",
       "isNew": false,
       "rankChange": 1,
       "streak": 180
@@ -138,7 +138,7 @@
       "dollarVolume": 9437341116.09024,
       "marketCap": 1437244479754.2,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網通晶片",
+      "theme": "AI 晶片",
       "isNew": false,
       "rankChange": -1,
       "streak": 180
@@ -151,7 +151,7 @@
       "dollarVolume": 8563380990.383742,
       "marketCap": 2728046663220.7397,
       "sector": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
-      "theme": "電商/雲端服務",
+      "theme": "電商",
       "isNew": false,
       "rankChange": -4,
       "streak": 180
@@ -164,7 +164,7 @@
       "dollarVolume": 7623838316.165501,
       "marketCap": 88731648014,
       "sector": "COMPUTER STORAGE DEVICES",
-      "theme": "儲存裝置",
+      "theme": "記憶體",
       "isNew": false,
       "rankChange": 1,
       "streak": 180
@@ -177,7 +177,7 @@
       "dollarVolume": 7323346056.522017,
       "marketCap": 291262000000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "CPU",
+      "theme": "半導體",
       "isNew": false,
       "rankChange": 1,
       "streak": 180
@@ -203,7 +203,7 @@
       "dollarVolume": 6657475587.587846,
       "marketCap": 1543039820000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "雲端服務",
+      "theme": "AI 軟體",
       "isNew": false,
       "rankChange": 1,
       "streak": 180
@@ -216,7 +216,7 @@
       "dollarVolume": 6448387563.569844,
       "marketCap": 93141111752.63998,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "伺服器/PC",
+      "theme": "伺服器",
       "isNew": false,
       "rankChange": 1,
       "streak": 18
@@ -307,7 +307,7 @@
       "dollarVolume": 3333227817.245067,
       "marketCap": 370828974368.22003,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "大數據/AI 軟體",
+      "theme": "AI 軟體",
       "isNew": false,
       "rankChange": -3,
       "streak": 180
@@ -320,7 +320,7 @@
       "dollarVolume": 3119533219.2887774,
       "marketCap": 1049713965146.71,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售",
+      "theme": "零售百貨",
       "isNew": false,
       "rankChange": 13,
       "streak": 19
@@ -333,7 +333,7 @@
       "dollarVolume": 2946057449.377648,
       "marketCap": 483768741596.79004,
       "sector": "RETAIL-VARIETY STORES",
-      "theme": "零售",
+      "theme": "零售百貨",
       "isNew": false,
       "rankChange": 8,
       "streak": 10
@@ -385,7 +385,7 @@
       "dollarVolume": 2651652196.3978777,
       "marketCap": 23693736471.019997,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端軟體",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": -8,
       "streak": 31
@@ -437,7 +437,7 @@
       "dollarVolume": 2523036694.7290993,
       "marketCap": 19161496833.28,
       "sector": "—",
-      "theme": "雲端服務",
+      "theme": "AI 軟體",
       "isNew": false,
       "rankChange": -14,
       "streak": 105
@@ -489,7 +489,7 @@
       "dollarVolume": 2311869226.264023,
       "marketCap": 331099092000,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "資料庫/雲端",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": -15,
       "streak": 180
@@ -528,7 +528,7 @@
       "dollarVolume": 2186469780.849298,
       "marketCap": 102545859542.55,
       "sector": "COMPUTER STORAGE DEVICES",
-      "theme": "儲存裝置",
+      "theme": "儲存設備",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -554,7 +554,7 @@
       "dollarVolume": 2143650823.8859758,
       "marketCap": 370550704814.16,
       "sector": "COMPUTER COMMUNICATIONS EQUIPMENT",
-      "theme": "網路設備",
+      "theme": "網通設備",
       "isNew": false,
       "rankChange": 5,
       "streak": 3
@@ -567,7 +567,7 @@
       "dollarVolume": 2135331701.9823341,
       "marketCap": 46243662726.49,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "燃料電池",
+      "theme": "潔淨能源",
       "isNew": false,
       "rankChange": -15,
       "streak": 60
@@ -652,56 +652,42 @@
     }
   ],
   "asOf": "2026-11-24T20:00:00.000Z",
-  "generatedAt": "2026-11-25T11:40:20.706Z",
+  "generatedAt": "2026-11-25T15:23:35.227Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "生技製藥",
-      "reason": "市場對新藥研發進展和併購活動保持高度關注，部分公司因臨床數據或藥品核准消息而受資金追捧。",
+      "reason": "市場對新藥研發進展和併購活動保持高度關注，推動部分個股表現強勁。",
       "symbols": [
         "INSM",
-        "LLY",
         "MRNA",
         "MRK"
       ],
-      "count": 4,
-      "avgChange": 7.248292588046804
+      "count": 3,
+      "avgChange": 8.614265538764638
     },
     {
-      "theme": "零售",
-      "reason": "在通膨壓力下，大型零售商因其穩定的消費需求和成本控制能力，被視為相對安全的投資標的。",
+      "theme": "AI 軟體",
+      "reason": "AI應用持續擴展，市場預期企業對AI軟體的需求將不斷增長。",
       "symbols": [
-        "WMT"
-      ],
-      "count": 1,
-      "avgChange": 2.1068066059577015
-    },
-    {
-      "theme": "雲端軟體",
-      "reason": "企業數位轉型需求持續，雲端軟體服務提供商因其訂閱制收入模式和成長潛力而受到青睞。",
-      "symbols": [
-        "MSFT",
-        "CRWD",
         "PLTR"
       ],
-      "count": 3,
-      "avgChange": 0.9278533847023454
+      "count": 1,
+      "avgChange": 1.142068273092365
     },
     {
-      "theme": "金融服務",
-      "reason": "儘管整體市場波動，部分金融機構因其穩健的財報表現和股息吸引力，仍獲得投資者支持。",
+      "theme": "雲端軟體 SaaS",
+      "reason": "企業數位轉型需求不減，雲端服務和軟體訂閱模式持續受到青睞。",
       "symbols": [
-        "V",
-        "JPM",
-        "BRK.B"
+        "MSFT"
       ],
-      "count": 3,
-      "avgChange": 0.9296523631346026
+      "count": 1,
+      "avgChange": 0.7370558375634508
     },
     {
       "theme": "消費性電子",
-      "reason": "市場期待新產品發布或銷售數據改善，帶動部分消費性電子巨頭股價上漲。",
+      "reason": "市場對新產品發布和銷售預期保持樂觀，帶動相關個股上漲。",
       "symbols": [
         "AAPL"
       ],
@@ -709,13 +695,22 @@
       "avgChange": 1.4294717543256588
     },
     {
-      "theme": "串流媒體",
-      "reason": "串流媒體平台因用戶增長或內容策略奏效，吸引了投資者的關注。",
+      "theme": "零售百貨",
+      "reason": "消費者支出數據表現穩健，大型零售商的營運展望受到市場肯定。",
       "symbols": [
-        "NFLX"
+        "WMT"
       ],
       "count": 1,
-      "avgChange": 1.3253012048192703
+      "avgChange": 2.1068066059577015
+    },
+    {
+      "theme": "金融支付",
+      "reason": "全球經濟活動逐漸復甦，電子支付交易量增長，利好相關企業。",
+      "symbols": [
+        "V"
+      ],
+      "count": 1,
+      "avgChange": 1.8026380068392758
     }
   ],
   "newEntrants": [
@@ -724,79 +719,79 @@
       "name": "Insmed, Inc.",
       "theme": "生技製藥",
       "changePercent": 14.125695888389563,
-      "reason": "賽諾菲（Sanofi）宣布以410億美元收購Insmed，推升股價大漲。"
+      "reason": "Sanofi擬以410億美元收購Insmed，為近年來生技業最大併購案。"
     },
     {
       "symbol": "WDC",
       "name": "Western Digital Corp.",
-      "theme": "儲存裝置",
+      "theme": "儲存設備",
       "changePercent": -7.838519764507994,
-      "reason": "近期無明確個股消息，可能受AI硬體和儲存類股獲利回吐影響下跌。"
+      "reason": "受Nvidia領導層變動影響，AI基礎設施股信心恢復，WDC股價飆升。"
     },
     {
       "symbol": "MRNA",
       "name": "Moderna, Inc. Common Stock",
       "theme": "生技製藥",
       "changePercent": 7.21425877027536,
-      "reason": "投資者將資金從AI和科技股轉向生技股，帶動股價上漲。"
+      "reason": "Moderna與默克合作的黑色素瘤mRNA癌症疫苗三期臨床試驗結果 positive。"
     },
     {
       "symbol": "MRK",
       "name": "Merck & Co., Inc.",
       "theme": "生技製藥",
       "changePercent": 4.502841957628991,
-      "reason": "近期公布第三季財報優於預期，並上調全年財測。"
+      "reason": "與Moderna合作的黑色素瘤mRNA癌症疫苗三期臨床試驗結果 positive。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI晶片、AI軟體及記憶體等科技類股的劇烈波動，資金在Nvidia執行長黃仁勳復職消息帶動下，一度大幅回流AI與半導體族群，但隨後又因市場對高估值和政治風險的擔憂而出現獲利了結賣壓。 另一方面，生技製藥族群因併購利多而表現強勁，零售與消費性電子則受惠於消費者信心指數回升及政策預期而相對穩定。 整體而言，市場正在交易AI產業前景的不確定性與資金輪動至其他具防禦性或特定利多題材的板塊。",
+    "highlights": "本日美股成交重點集中在AI晶片、AI軟體和記憶體等科技股，但多數呈現下跌，顯示市場對AI產業的估值和未來投資回報率存在疑慮，資金有從高波動科技股轉向傳統產業的趨勢。生技製藥族群則因併購消息而有亮眼表現。蘋果和微軟等大型科技股則相對抗跌，部分原因可能來自於美國消費者信心指數的提升，對消費性電子和雲端軟體SaaS等內需相關產業提供支撐。",
     "eventsPast": [
       {
-        "title": "Nvidia執行長黃仁勳復職消息激勵股價",
-        "detail": "Nvidia董事會一致決議恢復黃仁勳總裁、執行長及董事職務，帶動公司股價單日大漲逾31%，市場重新關注其管理層穩定性及AI晶片產品布局。"
+        "title": "Nvidia (NVDA) 執行長黃仁勳復職",
+        "detail": "Nvidia 董事會於 11 月 24 日全體一致表決，恢復黃仁勳總裁、CEO 及董事會成員職務，但此利多消息僅支撐一天，股價隨即回吐漲幅。"
       },
       {
-        "title": "Anthropic股價跌破IPO發行價",
-        "detail": "AI軟體公司Anthropic股價跌破每股83美元的IPO發行價，一度跌至76美元，敲響AI新創公司的警鐘。"
+        "title": "Insmed (INSM) 遭賽諾菲收購",
+        "detail": "賽諾菲 (Sanofi) 於 11 月 24 日宣布以每股 175 美元現金收購生技製藥公司 Insmed，交易總股權價值約 410 億美元，帶動 Insmed 股價大漲。"
       },
       {
-        "title": "Insmed因併購消息股價大漲",
-        "detail": "法國製藥大廠Sanofi宣布將以每股175美元現金收購Insmed，整體交易規模約410億美元，較前一交易日收盤價溢價約17%，帶動Insmed股價勁揚。"
+        "title": "Anthropic (ANT) 跌破發行價",
+        "detail": "AI 新創公司 Anthropic 在上市不到一週後，於 11 月 24 日跌破 83 美元的 IPO 發行價，創掛牌以來新低，市場對 AI 公司估值及龐大算力投資的疑慮仍在。"
       },
       {
-        "title": "美國11月消費者信心指數升至近兩年高點",
-        "detail": "美國11月消費者信心指數升至103.3，明顯高於市場預期的92.4，反映消費者對就業前景與個人財務的看法改善，支撐零售、金融與傳統內需類股。"
+        "title": "美國 11 月消費者信心指數創近兩年新高",
+        "detail": "美國 11 月消費者信心指數於 11 月 24 日公布，實際值為 103.3，明顯高於市場預期的 92.4，反映消費者對就業前景與個人財務的看法改善，對零售、金融與傳統內需類股提供支撐。"
       },
       {
-        "title": "CrowdStrike獲調升至買進評級",
-        "detail": "古根漢投資機構將網路安全巨頭CrowdStrike評級調升至買進，目標價上看280美元，受惠於微軟與亞馬遜雲端合作發酵及強勁的獲利能力。"
+        "title": "Palantir (PLTR) 財報優於預期但股價承壓",
+        "detail": "Palantir 第三季營收和每股盈餘均優於市場預期，美國商業營收年增 148% 首度超越政府業務，但因市場對 AI 股風險情緒與訂單疑慮，股價仍承壓。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "11/25 (三)",
-        "title": "美國10月PCE物價指數公布",
-        "detail": "聯準會最青睞的通膨指標——個人消費支出物價指數（PCE）將公布10月數據，市場預期整體PCE年增幅將由9月的3.6%升至3.8%，核心PCE年比由3.1%升至3.2%，將影響聯準會12月的利率決策。"
+        "date": "本週三 (11/25)",
+        "title": "美國 10 月 PCE 物價指數",
+        "detail": "PCE 物價指數是聯準會偏好的通膨指標，將於美東時間上午 8:30 公布，市場將從中解讀通膨與利率路徑的最新態度。"
       },
       {
-        "date": "11/26 (四)",
+        "date": "本週四 (11/26)",
         "title": "感恩節美股休市",
         "detail": "美國股市因感恩節假期全天休市。"
       },
       {
-        "date": "11/27 (五)",
+        "date": "本週五 (11/27)",
         "title": "感恩節隔天美股提前收盤",
-        "detail": "感恩節隔天美股將提前於美東時間下午1點收盤。"
+        "detail": "感恩節隔天，美股將提前於美東時間下午 1 點收盤。"
       },
       {
-        "date": "12/8-12/9",
-        "title": "FOMC利率決議會議",
-        "detail": "聯準會將召開2026年最後一次貨幣政策會議，市場預期升息25個基點的機率已高達99.7%，但仍需關注通膨數據是否會促使聯準會採取更激進的升息措施。"
+        "date": "12/4",
+        "title": "美國 11 月非農就業報告",
+        "detail": "非農就業報告是聯準會評估是否降息的關鍵指標，市場預估新增就業約落在 6 萬至 17.5 萬人之間，失業率預估維持在 4.1% 左右。"
       },
       {
-        "date": "12月",
-        "title": "博通(AVGO)與美光(MU)財報",
-        "detail": "博通和美光等科技巨頭將陸續發布財報，其業績表現將對AI產業鏈和半導體市場產生重要影響。"
+        "date": "12/10",
+        "title": "聯準會利率決議",
+        "detail": "聯準會將公布最新的利率決策與政策聲明，市場預期逾九成機率將升息 1 碼至 4.00%–4.25%。"
       }
     ]
   }
