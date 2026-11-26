@@ -294,7 +294,7 @@
       "dollarVolume": 3576059182.0222945,
       "marketCap": 114812517000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網通晶片",
+      "theme": "AI 晶片",
       "isNew": false,
       "rankChange": -2,
       "streak": 171
@@ -346,7 +346,7 @@
       "dollarVolume": 3311489125.5609207,
       "marketCap": 23674272070.68,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "雲端運算",
+      "theme": "雲端軟體 SaaS",
       "isNew": false,
       "rankChange": 3,
       "streak": 32
@@ -359,7 +359,7 @@
       "dollarVolume": 3301716847.9038367,
       "marketCap": 18652337829.12,
       "sector": "—",
-      "theme": "雲端運算",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": 6,
       "streak": 106
@@ -424,7 +424,7 @@
       "dollarVolume": 2781580614.8276167,
       "marketCap": 731849187713.85,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "金融支付",
+      "theme": "支付服務",
       "isNew": false,
       "rankChange": -1,
       "streak": 35
@@ -450,7 +450,7 @@
       "dollarVolume": 2717134111.5775585,
       "marketCap": 45202951181.21,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "氫能源",
+      "theme": "潔淨能源",
       "isNew": false,
       "rankChange": 9,
       "streak": 61
@@ -606,7 +606,7 @@
       "dollarVolume": 2321920800.858631,
       "marketCap": 570647752226.73,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "金融支付",
+      "theme": "支付服務",
       "isNew": true,
       "rankChange": null,
       "streak": 1
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-11-25T20:00:00.000Z",
-  "generatedAt": "2026-11-26T11:14:12.105Z",
+  "generatedAt": "2026-11-26T14:50:03.723Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
-      "theme": "金融支付",
-      "reason": "隨著全球經濟活動逐漸復甦，數位支付交易量持續增長，帶動金融支付服務商的營收表現。",
+      "theme": "支付服務",
+      "reason": "數位支付與金融科技持續發展，市場對其成長潛力抱持樂觀態度。",
       "symbols": [
         "V",
         "MA"
@@ -668,7 +668,7 @@
     },
     {
       "theme": "類比IC",
-      "reason": "類比IC在各類電子產品中應用廣泛，尤其在工業、汽車和通訊領域需求穩健，推動相關公司股價上漲。",
+      "reason": "類比IC在各類電子產品中應用廣泛，需求穩定且具備技術壁壘。",
       "symbols": [
         "ADI",
         "TXN"
@@ -678,7 +678,7 @@
     },
     {
       "theme": "AI 軟體",
-      "reason": "市場對AI應用前景持續樂觀，投資者看好AI軟體公司在企業數位轉型中的潛力。",
+      "reason": "人工智慧應用持續擴展，帶動相關軟體解決方案的需求。",
       "symbols": [
         "ANT",
         "PLTR"
@@ -688,7 +688,7 @@
     },
     {
       "theme": "資安",
-      "reason": "網路攻擊事件頻傳，企業對資安防護的需求日益增加，資安軟體服務商受市場關注。",
+      "reason": "網路攻擊日益頻繁，企業對資安防護的投入持續增加。",
       "symbols": [
         "PANW"
       ],
@@ -697,7 +697,7 @@
     },
     {
       "theme": "比特幣/加密",
-      "reason": "比特幣價格波動帶動相關概念股表現，投資者對加密貨幣市場的興趣不減。",
+      "reason": "加密貨幣市場波動，但部分投資者仍看好其長期發展潛力。",
       "symbols": [
         "MSTR"
       ],
@@ -705,13 +705,13 @@
       "avgChange": 3.107672469374593
     },
     {
-      "theme": "社群媒體",
-      "reason": "社群媒體巨頭透過廣告收入和新技術應用，持續吸引用戶和投資者關注。",
+      "theme": "太空科技",
+      "reason": "太空探索與商業化進程加速，相關技術與服務受到關注。",
       "symbols": [
-        "META"
+        "SPCX"
       ],
       "count": 1,
-      "avgChange": 3.402733037197778
+      "avgChange": 1.2956044829504771
     }
   ],
   "newEntrants": [
@@ -720,61 +720,87 @@
       "name": "ExxonMobil Holdings Corporation",
       "theme": "石油天然氣",
       "changePercent": -0.09479871073751961,
-      "reason": "近期宣布啟動Longtail油田開發案，提高圭亞那產能，並進行庫藏股計畫。"
+      "reason": "近期宣布第三季財報優於預期，並啟動庫藏股計畫，加上原油價格上漲帶動。"
     },
     {
       "symbol": "HD",
       "name": "Home Depot, Inc.",
       "theme": "居家修繕零售",
       "changePercent": 2.140292346405042,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動，但有高層人事異動。"
+      "reason": "第三季財報優於預期，同店銷售增長強勁，並宣布新CEO人選。"
     },
     {
       "symbol": "JNJ",
       "name": "Johnson & Johnson",
       "theme": "生技製藥",
       "changePercent": -0.9115242711422925,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動，但有新醫療系統安裝與藥品申請。"
+      "reason": "多項新藥開發取得進展，包括癌症與免疫學領域，但估值與舊產品銷售疑慮並存。"
     },
     {
       "symbol": "MA",
       "name": "Mastercard Incorporated",
-      "theme": "金融支付",
+      "theme": "支付服務",
       "changePercent": 1.9353144692944475,
-      "reason": "Wedbush分析師調升評級與目標價，並擴大跨境支付合作。"
+      "reason": "第三季財報表現亮眼，營收與EPS均超預期，並宣布與OpenAI合作。"
     },
     {
       "symbol": "MSTR",
       "name": "Strategy Inc Common Stock Class A",
       "theme": "比特幣/加密",
       "changePercent": 3.107672469374593,
-      "reason": "作為比特幣主要持股公司，股價受比特幣價格波動影響。"
+      "reason": "近期持續購入比特幣，並有分析師調升目標價，受加密貨幣題材帶動。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交值前段的資金流向主要集中在AI晶片、記憶體和AI軟體等科技題材。Nvidia（NVDA）和美光（MU）雖然成交金額最高，但股價卻呈現下跌，可能反映市場對AI相關股票短期漲幅過高進行獲利了結。Anthropic（ANT）和SpaceX（SPCX）等新興科技公司則逆勢上漲，顯示市場對其未來發展仍抱持期待。整體而言，AI領域仍是市場關注焦點，但投資人開始更加謹慎地評估個別公司的基本面和成長潛力。",
+    "highlights": "本日美股成交重點集中在AI晶片、記憶體、AI軟體等科技相關類股，Nvidia（NVDA）和美光（MU）的成交金額尤其突出，但兩者股價皆呈現下跌。市場對於AI投資的回報仍持觀望態度，高盛警告投資人需看到實際利潤，而非僅是資金投入。 儘管部分科技股下跌，但資金也輪動至醫療保健、日常消費和傳統零售股。 摩根士丹利認為美股拋售接近尾聲，未來幾週是加倉的好時機。",
     "eventsPast": [
       {
-        "title": "Nvidia 2027財年第三季財報亮眼",
-        "detail": "Nvidia（NVDA）於2026年11月17日公布2027財年第三季財報，營收達1158億美元，年增103%，資料中心業務營收年增110%，顯示AI晶片需求依然強勁。"
+        "title": "Fed維持利率不變，但通膨仍偏高",
+        "detail": "聯準會於10月29日決議維持聯邦基金利率在3.75%～4.00%不變，符合市場預期，但強調通膨依然偏高，未來政策走向仍需觀察。"
       },
       {
-        "title": "Meta Platforms 2026年第三季財報：營收強勁但獲利受成本影響",
-        "detail": "Meta Platforms（META）於2026年10月21日公布第三季財報，營收年增26.1%達646億美元，但因法律和解金與AI投資成本增加，導致營業利益下降。"
+        "title": "美光財報公布後股價大漲",
+        "detail": "美光（MU）在週三盤後公布財報，股價隨後大漲超過15%，顯示市場對其前景抱持樂觀態度。"
       },
       {
-        "title": "Alphabet 2026年第三季財報：雲端服務表現亮眼",
-        "detail": "Alphabet（GOOGL）於2026年10月28日公布第三季財報，總營收年增25%達1276億美元，其中Google Cloud營收年增103%達307億美元，主要受惠於企業AI基礎設施和解決方案的強勁需求。"
+        "title": "高盛警告AI投資需見實際利潤",
+        "detail": "高盛資產配置研究主管Christian Mueller-Glissmann警告，投資人需要看到企業對AI數十億美元的資金投入帶來實際利潤，現在還不是買入股票的時候。"
       },
       {
-        "title": "Amazon 2026年第三季財報：AWS成長加速但整體獲利受影響",
-        "detail": "Amazon（AMZN）於2026年10月29日公布第三季財報，淨銷售額年增12%達2019億美元，AWS淨銷售額增長39.3%，但整體淨利潤下降，部分原因為2025年同期Anthropic投資的稅前收益較高。"
+        "title": "SpaceX獲准部署百萬顆Starmind衛星",
+        "detail": "SpaceX（SPCX）獲准部署百萬顆Starmind衛星，守住120美元支撐。"
       },
       {
-        "title": "Micron Technology 2026財年第四季及全年財報創紀錄",
-        "detail": "Micron Technology（MU）於2026年9月30日公布2026財年第四季及全年財報，營收和每股盈餘均創歷史新高，主要受AI驅動的需求和強勁的營運執行所帶動。"
+        "title": "標普擬調降輝達信用評級",
+        "detail": "標普擬調降輝達（NVDA）信用評級，股價下探100美元大關風險升溫。"
       }
     ],
-    "eventsUpcoming": []
+    "eventsUpcoming": [
+      {
+        "date": "11/25",
+        "title": "美國GDP數據公布",
+        "detail": "美國將公布第三季國內生產毛額（GDP）數據，預計將對市場情緒產生影響。"
+      },
+      {
+        "date": "11/25",
+        "title": "美國PCE物價指數公布",
+        "detail": "美國將公布10月份個人消費支出（PCE）物價指數，這是聯準會偏好的通膨指標。"
+      },
+      {
+        "date": "12/04",
+        "title": "美國非農就業報告",
+        "detail": "美國將公布11月份就業報告，其中非農就業數據是衡量勞動市場健康的重要訊號。"
+      },
+      {
+        "date": "12/08-12/09",
+        "title": "FOMC會議",
+        "detail": "聯準會將召開為期兩天的聯邦公開市場委員會（FOMC）會議，討論貨幣政策。"
+      },
+      {
+        "date": "12/10",
+        "title": "FOMC利率決議與經濟預測",
+        "detail": "聯準會將公布FOMC利率決議、經濟預測摘要（SEP）與利率點陣圖，市場將密切關注其對未來利率走向的指引。"
+      }
+    ]
   }
 }
