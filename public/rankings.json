@@ -60,7 +60,7 @@
       "dollarVolume": 19155393785.264988,
       "marketCap": 5167353275560,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "消費電子",
+      "theme": "消費性電子",
       "isNew": false,
       "rankChange": 0,
       "streak": 181
@@ -138,7 +138,7 @@
       "dollarVolume": 11109630278.59165,
       "marketCap": 1608012800000.0002,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "AI 軟體",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": -1,
       "streak": 181
@@ -151,7 +151,7 @@
       "dollarVolume": 10039040479.188808,
       "marketCap": 1436194281183.9001,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網通晶片",
+      "theme": "網路通訊晶片",
       "isNew": false,
       "rankChange": -1,
       "streak": 181
@@ -190,7 +190,7 @@
       "dollarVolume": 7530133700.869811,
       "marketCap": 93702582827.28,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "PC/伺服器",
+      "theme": "伺服器/PC",
       "isNew": false,
       "rankChange": 2,
       "streak": 19
@@ -203,7 +203,7 @@
       "dollarVolume": 7455279475.821531,
       "marketCap": 1511797420000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "AI 軟體",
+      "theme": "雲端服務",
       "isNew": false,
       "rankChange": 0,
       "streak": 181
@@ -294,7 +294,7 @@
       "dollarVolume": 3576059182.0222945,
       "marketCap": 114812517000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網通晶片",
+      "theme": "網路通訊晶片",
       "isNew": false,
       "rankChange": -2,
       "streak": 171
@@ -450,7 +450,7 @@
       "dollarVolume": 2717134111.5775585,
       "marketCap": 45202951181.21,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "潔淨能源",
+      "theme": "燃料電池",
       "isNew": false,
       "rankChange": 9,
       "streak": 61
@@ -528,7 +528,7 @@
       "dollarVolume": 2499944730.6754713,
       "marketCap": 813252656716.0801,
       "sector": "FIRE, MARINE & CASUALTY INSURANCE",
-      "theme": "多元控股",
+      "theme": "綜合保險",
       "isNew": false,
       "rankChange": -4,
       "streak": 18
@@ -619,7 +619,7 @@
       "dollarVolume": 2299808806.7061462,
       "marketCap": 180466200000,
       "sector": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
-      "theme": "手機晶片",
+      "theme": "無線通訊晶片",
       "isNew": false,
       "rankChange": -8,
       "streak": 5
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-11-25T20:00:00.000Z",
-  "generatedAt": "2026-11-27T02:07:30.043Z",
+  "generatedAt": "2026-11-27T10:35:28.139Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "類比IC",
-      "reason": "類比IC在AI、電動車等新興應用中扮演關鍵角色，市場對其未來成長性抱持樂觀態度。",
+      "reason": "在半導體產業中，類比IC因其在電源管理、感測器介面等領域的關鍵作用，持續受到市場關注。",
       "symbols": [
         "ADI",
         "TXN"
@@ -668,7 +668,7 @@
     },
     {
       "theme": "支付服務",
-      "reason": "隨著全球數位支付的普及，支付服務公司持續受惠於交易量的增長。",
+      "reason": "隨著數位支付的普及和電子商務的發展，支付服務公司持續受惠於交易量的增長。",
       "symbols": [
         "V",
         "MA"
@@ -678,7 +678,7 @@
     },
     {
       "theme": "AI 軟體",
-      "reason": "AI技術的快速發展持續推動相關軟體應用需求，市場對其商業化前景充滿期待。",
+      "reason": "人工智慧技術的快速發展，帶動了相關軟體應用和服務的需求，吸引資金投入。",
       "symbols": [
         "ANT",
         "PLTR"
@@ -688,7 +688,7 @@
     },
     {
       "theme": "資安",
-      "reason": "網路攻擊事件頻傳，企業及個人對資安防護的需求日益增加，帶動資安產業成長。",
+      "reason": "網路攻擊日益頻繁，企業對資訊安全的需求持續增加，推動資安解決方案供應商的成長。",
       "symbols": [
         "PANW"
       ],
@@ -697,7 +697,7 @@
     },
     {
       "theme": "比特幣/加密",
-      "reason": "比特幣價格波動與市場情緒影響相關概念股表現。",
+      "reason": "加密貨幣市場波動，但相關概念股仍受部分投資者青睞，反映對數位資產的興趣。",
       "symbols": [
         "MSTR"
       ],
@@ -705,13 +705,13 @@
       "avgChange": 3.107672469374593
     },
     {
-      "theme": "太空科技",
-      "reason": "太空探索與商業化應用持續吸引投資者目光，相關公司表現受關注。",
+      "theme": "消費性電子",
+      "reason": "儘管市場競爭激烈，但具備品牌優勢和創新能力的消費性電子巨頭仍能吸引資金。",
       "symbols": [
-        "SPCX"
+        "AAPL"
       ],
       "count": 1,
-      "avgChange": 1.2956044829504771
+      "avgChange": 0.4264693422204623
     }
   ],
   "newEntrants": [
@@ -720,86 +720,86 @@
       "name": "ExxonMobil Holdings Corporation",
       "theme": "石油天然氣",
       "changePercent": -0.09479871073751961,
-      "reason": "近期完成17.6億美元債務要約收購，並有分析師調升評級與油價上漲支撐。"
+      "reason": "沙烏地阿拉伯能源資產和航運路線的安全風險，加上安哥拉油田40億美元投資案獲批。"
     },
     {
       "symbol": "HD",
       "name": "Home Depot, Inc.",
       "theme": "居家修繕零售",
       "changePercent": 2.140292346405042,
-      "reason": "近期宣布新CEO任命，並公布優於預期的第三季財報與財測。"
+      "reason": "宣布新任執行長Richard McPhail將於11月23日上任，並將出席Morgan Stanley會議。"
     },
     {
       "symbol": "JNJ",
       "name": "Johnson & Johnson",
       "theme": "生技製藥",
       "changePercent": -0.9115242711422925,
-      "reason": "近期公布第三季財報優於預期，並宣布收購Ollin Biosciences。"
+      "reason": "多項藥物臨床試驗數據積極，包括前列腺癌、乾癬性關節炎等，並獲FDA加速批准新藥。"
     },
     {
       "symbol": "MA",
       "name": "Mastercard Incorporated",
       "theme": "支付服務",
       "changePercent": 1.9353144692944475,
-      "reason": "與新加坡Debia簽署合作備忘錄，測試AI代理商務，並獲機構買盤支撐。"
+      "reason": "與Debia合作在東南亞測試AI代理商務，結合AI與支付服務。"
     },
     {
       "symbol": "MSTR",
       "name": "Strategy Inc Common Stock Class A",
       "theme": "比特幣/加密",
       "changePercent": 3.107672469374593,
-      "reason": "近期持續買入比特幣，並提高數位信用證券回購上限。"
+      "reason": "比特幣價格下跌，MicroStrategy股價創紀錄折價，引發市場悲觀情緒。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點集中在AI晶片、記憶體和AI軟體等科技股，但多數呈現下跌，顯示市場對AI相關投資的獲利兌現仍有疑慮。Nvidia (NVDA) 和 Micron Technology (MU) 等晶片股成交量領先，但跌幅較深，可能反映了投資者在近期大漲後獲利了結的心態。同時，市場對聯準會（Fed）可能維持高利率甚至進一步升息的擔憂，也對科技股的估值造成壓力。",
+    "highlights": "本日美股成交重點聚焦於AI相關個股，資金主要集中在AI晶片、AI軟體和記憶體等領域，但整體市場情緒偏向謹慎。Nvidia（NVDA）和美光（MU）等AI晶片與記憶體股領跌，主要受到AI產業高槓桿債務風險、標普對Nvidia的負面觀察以及高盛對AI拋售尚未見底的提示影響。Anthropic（ANT）在盤中一度下跌後逆勢轉漲，顯示有抄底資金介入，並受SpaceX低價轉租H200晶片的消息影響，引發對算力供需的討論。",
     "eventsPast": [
       {
-        "title": "美國第三季GDP上修，通膨壓力仍高",
-        "detail": "美國經濟分析局於11月25日公布，第三季國內生產毛額（GDP）年化成長率上修，主要來自投資與消費支出，其中智慧財產產品（尤其是軟體）的投資上修幅度最大。 同時，聯準會重視的核心PCE物價指數年增率仍高於市場預期，顯示通膨壓力持續。"
+        "title": "AI巨頭債務風險集中爆發，Nvidia遭標普負面觀察",
+        "detail": "標普將Nvidia的發行人信用評級及高級無抵押債務評級列入負面觀察名單，可能在90天內下調，引發AI產業鏈高槓桿債務的信用定價瓦解，Nvidia股價下跌3.91%。"
       },
       {
-        "title": "聯準會官員暗示AI投資潮恐引發經濟過熱",
-        "detail": "芝加哥聯準銀行總裁古爾斯比（Austan Goolsbee）於11月19日發表偏鷹談話，直指通膨未見回落且AI投資潮恐引發經濟過熱，這使得12月升息預期急劇升溫。"
+        "title": "美光科技領跌半導體板塊",
+        "detail": "美光科技（MU）下跌4.53%，主要受AI硬體整體回調影響，高盛策略師提示AI拋售尚未見底，HBM與DRAM估值進入消化階段。"
       },
       {
-        "title": "高盛警告美股尚未到抄底時機",
-        "detail": "高盛資產配置研究主管Christian Mueller-Glissmann表示，投資人需要看到企業對AI數十億美元的資金投入帶來實際利潤，目前市場倉位尚未降到歷史上通常宣告觸底的水平，顯示尚未到真正的底部區域。"
+        "title": "Anthropic股價盤中反轉，受CEO表態與SpaceX消息影響",
+        "detail": "Anthropic（ANT）盤中一度下跌6.5%，後因CEO Dario Amodei公開表態回應爭議，以及SpaceX低價轉租Anthropic退還的H200晶片，引發算力供需討論，股價最終收漲1.08%。"
       },
       {
-        "title": "Nvidia據稱已暫停向東南亞交付晶片",
-        "detail": "有報導指出，Nvidia已暫停向東南亞交付晶片。"
+        "title": "AMD受半導體板塊回落與AI晶片限制影響",
+        "detail": "AMD下跌1.75%，主要受半導體板塊回落影響，且AI伺服器交付前因零部件成本上漲而提價，加上美國收緊對華AI晶片獲取限制，壓制板塊情緒。"
       },
       {
-        "title": "美股感恩節休市",
-        "detail": "美股於11月24日（週四）因感恩節休市一日。"
+        "title": "SpaceX獲批部署百萬衛星，太空算力新敘事浮現",
+        "detail": "SpaceX（SPCX）獲FCC批准部署至多100萬顆衛星開展AI計算，股價逆勢上漲1.30%，並被曝下調Blackwell集群租金與低價轉租H200晶片，形成太空算力新敘事。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "12/4",
-        "title": "美國就業報告（非農就業）",
-        "detail": "此為衡量勞動市場健康的重要訊號，可能影響聯準會的貨幣政策決策。"
+        "date": "12月",
+        "title": "Nvidia華盛頓GTC與黃仁勳國會聽證",
+        "detail": "Nvidia將在12月舉行華盛頓GTC大會，執行長黃仁勳也將出席國會聽證，市場關注其戰略方向、業績指引及AI晶片需求前景。"
       },
       {
-        "date": "12/8-9",
-        "title": "FOMC會議",
-        "detail": "聯準會將召開利率決策會議，市場將密切關注其對通膨、經濟和未來利率政策的看法。"
+        "date": "12月",
+        "title": "特斯拉年度股東大會",
+        "detail": "特斯拉（TSLA）將在12月舉行年度股東大會，預期將公布重要策略與未來展望。"
       },
       {
-        "date": "12/9",
-        "title": "FOMC利率決議",
-        "detail": "聯準會將公布最新的利率決策與政策聲明，並可能發布經濟預測摘要（SEP）與利率點陣圖。"
+        "date": "12月",
+        "title": "美聯儲年內收官議息會議",
+        "detail": "美聯儲將召開年內最後一次議息會議，利率決策將影響市場流動性與投資者風險偏好。"
       },
       {
-        "date": "12/10",
-        "title": "美國消費者物價指數（CPI）",
-        "detail": "此為衡量通膨速度的重要指標，將影響市場對聯準會升息路徑的預期。"
+        "date": "12月",
+        "title": "博通、美光等AI鏈核心財報",
+        "detail": "博通（AVGO）和美光（MU）等AI產業鏈核心公司將公布財報，其業績表現與財測將牽動半導體板塊投資情緒。"
       },
       {
-        "date": "12/15",
-        "title": "美國生產者物價指數（PPI）",
-        "detail": "此為衡量生產者端物價變化的指標，可作為判斷未來通膨趨勢的參考。"
+        "date": "12月",
+        "title": "非農、CPI、PCE等宏觀數據公布",
+        "detail": "12月將陸續公布非農就業數據、消費者物價指數（CPI）和個人消費支出（PCE）等重要經濟數據，將影響聯準會未來的貨幣政策路徑。"
       }
     ]
   }
