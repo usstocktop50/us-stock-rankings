@@ -138,7 +138,7 @@
       "dollarVolume": 6195143571.39398,
       "marketCap": 1618964480000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "AI 軟體",
+      "theme": "AI 軟體/雲端服務",
       "isNew": false,
       "rankChange": 0,
       "streak": 182
@@ -190,7 +190,7 @@
       "dollarVolume": 3810170967.492201,
       "marketCap": 1519942760000,
       "sector": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
-      "theme": "AI 軟體",
+      "theme": "AI 軟體/雲端服務",
       "isNew": false,
       "rankChange": 1,
       "streak": 182
@@ -216,7 +216,7 @@
       "dollarVolume": 2885860422.887047,
       "marketCap": 99979703268.48,
       "sector": "ELECTRONIC COMPUTERS",
-      "theme": "PC/伺服器",
+      "theme": "AI 伺服器",
       "isNew": false,
       "rankChange": -2,
       "streak": 20
@@ -229,7 +229,7 @@
       "dollarVolume": 2566639144.2509823,
       "marketCap": 396113813853.93,
       "sector": "SERVICES-PREPACKAGED SOFTWARE",
-      "theme": "AI 軟體",
+      "theme": "AI 數據分析",
       "isNew": false,
       "rankChange": 7,
       "streak": 182
@@ -242,7 +242,7 @@
       "dollarVolume": 2526854055.427073,
       "marketCap": 123239526000,
       "sector": "SEMICONDUCTORS & RELATED DEVICES",
-      "theme": "網通晶片",
+      "theme": "資料中心網路",
       "isNew": false,
       "rankChange": 4,
       "streak": 172
@@ -333,7 +333,7 @@
       "dollarVolume": 1772544706.9142833,
       "marketCap": 19633346772.48,
       "sector": "—",
-      "theme": "雲端軟體 SaaS",
+      "theme": "AI 軟體",
       "isNew": false,
       "rankChange": 2,
       "streak": 107
@@ -372,7 +372,7 @@
       "dollarVolume": 1614657426.4878275,
       "marketCap": 48197953440.78001,
       "sector": "ELECTRICAL INDUSTRIAL APPARATUS",
-      "theme": "氫能源",
+      "theme": "潔淨能源",
       "isNew": false,
       "rankChange": 6,
       "streak": 62
@@ -385,7 +385,7 @@
       "dollarVolume": 1584584254.4849055,
       "marketCap": 740764714235.4,
       "sector": "SERVICES-BUSINESS SERVICES, NEC",
-      "theme": "支付服務",
+      "theme": "金融支付",
       "isNew": false,
       "rankChange": 3,
       "streak": 36
@@ -652,13 +652,13 @@
     }
   ],
   "asOf": "2026-11-27T20:00:00.000Z",
-  "generatedAt": "2026-11-28T08:38:23.178Z",
+  "generatedAt": "2026-11-28T10:49:38.303Z",
   "source": "polygon",
   "aiSource": "gemini",
   "themeSummary": [
     {
       "theme": "AI 晶片",
-      "reason": "AI 需求持續強勁，市場對 AI 晶片供應商的營收成長抱持高度期待。",
+      "reason": "AI 晶片需求持續強勁，市場對其未來成長潛力抱持高度期待，帶動相關供應商股價上漲。",
       "symbols": [
         "NVDA",
         "AMD",
@@ -668,32 +668,8 @@
       "avgChange": 3.0571858681275734
     },
     {
-      "theme": "AI 軟體",
-      "reason": "生成式 AI 應用不斷擴展，帶動相關軟體服務提供商的營收增長潛力。",
-      "symbols": [
-        "ANT",
-        "GOOGL",
-        "PLTR",
-        "GOOG"
-      ],
-      "count": 4,
-      "avgChange": 4.361065156933231
-    },
-    {
-      "theme": "雲端軟體 SaaS",
-      "reason": "企業數位轉型趨勢不變，雲端軟體服務持續受惠於訂閱模式的穩定收入。",
-      "symbols": [
-        "MSFT",
-        "CRWV",
-        "NBIS",
-        "ORCL"
-      ],
-      "count": 4,
-      "avgChange": 3.173897419166367
-    },
-    {
       "theme": "記憶體",
-      "reason": "AI 伺服器對高頻寬記憶體（HBM）需求激增，推動記憶體產業復甦。",
+      "reason": "記憶體市場景氣復甦，HBM 等高階記憶體需求旺盛，推動相關廠商股價表現亮眼。",
       "symbols": [
         "MU",
         "SKHY"
@@ -703,7 +679,7 @@
     },
     {
       "theme": "儲存裝置",
-      "reason": "數據量爆炸性增長，對高效能儲存解決方案的需求持續提升。",
+      "reason": "數據儲存需求增長，加上產業供應鏈改善，帶動儲存裝置相關個股上漲。",
       "symbols": [
         "SNDK",
         "WDC",
@@ -713,8 +689,20 @@
       "avgChange": 10.36062689091463
     },
     {
+      "theme": "AI 軟體",
+      "reason": "AI 技術應用日益廣泛，市場看好AI軟體服務的發展前景，吸引資金流入。",
+      "symbols": [
+        "ANT",
+        "GOOGL",
+        "GOOG",
+        "NBIS"
+      ],
+      "count": 4,
+      "avgChange": 4.364720887393492
+    },
+    {
       "theme": "半導體設備",
-      "reason": "全球晶圓廠擴建及技術升級，帶動半導體製造設備的需求。",
+      "reason": "全球半導體產業擴張，資本支出增加，推升半導體設備供應商的股價。",
       "symbols": [
         "AMAT",
         "LRCX",
@@ -723,6 +711,17 @@
       ],
       "count": 4,
       "avgChange": 3.58722672211415
+    },
+    {
+      "theme": "雲端軟體 SaaS",
+      "reason": "企業數位轉型趨勢不變，雲端軟體服務需求持續增長，相關公司營收展望樂觀。",
+      "symbols": [
+        "MSFT",
+        "CRWV",
+        "ORCL"
+      ],
+      "count": 3,
+      "avgChange": 2.478715796445849
     }
   ],
   "newEntrants": [
@@ -731,83 +730,88 @@
       "name": "Coherent Corp.",
       "theme": "光學元件",
       "changePercent": 14.067995310668227,
-      "reason": "受惠於AI資料中心對光學元件的強勁需求，並獲得CHIPS法案資金及NVIDIA投資。"
+      "reason": "受惠於AI樂觀情緒、強勁財報與財測，以及董事大額買進股票提振。"
     },
     {
       "symbol": "WDC",
       "name": "Western Digital Corp.",
       "theme": "儲存裝置",
       "changePercent": 7.216002936318599,
-      "reason": "受惠於AI帶動的儲存需求，儘管近期股價波動，基本面仍強勁。"
+      "reason": "受惠於強勁的季度財報與財測，以及新獲得的15億美元信貸額度。"
     },
     {
       "symbol": "STX",
       "name": "Seagate Technology Holdings PLC Ordinary Shares (Ireland)",
       "theme": "儲存裝置",
       "changePercent": 7.903372642008774,
-      "reason": "受惠於AI對資料儲存解決方案的強勁需求，分析師看好其在AI基礎設施的關鍵作用。"
+      "reason": "受惠於強勁的季度財報、上調財測，以及AI儲存需求增長。"
     },
     {
       "symbol": "KLAC",
       "name": "KLA Corporation Common Stock",
       "theme": "半導體設備",
       "changePercent": 4.962742175856949,
-      "reason": "分析師上調評級及目標價，認為其在AI基礎設施投資中具潛力。"
+      "reason": "受惠於半導體產業強勁動能、AI基礎設施支出增加，以及分析師調升評級。"
     },
     {
       "symbol": "ABBV",
       "name": "ABBVIE INC.",
       "theme": "生技製藥",
       "changePercent": -0.8829122521054137,
-      "reason": "近期無明確個股消息，可能受族群輪動帶動。"
+      "reason": "受惠於新免疫藥物Skyrizi和Rinvoq銷售強勁，以及腫瘤業務重回增長。"
     },
     {
       "symbol": "CAT",
       "name": "Caterpillar Inc.",
       "theme": "重型機械",
       "changePercent": 3.3199065644025,
-      "reason": "受惠於AI自主設備加速發展，擴大自動化運輸合作夥伴關係。"
+      "reason": "受惠於第三季獲利能力改善、強勁的銷售增長，以及分析師看好2027年展望。"
     }
   ],
   "marketBriefing": {
-    "highlights": "本日美股成交重點聚焦於AI晶片、記憶體及儲存裝置等科技類股，資金在經歷前幾日的震盪後，出現顯著回流與反彈。SpaceX獲得美國聯邦通訊委員會批准部署百萬顆衛星，用於建設太空資料中心，為AI算力需求提供新的想像空間，帶動太空科技概念股上漲。此外，Nvidia執行長黃仁勳的復職消息，也為AI晶片市場注入一劑強心針，促使相關個股如Nvidia、AMD、AVGO等反彈。然而，市場對記憶體與儲存裝置的供給過剩疑慮仍存，部分分析師下調了美光和Sandisk的目標價，顯示資金在追逐AI熱潮的同時，也對產業基本面保持謹慎。",
+    "highlights": "本日美股成交重點聚焦於AI相關族群的超跌反彈與資金輪動。在經歷前期的拋售後，記憶體、儲存裝置和部分AI軟體股呈現強勁漲勢，例如SNDK暴漲近16%，MU也上漲超過7%。 儘管Nvidia（NVDA）成交金額仍居冠，但漲幅相對較小，顯示資金正從前期漲幅較大的晶片股轉向回補超跌且具備護城河的軟體與儲存設備股。市場故事從單純的「算力信仰」轉變為更注重企業能否將AI轉化為實際收入與現金流，以及在美中科技戰和監管壓力下的供應鏈韌性。",
     "eventsPast": [
       {
-        "title": "Nvidia執行長黃仁勳復職",
-        "detail": "Nvidia於11月23日宣布，創辦人黃仁勳即日起恢復擔任執行長、總裁及董事職務，此消息帶動Nvidia股價在盤前交易中上漲近30%。"
+        "title": "AI晶片出口管制升級與Nvidia出貨暫停",
+        "detail": "美國擴大高階AI晶片出口管制，Nvidia已要求代工與系統廠停止向東南亞四國（新加坡、馬來西亞、泰國、印尼）出貨搭載其晶片的伺服器，以防中國企業透過轉口取得高階AI運算能力。此舉預示AI基礎建設版圖可能出現「區域性斷層」。"
       },
       {
-        "title": "SpaceX獲准部署百萬顆衛星建太空資料中心",
-        "detail": "美國聯邦通訊委員會（FCC）於11月27日授權SpaceX發射100萬顆衛星，用於建設「Starmind」太空資料中心，此舉被視為馬斯克太空算力計畫的一大進展。"
+        "title": "Anthropic股價劇烈震盪",
+        "detail": "新上市的AI實驗室Anthropic（ANT）在上市後股價劇烈震盪，曾跌破IPO發行價，但隨後強力拉回，顯示投資人對高估值卻步，但仍不願錯過可能的AI明日之星，且市場關注其納入指數可能帶來的被動買盤。"
       },
       {
-        "title": "美光遭分析師下調評級與目標價",
-        "detail": "法國巴黎銀行分析師於11月25日將美光（MU）評級從「優於大盤」下調至「中立」，並將目標價從1,700美元大幅削減至775美元，警告記憶體晶片供給過剩風險正在升高。"
+        "title": "美股科技股經歷大幅修正",
+        "detail": "過去45天內，美股總市值蒸發逾6兆美元，科技與半導體族群成為重災區，反映市場對AI資本支出過熱與估值泡沫的恐慌調整，儘管部分公司基本面表現仍佳，但股價逆勢而行。"
       },
       {
-        "title": "Sandisk股價重挫後反彈",
-        "detail": "Sandisk（SNDK）在經歷分析師下調目標價及市場對AI需求疑慮的拋售後，於11月27日感恩節縮短交易時段反彈上漲約13%。"
+        "title": "AI資金從晶片轉向軟體與儲存設備",
+        "detail": "市場資金正在從自由現金流被大舉消耗的雲端CSP巨頭，轉向現金流量暴增的半導體與「企業級儲存設備」廠商，以及具備專有數據、深度客戶黏著與領域知識的AI軟體公司，顯示市場對AI投資的篩選標準更趨嚴格，從「算力信仰」轉向「護城河篩選」。"
       },
       {
-        "title": "微軟爆發24小時大當機並啟動「紅色警戒」",
-        "detail": "微軟（MSFT）於11月12日至13日發生長達24小時的大規模服務中斷，影響Exchange Online、Outlook、Teams等服務，公司已啟動「紅色警戒」全面檢討並力拚未來重大故障在一小時內恢復。"
+        "title": "OpenAI反訴蘋果竊取商業機密",
+        "detail": "OpenAI反訴蘋果竊取商業機密，指控蘋果施壓供應商並阻撓硬體合作，這項消息可能影響AI軟體與消費性電子領域的競爭格局。"
       }
     ],
     "eventsUpcoming": [
       {
-        "date": "12/9",
-        "title": "Broadcom財報公布",
-        "detail": "Broadcom（AVGO）將於12月9日公布財報，市場將密切關注其季度指引與客戶訂單細節，特別是AI晶片需求能否維持到2028年以及在關鍵客戶（如谷歌）的競爭地位。"
+        "date": "本週五",
+        "title": "美國11月就業報告",
+        "detail": "美國將公布11月就業報告，此為聯準會（Fed）12月決策會議前最重要的經濟數據，可能影響市場對升息路徑的預期。"
       },
       {
-        "date": "未來幾週",
-        "title": "黃仁勳國會聽證會",
-        "detail": "Nvidia執行長黃仁勳將在民主黨主導的國會面前接受一系列公開與閉門聽證，說明Nvidia晶片流向與開源模型策略，這可能成為美國AI監管藍圖的試金石。"
+        "date": "下週",
+        "title": "黃仁勳國會作證",
+        "detail": "Nvidia執行長黃仁勳預計於12月3日赴美國參議院銀行委員會，就出口管制議題作證，這將是市場關注的焦點，可能影響AI晶片產業的政策走向。"
       },
       {
-        "date": "2027/1/12前",
-        "title": "英特爾股東集體訴訟聲請截止",
-        "detail": "英特爾（INTC）因被指控延遲揭露PC銷售放緩與通路庫存過剩對營收的衝擊，遭股東提起證券集體訴訟，有意擔任首席原告的投資人須在2027年1月12日前向法院提出聲請。"
+        "date": "下週",
+        "title": "Marvell（MRVL）財報",
+        "detail": "Marvell將公布財報，其表現將考驗AI晶片與半導體設備族群的反彈能否延續。"
+      },
+      {
+        "date": "下週",
+        "title": "Salesforce（CRM）財報",
+        "detail": "Salesforce將公布財報，其表現將考驗AI軟體與雲端軟體SaaS族群的反彈能否延續，並提供市場對AI應用變現能力的線索。"
       }
     ]
   }
